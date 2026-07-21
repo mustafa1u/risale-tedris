@@ -34,6 +34,8 @@ describe("book search island source contract", () => {
     assert.match(source, /parseSearchUrlState/);
     assert.match(source, /transferSearchContext/);
     assert.match(source, /serializeSearchUrlState/);
+    assert.match(source, /replaceSearchUrlState/);
+    assert.doesNotMatch(source, /pushState/);
     assert.match(source, /availableBookSlugs/);
     assert.match(source, /text\.search\.actions\.globalSearch/);
     assert.match(source, /data-global-search-action/);

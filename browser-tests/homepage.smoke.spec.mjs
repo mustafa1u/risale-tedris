@@ -173,6 +173,47 @@ test("loads a newly selected book provisionally and reuses its cached shard", as
   expect(secondShardRequests).toBe(1);
 });
 
+test("keeps live search state in one replaceable URL and restores it on refresh", async ({ page }) => {
+  await page.goto("/");
+  const initialHistoryLength = await page.evaluate(() => history.length);
+  await page.locator("[data-global-search-trigger]").click();
+  await page.getByText("Tam ifade", { exact: true }).click();
+  await page.getByText("Parça numaraları", { exact: true }).click();
+  await page.locator("[data-global-search-input]").fill("iman nur");
+
+  await expect(page).toHaveURL(
+    /\?q=iman\+nur&context=global&books=ayetul-kubra%2Ckucuk-sozler%2Cmeyve-risalesi%2Ctabiat-risalesi&mode=exact&scope=text%2Ctitle&distance=5$/
+  );
+  expect(await page.evaluate(() => history.length)).toBe(initialHistoryLength);
+
+  await page.reload();
+  await expect(page.locator("[data-global-search-input]")).toHaveValue("iman nur");
+  await expect(page.getByRole("radio", { name: "Tam ifade" })).toBeChecked();
+  await expect(page.getByRole("checkbox", { name: "Parça numaraları" })).not.toBeChecked();
+  await expect(page.locator('[data-search-status="ready"]')).toBeVisible({ timeout: 20_000 });
+});
+
+test("restores homepage search through result navigation Back and Forward", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("[data-global-search-trigger]").click();
+  await page.locator("[data-global-search-input]").fill("iman");
+  const resultLink = page.locator("[data-search-result-link]").first();
+  await expect(resultLink).toBeVisible({ timeout: 20_000 });
+  const searchUrl = page.url();
+
+  await resultLink.click();
+  await expect(page).toHaveURL(/\/books\/[a-z0-9-]+\/parts\/p\d+\/$/);
+  await page.goBack();
+  await expect(page).toHaveURL(searchUrl);
+  await expect(page.locator("[data-global-search-input]")).toHaveValue("iman");
+  await expect(page.locator("[data-search-result-link]").first()).toBeVisible({ timeout: 20_000 });
+
+  await page.goForward();
+  await expect(page).toHaveURL(/\/books\/[a-z0-9-]+\/parts\/p\d+\/$/);
+  await page.goBack();
+  await expect(page.locator("[data-global-search-input]")).toHaveValue("iman");
+});
+
 test.describe("without search JavaScript", () => {
   test.use({ javaScriptEnabled: false });
 

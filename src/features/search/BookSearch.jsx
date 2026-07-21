@@ -12,7 +12,11 @@ import {
   searchReducer,
   transferSearchContext
 } from "./searchState.js";
-import { parseSearchUrlState, serializeSearchUrlState } from "./searchUrlState.js";
+import {
+  parseSearchUrlState,
+  replaceSearchUrlState,
+  serializeSearchUrlState
+} from "./searchUrlState.js";
 import { createSearchWorkerClient } from "./searchWorkerClient.js";
 
 const MAX_RESULTS = 200;
@@ -141,6 +145,7 @@ export default function BookSearch({
     const nextState = searchReducer(stateRef.current, action);
     stateRef.current = nextState;
     dispatch(action);
+    replaceSearchUrlState(nextState);
     if (!readyRef.current) {
       if (status === "error") presentMetadataFallback(nextState);
       return nextState;
@@ -169,6 +174,7 @@ export default function BookSearch({
     stateRef.current = nextState;
     dispatch({ type: "set-mode", mode: "boolean" });
     dispatch({ type: "set-query", query });
+    replaceSearchUrlState(nextState);
     if (readyRef.current) schedulerRef.current.schedule(nextState);
   }
 

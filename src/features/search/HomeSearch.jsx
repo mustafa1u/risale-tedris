@@ -13,7 +13,11 @@ import {
   searchReducer,
   transferSearchContext
 } from "./searchState.js";
-import { parseSearchUrlState, serializeSearchUrlState } from "./searchUrlState.js";
+import {
+  parseSearchUrlState,
+  replaceSearchUrlState,
+  serializeSearchUrlState
+} from "./searchUrlState.js";
 import { createSearchWorkerClient } from "./searchWorkerClient.js";
 
 const MAX_RESULTS = 50;
@@ -133,6 +137,7 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     const nextState = searchReducer(stateRef.current, action);
     stateRef.current = nextState;
     dispatch(action);
+    replaceSearchUrlState(nextState);
     if (!readyRef.current) return nextState;
     if (timing === "debounced") {
       schedulerRef.current.schedule(nextState);
@@ -147,6 +152,7 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     const nextState = searchReducer(previousState, action);
     stateRef.current = nextState;
     dispatch(action);
+    replaceSearchUrlState(nextState);
     if (nextState !== previousState && readyRef.current) {
       void syncSelectedBooks(nextState);
     }
@@ -169,6 +175,7 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     stateRef.current = nextState;
     dispatch({ type: "set-mode", mode: "boolean" });
     dispatch({ type: "set-query", query });
+    replaceSearchUrlState(nextState);
     if (readyRef.current) schedulerRef.current.schedule(nextState);
   }
 
@@ -296,6 +303,7 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     const nextState = searchReducer(stateRef.current, { type: "set-query", query: "" });
     stateRef.current = nextState;
     dispatch({ type: "set-query", query: "" });
+    replaceSearchUrlState(nextState);
     schedulerRef.current.clear(nextState);
     setResults([]);
     setTotal(0);

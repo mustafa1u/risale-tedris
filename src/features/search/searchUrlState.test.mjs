@@ -3,7 +3,11 @@ import { readFile } from "node:fs/promises";
 import { describe, it } from "node:test";
 
 import { createBookSearchState, createGlobalSearchState } from "./searchState.js";
-import { parseSearchUrlState, serializeSearchUrlState } from "./searchUrlState.js";
+import {
+  parseSearchUrlState,
+  replaceSearchUrlState,
+  serializeSearchUrlState
+} from "./searchUrlState.js";
 
 const availableBookSlugs = ["ayetul-kubra", "meyve-risalesi", "tabiat-risalesi"];
 const availableGradeSlugs = ["2-sinif", "8-sinif", "11-sinif"];
@@ -69,5 +73,34 @@ describe("search URL state", () => {
     const source = await readFile(new URL("./searchUrlState.js", import.meta.url), "utf8");
 
     assert.doesNotMatch(source, /localStorage/);
+  });
+
+  it("replaces the current path URL canonically while preserving history state and hash", () => {
+    const state = {
+      ...createGlobalSearchState(availableBookSlugs),
+      query: "iman nur",
+      selectedBookSlugs: ["meyve-risalesi"]
+    };
+    const calls = [];
+    const currentHistoryState = { scroll: 480 };
+    const historyImpl = {
+      state: currentHistoryState,
+      replaceState(...args) {
+        calls.push(args);
+      }
+    };
+
+    assert.equal(
+      replaceSearchUrlState(state, {
+        historyImpl,
+        locationImpl: { pathname: "/library/", hash: "#results" }
+      }),
+      "/library/?q=iman+nur&context=global&books=meyve-risalesi&mode=all&scope=text%2Ctitle%2CpartNo&distance=5#results"
+    );
+    assert.deepEqual(calls, [[
+      currentHistoryState,
+      "",
+      "/library/?q=iman+nur&context=global&books=meyve-risalesi&mode=all&scope=text%2Ctitle%2CpartNo&distance=5#results"
+    ]]);
   });
 });

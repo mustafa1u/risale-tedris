@@ -68,6 +68,23 @@ export function serializeSearchUrlState(state) {
   return params.toString();
 }
 
+export function replaceSearchUrlState(state, {
+  historyImpl = globalThis.history,
+  locationImpl = globalThis.location
+} = {}) {
+  if (typeof historyImpl?.replaceState !== "function" || !locationImpl) {
+    return null;
+  }
+
+  const pathname = typeof locationImpl.pathname === "string" && locationImpl.pathname
+    ? locationImpl.pathname
+    : "/";
+  const hash = typeof locationImpl.hash === "string" ? locationImpl.hash : "";
+  const nextUrl = `${pathname}?${serializeSearchUrlState(state)}${hash}`;
+  historyImpl.replaceState(historyImpl.state ?? null, "", nextUrl);
+  return nextUrl;
+}
+
 export function parseSearchUrlState(input, {
   availableBookSlugs,
   availableGradeSlugs = [],

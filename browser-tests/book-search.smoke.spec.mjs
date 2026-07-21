@@ -67,4 +67,11 @@ test("restores global result state in fixed-book context and offers explicit bro
     "href",
     /^\/?\?q=iman&context=global&books=ayetul-kubra%2Ckucuk-sozler%2Cmeyve-risalesi%2Ctabiat-risalesi&mode=exact&scope=text%2Ctitle&distance=5$/
   );
+
+  await page.goBack();
+  await expect(page.locator("[data-global-search-input]")).toHaveValue("iman");
+  await expect(page.getByRole("radio", { name: "Tam ifade" })).toBeChecked();
+  await page.goForward();
+  await expect(page.locator("[data-book-search-input]")).toHaveValue("iman");
+  await expect(page.locator(".search-book-filter")).toHaveCount(0);
 });
