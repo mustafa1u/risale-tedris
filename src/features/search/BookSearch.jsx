@@ -9,11 +9,27 @@ import { createSearchShardLoader } from "./searchShardLoader.js";
 import {
   canToggleSearchScope,
   createBookSearchState,
-  searchReducer
+  searchReducer,
+  transferSearchContext
 } from "./searchState.js";
+import { parseSearchUrlState, serializeSearchUrlState } from "./searchUrlState.js";
 import { createSearchWorkerClient } from "./searchWorkerClient.js";
 
 const MAX_RESULTS = 200;
+
+function createInitialBookSearchState({ book, grades, availableBookSlugs, urlSearch }) {
+  try {
+    const parsed = parseSearchUrlState(urlSearch, {
+      availableBookSlugs,
+      availableGradeSlugs: grades.map((grade) => grade.slug),
+      currentBookSlug: book.slug
+    });
+    if (parsed.context === "book" && parsed.currentBookSlug === book.slug) return parsed;
+    return transferSearchContext(parsed, { context: "book", currentBookSlug: book.slug });
+  } catch {
+    return createBookSearchState(book.slug);
+  }
+}
 
 function toWorkerRequest(state, book) {
   return {
@@ -37,10 +53,22 @@ function SearchIcon() {
   );
 }
 
-export default function BookSearch({ locale, book, grades, root = globalThis.document }) {
+export default function BookSearch({
+  locale,
+  book,
+  grades,
+  availableBookSlugs,
+  globalSearchUrl,
+  root = globalThis.document
+}) {
   const text = getUi(locale);
-  const [state, dispatch] = useReducer(searchReducer, book.slug, createBookSearchState);
-  const [open, setOpen] = useState(false);
+  const [state, dispatch] = useReducer(searchReducer, {
+    book,
+    grades,
+    availableBookSlugs,
+    urlSearch: globalThis.location?.search ?? ""
+  }, createInitialBookSearchState);
+  const [open, setOpen] = useState(() => Boolean(state.query || state.gradeSlug));
   const [status, setStatus] = useState("idle");
   const [errorMessage, setErrorMessage] = useState("");
   const [booleanRows, setBooleanRows] = useState([
@@ -55,6 +83,7 @@ export default function BookSearch({ locale, book, grades, root = globalThis.doc
   const shardLoaderRef = useRef(null);
   const loadingPromiseRef = useRef(null);
   const executeRef = useRef(null);
+  const initialUrlIntentRef = useRef(Boolean(state.query || state.gradeSlug));
   const presenterRef = useRef(null);
   const schedulerRef = useRef(null);
 
@@ -196,6 +225,12 @@ export default function BookSearch({ locale, book, grades, root = globalThis.doc
     return load;
   }
 
+  useEffect(() => {
+    if (!initialUrlIntentRef.current) return;
+    initialUrlIntentRef.current = false;
+    void ensureResources().catch(() => {});
+  }, []);
+
   function openSearch() {
     setOpen(true);
     void ensureResources().catch(() => {});
@@ -224,6 +259,11 @@ export default function BookSearch({ locale, book, grades, root = globalThis.doc
       : status === "error"
         ? errorMessage
         : "";
+  const globalSearchState = transferSearchContext(state, {
+    context: "global",
+    availableBookSlugs
+  });
+  const globalSearchHref = `${globalSearchUrl}?${serializeSearchUrlState(globalSearchState)}`;
 
   return (
     <div class="book-search" data-open={open ? "true" : "false"}>
@@ -318,6 +358,12 @@ export default function BookSearch({ locale, book, grades, root = globalThis.doc
               {status === "error" ? (
                 <button class="button-muted" type="button" onClick={retry}>{text.search.actions.retry}</button>
               ) : null}
+            </div>
+
+            <div class="book-search__actions">
+              <a class="button-muted" href={globalSearchHref} data-global-search-action>
+                {text.search.actions.globalSearch}
+              </a>
             </div>
           </div>
         </section>

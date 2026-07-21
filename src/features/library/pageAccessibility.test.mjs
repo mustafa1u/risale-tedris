@@ -99,6 +99,7 @@ describe("UX page accessibility markup", () => {
     assert.match(source, /data-book-search-host/);
     assert.match(source, /data-book={JSON\.stringify\(searchReference\)}/);
     assert.match(source, /data-grades={JSON\.stringify\(book\.grades/);
+    assert.match(source, /data-global-search-url={localizedPath\(locale, "\/"\)}/);
     assert.match(source, /import "@\/features\/search\/mountBookSearch\.jsx"/);
     assert.doesNotMatch(source, /data-book-search-host[^>]+part\.text/s);
   });

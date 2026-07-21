@@ -8,6 +8,7 @@ for (const host of document.querySelectorAll("[data-book-search-host]")) {
   try {
     const book = JSON.parse(host.dataset.book ?? "null");
     const grades = JSON.parse(host.dataset.grades ?? "[]");
+    const availableBookSlugs = JSON.parse(host.dataset.availableBookSlugs ?? "[]");
     if (!book?.slug || !book?.shardUrl) throw new TypeError("Missing current-book search reference");
     host.replaceChildren();
     render(
@@ -15,6 +16,8 @@ for (const host of document.querySelectorAll("[data-book-search-host]")) {
         locale={host.dataset.locale ?? "tr"}
         book={book}
         grades={grades}
+        availableBookSlugs={availableBookSlugs}
+        globalSearchUrl={host.dataset.globalSearchUrl ?? "/"}
       />,
       host
     );

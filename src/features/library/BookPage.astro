@@ -63,6 +63,7 @@ const getCapabilityLabel = (item: { key: string; count?: number }) => {
         data-book={JSON.stringify(searchReference)}
         data-grades={JSON.stringify(book.grades)}
         data-available-book-slugs={JSON.stringify(availableBookSlugs)}
+        data-global-search-url={localizedPath(locale, "/")}
       >
         <details class="book-search-fallback" data-book-search-fallback>
           <summary data-book-search-trigger>{text.search.triggers.book}</summary>

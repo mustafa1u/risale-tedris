@@ -27,4 +27,16 @@ describe("book search island source contract", () => {
     assert.match(source, /data-book-search-input/);
     assert.match(source, /data-book-grade-filter/);
   });
+
+  it("restores transferred URL semantics in fixed context and broadens only through an explicit link", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /parseSearchUrlState/);
+    assert.match(source, /transferSearchContext/);
+    assert.match(source, /serializeSearchUrlState/);
+    assert.match(source, /availableBookSlugs/);
+    assert.match(source, /text\.search\.actions\.globalSearch/);
+    assert.match(source, /data-global-search-action/);
+    assert.doesNotMatch(source, /onClick=.*context:\s*"global"/s);
+  });
 });

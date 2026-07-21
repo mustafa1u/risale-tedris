@@ -11,6 +11,8 @@ describe("book search client mount", () => {
     assert.match(source, /querySelectorAll\("\[data-book-search-host\]"\)/);
     assert.match(source, /const fallbackNodes = Array\.from\(host\.childNodes/);
     assert.match(source, /render\(\s*<BookSearch/);
+    assert.match(source, /availableBookSlugs={availableBookSlugs}/);
+    assert.match(source, /globalSearchUrl={host\.dataset\.globalSearchUrl/);
     assert.match(source, /host\.replaceChildren\(\.\.\.fallbackNodes\)/);
     assert.match(source, /initPartFilters\(document\)/);
   });

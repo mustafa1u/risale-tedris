@@ -10,11 +10,24 @@ import {
   canToggleSearchBook,
   canToggleSearchScope,
   createGlobalSearchState,
-  searchReducer
+  searchReducer,
+  transferSearchContext
 } from "./searchState.js";
+import { parseSearchUrlState, serializeSearchUrlState } from "./searchUrlState.js";
 import { createSearchWorkerClient } from "./searchWorkerClient.js";
 
 const MAX_RESULTS = 50;
+
+function createInitialGlobalSearchState(availableBookSlugs) {
+  try {
+    const parsed = parseSearchUrlState(globalThis.location?.search ?? "", { availableBookSlugs });
+    return parsed.context === "global"
+      ? parsed
+      : transferSearchContext(parsed, { context: "global", availableBookSlugs });
+  } catch {
+    return createGlobalSearchState(availableBookSlugs);
+  }
+}
 
 function toWorkerRequest(state) {
   return {
@@ -47,8 +60,8 @@ function SearchIcon() {
 
 export default function HomeSearch({ locale, manifestUrl, books }) {
   const text = getUi(locale);
-  const [state, dispatch] = useReducer(searchReducer, books.map((book) => book.slug), createGlobalSearchState);
-  const [open, setOpen] = useState(false);
+  const [state, dispatch] = useReducer(searchReducer, books.map((book) => book.slug), createInitialGlobalSearchState);
+  const [open, setOpen] = useState(() => Boolean(state.query));
   const [status, setStatus] = useState("idle");
   const [readiness, setReadiness] = useState(null);
   const [results, setResults] = useState([]);
@@ -66,6 +79,7 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
   const shardLoaderRef = useRef(null);
   const loadingPromiseRef = useRef(null);
   const executeRef = useRef(null);
+  const initialUrlIntentRef = useRef(Boolean(state.query));
   const schedulerRef = useRef(null);
 
   if (schedulerRef.current === null) {
@@ -217,6 +231,13 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     return load;
   }
 
+  useEffect(() => {
+    if (!initialUrlIntentRef.current) return;
+    initialUrlIntentRef.current = false;
+    document.dispatchEvent(new CustomEvent("rissor:search-open"));
+    void ensureResources().catch(() => {});
+  }, []);
+
   function openSearch() {
     document.dispatchEvent(new CustomEvent("rissor:search-open"));
     setOpen(true);
@@ -248,6 +269,15 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
       event.preventDefault();
       closeSearch();
     }
+  }
+
+  function bookSearchHref(result) {
+    const bookState = transferSearchContext(state, {
+      context: "book",
+      currentBookSlug: result.bookSlug
+    });
+    const params = serializeSearchUrlState(bookState);
+    return `${localizedPath(locale, `/books/${result.bookSlug}/`)}?${params}`;
   }
 
   const readyCount = readiness?.readyBookCount ?? 0;
@@ -349,12 +379,21 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
                 <ol class="search-result-list">
                   {results.map((result) => (
                     <li key={`${result.bookSlug}:${result.partNo}`}>
-                      <a href={localizedPath(locale, `/books/${result.bookSlug}/parts/${result.partNo}/`)}>
-                        <span class="search-result__book">{result.bookTitle}</span>
-                        <span class="search-result__part">{result.partNo.toUpperCase()}</span>
-                        <strong>{result.title}</strong>
-                        {result.matchedFields.includes("text") ? <small>{text.search.results.fromText}</small> : null}
-                      </a>
+                      <div class="search-result-card">
+                        <a
+                          class="search-result__link"
+                          href={localizedPath(locale, `/books/${result.bookSlug}/parts/${result.partNo}/`)}
+                          data-search-result-link
+                        >
+                          <span class="search-result__book">{result.bookTitle}</span>
+                          <span class="search-result__part">{result.partNo.toUpperCase()}</span>
+                          <strong>{result.title}</strong>
+                          {result.matchedFields.includes("text") ? <small>{text.search.results.fromText}</small> : null}
+                        </a>
+                        <a class="button-muted" href={bookSearchHref(result)} data-search-within-book>
+                          {text.search.actions.searchWithinBook}
+                        </a>
+                      </div>
                     </li>
                   ))}
                 </ol>

@@ -82,9 +82,10 @@ test("shows global defaults and renders canonical cross-book worker results", as
   await expect(firstResult.locator(".search-result__book")).not.toBeEmpty();
   await expect(firstResult.locator(".search-result__part")).toContainText(/^P\d+$/);
   await expect(firstResult.locator("strong")).not.toBeEmpty();
-  await expect(firstResult.getByRole("link")).toHaveAttribute(
+  await expect(firstResult.locator("[data-search-result-link]")).toHaveAttribute("href", /^\/books\/[a-z0-9-]+\/parts\/p\d+\/$/);
+  await expect(firstResult.locator("[data-search-within-book]")).toHaveAttribute(
     "href",
-    /^\/books\/[a-z0-9-]+\/parts\/p\d+\/$/
+    /^\/books\/[a-z0-9-]+\/\?q=iman&context=[a-z0-9-]+&mode=all&scope=text%2Ctitle%2CpartNo&distance=5$/
   );
 });
 

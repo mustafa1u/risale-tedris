@@ -41,3 +41,30 @@ test("falls back to metadata row filtering when the current shard cannot load", 
   await expect(page.locator('[data-part-row][data-part-no="p55"]')).toBeVisible();
   await expect(page.locator("[data-part-row]:visible")).toHaveCount(1);
 });
+
+test("restores global result state in fixed-book context and offers explicit broadening", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("[data-global-search-trigger]").click();
+  await page.getByText("Tam ifade", { exact: true }).click();
+  await page.getByText("Parça numaraları", { exact: true }).click();
+  await page.locator("[data-global-search-input]").fill("iman");
+  await expect(page.locator("[data-search-within-book]").first()).toBeVisible({ timeout: 20_000 });
+
+  const resultLink = page.locator("[data-search-within-book]").first();
+  const resultHref = await resultLink.getAttribute("href");
+  expect(resultHref).toMatch(/\?q=iman&context=[a-z0-9-]+&mode=exact&scope=text%2Ctitle&distance=5$/);
+  await resultLink.click();
+
+  await expect(page.locator("[data-book-search-input]")).toBeVisible({ timeout: 20_000 });
+  await expect(page.locator("[data-book-search-input]")).toHaveValue("iman");
+  await expect(page.getByRole("radio", { name: "Tam ifade" })).toBeChecked();
+  await expect(page.getByRole("checkbox", { name: "Parça numaraları" })).not.toBeChecked();
+  await expect(page.locator(".search-book-filter")).toHaveCount(0);
+
+  const globalAction = page.locator("[data-global-search-action]");
+  await expect(globalAction).toHaveText("Tüm kitaplarda ara");
+  await expect(globalAction).toHaveAttribute(
+    "href",
+    /^\/?\?q=iman&context=global&books=ayetul-kubra%2Ckucuk-sozler%2Cmeyve-risalesi%2Ctabiat-risalesi&mode=exact&scope=text%2Ctitle&distance=5$/
+  );
+});

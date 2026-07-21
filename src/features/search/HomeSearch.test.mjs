@@ -41,4 +41,16 @@ describe("homepage search island source contract", () => {
     assert.match(source, /text\.search\.actions\.clear/);
     assert.match(source, /text\.search\.actions\.close/);
   });
+
+  it("serializes current search semantics into fixed-book result links", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /transferSearchContext/);
+    assert.match(source, /serializeSearchUrlState/);
+    assert.match(source, /context:\s*"book"/);
+    assert.match(source, /currentBookSlug:\s*result\.bookSlug/);
+    assert.match(source, /bookSearchHref\(result\)/);
+    assert.match(source, /data-search-within-book/);
+    assert.match(source, /data-search-result-link/);
+  });
 });

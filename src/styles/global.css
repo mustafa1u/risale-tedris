@@ -621,7 +621,14 @@ select {
   list-style: none;
 }
 
-.search-result-list a {
+.search-result-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px;
+  align-items: center;
+}
+
+.search-result__link {
   min-width: 0;
   display: grid;
   grid-template-columns: minmax(120px, 0.28fr) auto minmax(0, 1fr) auto;
@@ -635,7 +642,7 @@ select {
   text-decoration: none;
 }
 
-.search-result-list a:hover {
+.search-result__link:hover {
   border-color: var(--accent);
   background: var(--surface-muted);
 }
@@ -1008,7 +1015,11 @@ body:has(.home-search[data-open="true"]) {
     padding-inline: 10px;
   }
 
-  .search-result-list a {
+  .search-result-card {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .search-result__link {
     grid-template-columns: auto minmax(0, 1fr);
   }
 
@@ -1603,6 +1614,11 @@ h3 {
 
 .book-search__grade {
   max-width: 320px;
+}
+
+.book-search__actions {
+  display: flex;
+  justify-content: flex-end;
 }
 
 .guidance-panel {
