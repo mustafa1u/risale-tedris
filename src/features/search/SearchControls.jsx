@@ -31,6 +31,8 @@ export default function SearchControls({
   onModeChange,
   onScopeToggle,
   onBookToggle,
+  onSelectAllBooks,
+  onClearBooks,
   onProximityChange,
   onBooleanRowChange,
   onBooleanRowAdd,
@@ -139,6 +141,24 @@ export default function SearchControls({
               <span>{text.search.books.label}</span>
               <strong>{text.search.books.selectedCount({ count: selectedCount })}</strong>
             </summary>
+            <div class="search-book-filter__actions">
+              <button
+                type="button"
+                class="button-muted"
+                disabled={selectedCount === books.length}
+                onClick={onSelectAllBooks}
+              >
+                {text.search.books.selectAll}
+              </button>
+              <button
+                type="button"
+                class="button-muted"
+                disabled={selectedCount === 1}
+                onClick={onClearBooks}
+              >
+                {text.search.books.clearSelection}
+              </button>
+            </div>
             <div class="search-book-filter__options">
               {books.map((book) => (
                 <label>

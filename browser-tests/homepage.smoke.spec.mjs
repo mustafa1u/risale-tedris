@@ -118,6 +118,29 @@ test("close preserves search state and clear preserves selected options", async 
   await expect(firstBook).not.toBeChecked();
 });
 
+test("selects all books and clears to one generated-order book without a wide chip row", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("[data-global-search-trigger]").click();
+  const bookFilter = page.locator(".search-book-filter");
+  await bookFilter.locator("summary").click();
+  const checkboxes = bookFilter.getByRole("checkbox");
+
+  await expect(checkboxes).toHaveCount(4);
+  await bookFilter.getByRole("button", { name: "Seçimi temizle" }).click();
+  await expect(checkboxes.nth(0)).toBeChecked();
+  for (const checkbox of await checkboxes.all().then((items) => items.slice(1))) {
+    await expect(checkbox).not.toBeChecked();
+  }
+  await expect(bookFilter.locator("summary strong")).toHaveText("1 kitap seçili");
+  await expect(checkboxes.nth(0)).toBeDisabled();
+
+  await bookFilter.getByRole("button", { name: "Tümünü seç" }).click();
+  for (const checkbox of await checkboxes.all()) {
+    await expect(checkbox).toBeChecked();
+  }
+  await expect(bookFilter.locator("summary strong")).toHaveText("4 kitap seçili");
+});
+
 test.describe("without search JavaScript", () => {
   test.use({ javaScriptEnabled: false });
 

@@ -16,6 +16,10 @@ describe("shared search controls source contract", () => {
     assert.match(source, /text\.search\.booleanBuilder/);
     assert.match(source, /text\.search\.proximity/);
     assert.match(source, /text\.search\.help/);
+    assert.match(source, /text\.search\.books\.selectAll/);
+    assert.match(source, /text\.search\.books\.clearSelection/);
+    assert.match(source, /onSelectAllBooks/);
+    assert.match(source, /onClearBooks/);
   });
 
   it("is rendered by both global and fixed-book search islands", async () => {

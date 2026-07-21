@@ -538,6 +538,13 @@ select {
   background: var(--surface-muted);
 }
 
+.search-book-filter__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
 .search-book-filter__options label {
   min-height: 34px;
   display: flex;

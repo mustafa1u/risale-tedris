@@ -83,6 +83,19 @@ describe("search state reducer", () => {
     assert.equal(canToggleSearchBook(book, "meyve-risalesi"), false);
     assert.equal(searchReducer(book, { type: "toggle-book", bookSlug: "meyve-risalesi" }), book);
   });
+
+  it("selects all generated books and clears back to the first generated book only in global context", () => {
+    const initial = createGlobalSearchState(["ayetul-kubra", "kucuk-sozler", "meyve-risalesi"]);
+    const subset = searchReducer(initial, { type: "toggle-book", bookSlug: "kucuk-sozler" });
+    const oneBook = searchReducer(subset, { type: "clear-books" });
+    const allBooks = searchReducer(oneBook, { type: "select-all-books" });
+    const book = createBookSearchState("meyve-risalesi");
+
+    assert.deepEqual(oneBook.selectedBookSlugs, ["ayetul-kubra"]);
+    assert.deepEqual(allBooks.selectedBookSlugs, ["ayetul-kubra", "kucuk-sozler", "meyve-risalesi"]);
+    assert.equal(searchReducer(book, { type: "clear-books" }), book);
+    assert.equal(searchReducer(book, { type: "select-all-books" }), book);
+  });
 });
 
 describe("search context transfer", () => {

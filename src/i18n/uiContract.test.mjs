@@ -201,6 +201,10 @@ describe("UI dictionary contract", () => {
     assert.match(source, /all:\s*"All words"/);
     assert.match(source, /partNo:\s*"Parça numaraları"/);
     assert.match(source, /partNo:\s*"Part numbers"/);
+    assert.match(source, /selectAll:\s*"Tümünü seç"/);
+    assert.match(source, /selectAll:\s*"Select all"/);
+    assert.match(source, /clearSelection:\s*"Seçimi temizle"/);
+    assert.match(source, /clearSelection:\s*"Clear selection"/);
     assert.match(source, /iman AND nur/);
     assert.match(source, /rah\*/);
     assert.match(source, /Mantıksal arama oluşturucu/);

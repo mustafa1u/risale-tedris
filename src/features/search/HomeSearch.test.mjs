@@ -32,6 +32,8 @@ describe("homepage search island source contract", () => {
     assert.match(controlsSource, /const modeExamples = text\.search\.help\.examples\[state\.mode\] \?\? \[\]/);
     assert.match(controlsSource, /search-mode-examples/);
     assert.match(controlsSource, /books\.map/);
+    assert.match(source, /type:\s*"select-all-books"/);
+    assert.match(source, /type:\s*"clear-books"/);
     assert.match(source, /data-global-search-input/);
     assert.match(source, /data-search-result-count/);
     assert.match(source, /result\.bookTitle/);

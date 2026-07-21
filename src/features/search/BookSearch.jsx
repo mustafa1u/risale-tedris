@@ -347,6 +347,8 @@ export default function BookSearch({
               onModeChange={updateMode}
               onScopeToggle={(scope) => updateState({ type: "toggle-scope", scope })}
               onBookToggle={() => {}}
+              onSelectAllBooks={() => {}}
+              onClearBooks={() => {}}
               onProximityChange={(distance) => updateState({ type: "set-proximity-distance", distance })}
               onBooleanRowChange={updateBooleanRow}
               onBooleanRowAdd={addBooleanRow}

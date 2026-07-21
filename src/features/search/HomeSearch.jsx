@@ -355,6 +355,8 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
               onModeChange={updateMode}
               onScopeToggle={(scope) => updateState({ type: "toggle-scope", scope })}
               onBookToggle={(bookSlug) => updateState({ type: "toggle-book", bookSlug })}
+              onSelectAllBooks={() => updateState({ type: "select-all-books" })}
+              onClearBooks={() => updateState({ type: "clear-books" })}
               onProximityChange={(distance) => updateState({ type: "set-proximity-distance", distance })}
               onBooleanRowChange={updateBooleanRow}
               onBooleanRowAdd={addBooleanRow}

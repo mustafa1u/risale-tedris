@@ -161,6 +161,25 @@ export function searchReducer(state, action) {
       const selectedBookSlugs = toggleSelectedValue(state.selectedBookSlugs, action.bookSlug);
       return { ...state, selectedBookSlugs };
     }
+    case "select-all-books": {
+      if (state.context !== "global") {
+        return state;
+      }
+      const alreadySelectedInOrder = state.availableBookSlugs.length === state.selectedBookSlugs.length
+        && state.availableBookSlugs.every((bookSlug, index) => state.selectedBookSlugs[index] === bookSlug);
+      return alreadySelectedInOrder
+        ? state
+        : { ...state, selectedBookSlugs: [...state.availableBookSlugs] };
+    }
+    case "clear-books": {
+      if (state.context !== "global") {
+        return state;
+      }
+      const firstBookSlug = state.availableBookSlugs[0];
+      return state.selectedBookSlugs.length === 1 && state.selectedBookSlugs[0] === firstBookSlug
+        ? state
+        : { ...state, selectedBookSlugs: [firstBookSlug] };
+    }
     default:
       return state;
   }

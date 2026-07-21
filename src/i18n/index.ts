@@ -151,6 +151,8 @@ type UiDictionary = {
     books: {
       label: string;
       all: string;
+      selectAll: string;
+      clearSelection: string;
       selectedCount: (params: { count: number }) => string;
       atLeastOne: string;
     };
@@ -531,6 +533,8 @@ export const ui = {
       books: {
         label: "Kitaplar",
         all: "Tüm kitaplar",
+        selectAll: "Tümünü seç",
+        clearSelection: "Seçimi temizle",
         selectedCount: ({ count }) => `${count} kitap seçili`,
         atLeastOne: "En az bir kitap seçili kalmalıdır."
       },
@@ -938,6 +942,8 @@ export const ui = {
       books: {
         label: "Books",
         all: "All books",
+        selectAll: "Select all",
+        clearSelection: "Clear selection",
         selectedCount: ({ count }) => `${count} ${count === 1 ? "book" : "books"} selected`,
         atLeastOne: "At least one book must remain selected."
       },
