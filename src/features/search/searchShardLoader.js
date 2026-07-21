@@ -26,6 +26,11 @@ export function createSearchShardLoader({
   let activeLoad = null;
   let nextLoadId = 1;
   let disposed = false;
+  const shardCache = new Map();
+
+  function cacheKey(reference) {
+    return `${reference.slug}:${reference.contentHash}`;
+  }
 
   function emit(load) {
     if (!disposed && activeLoad === load) {
@@ -48,13 +53,20 @@ export function createSearchShardLoader({
       seenBooks.add(reference.slug);
     }
 
+    const cachedShards = references.map((reference) => shardCache.get(cacheKey(reference)) ?? null);
     const current = {
       id: nextLoadId++,
       references: [...references],
-      states: new Map(references.map((reference) => [reference.slug, { bookSlug: reference.slug, state: "loading" }])),
+      states: new Map(references.map((reference, index) => [
+        reference.slug,
+        cachedShards[index]
+          ? { bookSlug: reference.slug, state: "ready", contentHash: reference.contentHash }
+          : { bookSlug: reference.slug, state: "loading" }
+      ])),
       controller: new AbortController(),
       abortCode: null,
-      shards: new Array(references.length),
+      shards: cachedShards,
+      newShardIndexes: new Set(),
       nextIndex: 0
     };
     activeLoad = current;
@@ -64,6 +76,7 @@ export function createSearchShardLoader({
       while (current.nextIndex < current.references.length) {
         const index = current.nextIndex++;
         const reference = current.references[index];
+        if (current.shards[index]) continue;
         try {
           const response = await fetchImpl(reference.shardUrl, { signal: current.controller.signal });
           if (!response?.ok) {
@@ -74,7 +87,9 @@ export function createSearchShardLoader({
             throw new SearchShardLoadError("SHARD_MISMATCH", `Search shard identity mismatch for ${reference.slug}`);
           }
           if (activeLoad !== current || disposed) continue;
+          shardCache.set(cacheKey(reference), shard);
           current.shards[index] = shard;
+          current.newShardIndexes.add(index);
           current.states.set(reference.slug, {
             bookSlug: reference.slug,
             state: "ready",
@@ -109,6 +124,7 @@ export function createSearchShardLoader({
       }
       return {
         shards: current.shards.filter(Boolean),
+        newShards: current.shards.filter((shard, index) => shard && current.newShardIndexes.has(index)),
         readiness: readinessFor(current.references, current.states)
       };
     } finally {
@@ -123,6 +139,7 @@ export function createSearchShardLoader({
       activeLoad.abortCode = "DISPOSED";
       activeLoad.controller.abort();
     }
+    shardCache.clear();
   }
 
   return { dispose, load };

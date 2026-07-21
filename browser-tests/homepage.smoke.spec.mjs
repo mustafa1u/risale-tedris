@@ -141,6 +141,38 @@ test("selects all books and clears to one generated-order book without a wide ch
   await expect(bookFilter.locator("summary strong")).toHaveText("4 kitap seçili");
 });
 
+test("loads a newly selected book provisionally and reuses its cached shard", async ({ page }) => {
+  let releaseSecondShard;
+  const secondShardGate = new Promise((resolve) => {
+    releaseSecondShard = resolve;
+  });
+  let secondShardRequests = 0;
+  await page.route(/\/assets\/search\/kucuk-sozler\..+\.v1\.json$/, async (route) => {
+    secondShardRequests += 1;
+    await secondShardGate;
+    await route.continue();
+  });
+
+  await page.goto("/?q=iman&context=global&books=ayetul-kubra&mode=all&scope=text%2Ctitle%2CpartNo&distance=5");
+  await expect(page.locator('[data-search-status="ready"]')).toBeVisible({ timeout: 20_000 });
+  await expect(page.locator("[data-search-result-count]")).toBeVisible();
+
+  const bookFilter = page.locator(".search-book-filter");
+  await bookFilter.locator("summary").click();
+  const secondBook = bookFilter.getByRole("checkbox").nth(1);
+  await secondBook.check();
+
+  await expect(page.locator('[data-search-status="provisional"]')).toContainText("Sonuçlar geçici");
+  await expect(page.locator("[data-search-result-count]")).toBeVisible();
+  releaseSecondShard();
+  await expect(page.locator('[data-search-status="ready"]')).toBeVisible({ timeout: 20_000 });
+
+  await secondBook.uncheck();
+  await secondBook.check();
+  await expect(page.locator('[data-search-status="ready"]')).toBeVisible();
+  expect(secondShardRequests).toBe(1);
+});
+
 test.describe("without search JavaScript", () => {
   test.use({ javaScriptEnabled: false });
 

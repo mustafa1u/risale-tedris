@@ -34,6 +34,10 @@ describe("homepage search island source contract", () => {
     assert.match(controlsSource, /books\.map/);
     assert.match(source, /type:\s*"select-all-books"/);
     assert.match(source, /type:\s*"clear-books"/);
+    assert.match(source, /async function syncSelectedBooks/);
+    assert.match(source, /loaded\.newShards\.length/);
+    assert.match(source, /setStatus\("provisional"\)/);
+    assert.match(source, /onBookToggle=.*updateBookSelection/);
     assert.match(source, /data-global-search-input/);
     assert.match(source, /data-search-result-count/);
     assert.match(source, /result\.bookTitle/);

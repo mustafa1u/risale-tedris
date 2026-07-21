@@ -87,4 +87,35 @@ describe("search shard loader", () => {
     await Promise.resolve();
     assert.equal(events.length, eventCountBeforeDispose);
   });
+
+  it("reuses cached content-hashed shards and fetches only a newly selected book", async () => {
+    const first = makeReference("first-book");
+    const second = makeReference("second-book");
+    const requests = [];
+    const readinessEvents = [];
+    const fetchImpl = async (url) => {
+      requests.push(url);
+      const reference = url === first.shardUrl ? first : second;
+      return responseFor(reference);
+    };
+    const loader = createSearchShardLoader({
+      fetchImpl,
+      onReadiness: (state) => readinessEvents.push(state)
+    });
+
+    const initial = await loader.load([first]);
+    const cached = await loader.load([first]);
+    const eventOffset = readinessEvents.length;
+    const expanded = await loader.load([first, second]);
+
+    assert.deepEqual(requests, [first.shardUrl, second.shardUrl]);
+    assert.deepEqual(initial.newShards.map((shard) => shard.bookSlug), ["first-book"]);
+    assert.deepEqual(cached.newShards, []);
+    assert.deepEqual(expanded.shards.map((shard) => shard.bookSlug), ["first-book", "second-book"]);
+    assert.deepEqual(expanded.newShards.map((shard) => shard.bookSlug), ["second-book"]);
+    assert.deepEqual(
+      readinessEvents[eventOffset].books.map((book) => [book.bookSlug, book.state]),
+      [["first-book", "ready"], ["second-book", "loading"]]
+    );
+  });
 });

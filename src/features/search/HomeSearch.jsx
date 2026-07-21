@@ -77,6 +77,7 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
   const readyRef = useRef(false);
   const workerClientRef = useRef(null);
   const shardLoaderRef = useRef(null);
+  const manifestBooksRef = useRef(null);
   const loadingPromiseRef = useRef(null);
   const executeRef = useRef(null);
   const initialUrlIntentRef = useRef(Boolean(state.query));
@@ -141,6 +142,17 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     return nextState;
   }
 
+  function updateBookSelection(action) {
+    const previousState = stateRef.current;
+    const nextState = searchReducer(previousState, action);
+    stateRef.current = nextState;
+    dispatch(action);
+    if (nextState !== previousState && readyRef.current) {
+      void syncSelectedBooks(nextState);
+    }
+    return nextState;
+  }
+
   function updateMode(mode) {
     const nextState = updateState({ type: "set-mode", mode });
     if (mode === "boolean" && !nextState.query.trim()) {
@@ -177,6 +189,7 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     workerClientRef.current?.dispose();
     shardLoaderRef.current = null;
     workerClientRef.current = null;
+    manifestBooksRef.current = null;
     loadingPromiseRef.current = null;
     readyRef.current = false;
   }
@@ -197,6 +210,7 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
       ) {
         throw new Error("Search manifest does not match the generated homepage references");
       }
+      manifestBooksRef.current = manifest.books;
 
       const { createBrowserSearchWorker } = await import("./searchBrowserWorker.js");
       const worker = createBrowserSearchWorker();
@@ -205,16 +219,19 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
         concurrency: 2,
         onReadiness: (nextReadiness) => {
           setReadiness(nextReadiness);
-          setStatus(nextReadiness.complete ? "ready" : "loading");
+          if (!nextReadiness.complete) {
+            setStatus(readyRef.current ? "provisional" : "loading");
+          }
         }
       });
       workerClientRef.current = workerClient;
       shardLoaderRef.current = shardLoader;
-      const loaded = await shardLoader.load(manifest.books);
+      const selectedReferences = manifest.books.filter((book) => stateRef.current.selectedBookSlugs.includes(book.slug));
+      const loaded = await shardLoader.load(selectedReferences);
       setReadiness(loaded.readiness);
       if (loaded.shards.length === 0) throw new Error("No search book could be loaded");
 
-      await workerClient.initialize(loaded.shards);
+      await workerClient.initialize(loaded.newShards);
       readyRef.current = true;
       const hasFailures = loaded.readiness.books.some((book) => book.state === "failed");
       setStatus(hasFailures ? "partial" : "ready");
@@ -229,6 +246,32 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     });
     loadingPromiseRef.current = load;
     return load;
+  }
+
+  async function syncSelectedBooks(nextState) {
+    if (!readyRef.current || !workerClientRef.current || !shardLoaderRef.current || !manifestBooksRef.current) {
+      return;
+    }
+
+    setStatus("provisional");
+    setErrorMessage("");
+    const selectedReferences = manifestBooksRef.current.filter((book) => nextState.selectedBookSlugs.includes(book.slug));
+    try {
+      const loadPromise = shardLoaderRef.current.load(selectedReferences);
+      if (nextState.query.trim()) void executeSearch(nextState);
+      const loaded = await loadPromise;
+      setReadiness(loaded.readiness);
+      if (loaded.newShards.length > 0) {
+        await workerClientRef.current.initialize(loaded.newShards);
+      }
+      const hasFailures = loaded.readiness.books.some((book) => book.state === "failed");
+      setStatus(hasFailures ? "partial" : "ready");
+      if (nextState.query.trim()) await executeSearch(nextState);
+    } catch (error) {
+      if (error?.code === "SUPERSEDED") return;
+      setStatus("error");
+      setErrorMessage(error?.message ?? "Search resources could not be updated");
+    }
   }
 
   useEffect(() => {
@@ -286,6 +329,8 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     .map((book) => books.find((candidate) => candidate.slug === book.bookSlug)?.title ?? book.bookSlug) ?? [];
   const statusMessage = status === "loading"
     ? (readiness ? text.search.status.progress({ ready: readyCount, total: readiness.selectedBookCount }) : text.search.status.loading)
+    : status === "provisional"
+      ? text.search.status.provisional({ ready: readyCount, total: readiness?.selectedBookCount ?? state.selectedBookSlugs.length })
     : status === "ready"
       ? text.search.status.ready
       : status === "partial"
@@ -354,9 +399,9 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
               canToggleBook={(bookSlug) => canToggleSearchBook(state, bookSlug)}
               onModeChange={updateMode}
               onScopeToggle={(scope) => updateState({ type: "toggle-scope", scope })}
-              onBookToggle={(bookSlug) => updateState({ type: "toggle-book", bookSlug })}
-              onSelectAllBooks={() => updateState({ type: "select-all-books" })}
-              onClearBooks={() => updateState({ type: "clear-books" })}
+              onBookToggle={(bookSlug) => updateBookSelection({ type: "toggle-book", bookSlug })}
+              onSelectAllBooks={() => updateBookSelection({ type: "select-all-books" })}
+              onClearBooks={() => updateBookSelection({ type: "clear-books" })}
               onProximityChange={(distance) => updateState({ type: "set-proximity-distance", distance })}
               onBooleanRowChange={updateBooleanRow}
               onBooleanRowAdd={addBooleanRow}
