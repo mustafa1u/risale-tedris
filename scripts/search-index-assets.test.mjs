@@ -94,6 +94,24 @@ describe("search asset generation", () => {
     ]);
   });
 
+  it("preserves per-part grade coverage from study decks when document assets are unavailable", async () => {
+    const root = await makeRoot();
+    const outDir = join(root, "public", "assets", "search");
+    const book = makeBook("fixture-book", "Fixture Kitabı", 1);
+    book.parts[0].downloads = {};
+    book.studyDecks = [
+      { partNo: "p01", gradeSlug: "8-sinif" },
+      { partNo: "p01", gradeSlug: "2-sinif" },
+      { partNo: "p02", gradeSlug: "11-sinif" }
+    ];
+    await writeBookSources(root, book, ["İman ve nur."]);
+
+    const result = await generateSearchAssets({ root, outDir, books: [book], generatedAt });
+    const shard = await readJson(result.shards[0].filePath);
+
+    assert.deepEqual(shard.records[0].gradeSlugs, ["2-sinif", "8-sinif"]);
+  });
+
   it("writes a versioned ordered global manifest with complete shard metadata", async () => {
     const root = await makeRoot();
     const outDir = join(root, "public", "assets", "search");

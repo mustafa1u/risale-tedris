@@ -10,10 +10,16 @@ export function getStaticPaths() {
 
 const bookSlug = Astro.params.bookSlug ?? "";
 const book = await loadBook(bookSlug);
+const bookSummary = libraryIndex.books.find((candidate) => candidate.slug === bookSlug);
 
-if (!book) {
+if (!book || !bookSummary) {
   throw new Error(`Unknown book slug: ${bookSlug}`);
 }
 ---
 
-<BookPage book={book} locale="en" />
+<BookPage
+  book={book}
+  searchReference={bookSummary.search}
+  availableBookSlugs={libraryIndex.books.map((candidate) => candidate.slug)}
+  locale="en"
+/>

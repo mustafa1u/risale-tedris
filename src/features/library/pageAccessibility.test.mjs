@@ -93,6 +93,16 @@ describe("UX page accessibility markup", () => {
     assert.match(source, /data-grade-filter/);
   });
 
+  it("provides a dedicated book-search mount without placing canonical text in the host", async () => {
+    const source = await readPage("book");
+
+    assert.match(source, /data-book-search-host/);
+    assert.match(source, /data-book={JSON\.stringify\(searchReference\)}/);
+    assert.match(source, /data-grades={JSON\.stringify\(book\.grades/);
+    assert.match(source, /import "@\/features\/search\/mountBookSearch\.jsx"/);
+    assert.doesNotMatch(source, /data-book-search-host[^>]+part\.text/s);
+  });
+
   it("preserves stable row identifiers, canonical links, capability badges, and result counts", async () => {
     const source = await readPage("book");
 

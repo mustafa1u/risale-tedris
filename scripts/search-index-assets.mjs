@@ -77,6 +77,13 @@ function validateBooks(books) {
 async function prepareShard({ root, book, readText }) {
   const records = [];
   let rawBytes = 0;
+  const studyGradesByPart = new Map();
+  for (const deck of book.studyDecks ?? []) {
+    if (typeof deck?.partNo !== "string" || typeof deck?.gradeSlug !== "string") continue;
+    const grades = studyGradesByPart.get(deck.partNo) ?? new Set();
+    grades.add(deck.gradeSlug);
+    studyGradesByPart.set(deck.partNo, grades);
+  }
 
   for (const part of [...(book.parts ?? [])].sort(compareParts)) {
     const sourcePath = resolve(root, part.textSourcePath);
@@ -99,12 +106,16 @@ async function prepareShard({ root, book, readText }) {
     }
 
     rawBytes += Buffer.byteLength(text, "utf8");
+    const gradeSlugs = new Set(Object.keys(part.downloads ?? {}));
+    for (const gradeSlug of studyGradesByPart.get(part.partNo) ?? []) {
+      gradeSlugs.add(gradeSlug);
+    }
     records.push({
       partNo: part.partNo,
       partNumber: part.partNumber,
       title: part.title,
       labelSlug: part.labelSlug,
-      gradeSlugs: Object.keys(part.downloads ?? {}).sort(compareGrades),
+      gradeSlugs: [...gradeSlugs].sort(compareGrades),
       text
     });
   }

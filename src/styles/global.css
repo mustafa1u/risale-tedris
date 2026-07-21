@@ -1558,6 +1558,53 @@ h3 {
   padding: 4px 14px 14px;
 }
 
+.book-search-host {
+  margin-bottom: 16px;
+}
+
+.book-search__trigger {
+  min-height: 48px;
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--accent-strong);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  font-weight: 760;
+}
+
+.book-search__trigger svg {
+  width: 24px;
+  height: 24px;
+}
+
+.book-search__trigger:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--accent) 58%, transparent);
+  outline-offset: 3px;
+}
+
+.book-search__panel {
+  margin-top: 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.book-search__panel .home-search__inner {
+  width: auto;
+  margin: 0;
+  padding: 18px;
+}
+
+.book-search__grade {
+  max-width: 320px;
+}
+
 .guidance-panel {
   display: grid;
   gap: 8px;

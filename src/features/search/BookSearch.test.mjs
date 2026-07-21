@@ -1,0 +1,30 @@
+import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
+import { describe, it } from "node:test";
+
+const sourcePath = new URL("./BookSearch.jsx", import.meta.url);
+
+describe("book search island source contract", () => {
+  it("uses fixed book state and loads only the supplied current-book shard", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /createBookSearchState/);
+    assert.match(source, /createSearchWorkerClient/);
+    assert.match(source, /createSearchShardLoader/);
+    assert.match(source, /shardLoader\.load\(\[book\]\)/);
+    assert.match(source, /selectedBookSlugs:\s*\[book\.slug\]/);
+    assert.doesNotMatch(source, /fetch\(manifestUrl/);
+    assert.doesNotMatch(source, /toggle-book/);
+  });
+
+  it("presents ordered worker IDs and retains metadata fallback on load or worker failure", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /createPartRowPresenter/);
+    assert.match(source, /presentOrderedPartNos\(response\.results\.map\(\(result\) => result\.partNo\)\)/);
+    assert.match(source, /presentMetadata/);
+    assert.match(source, /gradeSlug/);
+    assert.match(source, /data-book-search-input/);
+    assert.match(source, /data-book-grade-filter/);
+  });
+});

@@ -6,14 +6,16 @@ import { localizedPath } from "@/i18n/routing";
 import { AUGMENTATION_ENABLED, SEARCH_ENABLED } from "@/config/features.js";
 import { PersonalAugmentationList } from "@/features/augmentation/AugmentationIslands.jsx";
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import type { LibraryBook } from "@/types/library";
+import type { LibraryBook, LibrarySearchBookReference } from "@/types/library";
 
 type Props = {
   book: LibraryBook;
+  searchReference: LibrarySearchBookReference;
+  availableBookSlugs: string[];
   locale: Locale;
 };
 
-const { book, locale } = Astro.props as Props;
+const { book, searchReference, availableBookSlugs, locale } = Astro.props as Props;
 const text = getUi(locale);
 const getCapabilityLabel = (item: { key: string; count?: number }) => {
   switch (item.key) {
@@ -54,29 +56,38 @@ const getCapabilityLabel = (item: { key: string; count?: number }) => {
         <p>{text.book.guide.body}</p>
       </section>
 
-      <details class="book-search-fallback" data-book-search-fallback>
-        <summary data-book-search-trigger>{text.search.triggers.book}</summary>
-        <div
-          class="toolbar"
-          data-part-toolbar
-          data-search-fallback="metadata"
-          data-full-text-search-enabled={String(SEARCH_ENABLED)}
-        >
-          <div class="field">
-            <label for="part-search">{text.book.searchLabel}</label>
-            <input id="part-search" type="search" placeholder={text.book.searchPlaceholder} data-part-search />
+      <div
+        class="book-search-host"
+        data-book-search-host={SEARCH_ENABLED ? "" : undefined}
+        data-locale={locale}
+        data-book={JSON.stringify(searchReference)}
+        data-grades={JSON.stringify(book.grades)}
+        data-available-book-slugs={JSON.stringify(availableBookSlugs)}
+      >
+        <details class="book-search-fallback" data-book-search-fallback>
+          <summary data-book-search-trigger>{text.search.triggers.book}</summary>
+          <div
+            class="toolbar"
+            data-part-toolbar
+            data-search-fallback="metadata"
+            data-full-text-search-enabled={String(SEARCH_ENABLED)}
+          >
+            <div class="field">
+              <label for="part-search">{text.book.searchLabel}</label>
+              <input id="part-search" type="search" placeholder={text.book.searchPlaceholder} data-part-search />
+            </div>
+            <div class="field">
+              <label for="grade-filter">{text.book.gradeLabel}</label>
+              <select id="grade-filter" data-grade-filter>
+                <option value="">{text.book.allGrades}</option>
+                {book.grades.map((grade) => (
+                  <option value={grade.slug}>{getGradeShortLabel(locale, grade.slug, grade.label)}</option>
+                ))}
+              </select>
+            </div>
           </div>
-          <div class="field">
-            <label for="grade-filter">{text.book.gradeLabel}</label>
-            <select id="grade-filter" data-grade-filter>
-              <option value="">{text.book.allGrades}</option>
-              {book.grades.map((grade) => (
-                <option value={grade.slug}>{getGradeShortLabel(locale, grade.slug, grade.label)}</option>
-              ))}
-            </select>
-          </div>
-        </div>
-      </details>
+        </details>
+      </div>
       <p
         class="filter-status"
         data-filter-status
@@ -133,12 +144,6 @@ const getCapabilityLabel = (item: { key: string; count?: number }) => {
   </section>
 
   <script>
-    import { initPartFilters } from "./bookPageClient.js";
-
-    if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", () => initPartFilters());
-    } else {
-      initPartFilters();
-    }
+    import "@/features/search/mountBookSearch.jsx";
   </script>
 </BaseLayout>

@@ -1,39 +1,31 @@
 import { useEffect, useReducer, useRef, useState } from "preact/hooks";
 
+import { createPartRowPresenter } from "@/features/library/bookPageClient.js";
 import { getUi } from "@/i18n";
-import { localizedPath } from "@/i18n/routing";
+import { getGradeShortLabel } from "@/i18n/libraryLabels";
 import SearchControls, { serializeBooleanRows } from "./SearchControls.jsx";
-import { assertGlobalSearchManifestV1 } from "./searchContracts.js";
 import { createSearchQueryScheduler } from "./searchQueryScheduler.js";
 import { createSearchShardLoader } from "./searchShardLoader.js";
 import {
-  canToggleSearchBook,
   canToggleSearchScope,
-  createGlobalSearchState,
+  createBookSearchState,
   searchReducer
 } from "./searchState.js";
 import { createSearchWorkerClient } from "./searchWorkerClient.js";
 
-const MAX_RESULTS = 50;
+const MAX_RESULTS = 200;
 
-function toWorkerRequest(state) {
+function toWorkerRequest(state, book) {
   return {
     query: state.query,
-    context: state.context,
+    context: "book",
     mode: state.mode,
     scopes: state.scopes,
-    selectedBookSlugs: state.selectedBookSlugs,
+    selectedBookSlugs: [book.slug],
     gradeSlug: state.gradeSlug,
     proximityDistance: state.proximityDistance,
     limit: MAX_RESULTS
   };
-}
-
-function sameSearchReference(expected, actual) {
-  return expected.slug === actual.slug &&
-    expected.shardUrl === actual.shardUrl &&
-    expected.contentHash === actual.contentHash &&
-    expected.recordCount === actual.recordCount;
 }
 
 function SearchIcon() {
@@ -45,14 +37,11 @@ function SearchIcon() {
   );
 }
 
-export default function HomeSearch({ locale, manifestUrl, books }) {
+export default function BookSearch({ locale, book, grades, root = globalThis.document }) {
   const text = getUi(locale);
-  const [state, dispatch] = useReducer(searchReducer, books.map((book) => book.slug), createGlobalSearchState);
+  const [state, dispatch] = useReducer(searchReducer, book.slug, createBookSearchState);
   const [open, setOpen] = useState(false);
   const [status, setStatus] = useState("idle");
-  const [readiness, setReadiness] = useState(null);
-  const [results, setResults] = useState([]);
-  const [total, setTotal] = useState(0);
   const [errorMessage, setErrorMessage] = useState("");
   const [booleanRows, setBooleanRows] = useState([
     { operator: "AND", term: "" },
@@ -66,8 +55,12 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
   const shardLoaderRef = useRef(null);
   const loadingPromiseRef = useRef(null);
   const executeRef = useRef(null);
+  const presenterRef = useRef(null);
   const schedulerRef = useRef(null);
 
+  if (presenterRef.current === null) {
+    presenterRef.current = createPartRowPresenter(root);
+  }
   if (schedulerRef.current === null) {
     schedulerRef.current = createSearchQueryScheduler({
       run: (request) => executeRef.current?.(request)
@@ -78,15 +71,10 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     stateRef.current = state;
   }, [state]);
 
-  useEffect(() => {
-    const closeForMenu = () => setOpen(false);
-    document.addEventListener("rissor:menu-open", closeForMenu);
-    return () => {
-      document.removeEventListener("rissor:menu-open", closeForMenu);
-      schedulerRef.current?.dispose();
-      shardLoaderRef.current?.dispose();
-      workerClientRef.current?.dispose();
-    };
+  useEffect(() => () => {
+    schedulerRef.current?.dispose();
+    shardLoaderRef.current?.dispose();
+    workerClientRef.current?.dispose();
   }, []);
 
   useEffect(() => {
@@ -95,21 +83,27 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     return () => cancelAnimationFrame(frame);
   }, [open]);
 
+  function presentMetadataFallback(nextState) {
+    presenterRef.current?.presentMetadata({
+      searchValue: nextState.query,
+      gradeValue: nextState.gradeSlug ?? ""
+    });
+  }
+
   async function executeSearch(nextState) {
-    if (!readyRef.current || !workerClientRef.current) return;
-    if (nextState.query.trim() === "") {
-      setResults([]);
-      setTotal(0);
+    if (!readyRef.current || !workerClientRef.current) {
+      if (status === "error") presentMetadataFallback(nextState);
       return;
     }
     try {
-      const response = await workerClientRef.current.search(toWorkerRequest(nextState));
-      setResults(response.results);
-      setTotal(response.total);
+      const response = await workerClientRef.current.search(toWorkerRequest(nextState, book));
+      presenterRef.current?.presentOrderedPartNos(response.results.map((result) => result.partNo));
     } catch (error) {
       if (error?.code === "SUPERSEDED") return;
+      readyRef.current = false;
       setStatus("error");
-      setErrorMessage(error?.message ?? "Search failed");
+      setErrorMessage(error?.message ?? text.search.status.bookFailure({ bookTitle: book.title }));
+      presentMetadataFallback(nextState);
     }
   }
   executeRef.current = executeSearch;
@@ -118,7 +112,10 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     const nextState = searchReducer(stateRef.current, action);
     stateRef.current = nextState;
     dispatch(action);
-    if (!readyRef.current) return nextState;
+    if (!readyRef.current) {
+      if (status === "error") presentMetadataFallback(nextState);
+      return nextState;
+    }
     if (timing === "debounced") {
       schedulerRef.current.schedule(nextState);
     } else {
@@ -154,8 +151,7 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     const rows = booleanRows.filter((_, rowIndex) => rowIndex !== index);
     const safeRows = rows.length === 0 ? [{ operator: "AND", term: "" }] : rows;
     setBooleanRows(safeRows);
-    const query = serializeBooleanRows(safeRows);
-    updateState({ type: "set-query", query }, "debounced");
+    updateState({ type: "set-query", query: serializeBooleanRows(safeRows) }, "debounced");
   }
 
   function releaseResources() {
@@ -174,41 +170,24 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     const load = (async () => {
       setStatus("loading");
       setErrorMessage("");
-      const manifestResponse = await fetch(manifestUrl, { headers: { Accept: "application/json" } });
-      if (!manifestResponse.ok) throw new Error(`Search manifest request failed (${manifestResponse.status})`);
-      const manifest = assertGlobalSearchManifestV1(await manifestResponse.json());
-      if (
-        manifest.books.length !== books.length ||
-        manifest.books.some((book, index) => !sameSearchReference(books[index], book))
-      ) {
-        throw new Error("Search manifest does not match the generated homepage references");
-      }
-
       const { createBrowserSearchWorker } = await import("./searchBrowserWorker.js");
-      const worker = createBrowserSearchWorker();
-      const workerClient = createSearchWorkerClient({ worker });
-      const shardLoader = createSearchShardLoader({
-        concurrency: 2,
-        onReadiness: (nextReadiness) => {
-          setReadiness(nextReadiness);
-          setStatus(nextReadiness.complete ? "ready" : "loading");
-        }
-      });
+      const workerClient = createSearchWorkerClient({ worker: createBrowserSearchWorker() });
+      const shardLoader = createSearchShardLoader({ concurrency: 1 });
       workerClientRef.current = workerClient;
       shardLoaderRef.current = shardLoader;
-      const loaded = await shardLoader.load(manifest.books);
-      setReadiness(loaded.readiness);
-      if (loaded.shards.length === 0) throw new Error("No search book could be loaded");
-
+      const loaded = await shardLoader.load([book]);
+      if (loaded.shards.length !== 1) {
+        throw new Error(text.search.status.bookFailure({ bookTitle: book.title }));
+      }
       await workerClient.initialize(loaded.shards);
       readyRef.current = true;
-      const hasFailures = loaded.readiness.books.some((book) => book.state === "failed");
-      setStatus(hasFailures ? "partial" : "ready");
-      if (stateRef.current.query.trim()) await executeSearch(stateRef.current);
+      setStatus("ready");
+      await executeSearch(stateRef.current);
     })().catch((error) => {
       readyRef.current = false;
       setStatus("error");
-      setErrorMessage(error?.message ?? "Search resources could not be loaded");
+      setErrorMessage(error?.message ?? text.search.status.bookFailure({ bookTitle: book.title }));
+      presentMetadataFallback(stateRef.current);
       throw error;
     }).finally(() => {
       loadingPromiseRef.current = null;
@@ -218,23 +197,18 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
   }
 
   function openSearch() {
-    document.dispatchEvent(new CustomEvent("rissor:search-open"));
     setOpen(true);
     void ensureResources().catch(() => {});
   }
 
-  function closeSearch({ restoreFocus = true } = {}) {
+  function closeSearch() {
     setOpen(false);
-    if (restoreFocus) requestAnimationFrame(() => triggerRef.current?.focus());
+    requestAnimationFrame(() => triggerRef.current?.focus());
   }
 
   function clearSearch() {
-    const nextState = searchReducer(stateRef.current, { type: "set-query", query: "" });
-    stateRef.current = nextState;
-    dispatch({ type: "set-query", query: "" });
+    const nextState = updateState({ type: "set-query", query: "" });
     schedulerRef.current.clear(nextState);
-    setResults([]);
-    setTotal(0);
     inputRef.current?.focus();
   }
 
@@ -243,48 +217,40 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     void ensureResources().catch(() => {});
   }
 
-  function handlePanelKeyDown(event) {
-    if (event.key === "Escape") {
-      event.preventDefault();
-      closeSearch();
-    }
-  }
-
-  const readyCount = readiness?.readyBookCount ?? 0;
-  const failedBookTitles = readiness?.books
-    .filter((book) => book.state === "failed")
-    .map((book) => books.find((candidate) => candidate.slug === book.bookSlug)?.title ?? book.bookSlug) ?? [];
   const statusMessage = status === "loading"
-    ? (readiness ? text.search.status.progress({ ready: readyCount, total: readiness.selectedBookCount }) : text.search.status.loading)
+    ? text.search.status.loading
     : status === "ready"
       ? text.search.status.ready
-      : status === "partial"
-        ? text.search.status.partialFailure({ books: failedBookTitles.join(", ") })
-        : status === "error"
-          ? errorMessage
-          : "";
+      : status === "error"
+        ? errorMessage
+        : "";
 
   return (
-    <div class="home-search" data-open={open ? "true" : "false"}>
+    <div class="book-search" data-open={open ? "true" : "false"}>
       <button
         ref={triggerRef}
-        class="home-search__trigger"
+        class="book-search__trigger"
         type="button"
         aria-expanded={open}
-        aria-controls="global-search-panel"
-        data-global-search-trigger
+        aria-controls={`book-search-panel-${book.slug}`}
+        data-book-search-trigger
         onClick={() => open ? closeSearch() : openSearch()}
       >
         <SearchIcon />
-        <span>{text.search.triggers.global}</span>
+        <span>{text.search.triggers.book}</span>
       </button>
 
       {open ? (
         <section
-          id="global-search-panel"
-          class="home-search__panel"
-          aria-label={text.search.triggers.global}
-          onKeyDown={handlePanelKeyDown}
+          id={`book-search-panel-${book.slug}`}
+          class="book-search__panel"
+          aria-label={text.search.triggers.book}
+          onKeyDown={(event) => {
+            if (event.key === "Escape") {
+              event.preventDefault();
+              closeSearch();
+            }
+          }}
         >
           <div class="home-search__inner">
             <div class="home-search__bar">
@@ -293,9 +259,9 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
                 ref={inputRef}
                 type="search"
                 value={state.query}
-                placeholder={text.search.placeholders.global}
-                aria-label={text.search.triggers.global}
-                data-global-search-input
+                placeholder={text.search.placeholders.book}
+                aria-label={text.search.triggers.book}
+                data-book-search-input
                 onInput={(event) => updateState({ type: "set-query", query: event.currentTarget.value }, "debounced")}
                 onKeyDown={(event) => {
                   if (event.key === "Enter") {
@@ -309,22 +275,38 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
                   {text.search.actions.clear}
                 </button>
               ) : null}
-              <button class="home-search__close" type="button" onClick={() => closeSearch()}>
+              <button class="home-search__close" type="button" onClick={closeSearch}>
                 {text.search.actions.close}
               </button>
             </div>
 
+            <label class="field book-search__grade">
+              <span>{text.book.gradeLabel}</span>
+              <select
+                value={state.gradeSlug ?? ""}
+                data-book-grade-filter
+                onChange={(event) => updateState({
+                  type: "set-grade",
+                  gradeSlug: event.currentTarget.value || null
+                })}
+              >
+                <option value="">{text.book.allGrades}</option>
+                {grades.map((grade) => (
+                  <option value={grade.slug}>{getGradeShortLabel(locale, grade.slug, grade.label)}</option>
+                ))}
+              </select>
+            </label>
+
             <SearchControls
-              controlName="global"
+              controlName="book"
               text={text}
               state={state}
-              books={books}
               booleanRows={booleanRows}
               canToggleScope={(scope) => canToggleSearchScope(state, scope)}
-              canToggleBook={(bookSlug) => canToggleSearchBook(state, bookSlug)}
+              canToggleBook={() => false}
               onModeChange={updateMode}
               onScopeToggle={(scope) => updateState({ type: "toggle-scope", scope })}
-              onBookToggle={(bookSlug) => updateState({ type: "toggle-book", bookSlug })}
+              onBookToggle={() => {}}
               onProximityChange={(distance) => updateState({ type: "set-proximity-distance", distance })}
               onBooleanRowChange={updateBooleanRow}
               onBooleanRowAdd={addBooleanRow}
@@ -335,34 +317,6 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
               {statusMessage ? <p data-search-status={status}>{statusMessage}</p> : null}
               {status === "error" ? (
                 <button class="button-muted" type="button" onClick={retry}>{text.search.actions.retry}</button>
-              ) : null}
-            </div>
-
-            <div class="home-search__results">
-              {state.query.trim() && status !== "loading" && status !== "error" ? (
-                <p class="home-search__result-count" data-search-result-count aria-live="polite">
-                  {text.search.results.count({ count: total })}
-                </p>
-              ) : null}
-
-              {results.length > 0 ? (
-                <ol class="search-result-list">
-                  {results.map((result) => (
-                    <li key={`${result.bookSlug}:${result.partNo}`}>
-                      <a href={localizedPath(locale, `/books/${result.bookSlug}/parts/${result.partNo}/`)}>
-                        <span class="search-result__book">{result.bookTitle}</span>
-                        <span class="search-result__part">{result.partNo.toUpperCase()}</span>
-                        <strong>{result.title}</strong>
-                        {result.matchedFields.includes("text") ? <small>{text.search.results.fromText}</small> : null}
-                      </a>
-                    </li>
-                  ))}
-                </ol>
-              ) : state.query.trim() && status !== "loading" && status !== "error" ? (
-                <div class="search-empty-state">
-                  <p>{text.search.results.noResults}</p>
-                  <small>{text.search.results.fewerWords}</small>
-                </div>
               ) : null}
             </div>
           </div>
