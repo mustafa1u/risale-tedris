@@ -1530,6 +1530,34 @@ h3 {
   margin-bottom: 16px;
 }
 
+.book-search-fallback {
+  margin-bottom: 16px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.book-search-fallback > summary {
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  padding: 10px 14px;
+  color: var(--accent-strong);
+  cursor: pointer;
+  font-weight: 760;
+}
+
+.book-search-fallback > summary:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--accent) 58%, transparent);
+  outline-offset: 3px;
+}
+
+.book-search-fallback .toolbar {
+  margin: 0;
+  padding: 4px 14px 14px;
+}
+
 .guidance-panel {
   display: grid;
   gap: 8px;

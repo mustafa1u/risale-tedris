@@ -80,6 +80,30 @@ describe("UX page accessibility markup", () => {
     assert.match(source, /data-grades={gradeSlugs}/);
   });
 
+  it("collapses the contextual book search while retaining the metadata controls", async () => {
+    const source = await readPage("book");
+    const disclosureIndex = source.indexOf('data-book-search-fallback');
+    const toolbarIndex = source.indexOf('data-part-toolbar');
+
+    assert.match(source, /<details class="book-search-fallback" data-book-search-fallback>/);
+    assert.match(source, /<summary data-book-search-trigger>{text\.search\.triggers\.book}<\/summary>/);
+    assert.equal(disclosureIndex > -1, true);
+    assert.equal(toolbarIndex > disclosureIndex, true);
+    assert.match(source, /data-part-search/);
+    assert.match(source, /data-grade-filter/);
+  });
+
+  it("preserves stable row identifiers, canonical links, capability badges, and result counts", async () => {
+    const source = await readPage("book");
+
+    assert.match(source, /data-part-no={part\.partNo}/);
+    assert.match(source, /href={localizedPath\(locale, partPath\)}/);
+    assert.equal(countSnippet(source, 'href={localizedPath(locale, partPath)}'), 2);
+    assert.match(source, /class="meta-list part-row__capabilities"/);
+    assert.match(source, /data-filter-status/);
+    assert.match(source, /text\.book\.resultCount\({ count: book\.parts\.length }\)/);
+  });
+
   it("retains the metadata filter as the reversible full-text-search fallback", async () => {
     const source = await readPage("book");
 

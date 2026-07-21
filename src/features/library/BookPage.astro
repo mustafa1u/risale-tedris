@@ -54,26 +54,29 @@ const getCapabilityLabel = (item: { key: string; count?: number }) => {
         <p>{text.book.guide.body}</p>
       </section>
 
-      <div
-        class="toolbar"
-        data-part-toolbar
-        data-search-fallback="metadata"
-        data-full-text-search-enabled={String(SEARCH_ENABLED)}
-      >
-        <div class="field">
-          <label for="part-search">{text.book.searchLabel}</label>
-          <input id="part-search" type="search" placeholder={text.book.searchPlaceholder} data-part-search />
+      <details class="book-search-fallback" data-book-search-fallback>
+        <summary data-book-search-trigger>{text.search.triggers.book}</summary>
+        <div
+          class="toolbar"
+          data-part-toolbar
+          data-search-fallback="metadata"
+          data-full-text-search-enabled={String(SEARCH_ENABLED)}
+        >
+          <div class="field">
+            <label for="part-search">{text.book.searchLabel}</label>
+            <input id="part-search" type="search" placeholder={text.book.searchPlaceholder} data-part-search />
+          </div>
+          <div class="field">
+            <label for="grade-filter">{text.book.gradeLabel}</label>
+            <select id="grade-filter" data-grade-filter>
+              <option value="">{text.book.allGrades}</option>
+              {book.grades.map((grade) => (
+                <option value={grade.slug}>{getGradeShortLabel(locale, grade.slug, grade.label)}</option>
+              ))}
+            </select>
+          </div>
         </div>
-        <div class="field">
-          <label for="grade-filter">{text.book.gradeLabel}</label>
-          <select id="grade-filter" data-grade-filter>
-            <option value="">{text.book.allGrades}</option>
-            {book.grades.map((grade) => (
-              <option value={grade.slug}>{getGradeShortLabel(locale, grade.slug, grade.label)}</option>
-            ))}
-          </select>
-        </div>
-      </div>
+      </details>
       <p
         class="filter-status"
         data-filter-status
@@ -103,6 +106,7 @@ const getCapabilityLabel = (item: { key: string; count?: number }) => {
             <article
               class="part-row"
               data-part-row
+              data-part-no={part.partNo}
               data-search={`${part.partNo} ${part.title} ${part.labelSlug}`}
               data-grades={gradeSlugs}
             >
