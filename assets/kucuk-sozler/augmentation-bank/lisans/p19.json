@@ -1,0 +1,884 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:lisans:p19",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "lisans",
+  "partNo": "p19",
+  "partNumber": 19,
+  "title": "6. Söz: Beş derece hasaret (1-5); zayi mal-ömür, hıyanet, sukut, ağır yük, Cehennem kapıları",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/lisans/SveC_lisans_kucuk-sozler-p19-6-soz-bes-derece-hasaret-1-5-zayi-mal-omur-hiyanet-sukut-agir-yuk-cehennem-kapilari.txt",
+  "sourceRevision": "47fbcc8ba92dec59781e9972058a061cebf36054cac8f7b9b163baea5b862861",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu kârlı kulluk ve emanet şuuruyla hareket edilmezse, metne göre insan genel olarak ne kaybeder?",
+          "answer": "Sadece bazı faydalardan mahrum kalmaz; peş peşe gelen ağır zararların içine düşer.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İlk zarar içinde sayılan şeyler hangi dünya nimetleri etrafında toplanır?",
+          "answer": "Mal, evlat, nefis arzuları, gençlik ve hayat gibi insanın bağlandığı geçici nimetler etrafında toplanır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu ilk zararda insanın elinden çıkanlarla geride kalanlar arasında nasıl bir fark vardır?",
+          "answer": "Sevdiği şeyler gider; fakat onların peşinden işlenen günahlar ve doğan acılar kişiye yük olarak kalır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci zarar hangi ahlâkî suça bağlanmıştır?",
+          "answer": "Kişinin kendisine verilen emanetleri yanlış yerde kullanmasına, yani emanete sadakatsizlik etmesine bağlanmıştır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci zararda geçen “değerli araçları değersiz işlerde kullanma” düşüncesi neyi anlatır?",
+          "answer": "İnsana verilen yüksek kabiliyetlerin nefsin istekleri uğruna harcanmasını anlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncü zarar, insanın mahiyeti hakkında nasıl bir düşüşten söz eder?",
+          "answer": "İnsandaki üstün donanımın çok aşağı bir seviyeye indirilmesinden söz eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre bu düşüş sadece kişisel bir kayıp mıdır, yoksa başka bir yönü daha var mıdır?",
+          "answer": "Sadece kişisel bir kayıp değildir; aynı zamanda İlâhî hikmete karşı haksızlık ve saygısızlık anlamı da taşır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Dördüncü zarar, insanın hangi iki temel özelliğini öne çıkarır?",
+          "answer": "Güçsüzlüğünü ve muhtaçlığını öne çıkarır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu dördüncü zararda hayat nasıl tasvir edilmektedir?",
+          "answer": "Taşınması zor, ağır bir yük gibi gösterilmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Dördüncü zararın duygusal sonucu nedir?",
+          "answer": "Kişi yok oluş ve ayrılık darbeleri altında sürekli feryat eden bir hâle gelir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Beşinci zarar, hangi nimetlerin kötü bir sonuca çevrilmesini anlatır?",
+          "answer": "Akıl, kalp, göz ve dil gibi Rahmânî hediyelerin kötüye kullanılmasını anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu son zararda asıl vurgu, organların yok olması mı yoksa yönünün bozulması mıdır?",
+          "answer": "Vurgu yok olmalarına değil, yanlış yöne çevrilip insanın aleyhine işlemesine yapılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada beş zarar anlatılırken ana fikir hangi uyarı etrafında şekilleniyor?",
+          "answer": "İnsan, kendisine verilen nimetleri doğru değerlendirmezse hem dünyada hem âhirette ağır kayıplara uğrar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İlk zararda sayılan nimetlerin ortak niteliği nedir?",
+          "answer": "Hepsi geçicidir ve insanda güçlü bağlılık uyandıran şeylerdir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "İlk zarar, dünya sevgisine kapılan kişiye nasıl bir sonuç bildiriyor?",
+          "answer": "Sahip çıktığı şeyleri koruyamaz; üstelik onların manevi bedelini de taşımak zorunda kalır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "“Emanete ihanet” ifadesi burada neyin sembolüdür?",
+          "answer": "İnsanın kendisine verilen beden, kabiliyet ve imkânları yaratılış gayesine aykırı kullanmasının sembolüdür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci zarar neden “kişinin kendine zulmü” olarak değerlendirilebilir?",
+          "answer": "Çünkü en kıymetli taraflarını basit hevesler uğruna ziyan ederek kendi özüne zarar verir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncü zarar, insan ile hayvan arasındaki fark bakımından nasıl anlaşılmalıdır?",
+          "answer": "İnsanı yücelten manevi ve aklî yönler işletilmezse, insan kendi seviyesini aşağıya çeker.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde üçüncü zarar ile İlâhî hikmet arasında nasıl bir ilişki kuruluyor?",
+          "answer": "İnsanın yaratılışındaki hikmeti boşa çıkarmak, o hikmete karşı büyük bir haksızlık gibi sunuluyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Dördüncü zarar hangi varoluşsal yükü öne çıkarıyor?",
+          "answer": "Hayatın zorluklarını tek başına taşımaya kalkmanın ezici yükünü öne çıkarıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Zeval” ve “firak” fikri dördüncü zararda hangi ruh hâline yol açıyor?",
+          "answer": "Sürekli kayıp ve ayrılık korkusuyla sarsılan, huzursuz bir ruh hâline yol açıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Beşinci zarar, insana verilen manevî ve bedensel imkânların hangi istikamette bozulduğunu bildiriyor?",
+          "answer": "Bu imkânların insanı kurtuluşa değil, felakete götürecek bir şekle dönüştüğünü bildiriyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Akıl, kalp, göz ve dilin birlikte anılması neyi gösterir?",
+          "answer": "İnsanın hem iç dünyasının hem dış dünyayla ilişkili araçlarının hesaba katıldığını gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Beş zararın tümü birlikte düşünüldüğünde, metnin insana verdiği temel ders nedir?",
+          "answer": "Nimetler sahipsiz değildir; onları yanlış kullanmak geçici kayıp değil, çok yönlü bir hüsrandır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre bu ticareti yapmayan kişi yalnızca kazanç fırsatını mı kaçırır?",
+          "answer": "Hayır; kazancı kaçırmanın ötesinde, kat kat zarar görür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci zarar içinde geçen sevgi ve bağlılık unsurları daha çok insanın hangi yönüne hitap eder?",
+          "answer": "Dünyevî arzularına, duygusal bağlarına ve nefsânî meyillerine hitap eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Birinci zarar, günah ile dünyalıklar arasındaki ilişkiyi nasıl kuruyor?",
+          "answer": "Dünyalıklar kaybolur ama onlara bağlı yanlışların yükü sahibinde kalır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci zarar, “ceza” fikrini hangi gerekçeye dayandırır?",
+          "answer": "Kişinin kendisine emanet edilen kıymetli imkânları yanlış amaçlarla kullanmasına dayandırır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Buradaki emanet anlayışına göre insanın sahip olduğu imkânlar üzerinde mutlak tasarrufu var mıdır?",
+          "answer": "Hayır; onlar sınırsızca harcanacak şahsî mülk değil, sorumlulukla kullanılacak emanetlerdir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncü zarar insanın değerini hangi ölçüye göre değerlendirmektedir?",
+          "answer": "İnsanın taşıdığı yüksek kabiliyet ve yaratılış gayesine göre değerlendirmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İnsanî donanımın aşağı seviyeye indirilmesi neden sadece bir eksiklik değil, aynı zamanda bir zulüm sayılıyor?",
+          "answer": "Çünkü hem verilen nimetlerin hakkı çiğneniyor hem de yaratılış maksadı tersine çevriliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Dördüncü zarar, insanın tek başına dayanamayacağı hangi gerçeği hatırlatıyor?",
+          "answer": "İnsanın hem zayıf hem muhtaç olduğu için hayatın yükünü kendi gücüyle taşıyamayacağını hatırlatıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu ağır yük altında kalmanın sonucu metinde hangi ifadeyle özetlenebilir?",
+          "answer": "Sürekli sızlanma, acı çekme ve ayrılık darbeleri altında ezilme hâliyle özetlenebilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Beşinci zarar, güzel nimetlerin kötü sonuçlara dönüşmesini hangi alan üzerinden anlatıyor?",
+          "answer": "Âhiret bakımından zararlı sonuçlar doğuracak bir dönüşüm üzerinden anlatıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Beşinci zararda sayılan nimetlerin ortak özelliği nedir?",
+          "answer": "Hepsi insana doğruyu bulmak ve ebedî hayat için hazırlanmak üzere verilmiş değerli vasıtalardır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Parçaya göre en büyük problem nimetlerin azlığı mı, yoksa yanlış kullanımı mıdır?",
+          "answer": "Asıl problem nimetlerin azlığı değil, onların yanlış yola sevk edilmesidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde “hasaret” kavramı nasıl bir anlam genişliği taşıyor?",
+          "answer": "Sadece maddî kaybı değil, ahlâkî, ruhî ve uhrevî yıkımı da içine alıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İlk zararda insanın sevdiği şeylerin kaybolması niçin tek başına bırakılmamıştır?",
+          "answer": "Çünkü asıl acı, onların gitmesiyle beraber manevi yüklerin insanda kalmasıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Birinci zararda kalan yükler hangi iki başlık altında toplanabilir?",
+          "answer": "İşlenen yanlışların vebali ve onların doğurduğu iç acıları altında toplanabilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci zararın merkezinde hangi yanlış tercih vardır?",
+          "answer": "Değeri yüksek olan imkânları düşük ve bayağı amaçlara sarf etme tercihi vardır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu yanlış tercih neden “nefsine zulüm” olarak niteleniyor?",
+          "answer": "Çünkü insan, kendi iyiliğine hizmet etmesi gereken nimetleri kendine zarar verecek şekilde kullanıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncü zarar, insanın konumunu aşağı çekmenin yanında hangi inanç boyutuna temas eder?",
+          "answer": "Yaratılıştaki hikmet ve anlamı inkâr edercesine davranma boyutuna temas eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Dördüncü zararda geçen hayat yükü, daha çok dış şartlardan mı yoksa insanın iç durumundan mı ağırlaşmaktadır?",
+          "answer": "İnsanın aczi ve fakrı sebebiyle, yani iç durumuyla daha da ağırlaşmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Dördüncü zararın sonunda ortaya çıkan psikolojik tablo nasıldır?",
+          "answer": "Sürekli sarsılan, ayrılıklardan bunalan ve feryat hâlinde yaşayan bir tablo vardır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Beşinci zarar, insana verilmiş hediyelerin asıl hedefinin ne olduğunu dolaylı olarak nasıl gösteriyor?",
+          "answer": "Bu hediyelerin ebedî saadete hazırlık için verildiğini, aksi kullanımın ise ters sonuç doğurduğunu gösteriyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Akıl ve kalbin birlikte anılması hangi dengeyi hatırlatır?",
+          "answer": "İnsan hayatında hem düşüncenin hem de mânevî yönelişin birlikte önem taşıdığını hatırlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Bu beş zarar arasında sebep-sonuç ilişkisi kurulduğunda ilk bozulma nerede başlar?",
+          "answer": "İlk bozulma, insana verilen nimetlerin emanet bilinciyle değil nefsânî ölçülerle kullanılmasında başlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin bu kısmı genç bir insana en çok hangi konuda uyanıklık tavsiye eder?",
+          "answer": "Geçici heveslere aldanmadan sahip olduğu imkânların hesabını düşünme konusunda uyanıklık tavsiye eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde kârlı yol terk edilince karşılaşılan zararlar kaç başlıkta toplanmıştır?",
+          "answer": "Beş başlıkta toplanmıştır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İlk başlıktaki zarar daha çok hangi aldanışı düzeltmektedir?",
+          "answer": "Dünya nimetlerinin kalıcı olduğu vehmini düzeltmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İlk zararda neden sevilen şeylerle beraber gençlik ve hayat da anılmıştır?",
+          "answer": "Çünkü insanın en çok güvendiği ve bağlandığı geçici değerlerin tamamı buna dâhildir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Birinci zarar açısından bakıldığında, insanın yanında kalan şeyler niçin ağırdır?",
+          "answer": "Çünkü onlar maddî değil, vicdanı yoran günah ve elem yükleridir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci başlıktaki zarar, sorumluluk fikrini nasıl güçlendiriyor?",
+          "answer": "Verilen imkânların hesabının sorulacağını ve gelişigüzel kullanılamayacağını gösteriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "“En değerli araçlar” ifadesi hangi tür nimetleri kapsar?",
+          "answer": "İnsanın maddî ve manevî bütün kabiliyetlerini ve hayat imkânlarını kapsar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü zarar insanın yaratılış şerefine nasıl ters düşer?",
+          "answer": "İnsanı yükseltmesi gereken özellikleri aşağı bir seviyeye indirerek yaratılış şerefini zedeler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Üçüncü zararın sonunda geçen haksızlık ifadesi kime ve neye yöneliktir?",
+          "answer": "İlâhî hikmete ve insanın hikmetli yaratılışına yöneliktir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Dördüncü başlıktaki zarar, insanın hangi şartlar altında daha çok ezileceğini bildirir?",
+          "answer": "Güçsüz ve muhtaç hâliyle hayatın yükünü kendi başına taşımaya kalktığında daha çok ezileceğini bildirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Dördüncü zarar niçin sadece dış sıkıntı değil, iç çöküş de doğurur?",
+          "answer": "Çünkü ayrılık ve yok oluş düşüncesi insanın iç dünyasını sürekli yaralar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Beşinci zarar, verilen nimetlerin yönünü ters çevirmek bakımından nasıl bir tehlike gösterir?",
+          "answer": "Hidayete vesile olması gereken araçların insanı azaba sürükleyen vasıtalara dönüşebileceği tehlikesini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Tüm zararlar birlikte düşünüldüğünde, metin insanı hangi iki alanda sorumlu tutuyor?",
+          "answer": "Hem dünya hayatındaki kullanım biçiminde hem de âhiret sonucunda sorumlu tutuyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajın genel tonu daha çok teşvik edici mi yoksa sakındırıcı mıdır?",
+          "answer": "Sakındırıcıdır; insanı ağır sonuçlara karşı uyarmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İlk zarar, bağlılık duyulan şeylerin sonu hakkında hangi gerçeği bildirir?",
+          "answer": "Onların elde kalmayacağını ve sonunda insandan ayrılacağını bildirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İlk zararda asıl elem verici nokta neden kaybetmekten daha fazlasıdır?",
+          "answer": "Çünkü kaybın ardından manevi borçlar ve acılar insanın üzerinde kalmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci zarar hangi yanlış kullanımın cezası olarak sunuluyor?",
+          "answer": "Yüksek değerdeki emanetleri düşük hevesler uğruna harcamanın cezası olarak sunuluyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu ikinci zarar, insanın kendisine bakışını nasıl düzeltmeyi amaçlar?",
+          "answer": "Kendini başıboş bir sahip değil, sorumlu bir emanetçi olarak görmesini amaçlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncü zarar, insanî cihazların kötü kullanımı sonucunda hangi seviye kaybını anlatıyor?",
+          "answer": "İnsanın sahip olduğu üstün makamı kaybedip çok aşağı bir duruma düşmesini anlatıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü zararın sonunda geçen itham, basit bir hata mı yoksa daha ciddi bir mânevî suç mu ifade eder?",
+          "answer": "Daha ciddi bir mânevî suç ifade eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Dördüncü zarar, acz ve fakr ile hayat yükü arasında nasıl bir bağlantı kuruyor?",
+          "answer": "İnsan ne kadar zayıf ve muhtaçsa, hayatın yükü ona o kadar ağır gelir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "“Sürekli feryat” hali hangi düşüncelerin baskısıyla doğuyor?",
+          "answer": "Yok oluş ve ayrılık düşüncelerinin baskısıyla doğuyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Beşinci zarar, akıl ve diğer duyguların hangi asıl vazifesine işaret eder?",
+          "answer": "Ebedî hayata hazırlık ve uhrevî saadete vesile olma vazifesine işaret eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu vazife terk edilirse söz konusu nimetler nasıl bir netice verir?",
+          "answer": "İnsanın lehine çalışmak yerine onun aleyhine dönen tehlikeli araçlar hâline gelir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:lisans:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Pasajın tamamından çıkarılacak en özlü ders nedir?",
+          "answer": "İnsana verilen her nimet büyük bir sorumluluktur; doğru kullanılmazsa nimet olmaktan çıkıp zarara dönüşür.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

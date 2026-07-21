@@ -1,0 +1,860 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:2-sinif:p08",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "2-sinif",
+  "partNo": "p08",
+  "partNumber": 8,
+  "title": "2. mesele / 1. muhal: zerrelere şuur ve ilim vermek lâzım gelmesi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/2-sinif/SveC_2sinif_tabiat-risalesi-p08-2-mesele-1-muhal-zerrelere-suur-ve-ilim-vermek-lazim-gelmesi.txt",
+  "sourceRevision": "0abf02525567df7a530fc396e1ff3cd13f6338701ebbfedfcbd403950ecb0d85",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde ele alınan düşünce nedir?",
+          "answer": "Bir şeyin kendi kendine oluştuğu düşüncesi.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu düşünce için nasıl bir hüküm veriliyor?",
+          "answer": "Yanlış ve imkânsız olduğu söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu bölümde bu yanlış düşünceden kaç örnek anlatılacağı bildiriliyor?",
+          "answer": "Üç örnek.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan burada nasıl bir varlık olarak anlatılıyor?",
+          "answer": "Sürekli yenilenen, düzenli ve hayret verici bir varlık olarak.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanın bedeninde nelerin çalıştığı söyleniyor?",
+          "answer": "Zerrelerin çalıştığı söyleniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanın bedeni özellikle hangi yönden dış dünya ile bağlantılı gösteriliyor?",
+          "answer": "Rızık yönünden ve soyun devamı yönünden.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bedendeki zerreler niçin dikkatli hareket ediyor?",
+          "answer": "Bedenin düzeni bozulmasın diye.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu zerreler sanki neye bakıyor gibi anlatılıyor?",
+          "answer": "Sanki bütün kâinata bakıyor gibi.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İnsan, içteki ve dıştaki duygularıyla neden faydalanır?",
+          "answer": "Zerrelerin düzenli çalışması sayesinde.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Zerreler Allah’ın emriyle çalışan görevliler olarak kabul edilmezse, her bir zerreye ne vermek gerekir?",
+          "answer": "Çok büyük bir görme gücü ve çok büyük bir akıl vermek gerekir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bir zerre için sadece bedenini bilmesi yeterli mi görülüyor?",
+          "answer": "Hayır, bütün kâinatla ilgili şeyleri de bilmesi gerekir gibi olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Metne göre küçücük zerreye pek büyük bilgi vermeyi doğru saymak nasıl değerlendirilir?",
+          "answer": "Çok akılsızca bir kuruntu olarak değerlendirilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "“Kendi kendine oluyor” sözü bu bölümde nasıl karşılanıyor?",
+          "answer": "Olmaz ve yanlış bir söz olarak.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın var olduğu açıkça söyleniyor mu?",
+          "answer": "Evet, insanın var olduğu söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "İnsan tek parça, değişmeyen cansız bir madde gibi mi anlatılıyor?",
+          "answer": "Hayır, öyle anlatılmıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan neye benzetiliyor?",
+          "answer": "Düzenli bir makineye ve değişen bir saraya.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bedende sürekli bir yenilenme olduğu anlatılıyor mu?",
+          "answer": "Evet, anlatılıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İnsan bedeninin kâinatla ilişkisi olduğu hangi örneklerle anlatılıyor?",
+          "answer": "Rızık ve neslin sürmesi örnekleriyle.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Zerreler bu ilişkileri korumak için nasıl davranıyor?",
+          "answer": "Çok dikkatli ve ölçülü davranıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:2-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Zerrelerin hâli, sanki insanın bağlantılarını nerede görüyormuş gibi anlatılıyor?",
+          "answer": "Kâinatta görüyormuş gibi.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İnsan bu düzenli çalışmadan nasıl yararlanıyor?",
+          "answer": "Duyularıyla yararlanıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Zerreler Allah’ın kudretiyle görev yapan küçük vazifeliler olarak görülmezse nasıl bir sorun çıkıyor?",
+          "answer": "Her zerreye çok üstün bilgi ve şuur vermek gerekiyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Her bir zerreye nasıl bir göz gerektiği söyleniyor?",
+          "answer": "Bedenin her yerini ve kâinatla ilgili bağlantıları görecek bir göz.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu düşünceye sonunda hangi sonuç bağlanıyor?",
+          "answer": "Bunun çok saçma bir inanış olduğu söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada yanlış bulunan söz hangi sözdür?",
+          "answer": "Bir şeyin kendi kendine meydana geldiği sözü.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu sözün yalnız bir bakımdan mı, yoksa birçok bakımdan mı yanlış olduğu anlatılıyor?",
+          "answer": "Birçok bakımdan yanlış olduğu anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İlk örnekte kime seslenilerek konuşuluyor?",
+          "answer": "İnkârda direnen kişiye.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Böyle bir kimsenin hangi kötü huyu onun doğru düşünmesini zorlaştırıyor?",
+          "answer": "Benlik ve inat.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İnsan bedeni neden sıradan bir taş ya da cansız madde gibi görülmüyor?",
+          "answer": "Çünkü değişiyor, yenileniyor ve düzenli çalışıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bedenin içinde çalışan zerreler gelişigüzel mi hareket ediyor?",
+          "answer": "Hayır, düzenli hareket ediyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Zerrelerin dikkatli oluşu neyi korumaya yardım ediyor?",
+          "answer": "Bedendeki bağlantıları ve düzeni korumaya.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İnsanın kâinatla bağı olduğu hangi alanda özellikle söyleniyor?",
+          "answer": "Beslenme alanında.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde insanın geçmişi ve geleceğiyle ilgili bilgilere de ihtiyaç duyulacağından söz ediliyor mu?",
+          "answer": "Evet, söz ediliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Zerreleri Allah’ın kudretinin görevlileri saymazsak, o zerrelerin neyi bilmesi gerekir gibi olur?",
+          "answer": "İnsanla ilgili çok geniş bilgileri bilmesi gerekir gibi olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Küçücük bir parçaya çok büyük bilgelik vermek akla uygun mu gösteriliyor?",
+          "answer": "Hayır, uygun gösterilmiyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın ana fikri nedir?",
+          "answer": "İnsandaki düzen kendi kendine olamaz; Allah’ın kudretiyle olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümün başında hangi iddia anlatılıyor?",
+          "answer": "Varlığın kendi kendine şekil aldığı iddiası.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iddia için nasıl bir değerlendirme yapılıyor?",
+          "answer": "Çok yanlış ve imkânsız deniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İnsan bedeni hareketsiz ve değişmeden duran bir yapı mı?",
+          "answer": "Hayır, sürekli değişen bir yapı.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan için verilen iki benzetmeden biri nedir?",
+          "answer": "Düzenli bir makine.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Diğer benzetme nedir?",
+          "answer": "Değişip yenilenen bir saray.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bedenin içinde çalışan küçük parçalar neyi bozmamaya dikkat ediyor?",
+          "answer": "Bağları ve düzeni bozmamaya.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Zerreler işlerini yaparken özensiz mi, tedbirli mi davranıyor?",
+          "answer": "Tedbirli davranıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İnsan bu düzen sayesinde hangi araçlarla fayda görüyor?",
+          "answer": "İç ve dış duyularıyla.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Zerreler ilâhî kanunla çalışan vazifeliler sayılmazsa, her birinin nasıl bir bilgiye sahip olması gerekir?",
+          "answer": "Çok geniş ve derin bir bilgiye sahip olması gerekir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Her bir zerre sadece bugünü mü bilmeli olur, yoksa başka şeyleri de mi?",
+          "answer": "Başka şeyleri de bilmeli olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde zerrelerin insanın soyu ve besiniyle ilgili kaynakları da bilmesi gerektiği söyleniyor mu?",
+          "answer": "Evet, söyleniyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu yüzden “kendi kendine oluşma” düşüncesi için ne sonucu çıkıyor?",
+          "answer": "Bunun akla uygun olmadığı sonucu çıkıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada savunulan doğru yol nedir?",
+          "answer": "Her şeyi Allah’ın kudretiyle açıklamak.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Reddedilen yol nedir?",
+          "answer": "Kendi kendine oluştuğunu söylemek.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İnsan bedeni basit ve tekdüze mi gösteriliyor?",
+          "answer": "Hayır, çok düzenli ve hayret verici gösteriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bedende çalışan zerreler boşuna mı hareket ediyor?",
+          "answer": "Hayır, görevli gibi hareket ediyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu zerreler insanın hangi geniş çevreyle bağını dikkate alıyor?",
+          "answer": "Kâinatla olan bağını.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde özellikle hangi ihtiyaç insanın dış âlemle ilişkisini gösteriyor?",
+          "answer": "Rızık ihtiyacı.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "İnsan, zerrelerin güzel düzeninden ne ile yararlanıyor?",
+          "answer": "Duyularıyla yararlanıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Zerreler Allah’ın emrine bağlı kabul edilirse onları anlamak kolaylaşır mı?",
+          "answer": "Evet, kolaylaşır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu kabul edilmezse her bir zerreye nasıl bir özellik yüklenmiş olur?",
+          "answer": "Çok büyük bir bilgi ve anlayış yüklenmiş olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:2-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Her zerre sadece bedenin bir yerini mi görmeli olur?",
+          "answer": "Hayır, bütün bedeni görmeli olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Hatta beden dışındaki hangi büyük alanı da bilmesi gerekir gibi olur?",
+          "answer": "Kâinatı bilmesi gerekir gibi olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:2-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda bu düşünce hangi dille eleştiriliyor?",
+          "answer": "Çok aşırı bir saçmalık olarak eleştiriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada açıklanan mesele hangi sözdür?",
+          "answer": "Kendi kendine meydana gelme sözü.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu sözün doğru olmadığı nasıl gösterilmek isteniyor?",
+          "answer": "İmkânsız sonuçları anlatılarak.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İlk örnekte konu olarak hangi varlık seçiliyor?",
+          "answer": "İnsan.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan bedeninde durmadan bir hareket ve yenilenme var mı?",
+          "answer": "Evet, var.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bedenin içindeki zerrelerin çalışması rastgele mi gösteriliyor?",
+          "answer": "Hayır, ölçülü gösteriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Zerrelerin dikkatli davranması, insanın çevresiyle bağını koparmamaya mı yarıyor?",
+          "answer": "Evet, koparmamaya yarıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre insan yalnız kendi bedeniyle mi sınırlı bir ilişki içindedir?",
+          "answer": "Hayır, kâinatla da ilişki içindedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İnsanın bu düzenden yararlanmasında duyguların yeri var mı?",
+          "answer": "Evet, var.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Zerrelerin ilâhî bir kanunla hareket ettiğini kabul etmek yerine başka ne iddia edilirse büyük bir yanlış çıkıyor?",
+          "answer": "Her zerrede çok üstün bir göz ve akıl var denmiş olur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "O zaman bir zerre insanın hangi zamanlarıyla ilgili bilgileri de bilmek zorunda kalır?",
+          "answer": "Geçmişi ve geleceğiyle ilgili bilgileri.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:2-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Küçük bir zerreye bu kadar büyük özellik vermek makul mü sayılıyor?",
+          "answer": "Hayır, makul sayılmıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan çıkarılacak kısa ders nedir?",
+          "answer": "İnsandaki kusursuz düzen Allah’ın kudretiyledir, kendi kendine olmaz.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

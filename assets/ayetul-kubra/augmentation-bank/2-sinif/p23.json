@@ -1,0 +1,778 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:2-sinif:p23",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "2-sinif",
+  "partNo": "p23",
+  "partNumber": 23,
+  "title": "Eşcar ve nebatat: İn'am, temyiz-tezyin, suretlerin fethi (6. mertebe) / Birinci Makam 6. mertebe: özet kelime-i tevhid",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/2-sinif/SveC_2sinif_ayetul-kubra-p23-escar-ve-nebatat-inam-temyiz-tezyin-suretlerin-fethi-6-mertebe-birinci-makam-6-mertebe-ozet-kelime-i-tevhid.txt",
+  "sourceRevision": "8a93af0824cb4b3900890bf4446ca7f5d1fb155585b9b3c64c3a16ecf063d77f",
+  "setCount": 6,
+  "questionCount": 64,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada hangi varlıklar birlikte Allah’ın birliğine işaret ediyor?",
+          "answer": "Ağaçlar ve bitkiler.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Ağaçlar ve bitkiler bunu hangi üç şeyleriyle gösteriyor?",
+          "answer": "Yaprakları, çiçekleri ve meyveleriyle.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Yaprakların nasıl olduğu anlatılıyor?",
+          "answer": "Ölçülü ve güzel oldukları anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Çiçeklerde hangi özellik göze çarpıyor?",
+          "answer": "Süs ve güzellik.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Meyveler için hangi düzenli olma hali vurgulanıyor?",
+          "answer": "Düzenli ve anlamlı olmaları.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada ağaç ve bitkilerde görülen ilk büyük mana nedir?",
+          "answer": "Nimet verme, ikram etme ve iyilik etme.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu iyiliklerin rastgele değil, nasıl olduğu bildiriliyor?",
+          "answer": "Bilerek ve merhametle olduğu bildiriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci olarak hangi işler anlatılıyor?",
+          "answer": "Ayırma, süsleme ve şekil verme.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu işler hangi güzel sıfatlarla birlikte anılıyor?",
+          "answer": "İrade ve hikmetle.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Birbirine benzeyen çekirdek ve tanelerden çok farklı şekillerin çıkması bize neyi düşündürüyor?",
+          "answer": "Allah’ın kudretini ve birliğini düşündürüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Tohum ve çekirdekler çok farklı mı, yoksa birbirine benzer mi anlatılıyor?",
+          "answer": "Birbirine benzer oldukları anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Buna rağmen ortaya çıkan şekiller nasıl oluyor?",
+          "answer": "Çok çeşitli, farklı ve güzel oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın ana konusu hangi canlılardır?",
+          "answer": "Ağaçlar ve bitkiler.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu canlıların hepsinin bir ağızdan bildirdiği büyük hakikat nedir?",
+          "answer": "Allah’ın tek olduğuna şahitlik etmeleri.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Ağaçlar ve bitkiler adeta konuşur gibi neyle haber veriyor?",
+          "answer": "Yaprak, çiçek ve meyveleriyle.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Yapraklar hangi yönüyle dikkat çekiyor?",
+          "answer": "Ölçülü olmalarıyla.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Çiçekler hangi yönüyle dikkat çekiyor?",
+          "answer": "Güzelce bezenmiş olmalarıyla.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Meyveler hangi yönüyle dikkat çekiyor?",
+          "answer": "Düzenli olmalarıyla.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada nimet ve iyilik vermek hangi duyguyla beraber anılıyor?",
+          "answer": "Merhametle.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Ayırma, süsleme ve şekil vermenin arkasında ne olduğu söyleniyor?",
+          "answer": "İrade ve hikmet olduğu söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Çok sayıda farklı görüntünün çıkması nereden oluyor?",
+          "answer": "Benzer çekirdek ve tanelerden oluyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Az sayılan ve sınırlı olan şeyler hangileridir?",
+          "answer": "Çekirdekler ve taneler.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Sınırlı çekirdeklerden çıkan şekiller sınırlı mı anlatılıyor?",
+          "answer": "Hayır, çok çeşitli ve sayısız gibi anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu düzen ve çeşitlilik kimin eserini gösterir?",
+          "answer": "Allah’ın eserini gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Allah’ın varlığı ve birliği için hangi topluluğun ortak şahitliği anlatılıyor?",
+          "answer": "Bütün ağaç ve bitki çeşitlerinin ortak şahitliği.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Ağaç ve bitki çeşitlerinin ortak olması bize neyi gösterir?",
+          "answer": "Hepsinde aynı ilahî düzenin bulunduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Yapraklar nasıl bir güzellik içinde tasvir ediliyor?",
+          "answer": "Ölçülü ve düzgün bir güzellik içinde.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Çiçekler neyi hatırlatacak şekilde anlatılıyor?",
+          "answer": "Süslenmiş ve hoş bir güzelliği.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Meyveler bize hangi güzel özelliği gösteriyor?",
+          "answer": "Düzen ve anlam taşıyan bir yapıyı.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İlk delilde Allah’ın kullarına ne yaptığı görülüyor?",
+          "answer": "Nimet verip ikram ettiği görülüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci delilde canlılar arasında nasıl bir farklılık kurulduğu anlatılıyor?",
+          "answer": "Her birine ayrı özellik verildiği anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Şekil verme ve süsleme niçin önemlidir?",
+          "answer": "Bilinçli ve hikmetli bir işi gösterdiği için önemlidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü delilde en çok hangi karşılaştırma yapılıyor?",
+          "answer": "Benzer çekirdeklerle farklı şekillerin karşılaştırması yapılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Benzer tohumlardan farklı bitkilerin çıkması tesadüf olabilir mi diye düşünülüyor?",
+          "answer": "Olamayacağını düşündürüyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde hangi varlıkların tesbih eder gibi olduğu anlatılıyor?",
+          "answer": "Ağaçların ve bitkilerin.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Onların dili gibi görülen şeyler nelerdir?",
+          "answer": "Yaprakları, çiçekleri ve meyveleri.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Çiçeklerdeki süs neyi gösterir?",
+          "answer": "Güzellik veren bir yaratmayı gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Meyvelerdeki düzen neyi anlatır?",
+          "answer": "Planlı bir yaratılışı anlatır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada bu nimetlerin bilmeden değil, nasıl verildiği anlatılıyor?",
+          "answer": "Kasten ve rahmetle verildiği anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Ayırma ve şekil verme işleri neden önemlidir?",
+          "answer": "Her şeyin özel olarak yaratıldığını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Hikmet kelimesi burada neyi anlatır?",
+          "answer": "Her işin yerli yerinde ve anlamlı olmasını.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Çekirdek ve taneler birbirine benzerken bitkilerin görüntüsü neden dikkat çekiyor?",
+          "answer": "Çok farklı ve çeşitli çıktıkları için.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Az ve sayılı tohumlardan çok çeşit çıkması neyin delilidir?",
+          "answer": "Büyük kudretin delilidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde anılan varlıklar suskun mu kalıyor, yoksa bir mesaj mı veriyor?",
+          "answer": "Bir mesaj veriyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen mesajın özü nedir?",
+          "answer": "Allah’ın bir ve tek olduğu.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu mesajı vermede yaprakların payı nedir?",
+          "answer": "Ölçülü halleriyle bunu gösterirler.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu mesajı vermede çiçeklerin payı nedir?",
+          "answer": "Güzel ve süslü oluşlarıyla bunu gösterirler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu mesajı vermede meyvelerin payı nedir?",
+          "answer": "Düzenli oluşlarıyla bunu gösterirler.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İlk büyük işaret olarak hangi iyilikler sayılıyor?",
+          "answer": "Nimet, ikram ve ihsan.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu iyiliklerin yanında hangi duygu bulunuyor?",
+          "answer": "Rahmet.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci büyük işaret olarak hangi sanatlar sayılıyor?",
+          "answer": "Ayırma, süsleme ve suret verme.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu sanatlı işler hangi iki özellikle beraber zikrediliyor?",
+          "answer": "İrade ve hikmetle.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü büyük işarette başlangıçta benzer olan şeyler nelerdir?",
+          "answer": "Tohumlar ve çekirdekler.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Sonunda ortaya çıkanlar nasıl oluyor?",
+          "answer": "Birbirinden farklı, çeşitli ve güzel oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün bu işaretler birlikte neye şahittir?",
+          "answer": "Allah’ın varlığına ve birliğine şahittir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p23:2-sinif:S5Q2"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada tek tek birkaç bitki mi, yoksa bütün çeşitler mi anılıyor?",
+          "answer": "Bütün çeşitler anılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Ağaç ve bitkilerde görülen üç bölüm hangileridir?",
+          "answer": "Yaprak, çiçek ve meyve.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu üç bölümün ortak özelliği nedir?",
+          "answer": "Hepsinde düzen, ölçü ve güzellik vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Parçada Allah’ın kullarına verdiği nimetler nasıl bir davranış olarak anlatılıyor?",
+          "answer": "İyilik ve ikram olarak anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu iyiliklerin sevgi ve acıma yönünü anlatan kelime hangisidir?",
+          "answer": "Rahmet.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Canlıların birbirinden farklı yapılması hangi işlerin sonucu olarak gösteriliyor?",
+          "answer": "Ayırma, süsleme ve şekil vermenin sonucu olarak.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada benzer olan küçük başlangıçlar hangileridir?",
+          "answer": "Çekirdekler ve taneler.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu küçük başlangıçlardan çıkan şekillerin en dikkat çeken yönü nedir?",
+          "answer": "Çok çeşitli ve birbirinden ayrı olmaları.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p23:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Böyle bir çeşitlilik hangi ilahî sıfatları hatırlatır?",
+          "answer": "Kudret, irade ve hikmeti hatırlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

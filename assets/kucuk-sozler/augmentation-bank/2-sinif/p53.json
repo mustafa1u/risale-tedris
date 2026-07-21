@@ -1,0 +1,487 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:2-sinif:p53",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "2-sinif",
+  "partNo": "p53",
+  "partNumber": 53,
+  "title": "21. Söz / 1. Makam: Namaza usanç vehmi; nefse hitaba giriş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/2-sinif/SveC_2sinif_kucuk-sozler-p53-21-soz-1-makam-namaza-usanc-vehmi-nefse-hitaba-giris.txt",
+  "sourceRevision": "52e15b198337de2967940786d391b6a79e6244b3240f3f0f3058b5a9e8ffc9c9",
+  "setCount": 6,
+  "questionCount": 39,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada büyük bir kişi namaz hakkında hangi şikâyeti söylüyor?",
+          "answer": "Beş vakit olmasını çok buluyor ve bıktırdığını söylüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu sözden sonra kişi kendi içinde neyi fark ediyor?",
+          "answer": "Kendi nefsinin de aynı şeyi söylediğini anlıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p53:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Nefsin bu sözü nasıl aldığı anlatılıyor?",
+          "answer": "Tembellik yüzünden şeytandan öğrenmiş gibi anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p53:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Kişi neden önce kendi nefsini düzeltmek istiyor?",
+          "answer": "Çünkü insan önce kendini düzeltmeden başkasına faydalı olamaz.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Parçada nefse kaç uyarı verileceği söyleniyor?",
+          "answer": "Beş uyarı.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Nefsin bu sözü söylerken hangi kötü hâller içinde olduğu belirtiliyor?",
+          "answer": "Bilgisizlik, tembellik ve gaflet içinde olduğu belirtiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Burada asıl mücadele kiminle başlıyor?",
+          "answer": "İnsanın kendi nefsiyle başlıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Başta konuşan kişi, anlatana göre nasıl biridir?",
+          "answer": "Yaşça, bedençe ve makamca büyük biridir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "O kişi namazın hangi yönünü güzel buluyor?",
+          "answer": "Namazın iyi bir ibadet olduğunu kabul ediyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Buna rağmen neden yakınır?",
+          "answer": "Her gün beş defa olmasını fazla görür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p53:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Aradan zaman geçince anlatan kişi ne yapıyor?",
+          "answer": "Kendi nefsini dinliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Nefsinde duyduğu söz, önceki kişinin sözüyle nasıl bağlantılıdır?",
+          "answer": "Aynı yakınmayı tekrar eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p53:2-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bu benzerlik ona neyi düşündürüyor?",
+          "answer": "Bu sözün yalnız bir kişiye değil, kötü nefse ait bir söz olduğunu düşündürüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p53:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Anlatan kişi işe nereden başlamaya karar veriyor?",
+          "answer": "Kendi nefsinden başlamaya karar veriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Nefse hitap ederken nasıl bir yol seçiyor?",
+          "answer": "Ona öğüt verip uyarılar yapıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yanlış düşüncenin kaynağı olarak ne gösteriliyor?",
+          "answer": "Nefis ve tembellik gösteriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Şeytanın etkisi nefiste hangi kapıdan giriyor gibi anlatılıyor?",
+          "answer": "Tembellik tarafından giriyor gibi anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Kişi, o büyük adamın sözünü nasıl değerlendiriyor?",
+          "answer": "Sanki birçok nefsin diliyle konuşmuş gibi görüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "“Nefsim emmaredir” demekle ne anlatılmak isteniyor?",
+          "answer": "Nefsin insanı kötüye çekebileceği anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Başkasını düzeltmekten önce ne yapılmalıdır?",
+          "answer": "Önce kendi nefsi düzeltilmelidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada geçen yakınma hangi ibadetle ilgilidir?",
+          "answer": "Namazla ilgilidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Yakınan kişi namazın sayısı için ne düşünüyor?",
+          "answer": "Çok olduğunu düşünüyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu yakınmanın hemen ardından anlatan kişi kime yöneliyor?",
+          "answer": "Kendi nefsine yöneliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Nefsini dinleyince ne öğreniyor?",
+          "answer": "Aynı itirazın kendi içinde de bulunduğunu öğreniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Kişi neden “önce kendimden başlarım” diyor?",
+          "answer": "Islahın önce insanın kendi içinde başlaması gerektiğini düşündüğü için.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Nefsin hangi üç kötü durumda olduğu söyleniyor?",
+          "answer": "Koyu bilgisizlikte, tembellikte ve gaflette.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada anlatan kişiye sözü söyleyen biri var mı?",
+          "answer": "Evet, büyük bir adam söylüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "O adam namazı tamamen kötü mü görüyor?",
+          "answer": "Hayır, iyi görüyor ama çok tekrar edildiğini sanıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Neden yeniden önem kazanıyor?",
+          "answer": "Çünkü aynı sözün nefiste de bulunduğu fark ediliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Anlatan kişi nefsi hakkında hangi gerçeği anlıyor?",
+          "answer": "Nefsin kötüye çağırabildiğini anlıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Parçaya göre insan başkasına öğüt vermeden önce ne yapmalı?",
+          "answer": "Kendi nefsini terbiye etmelidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Nefse hitap ederken onun hâli nasıl tasvir ediliyor?",
+          "answer": "Uykuda gibi dalgın, tembel ve bilgisiz bir hâlde gösteriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında hangi ibadetin vakitli bir görev olduğu bildiriliyor?",
+          "answer": "Namazın.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Büyük kişinin sözü namazın hangi yönüne itiraz ediyor?",
+          "answer": "Her gün beş kez kılınmasına itiraz ediyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Anlatan kişi bu sözü duyduktan uzun zaman sonra ne yapıyor?",
+          "answer": "İç dünyasına bakıp nefsini dinliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Kendi nefsinde duyduğu ses ona neyi gösteriyor?",
+          "answer": "Sorunun dışarıda değil, insanın içinde de olduğunu gösteriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "“Nefsini ıslah etmeyen, başkasını ıslah edemez” sözüne göre doğru sıra nedir?",
+          "answer": "Önce kendini düzeltmek, sonra başkasına yardımcı olmaktır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Nefse hitap edilirken hangi tavır görülüyor?",
+          "answer": "Ciddi, öğretici ve uyarıcı bir tavır görülüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p53:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Parça, okuyucuyu hangi hazırlığa çağırıyor?",
+          "answer": "Nefse verilecek beş dersi dikkatle dinlemeye çağırıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

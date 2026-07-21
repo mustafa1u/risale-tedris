@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:5-sinif:p45",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "5-sinif",
+  "partNo": "p45",
+  "partNumber": 45,
+  "title": "9. Söz / 5. Nükte: Asr namazının hikmeti",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/5-sinif/SveC_5sinif_kucuk-sozler-p45-9-soz-5-nukte-asr-namazinin-hikmeti.txt",
+  "sourceRevision": "38d763a7129a6329c8ba381a649bbc279670511c5637b31aa0862cb7189d1269",
+  "setCount": 6,
+  "questionCount": 67,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İkindi vakti, hangi üç durumu hatıra getirir?",
+          "answer": "Hüzünlü sonbaharı, yaşlılık hâlini ve ahir zamanın sıkıntılı günlerini düşündürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu vakit, günlük işler bakımından nasıl bir zamandır?",
+          "answer": "Gün içindeki işlerin sonuçlanmaya başladığı bir zamandır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İnsan o gün içinde hangi güzel nimetlere kavuşmuş olabilir?",
+          "answer": "Sağlık, esenlik ve hayırlı işler gibi nimetlere kavuşmuş olabilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Güneşin batıya yönelmesi insana hangi gerçeği hatırlatır?",
+          "answer": "İnsanın dünyada görevli bir misafir olduğunu ve her şeyin geçici bulunduğunu hatırlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde insan ruhunun hangi iki özelliği özellikle belirtilir?",
+          "answer": "Sonsuzluğu istemesi ve ayrılıktan üzülmesi belirtilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İkindi namazına hazırlanırken önce ne yapılmasından söz edilir?",
+          "answer": "Abdest alınmasından söz edilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İkindi namazında kul, Allah’ın hangi yönüne sığınır?",
+          "answer": "Sonu olmayan rahmetine sığınır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu namazda nimetler karşısında kuldan ne beklenir?",
+          "answer": "Şükretmesi ve hamdetmesi beklenir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Rükû, kulun hangi hâlini göstermesine vesile olur?",
+          "answer": "Aczini ve alçak gönüllülüğünü göstermesine vesile olur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Secde, Allah’ın hangi sıfatı karşısında yapılır?",
+          "answer": "Ebedî ilahlığı karşısında yapılır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "İkindi namazı insana gönül ve ruh bakımından ne kazandırır?",
+          "answer": "Kalbe teselli ve ruha huzur kazandırır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Metne göre ikindi namazını kılmak nasıl bir davranıştır?",
+          "answer": "Yüce bir görev, uygun bir hizmet, yaratılışa uygun bir borcu ödeme ve güzel bir mutluluk kazanmadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde bu vaktin, insan ömrünün hangi dönemine benzetildiği söylenir?",
+          "answer": "İhtiyarlık dönemine benzetilir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu vakit, zamanın genel gidişi hakkında neyi hatırlatır?",
+          "answer": "Dünyanın sonlara doğru giden yönünü hatırlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "O gün verilen nimetlerin çokluğu nasıl anlatılır?",
+          "answer": "Büyük bir nimet toplamı gibi gösterilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Güneşin aşağıya doğru kayması, dünya hayatı için hangi dersi verir?",
+          "answer": "Kalıcılığın dünyada olmadığını öğretir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "İnsan kendisini bu vakitte nasıl görmelidir?",
+          "answer": "Geçici bir yolcu ve görevli biri olarak görmelidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Ebediyet isteyen bir ruh neden ikindi namazına yönelir?",
+          "answer": "Kalıcı olan Rabbine yönelip O’na yakın olmak istediği için yönelir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İkindi namazında yapılan dua ve yönelişin amacı nedir?",
+          "answer": "Allah’a yalvarmak, rahmetini istemek ve kulluğu göstermek içindir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Rükûda özellikle hangi duygu öne çıkar?",
+          "answer": "Kullukta alçalma ve aczini bilme duygusu öne çıkar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Secdede hangi iç hâl anlatılır?",
+          "answer": "Kendini küçük görüp tam bir teslimiyetle Allah’a yönelme hâli anlatılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İkindi vakti insana tabiatta hangi mevsimi çağrıştırır?",
+          "answer": "Sonbaharı çağrıştırır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu çağrışımın insanda uyandırdığı duygu nedir?",
+          "answer": "Hüzün ve fanilik düşüncesidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre ikindi vakti, günün hangi noktasını gösterir?",
+          "answer": "Günlük işlerin toparlandığı sonlara yakın kısmını gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Sağlık ve selamet gibi nimetlerin hatırlanması kişiyi hangi göreve çağırır?",
+          "answer": "Şükretmeye çağırır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Güneşin batmaya yaklaşması hangi büyük gerçeğe işaret eder?",
+          "answer": "Her şeyin kalıcı olmadığını gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Ayrılık acısı çeken ruh, niçin Allah’a yönelerek namaz kılar?",
+          "answer": "Kalıcı teselliyi O’nun huzurunda bulmak için kılar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İkindi namazında Allah’ın rahmeti hakkında nasıl bir özellik öne çıkarılır?",
+          "answer": "Tükenmeyen ve son bulmayan bir merhamet olduğu öne çıkarılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Hamd ve şükür, hangi şeyin karşılığı olarak yapılır?",
+          "answer": "Sayılamayacak kadar çok nimetin karşılığı olarak yapılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Rükû ve secde birlikte düşünüldüğünde kulun hangi tavrını gösterir?",
+          "answer": "Saygı, teslimiyet ve kulluk tavrını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Metne göre bu namazı kılmak yalnız görev midir, yoksa başka bir sonucu da var mıdır?",
+          "answer": "Hem görevdir hem de güzel bir mutluluğa vesile olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S3Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İkindi vaktinin ilk bakışta insana hatırlattığı ortak düşünce nedir?",
+          "answer": "Geçicilik ve sona yaklaşma düşüncesidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde sonbahar, yaşlılık ve ahir zamanın birlikte anılması neyi güçlendirir?",
+          "answer": "Fanilik ve hüzün duygusunu güçlendirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Günün bu saatinde insan, o gün yaşadığı nimetleri nasıl görmelidir?",
+          "answer": "Büyük bir nimet birikimi olarak görmelidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Hangi işaretle insanın misafir olduğu anlatılır?",
+          "answer": "Güneşin batışa yönelmesiyle anlatılır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Misafir ve görevli olmak, insanın dünyadaki yeri hakkında ne söyler?",
+          "answer": "Burada kalıcı değil, geçici bir süre için bulunduğunu söyler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Ebedî hayatı isteyen insan ruhu, geçici şeyler karşısında neden sıkılır?",
+          "answer": "Çünkü kalıcı olana yönelmek ister ve ayrılıklardan incinir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İkindi namazına yönelen kul, kimin huzuruna çıktığını bilir?",
+          "answer": "Varlığı sonsuz olan ve her şeyi ayakta tutan Allah’ın huzuruna çıktığını bilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu namazda rahmete sığınma ile şükür arasında nasıl bir bağ vardır?",
+          "answer": "Kul hem merhamet ister hem de aldığı nimetler için teşekkür eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p45:5-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Rükûda kulun zillet içinde olması neyi ifade eder?",
+          "answer": "Rabbinin büyüklüğü karşısında kendi güçsüzlüğünü kabul ettiğini ifade eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Secde sırasında anlatılan mahviyet ne demektir?",
+          "answer": "Kibrini bırakıp tam bir kullukla Allah’a yönelmektir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde geçen “huzurda kulluk” ifadesi, namazın hangi yönünü öne çıkarır?",
+          "answer": "Allah’ın önünde saygıyla bağlı durmayı öne çıkarır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "İkindi namazı neden yaratılışa uygun bir borcun ödenmesi sayılır?",
+          "answer": "Çünkü insanın Rabbine yönelip şükretmesi fıtratına uygundur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "İkindi vakti, insanın iç dünyasında en çok hangi iki duyguyu uyandırır?",
+          "answer": "Hüzün ve fanilik düşüncesini uyandırır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu vakit neden yaşlılığa benzetilmiştir?",
+          "answer": "Çünkü gün de ömür gibi sonuna doğru yaklaşmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Günlük işlerin tamamlanması, insana ne yapma fırsatı verir?",
+          "answer": "Günün hesabını düşünme ve nimetleri fark etme fırsatı verir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "O gün elde edilen sağlık ve iyi işler neden önemli görülür?",
+          "answer": "Allah’ın büyük ihsanları olarak görüldüğü için önemlidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Güneşin aşağıya inmesi, insanın kendisi hakkında hangi hükme varmasına yardım eder?",
+          "answer": "Geçici bir yolcu olduğunu anlamasına yardım eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde ruhun ebediyet istemesi neyi gösterir?",
+          "answer": "İnsanın yalnız geçici şeylerle yetinmediğini gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Firaktan acı duyan bir kalp için ikindi namazı neden kıymetlidir?",
+          "answer": "Çünkü kalıcı olan Allah’a yönelerek teselli bulur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İkindi namazında yapılan münacat ne anlama gelir?",
+          "answer": "Kulun Allah’a içtenlikle yönelip yalvarması anlamına gelir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Nimetler karşısında hamd etmek, kulun hangi güzel özelliğini gösterir?",
+          "answer": "Şükreden bir kul olduğunu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Rükû ve secde, Allah’ın büyüklüğü karşısında nasıl bir duruş öğretir?",
+          "answer": "Saygılı, alçak gönüllü ve teslim olmuş bir duruş öğretir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre ikindi namazının gönle verdiği en önemli hediye nedir?",
+          "answer": "Gerçek teselli ve iç huzurudur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu namazı kılmanın sonunda elde edilen saadet nasıl bir saadettir?",
+          "answer": "Çok hoş ve insana uygun bir mutluluktur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İkindi vakti hangi bakımdan günün özel bir anıdır?",
+          "answer": "Hem günün sonuna yaklaşmayı hem de yapılan işlerin sonucunu düşündürdüğü için özeldir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Sonbahar, ihtiyarlık ve ahir zaman örnekleri birlikte verilerek ne anlatılmak istenir?",
+          "answer": "Azalma, son bulma ve dünyanın geçici oluşu anlatılmak istenir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "O gün yaşanan sağlık ve esenlik niçin özellikle anılır?",
+          "answer": "Bunların Allah’ın büyük nimetleri olduğunu fark ettirmek için anılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Güneşin batmaya yönelmesi, eşyanın hangi özelliğini bildirir?",
+          "answer": "Her şeyin değişen ve kalıcı olmayan bir yapıda olduğunu bildirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanın “misafir” olarak görülmesi onun hangi sorumluluğunu hatırlatır?",
+          "answer": "Görevini yapıp Rabbine yönelme sorumluluğunu hatırlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre insan ruhu neden sonsuzluğu arar?",
+          "answer": "Çünkü ebed için yaratılmıştır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İkindi namazına başlamadan önce abdest almak neyin işareti olarak düşünülebilir?",
+          "answer": "Namaza hazırlanmanın ve huzura temiz çıkmanın işareti olarak düşünülebilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İkindi namazında Allah’ın rahmetine sığınmak, insanın hangi ihtiyacına cevap verir?",
+          "answer": "Güven ve merhamet ihtiyacına cevap verir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Şükür, hamd, rükû ve secde bir araya gelince ne ortaya çıkar?",
+          "answer": "Tam bir kulluk ve Allah’a yöneliş ortaya çıkar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Rükûda aczi göstermek neden önemlidir?",
+          "answer": "Kulun kendi sınırlı gücünü bilip Rabbine dayanmasını sağladığı için önemlidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Secde ile bulunan kalp tesellisi nasıl bir tesellidir?",
+          "answer": "Gerçek, derin ve insanı rahatlatan bir tesellidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p45:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin sonuna göre ikindi namazını anlamak insan hakkında ne gösterir?",
+          "answer": "Kişinin insan olmanın gereğini kavradığını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

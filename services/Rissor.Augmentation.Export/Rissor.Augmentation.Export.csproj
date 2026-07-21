@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <QAGeneratorLibProject Condition="'$(QAGeneratorLibProject)' == '' and '$(QAGENERATOR_LIB_PROJECT)' != ''">$(QAGENERATOR_LIB_PROJECT)</QAGeneratorLibProject>
+    <QAGeneratorLibProject Condition="'$(QAGeneratorLibProject)' == ''">$(UserProfile)\source\repos\QAGeneratorLib\QAGeneratorLib.csproj</QAGeneratorLibProject>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Rissor.Augmentation.Core\Rissor.Augmentation.Core.csproj" />
+    <ProjectReference Include="$(QAGeneratorLibProject)" Condition="Exists('$(QAGeneratorLibProject)')" />
+  </ItemGroup>
+  <Target Name="RequireQAGeneratorLib" BeforeTargets="PrepareForBuild" Condition="!Exists('$(QAGeneratorLibProject)')">
+    <Error Text="QAGeneratorLib project was not found at '$(QAGeneratorLibProject)'. Set QAGENERATOR_LIB_PROJECT or QAGeneratorLibProject." />
+  </Target>
+</Project>
+

@@ -1,0 +1,424 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:lisans:p24",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "lisans",
+  "partNo": "p24",
+  "partNumber": 24,
+  "title": "Hâtime / 1. Sual: Allah'ın ibadete ihtiyacı var mı?—ibadetin kulun ihtiyacı oluşu",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/lisans/SveC_lisans_tabiat-risalesi-p24-hatime-1-sual-allahin-ibadete-ihtiyaci-var-mi-ibadetin-kulun-ihtiyaci-olusu.txt",
+  "sourceRevision": "a23894a63247ac9e850ddbdd1142de83c0e02975559dbb8c32afe8b17201b4de",
+  "setCount": 6,
+  "questionCount": 32,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İlk soruda tembel kimselerin ileri sürdüğü temel itiraz nedir?",
+          "answer": "Allah’ın kulluğa muhtaç olmadığı halde, ibadeti terk edenlere neden çok ağır bir uyarı ve ceza bildirildiğini sorguluyorlar.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu itiraza verilen ilk cevapta insanın hangi yönü öne çıkarılıyor?",
+          "answer": "İnsanın mânevî bakımdan eksik ve yaralı olduğu, bu yüzden ibadete muhtaç bulunduğu vurgulanıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İbadet hangi benzetmeyle açıklanıyor?",
+          "answer": "Ruhî yaralara faydalı bir ilaç gibi gösteriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Şefkatli hekim örneği neyi anlatmak için kullanılıyor?",
+          "answer": "Bir fayda insana ait olduğu halde, nasihatin neden ısrarla yapıldığını açıklamak için kullanılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Buradan, ibadet emrindeki ısrarın kimin yararına olduğu sonucu çıkar?",
+          "answer": "Kulun kendi iyiliği ve mânevî sıhhati içindir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S1Q4"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde namazı ve ibadeti terk edenlerin sıkça söylediği sözün özü nedir?",
+          "answer": "Allah’ın ibadete ihtiyaç duymadığı düşüncesinden hareketle, ibadetsizliğe verilen sert karşılığı aşırı buluyorlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta Allah hakkında hangi temel ilke açıkça belirtiliyor?",
+          "answer": "Allah’ın kulların ibadetine ve aslında hiçbir şeye muhtaç olmadığı ifade ediliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Buna karşılık kul için hangi ihtiyaç dile getiriliyor?",
+          "answer": "Kulun ibadete muhtaç olduğu, çünkü iç dünyasında tedaviye muhtaç bir hâli bulunduğu söyleniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Hekim benzetmesindeki hasta neyi temsil eder?",
+          "answer": "İnsanın mânevî bakımdan bakıma ve yönelmeye muhtaç hâlini temsil eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Hekimin ilacı ısrarla vermesi niçin anlamsız sayılmaz?",
+          "answer": "Çünkü o ısrar hekimin ihtiyacından değil, hastanın iyiliğinden kaynaklanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S2Q4"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Hâtime bölümünde konuşan kişinin genel durumu nedir?",
+          "answer": "Önceki şüphelerinden kurtulmuş, iman etmiş; fakat bazı meseleleri daha iyi anlamak isteyen biridir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Onun ilk sorusu hangi yanlış anlayıştan doğuyor?",
+          "answer": "İbadetin Allah için gereksiz olduğu zannıyla, ibadeti terk etmeye verilen ağır tehdidi uygunsuz görme anlayışından doğuyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre asıl ihtiyaç sahibi kimdir?",
+          "answer": "İbadet bakımından ihtiyaç içinde olan kulun kendisidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanın iç dünyası hangi kelimeyle hastalıklı bir hâl olarak tasvir ediliyor?",
+          "answer": "Mânen hasta olduğu belirtiliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İbadetin bu hastalığa karşı görevi nedir?",
+          "answer": "İyileştirici ve onarıcı bir çare olmasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Hekim örneğinde ısrarın sebebi hekimde mi, hastada mı bulunur?",
+          "answer": "Hastadadır; faydaya muhtaç olan odur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İlk soruda eleştirilen kişiler hangi iki özellikleriyle tanıtılıyor?",
+          "answer": "Üşengeçlikleri ve namazı terk etmeleriyle tanıtılıyorlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kişilerin Kur’an’ın üslubuna dair itirazı nasıldır?",
+          "answer": "Küçük saydıkları bir kusur için çok sert bir ifade ve korkutucu bir ceza bildirildiğini düşünüyorlar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Verilen cevapta bu itirazın ilk kırılma noktası nedir?",
+          "answer": "İbadetin Allah’ın ihtiyacını karşılamadığı, insanın kendi ihtiyacına cevap verdiği gerçeği.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre ibadetin insan üzerindeki etkisi nasıl anlaşılmalıdır?",
+          "answer": "İnsan ruhunu tedavi eden ve ona fayda veren bir uygulama olarak anlaşılmalıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Hekim benzetmesi hangi yanlış bakışı düzeltir?",
+          "answer": "Faydalı emri verenin kendisi için konuştuğu zannını düzeltir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S4Q4"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki ilk soru, ibadet etmeyenlerin hangi düşüncesini görünür kılıyor?",
+          "answer": "Kulluğun insan için değil de sanki Allah için gerekli olduğu gibi yanlış bir düşünceyi görünür kılıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta bu düşünce hangi cümlelik esasla reddediliyor?",
+          "answer": "Allah muhtaç değildir; muhtaç olan kuldur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Kulun ihtiyacı sadece bedenî mi, yoksa başka bir yönü de var mı?",
+          "answer": "Asıl olarak mânevî yönü vardır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İbadetin ilaç gibi görülmesi, insanın hangi yönünü öne çıkarır?",
+          "answer": "Düzelmeye, arınmaya ve desteklenmeye muhtaç iç dünyasını öne çıkarır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Doktor örneğiyle hangi sonuç sezdiriliyor?",
+          "answer": "Faydalı emre karşı çıkmak, kişinin kendi menfaatini görememesi demektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S5Q4"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Hâtime’de imana gelen kişinin tavrı, inatçı bir reddediş mi yoksa öğrenmeye açık bir arayış mı gösteriyor?",
+          "answer": "Öğrenmeye açık bir arayış gösteriyor; şüpheleri bitmiş ama merakı sürüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci soruda “Allah’ın ihtiyacı yoksa niçin ibadet isteniyor?” şeklindeki düşünce hangi yanlışa dayanır?",
+          "answer": "İbadetin faydasını yanlış tarafa nisbet etme yanlışıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metin bu yanlışı nasıl düzeltir?",
+          "answer": "İbadetin Allah için değil, kulun mânevî selâmeti için gerekli olduğunu bildirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p24:lisans:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan için kullanılan “hasta” benzetmesi neyi anlatır?",
+          "answer": "İnsanın ruh ve kalp yönünden tedaviye muhtaç olduğunu anlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İbadet bu çerçevede nasıl bir işlev görür?",
+          "answer": "Şifa veren bir çare ve onarıcı bir vesile olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p24:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Şefkatli hekimin tavrı ile dinî emirdeki ısrar arasında nasıl bir benzerlik kuruluyor?",
+          "answer": "İkisi de kendi çıkarı için değil, muhatabın iyiliği için ısrar eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

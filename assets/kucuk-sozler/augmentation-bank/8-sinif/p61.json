@@ -1,0 +1,806 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:8-sinif:p61",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "8-sinif",
+  "partNo": "p61",
+  "partNumber": 61,
+  "title": "21. Söz / 1. Makam / Hâtime: Dünya aldanışı; ölüm ve kabir ikazı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/8-sinif/SveC_8sinif_kucuk-sozler-p61-21-soz-1-makam-hatime-dunya-aldanisi-olum-ve-kabir-ikazi.txt",
+  "sourceRevision": "0c266ae27d66e77d01e545d7baedf451ddeff6501a6078097c71a4fa4b1660b9",
+  "setCount": 6,
+  "questionCount": 68,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde dünya hayatına aşırı bağlanan kişi hangi hayvana benzetiliyor?",
+          "answer": "Deve kuşuna benzetiliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu benzetmede o hayvanın yaptığı yanlış davranış nedir?",
+          "answer": "Tehlikeyi gerçekten gidermediği hâlde başını saklayıp kurtulduğunu sanmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p61:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu örnekle nefse hangi hata gösteriliyor?",
+          "answer": "Ölümü ve âhireti görmezden gelmenin insanı kurtarmadığı gösteriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p61:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Köydeki iki adam örneğinde birinci adam neden gitmeye sevinir?",
+          "answer": "Sevdiği insanların çoğu gittiği yerde olduğu için onlara kavuşmayı ister.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci adamın üzüntüsü hangi düşünceden kaynaklanır?",
+          "answer": "Gidenleri kaybolmuş ve perişan olmuş sanmasından kaynaklanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu iki adam örneğiyle hangi bakış farkı anlatılıyor?",
+          "answer": "Biri ayrılığı kavuşmaya giden yol gibi görür, diğeri ise sadece kayıp gibi görür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre insanın sevdiği kimselerin büyük kısmı nerededir?",
+          "answer": "Kabirden sonraki taraftadır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Burada kalan az sayıdaki insanlar için ne söyleniyor?",
+          "answer": "Onların da bir gün gideceği söyleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Ölüm ve kabir karşısında nasıl bir tavır tavsiye ediliyor?",
+          "answer": "Korkup kaçmak yerine cesaretle yüzleşmek tavsiye ediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "“Zaman değişti” bahanesi neden geçerli sayılmıyor?",
+          "answer": "Çünkü ölüm, insanın güçsüzlüğü ve ihtiyaçları değişmiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "İnsan yolculuğu için nasıl bir değerlendirme yapılıyor?",
+          "answer": "Bu yolculuğun durmadığı, hatta daha hızlı sürdüğü belirtiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın ana dersi nedir?",
+          "answer": "Dünyaya aldanmamak, ölümü unutmamak ve âhiret için doğru bakış kazanmak gerekir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde nefse ilk olarak hangi kötü hâl hatırlatılıyor?",
+          "answer": "Gaflete düşüp dünyayı çok tatlı görmesi ve âhireti unutması hatırlatılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Deve kuşu örneği insanın hangi aldanışını açıklıyor?",
+          "answer": "Gerçeği görmeyince tehlikenin yok olacağını sanma aldanışını açıklıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci adam neden bir kişiye bağlanarak teselli arıyor?",
+          "answer": "Pek çok ayrılığın acısını tek kalan yakınlığıyla kapatmaya çalışıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde kabre bakmaktan kaçınmak nasıl değerlendiriliyor?",
+          "answer": "Gafletli ve yanlış bir tavır olarak değerlendiriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Ölümün yüzüne gülmek sözüyle ne kastediliyor?",
+          "answer": "Ölümü imanla ve cesaretle karşılamak kastediliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci adama benzememek için hangi düşünceyi kazanmak gerekir?",
+          "answer": "Gidenlerin yok olmadığını ve asıl yurdun âhiret olduğunu düşünmek gerekir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İnsanlar dünyaya dalmış olsa bile hangi gerçek aynı kalır?",
+          "answer": "Ölüm gerçeği aynı kalır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "İnsanın aczi ve fakrı hakkında ne söyleniyor?",
+          "answer": "Bunların ortadan kalkmadığı, hatta arttığı söyleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "“Beşer yolculuğu” sözüyle ne anlatılıyor?",
+          "answer": "İnsanların ölüme ve ahirete doğru ilerlemesi anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu metin öğrenciyi hangi konuda uyarmaktadır?",
+          "answer": "Dünya sevgisinin insanı aldatmaması ve âhireti unutmaması konusunda uyarmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümün başındaki hitap kime yöneliktir?",
+          "answer": "Gaflete kapılmış nefse yöneliktir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Başını kuma sokmak insanın hangi yanlışına benzer?",
+          "answer": "Gerçeklerden kaçıp yok saymasına benzer.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Köydeki örnekte ilk adamın sevinçli oluşunun temel sebebi nedir?",
+          "answer": "Sevdiklerinin çoğunun gittiği yere kendisinin de gidecek olmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci adamın bakışı neden daha karanlık gösteriliyor?",
+          "answer": "Gidenleri yok olmuş gibi düşündüğü için ümidini kaybediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu iki kişinin farkı olaylarda değil, daha çok neylerindedir?",
+          "answer": "Bakış açıları ve inançlı değerlendirmelerindedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "“Burada kalanlar da gidiyor” sözü neyi hissettirir?",
+          "answer": "Dünyada kalışın geçici olduğunu hissettirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Kabir konusunda metin korku yerine hangi özelliği öne çıkarıyor?",
+          "answer": "Yiğitlik ve metaneti öne çıkarıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "“Asır değişti” demek niçin insanı haklı çıkarmaz?",
+          "answer": "Çünkü değişen zaman, ölüm gerçeğini ortadan kaldırmaz.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "İnsanın zayıflığı ve muhtaçlığı neden önemlidir?",
+          "answer": "İnsanın dünyaya güvenemeyeceğini ve ahireti düşünmesi gerektiğini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre insanlık yolculuğunun hızlanması nasıl anlaşılabilir?",
+          "answer": "Zamanın çabuk geçmesi ve insanların peş peşe göçmesi gibi anlaşılabilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Parçada verilmek istenen en güçlü uyarılardan biri nedir?",
+          "answer": "Ölümden kaçmak yerine ona hazırlanmak gerektiğidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Dünya hayatını çok seven nefis için kullanılan genel değerlendirme nedir?",
+          "answer": "Aldanmış ve bahtsız bir hâlde olduğu belirtilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Deve kuşu örneği, tehlikeden korunmak için yapılan hangi yanlış yöntemi eleştirir?",
+          "answer": "Sadece gözünü kapatıp tehlikenin bittiğini sanma yöntemini eleştirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde “tatlı görünen hayat” hangi sebeple insana acı verebilir?",
+          "answer": "Geçici olduğu ve ayrılık gerçeğini unutturduğu için acı verebilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İlk adam için gideceği yer niçin sevinç vesilesidir?",
+          "answer": "Dostlarının çoğu orada bulunduğu için orası ona kavuşma yeri olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci adamın tesellisi neden zayıf kalır?",
+          "answer": "Çünkü çok büyük ayrılıkları tek bir geçici yakınlıkla kapatamaz.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Kabre erkekçe bakmak ifadesi hangi ahlâkî tavrı öğretir?",
+          "answer": "Korkaklıktan uzak, imanlı ve cesur bir tavrı öğretir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İnsanların dünyaya dalmış olması niçin ölçü kabul edilmiyor?",
+          "answer": "Çünkü çoğunluğun yaptığı şey hakikati değiştirmez.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Değişmeyen üç temel gerçek bu bölümde hangileridir?",
+          "answer": "Ölüm, ayrılık gerçeği ve insanın aciz-fakir oluşudur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu gerçeklerin değişmemesi insana neyi düşündürmelidir?",
+          "answer": "Dünyaya fazla güvenmemesi ve ebedî hayat için hazırlanması gerektiğini düşündürmelidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p61:8-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "“Yolculuk sürat kazanıyor” sözüne uygun bir yorum yapınız.",
+          "answer": "İnsan ömrü hızla geçiyor ve sona yaklaşma daha belirgin hâle geliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın duygusal tonu daha çok hangisidir: gevşetici mi, uyarıcı mı? Neden?",
+          "answer": "Uyarıcıdır; çünkü nefsi silkeler, gafleti kırmaya çalışır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümdeki ilk örnek hangi hayvan üzerinden kurulmuştur?",
+          "answer": "Deve kuşu üzerinden kurulmuştur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu hayvan örneğinde dışarıda kalan büyük beden neyi düşündürür?",
+          "answer": "Gerçek tehlikenin ortada durduğunu ve saklanmanın işe yaramadığını düşündürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p61:8-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Dünyaya kilitlenmiş bakış neden yanlış bulunuyor?",
+          "answer": "Çünkü insana yalnız geçici tarafı gösterip asıl sonu unutturuyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Barla’daki iki adamdan hangisi umutlu bir bakışa sahiptir?",
+          "answer": "Yakınlarının çoğuna kavuşmayı bekleyen birinci adam umutludur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci adamın düşüncesinde en baskın duygu hangisidir?",
+          "answer": "Ayrılık acısı ve karamsarlık baskındır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre ölüm karşısında baş çevirmek neyin işaretidir?",
+          "answer": "Gafletin ve hakikatten kaçmanın işaretidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Kabir neden sadece korku yeri gibi gösterilmiyor?",
+          "answer": "Çünkü orası sevilen kimselere kavuşma tarafı olarak da düşünülüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "“Herkes dünyaya dalmış” sözü ne tür bir savunmadır?",
+          "answer": "Yanlışı çoğunluğa bakarak normal göstermeye çalışan bir savunmadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metin bu savunmayı hangi sabit gerçeklerle reddediyor?",
+          "answer": "Ölümün sürmesi, ayrılığın devam etmesi ve insanın ihtiyaç içinde oluşuyla reddediyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p61:8-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "İnsanî acz ve fakrın artması neyi gösterir?",
+          "answer": "İnsanın kendi kendine yeterli olmadığını ve Rabbine yönelmesi gerektiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu pasajda dünya ve âhiret ilişkisi nasıl kuruluyor?",
+          "answer": "Dünya geçici bir konak, âhiret ise asıl gidilecek yer gibi gösteriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bir öğrenci bu bölümden kendine hangi dersi çıkarabilir?",
+          "answer": "Ölümü hatırlayıp ibret almak, dünyaya aldanmamak ve ahirete hazırlanmaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümün başındaki ayet dünya hayatı hakkında genel olarak ne hissettiriyor?",
+          "answer": "Dünya hayatının aldatıcı ve geçici olduğunu hissettiriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Gaflet içindeki nefsin en temel yanlışı nedir?",
+          "answer": "Dünyayı kalıcı gibi sevip âhireti ihmal etmesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Deve kuşu benzetmesinde kişinin görmemesi, gerçeğin yok olduğu anlamına gelir mi?",
+          "answer": "Gelmez; gerçek yerinde durur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İki adam örneğinde birinci kişi neden daha huzurludur?",
+          "answer": "Çünkü ayrılığı son değil, sevdiğine ulaşma yolu gibi görür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci kişinin hatalı zannı nedir?",
+          "answer": "Gidenlerin bütünüyle kaybolduğunu sanmasıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metin, sevilenlerin çoğunun bulunduğu yer hakkında nasıl bir bakış veriyor?",
+          "answer": "Kabirden sonraki tarafın bir buluşma yeri olabileceği bakışını veriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Ölümden ürkmemek için hangi düşünce yardımcı olur?",
+          "answer": "Ölümü yok oluş değil, geçiş ve kavuşma kapısı gibi düşünmek yardımcı olur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Zamanın değişmesi hangi hakikatleri değiştirmez?",
+          "answer": "Ölümü, ayrılığı ve insanın zayıf oluşunu değiştirmez.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "İnsanlığın yolculuğunun kesilmemesi ne demektir?",
+          "answer": "Her insanın durmadan sona ve öteki hayata doğru ilerlemesi demektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu metinde nefse nasıl bir üslûpla sesleniliyor?",
+          "answer": "Sert ama öğüt verici ve uyandırıcı bir üslûpla sesleniliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada geçen örnekler daha çok akla mı, duyguya mı hitap ediyor?",
+          "answer": "İkisine de hitap ediyor; hem düşündürüyor hem de duygulandırıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p61:8-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajın ana mesajını bir cümleyle söyleyiniz.",
+          "answer": "Dünya geçicidir; insan ölümü unutmadan cesaretle âhirete hazırlanmalıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

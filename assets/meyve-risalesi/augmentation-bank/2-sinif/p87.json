@@ -1,0 +1,920 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:2-sinif:p87",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "2-sinif",
+  "partNo": "p87",
+  "partNumber": 87,
+  "title": "11. Mes'ele: Melaikeye iman (Münker-Nekir ve kabirde suale cevap)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/2-sinif/SveC_2sinif_meyve-risalesi-p87-11-mesele-melaikeye-iman-munker-nekir-ve-kabirde-suale-cevap.txt",
+  "sourceRevision": "69bd622f85abc4fb0ada547b2c9e4a46644149ad4eeff72ed35dfae5f17727f7",
+  "setCount": 6,
+  "questionCount": 78,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Kişi hayalinde nereye girdiğini düşünüyor?",
+          "answer": "Kendi kabrine girdiğini düşünüyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Kabirde kendini nasıl bir yerde gibi hissediyor?",
+          "answer": "Yalnız, karanlık, soğuk ve dar bir yerde gibi hissediyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu hâl onda hangi duyguları uyandırıyor?",
+          "answer": "Korku, sıkıntı ve üzüntü uyandırıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Sonra kabirde kimler geliyor?",
+          "answer": "İki mübarek sorgu meleği geliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Onlar gelince kişinin iç dünyasında ne değişiyor?",
+          "answer": "İçi ferahlıyor, gönlü aydınlanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Kabirle ilgili hangi güzel değişiklik anlatılıyor?",
+          "answer": "Kabir ona daha geniş, ışıklı ve sıcak gibi geliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Ayrıca hangi âleme bir pencere açıldığı söyleniyor?",
+          "answer": "Ruhlar âlemine pencere açıldığı söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu durum karşısında kişi ne yapıyor?",
+          "answer": "Çok sevinip Allah’a şükrediyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Medrese talebesi, kabirde sorulan soruya nasıl bir yolla cevap veriyor?",
+          "answer": "Dini ilim yerine dil bilgisi tarafından cevap veriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu beklenmedik cevap kimleri güldürüyor?",
+          "answer": "Melekleri, oradaki ruhları ve kabir hâlini gören zatı güldürüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:2-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "O talebenin sonu nasıl oluyor?",
+          "answer": "Azaptan kurtuluyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:2-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Hâfız Ali kabirde sorulara neyle cevap veriyor?",
+          "answer": "Risale-i Nur’daki hakikatlerle cevap veriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Risale-i Nur talebeleri ileride bu sorulara nasıl cevap verecek diye ümit ediliyor?",
+          "answer": "Kuvvetli delillerle cevap verecekleri ümit ediliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S1Q15",
+          "sourceQuestionId": "S1Q15",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 15,
+          "question": "Metnin bu bölümünde meleklere iman insana hangi büyük faydayı veriyor?",
+          "answer": "Kabir korkusuna karşı teselli ve güven veriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada anlatılan örnek, meleklere imanın hangi yönünü gösteriyor?",
+          "answer": "Kabir hayatında insana destek olan yönünü gösteriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Kabrin ilk düşünülen hâli insana niçin zor geliyor?",
+          "answer": "Çünkü orası tek başına kalınan, ürkütücü bir yer gibi görünüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Korkulu hâl ne zaman değişmeye başlıyor?",
+          "answer": "Sorgu melekleri gelince değişmeye başlıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Meleklerin gelişi neden güzel bir haber gibi oluyor?",
+          "answer": "Çünkü yalnızlığı giderip umut veriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Kişinin kalbinin genişlemesi neyi anlatır?",
+          "answer": "İçinin rahatlamasını anlatır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Kabrin aydınlanması bize ne hissettirir?",
+          "answer": "Ümitsizliğin yerini güvenin aldığını hissettirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Medrese öğrencisinin verdiği cevap neden farklıdır?",
+          "answer": "Soruyu kendi okuduğu ders gibi anlayıp öyle cevap verir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu öğrencinin sözü olayın hangi yönünü gösterir?",
+          "answer": "Nükteli ve şaşırtıcı bir yönü olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Orada bulunan veli bu olayı nasıl öğreniyor?",
+          "answer": "Kabir hâlini manevî şekilde görerek öğreniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Hâfız Ali’nin hapiste yaptığı iş nedir?",
+          "answer": "Eseri sevgiyle yazıp okuyordu.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Hâfız Ali’nin cevabı neredeki konuşmaya benzetiliyor?",
+          "answer": "Mahkemedeki savunmaya benzetiliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Risale-i Nur talebeleri için nasıl bir gelecek umudu söyleniyor?",
+          "answer": "O sorular karşısında güzel ve sağlam cevap verecekleri söyleniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Kişi kabri düşününce ilk anda hangi zor şartları görüyor?",
+          "answer": "Yalnızlık, karanlık, soğukluk ve darlık görüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İki mübarek arkadaş sözüyle kimler anlatılıyor?",
+          "answer": "Münker ve Nekir anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Kalbin ve kabrin genişlemesi gerçek ölçüden çok neyi anlatır?",
+          "answer": "Manevî ferahlığı anlatır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Ruhlar âlemine pencere açılması nasıl bir anlam taşır?",
+          "answer": "Ölümün her şeyin sonu olmadığını anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Kişi bu gelecekteki hâli düşününce ne hissediyor?",
+          "answer": "Büyük bir sevinç hissediyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Medrese talebesinin cevabı ciddi mi, nükteli mi bir örnektir?",
+          "answer": "Nükteli bir örnektir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "O olayda yalnız melekler değil, başka kimler de bulunuyor?",
+          "answer": "Hazır ruhlar ve kabir hâlini gören bir veli de bulunuyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Talebenin azaptan kurtulması bize Allah’ın hangi güzel sıfatını hatırlatır?",
+          "answer": "Merhametini hatırlatır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Hâfız Ali’nin adı metinde nasıl bir kişi olarak geçiyor?",
+          "answer": "Şehit ve kahraman bir talebe olarak geçiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Onun kabirde verdiği cevapların dayanağı nedir?",
+          "answer": "İman hakikatleri ve delilleridir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:2-sinif:S3Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada geçen kabir tasviri insana önce kolay mı, zor mu görünür?",
+          "answer": "Zor görünür.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Zor görünmesinin iki sebebi söyle.",
+          "answer": "Yalnızlık ve karanlık.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Meleklerle karşılaşınca kabir neden daha güzel bir hâl alıyor?",
+          "answer": "Çünkü korku yerine güven geliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kişi neden şükrediyor?",
+          "answer": "Beklediği korkulu durumda rahmet ve ferahlık gördüğü için şükrediyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Medrese öğrencisine sorulan temel soru ne hakkındadır?",
+          "answer": "Rabbi hakkındadır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Öğrenci niçin alışılmış cevap yerine başka türlü konuşuyor?",
+          "answer": "Kendini ders ortamında sanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu olayın güldürmesi, onun kötü bir şey olduğunu mu gösterir?",
+          "answer": "Hayır, şaşırtıcı ve hoş bir tarafı olduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Rahmetin yönelmesi sonucunda öğrenci için ne oluyor?",
+          "answer": "Sıkıntıdan korunuyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Hâfız Ali’nin vefat ettiği yer neresidir?",
+          "answer": "Hapistedir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Vefat etmeden önce ne yapmaktadır?",
+          "answer": "Risaleyi sevgiyle yazıp okumaktadır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Kabirdeki sorulara cevap verirken neyi kullanıyor?",
+          "answer": "Oradaki iman hakikatlerini kullanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Risale-i Nur talebeleri için söylenen “tasdik ve tahsin” ne anlama gelir?",
+          "answer": "Cevaplarının doğru ve güzel bulunması demektir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Bu metinde bilgi ile iman arasında nasıl bir bağ kuruluyor?",
+          "answer": "Öğrenilen iman bilgisi insanı zor anda destekliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "Kabir korkusuna karşı en büyük teselli kimlerden geliyor?",
+          "answer": "Meleklerden geliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S4Q15",
+          "sourceQuestionId": "S4Q15",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 15,
+          "question": "Bölümün sonunda talebeler için hangi dua dolu beklenti vardır?",
+          "answer": "Güzel cevap verip takdir görmeleri beklenir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada kişi önce kabri nasıl hayal ediyor?",
+          "answer": "Çok ürkütücü bir yer gibi hayal ediyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu hayalde insanın yanında kimse var mı?",
+          "answer": "Hayır, kendini kimsesiz gibi düşünüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Sonra gelen iki görevli, kişinin duygusunu nasıl değiştiriyor?",
+          "answer": "Korkusunu sevince çeviriyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kabirdeki değişimlerden hangileri anlatılıyor?",
+          "answer": "Genişlik, aydınlık ve sıcaklık anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Açılan pencere, ölüm sonrası için nasıl bir ümit verir?",
+          "answer": "Devam eden bir hayat olduğunu düşündürür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Medrese öğrencisinin cevabı doğru konudan mı, okuduğu dersten mi geliyor?",
+          "answer": "Okuduğu dersten geliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu cevap bize öğrencinin hangi özelliğini gösterir?",
+          "answer": "Dersine çok bağlı olduğunu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Olayı gören veli nasıl bir kişidir?",
+          "answer": "Kabirle ilgili manevî hâlleri görebilen bir kişidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Talebenin kurtuluşunda hangi ilahî özellik öne çıkıyor?",
+          "answer": "Şefkat ve merhamet öne çıkıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Hâfız Ali’nin bu metindeki örnekliği nedir?",
+          "answer": "İman hakikatleriyle cevap veren güzel bir örnek olmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Onun eserle ilişkisi nasıl anlatılıyor?",
+          "answer": "Büyük sevgiyle meşgul olduğu anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Risale-i Nur talebeleri yalnız gelecekte mi cevap verecek, şimdi de bir yönüyle hazır mı?",
+          "answer": "Şimdi de manen hazırlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Parçada geçen kuvvetli hüccet ne demektir?",
+          "answer": "Sağlam delil demektir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S5Q15",
+          "sourceQuestionId": "S5Q15",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 15,
+          "question": "Bu bölüm çocuklara hangi hazırlığı öğütler?",
+          "answer": "Ahiret için imanını öğrenip hazır olmayı öğütler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde anlatılan ilk sahne hangi yerle ilgilidir?",
+          "answer": "Kabirle ilgilidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İlk anda kabir hangi dört özellikle anlatılıyor?",
+          "answer": "Yalnızlık, karanlık, soğukluk ve darlıkla anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu ağır duyguyu kimler hafifletiyor?",
+          "answer": "Münker ve Nekir hafifletiyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Onlarla konuşma başlayınca hangi iki şey ferahlıyor?",
+          "answer": "Kalbi ve kabri ferahlıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Kişi bu olayı sadece aklıyla mı, bütün varlığıyla mı seviniyor?",
+          "answer": "Bütün varlığıyla seviniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Medrese talebesinin verdiği cevap normal kabir cevabı mıdır, ders diliyle bir cevap mıdır?",
+          "answer": "Ders diliyle bir cevaptır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu cevap yüzünden ortamda nasıl bir hava oluşuyor?",
+          "answer": "Gülümseten bir hava oluşuyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu hoş olayın sonucu talebe için nasıl bitiyor?",
+          "answer": "Selametle bitiyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Kabirde meleklere neyle cevap verdiği söyleniyor?",
+          "answer": "İman hakikatleriyle cevap verdiği söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "“Mahkemedeki gibi” benzetmesi neyi düşündürür?",
+          "answer": "Düzenli, açık ve delilli cevap vermeyi düşündürür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Risale-i Nur talebeleri için söylenen güzel sonuçlardan biri nedir?",
+          "answer": "Meleklerin onları beğenmesi.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Bir diğeri nedir?",
+          "answer": "Tebrik edilmeleri.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:2-sinif:S6Q15",
+          "sourceQuestionId": "S6Q15",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 15,
+          "question": "Bu parçanın en kısa özeti nedir?",
+          "answer": "Meleklere iman ve sağlam iman bilgisi, kabirde insana nur ve rahatlık verir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

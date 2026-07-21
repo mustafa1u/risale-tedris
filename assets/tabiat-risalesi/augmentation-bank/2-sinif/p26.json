@@ -1,0 +1,873 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:2-sinif:p26",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "2-sinif",
+  "partNo": "p26",
+  "partNumber": 26,
+  "title": "Hâtime / 1. Sual: Terk-i ibadet—nefse zulüm, hikmet-i İlahiye ve Kur'an'ın belâgat gerekçesi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/2-sinif/SveC_2sinif_tabiat-risalesi-p26-hatime-1-sual-terk-i-ibadetnefse-zulum-hikmet-i-ilahiye-ve-kuranin-belagat-gerekcesi.txt",
+  "sourceRevision": "ca5279b941edfef6cac3b74e3ab52b99a37a07e4998c2a1bb4d481f39c65ad2c",
+  "setCount": 6,
+  "questionCount": 69,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Namazı bırakan kişi en önce kime haksızlık etmiş olur?",
+          "answer": "Kendi nefsine.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın nefsi gerçekten kimin kuludur?",
+          "answer": "Allah’ın kuludur.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İbadeti bırakmak, insanın yaratılışındaki hangi önemli işe ters düşer?",
+          "answer": "Kulluk görevine ters düşer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu yanlış davranış, Allah’ın hangi iki yönüne karşı taşkınlık sayılır?",
+          "answer": "İlâhî hikmete ve Rabbin dilemesine karşı.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre böyle yapan kişi niçin cezayı hak eder?",
+          "answer": "Hem kendine zulmettiği hem de kulluk görevini bıraktığı için.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu geniş zarar kime yönelmiş olur?",
+          "answer": "Kâinatın haklarına yönelmiş olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Küfür, varlıklara karşı nasıl bir kötü tavırdır?",
+          "answer": "Onları küçümsemektir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "İbadeti bırakmak, kâinattaki güzellik ve olgunluk için nasıl bir yanlış olur?",
+          "answer": "Onları yok saymak gibi olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu yüzden Kur’an’daki sert uyarılar metne göre uygun mudur?",
+          "answer": "Evet, uygundur.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bunun uygun olmasının sebebi nedir?",
+          "answer": "Çünkü durum ağırdır; zulüm ve büyük bir yanlış vardır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Namazı terk eden kişinin kendi nefsi üzerinde tam sahibi olduğu söyleniyor mu?",
+          "answer": "Hayır, söylenmiyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "O hâlde insanın nefsi kime aittir?",
+          "answer": "Allah’a aittir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Kişi ibadeti bırakınca kendi nefsine nasıl davranmış olur?",
+          "answer": "Zulmetmiş olur.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İbadet, insan için sıradan bir iş midir, yoksa çok önemli bir gaye midir?",
+          "answer": "Çok önemli bir gayedir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İbadeti terk etmek, insanın yaratılış amacına karşı nasıl bir durumdur?",
+          "answer": "Ona aykırı bir davranıştır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde bu davranış, Allah’ın düzenine karşı nasıl adlandırılıyor?",
+          "answer": "Bir tecavüz gibi görülüyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İbadeti bırakmanın iki büyük sonucu nedir?",
+          "answer": "Kendine zulüm etmek ve kâinata karşı haksızlık etmek.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Kâinatın kemallerini görmezden gelmek hangi yanlışın işaretidir?",
+          "answer": "İbadeti terk etmenin yanlışının işaretidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde küfür ile ibadeti terk etme arasında nasıl bir benzerlik kuruluyor?",
+          "answer": "İkisi de varlıkların değerine zarar veren bir yanlış olarak gösteriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Böyle bir suç için tehdit ve cezanın sert olması nasıl açıklanıyor?",
+          "answer": "Yapılan yanlış büyük olduğu için.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümlede Kur’an’ın anlatımı için hangi güzel özellik belirtiliyor?",
+          "answer": "Duruma tam uygun ve çok beliğ olduğu belirtiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S2Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde namazı bırakan kişinin ilk zararı kime verdiği anlatılıyor?",
+          "answer": "Kendine verdiği anlatılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın nefsi kendi malı gibi midir?",
+          "answer": "Hayır, değildir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Nefis Allah’ın kulu olduğuna göre, ona zarar vermek ne olur?",
+          "answer": "Haksızlık olur.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İbadet, insanın yaratılışında önemli bir sonuç ve amaç olarak mı gösteriliyor?",
+          "answer": "Evet, öyle gösteriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu amacı bırakmak, Allah’ın hikmetine karşı nasıl bir davranıştır?",
+          "answer": "Saygısız ve taşkın bir davranıştır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre ceza verilmesinin temel nedeni nedir?",
+          "answer": "Büyük bir yanlış yapılmasıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İbadeti terk eden kişi yalnız kendine mi kötülük eder?",
+          "answer": "Hayır, yalnız kendine etmez.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Kâinata karşı yaptığı yanlış nedir?",
+          "answer": "Onun değerlerini inkâr etmiş gibi olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Varlıkları küçümsemek metinde hangi inanç bozukluğuyla birlikte anılıyor?",
+          "answer": "Küfürle birlikte anılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "İbadeti bırakmak kâinatın kemaline karşı nasıl bir tutum olur?",
+          "answer": "Onu kabul etmemek gibi olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Allah’ın hikmetine karşı gelmek, tehdidin neden güçlü olduğunu nasıl açıklar?",
+          "answer": "Çünkü suç ağırdır, bu yüzden uyarı da güçlüdür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Kur’an’ın bu konuda sert konuşması, metne göre yanlış mı doğru mu?",
+          "answer": "Doğrudur.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S3Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Namazı terk eden kişi kendi nefsine iyilik mi etmiş olur, kötülük mü?",
+          "answer": "Kötülük etmiş olur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bunun sebebi, nefsin insanın tam sahip olduğu bir şey olmaması mıdır?",
+          "answer": "Evet, sebep budur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Nefsin sahibi kimdir?",
+          "answer": "Allah’tır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Allah’ın kulu olan nefse zarar veren kişi hangi kötü işi yapmış olur?",
+          "answer": "Zulüm yapmış olur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İbadet, insanın yaratılışındaki önemli hedeflerden biri midir?",
+          "answer": "Evet, biridir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bu hedefi bırakmak, Allah’ın hikmetli düzenine karşı nasıl sayılır?",
+          "answer": "Tecavüz sayılır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu yüzden kişinin hangi sonuca uğraması beklenir?",
+          "answer": "Cezaya uğraması beklenir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Metindeki özet bölüme göre ibadeti terk edenin iki yönlü suçu nedir?",
+          "answer": "Kendine zulmetmesi ve kâinata haksızlık etmesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Küfür, varlıklara karşı hangi kaba davranışa benzetiliyor?",
+          "answer": "Küçümsemeye benzetiliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "İbadeti bırakmak da kâinatın olgunluğunu nasıl göstermiş olur?",
+          "answer": "Sanki yokmuş gibi göstermiş olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Bu hata, Allah’ın hikmetine karşı da bir saldırı sayıldığı için neyi hak eder?",
+          "answer": "Ağır uyarıyı ve cezayı hak eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Kur’an’ın bu meseleyi anlatış biçimi neye uygun deniliyor?",
+          "answer": "Durumun gereğine uygun deniliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S4Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre namazı bırakmanın kişiye dönük zararı nedir?",
+          "answer": "Kendi nefsine zulmetmesidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan kendi nefsinin tam sahibi olmadığı için bu zulüm neden daha ağırdır?",
+          "answer": "Çünkü zarar verilen nefis Allah’ın kuludur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Allah, kulunun hakkını korumak için nasıl bir uyarı yapar?",
+          "answer": "Çok ciddi bir uyarı yapar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İbadet, insan hayatında önemsiz bir iş olarak mı anlatılıyor?",
+          "answer": "Hayır, çok önemli anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İbadeti terk etmek, yaratılış amacını bırakmak anlamına gelir mi?",
+          "answer": "Evet, gelir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bu bırakış, Allah’ın hikmetine ve dilemesine karşı ne olur?",
+          "answer": "Karşı gelmek olur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bundan dolayı kişi neyi hak etmiş olur?",
+          "answer": "Cezayı hak etmiş olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde ibadeti terk etmenin kâinata dönük yönü nasıl anlatılıyor?",
+          "answer": "Kâinatın haklarına saldırı gibi anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Kâinatın kemallerini inkâr etmek neden kötü bir şeydir?",
+          "answer": "Çünkü varlıkların değerini yok saymak olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Küfür ile ibadeti terk etme hangi noktada birbirine benzetiliyor?",
+          "answer": "İkisi de varlıklara karşı haksızlıkta benzetiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Kur’an neden bu konuda sert bir dil kullanır?",
+          "answer": "Çünkü anlatılan yanlış hafif değildir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin sonuna göre bu sert dil güzel ve yerinde midir?",
+          "answer": "Evet, yerindedir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S5Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Namazı bırakan kişi önce kendi içinde hangi yanlışı yapar?",
+          "answer": "Kendi nefsine haksızlık yapar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Nefis kimin kulu olduğu için bu haksızlık önemlidir?",
+          "answer": "Allah’ın kulu olduğu için.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Allah’ın kuluna zarar vermek nasıl bir davranıştır?",
+          "answer": "Zulümdür.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İbadet, insanın yaratılışındaki sonuç ve hedeflerden biri olarak mı gösteriliyor?",
+          "answer": "Evet, öyle gösteriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu görevi bırakmak, Allah’ın hikmetli planına karşı nasıl görülür?",
+          "answer": "Bir taşkınlık ve saldırı gibi görülür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu davranışın karşılığı olarak metinde ne söyleniyor?",
+          "answer": "Cezaya çarpılacağı söyleniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İbadeti terk etmek yalnız insanın iç dünyasında kalan bir hata mıdır?",
+          "answer": "Hayır, değildir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu hata kâinata karşı nasıl bir sonuç doğurur?",
+          "answer": "Kâinatın haklarına zulüm olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde küfür mevcudata karşı hangi tavır olarak geçiyor?",
+          "answer": "Aşağılama olarak geçiyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Terk edilen ibadet, kâinatın kemalini kabul etmede nasıl bir eksiklik doğurur?",
+          "answer": "O kemali inkâr etmeye götürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Allah’ın hikmetine karşı gelmek neden ağır tehdit sebebidir?",
+          "answer": "Çünkü büyük bir yanlış yapılmış olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p26:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Kur’an’ın bu sert anlatımı neyi tam karşılıyor?",
+          "answer": "Durumun gereğini tam karşılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p26:2-sinif:S6Q11"
+          ]
+        }
+      ]
+    }
+  ]
+}

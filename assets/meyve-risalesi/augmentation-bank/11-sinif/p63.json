@@ -1,0 +1,852 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:11-sinif:p63",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "11-sinif",
+  "partNo": "p63",
+  "partNumber": 63,
+  "title": "10. Mes'ele / Emirdağı Çiçeği: Kur'an hitabının vüs'ati ve her asra hitabı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/11-sinif/SveC_11sinif_meyve-risalesi-p63-10-mesele-emirdagi-cicegi-kuran-hitabinin-vusati-ve-her-asra-hitabi.txt",
+  "sourceRevision": "f23bcb801af8b16b89044b9ed2a757394055f9a05f2bd220c39d9f388732428b",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Ramazan ayında Kur’an okunurken bazı ayetlerle ilgili nasıl bir dikkat ve gözlemden söz ediliyor?",
+          "answer": "Bazı ayetlerin, yalnız genel manalara değil, aynı zamanda Risale-i Nur’a ve onun talebelerine de bir pay ayırır gibi işaret ettiği fark ediliyor.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Nur suresindeki ışıkla ilgili ayetin özel olarak hangi yöne baktığı ifade ediliyor?",
+          "answer": "Bu ayetin, özellikle Risale-i Nur’u gösterir gibi görüldüğü belirtiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Onun ardından gelen karanlıkla ilgili ayetin ise kimlerle ilgili olduğu söyleniyor?",
+          "answer": "Bu ayetin de karşı duranlara ve muhaliflere yöneldiği ifade ediliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p63:11-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu ayetlerin sadece belli bir olaya bağlı kalmayıp daha geniş bir mana taşıdığı nasıl anlatılıyor?",
+          "answer": "Önce tek bir duruma ait gibi görünen anlamın genişleyip genel bir ölçü hâline geldiği, bu çağda da bunun belirgin bir örneğinin Risale-i Nur ve talebeleri olduğu hissediliyor.",
+          "wordCount": 27,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p63:11-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Kur’an hitabının çok geniş ve yüce görülmesinin sebeplerinden biri nedir?",
+          "answer": "Sözün, bütün varlığı yöneten İlâhî makamdan gelmesi ve insanlığa çok geniş bir çerçevede seslenmesi buna sebep olarak gösteriliyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an’ın hitabı hangi topluluk ve zamanları kuşatacak şekilde tanıtılıyor?",
+          "answer": "Bütün insan türünü, farklı asırları, dünya ve ahireti içine alacak kadar kapsamlı olduğu anlatılıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Kur’an’ın sade anlayışlı insanlara hitap eden yönü ile yüksek seviyedekilere hitap eden yönü arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Basit görünen anlatımın, sıradan insanları da gözettiği; fakat aynı zamanda yüksek seviyedeki kimselerin de ondan derin pay alabildiği söyleniyor.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Kıssaların yalnız geçmişte kalmış bir hikâye olarak görülmemesi ne anlama gelir?",
+          "answer": "Onların her çağ için ders taşıyan genel kurallar ve canlı uyarılar içerdiği anlamına gelir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Zulmedenlerle ilgili tehditlerin sıkça tekrar edilmesinin bu çağ açısından verdiği mesaj nedir?",
+          "answer": "Bugünün ağır haksızlıklarının da geçmiş zalim toplumların başına gelen cezaları hak edecek kadar ciddi olduğuna dikkat çekilir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Geçmiş kavimlerin uğradığı azapların anılması mazlum müminlere nasıl bir fayda sağlar?",
+          "answer": "Peygamberlerin kurtuluş örnekleri hatırlatılarak onlara ümit ve teselli verir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre Kur’an neden her asra yeni iniyormuş gibi kabul edilebilir?",
+          "answer": "Çünkü onun mesajı sadece bir döneme değil, her zamana ve her tabakaya hitap eden canlı bir rehberlik taşır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın ana düşüncesi nedir?",
+          "answer": "Kur’an’ın hitabı çok geniştir; hem herkes için anlaşılırdır hem de her çağda yeni dersler verir, zalimleri uyarır ve inananlara ümit aşılar.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada, bazı ayetlerin Risale-i Nur ve talebeleriyle bağlantılı görülmesi hangi bakış açısına dayanıyor?",
+          "answer": "Ayetlerin yalnız ilk muhataplara değil, sonraki zamanlardaki benzer durumlara da işaret edebilecek genişlikte anlaşılmasına dayanıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Nur ile ilgili ayetin bir esere yöneliyor gibi görülmesi, Kur’an’ın hangi özelliğine örnek sayılabilir?",
+          "answer": "Bir ayetin, özel bir olayın ötesine geçip daha kapsamlı ve zamanlar üstü mana taşımasına örnek sayılabilir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Ardından gelen karanlık ayetinin muhaliflere bakmasının, karşıtlık bakımından önemi nedir?",
+          "answer": "Işık ve karanlık karşılaştırmasıyla hak yolunda olanlarla ona karşı duranların ayrıldığı gösterilmiş olur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p63:11-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an hitabının çok geniş olması, konuşanın ve muhatabın makamıyla nasıl ilişkilendiriliyor?",
+          "answer": "Sözün İlâhî bir makamdan gelişi ve muhatabın da insanlık ve hatta varlık adına hitaba muhatap oluşu, genişliği artırıyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanlığın bütün çağlarına yönelik bir seslenişten söz edilmesi, Kur’an’ın hangi yönünü öne çıkarır?",
+          "answer": "Zaman üstü rehberlik yönünü öne çıkarır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Basit anlayışlı kimselerin de yüksek seviyedeki kimselerin de aynı dersten faydalanabilmesi neyi gösterir?",
+          "answer": "Kur’an’ın anlatımının katmanlı olduğunu ve farklı seviyelere aynı anda hitap ettiğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Kıssaların her çağ için geçerli bir ölçü gibi sunulması, okuyucuya nasıl bir sorumluluk yükler?",
+          "answer": "Kıssaları yalnız geçmiş bilgi olarak değil, kendi hayatına uygulanacak ibret ve ölçü olarak değerlendirme sorumluluğu yükler.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Zalim kavimlerin cezalarının sıkça anılması hangi ahlâkî uyarıyı taşır?",
+          "answer": "Zulmün cezasız kalmayacağını ve toplumsal bozulmanın İlâhî karşılığı olabileceğini hatırlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İbrahim ve Musa gibi peygamberlerin kurtuluşunun anılması, iman edenler için nasıl bir umut doğurur?",
+          "answer": "Sıkıntı içinde olsalar da Allah’ın yardımının gelebileceği ve sonunda kurtuluşun mümkün olduğu umudunu doğurur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada “taze iniyormuş gibi” bir anlatım hissedilmesinin sebebi nedir?",
+          "answer": "Mesajların sadece geçmişe ait kalmayıp bugünkü insanın hâline de doğrudan seslenmesidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu bölümde geçmiş toplumlardan söz edilmesi daha çok tarih bilgisi vermek için mi, yoksa başka bir amaçla mı kullanılıyor?",
+          "answer": "Asıl amaç tarih öğretmek değil, ibret verip bugünkü insanı uyarmaktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Parçadan çıkarılabilecek en genel sonuç nedir?",
+          "answer": "Kur’an, her dönemde insanı yönlendiren canlı bir hitaptır; hem hak ehline yol gösterir hem de zulme karşı ciddi uyarılar yapar.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, okunmakta olan ayetlerin sadece lafız olarak değil, mana bakımından da özel işaretler taşıdığı nasıl anlatılıyor?",
+          "answer": "Ayetlerin geçtiği yer, konu ve hikâye yönüyle belirli kişilere ve hizmetlere pay düşürür gibi görüldüğü anlatılıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Işıkla ilgili ayetin özellikle öne çıkarılmasının sebebi nedir?",
+          "answer": "Risale-i Nur’la açık bir uygunluk kurulduğu hissedildiği için öne çıkarılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Karanlıkla ilgili ayetin muarızlara bakması ne tür bir anlam dengesi kurar?",
+          "answer": "Hakka hizmet edenlerle ona karşı çıkanların farklı saflarda bulunduğunu belirginleştirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p63:11-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bir makamın cüz’îlikten çıkıp genelliğe yükselmesi ne demektir?",
+          "answer": "Başta sınırlı gibi görünen anlamın daha geniş bir ilkeye ve birçok kişiyi kapsayan bir duruma dönüşmesi demektir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Kur’an hitabının kapsamı anlatılırken hangi büyük alanlar birlikte zikrediliyor?",
+          "answer": "İnsanlık, bütün zamanlar, dünya, ahiret, yer, gök, başlangıç ve son gibi çok geniş alanlar birlikte düşünülüyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu kadar geniş bir hitabın yine de avam tarafından anlaşılabilmesi nasıl açıklanıyor?",
+          "answer": "Dışta kolay anlaşılır bir anlatım bulunurken, içerikte derin manaların yer almasıyla açıklanıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Kur’an kıssalarının her devirde canlı kabul edilmesi, okuyucunun metne yaklaşımını nasıl değiştirir?",
+          "answer": "Okuyucu, onları uzak geçmişe ait anlatılar değil, kendi zamanına konuşan mesajlar olarak okumaya başlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Zulmedenlere dair sert uyarıların tekrar edilmesi, bu çağın hangi yönüne dikkat çekiyor?",
+          "answer": "Bu çağda görülen ağır ve benzeri az rastlanır zulümlere dikkat çekiyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Âd, Semûd ve Firavun örneklerinin verilmesi hangi ortak noktayı düşündürür?",
+          "answer": "Zulümde ısrar eden toplulukların sonunda İlâhî cezaya uğrayabileceği ortak noktasını düşündürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Mazlum inananlara peygamberlerin kurtuluşlarıyla teselli verilmesi hangi duyguya hitap eder?",
+          "answer": "Sabır, umut ve Allah’a güven duygusuna hitap eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Parçaya göre Kur’an neden hem uyarıcı hem de teselli edici bir kitaptır?",
+          "answer": "Çünkü bir yandan zalimlerin sonunu bildirir, diğer yandan müminlerin kurtuluş örneklerini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın öğrencinin günlük hayatına vereceği temel ders nedir?",
+          "answer": "Kur’an’ı yalnız geçmişi anlatan bir kitap gibi değil, bugünkü hayatına yön veren, zulümden sakındıran ve imanla direnmeye çağıran bir rehber gibi okumaktır.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Ramazan’da Kur’an okunurken dikkat edilen şey, ayetlerin hangi yönüyle ilgilidir?",
+          "answer": "Ayetlerin manalarının, belirli bir hizmete ve o hizmette bulunan kişilere nasıl işaret ettiği yönüyle ilgilidir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Nur suresindeki iki ayetin art arda anılması, hangi karşılaştırmayı güçlendirir?",
+          "answer": "Aydınlık tarafta olanlarla karanlıkta kalanlar arasındaki farkı güçlendirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde geçen hissediş, kesin bir tarih bilgisi vermekten çok neyi öne çıkarır?",
+          "answer": "Manevî uygunluğu ve ibretli mana genişliğini öne çıkarır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an’ın hitabının yüceliği, sadece söyleyenin makamından mı kaynaklanıyor?",
+          "answer": "Hayır, hem söyleyenin yüce makamından hem de hitabın yöneldiği insanlık ve kâinat çapındaki geniş alandan kaynaklanıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bütün çağların irşadıyla ilgili vurgu, Kur’an’ın hangi vasfını ortaya koyar?",
+          "answer": "Evrensel rehber oluşunu ortaya koyar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Avamın anlayışına uygun görünen anlatımın yüksek tabakalara da hitap etmesi nasıl bir edebî güç gösterir?",
+          "answer": "Aynı sözle farklı seviyelerde anlamlar sunabilen üstün bir anlatım gücü gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Kıssaların her asırda geçerli olması, onları nasıl okumayı gerektirir?",
+          "answer": "Sadece “ne olmuş” diye değil, “bugüne ne söylüyor” diye okumayı gerektirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Zalimlere yönelik uyarıların geçmiş kavimlerle bağlantı kurması hangi mantığı kurar?",
+          "answer": "Geçmişteki ilâhî kanunların bugün de geçerli olduğu mantığını kurar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Mazlum müminlere peygamber örnekleriyle teselli verilmesi, Kur’an’ın hangi eğitim yöntemine örnektir?",
+          "answer": "Örnek göstererek moral verme ve sabra teşvik etme yöntemine örnektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçada hem tehdit hem teselli bulunması, insan eğitiminde neden önemlidir?",
+          "answer": "Çünkü insan bazen uyarıya, bazen de moral ve ümit verici hatırlatmaya ihtiyaç duyar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Kur’an’ın her tabakaya hitap etmesi, onun okunmasında nasıl bir güven verir?",
+          "answer": "Herkesin kendi seviyesine göre ondan mutlaka bir pay alabileceği güvenini verir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Parçaya göre bugünün zulümlerine karşı alınacak en önemli ders nedir?",
+          "answer": "Zulmün sonunun ağır olacağını bilip haktan yana durmak ve sıkıntıda olan müminler için Allah’ın yardımını ümit etmektir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında anlatılan okumada, ayetlerin sadece bulunduğu sure değil, başka hangi yönlerine de bakılıyor?",
+          "answer": "Sayfa, yaprak ve anlatılan kıssa yönlerine de bakılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu inceleme sonunda ayetlerin hangi iki kesime özellikle pay ayırdığı seziliyor?",
+          "answer": "Bir tarafta hak yolunda hizmet edenlere, diğer tarafta onlara karşı çıkanlara pay ayırdığı seziliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p63:11-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Işık ayeti ile karanlık ayetinin birlikte değerlendirilmesi nasıl bir mesaj verir?",
+          "answer": "Hakikatin aydınlatıcı tarafı ile ona karşı durmanın karanlık sonucu birlikte gösterilmiş olur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an hitabının genişliği anlatılırken insanla birlikte daha hangi alanların da hesaba katıldığı söyleniyor?",
+          "answer": "Kâinat düzeni, yer ve gökler, dünya ve ahiret gibi alanların da hesaba katıldığı söyleniyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu hitabın geniş oluşu, ayetlerin anlamını nasıl etkiler?",
+          "answer": "Ayetler tek bir olaya sıkışmaz; daha genel, kuşatıcı ve çok yönlü anlamlar taşır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Avamın anlayışına uygun bir anlatımın bulunması neden önemli görülüyor?",
+          "answer": "Çünkü en çok muhatap olan geniş halk kitlesinin de ilâhî dersten mahrum kalmamasını sağlıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Aynı zamanda en yüksek tabakaların da tam hisse alabilmesi neyi kanıtlar?",
+          "answer": "Kur’an’ın derinlikli ve farklı seviyelere açık bir kitap olduğunu kanıtlar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Kıssaların her döneme hitap etmesi, onların sadece tarih anlatımı olmadığını nasıl gösterir?",
+          "answer": "Her çağda benzer haller için ölçü ve ders sunmaları, onları yaşayan rehber hâline getirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Zulüm yapan toplumların başına gelenlerin hatırlatılması, bugünkü insanlara hangi sonucu düşündürmelidir?",
+          "answer": "Aynı yanlışlarda ısrar edilirse benzer ilâhî sonuçlarla karşılaşılabileceğini düşündürmelidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Peygamberlerin kurtuluş örnekleri özellikle kimler için rahatlatıcıdır?",
+          "answer": "Haksızlığa uğrayan ve imanını korumaya çalışan kimseler için rahatlatıcıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Parçadaki anlatıma göre Kur’an neden sürekli canlı bir hitap gibi algılanıyor?",
+          "answer": "Çünkü her devirdeki olaylara, insan tiplerine ve ahlâkî durumlara yeniden sesleniyor gibi bir kapsam taşıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölümün vermek istediği ana eğitim nedir?",
+          "answer": "Kur’an’ın her zaman geçerli olan ölçüler getirdiğini anlayıp hem uyarılarından korkmak hem de verdiği müjde ve teselliyle güç bulmaktır.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçaya göre, Ramazan’da yapılan Kur’an okumalarında ayetlerle ilgili nasıl bir anlam ilişkisi kuruluyor?",
+          "answer": "Ayetlerin, kendi genel manaları içinde Risale-i Nur ve onun talebelerine de işaret eden bir yön taşıdığı düşünülüyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Nur ayetinin özel olarak öne çıkarılması, metindeki hangi temel temaya hizmet eder?",
+          "answer": "Hakikatin aydınlatıcı oluşu ve bir hizmetle uygunluk göstermesi temasına hizmet eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Karanlıkla ilgili ayetin muhaliflere yönelmesi neden anlamlıdır?",
+          "answer": "Çünkü hakka karşı çıkmanın manevi karanlıkla bağlantılı olduğu fikrini destekler.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p63:11-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "“Cüz’îlikten küllîliğe çıkmak” ifadesi bu parçada hangi anlama gelir?",
+          "answer": "Sınırlı bir durumdan çıkarak genel bir ilke ve çok kişiyi kapsayan mana hâline gelmek anlamına gelir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Kur’an hitabının kaynağı ve muhatabı bakımından geniş olması, ona nasıl bir üstünlük kazandırır?",
+          "answer": "Çok yüksek, kuşatıcı ve etkili bir anlatım gücü kazandırır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "En sade seviyedeki insanların anlayabileceği anlatımın bulunması, Kur’an’ın rahmet yönüyle nasıl ilişkilendirilebilir?",
+          "answer": "Herkesin nasibini alabilmesi için kolay kapılar açması, rahmet yönünü gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bunun yanında seçkin anlayış sahiplerinin de tam pay alması neyi gösterir?",
+          "answer": "Kur’an’ın sadece kolay değil, aynı zamanda derin ve çok katmanlı olduğunu gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Geçmiş kıssaların her asra hitap etmesi, insanı nasıl bir dikkatle okumaya çağırır?",
+          "answer": "Kendi çağındaki olaylarla benzerlik kurarak ibret almaya çağırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Zulümle ilgili tehditlerin sık tekrarı bu çağ için neden özellikle dikkat çekici görülüyor?",
+          "answer": "Çünkü bu çağda çok ağır ve yaygın haksızlıkların yaşandığına işaret ediliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Geçmişte kurtarılan peygamberlerin örnek gösterilmesi, hangi inanç esasını kuvvetlendirir?",
+          "answer": "Allah’ın yardımının gerçek olduğu ve müminleri yalnız bırakmadığı inancını kuvvetlendirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu parçada Kur’an’ın hem tarihî hem de güncel oluşu nasıl birleşiyor?",
+          "answer": "Geçmiş olayları anlatırken aynı zamanda bugünün insanına ders vermesiyle birleşiyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p63:11-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bir öğrenci bu parçadan kendisi için hangi iki temel sonucu çıkarabilir?",
+          "answer": "Birincisi, Kur’an’ı her zaman kendisine hitap eden canlı bir rehber olarak okumak; ikincisi, zulümden uzak durup sabır ve imanla Allah’ın yardımını beklemektir.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

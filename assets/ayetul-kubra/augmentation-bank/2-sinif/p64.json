@@ -1,0 +1,756 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:2-sinif:p64",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "2-sinif",
+  "partNo": "p64",
+  "partNumber": 64,
+  "title": "1. Hakikat (hudûs ve imkân): Hudûsun kâinattaki şehadeti (güz-bahar, haşir numuneleri) ve bahsin kapatılması",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/2-sinif/SveC_2sinif_ayetul-kubra-p64-1-hakikat-hudus-ve-imkan-hudusun-kainattaki-sehadeti-guz-bahar-hasir-numuneleri-ve-bahsin-kapatilmasi.txt",
+  "sourceRevision": "a734d3089e14afdb6dc87c99aefd1cb15b8554553e3fcb6f19042b57c57857ff",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada her yere yayıldığı söylenen hakikat hangisidir?",
+          "answer": "Sonradan yaratılma hakikatidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu hakikatin bir bölümünü hangi organımız fark eder, bir bölümünü ne ile anlarız?",
+          "answer": "Bir kısmını gözümüzle görürüz, bir kısmını aklımızla anlarız.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Güz gelince çok sayıda hangi canlılar yok olup gider?",
+          "answer": "Bitkiler ve küçük hayvanlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu gidiş düzensiz mi, yoksa ölçülü mü anlatılıyor?",
+          "answer": "Ölçülü ve düzenli anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bahara kadar geride kalan şeyler nelerdir?",
+          "answer": "Tohumlar, çekirdekler ve yumurtalar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu kalanlar niçin önemlidir?",
+          "answer": "Yeniden hayatın başlamasına vesile olurlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Baharda önceki canlılara ne olur?",
+          "answer": "Bir kısmı yeniden dirilir, bir kısmının da benzerleri ortaya çıkar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bahardaki bu yeniden canlanma, hangi büyük olaya örnek gibi gösteriliyor?",
+          "answer": "Dirilişe örnek gibi gösteriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde dünya neye benzetiliyor?",
+          "answer": "Misafirlerin gelip gittiği bir yere benzetiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu gelip gitmeleri yöneten Zât’ın hangi iki büyük sıfatı özellikle vurgulanıyor?",
+          "answer": "Sonsuz güç ve sonsuz hikmet.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S1Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada mevsimlerden özellikle hangisi ölüm ve ayrılık zamanı gibi anlatılıyor?",
+          "answer": "Güz mevsimi.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Güzde yalnız tek tük canlılar mı gider, yoksa çok sayıda tür mü etkilenir?",
+          "answer": "Çok sayıda tür etkilenir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Her bir türün çok kalabalık bireyleri olduğu nasıl hissettiriliyor?",
+          "answer": "Sayılarının çok fazla olduğu anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Canlılar giderken arkalarında gelişigüzel şeyler mi bırakıyor?",
+          "answer": "Hayır, düzenli şekilde yeni hayatı başlatacak emanetler bırakıyorlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu emanetlerin korunması kimin korumasına veriliyor?",
+          "answer": "Her şeyi koruyan Allah’ın korumasına.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Baharda sadece bitkiler mi, yoksa bazı hayvanlar da bu yenilenmeye katılıyor mu?",
+          "answer": "Bazı hayvanlar da katılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Geçen baharın canlıları neyi gösteren bir haber gibi anlatılıyor?",
+          "answer": "Yaptıkları işler ve görevlerin ortaya çıkmasını gösteren bir haber gibi.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Her güz ve her baharda büyük ölçekte ne oluyor?",
+          "answer": "Bir âlem gidiyor, yeni bir âlem geliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Dünyaya gelen bu canlı toplulukları burada ne yapıp sonra ayrılıyor?",
+          "answer": "Görevlerini yapıp sonra gidiyorlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu düzen bize Allah hakkında hangi düşünceyi verir?",
+          "answer": "Varlığının açık olduğunu ve her şeyi hikmetle yönettiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S2Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Hudûs hakikati parçada kısa olarak ne demektir?",
+          "answer": "Varlıkların sonradan meydana gelmesi demektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan bu hakikati hangi iki yolla anlayabilir?",
+          "answer": "Görerek ve düşünerek anlayabilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Sonbaharda bitki ve küçük canlıların gitmesi bize neyi düşündürür?",
+          "answer": "Dünyadaki canlıların kalıcı olmadığını düşündürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Buna rağmen metinde niçin ümitsizlik yoktur?",
+          "answer": "Çünkü bahar gelince yeniden hayat başlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Tohum ve çekirdeklerin bırakılması neyin işareti sayılır?",
+          "answer": "Yeni hayatın hazırlanmasının işareti sayılır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bahardaki canlanma sıradan bir olay mı, yoksa büyük bir delil mi sayılıyor?",
+          "answer": "Büyük bir delil sayılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Dünya neden misafirhaneye benzetiliyor?",
+          "answer": "Çünkü gelenler bir süre kalıp sonra gidiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu misafirhaneye gelen canlılar boşuna mı geliyor?",
+          "answer": "Hayır, bir görev için geliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu görevli geliş gidişler nasıl yapılıyor?",
+          "answer": "İlim, ölçü, düzen ve hikmetle yapılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın ana fikri nedir?",
+          "answer": "Kâinattaki değişme ve yenilenme Allah’ın varlığını ve kudretini açıkça gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada gözümüzün önünde her yıl tekrar eden hangi olay anlatılıyor?",
+          "answer": "Güzde ölümler, baharda yeniden canlanmalar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Küçük bir tohumdan sonra yeniden hayat çıkması neyi gösterir?",
+          "answer": "Allah’ın kudretini gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Canlıların ardından kalan küçük emanetler niçin kıymetlidir?",
+          "answer": "Gelecekteki hayatın başlangıcını taşırlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Baharda eskiden gidenlerin bazen aynısı, bazen de nesi ortaya çıkıyor?",
+          "answer": "Benzerleri ortaya çıkıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Parçada yayımlanan sayfalar gibi bir benzetmeyle ne anlatılıyor?",
+          "answer": "Önceki canlıların görevlerinin izleri anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Yalnız tek canlılar değil, büyük ölçüde de ne değişiyor?",
+          "answer": "Koca bir âlem yenileniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Dünya için kullanılan misafir yeri benzetmesi hangi düşünceyi kolaylaştırır?",
+          "answer": "Kalmanın geçici olduğunu anlamayı kolaylaştırır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu kadar çok değişmenin karışıklık çıkarmadan olması neyi ispatlar?",
+          "answer": "Her şeyi bilen ve düzenleyen bir Yaratıcı olduğunu ispatlar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada bu işleri yapan Zât’ın işi rastgele mi yaptığı söyleniyor?",
+          "answer": "Hayır, amaçlı ve hikmetli yaptığı söyleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Akıllar için güneş gibi açık denilen şey nedir?",
+          "answer": "Allah’ın varlığı, gücü ve hikmeti.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde “çoğunu göz görüyor” denilen şey nedir?",
+          "answer": "Varlıkların değişip son bulması.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Sonbaharda ölenler arasında hangi iki grup özellikle anılıyor?",
+          "answer": "Bitkiler ve küçük hayvanlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bunların ölümü karmakarışık değilse nasıl bir ölümdür?",
+          "answer": "Düzenli bir ölümdür.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bahara zemin hazırlayan üç örnek nedir?",
+          "answer": "Çekirdek, tohum ve yumurta.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bunlar bırakılırken aynı zamanda ne de korunmuş oluyor?",
+          "answer": "Canlıların görevlerine ait plan ve izler korunmuş oluyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İlkbahar gelince görülen diriliş neyin küçük örnekleri gibi sunuluyor?",
+          "answer": "Büyük dirilişin küçük örnekleri gibi sunuluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Her yıl eski bir âlemin gidip yeni bir âlemin gelmesi bize dünyanın ne olmadığını gösterir?",
+          "answer": "Kalıcı bir yer olmadığını gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Dünyanın misafirhane gibi anlatılması hangi davranışı hatırlatır?",
+          "answer": "Gelip görevini yapıp ayrılmayı hatırlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu kadar çok canlıyı yerli yerinde kullanan Zât’ın hangi yönü öne çıkıyor?",
+          "answer": "Çok güçlü ve çok hikmetli oluşu.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada anlatılan bütün bu değişimler sonunda hangi inanca destek oluyor?",
+          "answer": "Allah’ın varlığına ve birliğine inanca destek oluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçaya göre yaratılmışlarda yaygın olan büyük gerçek nedir?",
+          "answer": "Her şeyin sonradan yaratılması gerçeği.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu gerçeği anlamak için doğada en açık hangi iki mevsim örnek veriliyor?",
+          "answer": "Güz ve bahar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Güz mevsimi canlılar için nasıl bir dönem gibi anlatılıyor?",
+          "answer": "Bir ayrılık ve ölüm dönemi gibi anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Buna karşılık bahar nasıl bir dönemdir?",
+          "answer": "Yeniden hayatın görüldüğü dönemdir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Ölenlerden sonra kalan çekirdek ve tohumlar bize hangi güzel düzeni gösterir?",
+          "answer": "Hayatın boş bırakılmadığını ve planlı sürdüğünü gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bazı canlıların aynen, bazılarının benzerleriyle gelmesi neyi düşündürür?",
+          "answer": "Yeniden yaratmanın Allah için kolay olduğunu düşündürür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde dünyanın misafirlerin uğradığı yere benzetilmesi, canlıların burada sürekli kalmadığını mı anlatır, yoksa hiç gelmediğini mi?",
+          "answer": "Sürekli kalmadığını anlatır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Gelen canlılar başıboş mu hareket ediyor?",
+          "answer": "Hayır, görevli gibi hareket ediyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu görevli ve düzenli yenileniş hangi iki özellik ile yapılıyor?",
+          "answer": "Ölçü ve hikmet ile yapılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p64:2-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p64:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın sonunda akla açıkça görünen sonuç nedir?",
+          "answer": "Allah’ın var olduğu, kudret sahibi olduğu ve her şeyi hikmetle yaptığıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

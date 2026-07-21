@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:lisans:p70",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "lisans",
+  "partNo": "p70",
+  "partNumber": 70,
+  "title": "10. Mes'ele / Emirdağı Çiçeği: Medenî üslûbun hikmeti (tafsil, fezleke-hâtime)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/lisans/SveC_lisans_meyve-risalesi-p70-10-mesele-emirdagi-cicegi-medeni-uslubun-hikmeti-tafsil-fezleke-hatime.txt",
+  "sourceRevision": "8cdab1671405759217dc1cb6d2a1736dd7d5ea0bb3b5741516f1e26e5b88845e",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Medenî sûre ve âyetlerde ilk planda muhatap alınan kesim kimlerdir?",
+          "answer": "Allah’a inandığını kabul eden Yahudi ve Hristiyan gibi Ehl-i kitap kesimidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu muhatap kitlesi sebebiyle Medenî sûrelerde nasıl bir anlatım yolu tercih edilmiştir?",
+          "answer": "Daha açık, anlaşılır ve ayrıntılı bir üslûp benimsenmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Medenî sûrelerde imanın ana esaslarından çok hangi alanların açıklanmasına ağırlık verildiği belirtilir?",
+          "answer": "Daha çok şeriatla ilgili hükümler, ihtilaf konusu olan meseleler, ayrıntılar ve genel hükümlerin dayandığı küçük parçalar açıklanır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Ayrıntılı hükümlerin anlatımı sırasında birden eklenen kısa sonuç cümlelerinin işlevi nedir?",
+          "answer": "O cüz’î meseleyi daha genel bir çerçeveye taşır, Allah’a iman ve âhiret fikriyle bağlantı kurarak hükme uyulmasını kuvvetlendirir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Âyet sonlarında gelen bu kısa toparlayıcı ifadeler metne ne kazandırır?",
+          "answer": "Anlatımı aydınlatır, yüceltir ve dar bir konuyu geniş bir anlam alanına taşır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada, bu sonuç cümlelerinde özellikle hangi temaların öne çıktığı ifade edilir?",
+          "answer": "Tevhid, Allah’ın isim ve sıfatları ve âhiret hakikati öne çıkarılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Medenî sûrelerde görülen bu tarzın belâgat bakımından önemi nasıl değerlendirilir?",
+          "answer": "Kur’an’a has, benzeri olmayan ve güçlü bir ifade güzelliği taşıyan bir yol olarak gösterilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Yirmi Beşinci Söz’de bu fezleke ve hatimeler hakkında ne yapıldığı söylenir?",
+          "answer": "Bu kısımlardaki inceliklerden ve üstünlüklerden on tanesi açıklanarak onların büyük bir i‘caz taşıdığı ispat edilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde “muannidler” için yapılan vurgu neyi gösterir?",
+          "answer": "Anlatılan belâgat ve i‘cazın sadece inananlara değil, inatla karşı çıkanlara karşı da delil olacak güçte görüldüğünü gösterir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün ana fikri nedir?",
+          "answer": "Medenî sûreler, Ehl-i kitaba hitap ettikleri için ayrıntılı ve sade bir anlatım kullanır; fakat bu sade anlatımın içinde tevhid ve âhireti hatırlatan güçlü sonuç cümleleriyle yüksek bir belâgat ortaya koyar.",
+          "wordCount": 30,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Medenî sûrelerin anlatım biçimi ile hitap ettiği topluluk arasında nasıl bir ilişki kurulmaktadır?",
+          "answer": "Hitap edilen topluluk Ehl-i kitap olduğu için, onların durumuna uygun biçimde daha açıklayıcı ve ayrıntılı bir dil kullanıldığı belirtilir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Medenî âyetlerde neden dinin temel inanç esaslarından ziyade başka konular öne çıkarılır?",
+          "answer": "Çünkü muhataplar Allah inancını bütünüyle reddeden kimseler değil, daha çok dinî hükümlerde ve ayrıntılarda ayrışan kimselerdir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "“Cüz’iyat”ın açıklanması neden gerekli görülür?",
+          "answer": "Genel hükümlerin hangi temellere dayandığını göstermek ve pratik meseleleri anlaşılır hâle getirmek için gerekli görülür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre Medenî sûrelerdeki ayrıntılı anlatım kuru bir hukuk dili olarak mı kalır?",
+          "answer": "Hayır, ayrıntıların içinde birden yüksek mânâlı toparlayıcı cümleler yer alır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu toparlayıcı cümleler küçük bir şer‘î meseleyi nasıl dönüştürür?",
+          "answer": "Onu sadece dar bir olay olmaktan çıkarıp genel, imanla bağlantılı ve evrensel bir ders hâline getirir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bu cümlelerin hükümlere itaati desteklemesinin sebebi nedir?",
+          "answer": "Çünkü meseleyi doğrudan Allah’a iman, ilâhî isimler ve âhiret bilinciyle bağlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada verilen örneklerin ortak özelliği nedir?",
+          "answer": "Hepsi Allah’ın kudreti, ilmi, izzeti, rahmeti veya hikmeti gibi temel imanî mânâları hatırlatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde bu ifadelerin yalnız bilgi vermediği, aynı zamanda hangi etkileri doğurduğu söylenir?",
+          "answer": "Bulundukları yeri nurlandırdığı, yücelttiği ve anlam bakımından genişlettiği söylenir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Risale-i Nur’un ilgili kısmına yapılan atfın amacı nedir?",
+          "answer": "Bu fezleke ve hatimelerin taşıdığı belâgat ve inceliklerin delilli biçimde gösterildiğini belirtmektir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçaya göre Medenî sûrelerin özgünlüğü hangi noktada belirginleşir?",
+          "answer": "Açık ve ayrıntılı hükümler anlatılırken bile yüksek tevhid ve âhiret dersini aynı anda verebilmesinde belirginleşir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Medenî sûrelerde “makama uygunluk” hangi üslûp tercihine yol açmıştır?",
+          "answer": "Açık, sade ve ayrıntılı anlatım tercihine yol açmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Ehl-i kitaba yönelik hitapta neden özellikle ihtilaflı alanlar ele alınmıştır?",
+          "answer": "Çünkü anlaşmazlığın yoğunlaştığı yerler inanç esaslarının bütünü değil, daha çok hüküm ve uygulama alanlarıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Parçada “küllî kanunların menşe’leri ve sebepleri olan cüz’iyat” denilmekle ne anlatılmak istenir?",
+          "answer": "Büyük hüküm ve ilkelerin, somut ve küçük meseleler üzerinden temellendirildiği anlatılmak istenir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Medenî âyetlerde geçen fezleke ve hatimelerin anlatımdaki yeri neresidir?",
+          "answer": "Ayrıntılı açıklamaların sonunda yer alarak konuyu daha yüksek bir iman çerçevesine bağlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu kısa sonuçlar neden sadece edebî bir süs sayılmaz?",
+          "answer": "Çünkü yalnız güzellik katmakla kalmaz, hükmün dayanağını güçlendirir ve uygulamayı imanla destekler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde bu sonuçların “küllîleştirme” işlevi nasıl anlaşılmalıdır?",
+          "answer": "Tek bir olay veya hükmü genel ilâhî hakikatlerle ilişkilendirip herkese hitap eden bir derse çevirmesi şeklinde anlaşılmalıdır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Âyet sonlarında gelen ilâhî isim ve sıfatların zikri, muhatap üzerinde nasıl bir tesir hedefler?",
+          "answer": "Hükmü sadece dış bir emir gibi değil, Allah’ın ilmi, kudreti ve hikmetiyle bağlantılı bir hakikat olarak benimsetmeyi hedefler.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu anlatım biçiminin Kur’an’a mahsus olduğunun söylenmesi neyi ifade eder?",
+          "answer": "Böyle bir şekilde ayrıntı ile yüce hakikati bir arada verme kudretinin eşsiz görüldüğünü ifade eder.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Yirmi Beşinci Söz’de on özellikten söz edilmesi, bu fezlekeler hakkında neyi gösterir?",
+          "answer": "Bu kısımların çok katmanlı mânâlar taşıdığını ve ciddi bir incelemeye değer olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada Medenî sûrelerin genel amacı nasıl özetlenebilir?",
+          "answer": "Hüküm ve ayrıntıları öğretirken bunları tevhid, ilâhî isimler ve âhiret inancıyla bütünleştirerek irşadı tamamlamaktır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Medenî sûrelerde muhatapların Allah’ı kabul eden bir kesim olması, anlatımın hangi yönünü değiştirmiştir?",
+          "answer": "Temel inancı ispat etmekten çok, dinî hüküm ve ayrıntıları açıklama yönünü öne çıkarmıştır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "“Sade ve vâzıh” üslûp ifadesi bu bölümde neyi anlatır?",
+          "answer": "Kapalı ve yoğun bir ifade yerine, hükümlerin kolay anlaşılacağı açık bir anlatımı anlatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Medenî âyetlerde ele alınan “teferruat” hangi ana alanla ilgilidir?",
+          "answer": "Şeriat, hükümler ve uygulamaya dair meselelerle ilgilidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre küçük bir şer‘î olayın ardından tevhid veya âhiretle ilgili bir cümle getirilmesinin hikmeti nedir?",
+          "answer": "O olayı yalnız kendi sınırında bırakmayıp imanî bir anlamla derinleştirmek ve daha genel bir ders hâline getirmektir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu tarz, muhatabın hükümlere yaklaşımını nasıl etkiler?",
+          "answer": "Hükümleri sadece kural olarak değil, Allah’a kulluk ve hesap bilinciyle bağlantılı olarak kavramasını sağlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde zikredilen sonuç cümleleri hangi bakımdan yüksek görülmüştür?",
+          "answer": "Belâgat, güç, incelik ve mânâ zenginliği bakımından yüksek görülmüştür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "“O makamı nurlandırır” ifadesi mecazen ne anlatır?",
+          "answer": "Konunun anlamını derinleştirip daha etkileyici ve aydınlatıcı hâle getirdiğini anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "“O makamı ulvîleştirir” ifadesi neye işaret eder?",
+          "answer": "Gündelik veya dar görünen bir meseleyi daha yüce ilâhî hakikatlerle irtibatlandırdığına işaret eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "“O makamı küllîleştirir” sözü, bir hükmün nasıl sunulduğunu gösterir?",
+          "answer": "Tekil ve sınırlı bir meseleden hareketle genel geçer bir hakikat ve ilke ortaya konduğunu gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan hareketle Medenî sûrelerin öğretim yöntemi için hangi değerlendirme yapılabilir?",
+          "answer": "Aşamalı biçimde açıklayan, somuttan genele çıkan ve hukukî ayrıntıyı imanî derinlikle birleştiren bir yöntem kullandığı söylenebilir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Medenî sûre ve âyetlerde muarızların Ehl-i kitap olması, hangi eğitim ihtiyacını doğurmuştur?",
+          "answer": "İnanç köklerini tümden reddedenlere hitaptan farklı olarak, dinî hükümlerin kaynaklarını ve ayrıntılarını açıklama ihtiyacını doğurmuştur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yüzden hangi konular “medar-ı ihtilaf” olarak öne çıkarılmıştır?",
+          "answer": "Şeriatla ilgili hükümler, ayrıntılar ve uygulama alanları öne çıkarılmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Parçaya göre Medenî sûreler yalnız açıklama yapmakla mı yetinir?",
+          "answer": "Hayır, açıklamanın içinde güçlü özetler ve sonuç cümleleriyle daha üst mânâları da verir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "“Fezleke” ve “hatime”lerin ortak görevi nedir?",
+          "answer": "Önceki ayrıntıları toparlamak ve onları tevhid, ilâhî isimler veya âhiret fikriyle bağlamaktır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu sonuç cümlelerinin “imtisalini iman-ı billah ile temin etmesi” nasıl anlaşılmalıdır?",
+          "answer": "Hükme uymayı sadece dış zorunlulukla değil, Allah’a iman şuuru ile sağlaması şeklinde anlaşılmalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Medenî sûrelerde ayrıntı ile yüksek hakikatin yan yana gelmesi neden önemlidir?",
+          "answer": "Çünkü dinin hem pratik hayatı düzenleyen hem de kalbi ve aklı besleyen yönünü birlikte gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde örnek olarak verilen ilâhî vasıflar ne tür bir hatırlatma yapar?",
+          "answer": "Allah’ın her şeye gücünün yettiği, her şeyi bildiği ve mutlak izzet, rahmet ve hikmet sahibi olduğu hatırlatmasını yapar.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu hatırlatmaların belâgat yönünden değeri nasıl sunulmuştur?",
+          "answer": "Son derece üstün, ince ve kuvvetli bir ifade güzelliği taşıdığı söylenmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Risale-i Nur’un burada delil olarak anılması hangi amacı taşır?",
+          "answer": "Bu belâgat özelliklerinin ayrıntılı biçimde incelendiğini ve karşı çıkanlara karşı da ispat edildiğini göstermek amacı taşır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu metin parçasına göre Medenî sûrelerin en belirgin ayırıcı vasfı nedir?",
+          "answer": "Ayrıntılı hüküm anlatımı içinde kısa fakat derin imanî sonuçlarla konuyu genişletmesi ve yüceltmesidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Medenî sûrelerin hitap zemini, Mekkî sûrelerden farklı olarak hangi toplumsal-dinî çevreye dayanır?",
+          "answer": "İnanç konusunda tamamen kopuk olmayan, fakat dinî meselelerde farklılaşan Ehl-i kitap çevresine dayanır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu zemin sebebiyle Medenî sûrelerde hangi anlatım özellikleri öne çıkar?",
+          "answer": "Sadelik, açıklık, ayrıntı ve izah öne çıkar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Parçada dinin “yüksek usûlü” ile “şeriatın teferruatı” arasında nasıl bir ayrım yapılır?",
+          "answer": "Medenî bölümde ana inanç esaslarından çok uygulamaya dönük ayrıntıların öne çıktığı belirtilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Cüz’î meselelerin anlatımı sırasında eklenen imanî cümleler hangi iki alanı birbirine bağlar?",
+          "answer": "Şer‘î-hukukî alan ile tevhid ve âhiret gibi imanî alanı birbirine bağlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu bağ kurulunca küçük bir olay veya hüküm hangi yeni niteliği kazanır?",
+          "answer": "Daha genel, daha anlamlı ve daha yüksek bir ders niteliği kazanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde bu tarzın irşad açısından faydası nedir?",
+          "answer": "Muhatabın hem hükmü anlamasını hem de o hükmün arkasındaki ilâhî hakikati kavramasını sağlar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Âyet sonlarında geçen kısa tevhid ve âhiret vurgularının tekrar tekrar gelmesi, parçaya göre bir zayıflık mıdır?",
+          "answer": "Hayır, aksine bunların yüksek belâgat ve mânâ taşıyan güçlü tamamlayıcılar olduğu ifade edilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Parçadaki anlatıma göre Kur’an’ın bu yöntemi neden eşsiz sayılır?",
+          "answer": "Çünkü ayrıntılı ve sade bir açıklama içinde birden derin, güçlü ve kuşatıcı iman hakikatleri sunar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Yirmi Beşinci Söz’e yapılan gönderme okuyucuya ne mesaj verir?",
+          "answer": "Bu konuda söylenenlerin sadece iddia olmadığını, örnekler ve tahlillerle temellendirildiğini bildirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu hedef pasajın bütününe bakıldığında, Medenî âyetlerin belâgat sırrı nasıl özetlenir?",
+          "answer": "Muhtaca uygun biçimde ayrıntıyı açıklarken, kısa ve güçlü imanî sonuçlarla metni aydınlatan ve evrenselleştiren bir anlatım kurmasıdır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

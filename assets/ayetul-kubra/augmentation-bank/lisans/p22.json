@@ -1,0 +1,808 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:lisans:p22",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "lisans",
+  "partNo": "p22",
+  "partNumber": 22,
+  "title": "Eşcar ve nebatat: İn'am, temyiz-tezyin, suretlerin fethi (6. mertebe) / Üç küllî hakikatin müşahedesi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/lisans/SveC_lisans_ayetul-kubra-p22-escar-ve-nebatat-inam-temyiz-tezyin-suretlerin-fethi-6-mertebe-uc-kulli-hakikatin-musahedesi.txt",
+  "sourceRevision": "42a007d2cc893f2f53bebe51fc9e6fda34e6dc88c8ff56eea133cab379ca48ea",
+  "setCount": 6,
+  "questionCount": 68,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu, dağ ve sahra tefekküründen sonra hangi varlık alanına yöneliyor?",
+          "answer": "Ağaçlar ve bitkiler âlemini düşünmeye başlıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Ağaçlar ve bitkiler bir araya gelmiş halde nasıl bir manevi tablo oluşturmaktadır?",
+          "answer": "Allah’ın birliğini anan, zikreden ve nimete şükreden büyük bir topluluk manzarası vermektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde yaprak, çiçek ve meyve hangi yönden anlam taşıyan işaretler olarak ele alınmaktadır?",
+          "answer": "Her biri düzen, güzellik ve ölçüyle ilahî birliğe delil olan işaretler olarak sunulmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci büyük hakikat, bitkilerde hissedilen hangi manaya dikkat çeker?",
+          "answer": "Açık bir nimet verme, ikram etme ve bilinçli bağışta bulunma manasına dikkat çeker.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu ilk hakikat yalnız tek tek varlıklarda mı, yoksa genel tabloda mı daha belirgin gösterilmektedir?",
+          "answer": "Genel manzarada çok daha açık şekilde görüldüğü belirtilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p22:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci büyük hakikat, tesadüf fikrini neden dışarıda bırakmaktadır?",
+          "answer": "Çünkü türlerde ve fertlerde görülen seçme, ayırma, süsleme ve biçim verme çok bilinçli ve hikmetli görünmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci hakikate göre bitkiler ve ağaçlar neyin eseri olduğunu göstermektedir?",
+          "answer": "Hikmet sahibi bir Yaratıcı’nın sanatı olduğunu göstermektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Üçüncü büyük hakikatte özellikle hangi karşılaştırma öne çıkarılmaktadır?",
+          "answer": "Birbirine benzeyen, sınırlı ve basit çekirdeklerden çok farklı, düzenli ve canlı şekillerin ortaya çıkması öne çıkarılmaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Çekirdeklerin basit olmasına rağmen ortaya çıkan neticenin zengin olması neyi düşündürmektedir?",
+          "answer": "Bu işin kör sebeplerle değil, ilim ve hikmetle yapıldığını düşündürmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p22:lisans:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Üçüncü hakikatte ortaya çıkan suretlerin hangi özellikleri vurgulanmaktadır?",
+          "answer": "Farklı, dengeli, süslü, hikmetli, doğru ve kusursuz olmaları vurgulanmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Yolcu bütün bu müşahedelerin sonunda nasıl bir manevi karşılık veriyor?",
+          "answer": "İman nimetine hamd ederek şükrediyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde ağaçlar ve bitkiler neden “konuşuyor gibi” tasvir edilmektedir?",
+          "answer": "Çünkü halleri, düzenleri ve üzerlerindeki sanat ile Allah’ın birliğine işaret etmektedirler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Yolcu, bitkiler âlemine girdiğinde ilk olarak nasıl bir genel manzara fark ediyor?",
+          "answer": "Son derece görkemli, düzenli ve manevi anlam taşıyan bir birlik hali fark ediyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bütün bitki türlerinin ortak mesajı nasıl özetlenebilir?",
+          "answer": "Hepsi birlikte tek bir Yaratıcı’ya işaret etmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Yaprakların metinde öne çıkarılan yönü nedir?",
+          "answer": "Ölçülü ve anlam ifade eden bir düzen taşımalarıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Çiçeklerde dikkat çekilen temel husus nedir?",
+          "answer": "Süs, güzellik ve dikkatli bir işlenmişlik göstermeleridir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Meyveler hangi açıdan birer delil sayılmaktadır?",
+          "answer": "Düzenli ve manalı sonuçlar vermeleri açısından delil sayılmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Birinci hakikatte geçen ikram ve ihsan anlayışı, bitkiler hakkında hangi sonuca götürür?",
+          "answer": "Onların başıboş değil, kasıtlı bir rahmet ve lütufla verildiği sonucuna götürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci hakikatteki temyiz ve tefrik neyi ifade eder?",
+          "answer": "Varlıkların bilinçsizce karışmayıp birbirinden ayrılarak özel biçimde düzenlenmesini ifade eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci hakikatteki tezyin ve tasvir, Yaratıcı hakkında hangi sıfata işaret eder?",
+          "answer": "İrade ve hikmetle iş gören bir Sanatkâr oluşuna işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü hakikatte çok sayıdaki farklı türün benzer çekirdeklerden çıkması niçin önemli görülmektedir?",
+          "answer": "Çünkü bu durum sınırlı maddi başlangıçlardan sınırsız çeşitliliğin kusursuzca çıkarıldığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre bu çeşitliliğin yanlışsız meydana gelmesi neyi güçlendirir?",
+          "answer": "İlahlık birliğine dair delili daha da kuvvetlendirir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "“İman nimetine hamd” ifadesi, yolcunun zihnî incelemesinin hangi neticeye ulaştığını gösterir?",
+          "answer": "Tefekkürünün sadece bilgi değil, kalpte şükür ve tasdik meydana getirdiğini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcunun bitkiler âlemine yönelmesi hangi faaliyet sırasında gerçekleşiyor?",
+          "answer": "Düşünce yolculuğu içinde dağ ve sahralarda gezerken gerçekleşiyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Ağaçlar ve bitkiler yolcuya sadece seyredilecek varlıklar olarak mı görünür, yoksa başka bir işlev de taşırlar mı?",
+          "answer": "Sadece görülen varlıklar değil, okunacak manalar taşıyan işaretler olarak görünürler.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde bitkilerin topluca aynı hakikate şahitlik ettiği nasıl anlatılmaktadır?",
+          "answer": "Hepsinin hâlleriyle ortak bir tevhid ilanı içinde olduğu ifade edilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Yaprak, çiçek ve meyvenin ayrı ayrı anılması hangi anlatım amacına hizmet eder?",
+          "answer": "Bitkinin her bölümünün aynı hakikate farklı yönden delil olduğunu göstermeye hizmet eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci hakikatte görülen “kasıt” unsuru neden önemlidir?",
+          "answer": "Çünkü nimet verme ve ikram etmenin bilinçsiz değil, iradeli olduğunu düşündürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İlk hakikatin genel görünümde daha da belirginleşmesi neyi gösterir?",
+          "answer": "Tek tek örneklerin ötesinde, bütün bitki âleminde ortak bir ilahî tasarruf bulunduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p22:lisans:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci hakikatte geçen ayırma ve biçim verme, varlıkların hangi özelliğine dayanır?",
+          "answer": "Tür ve fertler arasındaki belirgin farklara ve düzenli şekillenmeye dayanır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Tesadüfün reddedilmesi metinde hangi gözleme bağlanmıştır?",
+          "answer": "Sonsuz denecek kadar çok çeşitte hikmetli ayrım ve süslemenin açıkça görülmesine bağlanmıştır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p22:lisans:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Üçüncü hakikatte “çekirdek” ve “ortaya çıkan suret” arasında nasıl bir zıtlık kurulmaktadır?",
+          "answer": "Kaynak basit ve benzer; sonuç ise çok çeşitli, canlı ve ince düzenlidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Ortaya çıkan şekillerin hata taşımaması niçin vurgulanmıştır?",
+          "answer": "Bu oluşumun rastgele değil, kusursuz bir bilgi ve kudretle gerçekleştiğini göstermek için vurgulanmıştır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Yolcunun son sözü, metindeki delillerin onun üzerinde nasıl bir tesir bıraktığını gösterir?",
+          "answer": "Delillerin onda iman sevinci ve şükür duygusu meydana getirdiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde ağaçlar ve bitkiler âlemi, yolcu için nasıl bir öğrenme mekânı hâline gelmektedir?",
+          "answer": "Manaları okunacak ve tevhid dersi alınacak bir tefekkür sahası hâline gelmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu âlemin bir zikir ve şükür halkası gibi tasvir edilmesi neyi anlatır?",
+          "answer": "Varlıkların sessiz durmadığını, halleriyle Yaratıcı’yı tanıttığını anlatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Ağaçların ve bitkilerin ortak şehadeti hangi inanç esasına yöneliktir?",
+          "answer": "Allah’ın birliğine yöneliktir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bitkilerin üç farklı unsuru üzerinden delil kurulması, anlatımı nasıl güçlendirir?",
+          "answer": "Aynı hakikatin farklı cephelerden desteklendiğini göstererek delili kuvvetlendirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci hakikatte öne çıkan nimet boyutu, insanın hangi duygusunu uyandırmaya uygundur?",
+          "answer": "Şükür ve minnettarlık duygusunu uyandırmaya uygundur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci hakikatteki hikmetli ayırım, varlıkların birbirine karışmadan ortaya çıkması bakımından ne ifade eder?",
+          "answer": "Her birine özel ölçü ve özellik verildiğini ifade eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Süsleme ve şekillendirme fiilleri neden önemli delil sayılmaktadır?",
+          "answer": "Çünkü bunlar amaçlı ve iradeli bir düzenlemeyi gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Üçüncü hakikatte benzer çekirdeklerden farklı türlerin çıkması hangi kavramla daha çok ilişkilidir?",
+          "answer": "Kudretle birlikte ilim ve hikmet kavramlarıyla ilişkilidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Çok farklı suretlerin düzenli biçimde açılması, tabiatın kendi kendine işleyişiyle neden açıklanamaz?",
+          "answer": "Çünkü sınırlı ve benzer maddelerden böylesine ölçülü çeşitliliğin hatasız çıkması bilinçli bir takdiri gerektirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Bu pasajda gözlem ile inanç arasında nasıl bir bağ kuruluyor?",
+          "answer": "Gözlenen düzen ve nimetler, imanî sonuca ulaştıran deliller hâline getiriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Yolcunun vardığı sonuç sadece teorik bir kanaat midir, yoksa ibadet dili de içerir mi?",
+          "answer": "İbadet dili de içerir; çünkü hamd ve şükürle karşılık vermektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu, bitkiler âlemine girince bu varlıkları hangi yönleriyle “okur”?",
+          "answer": "Onların düzenini, güzelliğini ve taşıdığı manevi işaretleri okuyarak değerlendirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde bitkilerin tevhid şahitliği bireysel mi, toplu mu sunulmaktadır?",
+          "answer": "Toplu ve ortak bir şahitlik olarak sunulmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Yaprakların, çiçeklerin ve meyvelerin dilinden söz edilmesi nasıl anlaşılmalıdır?",
+          "answer": "Gerçek konuşma değil, hâl ve düzenleriyle mana ifade etmeleri olarak anlaşılmalıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Birinci hakikat, varlıklarda görülen nimetlerin hangi özelliğini öne çıkarır?",
+          "answer": "Gelişigüzel değil, bilinçli bir ikram olarak verilmesini öne çıkarır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci hakikatteki genel görünümün güneş ışığına benzer açıklıkta olduğu söylenirken ne kastedilir?",
+          "answer": "Bu mananın örtülü değil, açıkça fark edilir derecede belirgin olduğu kastedilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci hakikatte “ayırt etme” ile “süsleme” birlikte ele alınınca nasıl bir sonuç çıkar?",
+          "answer": "Varlıkların hem özel olarak seçildiği hem de güzel biçimde tanzim edildiği sonucu çıkar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu ikinci hakikat, Yaratıcı’nın hangi yönünü daha belirgin gösterir?",
+          "answer": "Sanatkârane iş gören ve hikmetle düzenleyen yönünü gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Üçüncü hakikatte başlangıç maddelerinin az farklı veya benzer olması niçin özellikle belirtilir?",
+          "answer": "Sonuçtaki büyük çeşitliliğin kaynağının maddi farklardan ibaret olmadığını göstermek için belirtilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Çok sayıdaki tür ve fertteki denge ve doğruluk neye delalet eder?",
+          "answer": "Her şeyi bilen ve ölçüyle yaratan bir iradeye delalet eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde bitkilerin suretlerinin “açılması” ifadesi neyi anlatır?",
+          "answer": "İçlerinde gizli olan programın dışta belirli bir biçimde ortaya çıkmasını anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu pasajda tefekkürün sonunda hangi iki ana sonuç birlikte ortaya çıkıyor?",
+          "answer": "Tevhid inancı güçleniyor ve buna şükür eşlik ediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Yolcunun hamd etmesi, gördüğü delilleri nasıl değerlendirdiğini gösterir?",
+          "answer": "Onları sadece zihinsel kanıt değil, iman nimeti olarak değerlendirdiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde yolcuya açılan kapı hangi varlık sahasına aittir?",
+          "answer": "Ağaçlar ve bitkiler sahasına aittir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Ağaçlar ve bitkiler neden bir meclis gibi tasvir edilmektedir?",
+          "answer": "Çünkü hepsi birlikte aynı hakikati ilan eden düzenli bir topluluk gibi görülmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bitki türlerinin ortak hâli, iman açısından hangi cümlede toplanmaktadır?",
+          "answer": "Hepsinin bir olan Allah’a işaret ettiği hükmünde toplanmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci büyük hakikatin merkezinde hangi ilahî muamele vardır?",
+          "answer": "Nimet verme, lütuf ve ikram etme vardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu nimetin “kasıtlı” oluşu neden önemlidir?",
+          "answer": "Çünkü kör sebeplerin değil, iradeli bir rahmetin iş başında olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p22:lisans:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci büyük hakikatte görülen düzenleme, seçme ve süsleme hangi düşünceyi reddeder?",
+          "answer": "Rastgele oluş ve tesadüf düşüncesini reddeder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci hakikatin hikmet boyutu, bitkilerin hangi yönlerinde ortaya çıkmaktadır?",
+          "answer": "Türlerin ayrımında, biçimlerinde ve güzelliklerinde ortaya çıkmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Üçüncü büyük hakikat, tohum ve çekirdeklerden çıkan varlıkların hangi özelliklerine dikkat çeker?",
+          "answer": "Çok çeşitli, dengeli, canlı, farklı ve kusursuz olmalarına dikkat çeker.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Benzer çekirdeklerden sayısız farklı biçimin ortaya çıkması niçin güçlü bir delildir?",
+          "answer": "Çünkü bu durum, sonucu belirleyen üstün bir bilgi, irade ve kudret bulunduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p22:lisans:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre bu üçüncü hakikati destekleyen deliller neden çok fazladır?",
+          "answer": "Çünkü baharda görülen sayısız yaprak, çiçek, meyve ve bitki bu gerçeği tekrar tekrar göstermektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p22:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Yolcunun sonunda söylediği hamd ifadesi, onun hangi seviyede bir kavrayışa ulaştığını gösterir?",
+          "answer": "Gözlemden imana, imandan da şükre ulaşan derin bir kavrayışa ulaştığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

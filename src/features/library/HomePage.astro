@@ -1,0 +1,46 @@
+---
+import kulliyatImage from "@/assets/home/rahle-boy-kulliyat-2.webp";
+import { SEARCH_ENABLED } from "@/config/features.js";
+import { libraryIndex } from "@/data/library.generated";
+import { getHomepageCtas } from "@/features/library/libraryHome.js";
+import { getUi, type Locale } from "@/i18n";
+import { localizedPath } from "@/i18n/routing";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const { locale } = Astro.props as { locale: Locale };
+const text = getUi(locale);
+const homeCtas = getHomepageCtas();
+const globalSearch = SEARCH_ENABLED
+  ? {
+      manifestUrl: libraryIndex.search.manifestUrl,
+      books: libraryIndex.books.map((book) => book.search)
+    }
+  : undefined;
+---
+
+<BaseLayout title={text.home.pageTitle} description={text.home.description} locale={locale} globalSearch={globalSearch}>
+  <section class="home-hero">
+    <div class="page-band__inner home-hero__inner">
+      <div class="home-hero__copy">
+        <p class="eyebrow">{text.home.hero.eyebrow}</p>
+        <h1>{text.home.hero.heading}</h1>
+        <p class="lede">{text.home.hero.lede}</p>
+        <div class="home-actions">
+          <a class="button" href={localizedPath(locale, homeCtas.booksHref)}>{text.home.hero.primaryCta}</a>
+          <a class="button-secondary" href={localizedPath(locale, homeCtas.lessonFlowHref)}>{text.home.hero.secondaryCta}</a>
+        </div>
+      </div>
+
+      <div class="home-hero__books" aria-hidden="true">
+        <img
+          src={kulliyatImage.src}
+          width={kulliyatImage.width}
+          height={kulliyatImage.height}
+          alt=""
+          decoding="async"
+          fetchpriority="high"
+        />
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,627 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:5-sinif:p19",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "5-sinif",
+  "partNo": "p19",
+  "partNumber": 19,
+  "title": "6. Mes'ele: Fenlerden temsiller (kâinat kitabı misali)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/5-sinif/SveC_5sinif_meyve-risalesi-p19-6-mesele-fenlerden-temsiller-kainat-kitabi-misali.txt",
+  "sourceRevision": "80276902b43ab4a17ab6e7196d0d82d0b9e65751804fdeb0cb392fffa6ac4a02",
+  "setCount": 6,
+  "questionCount": 51,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde önce hangi şeye benzetilen bir örnek anlatılıyor?",
+          "answer": "Çok ince ve şaşırtıcı biçimde yazılmış, içinde başka yazılar da bulunan özel bir kitaba benzetilen bir örnek anlatılıyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu örnekteki kitabın yazarı hakkında nasıl bir sonuç çıkarılıyor?",
+          "answer": "Onu yazanın çok usta, bilgili ve güçlü biri olduğu anlaşılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p19:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu örnekten sonra kâinat hangi şeye benzetiliyor?",
+          "answer": "Büyük bir kitaba benzetiliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p19:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu büyük kitabın bir sayfası gibi görülen şey nedir?",
+          "answer": "Yeryüzüdür.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p19:5-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu kitabın bir forma gibi gösterilen kısmı hangisidir?",
+          "answer": "Bahardır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p19:5-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Baharda birlikte görülen çok sayıdaki canlı grubu yaklaşık kaç tane olarak anlatılıyor?",
+          "answer": "Üç yüz bin kadar bitki ve hayvan topluluğu olarak anlatılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p19:5-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu canlı topluluklarının ortaya konuluşunda hangi düzen özellikleri vurgulanıyor?",
+          "answer": "Karışıklık olmadan, şaşmadan, eksiksiz ve düzenli biçimde ortaya çıkmaları vurgulanıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p19:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Ağaç ve çekirdek örnekleriyle hangi düşünce öğretiliyor?",
+          "answer": "Küçük görünen şeylerde çok büyük bilgiler ve planlar bulunabildiği öğretiliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Kâinattaki bu anlamlı düzeni fark etmeye hangi dersler yardımcı olur deniyor?",
+          "answer": "Eşyanın hikmetini anlamaya çalışan ilim ile okuma ve yazma dersleri yardımcı olur deniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu anlatımın sonunda insanı Allah’a karşı hangi duygulara yöneltmesi isteniyor?",
+          "answer": "Hayranlık, tesbih, yüceltme, şükür ve sevgi duygularına yöneltmesi isteniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki ilk örnekte neden sıradan bir yazıdan değil, çok ince ve anlamlı bir eserden söz ediliyor?",
+          "answer": "Çünkü asıl amaç, böyle büyük bir düzenin kendiliğinden değil, ustalıkla meydana geldiğini göstermektir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "O örnek eserde parçaların birbiriyle uyumlu olması neyi gösterir?",
+          "answer": "Yazanın işini bilinçli, ölçülü ve hikmetli yaptığını gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Aynı düşünce kâinata uygulanınca hangi sonuca varılıyor?",
+          "answer": "Kâinatın da bilinçli bir yaratıcı tarafından sanatlı şekilde düzenlendiği sonucu çıkıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p19:5-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Baharda birçok canlı türünün aynı zamanda ortaya çıkması hangi kudreti düşündürür?",
+          "answer": "Her şeye gücü yeten ve hepsini birlikte idare eden bir kudreti düşündürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Türlerin birbirine karışmaması hangi anlayışı destekler?",
+          "answer": "Her canlının ayrı bir bilgi ve planla yaratıldığını destekler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Çekirdeğin özel bir örnek olarak verilmesinin sebebi nedir?",
+          "answer": "Küçücük bir şeyin içinde büyük bir hayat planının saklı olduğunu göstermektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Okuma ve yazma ilimleri burada neden anılıyor?",
+          "answer": "Çünkü yazıdan yazarı anlamak gibi, varlıklardan da onları yaratanı anlamaya yardımcı olurlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin ana fikri kısa olarak nasıl söylenebilir?",
+          "answer": "Kâinattaki düzen, anlam ve sanat Allah’ın varlığını ve yüceliğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Böyle bir eseri gören kişi neden onu yapanı över?",
+          "answer": "Çünkü ortada yüksek bir beceri ve ince bir sanat vardır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Kâinatın “anlamlı bir mecmua” gibi anlatılması ne demektir?",
+          "answer": "Onun rastgele değil, mesaj taşıyan ve üzerinde düşünülmesi gereken bir bütün olduğu demektir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Yeryüzünün bu büyük kitapta bir sayfa gibi görülmesi neyi kolaylaştırır?",
+          "answer": "İnsanın kâinatı daha anlaşılır bir örnekle düşünmesini kolaylaştırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p19:5-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Baharın bir bölüm gibi ele alınması, özellikle hangi olayı göstermeye yarar?",
+          "answer": "Pek çok canlının aynı dönemde düzenli biçimde ortaya çıkmasını göstermeye yarar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bitki ve hayvan gruplarının çokluğu karşısında hata olmaması neyi ispatlar?",
+          "answer": "Sonsuz ilim ve kusursuz idareyi ispatlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Çekirdeğin “küçük ama kapsamlı” oluşu bize hangi dersi verir?",
+          "answer": "Boyutun küçük olmasının, içindeki planın da küçük olduğu anlamına gelmediğini öğretir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre okulda görülen hangi çalışmalar, kâinatı okumaya benzetilir?",
+          "answer": "Okuma, yazma ve varlıkların hikmetini anlama çalışmaları buna benzetilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki benzetmede özel kitabın iç düzeni hakkında ne söyleniyor?",
+          "answer": "İçindeki bilgiler birbirini destekliyor ve hepsi anlamlı bir bütün oluşturuyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu destekleşme, yazan kişi hakkında hangi fikri doğurur?",
+          "answer": "Dağınık değil, bilgili ve hâkim bir şekilde yazdığını düşündürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p19:5-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kâinatın da böyle bir bütün olarak görülmesi neden önemlidir?",
+          "answer": "Çünkü her şeyin tek bir düzen içinde yönetildiğini anlamaya yardım eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Yeryüzü üzerinde görülen canlı çeşitliliği neyin işareti sayılıyor?",
+          "answer": "Çok geniş bir ilim ve büyük bir kudretin işareti sayılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Baharda canlıların birlikte yaratılması hangi bakımdan dikkat çekicidir?",
+          "answer": "Çok farklı türlerin aynı anda düzenli biçimde meydana gelmesi bakımından dikkat çekicidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "“Karıştırmama” ve “şaşırmama” ifadeleri hangi yanlış düşünceyi reddeder?",
+          "answer": "Varlıkların rastgele oluştuğu düşüncesini reddeder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Çekirdek örneği hangi yönden hayret vericidir?",
+          "answer": "Çok küçük bir yerde koca bir hayatın planı bulunması yönünden hayret vericidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde ilimler “geniş ölçüler” ve “dürbün gözler” gibi neden anlatılmış olabilir?",
+          "answer": "Çünkü ilimler insanın göremediği incelikleri fark etmesine yardımcı olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Son kısımda geçen zikirler hangi üç tavrı öğretir?",
+          "answer": "Allah’ı büyük bilmek, noksan sıfatlardan uzak görmek ve O’na hamdetmek tavrını öğretir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada ilk verilen örnek bize eser ile ustası arasında nasıl bir bağ kurduruyor?",
+          "answer": "Güzel ve düzenli bir eserin, onu yapan kişiyi tanıttığını düşündürüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İnce yazılarla dolu eser örneği niçin güçlü bir delil sayılabilir?",
+          "answer": "Çünkü böylesi bir düzen ve incelik, bilinçsizce olamayacak kadar açıktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu örnekten sonra kâinat için kullanılan “büyük kitap” düşüncesi neyi anlatır?",
+          "answer": "Kâinatta okunacak işaretler, anlamlar ve sanatlar bulunduğunu anlatır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Yeryüzü neden bu kitabın tek sayfası gibi gösteriliyor?",
+          "answer": "Çünkü yalnız yeryüzüne bakmak bile çok büyük deliller görmeye yeter.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Baharın bir bölüm olarak anılması hangi gözleme dayanır?",
+          "answer": "O mevsimde pek çok canlının yeniden ortaya çıkmasının açıkça görülmesine dayanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Çok sayıda canlı grubunun beraber var edilmesi neyin kolay olduğunu göstermez, neyin mümkün olduğunu gösterir?",
+          "answer": "Tesadüfün işi olduğunu göstermez; Allah’ın her şeyi birlikte yaratmaya gücünün yettiğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Okuma ve yazma ile kâinat arasında nasıl bir benzerlik kuruluyor?",
+          "answer": "Yazıyı okuyup yazanı anlamak gibi, kâinatı inceleyip yaratanı anlamak benzerliği kuruluyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan çıkarılacak en uygun davranış nedir?",
+          "answer": "Çevremize ibretle bakıp Allah’ın nimetlerini ve sanatını takdir etmektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde geçen ilk benzetmede, kitabın yalnız güzel olması mı önemli, yoksa başka bir yönü de var mı?",
+          "answer": "Sadece güzel olması değil, çok derin anlamlar taşıması ve düzenli olması da önemlidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "O kitapta her şeyin birbirini doğrulaması neyi hissettirir?",
+          "answer": "Hepsinin tek bir elden, planlı şekilde çıktığını hissettirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Kâinatın böyle bir eser sayılması, insana bakışında nasıl bir değişiklik yapar?",
+          "answer": "İnsanı çevresine boş gözle değil, anlam arayan dikkatli gözle bakmaya yöneltir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Yeryüzü ve bahar örnekleri daha çok hangi alanı göz önüne serer?",
+          "answer": "Canlıların yaratılışı ve düzenini göz önüne serer.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Üç yüz bin kadar topluluğun birlikte bulunması hangi soruyu akla getirir ve metin buna ne cevap verir?",
+          "answer": "“Bunlar nasıl karışmadan oluyor?” sorusunu akla getirir; metin bunun kusursuz bir ilim ve kudretle olduğunu anlatır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde hata ve şaşkınlık olmadan yaratılıştan söz edilmesi neden önemlidir?",
+          "answer": "Çünkü bu, işin gelişigüzel değil, tam bir ölçüyle yapıldığını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bir ağaçta çok geniş manalar bulunması, kâinattaki sanat hakkında ne düşündürür?",
+          "answer": "Her bir varlığın basit görünse de çok derin bir sanat taşıdığını düşündürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bir çekirdekte büyük bir plan bulunması hangi özelliği öne çıkarır?",
+          "answer": "Yaratmadaki ilim ve programlı oluş özelliğini öne çıkarır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p19:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde adı geçen derslerin görevi nedir?",
+          "answer": "Varlıkları doğru okuyup onların sahibini tanımaya yardımcı olmaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

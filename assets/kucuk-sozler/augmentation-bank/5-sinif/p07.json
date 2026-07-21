@@ -1,0 +1,850 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:5-sinif:p07",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "5-sinif",
+  "partNo": "p07",
+  "partNumber": 7,
+  "title": "3. Söz: İbadet-saâdet, fısk-hasaret; iki asker temsili",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/5-sinif/SveC_5sinif_kucuk-sozler-p07-3-soz-ibadet-saadet-fisk-hasaret-iki-asker-temsili.txt",
+  "sourceRevision": "b62f69686dcc89c63231c9e00526e7335e70ac21b40a3b3885bb25d3727d113c",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Hikâyenin başında iki askere nasıl bir görev veriliyor?",
+          "answer": "Uzak bir yere gitmeleri emrediliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Yol ayrımında onlara bilgi veren kişi, sağ yol hakkında ne söylüyor?",
+          "answer": "O yolun tehlikesiz olduğunu ve çoğu kişiye fayda sağladığını anlatıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Aynı kişi, sol yol için nasıl bir uyarıda bulunuyor?",
+          "answer": "O yolda kazanç olmadığını ve çoğu yolcunun zarar gördüğünü söylüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İki yolun ortak yönü nedir?",
+          "answer": "Uzunluk bakımından eşit olmalarıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Sağ ve sol yol arasındaki önemli farklardan biri nedir?",
+          "answer": "Solda düzen yoktur; sağda ise askerî düzen vardır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Sağ yola giden askerin yanında taşıması gereken şeyler nelerdir?",
+          "answer": "Besin bulunan bir çanta ve güçlü bir silâh taşır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Sol yola giden kişi neden askerliği bırakıyor?",
+          "answer": "Kurala bağlı yaşamak istemediği için bırakıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Sol yola giden asker, yükten kurtulsa da içinde ne hissediyor?",
+          "answer": "İçinde büyük bir sıkıntı ve korku taşıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu asker yol boyunca insanlara karşı nasıl bir duruma düşüyor?",
+          "answer": "Başkalarına muhtaç hâle geliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p07:5-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Sol yola giden askerin sonu nasıl oluyor?",
+          "answer": "Vardığı yerde suçlu sayılıp ceza görüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Sağ yoldan giden asker yolculuk sırasında hangi güzel hâli yaşıyor?",
+          "answer": "Korkmadan ve kimseye yük olmadan huzurla ilerliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Sağ yoldan giden asker vardığı yerde ne ile karşılaşıyor?",
+          "answer": "Görevini iyi yapan dürüst bir asker gibi ödül alıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu temsilde anlatılan iki kişi kimdir?",
+          "answer": "Yolculuğa çıkan iki askerdir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Yol ayrımında karşılarına çıkan kişi ne yapıyor?",
+          "answer": "Hangi yolun daha güvenli ve faydalı olduğunu açıklıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Sağ yol neden daha akıllıca bir seçim gibi gösteriliyor?",
+          "answer": "Çünkü zarar taşımıyor ve çoğu kimse için yarar getiriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Sol yol neden aldatıcı görünüyor?",
+          "answer": "Yük az gibi görünse de sonunda sıkıntı ve kayıp veriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Sol yolun yolcusu dışarıdan hangi kolaylığı yaşıyor?",
+          "answer": "Daha hafif gidiyor gibi görünüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bu kolaylık neden gerçek bir rahatlık sayılmıyor?",
+          "answer": "Çünkü ardından korku, ihtiyaç ve ceza geliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p07:5-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Sağ yola giden asker bedenen yük taşısa da manen ne kazanıyor?",
+          "answer": "İç huzuru ve güven kazanıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Sol yola giden asker neden her şeyden ürküyor?",
+          "answer": "Koruyucu düzeni ve hazırlığı bırakmış oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Sağdaki asker neden kimseye el açmıyor?",
+          "answer": "Gerekli hazırlığı ve savunma aracı yanında bulunduğu için.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Hikâyede düzenli yaşamanın sonucu nasıl gösteriliyor?",
+          "answer": "Sonunda huzur ve mükâfat getiren bir yol olarak gösteriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Kuralsız davranmanın sonucu nasıl anlatılıyor?",
+          "answer": "Başta hafif görünse de sonu zarar ve ceza oluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu hikâyenin ana dersi kısa olarak nedir?",
+          "answer": "Doğru yol bazen zahmetli görünse de insanı iyiliğe götürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde ibadet neye benzetilerek anlatılmaya hazırlanıyor?",
+          "answer": "Kazançlı ve mutlu eden bir işe benzetiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Fısk ve sefahet için nasıl bir sonuç bildiriliyor?",
+          "answer": "Kayıp ve yıkıma götüren bir yol olduğu söyleniyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İki askerin birlikte başlaması bize neyi düşündürür?",
+          "answer": "Başlangıç şartlarının benzer olduğunu düşündürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Yol ayrımındaki bilgilendirici kişi, karar vermeleri için ne sunuyor?",
+          "answer": "İki yolun sonucu hakkında bir karşılaştırma sunuyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Sağ yolda gidenlerin çoğunun iyi sonuç alması neyi gösterir?",
+          "answer": "O yolun daha güvenilir ve bereketli olduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Sol yolun faydasız denmesi ne anlama gelir?",
+          "answer": "O yol insanı boşuna uğraştırır, gerçek bir kazanç vermez.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Sağ yolun yolcusu neden çanta taşımaktadır?",
+          "answer": "Yolculukta gerekli olacak şeyleri yanında bulundurmak için.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Silâh taşıması neyi sağlar?",
+          "answer": "Düşmana karşı korunma gücü verir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bedbaht askerin kurala başkaldırması onun karakteri hakkında ne anlatır?",
+          "answer": "Söz dinlemeyen ve başına göre davranan biri olduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre asıl ağır yük bedenin yükü mü, yoksa iç sıkıntısı mı?",
+          "answer": "Asıl zor olan içte taşınan korku ve ezikliktir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Sağ yolu seçen askerin kalp rahatlığı yaşamasının sebebi nedir?",
+          "answer": "Düzen içinde hareket etmesi ve hazırlıklı olmasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Hikâyede ödül ve ceza karşılaştırması bize hangi düşünceyi öğretir?",
+          "answer": "Seçimlerin sonunda mutlaka bir karşılık bulunduğunu öğretir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İki askerin gideceği yer yakın mı, uzak mı?",
+          "answer": "Uzak bir şehirdir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Yol ikiye ayrılınca karar vermeden önce ne oluyor?",
+          "answer": "Bir kişi onlara yollar hakkında bilgi veriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Sağ yolun en belirgin üstünlüğü nedir?",
+          "answer": "Zararsız olması ve çoğu kişiye rahatlık sağlamasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Sol yolun en belirgin kusuru nedir?",
+          "answer": "Faydasız olması ve çoğu yolcunun zarar etmesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İki yolun aynı uzunlukta olması niçin önemlidir?",
+          "answer": "Biri kısa diye seçilmediğini, farkın sonuçta olduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Soldaki yolun düzensiz olması yolcuya nasıl yansıyor?",
+          "answer": "Kendisini korumasız ve dayanıksız bırakıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Sağdaki yolun düzenli olması yolcuya ne kazandırıyor?",
+          "answer": "Güven, hazırlık ve dayanıklılık kazandırıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Sol yolu seçen asker, görünüşte ne kazanıyor?",
+          "answer": "Üzerindeki yükten kurtulmuş oluyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Aynı asker gerçekte ne kaybediyor?",
+          "answer": "Huzurunu, güvenini ve sonunda da iyi sonu kaybediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p07:5-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Sağ yolu seçen askerin korkusuz olması hangi iki şeye bağlıdır?",
+          "answer": "Düzen içinde bulunmasına ve gerekli araçları taşımasına bağlıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Mahall-i maksuda varınca iki askerin durumu nasıl ayrılıyor?",
+          "answer": "Biri suçlu gibi ceza görüyor, öteki görevini yapan biri gibi ödül alıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Hikâyeye göre ilk bakışta kolay görünen her seçim doğru mudur?",
+          "answer": "Hayır; bazen kolay görünen yol insanı zarara götürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Temsilde iki askerin birlikte yola çıkması hangi gerçeği kolaylaştırıyor?",
+          "answer": "Aynı durumda olan kişilerin farklı seçimlerle farklı sonuçlara ulaştığını göstermeyi kolaylaştırıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Yoldaki adamın verdiği bilgiye göre hangi yol daha çok kazanç getiriyor?",
+          "answer": "Sağ taraftaki yol daha çok kazanç getiriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Sol yol hakkında söylenen “yarar yok” sözü bize ne anlatır?",
+          "answer": "O yolun sonunda emek boşa gidebilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Sağ yolun yolcusu neden daha fazla eşya taşıyor?",
+          "answer": "Düzenin gerektirdiği hazırlığı yerine getirdiği için.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu yükün karşılığında ne elde ediyor?",
+          "answer": "Gönül ferahlığı ve güven elde ediyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p07:5-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Askerliği bırakmak burada sadece bir iş değişikliği mi anlatıyor?",
+          "answer": "Hayır, kurala ve göreve karşı gelmeyi anlatıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Sol yolu seçen askerin dilenci durumuna düşmesi neyi gösterir?",
+          "answer": "Hazırlıksız insanın başkalarına bağımlı olacağını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Her şeyden korkması onun hangi eksikliğini belli eder?",
+          "answer": "Dayanak ve korunmadan yoksun olduğunu belli eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Sağ yolu seçen asker neden başkalarına minnet etmiyor?",
+          "answer": "İhtiyaçlarını karşılayacak donanıma sahip olduğu için.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Sağ yoldaki askerin vicdan rahatlığı neyi ima eder?",
+          "answer": "Doğru olanı yaptığı için içinin huzurlu olduğunu ima eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Metindeki karşılaştırmaya göre gerçek rahatlık hangisidir?",
+          "answer": "Sonu iyi olan, güven veren rahatlıktır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan çıkarılacak bir öğüt söyle.",
+          "answer": "Sadece kolay görüneni değil, sonu hayırlı olanı seçmek gerekir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada anlatım hangi örnek olay üzerinden yapılıyor?",
+          "answer": "İki askerin iki farklı yolu seçmesi üzerinden yapılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bilgi veren kişi, sağ yolu seçenlerin çoğu için hangi iki sonucu söylüyor?",
+          "answer": "Kazanç ve rahatlık sonucu söylüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Sol yol için verilen oranlar neyi hissettiriyor?",
+          "answer": "O yolun büyük ihtimalle zarar vereceğini hissettiriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Sağ yolun yolcusu ne taşımak zorundadır?",
+          "answer": "Yiyecek özleri bulunan çanta ve güçlü bir silâh taşımak zorundadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Sol yolun yolcusu bunları taşımadığı için ilk anda nasıl görünüyor?",
+          "answer": "Daha hafif ve rahat gidiyor gibi görünüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p07:5-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Sağ yolu seçen askerin kalbi neden hafifliyor?",
+          "answer": "Büyük korku ve başkasına muhtaç olma duygusundan kurtulduğu için.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Sol yolu seçen askerin ruhu neden sıkışıyor?",
+          "answer": "Sonsuz gibi gelen korkular ve ezici bir bağımlılık içinde kaldığı için.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Sol yoldaki askerin vardığı yerde ceza görmesi neyin sonucudur?",
+          "answer": "Emre karşı gelmesinin ve görevden kaçmasının sonucudur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Sağ yoldaki askerin ödül alması neyin karşılığıdır?",
+          "answer": "Görevini düzgün yapmasının karşılığıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metin, görünürdeki hafiflik ile gerçek huzur arasında nasıl bir fark kuruyor?",
+          "answer": "Görünürde hafiflik geçicidir; gerçek huzur ise doğru seçimle gelir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Hikâyede “bahtiyar” denilen asker hangi seçimi yapıyor?",
+          "answer": "Sağdaki düzenli yolu seçiyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p07:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın en kısa özeti nasıl söylenebilir?",
+          "answer": "Disiplinli ve doğru yol, sonu güzel olan yoldur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

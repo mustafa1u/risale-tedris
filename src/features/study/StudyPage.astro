@@ -1,0 +1,133 @@
+---
+import { getUi, type Locale } from "@/i18n";
+import { getGradeExplanatoryLabel } from "@/i18n/libraryLabels";
+import { localizedPath } from "@/i18n/routing";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import type { GradeSlug } from "@/types/library";
+
+type Props = {
+  locale: Locale;
+};
+
+const { locale } = Astro.props as Props;
+const text = getUi(locale);
+const studyIndexUrl = "/assets/study-index.generated.json";
+const gradeSlugs: GradeSlug[] = ["2-sinif", "5-sinif", "8-sinif", "11-sinif", "lisans"];
+const gradeContexts = Object.fromEntries(
+  gradeSlugs.map((gradeSlug) => {
+    const gradeLabel = getGradeExplanatoryLabel(locale, gradeSlug);
+
+    return [
+      gradeSlug,
+      {
+        label: gradeLabel
+      }
+    ];
+  })
+);
+const cardCountTemplates = {
+  one: text.study.cardCount({ count: 1 }).replace("1", "{count}"),
+  many: text.study.cardCount({ count: 2 }).replace("2", "{count}")
+};
+const jsonForScript = (value: unknown) => JSON.stringify(value).replaceAll("</", "<\\/");
+---
+
+<BaseLayout title={text.study.pageEyebrow} description={text.study.instruction} locale={locale}>
+  <section class="page-band">
+    <div class="page-band__inner">
+      <nav class="breadcrumb" aria-label={text.common.breadcrumb}>
+        <a href={localizedPath(locale, "/")}>{text.nav.books}</a>
+        <span data-study-book-separator hidden>/</span>
+        <a data-study-book-link hidden></a>
+        <span>/</span>
+        <span>{text.study.pageEyebrow}</span>
+      </nav>
+      <div class="page-title">
+        <p class="eyebrow">{text.study.pageEyebrow}</p>
+        <h1 data-study-title>{text.study.loading}</h1>
+        <p class="lede" data-study-lede>{text.study.loading}</p>
+        <p class="study-instruction" data-study-instruction>{text.study.instruction}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-band page-band--muted">
+    <div class="page-band__inner">
+      <div
+        class="study-shell"
+        data-study-root
+        data-study-locale={locale}
+        data-study-index-url={studyIndexUrl}
+        data-question-label={text.study.question}
+        data-answer-label={text.study.answer}
+        data-card-count-one={cardCountTemplates.one}
+        data-card-count-many={cardCountTemplates.many}
+        data-page-title-prefix={`${text.study.pageEyebrow}: `}
+      >
+        <script is:inline type="application/json" data-study-grade-context-json set:html={jsonForScript(gradeContexts)}></script>
+        <p class="empty-state study-shell-fallback" data-study-fallback>{text.study.loadError}</p>
+        <p class="study-progress" data-study-progress aria-live="polite"></p>
+        <div class="study-status-row" data-study-status-row aria-live="polite" hidden>
+          <span class="study-status-pill study-status-pill--new">
+            <span>{text.study.status.new}</span>
+            <strong data-study-new-count>0</strong>
+          </span>
+          <span class="study-status-pill study-status-pill--learning">
+            <span>{text.study.status.learning}</span>
+            <strong data-study-learning-count>0</strong>
+          </span>
+        </div>
+        <button class="study-card" type="button" data-study-card>
+          <span class="study-card__side" data-study-side>{text.study.loading}</span>
+          <span class="study-card__text" data-study-card-text>{text.study.loading}</span>
+        </button>
+
+        <div class="study-controls">
+          <button class="button" type="button" data-show-answer>{text.study.showAnswer}</button>
+          <button class="button-secondary study-source-button" type="button" data-view-source hidden>
+            {text.study.viewSource}
+          </button>
+          <div class="study-rating-row" data-rating-row hidden>
+            <span class="study-rating-option">
+              <span class="study-rating-option__hint">{text.study.ratingHints.again}</span>
+              <button class="button-secondary study-rating-button" type="button" data-rating="again">{text.study.ratings.again}</button>
+            </span>
+            <span class="study-rating-option">
+              <span class="study-rating-option__hint">{text.study.ratingHints.hard}</span>
+              <button class="button-secondary study-rating-button" type="button" data-rating="hard">{text.study.ratings.hard}</button>
+            </span>
+            <span class="study-rating-option">
+              <span class="study-rating-option__hint">{text.study.ratingHints.easy}</span>
+              <button class="button-secondary study-rating-button" type="button" data-rating="easy">{text.study.ratings.easy}</button>
+            </span>
+          </div>
+        </div>
+
+        <dialog class="study-source-dialog" data-source-dialog aria-labelledby="study-source-title">
+          <div class="study-source-dialog__panel">
+            <header class="study-source-dialog__head">
+              <p class="eyebrow">{text.study.sourceEyebrow}</p>
+              <h2 id="study-source-title" data-source-title>{text.study.sourceEyebrow}</h2>
+            </header>
+            <div class="part-text study-source-text" data-source-text>
+              <p class="part-paragraph" data-source-loading hidden>{text.study.sourceLoading}</p>
+            </div>
+            <p class="empty-state study-source-message" data-source-error hidden>{text.study.sourceLoadError}</p>
+            <div class="study-source-dialog__actions">
+              <button class="button" type="button" data-close-source>{text.study.sourceDone}</button>
+            </div>
+          </div>
+        </dialog>
+
+        <p class="empty-state" data-study-complete hidden>{text.study.complete}</p>
+        <p class="empty-state" data-study-error hidden>{text.study.loadError}</p>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    import { initStudyPage } from "./studyPageClient.js";
+
+    initStudyPage();
+  </script>
+</BaseLayout>

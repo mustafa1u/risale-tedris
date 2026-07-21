@@ -1,0 +1,887 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:lisans:p78",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "lisans",
+  "partNo": "p78",
+  "partNumber": 78,
+  "title": "10. Mes'ele / Hâtime / 2. Haşiye: Kavaklar karşısında gaflet hüznü ve nûrun imdadı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/lisans/SveC_lisans_meyve-risalesi-p78-10-mesele-hatime-2-hasiye-kavaklar-karsisinda-gaflet-huznu-ve-nurun-imdadi.txt",
+  "sourceRevision": "121ff9fa7bc491fbf95be7060022cc961f20ddf677516ce730e009246d9570b8",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Haşiye’de anlatılan sahne hangi mekân ve hangi şartlar içinde başlar?",
+          "answer": "Denizli hapsinden çıktıktan sonra bir otelin üst katında otururken, karşısındaki bahçelerde bulunan çok sayıdaki kavakları seyrettiği bir anda başlar.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Kavakların hareketi ilk bakışta nasıl tasvir edilmektedir?",
+          "answer": "Havanın etkisiyle çok zarif, canlı ve adeta zikir halkasını andıran bir ahenk içinde sallanıp durdukları anlatılmaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu manzara niçin hüzünlü bir tesir meydana getiriyor?",
+          "answer": "Yakınlarından ayrı kalmış olması ve yalnızlık hissi, gördüğü güzelliği daha dokunaklı hâle getiriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Hangi mevsimleri düşünmesi onun iç dünyasında gaflete yol açıyor?",
+          "answer": "Sonbahar ve kış mevsimlerini hatırlaması bu gaflet hâlini doğuruyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Gaflet nazarıyla bakınca canlılar hakkında nasıl bir değerlendirmeye kayıyor?",
+          "answer": "Onları gayesiz, geçici ve sonunda yokluğa sürüklenen varlıklar gibi görmeye başlıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu bakış açısı onun hangi duygularını incitiyor?",
+          "answer": "Kalıcılık arzusu, güzelliğe sevgi, varlığı sevme, şefkat ve hayata bağlılık gibi derin duygularını sarsıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre bu yanlış bakışın insanın dünyasını ve aklını neye çevirdiği söyleniyor?",
+          "answer": "Dünyayı manevî bir azap yerine, aklı da insana eziyet veren bir araca çevirdiği ifade ediliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu ağır ruh hâlinden çıkışta hangi unsur yardıma yetişiyor?",
+          "answer": "Hz. Muhammed’in insanlığa getirdiği nur imdada yetişiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu nurun ilk tesiri nedir?",
+          "answer": "Sınırsız görünen hüzün ve gamı sevince ve teselliye dönüştürüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Anlatıcı niçin Peygamber Efendimiz’e karşı kalıcı bir minnettarlık duyduğunu söylüyor?",
+          "answer": "Çünkü o anda, kendi ruh hâline doğrudan dokunan yardım ve teselliyi onun getirdiği hakikatler sayesinde buluyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Nur gelmeden önce kavakların hareketi nasıl yorumlanırken, nur geldikten sonra nasıl yorumlanıyor?",
+          "answer": "Önce yok oluş korkusuyla titrer gibi görülürken, sonra her birinin çok sayıda hikmet, mana ve görev taşıdığı fark ediliyor.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S1Q2",
+            "meyve-risalesi:p78:lisans:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Metinde kavakların netice ve vazifeleri hakkında nasıl bir temel bilgi veriliyor?",
+          "answer": "Bunların üç gruba ayrılan sonuçları ve görevleri bulunduğu bildiriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada anlatılan dış manzara ile anlatıcının iç dünyası arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Dışarıdaki hoş ve hareketli görüntü, onun içindeki ayrılık ve yalnızlık duygusuyla birleşince daha derin bir hüzün doğuruyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Kavaklar başlangıçta hangi olumlu yönleriyle dikkat çekiyor?",
+          "answer": "Güzellikleri, letafetleri ve uyumlu hareketleriyle dikkat çekiyorlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Buna rağmen anlatıcı neden onlara acıyor?",
+          "answer": "Onları geçici bir süre görünüp sonra kaybolacak varlıklar gibi düşünmeye başlıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kâinattaki ayrılık ve sona eriş düşüncesi anlatıcı üzerinde nasıl bir etki bırakıyor?",
+          "answer": "Sanki bütün varlık âlemindeki hüzünler onun başında toplanmış gibi ağır bir keder meydana getiriyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Burada “gaflet” hangi zihinsel hataya işaret ediyor?",
+          "answer": "Varlıkları yalnız dış yüzleriyle görüp onların ilahî hikmet, görev ve kalıcı mânâlarını fark edememeye işaret ediyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Hakikat-i Muhammediyenin getirdiği nur bu hatayı nasıl düzeltiyor?",
+          "answer": "Yokluk ve anlamsızlık perdesini kaldırıp varlıkların boşuna yaratılmadığını gösteriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde sayılan olumsuz kavramlar ortak olarak hangi yanlış sonuca bağlanmaktadır?",
+          "answer": "Hepsi, eşyayı gayesiz ve sonu hiçlik olan şeyler gibi görmenin sonucu olarak ortaya çıkıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Nur geldikten sonra kavak yapraklarının çokluğu neden özellikle anılıyor?",
+          "answer": "Her bir yaprağın çok sayıda hikmet ve mânâ taşıdığına dikkat çekmek için anılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Anlatıcının yaşadığı dönüşüm sadece duygusal mıdır, yoksa fikrî bir yönü de var mıdır?",
+          "answer": "Hem duygusal hem fikrîdir; kalbi teselli bulurken düşüncesi de varlıkların anlamını yeniden kavrıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre peygamberî nurun kişisel hayata dokunan yönü nedir?",
+          "answer": "İnsan sadece genel bir inanç bilgisi edinmiyor; kendi sıkıntı anında doğrudan teselli ve çıkış yolu buluyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde geçen “perdeyi kaldırma” ifadesi neyi anlatıyor?",
+          "answer": "Eşyanın gerçek yüzünü örten gafletin dağılmasını ve hakikatin görünür hâle gelmesini anlatıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölümün ana fikri nasıl özetlenebilir?",
+          "answer": "İman ve peygamberî rehberlik sayesinde, fanilik gibi görünen varlıkların aslında hikmetli ve anlamlı olduğu anlaşılır; böylece hüzün teselliye dönüşür.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Haşiye’de anlatıcının duygusal kırılma noktası hangi düşünceyle başlıyor?",
+          "answer": "Mevsimlerin değişmesini düşününce, güzelliklerin kaybolacağı ve canlıların ayrılığa gideceği fikriyle başlıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Kardeşlerinden ayrı kalması metindeki duygusal tonu nasıl etkiliyor?",
+          "answer": "Zaten mevcut olan yalnızlık ve özlem hissini kuvvetlendirerek manzarayı daha hüzünlü algılamasına sebep oluyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Kavakların hareketi başlangıçta neden olumlu görünüp sonra acı verici bir manaya bürünüyor?",
+          "answer": "İlk anda hoş ve zarif görünse de ardından bu hareketler geçicilik ve ayrılık düşüncesiyle yorumlanıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Gaflet bakışı, görünen güzellikleri hangi sonuca bağlıyor?",
+          "answer": "Bunları kalıcı bir hikmetin işareti olarak değil, kısa süreli bir ortaya çıkıştan sonra yokluğa gidiş gibi değerlendiriyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre insandaki hangi eğilimler bu yanlış bakıştan en çok yaralanıyor?",
+          "answer": "Süreklilik isteği, güzeli sevme, varlığa muhabbet, canlılara şefkat ve hayatla bağ kurma duyguları yaralanıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Aklın bir işkence aracına dönüşmesi neyin sonucudur?",
+          "answer": "Varlıkları yalnız fanilik ve yokluk açısından değerlendiren yanlış düşüncenin sonucudur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Hakikat-i Muhammediye burada sadece bir bilgi kaynağı mı, yoksa başka bir işlev de görüyor mu?",
+          "answer": "Sadece bilgi vermiyor; aynı zamanda ruhu kurtaran, teselli eden ve manayı açan bir rehberlik görüyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Anlatıcının “ebediyen minnettar” olduğunu söylemesi neyi gösterir?",
+          "answer": "Yaşadığı yardımın geçici bir rahatlama değil, hayat boyu kıymeti bilinecek kadar büyük bir manevi ihsan olduğunu gösterir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Nurun gelişiyle önceki olumsuz kavramların yerine ne konuluyor?",
+          "answer": "Hikmet, anlam, görev ve sonuç sahibi bir varlık anlayışı konuluyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Kavakların her birinin çok sayıda hikmeti olduğunun söylenmesi hangi düşünceyi çürütür?",
+          "answer": "Canlıların boşuna var olduğu ve sonunda tamamen anlamsız biçimde kaybolduğu düşüncesini çürütür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "“Üç kısma ayrılan neticeler” ifadesinin burada işlevi nedir?",
+          "answer": "Varlıkların tek boyutlu değil, çok yönlü amaç ve sonuçlara sahip olduğunu haber vermektir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasaj, imanî bakış ile gaflet bakışı arasındaki farkı nasıl gösteriyor?",
+          "answer": "Aynı manzaraya bakan iki nazardan biri yokluk ve acı görürken, diğeri hikmet, görev ve teselli görmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın başında anlatıcı neyi seyretmektedir?",
+          "answer": "Karşısındaki bahçelerde bulunan çok sayıdaki kavak ağacını seyretmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Ağaçların ve yaprakların hareketi hangi manevi çağrışımla birlikte veriliyor?",
+          "answer": "Toplu bir zikir hâlini andıran uyumlu ve cezbedici bir hareket olarak veriliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Anlatıcının kalbine dokunan temel şahsî sebep nedir?",
+          "answer": "Sevdiklerinden ayrı düşmesi ve tek başına kalmasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Sonbahar ve kışın hatırlanması, gördüğü manzarayı nasıl değiştirmektedir?",
+          "answer": "Güzelliği kalıcı bir nimet gibi değil, sona yaklaşan geçici bir tablo gibi görmesine sebep olmaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu bakışla canlılar nasıl bir konuma indirgeniyor?",
+          "answer": "Sanki görev taşımayan ve sonunda yokluğa düşen varlıklar durumuna indirgeniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre bu tür bir düşünce insanın iç dünyasında nasıl bir sonuç doğurur?",
+          "answer": "Yoğun bir ayrılık acısı, geniş bir hüzün ve düşünce azabı doğurur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Yardımcı olan nurun kaynağı hangi ifadeyle belirtiliyor?",
+          "answer": "Hz. Muhammed’in getirdiği hakikatler ve aydınlatıcı rehberlik olarak belirtiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu manevi yardım anlatıcının duygularını nasıl dönüştürüyor?",
+          "answer": "Kederi sevince, karanlık bakışı aydınlık idrake çeviriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Anlatıcı bu teselliyi kendisi için nasıl değerlendiriyor?",
+          "answer": "Kendisine ulaşan büyük bir feyzin, o ana özel bir yardım ve teselli olduğunu düşünüyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Gaflet perdesi kalkınca kavaklar hakkında hangi yeni gerçek görülüyor?",
+          "answer": "Her birinin pek çok hikmet, mana, netice ve görev taşıdığı görülüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Buradaki dönüşümde “nazar”ın önemi nedir?",
+          "answer": "Aynı varlıkların nasıl görüleceğini belirleyen şey bakış açısıdır; yanlış nazar acı üretirken doğru nazar mana açıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Metin, tabiatı doğru okuma konusunda hangi mesajı veriyor?",
+          "answer": "Tabiata yalnız maddî ve geçici yönüyle değil, ilahî hikmet ve vazife yönüyle bakmak gerektiğini veriyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Haşiye’deki olay örgüsü hangi iki temel hâl arasında kurulmuştur?",
+          "answer": "Önce hüzün ve gaflet, ardından nur ile gelen teselli ve anlam arasında kurulmuştur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Başlangıçtaki manzara neden tek başına sevinç üretmiyor?",
+          "answer": "Çünkü anlatıcının iç dünyasında ayrılık ve yalnızlık bulunduğundan dış güzellik tam neşeye dönüşmüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Mevsimlerin hatırlanmasıyla anlatıcının zihninde hangi korku beliriyor?",
+          "answer": "Güzelliklerin sona ermesi ve canlıların yokluğa doğru gitmesi korkusu beliriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre gafletin varlıklara yüklediği yanlış hüküm nedir?",
+          "answer": "Onları amaçsız, faydasız ve sonu hiçlik olan şeyler gibi göstermesidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu yanlış hüküm insan tabiatındaki hangi sevgilerle çatışır?",
+          "answer": "Kalıcılığı isteme, güzeli sevme, varlığı benimseme, canlılara şefkat duyma ve yaşama bağlanma sevgileriyle çatışır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "“Dünya manevî cehennem olur” düşüncesi hangi şartta ortaya çıkmaktadır?",
+          "answer": "Varlıklar sadece ayrılık, yokluk ve anlamsızlık açısından değerlendirildiğinde ortaya çıkmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Peygamber Efendimizin getirdiği nur burada hangi problemi çözüyor?",
+          "answer": "Faniliği mutlak yokluk sanma problemini çözüyor ve varlıkların hikmetli yönünü gösteriyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Anlatıcının aldığı teselli neden sıradan bir moral desteği değildir?",
+          "answer": "Çünkü sadece duygusunu yatıştırmıyor; varlık ve hayat anlayışını kökten düzeltiyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Kavakların her bir yaprağına kadar hikmet atfedilmesi neyi gösterir?",
+          "answer": "En küçük gibi görünen ayrıntıların bile boş ve başıboş olmadığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde geçen netice ve vazifelerin çokluğu hangi inanç ilkesini destekler?",
+          "answer": "Kâinatta abesiyet bulunmadığı, her şeyin hikmetle yaratıldığı ilkesini destekler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu pasajdan, insanın ruh sağlığı ile inanç bakışı arasında nasıl bir bağ kurulduğu anlaşılır?",
+          "answer": "İnançlı ve hikmet merkezli bakış ruhu rahatlatırken, gaflet merkezli bakış insanı ağır kedere sürükler.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda başlayan “üç kısım” vurgusu, önceki anlatımı nasıl tamamlar?",
+          "answer": "Hüzünlü sezgiyi soyut teselliyle bırakmayıp, varlıkların düzenli ve çok yönlü gayelerini açıklamaya hazırlık yapar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Anlatıcının bulunduğu yer ile gördüğü manzara arasında nasıl bir karşıtlık vardır?",
+          "answer": "Kendisi yalnız ve mahzunken, karşısındaki bahçede canlı, güzel ve hareketli bir görüntü vardır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Kavakların hareketlerinin zikir halkasına benzetilmesi neyi hissettirir?",
+          "answer": "Tabiatta uyumlu, manevi çağrışımı olan ve boş olmayan bir hareket bulunduğunu hissettirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Buna rağmen anlatıcı niçin gözyaşına kapılıyor?",
+          "answer": "Çünkü bu güzelliklerin geçici olduğu ve ayrılıkla son bulacağı düşüncesi onu kuşatıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Kâinat çapında hüzün hissetmesi hangi düşünceden kaynaklanıyor?",
+          "answer": "Varlıkların yok oluşa ve ayrılığa mahkûm olduğu zannından kaynaklanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Gafletin bastırması burada ne anlama gelir?",
+          "answer": "İmanî hakikatin geri planda kalıp geçici görüntünün tek gerçek sanılması anlamına gelir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Hakikat-i Muhammediyenin nuru hangi anda devreye giriyor?",
+          "answer": "Hüzün en ağır hâle gelip varlıklar anlamsız görünmeye başladığı anda devreye giriyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu nurun etkisi sadece olumsuz duyguları azaltmak mıdır?",
+          "answer": "Hayır; ayrıca varlıkların anlamını, hikmetini ve görevini göstererek düşünceyi de düzeltir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde sıralanan “yokluk, anlamsızlık, faydasızlık” gibi hükümler neyin sonucu olarak gösteriliyor?",
+          "answer": "Gafletle bakmanın ve eşyayı hakikatinden kopuk değerlendirmenin sonucu olarak gösteriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Kavakların “her bir yaprağı sayısınca” hikmet taşıması ifadesi nasıl anlaşılmalıdır?",
+          "answer": "Çokluk ve zenginlik bildiren bir anlatımdır; yani son derece fazla mana ve fayda bulunduğu vurgulanır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Buradaki minnettarlık duygusu kime ve hangi sebeple yöneliktir?",
+          "answer": "Peygamber Efendimiz’e yöneliktir; çünkü onun getirdiği nur o anda kalbine yardım ve teselli olmuştur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p78:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu pasajdan, doğaya bakarken hangi iki farklı okuma biçimi çıkarılabilir?",
+          "answer": "Biri fanilik merkezli, karamsar ve anlamsız gören okuma; diğeri hikmet merkezli, imanla anlam kazandıran okumadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p78:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin bu bölümünde verilmek istenen temel ders nedir?",
+          "answer": "İman ve peygamberî nur olmadan insan güzellikler içinde bile hüzne düşebilir; fakat aynı manzara, doğru bakışla ilahî hikmetin ve tesellinin bir vesilesi olur.",
+          "wordCount": 23,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

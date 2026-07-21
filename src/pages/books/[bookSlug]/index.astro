@@ -1,0 +1,19 @@
+---
+import { libraryIndex, loadBook } from "@/data/library.generated";
+import BookPage from "@/features/library/BookPage.astro";
+
+export function getStaticPaths() {
+  return libraryIndex.books.map((book) => ({
+    params: { bookSlug: book.slug }
+  }));
+}
+
+const bookSlug = Astro.params.bookSlug ?? "";
+const book = await loadBook(bookSlug);
+
+if (!book) {
+  throw new Error(`Unknown book slug: ${bookSlug}`);
+}
+---
+
+<BookPage book={book} locale="tr" />

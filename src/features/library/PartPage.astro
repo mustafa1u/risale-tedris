@@ -1,0 +1,221 @@
+---
+import { readFile } from "node:fs/promises";
+import { resolve } from "node:path";
+import { getPartDownloadGroups } from "@/features/library/partDownloads.js";
+import { getUi, type Locale } from "@/i18n";
+import { getGradeExplanatoryLabel } from "@/i18n/libraryLabels";
+import { localizedPath } from "@/i18n/routing";
+import { splitPartText } from "@/features/library/partText.js";
+import { AUGMENTATION_ENABLED } from "@/config/features.js";
+import { AugmentationLauncher } from "@/features/augmentation/AugmentationIslands.jsx";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import type { DocumentType, GradeSlug, LibraryBook, LibraryPart } from "@/types/library";
+
+type Props = {
+  book: LibraryBook;
+  part: LibraryPart;
+  locale: Locale;
+};
+type DownloadActionKey = "docx" | "pdfNormal" | "pdfMobile";
+type DownloadAction = {
+  available: boolean;
+  href?: string;
+  download?: boolean;
+};
+type PartDownloadMaterial = {
+  docType: DocumentType;
+  actions: Record<DownloadActionKey | "study", DownloadAction>;
+};
+type PartDownloadGroup = {
+  gradeSlug: GradeSlug;
+  materials: PartDownloadMaterial[];
+};
+
+const { book, part, locale } = Astro.props as Props;
+const text = getUi(locale);
+const contentPath = resolve(process.cwd(), part.textSourcePath);
+const content = await readFile(contentPath, "utf8");
+
+const contentParagraphs = splitPartText(content);
+const downloadGroups = getPartDownloadGroups({ book, part }) as PartDownloadGroup[];
+const partIndex = book.parts.findIndex((item) => item.partNo === part.partNo);
+const previousPart = partIndex > 0 ? book.parts[partIndex - 1] : undefined;
+const nextPart = partIndex >= 0 && partIndex < book.parts.length - 1 ? book.parts[partIndex + 1] : undefined;
+const adjacentParts = [
+  { direction: "previous", label: text.part.previous, part: previousPart },
+  { direction: "next", label: text.part.next, part: nextPart }
+] as const;
+const downloadActionLabels = {
+  docx: text.downloads.docx,
+  pdfNormal: text.downloads.pdf,
+  pdfMobile: text.downloads.mobilePdf
+};
+const downloadActionKeys = Object.keys(downloadActionLabels) as DownloadActionKey[];
+const getMaterialHint = (docType: string) =>
+  docType === "BK" ? text.downloads.studyHint : text.downloads.questionSheetHint;
+const augmentationGradeLabels = Object.fromEntries(
+  book.grades.map((grade) => [grade.slug, getGradeExplanatoryLabel(locale, grade.slug, grade.label)])
+);
+---
+
+<BaseLayout
+  title={`${part.partNo.toUpperCase()} ${part.title}`}
+  description={text.part.description({ partTitle: part.title, bookTitle: book.title })}
+  locale={locale}
+>
+  <section class="page-band">
+    <div class="page-band__inner">
+      <nav class="breadcrumb" aria-label={text.common.breadcrumb}>
+        <a href={localizedPath(locale, "/")}>{text.nav.books}</a>
+        <span>/</span>
+        <a href={localizedPath(locale, `/books/${book.slug}/`)}>{book.title}</a>
+        <span>/</span>
+        <span>{part.partNo.toUpperCase()}</span>
+      </nav>
+      <div class="page-title">
+        <p class="eyebrow">{text.part.eyebrow({ partNo: part.partNo.toUpperCase() })}</p>
+        <h1>{part.title}</h1>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-band page-band--muted">
+    <div class="page-band__inner">
+      <div class="part-layout">
+        <div class="part-reader">
+          <nav class="part-step-nav" aria-label={text.part.navigationLabel}>
+            {adjacentParts.map((item) => {
+              const targetPart = item.part;
+
+              return targetPart ? (
+                <a
+                  class={`part-step part-step--${item.direction}`}
+                  href={localizedPath(locale, `/books/${book.slug}/parts/${targetPart.partNo}/`)}
+                >
+                  <span class="part-step__label">{item.label}</span>
+                  <span class="part-step__title">
+                    {targetPart.partNo.toUpperCase()} - {targetPart.title}
+                  </span>
+                </a>
+              ) : (
+                <span class={`part-step part-step--${item.direction} is-disabled`} aria-disabled="true">
+                  <span class="part-step__label">{item.label}</span>
+                </span>
+              );
+            })}
+          </nav>
+
+          <section class="guidance-panel part-workflow" aria-labelledby="part-workflow-heading">
+            <h2 id="part-workflow-heading">{text.part.workflow.heading}</h2>
+            <ol class="compact-steps">
+              {text.part.workflow.steps.map((step) => (
+                <li>{step}</li>
+              ))}
+            </ol>
+          </section>
+
+          {AUGMENTATION_ENABLED ? (
+            <section class="guidance-panel augmentation-entry" aria-label={text.augmentation.launch}>
+              <AugmentationLauncher
+                client:load
+                bookSlug={book.slug}
+                partNo={part.partNo}
+                locale={locale}
+                labels={text.augmentation}
+                gradeLabels={augmentationGradeLabels}
+              />
+            </section>
+          ) : null}
+
+          <div class="part-text">
+            {contentParagraphs.map((paragraph) => (
+              <p class={`part-paragraph part-paragraph--${paragraph.alignment}`}>
+                {paragraph.segments.map((segment) => (
+                  <span class={`part-script part-script--${segment.script}`}>{segment.value}</span>
+                ))}
+              </p>
+            ))}
+          </div>
+
+          <nav class="part-step-nav part-step-nav--bottom" aria-label={text.part.navigationLabel}>
+            {adjacentParts.map((item) => {
+              const targetPart = item.part;
+
+              return targetPart ? (
+                <a
+                  class={`part-step part-step--${item.direction}`}
+                  href={localizedPath(locale, `/books/${book.slug}/parts/${targetPart.partNo}/`)}
+                >
+                  <span class="part-step__label">{item.label}</span>
+                  <span class="part-step__title">
+                    {targetPart.partNo.toUpperCase()} - {targetPart.title}
+                  </span>
+                </a>
+              ) : (
+                <span class={`part-step part-step--${item.direction} is-disabled`} aria-disabled="true">
+                  <span class="part-step__label">{item.label}</span>
+                </span>
+              );
+            })}
+          </nav>
+        </div>
+
+        <aside class="download-panel" aria-label={text.downloads.label}>
+          <h2>{text.downloads.heading}</h2>
+          <p class="download-panel__note">{text.downloads.mixedAgeGuidance}</p>
+          {downloadGroups.map((group) => {
+            const gradeSlug = group.gradeSlug;
+            const grade = book.grades.find((item) => item.slug === gradeSlug);
+            const gradeLabel = getGradeExplanatoryLabel(locale, gradeSlug, grade?.label);
+
+            return (
+              <details class="download-group">
+                <summary
+                  class="download-group__summary"
+                  aria-label={text.downloads.openGrade({ gradeLabel })}
+                >
+                  <span class="download-group__summary-label">{text.downloads.gradeSummary({ gradeLabel })}</span>
+                  <span class="download-group__summary-arrow" aria-hidden="true">›</span>
+                </summary>
+
+                <div class="download-group__content">
+                  {group.materials.map((material) => (
+                    <section class="download-material">
+                      <header class="download-material__head">
+                        <div class="part-row__meta">{text.downloads.variants[material.docType]}</div>
+                        <p>{getMaterialHint(material.docType)}</p>
+                      </header>
+
+                      {material.docType === "BK" && material.actions.study.available && material.actions.study.href ? (
+                        <div class="download-study-action">
+                          <a class="button" href={localizedPath(locale, material.actions.study.href)}>
+                            {text.study.start}
+                          </a>
+                        </div>
+                      ) : null}
+
+                      <div class="download-grid">
+                        {downloadActionKeys.map((actionKey) => {
+                          const label = downloadActionLabels[actionKey];
+                          const action = material.actions[actionKey];
+
+                          return action.available ? (
+                            <a class="button-secondary" href={action.href} download>
+                              {label}
+                            </a>
+                          ) : (
+                            <span class="button-muted">{label}</span>
+                          );
+                        })}
+                      </div>
+                    </section>
+                  ))}
+                </div>
+              </details>
+            );
+          })}
+        </aside>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

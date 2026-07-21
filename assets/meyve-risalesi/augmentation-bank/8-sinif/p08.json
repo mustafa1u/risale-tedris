@@ -1,0 +1,610 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:8-sinif:p08",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "8-sinif",
+  "partNo": "p08",
+  "partNumber": 8,
+  "title": "3. Mes'ele: Dalaletin mazi-istikbal tasavvuru ve imanın hakikî lezzeti",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/8-sinif/SveC_8sinif_meyve-risalesi-p08-3-mesele-dalaletin-mazi-istikbal-tasavvuru-ve-imanin-hakiki-lezzeti.txt",
+  "sourceRevision": "c8a5371aea5422e10985eeb3143cd05a0e12b1e00c25fb46ebac4197a2e3b78c",
+  "setCount": 6,
+  "questionCount": 50,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, inkâr ve günah yoluna giren kimsenin geçmiş zamana bakışı nasıl anlatılıyor?",
+          "answer": "Geçmişi, yok olup gitmiş insanların bulunduğu korkutucu bir yer gibi görür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yanlış bakış insana hangi duyguları yükler?",
+          "answer": "Ayrılık acısı, kayıp duygusu ve iç sıkıntısı verir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p08:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Aynı kişinin geleceğe bakışı nasıl tasvir ediliyor?",
+          "answer": "Geleceği karanlık, boş ve korku verici bir alan gibi düşünür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p08:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Gelecek hakkındaki bu düşünce insanın bugünkü keyfini nasıl etkiler?",
+          "answer": "İçine sürekli endişe düşürdüğü için kısa zevklerini de bozar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p08:8-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre kişi sapkınlığı bırakıp sağlam imana yönelirse geçmişi nasıl görmeye başlar?",
+          "answer": "Geçmişi, yokluk yeri değil; kalıcı ruhların daha güzel âlemlere geçiş beklediği aydınlık bir alan gibi görür.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Böyle bir iman, insanın dünyadaki hissiyatına ne kazandırır?",
+          "answer": "Daha bu dünyadayken iç huzuru ve manevî bir sevinç kazandırır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p08:8-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İmanlı bakışla gelecek nasıl görünür?",
+          "answer": "Korkulacak bir karanlık değil, Allah’ın ikramlarının hazırlanmış olduğu güzel bir istikbal gibi görünür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde “iman sineması” denilen ifade ile ne anlatılmak isteniyor?",
+          "answer": "İmanın insana görünmeyen gerçekleri kalp ve akıl ile fark ettirmesi anlatılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Parçanın ana hükmü lezzet konusunda nedir?",
+          "answer": "Gerçek, temiz ve acısız lezzetin ancak imanla bulunabileceğidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İnkâr sahibi biri için geçmişteki dostlar ve sevdikler neden acı kaynağı hâline gelir?",
+          "answer": "Onları tamamen kaybolmuş kabul ettiği için ayrılık acısı büyür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Akıl sahibi olmak, imansız bir kişide neden rahatlık değil de bazen sıkıntı sebebi olur?",
+          "answer": "Çünkü akıl geçmiş kayıpları ve gelecek korkularını sürekli hatırlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde, şimdiki kısa zevklerin bozulmasına sebep olan iki ana şey nedir?",
+          "answer": "Geçmişten gelen üzüntüler ile gelecekten gelen korkulardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Sağlam iman geçmiş zaman hakkındaki düşünceyi hangi yönde değiştirir?",
+          "answer": "Onu yokluk ve çürüme yeri gibi görmekten kurtarıp anlamlı bir geçiş alanı olarak gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre imanlı insan gelecek hakkında neden ümit taşır?",
+          "answer": "Çünkü Allah’ın rahmet ve ikramının onu beklediğine inanır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada Allah’ın rahmetini anlatmak için hangi genel örnek veriliyor?",
+          "answer": "Her yıl nimetlerin bolca hazırlanıp insanlara sunulması hatırlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İman, geçmiş ve gelecek düşüncesini değiştirince insanın bugünü nasıl etkilenir?",
+          "answer": "Bugünkü hayatı daha huzurlu, daha ferah ve anlamlı olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Metnin düşüncesine göre lezzet ile iman arasında nasıl bir bağ vardır?",
+          "answer": "Lezzetin kalıcı ve acısız olması imana bağlıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "“İnsaniyet alâkadarlığı” ifadesinden burada ne anlaşılır?",
+          "answer": "İnsanın sevdikleriyle bağ kurması ve onların hâlinden etkilenmesidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Sevdiklerinden ebedî ayrılık düşündüğünde insanın kısa süreli zevkleri neden değersizleşir?",
+          "answer": "Büyük bir acı, küçük bir keyfi bastırır ve onun tadını kaçırır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre inkâr, geleceği nasıl bir hâle sokar?",
+          "answer": "Umutsuz, karanlık ve korku dolu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İmanlı bakışta geçmiş neden sadece hüzün veren bir alan değildir?",
+          "answer": "Çünkü orada bulunanların sonsuz yokluğa değil, kalıcı hayata yöneldiği düşünülür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Geleceğin bir “ziyafet yeri” gibi görünmesi neyi ifade eder?",
+          "answer": "Allah’ın kulları için nimet ve ikram hazırladığını ifade eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu anlatımda Allah’ın hangi iki sıfatı özellikle öne çıkarılıyor?",
+          "answer": "Merhameti ve cömertliği öne çıkarılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada dünya hayatında da hissedilebilen bir iman meyvesi olarak ne gösteriliyor?",
+          "answer": "Manevî huzur ve iç lezzeti gösteriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün ana fikrini bir cümleyle nasıl özetlersin?",
+          "answer": "İman, insanın geçmiş ve gelecek korkusunu azaltır; inkâr ise artırır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, inkâr ve sefahat yoluna giren kişinin bugünkü keyfi neden sağlam bir mutluluk sayılmıyor?",
+          "answer": "Çünkü çok kısa sürüyor ve arkasından büyük acılar getiriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Geleceğin karanlık sanılması insanın düşünce dünyasında ne doğurur?",
+          "answer": "Korku, tedirginlik ve bitmeyen kaygı doğurur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre iman, sadece ahiret için mi faydalıdır, yoksa dünya için de mi?",
+          "answer": "Dünya için de faydalıdır; insana burada da huzur verir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Parçada geçmişin imanla aydınlanması hangi sonuçla bağlantılı anlatılıyor?",
+          "answer": "Ruhların kalıcı bir saadete doğru yönelmesiyle bağlantılı anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İmanlı bir insanın geleceği umutla görmesinin sebebi nedir?",
+          "answer": "Allah’ın rahmetine ve sonsuz mutluluğa hazırlanıldığına inanmasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "“Derecesine göre” denilerek neye işaret ediliyor?",
+          "answer": "Her insanın iman kuvvetine göre bu huzur ve lezzeti farklı seviyede hissedeceğine işaret ediliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu parçaya göre en büyük yanlışlardan biri nedir?",
+          "answer": "Kısa zevkler uğruna sonsuz hayatı ve hakikati unutmak.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada karşı çıkılan anlayış, zevk elde etmek için hangi şeyi hatırdan çıkarmaya çalışıyor?",
+          "answer": "Ölümü ve sonrasını düşünmemeye çalışıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre bu unutma çabası gerçekten huzur verir mi? Neden?",
+          "answer": "Vermez; çünkü insanın aklı ve kalbi yine geçmiş ve gelecek hakkında acı duyar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p08:8-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Geçmişteki “hadsiz firaklar” ifadesi hangi duruma işaret eder?",
+          "answer": "Çok sayıda ayrılık ve kayıp yaşanmış olmasına işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Gelecekten gelen korkuların kaynağı metinde ne olarak gösteriliyor?",
+          "answer": "İnançsızlık yüzünden geleceğin anlamsız ve ürkütücü görülmesi olarak gösteriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İmanla birlikte geçmişe bakışta meydana gelen en büyük değişim nedir?",
+          "answer": "Geçmişin yokluk yeri sanılmaktan çıkıp anlamlı bir bekleyiş alanı gibi görülmesidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İmanlı bakışın geçmişten elem değil de lezzet çıkarması nasıl mümkün oluyor?",
+          "answer": "Çünkü sevdiklerinin tamamen kaybolmadığını, daha güzel bir hayata yöneldiğini düşündürüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p08:8-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Geleceğin Allah’ın ikramlarıyla dolu görülmesi insana hangi ahlâkî duyguyu kazandırır?",
+          "answer": "Ümit, güven ve Rabbine yönelme duygusu kazandırır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada Allah’ın nimetleri hangi tabiat olayı üzerinden hatırlatılıyor?",
+          "answer": "Bahar ve yaz mevsimlerinde görülen bolluk üzerinden hatırlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "“Hakikî ve elemsiz lezzet” sözüyle nasıl bir mutluluk kastediliyor?",
+          "answer": "İçinde pişmanlık, korku ve acı bulunmayan gerçek mutluluk kastediliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, günah ve sapma yolunda olan kişiye hitap edilirken onun en büyük yanılgısı ne olarak gösteriliyor?",
+          "answer": "Kısa süreli keyfi gerçek mutluluk sanması olarak gösteriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Parçada geçmişte yaşanan ölümler ve ayrılıklar, imansız kişi üzerinde nasıl bir sonuç doğurur?",
+          "answer": "Onun içine sürekli acı ve hüzün bırakır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Gelecekte ölümle karşılaşacak insanları yokluğa gidiyor sanmak hangi duyguyu artırır?",
+          "answer": "Şiddetli korku ve tedirginliği artırır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İman sahibi olunca geçmişin “nurani” görülmesi ne demektir?",
+          "answer": "Geçmişin boş ve karanlık değil, Allah’ın hikmeti içinde anlamlı ve aydınlık görülmesi demektir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre iman, Cennet’e benzer bir tadı insana ne zaman hissettirebilir?",
+          "answer": "Daha dünyada yaşarken hissettirebilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Geleceğin Allah’ın rahmet sofrası gibi görülmesi, kulun Rabbi hakkında hangi düşünceyi güçlendirir?",
+          "answer": "Rabbimizin merhametli ve ikram sahibi olduğu düşüncesini güçlendirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Metindeki karşılaştırmaya göre inkârın verdiği lezzet neden zayıftır?",
+          "answer": "Çünkü çok azdır ve büyük korkular tarafından hemen bozulur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "İmanın verdiği lezzet neden daha üstün kabul ediliyor?",
+          "answer": "Çünkü sadece kısa bir keyif değil, huzur, ümit ve iç ferahlığı da veriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p08:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajdan hareketle bir öğrenci günlük hayatında nasıl bir sonuç çıkarabilir?",
+          "answer": "Geçici heveslerin peşine takılmak yerine imanını kuvvetlendirmeye ve doğru yaşamaya önem vermelidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

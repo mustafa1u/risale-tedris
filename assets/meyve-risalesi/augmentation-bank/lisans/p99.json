@@ -1,0 +1,636 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:lisans:p99",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "lisans",
+  "partNo": "p99",
+  "partNumber": 99,
+  "title": "Hâtime: Bir ihtar ve sual cevabı (işarî mana tabakası; ebced münasebeti)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/lisans/SveC_lisans_meyve-risalesi-p99-hatime-bir-ihtar-ve-sual-cevabi-isari-mana-tabakasi-ebced-munasebeti.txt",
+  "sourceRevision": "eb741252f94b66ed66b2c4fe3e7bad47421158c6274a83b54f81b2288efcb0be",
+  "setCount": 6,
+  "questionCount": 53,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İhtar kısmında her bir âyetin manası hakkında hangi temel esas belirtiliyor?",
+          "answer": "Her bir âyetin tek bir anlama kapanmadığı, birden fazla anlam taşıdığı ve bu anlamların geniş kapsamlı olduğu belirtiliyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu geniş anlamlar içinde içinde bulunulan çağa bakan katman hangisi olarak gösteriliyor?",
+          "answer": "İşarî mana tabakası öne çıkarılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde bu çağın, o genel anlam içindeki yeri nasıl açıklanıyor?",
+          "answer": "Bu çağın, o küllî mananın örneklerinden biri olduğu; fakat ayrıca tarihî bir belirginlik kazandığı ifade ediliyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Müellif, savaşın gidişatı ve sonucu hakkında neden ayrıntılı araştırmaya girmediğini nasıl açıklıyor?",
+          "answer": "Kendisinin uzun süredir savaşın safhalarını, sonucunu ve barış durumunu takip etmediğini, ayrıca bunları sormadığını söylüyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Buna rağmen metinde niçin kısa kesildiği hangi gerekçeye bağlanıyor?",
+          "answer": "Konunun başka risalelerde daha geniş şekilde açıklandığını ve burada sadece hatırlatma kabilinden değinmenin yeterli görüldüğünü belirtiyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p99:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "“Hatıra gelebilen bir sual” denilerek hangi meseleye cevap veriliyor?",
+          "answer": "Bazı ifadelerde hangi kelimelerin hesaba katıldığı, bazılarında ise neden katılmadığı sorusuna cevap veriliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Yaratılmışlarla ilgili ifadede hem “bir kısmı” anlamı veren unsurun hem de “şer”e işaret eden unsurun hesaba katılması hangi ince manaya bağlanıyor?",
+          "answer": "İnsanlar ve varlıklar içinde sadece kötülük değil iyilik de bulunduğu, ayrıca kötülüğün herkese aynı şekilde ulaşmadığı için sınırlayıcı bir işaret bulunduğu söyleniyor.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Hased eden kimseyle ilgili ifadede niçin “bir kısmı” anlamına ihtiyaç olmadığı belirtiliyor?",
+          "answer": "Çünkü kıskançlık fiili ortaya çıktığında onun doğrudan bütünüyle kötülük taşıdığı kabul ediliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Düğümlere üfleyenlerle ilgili yerde niçin ayrıca “şer” kelimesine ihtiyaç kalmadığı söyleniyor?",
+          "answer": "Çünkü orada anılan tahripkâr işlerin tamamının baştan sona kötülük olduğu ifade ediliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "İhtar bölümünde âyetlerin anlam alanı dar mı, geniş mi gösteriliyor? Bunu nasıl anlarsın?",
+          "answer": "Geniş gösteriliyor; çünkü her bir âyetin birden çok mana taşıdığı ve bu manaların farklı zamanlarda karşılık bulduğu söyleniyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu metinde özellikle hangi mana boyutu ele alınıyor?",
+          "answer": "Çağa işaret eden işarî boyut ele alınıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Asrın bu küllî mana içindeki konumu nasıl tarif ediliyor?",
+          "answer": "Asır, genel mananın özel bir örneği olarak tarif ediliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Daha fazla sır bulunduğu kanaati hangi dayanağa bağlanıyor?",
+          "answer": "Bu tür açıklamaların başka risalelerde beyan ve ispat edilmiş olmasına bağlanıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Metindeki soru-cevap kısmının asıl amacı nedir?",
+          "answer": "Hesaplamalarda görülen farklı uygulamaların rastgele olmadığını, anlamla ilişkili olduğunu göstermek.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Yaratılmışlardan gelen kötülük söz konusu olduğunda niçin sınırlayıcı bir kullanım uygun görülüyor?",
+          "answer": "Çünkü yaratılmışlarda yalnız zarar değil fayda da vardır; ayrıca zarar herkesi kapsayan mutlak bir hâl değildir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Kıskançlıkla ilgili bölümde kötülüğün niteliği nasıl sunuluyor?",
+          "answer": "Kıskançlık gerçekleştiğinde, onun parça parça değil doğrudan zarar verici bir hâl aldığı sunuluyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Son örnekte geçen yıkıcı aktörlerin özelliği, önceki iki örnekten hangi bakımdan daha ağır gösteriliyor?",
+          "answer": "Orada kötülük belli bir yönüyle değil, tüm yıkıcı faaliyetleriyle tam bir zarar odağı olarak gösteriliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p99:lisans:S2Q8",
+            "meyve-risalesi:p99:lisans:S2Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "“Her asırda efradı bulunur” sözü, âyetlerin mesajı hakkında nasıl bir anlayış kazandırır?",
+          "answer": "Âyetlerin sadece tek döneme değil, farklı zamanlarda ortaya çıkan benzer durumlara da hitap ettiğini gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bahiste yalnız bu çağa bakan tabakanın ele alınması neyi sınırlar?",
+          "answer": "Metnin bütün muhtemel anlamları değil, sadece çağla ilgili işarî yönü üzerinde durulduğunu sınırlar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Müellifin savaşa dair bilgi eksikliğini belirtmesi, okuyucuya hangi edebi ve ilmî tavrı hissettirir?",
+          "answer": "Bilmediği alanlarda iddia büyütmeyen, ölçülü ve emanetli bir yaklaşım hissettirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Hazine benzetmesiyle ne anlatılmak isteniyor?",
+          "answer": "Metinde daha keşfedilecek çok ince mana ve sır bulunduğu anlatılmak isteniyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Hesaba bazen bazı kelimelerin katılması, bazen katılmaması neye göre düzenleniyor?",
+          "answer": "Sadece sayısal uygunluğa göre değil, mana inceliğine ve işaret edilen hükmün kapsamına göre düzenleniyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Yaratılmışlarla ilgili ifadede iyiliğin de var olduğunun söylenmesi, kötülük değerlendirmesini nasıl etkiliyor?",
+          "answer": "Kötülüğün mutlak ve her şeyi kaplayan bir nitelik taşımadığını, bu yüzden sınırlı düşünülmesi gerektiğini gösteriyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Hasede dair ifadede neden bütüncül bir kötülük vurgusu vardır?",
+          "answer": "Çünkü burada söz konusu fiil meydana geldiğinde doğası gereği saf zarar olarak değerlendiriliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Düğümlere üfleyenler için ayrıca “şer” denmesine gerek görülmemesi hangi yorumla açıklanıyor?",
+          "answer": "Yapılan işlerin zaten başlı başına yıkım ve bozgunculuk olmasıyla açıklanıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İhtar bölümünün ilk cümleleri, Kur’ân âyetlerinin anlamı hakkında nasıl bir metod ortaya koyuyor?",
+          "answer": "Çok katmanlı ve zamanlar üstü bir anlam okuması ortaya koyuyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde bu zamanın özel olarak öne çıkması hangi özellikle açıklanıyor?",
+          "answer": "Bu zamanın, genel mana içinde tarihî bir işaretle belirginleşmiş olmasıyla açıklanıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Daha fazla açıklama için başka risalelere yönlendirme yapılması neyi gösterir?",
+          "answer": "Konunun daha geniş bir külliyat içinde ele alındığını ve burada özet geçildiğini gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Hatıra gelen soruda asıl dikkat çekilen nokta nedir?",
+          "answer": "Aynı suredeki farklı ifadelerde hesaplamaya alınan unsurların farklı oluşudur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Yaratılmışlardan gelen kötülükte “kısmiyet” anlamının korunması neden önemlidir?",
+          "answer": "Çünkü yaratılmışların tamamı veya her yönüyle kötülükten ibaret olmadığı vurgulanmak istenir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Hasedin geçtiği yerde “kısmiyet”e ihtiyaç duyulmaması nasıl bir ahlâkî değerlendirme içerir?",
+          "answer": "Kıskançlığın ortaya çıktığında doğrudan bozguncu ve zarar verici bir ahlâkî hâl olduğu değerlendirmesini içerir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Üfleyiciler ve diplomatlar örneğinde nasıl bir faaliyet tarzı tasvir ediliyor?",
+          "answer": "Gizli telkinlerle, yönlendirmeyle ve çıkar hesabıyla büyük yıkımlara yol açan bir faaliyet tarzı tasvir ediliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün genel mesajı, kelime tercihlerinin metinde nasıl kullanıldığı konusunda bize ne öğretir?",
+          "answer": "Kelime seçimlerinin rastgele değil, ince anlam farklılıklarını gösterecek şekilde bilinçli kullanıldığını öğretir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre bir âyetin birden fazla manaya sahip olması, yorum kapısını nasıl etkiler?",
+          "answer": "Yorum kapısını genişletir; farklı zamanlar ve durumlar için anlam açılımları mümkün olur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Burada ele alınan mana katmanı neden bütün anlamların yerine geçmez?",
+          "answer": "Çünkü sadece bu çağa dönük işarî yön incelenmektedir; diğer manalar yine mevcuttur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu asrın “bir fert” sayılması ne demektir?",
+          "answer": "Genel hükmün tek ve ayrıcalıklı sahibi değil, o hükmün zaman içindeki örneklerinden biri olması demektir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Müellifin savaşın safhalarını bilmediğini söylemesi, yorumlarında hangi sınıra riayet ettiğini gösterir?",
+          "answer": "Bilgi sahibi olmadığı sahada kesin hükümler üretmemeye dikkat ettiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "“Daha çok sır var” denilmesi, metnin tamamlanmış bir son söz değil de ne olduğunu düşündürür?",
+          "answer": "Daha geniş keşiflere açık bir başlangıç veya kısa bir işaret olduğunu düşündürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Hesapta bazen “min”, bazen “şer”, bazen de ikisinin dışarıda bırakılması hangi temel prensiple açıklanıyor?",
+          "answer": "Her bir kullanımın, ilgili ifadenin mana kapsamına uygun düşmesi prensibiyle açıklanıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Yaratılmışlar hakkında hem hayır hem şer bulunması, neden sınırlı bir kötülük anlayışı gerektirir?",
+          "answer": "Çünkü varlık alanı tümden kötülükten ibaret değildir; iyilik de mevcuttur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Hasedin “tam şer” gibi değerlendirilmesi neye bağlıdır?",
+          "answer": "Hasedin fiilen ortaya çıktığı anda doğrudan bozan ve zarar veren bir karakter taşımasına bağlıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Düğümlere üfleyenlerin bütün işleri için “ayn-ı şer” denmesi nasıl bir hüküm içerir?",
+          "answer": "Bu kişilerin yıkıcı faaliyetlerinde iyilik payı bırakılmadığını, işlerinin tümünün zarar ekseninde görüldüğünü içerir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin soru-cevap kısmı sadece teknik bir hesap açıklaması mıdır, yoksa daha derin bir ders de verir mi?",
+          "answer": "Daha derin bir ders de verir; dildeki küçük farkların ahlâkî ve mânevî anlam taşıdığını gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İhtar kısmında âyetlerin manaları için “küllî” denmesi ne anlama gelir?",
+          "answer": "Belli bir olaya sıkışmayan, birçok durumu ve dönemi içine alabilecek genişlikte olması anlamına gelir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu geniş mana içinde güncel çağa bakılması nasıl mümkün oluyor?",
+          "answer": "Genel mananın bir örneği olarak bu çağın da o kapsam içine girmesiyle mümkün oluyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre bu çağ neden sıradan bir örnek olmanın ötesine geçiyor?",
+          "answer": "Çünkü tarihî bir işaretle ayrıca belirginleşmiş bir özellik kazandığı ifade ediliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Müellifin savaş ve barış durumunu araştırmaması, onun hangi önceliğe odaklandığını gösterir?",
+          "answer": "Dış gelişmelerden çok, metnin işaret ettiği mana üzerinde durmaya öncelik verdiğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Daha geniş açıklamaların başka risalelere bırakılması, okuyucudan nasıl bir tutum bekler?",
+          "answer": "Konuyu bütünlük içinde görmek için başka metinlere de müracaat etmesini bekler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Hatıra gelen soruya verilen cevapta sayı hesabı ile mana arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Sayı hesabının, mana inceliğini destekleyen bir işaret düzeni olarak ele alındığı gösteriliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Yaratılmışların şerrinde hem sınırlama hem de kötülük ifadesinin birlikte bulunması nasıl anlaşılmalı?",
+          "answer": "Kötülüğün var olduğu kabul edilir; fakat bunun mutlak, tam ve herkese aynı ölçüde yayılan bir hâl olmadığı anlatılır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Hasedin anlatıldığı yerde sınırlayıcı işarete ihtiyaç duyulmaması hangi neticeyi doğurur?",
+          "answer": "Hasedin gerçekleştiği anda kötülüğün doğrudan ve bütüncül biçimde ortaya çıktığı sonucunu doğurur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Düğümlere üfleyenler için “şer” sözüne ihtiyaç bırakmayan durum nedir?",
+          "answer": "Menfaat uğruna yapılan telkin, tahrip ve yıkım faaliyetlerinin baştan sona zarar oluşudur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p99:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün tamamından çıkarılabilecek ana ders nedir?",
+          "answer": "Kur’ân ifadelerindeki farklılıkların hem mana derinliği taşıdığı hem de dikkatli okuma ile ince hikmetler gösterdiği dersidir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

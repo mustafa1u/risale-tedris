@@ -1,0 +1,974 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:lisans:p11",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "lisans",
+  "partNo": "p11",
+  "partNumber": 11,
+  "title": "3. Mes'ele: “Ecnebi dinsizleri gibi yaşamak” itirazı ve hapishanede istikamet çağrısı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/lisans/SveC_lisans_meyve-risalesi-p11-3-mesele-ecnebi-dinsizleri-gibi-yasamak-itirazi-ve-hapishanede-istikamet-cagrisi.txt",
+  "sourceRevision": "ec3c8ffba4ad53cf7a045b422ad8082d19a08f086705d9b917e3ec3b9dd6079d",
+  "setCount": 6,
+  "questionCount": 82,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Mütemerrid kişinin son itirazı ne yöndedir?",
+          "answer": "Dinsiz yabancılar gibi yaşayabileceğini ileri sürmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iddianın Müslüman için geçerli olmadığı hangi temel gerekçeyle açıklanır?",
+          "answer": "Çünkü Müslüman, peygamberleri, Allah inancını ve birçok yüksek değeri son peygamberin getirdiği hakikatlerle tanır; onu reddedince diğer esaslar da kalpte tutunamaz.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde yabancı inkârcılar hakkında hangi ihtimalden söz edilir?",
+          "answer": "Bazılarının bir peygamberi reddetse de başkalarını kabul edebileceği, peygamberleri bilmezse de Allah’a inanabileceği, hatta bunlar da olmazsa bazı iyi huylar taşıyabileceği belirtilir.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Son peygamberi inkâr eden bir Müslümanın durumu, başka din mensuplarının durumundan nasıl ayrılır?",
+          "answer": "Böyle biri başka bir dine sağlam biçimde bağlanmak yerine inançsızlığa düşer ve ahlâkı da bozulur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre bu bozulmanın toplumsal sonucu nedir?",
+          "answer": "Kişi hem vatana hem millete zarar verebilecek bir hale gelir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İnanç bakımından İslâm’a giriş ve İslâm’dan çıkış konusunda hangi karşılaştırma yapılır?",
+          "answer": "Geçmişten beri çeşitli dinlerden İslâm’a girenler olduğu, fakat bir Müslümanın hakiki anlamda başka bir dine dönüşmeyip daha çok dinsizliğe kaydığı ifade edilir.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Tartışmanın sonunda muannid kişi için nasıl bir son tasvir edilir?",
+          "answer": "Artık dayanacak bir sözü kalmadığı ve mağlup olduğu anlatılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Sonraki hitapta muhatap alınan topluluk kimdir?",
+          "answer": "Yusufiye Medresesi diye anılan hapishanedeki ders arkadaşlarıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu arkadaşlara hangi yol tavsiye edilmektedir?",
+          "answer": "Dünya, gelecek, âhiret, vatan ve millet için faydalı olan iman ve doğruluk yolunun izlenmesi tavsiye edilir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Boş vakitlerin nasıl değerlendirilmesi istenir?",
+          "answer": "Faydasız hayallerle oyalanmak yerine Kur’an’dan bilinen sûreleri okumak, anlamlarını öğrenmek ve ibadet eksiklerini tamamlamak istenir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde özellikle hangi ibadet eksikliğinin telafisinden söz edilir?",
+          "answer": "Vaktinde kılınmamış farz namazların kaza edilmesinden söz edilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Mahkûmlar arasında ahlâkî gelişim için hangi yöntem önerilir?",
+          "answer": "Birbirinin güzel huylarından yararlanarak karakteri güzelleştirme yolu önerilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Hapishanenin neye dönüşmesi hedeflenmektedir?",
+          "answer": "Güzel ahlâklı insanların yetiştiği bereketli bir eğitim ve terbiye ortamına dönüşmesi hedeflenmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Hapishane görevlilerine bakışın nasıl değişmesi arzu edilir?",
+          "answer": "Onların sadece ceza veren kimseler değil, doğruyu gösteren öğretici ve merhametli rehberler haline gelmeleri istenir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde “ecnebi dinsizleri gibi yaşamak” düşüncesine verilen ilk cevap nedir?",
+          "answer": "Böyle bir benzerliğin Müslüman açısından mümkün olmadığı söylenir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Yabancı bir inkârcının tamamen değerlerden kopmamış olabileceği hangi örneklerle anlatılır?",
+          "answer": "Bir peygamberi reddedip diğerlerini kabul etmesi, peygamberleri bilmezse Allah’a inanması veya bazı erdemli huylar taşıması örnek verilir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Müslümanın son peygamberle ilişkisi neden belirleyici görülmektedir?",
+          "answer": "Çünkü onun tebliği evrenseldir ve Müslüman diğer iman esaslarını da onun getirdiği bildirimle tanır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "“Zincirinden çıkmak” ifadesi bu bölümde neye işaret eder?",
+          "answer": "Son peygamberin bağlı bulunduğu iman halkasından kopmaya işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre böyle bir kopuşun inanç üzerindeki etkisi nedir?",
+          "answer": "Kişi yalnız bir hükmü reddetmiş olmaz; diğer peygamberleri ve Allah inancını da fiilen kaybeder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Kişinin inanç kaybı ile ahlâk bozulması arasında nasıl bir bağ kuruluyor?",
+          "answer": "İman temelinden uzaklaşınca yüksek seciyelerin de zayıfladığı, bunun topluma zarar veren bir hale yol açtığı anlatılıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Neden “hakikî Yahudi, Mecusi veya Nasrani olamaz” denilmektedir?",
+          "answer": "Çünkü söz konusu kişi yeni bir dinî bağlılık kurmaktan çok inançsızlığa ve ahlâkî çözülmeye sürüklenmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu tartışmanın muhatabı üzerinde nasıl bir etki meydana geliyor?",
+          "answer": "İtiraz edecek bir dayanağı kalmıyor ve susturulmuş oluyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Ardından verilen ders, sadece bireysel kurtuluşla mı ilgilidir?",
+          "answer": "Hayır; hem şahsî hayatı hem gelecek hayatı hem de toplum yararını birlikte gözetmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "İman ve istikamet yolunun hangi açılardan faydalı olduğu belirtilir?",
+          "answer": "Dünya hayatı, gelecek, âhiret, vatan ve millet açısından yararlı olduğu belirtilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde faydasız meşguliyetlere karşı hangi alternatifler sunulur?",
+          "answer": "Kur’an okumak, anlamını öğrenmek, kazaya kalan namazları kılmak ve güzel ahlâkı geliştirmek sunulur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Hapishanenin “mübarek bahçe” gibi tasvir edilmesi neyi anlatır?",
+          "answer": "Suç ve ceza ortamının, ıslah ve manevî gelişim mekânına dönüşebileceğini anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Görevlilerin “azap memuru” gibi değil de başka türlü görülmesi neye bağlıdır?",
+          "answer": "Mahpusların salih amellerle kendilerini düzeltmelerine ve ortamı eğitim yerine çevirmelerine bağlıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Mütemerrid şahsın ileri sürdüğü son çıkış yolu nedir?",
+          "answer": "Yabancı dinsizleri örnek alarak yaşamaktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta önce yabancı inkârcılar için hangi esneklik alanı kabul edilir?",
+          "answer": "Bazılarında kısmî bir inanç veya ahlâkî değerlerin kalabileceği kabul edilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Müslüman için neden aynı alanın açık olmadığı söyleniyor?",
+          "answer": "Çünkü İslâm’da peygamber, Allah inancı ve kemalât birbirine bağlı biçimde öğrenilir; birini kökten reddetmek diğerlerini de sarsar.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "“Âhirzaman Peygamberi” ifadesinin burada kullanılmasının işlevi nedir?",
+          "answer": "Son peygamberin konumunun kapsayıcı ve belirleyici olduğunu vurgulamaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde “dini ve daveti umumî” denmesine denk düşen anlam nedir?",
+          "answer": "Onun getirdiği çağrının belli bir toplulukla sınırlı olmayıp herkese yönelik olmasıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İnançtan kopan Müslümanın hangi yönde savrulduğu belirtilir?",
+          "answer": "Başka bir dine sahih şekilde bağlanmaktan çok dinsizliğe sürüklendiği belirtilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Böyle bir savrulmanın karakter üzerindeki sonucu nasıl anlatılır?",
+          "answer": "İyi hasletlerin bozulduğu ve kişiliğin zarar verici bir yapıya dönüştüğü söylenir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde tarihî gözlem olarak hangi olguya dikkat çekilir?",
+          "answer": "Çeşitli dinlerden insanların İslâm’a girdikleri, fakat Müslümanların başka bir dine hakiki biçimde geçmediği ifade edilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu tarihî gözlem hangi iddiayı desteklemek için kullanılır?",
+          "answer": "Müslümanın son peygamberi reddettiğinde başka bir inanç sisteminde tutunamayacağı iddiasını desteklemek için kullanılır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "“Hakikat budur” denildikten sonra dinleyicilere ne tavsiye edilir?",
+          "answer": "İman ve doğruluk çizgisine sarılmaları tavsiye edilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre bu çizginin “kolay” ve “selâmetli” oluşu neyi ima eder?",
+          "answer": "İnsanı hem iç bunalımdan hem yanlış yollardan koruyan en güvenli yol olduğunu ima eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Güzel huylardan karşılıklı yararlanmak niçin önemlidir?",
+          "answer": "Çünkü ortak hayatı ıslah eder ve bulunduğu yeri ahlâk terbiyesinin mekânına dönüştürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Hapishane personeline yüklenen ideal rol nedir?",
+          "answer": "Cennete layık insanlar yetişmesine nezaret eden dürüst öğreticiler ve şefkatli rehberler olmalarıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki diyalogda karşı taraf kendine hangi örneği model almak istiyor?",
+          "answer": "Yabancı dinsizleri örnek almak istiyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta bu modelin neden yüzeysel bir benzetme olduğu nasıl gösteriliyor?",
+          "answer": "Çünkü onların bazısında yine de inanç kırıntıları veya ahlâkî dayanaklar bulunabilirken, Müslüman için durumun farklı olduğu belirtiliyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Son peygamberi reddetmenin sonuçları yalnız peygamberlik inancıyla mı sınırlı kalır?",
+          "answer": "Hayır; Allah inancı ve yüksek değerler de bundan etkilenir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metin, Müslümanın din bilgisi bakımından hangi merkezî kaynağa bağlı olduğunu anlatır?",
+          "answer": "Son peygamberin getirdiği vahiy ve davete bağlı olduğunu anlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "“Kemalâta medar seciyeler” ifadesinin sade anlamı nedir?",
+          "answer": "İnsanı olgunlaştıran güzel karakter özellikleridir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İnanç kaybının bu seciyelere etkisi nasıl açıklanıyor?",
+          "answer": "Bu güzel niteliklerin zayıflayıp bozulabileceği ifade ediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde bireysel bozulma neden toplumsal bir mesele sayılmıştır?",
+          "answer": "Çünkü ahlâken çözülen kişi vatan ve millete zarar verme ihtimali taşıyan bir hale gelebilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Muhatabın “daha tutunacak bir yeri kalmadı” ifadesi neyi anlatır?",
+          "answer": "İleri sürebileceği sağlam bir delil veya kaçış yolu kalmadığını anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Devamında yapılan hitap, okuyucuya hangi sorumluluğu yükler?",
+          "answer": "İmanla yaşayıp bulunduğu ortamı da ıslah etme sorumluluğunu yükler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada niçin hem dünyevî hem uhrevî menfaat birlikte zikredilir?",
+          "answer": "Çünkü iman ve istikamet yolunun sadece âhirette değil, bu dünyada da fayda verdiği gösterilmek istenir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Kur’an’dan bilinen sûreleri okumakla onların manalarını öğrenmek arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Sadece lafzı okumakla yetinmeyip anlamı kavramanın da gerekli olduğu gösteriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Kaza namazlarını tamamlama çağrısı neyi gösterir?",
+          "answer": "Geçmişteki ibadet eksiklerinin telafi edilebileceğini ve kişinin yeniden toparlanabileceğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Hapishaneyi bahçeye benzetmek hangi dönüşümü simgeler?",
+          "answer": "Sert ve karanlık görünen bir yerin eğitim, arınma ve güzel ahlâk üretme mekânı haline gelmesini simgeler.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "Görevlilerin “şefkatli rehber” olması için mahpusların ne yapması gerekir?",
+          "answer": "Salih amellere yönelip ıslah çabasını güçlendirmeleri gerekir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başındaki itiraz hangi yaşam tarzını meşrulaştırmaya çalışmaktadır?",
+          "answer": "İnançsız bir hayatı, yabancıları örnek göstererek normalleştirmeye çalışmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen cevapta “ecnebi dinsiz” ile “Müslüman iken inkâra düşen” kişi arasında hangi temel fark kuruluyor?",
+          "answer": "İlkinin bazı inanç veya erdem kalıntıları olabilir; ikincisi ise merkezî bağı koparınca hepsini yitirme tehlikesi taşır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Son peygamberin reddi neden zincirleme bir çözülme olarak görülmektedir?",
+          "answer": "Çünkü diğer peygamberler, Allah ve manevî değerler onunla tanınıp tasdik edilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Metin, İslâm’dan kopan kişinin neden başka bir dine tam anlamıyla geçemeyeceğini nasıl açıklar?",
+          "answer": "Kalbinde o dinlerin sahih esasları yerleşmez; daha çok inançsızlıkta kalır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Buradan hareketle “dinsiz olur” hükmü neyin sonucudur?",
+          "answer": "İman bütünlüğünün parçalanmasının sonucudur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bu durumun ahlâk üzerindeki yansıması nasıl ifade edilir?",
+          "answer": "Karakterin bozulması ve zararlı eğilimlerin ortaya çıkması şeklinde ifade edilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Topluma zarar verme ihtimali neden özellikle vurgulanmış olabilir?",
+          "answer": "Çünkü mesele sadece şahsî tercih değil, sosyal düzen ve ortak iyilikle de ilgilidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Tartışmanın bitişinde anlatıcının üstün gelmesini sağlayan şey nedir?",
+          "answer": "Muhatabın itirazlarının mantıken çürütülmesi ve çıkış yolunun kalmamasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Sonraki bölümde “biz” diliyle konuşulması neyi sağlar?",
+          "answer": "Öğüdü tek taraflı bir azarlama olmaktan çıkarıp ortak bir sorumluluğa dönüştürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Tavsiye edilen yolun “tam menfaatli” olması hangi alanları kapsar?",
+          "answer": "Kişinin dünya hayatını, geleceğini, âhiretini ve toplumsal aidiyetlerini kapsar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Sıkıntılı hayaller yerine hangi yapıcı meşguliyetler önerilmektedir?",
+          "answer": "Kur’an okumak, anlam öğrenmek, namaz borçlarını ödemek ve güzel huyları geliştirmek önerilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "“Arkadaşlardan öğrenmek” ifadesi hangi eğitim ilkesini yansıtır?",
+          "answer": "Bilginin paylaşılması ve birlikte olgunlaşma ilkesini yansıtır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "A’mal-i sâliha vurgusunun burada özel işlevi nedir?",
+          "answer": "Hapishane şartlarını manevî kazanç ortamına çevirecek somut adımları öne çıkarmasıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Müdür ve görevlilerin rolü hangi bakış değişikliğiyle yeniden tanımlanıyor?",
+          "answer": "Cezalandıran kişiler yerine terbiye eden, yol gösteren ve merhametle destekleyen kişiler olarak yeniden tanımlanıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Muhatabın “hiç olmazsa” sözü, onun psikolojisi hakkında ne düşündürür?",
+          "answer": "Önceki çıkış yolları kapanınca daha zayıf bir bahaneye sığındığını düşündürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yeni bahaneye karşı verilen cevap hangi yöntemle kurulmuştur?",
+          "answer": "Karşı tarafın örnek aldığı grubun kendi içinde farklı bir durumda olduğu gösterilerek cevap kurulmuştur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Yabancı bir dinsizde bulunabileceği söylenen üç şey nelerdir?",
+          "answer": "Başka peygamberlere iman, Allah’a inanma ve bazı iyi karakter özellikleri.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Müslüman için son peygamberin konumu neden hayati kabul edilir?",
+          "answer": "Çünkü iman esaslarının tanınması ve anlam kazanması onun getirdiği hakikatlerle mümkündür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre son peygamber reddedilince kalpte neden başka iman unsurları kalmaz?",
+          "answer": "Onlar o merkez üzerinden bilinip tasdik edildiği için dayanakları çöker.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "“Hiçbir Müslüman, hakikî ... olmaz” ifadesi ne tür bir gözleme dayanıyor görünmektedir?",
+          "answer": "Tarihî ve toplumsal tecrübeye dayanan bir gözleme dayanıyor görünmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu gözlemle verilmek istenen uyarı nedir?",
+          "answer": "İslâm’dan kopuşun başka bir dinî dengeye değil, çoğu zaman inançsızlık ve ahlâk kaybına götürdüğü uyarısıdır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p11:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "“Vatana, millete muzır” ifadesi metnin hangi yönünü gösterir?",
+          "answer": "İnanç ve ahlâk meselesinin toplumsal sorumluluk boyutunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Tartışmanın ardından niçin hapishanedeki arkadaşlara dönülüyor?",
+          "answer": "Çünkü çıkarılan sonucun pratik hayata uygulanması ve ortak bir ıslah programına dönüşmesi isteniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu programın ilk esası nedir?",
+          "answer": "İman ve istikamet yolunu bilinçli şekilde takip etmektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Boş zamanı değerlendirme önerileri arasında bilgi ve amel nasıl dengeleniyor?",
+          "answer": "Bir yandan Kur’an’ı okuyup anlam öğrenme, diğer yandan namaz borçlarını tamamlama ve güzel davranışlar geliştirme birlikte veriliyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Metinde neden bireysel çalışma kadar arkadaşlık ilişkileri de önemseniyor?",
+          "answer": "Çünkü insan, çevresindeki güzel örneklerden etkilenerek daha kolay ıslah olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Hapishaneyi eğitim bahçesine çevirmek ifadesi hangi umut mesajını taşır?",
+          "answer": "En zor görünen ortamların bile manevî gelişim ve hayırlı değişim mekânı olabileceği mesajını taşır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p11:lisans:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Görevlilerin “müstakim üstad” ve “şefkatli rehber” gibi görülmesi neyi hedefler?",
+          "answer": "Ceza merkezli bakışı azaltıp terbiye ve rehabilitasyon anlayışını güçlendirmeyi hedefler.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:lisans:p98",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "lisans",
+  "partNo": "p98",
+  "partNumber": 98,
+  "title": "Hâtime: Felak Suresi işarî tevafuklarının devamı (النَّفَّاثَاتِ / حَاسِد)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/lisans/SveC_lisans_meyve-risalesi-p98-hatime-felak-suresi-isari-tevafuklarinin-devami.txt",
+  "sourceRevision": "8b854d340e142fde2bbaf53f623cb523d71453107c41d09b7153de61c63f9680",
+  "setCount": 6,
+  "questionCount": 61,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ilk ifadenin işaret ettiği olaylar arasında hangi siyasî ve askerî gelişmeler sayılmıştır?",
+          "answer": "Yönetim biçimindeki değişim, Balkan ve İtalya kaynaklı savaşlar ve ardından büyük çaplı dünya savaşının ortaya çıkışı zikredilmiştir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde, dış güçlerin bu süreçteki etkisi hangi duygularla ilişkilendirilmiştir?",
+          "answer": "Açgözlülük ve kıskançlık gibi kötü hislerle bağlantı kurulmuştur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Siyasî aktörlerin insanları etkileme yöntemi nasıl tasvir edilmiştir?",
+          "answer": "Kitlelerin zihnini yönlendiren, aldatıcı ve zararlı telkinler yayan bir propaganda dili kullandıkları ifade edilmiştir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu telkinlerin yöneldiği alan, mecazlı bir anlatımla nasıl açıklanmıştır?",
+          "answer": "İnsanlığın kaderini belirleyen hassas karar noktalarına gizli planların yerleştirildiği anlatılmıştır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre bu süreçlerin medeniyet üzerindeki sonucu ne olmuştur?",
+          "answer": "Uzun asırlar boyunca oluşan birikimin yıkıcı biçimde tahrip edilmesine yol açtığı belirtilmiştir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İlk ifadeyle ilgili yapılan yorumda, söz konusu ifadenin anlamıyla tarihî olaylar arasında nasıl bir ilişki kurulmuştur?",
+          "answer": "Kelimelerin çağrıştırdığı mana ile yaşanan fitne ve yönlendirme faaliyetlerinin tam bir uygunluk taşıdığı savunulmuştur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci olarak ele alınan ifade hangi temel ahlâkî bozukluğa dikkat çekmektedir?",
+          "answer": "Haset duygusuna ve onun doğurduğu yıkıcı çekişmeye işaret etmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu ikinci ifadenin denk getirildiği tarihte yurt içinde ne tür gelişmelerin yaşandığı belirtilmiştir?",
+          "answer": "Dış baskılar sebebiyle memlekette önemli sarsıntılar ve düşünce alanında derin değişimler meydana geldiği söylenmiştir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Aynı tarihin devletler arası ilişkiler bakımından hangi sonucu hazırladığı ifade edilmiştir?",
+          "answer": "Ülkeler arasındaki kıskançlık ve rekabetin yeni bir büyük savaşa zemin hazırladığı belirtilmiştir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metin, ikinci ifadenin bu tarihle uyuşmasını nasıl değerlendirmektedir?",
+          "answer": "Bunu sûrenin gaybî yönüne dair bir i‘caz parıltısı olarak görmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S1Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yorumda yabancı güçlerin hangi amacı öne çıkarılmıştır?",
+          "answer": "Memleketteki bazı gelişmelerin din lehine doğabilecek faydalarını bozmak istemeleri öne çıkarılmıştır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde, büyük savaşların çıkış süreci hangi önceki olaylarla birlikte düşünülmüştür?",
+          "answer": "Yönetim değişikliği, bölgesel savaşlar ve sonrasında patlayan küresel savaşlarla birlikte değerlendirilmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Radyo ve benzeri araçlara yapılan vurgu, hangi iletişim biçimini eleştirmek içindir?",
+          "answer": "İnsanları uzaktan etkileyen, zihinleri karıştıran ve gerçeği çarpıtan propaganda biçimini eleştirmek içindir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "“Düğüm” ve “üfleme” tarzı imgeler, metinde neyi anlatmak için kullanılmıştır?",
+          "answer": "İnsanlığın kaderini belirleyen meselelerin gizli yönlendirmelerle etkilenmesini anlatmak için kullanılmıştır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Müellife göre bu zararların büyüklüğü hangi sonuçtan anlaşılmaktadır?",
+          "answer": "Medeniyetin uzun zamanda kurduğu düzenin vahşi biçimde harap edilmesinden anlaşılmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci örnekteki ifade hangi tarihle ilişkilendirilmiştir?",
+          "answer": "1347 yılıyla ilişkilendirilmiştir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu tarih için içeride meydana gelen iki önemli değişim ne olarak gösterilmiştir?",
+          "answer": "Antlaşmaların zorlamasıyla yaşanan toplumsal sarsıntılar ve felsefî hâkimiyetin etkisiyle dindar toplumdaki dönüşümler olarak gösterilmiştir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Aynı tarih uluslararası planda hangi ruh hâllerinin çatışmasını temsil etmektedir?",
+          "answer": "Kıskançlık ve rekabetin sert mücadelesini temsil etmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Parçadaki yorum tarzı, yalnız düz tarih anlatımı mıdır; yoksa başka bir katman da var mıdır?",
+          "answer": "Sadece tarih anlatımı değil, işarî mana üzerinden yapılan bir yorum katmanı da vardır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Hedef pasajda toplam kaç örnek üzerinden açıklama yapılmaktadır?",
+          "answer": "İki örnek üzerinden açıklama yapılmaktadır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İlk örnekteki hesaplamada şeddelerin sayılıp sayılmaması niçin önemlidir?",
+          "answer": "Çünkü sayılıp sayılmamasına göre ulaşılan tarih değişmekte ve farklı dönemlere işaret kurulmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İlk örnekte bahsedilen dış odakların yerli gelişmelere bakışı nasıl sunulmaktadır?",
+          "answer": "Dinî fayda doğurabilecek sonuçları engellemek isteyen hasmane bir tavır olarak sunulmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metin, bu odakların kullandığı dili neden tehlikeli görmektedir?",
+          "answer": "Çünkü bu dil, insanları büyülenmiş gibi etkileyip düşüncelerini yönlendiren bir araç olarak gösterilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "“Gizli plan” vurgusu, açık mücadeleden farklı olarak neyi ima eder?",
+          "answer": "Arka planda işleyen, görünmeden yön veren ve sonuçları derinden etkileyen bir müdahaleyi ima eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İlk örnekte anlatılan şerlerin hem maddî hem manevî sayılmasının sebebi nedir?",
+          "answer": "Çünkü hem savaş ve yıkım gibi somut zararlar doğurdukları hem de zihin ve değer dünyasını bozdukları belirtilmektedir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci örnekte haset hangi düzeylerde etkili bir güç olarak gösterilmektedir?",
+          "answer": "Hem ülke içinde dönüşümlere yol açan bir etken hem de devletler arasında savaşı hazırlayan bir sebep olarak gösterilmektedir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Felsefenin tahakkümü ifadesiyle burada nasıl bir değişim kastedilmektedir?",
+          "answer": "Dinî hassasiyeti güçlü bir toplumda düşünce ve hayat anlayışını sarsan bir yön değişikliği kastedilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Dış antlaşmaların etkisiyle meydana geldiği söylenen sarsıntılar, ülkenin hangi yönünü ilgilendirir?",
+          "answer": "Siyasî ve toplumsal düzenini ilgilendiren ciddi değişimleri ifade eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci örnekte geçen rekabet ve kıskançlığın sonucu neye bağlanmaktadır?",
+          "answer": "Yeni bir dünya savaşının hazırlanmasına bağlanmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Her iki örnekte de tarih ile mana arasındaki uygunluk için hangi ifade tarzı kullanılmaktadır?",
+          "answer": "Tam bir örtüşme ve kuvvetli bir uyuşma bulunduğu dile getirilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda bu uygunluğun dinî açıdan değeri nasıl takdim edilmektedir?",
+          "answer": "Kutsal sûrenin gaybdan haber veren yönünü gösteren bir işaret olarak takdim edilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki ilk açıklamada hangi tür savaşlardan söz edilmektedir?",
+          "answer": "Birbiriyle bağlantılı bölgesel savaşlardan ve bunların genişleyerek umumî savaşa dönüşmesinden söz edilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu savaşları hazırlayan etkenler arasında sadece askerî sebepler mi vardır?",
+          "answer": "Hayır; siyasî değişimler, dış müdahale, hırs ve kıskançlık gibi manevî sebepler de vardır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Parçaya göre dış güçler niçin “gaddar” olarak nitelenmektedir?",
+          "answer": "Çünkü yıkıcı planlarla toplumları felakete sürükleyen, merhametsiz sonuçlar doğuran işler yaptıkları anlatılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kitle iletişim araçlarının kullanımı hangi ahlâkî problemle ilişkilendirilmektedir?",
+          "answer": "Aldatma ve zarar verme niyetiyle zihinleri etkileme problemine bağlanmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İlk örnekteki yorumun merkezinde hangi ana fikir vardır?",
+          "answer": "Fitne çıkaran yönlendirmelerin büyük toplumsal ve medenî yıkımlara zemin hazırladığı ana fikri vardır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "“Medeniyet terakkiyatının mahvı” ifadesi, sadece bina ve şehirlerin yıkılmasını mı anlatır?",
+          "answer": "Hayır; kültürel, ilmî ve insanî birikimin çökmesini de anlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci açıklamada haset neden özel olarak öne çıkarılmaktadır?",
+          "answer": "Çünkü hem toplum içindeki değişimleri hem de devletler arası çatışmayı besleyen temel bir kötülük olarak görülmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu ikinci örnekte memleketteki değişimlerin hangi düşünce etkisiyle meydana geldiği söylenmektedir?",
+          "answer": "Felsefî hâkimiyetin etkisiyle meydana geldiği söylenmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Dindar bir millette yaşanan dönüşümlerin özellikle vurgulanması neyi gösterir?",
+          "answer": "Değişimin sıradan değil, toplumun inanç ve değer yapısını etkileyecek kadar derin olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Müellif, tarihlerin bu ifadelerle uyuşmasını tesadüf gibi mi görmektedir?",
+          "answer": "Hayır; bunu anlamlı ve dikkat çekici bir işaret olarak değerlendirmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S4Q1",
+            "meyve-risalesi:p98:lisans:S4Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçadaki ilk örnek, toplumların kaderine etki eden hangi görünmez yöntemi ön plana çıkarır?",
+          "answer": "Açık zorlamadan ziyade gizli telkin ve yönlendirme yöntemini ön plana çıkarır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İlk örnekte “üfleme” tarzı anlatım neden mecazî kabul edilmelidir?",
+          "answer": "Çünkü burada gerçek bir fizikî hareketten çok, fikir ve propaganda yoluyla etkileme kastedilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İlk örnekte geçen tarihî olayların ortak özelliği nedir?",
+          "answer": "Hepsi büyük kargaşa, savaş ve yıkım doğuran süreçlerin parçalarıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre bu süreçlerin arkasındaki niyet nasıl özetlenebilir?",
+          "answer": "Menfaat uğruna toplumları karıştırmak ve hayırlı neticeleri bozmak şeklinde özetlenebilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci örnekte haset ile rekabetin birlikte anılması neyi gösterir?",
+          "answer": "İçteki kötü duygunun dışta siyasî çekişme ve çatışma olarak ortaya çıktığını gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "1347 yılına bağlanan gelişmeler yalnız bir ülkeyi mi ilgilendirir?",
+          "answer": "Hayır; hem bu vatandaki değişimleri hem de devletler arasındaki genel gerilimi ilgilendirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada “muahedelerin icbarı” ifadesiyle nasıl bir durum anlatılmaktadır?",
+          "answer": "Dış anlaşmaların baskısıyla meydana gelen zorlayıcı değişimler anlatılmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Düşünce alanındaki baskın eğilim, toplumun hangi kesimi üzerinde etkili olmuştur?",
+          "answer": "Dinine bağlı halk üzerinde etkili olmuştur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci örneğin sonunda ulaşılan sonuç nedir?",
+          "answer": "Bu uygunluğun sûrenin gaybî i‘cazından bir parıltı olduğudur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde ilk ele alınan ifadeye verilen yorum, daha çok hangi alanların kesişiminde durmaktadır?",
+          "answer": "Tarih, siyaset, savaş ve manevî yozlaşmanın kesişiminde durmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İlk örnekte dış aktörlerin yürüttüğü faaliyet niçin sadece askerî bir hazırlık olarak görülmemektedir?",
+          "answer": "Çünkü savaşın yanında fikirleri etkileme, toplumları yönlendirme ve iç dengeleri bozma boyutu da vurgulanmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Hürriyetle ilgili gelişmelerin sonuçlarını bozma çabası, hangi bakımdan olumsuz görülmektedir?",
+          "answer": "Din lehine çıkabilecek faydaları engelleme niyeti taşıdığı için olumsuz görülmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Radyo üzerinden yapılan telkinlerin “zehirli” sayılması neyi anlatır?",
+          "answer": "Bu telkinlerin insanlara fayda değil zarar verdiğini, zihni ve toplumu ifsat ettiğini anlatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanlığın kader düğümlerine plan yerleştirmek sözü, karar süreçleri hakkında ne ima eder?",
+          "answer": "Önemli gelişmelerin tesadüfî değil, perde arkasındaki yönlendirmelerle şekillendirildiğini ima eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İlk örneğin sonunda ifade ile olaylar arasında nasıl bir uygunluk kurulur?",
+          "answer": "Lafzın çağrıştırdığı bozgunculuk ile tarihî hadiselerin niteliği arasında tam bir örtüşme kurulur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci örnekte haset, bireysel bir kusur olmanın ötesinde nasıl sunulmuştur?",
+          "answer": "Toplumsal ve devletler arası sarsıntıları doğuran tarihî bir etken olarak sunulmuştur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu ikinci örnekte ülke içinde meydana gelen değişimlerin iki kaynağı nedir?",
+          "answer": "Dış anlaşmaların baskısı ve felsefî anlayışın baskın hâle gelmesi olarak gösterilmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Dindar millet ifadesinin kullanılması, değişimlerin hangi boyutunu öne çıkarır?",
+          "answer": "Dönüşümün inançla ilişkili bir toplumsal zeminde yaşandığını öne çıkarır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Devletlerin birbirine karşı beslediği duygular hangi büyük sonucu hazırlamaktadır?",
+          "answer": "Yeni bir küresel savaşın ortaya çıkmasını hazırlamaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p98:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Metin, bu tarihî işaretleri nasıl bir delil çeşidi olarak değerlendirmektedir?",
+          "answer": "Gaybî i‘caza işaret eden manevî bir delil olarak değerlendirmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p98:lisans:S6Q6"
+          ]
+        }
+      ]
+    }
+  ]
+}

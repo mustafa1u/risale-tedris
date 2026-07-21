@@ -1,0 +1,711 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:lisans:p35",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "lisans",
+  "partNo": "p35",
+  "partNumber": 35,
+  "title": "Âlem-i gayb / Vahyin 5 hakikati: 3) Mukabele (münacat ve şükre kelâm ile karşılık)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/lisans/SveC_lisans_ayetul-kubra-p35-alem-i-gayb-vahyin-5-hakikati-3-mukabele-munacat-ve-sukre-kelam-ile-karsilik.txt",
+  "sourceRevision": "123e3baa6ea91b87fbffc0e63be59645dfb24a078fd918df9ca33e533a1b03ea",
+  "setCount": 6,
+  "questionCount": 55,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci maddede, kâinatın olağanüstü bir düzen ve sanatla yaratılmasından hangi sonuç çıkarılıyor?",
+          "answer": "Allah’ın yalnız eserleriyle değil, hitabıyla da kendini bildirmesinin gerekli olduğu sonucu çıkarılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu maddede yaratılışın çok geniş ve dikkat çekici oluşu, niçin sözle tanıtmayı da gerekli kılıyor?",
+          "answer": "Çünkü bu kadar büyük bir yaratma faaliyeti, sahibinin kendini bilinmez bırakmayacağını; aksine bilinmeyi murad ettiğini gösteriyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Üçüncü maddede hangi insan grubu özellikle öne çıkarılıyor?",
+          "answer": "Hakikati arayan, Allah’a yönelen, duaya ve şükre ihtiyaç duyan gerçek insanlar öne çıkarılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu insanlara fiilî karşılık verilmesiyle sözlü karşılık verilmesi arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Fiilen karşılık veren Zâtın, konuşarak da karşılık vermesi uygun ve beklenen bir durum olarak gösteriliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Dördüncü maddede konuşma sıfatı hangi iki temel özellikle bağlantılı ele alınıyor?",
+          "answer": "İlim ve hayatla bağlantılı ele alınıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre konuşma, ilim ve hayat açısından nasıl bir konumdadır?",
+          "answer": "İlim ve hayatın zorunlu bir sonucu ve parlak bir görünüşü olarak görülmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Sonsuz ilim ve ebedî hayat sahibi olan Zât hakkında, bu gerekçeden hareketle ne söylenir?",
+          "answer": "Onda konuşma sıfatının da kuşatıcı ve sürekli bir şekilde bulunacağı söylenir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci, üçüncü ve dördüncü maddeleri birlikte düşündüğümüzde ortak ana fikir nedir?",
+          "answer": "Allah’ın hem kâinatı yaratması, hem kulların yönelişine cevap vermesi, hem de sonsuz ilim ve hayat sahibi olması, O’nun konuşmasını gerekli kılar.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S1Q1",
+            "ayetul-kubra:p35:lisans:S1Q3",
+            "ayetul-kubra:p35:lisans:S1Q6"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci maddede, varlıkların çokluğu ve sanatlı oluşu hangi ilahî maksada işaret eder?",
+          "answer": "Yaratıcının kendini tanıtmak istemesine işaret eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu tanıtma sadece varlıklar üzerinden mi anlaşılmaktadır, yoksa başka bir yol da gerekli görülüyor mu?",
+          "answer": "Sadece varlıklar üzerinden değil, doğrudan hitap yoluyla da tanıtmanın gerekli olduğu belirtiliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Üçüncü maddede insanın hangi yönleri öne çıkarılarak ilahî hitabın uygunluğu temellendiriliyor?",
+          "answer": "Seçilmiş olması, muhtaç oluşu, nazik yaratılışı ve Allah’a yönelmeye istekli olması öne çıkarılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanların yakarış ve hamdlerine fiilî karşılık verilmesi neyi destekleyen bir delil gibi sunuluyor?",
+          "answer": "Kelâm yoluyla da cevap verilmesini destekleyen bir delil gibi sunuluyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "“Kelâmıyla da mukabele etmek” ifadesi, Allah-kul ilişkisi bakımından neyi gösterir?",
+          "answer": "Bu ilişkinin sadece dolaylı değil, hitap boyutu da olan bir ilişki olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Dördüncü maddede mükâleme sıfatının bulunması niçin zorunlu görülüyor?",
+          "answer": "Çünkü konuşmak, ilim ve hayatın ayrılmaz bir tezahürü sayılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde, ilim ve hayatın sınırsız oluşuyla konuşmanın niteliği arasında nasıl bir bağ kuruluyor?",
+          "answer": "İlim ve hayat ne kadar kuşatıcı ve sürekli ise, konuşma sıfatının da o ölçüde kuşatıcı ve sürekli olacağı ifade ediliyor.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bölümün geneline göre ilahî kelâmın varlığı, daha çok hangi üç esasa dayandırılıyor?",
+          "answer": "Yaratmanın anlamı, kulların yönelişine cevap verilmesi ve sonsuz ilim-hayat sahibi olunması esaslarına dayandırılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S2Q1",
+            "ayetul-kubra:p35:lisans:S2Q4",
+            "ayetul-kubra:p35:lisans:S2Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci maddede kâinatın büyük bir hikmet ve ihtimamla yaratılmış olması, Yaratıcı hakkında hangi beklentiyi doğurur?",
+          "answer": "Kendisini bilinmeye layık şekilde açıklaması beklentisini doğurur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu açıklamanın sadece yaratılmış şeylerle sınırlı kalmaması neden önemlidir?",
+          "answer": "Çünkü eserler O’nu gösterse de, doğrudan hitap tanıtmayı daha açık ve tamamlayıcı hale getirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Üçüncü maddede “hakikî insanlar” ifadesiyle nasıl bir insan tipi anlatılıyor?",
+          "answer": "Allah’a içten yönelen, dua eden, şükreden ve O’na muhtaçlığını fark eden insan tipi anlatılıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu insanların yakarışlarına sözle cevap verilmesi hangi açıdan uygun görülüyor?",
+          "answer": "Yaratıcının kullarıyla ilgisi ve onları gözetmesi açısından uygun görülüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü maddede insanın ihtiyacı ile ilahî konuşma arasında nasıl bir sebep-sonuç ilişkisi kuruluyor?",
+          "answer": "İnsan gerçekten muhtaç ve yönelen bir varlık olduğu için, onun çağrısına hitapla karşılık verilmesi anlamlı görülüyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Dördüncü maddede konuşma sıfatı, ilim ve hayatın nasıl bir görünümü olarak tanımlanıyor?",
+          "answer": "Onların zorunlu ve nurlu bir ortaya çıkışı olarak tanımlanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Eğer bir varlıkta kuşatıcı bilgi ve bitmeyen hayat varsa, bu metne göre hangi sıfatın da bulunması beklenir?",
+          "answer": "Konuşma sıfatının bulunması beklenir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Dördüncü maddede kullanılan gerekçe, Allah’ın kelâmını sonradan oluşan bir özellik gibi mi, yoksa zatına uygun daimî bir sıfat gibi mi gösteriyor?",
+          "answer": "Zatına uygun daimî bir sıfat gibi gösteriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci ve üçüncü maddeler arasında nasıl bir fark vardır?",
+          "answer": "İkinci madde daha çok kâinat üzerinden tanıtmayı, üçüncü madde ise insanın dua ve şükrüne cevap verilmesini esas alır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S3Q1",
+            "ayetul-kubra:p35:lisans:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajdan hareketle ilahî hitabın amacı için hangi iki ifade özet olarak söylenebilir?",
+          "answer": "Kendini bildirmek ve kullarına karşılık vermek denebilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S3Q1",
+            "ayetul-kubra:p35:lisans:S3Q5"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci maddede, evrenin baştan sona dikkat çekici bir şekilde yaratılması hangi hakikati destekler?",
+          "answer": "Yaratıcının bilinmek ve tanınmak istediği hakikatini destekler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu maddede, varlıkların Yaratıcıyı göstermesi ile doğrudan hitap etmesi arasında nasıl bir tamamlama ilişkisi vardır?",
+          "answer": "Varlıklar dolaylı delil olurken, hitap doğrudan tanıtmayı tamamlayan unsur olarak sunulur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Üçüncü maddede insanın “seçilmiş” ve “ihtiyaç sahibi” oluşu neden birlikte anılıyor?",
+          "answer": "Çünkü insan hem değerli bir muhatap hem de yardıma ve yönlendirmeye muhtaç bir kul olarak görülüyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Gerçek insanların dua ve şükürlerine sözle karşılık verilmesi, ilahî isim ve sıfatlar bakımından neyi gösterir?",
+          "answer": "Allah’ın kullarını ihmal etmediğini ve onlarla ilgili bir hitabının bulunduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü maddede yalnız dua değil, hangi ibadet tavrı da özellikle zikrediliyor?",
+          "answer": "Şükür tavrı da özellikle vurgulanıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Dördüncü maddede mükâleme sıfatının ilimle ilişkisi nasıl anlaşılmalıdır?",
+          "answer": "Her şeyi kuşatan bir bilginin, konuşmayı da mümkün ve gerekli kılan bir temel olduğu anlaşılmalıdır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Aynı maddede hayat sıfatının konuşmayla ilişkisi nasıl kuruluyor?",
+          "answer": "Diri ve ezelî hayat sahibi olan Zâtın, buna uygun şekilde konuşma sıfatına da sahip olacağı ifade ediliyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu pasajda insanın yönelişi ile Allah’ın hitabı arasında nasıl bir karşılıklılık görülüyor?",
+          "answer": "Kuldan dua ve şükür yükselirken, Allah tarafından fiilî ve kelâmî karşılık geldiği görülüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki deliller daha çok duygusal bir çağrı mı, yoksa aklî bir temellendirme mi taşıyor?",
+          "answer": "Aklî bir temellendirme taşıyor; fakat insanın manevi ihtiyaçlarını da dikkate alıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Dördüncü maddeye göre ilahî kelâmın kapsamı nasıl tasavvur edilir?",
+          "answer": "Sınırlı değil, kuşatıcı ve devamlı bir sıfat olarak tasavvur edilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci maddede kâinatın çok büyük bir dikkat ve hikmetle kurulmuş olması, Allah’ın hangi fiilini gerekli kılar?",
+          "answer": "Kendini sözle de tanıtmasını gerekli kılar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu maddede yaratılmışların çok sayıda işaret taşıması neyin göstergesi sayılıyor?",
+          "answer": "İlahi kemalin ve tanıtılmak istenen hakikatlerin göstergesi sayılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Üçüncü maddede insanların Allah’a yönelen hangi iki hali özellikle anılıyor?",
+          "answer": "Yalvarışları ve hamdleri özellikle anılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Allah’ın bu yönelişlere fiilen karşılık vermesi neye benzetilebilecek bir hazırlık oluşturur?",
+          "answer": "Sözle karşılık vermesinin de yerinde ve beklenen bir durum olduğuna hazırlık oluşturur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü maddede ilahî hitabın gerekliliği en çok hangi ilişki üzerinden anlatılıyor?",
+          "answer": "Yaratan ile kul arasındaki karşılık ve ilgi ilişkisi üzerinden anlatılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Dördüncü maddede konuşma sıfatı, ilim ve hayat için nasıl bir özellik olarak belirtiliyor?",
+          "answer": "Onlardan ayrılması düşünülemeyen bir netice olarak belirtiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Eğer bir Zâtın bilgisi her şeyi kapsıyor ve hayatı sonsuz ise, metne göre kelâmı hakkında ne söylenir?",
+          "answer": "Onun kelâmının da kapsamlı ve sürekli olduğu söylenir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci maddeden dördüncü maddeye kadar ilerleyen düşünce zinciri nasıl özetlenebilir?",
+          "answer": "Yaratma tanıtmaya, insanın yönelişi cevap vermeye, sonsuz ilim ve hayat ise kelâm sıfatının zorunluluğuna götürür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S5Q1",
+            "ayetul-kubra:p35:lisans:S5Q5",
+            "ayetul-kubra:p35:lisans:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajın ana mesajı bir cümleyle nasıl ifade edilir?",
+          "answer": "Allah’ın kendini bildirmesi ve kullarıyla hitap ilişkisi kurması, hem yaratılışın anlamı hem de ilahî kemal gereğidir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S5Q1",
+            "ayetul-kubra:p35:lisans:S5Q5"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci maddede, evrendeki sanat ve hikmetten hareketle hangi ilahî davranış beklenmektedir?",
+          "answer": "Allah’ın kendi beyanıyla da bilinmeyi sağlaması beklenmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu beklenti, kâinattaki delillerin yetersiz olduğu anlamına mı gelir?",
+          "answer": "Hayır; o deliller yeterli işaretlerdir, fakat hitap bunları tamamlayan daha açık bir tanıtımdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Üçüncü maddede insanın hangi özellikleri onu ilahî hitaba uygun bir muhatap haline getiriyor?",
+          "answer": "Seçkin oluşu, ihtiyaç içinde bulunması, incelik taşıması ve Allah’a yönelmeye istekli olması onu uygun muhatap haline getiriyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanların niyazlarına fiilen cevap verilmesiyle kelâmî cevap arasında nasıl bir tutarlılık kuruluyor?",
+          "answer": "Fiilî cevap verenin sözlü cevap vermesi de yaratıcı oluşuna uygun görülüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü maddede “münacat” ve “şükür” birlikte anılarak insanın hangi iki yönü vurgulanıyor?",
+          "answer": "İhtiyacını arz eden yönü ile nimeti fark edip hamd eden yönü vurgulanıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Dördüncü maddede mükâleme sıfatının zorunluluğu hangi mantıkla savunuluyor?",
+          "answer": "Bilgi ve diri oluş ayrılmaz şekilde konuşmayı gerektirdiği için bu sıfatın da bulunacağı mantığıyla savunuluyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "“İhatalı” ve “sermedî” nitelikleri, konuşma sıfatına nasıl yansıyor?",
+          "answer": "Konuşmanın da sınırsızlığa ve sürekliliğe uygun bir tarzda bulunmasını gerektiriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu pasajda Allah’ın konuşması daha çok hangi maksatlara hizmet ediyor görünmektedir?",
+          "answer": "Kendini tanıtma, kullarına cevap verme ve onlarla ilişki kurma maksatlarına hizmet ediyor görünmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci ve dördüncü maddeler arasında, biri fiillerden diğeri sıfatlardan hareket etmesi bakımından nasıl bir fark vardır?",
+          "answer": "İkinci madde yaratma fiilinden sonuca giderken, dördüncü madde ilim ve hayat sıfatlarından kelâmın varlığına gider.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S6Q1",
+            "ayetul-kubra:p35:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p35:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bütün bu maddeler birlikte okunduğunda, ilahî kelâmın varlığı için nasıl bir delillendirme ortaya çıkıyor?",
+          "answer": "Kâinat, insanın kulluğu ve Allah’ın kemal sıfatları birlikte değerlendirilerek çok yönlü bir delillendirme ortaya çıkıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p35:lisans:S6Q1",
+            "ayetul-kubra:p35:lisans:S6Q3",
+            "ayetul-kubra:p35:lisans:S6Q6"
+          ]
+        }
+      ]
+    }
+  ]
+}

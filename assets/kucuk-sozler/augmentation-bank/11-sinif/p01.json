@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:11-sinif:p01",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "11-sinif",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "Küçük Sözler / Mukaddime: müellif, besmele-hamd-salât ve sekiz sözün takdimi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/11-sinif/SveC_11sinif_kucuk-sozler-p01-kucuk-sozler-mukaddime-muellif-besmele-hamd-salat-ve-sekiz-sozun-takdimi.txt",
+  "sourceRevision": "2d45d4915afc45a6e8fd61b3c821d5678c487f333888919a34474a297f757815",
+  "setCount": 5,
+  "questionCount": 10,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında nasihatlerin hangi yöntemle anlatılacağı belirtiliyor?",
+          "answer": "Askerlik örnekleri ve kısa hikâyeler yoluyla anlatılacağı söyleniyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Nasihat eden kişi, öğüde en çok kimin ihtiyaç duyduğunu ifade ediyor?",
+          "answer": "Kendi nefsinin buna daha çok muhtaç olduğunu belirtiyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Giriş bölümünde anlatılan sözlerin hangi kaynaktan faydalanılarak ortaya çıktığı belirtiliyor?",
+          "answer": "Sekiz ayetten alınan derslerle şekillendiği ifade ediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Anlatımın sade tutulma sebebi ne olarak gösteriliyor?",
+          "answer": "Daha kolay anlaşılsın diye herkesin anlayabileceği bir dille söyleneceği belirtiliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında öğüt verme tarzı neden dikkat çekicidir?",
+          "answer": "Çünkü başkasına üstünlük taslamadan, önce kendi nefsine yöneltilen bir nasihat dili kullanılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İlk bölümde dinleyiciye nasıl bir üslûpla hitap ediliyor?",
+          "answer": "Samimi, sade ve kardeşçe bir hitap kullanılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki nasihatlerin muhatabı görünüşte kim olsa da aslında kime de yöneliktir?",
+          "answer": "İlk olarak nasihat edenin kendi nefsine yöneliktir; başkaları da bundan ders alabilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Sade bir dille konuşulacağının söylenmesi, anlatım açısından ne sağlar?",
+          "answer": "Anlamayı kolaylaştırır ve hakikatin geniş kitlelere ulaşmasını sağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İlk satırlarda nasihat isteğinde bulunan kişiye hangi yakınlık ifadesiyle hitap ediliyor?",
+          "answer": "Kardeşçe bir hitapla sesleniliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Metnin girişinde askerlik temsilinin seçilmiş olması, muhatapla ilgili hangi bilgiye dayanıyor?",
+          "answer": "Muhatabın asker oluşuna dayanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1109 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:lisans:p21",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "lisans",
+  "partNo": "p21",
+  "partNumber": 21,
+  "title": "7. Söz: Kâinat tılsımı; asker temsili (tılsım/ilâç/bilet)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/lisans/SveC_lisans_kucuk-sozler-p21-7-soz-kainat-tilsimi-asker-temsili-tilsim-ilac-bilet.txt",
+  "sourceRevision": "2dd91554964b51ed277ea1e18c1d861f2aa3bb5c71ce2861b82546fafc8b8011",
+  "setCount": 6,
+  "questionCount": 95,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada insan için büyük değer taşıyan iki temel inanç hangileridir?",
+          "answer": "Allah’a iman ve âhirete iman.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki inancın, insan ruhu bakımından nasıl bir işlev gördüğü anlatılmaktadır?",
+          "answer": "Hayatın karmaşasını çözen ve insana saadetin yolunu açan anahtarlar gibi sunulmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p21:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde sabırla tevekkül ve şükürle dua hangi bakımdan ele alınmıştır?",
+          "answer": "İnsanın sıkıntılarını hafifleten, faydalı ve şifa verici iki manevi çare olarak ele alınmıştır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an’ı dinlemek, ona uymak, namaz kılmak ve büyük günahlardan kaçınmak neye benzetilmektedir?",
+          "answer": "Âhiret yolculuğunda gerekli bir hazırlığa, manevi azığa ve kabir için aydınlığa benzetilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Temsildeki askerin içinde bulunduğu korkunç durumun başlıca unsurları nelerdir?",
+          "answer": "İki ağır yara, arkasında saldırmaya hazır bir yırtıcı, önünde ölüm işareti gibi duran bir sehpa ve önünde uzun bir sürgün yolculuğu vardır.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Askerin sağ tarafından gelen nurani kişinin askere sunduğu şeyler nelerdir?",
+          "answer": "İki manevi anahtar, iki ilaç ve yolculuğu kolaylaştıran bir belge sunmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu hediyeler doğru kullanılırsa askerin karşısındaki tehlikelerde nasıl bir dönüşüm meydana gelir?",
+          "answer": "Korkutucu şeyler zararsız ve hatta faydalı hale gelir; yaralar da güzel bir neticeye dönüşür.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p21:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Askerin soldan gelen aldatıcı kişiye bir süre meyletmesi insan hakkında hangi gerçeğe işaret eder?",
+          "answer": "İnsanın aldanmaya açık olduğuna işaret eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Temsildeki arslan neyi temsil eder?",
+          "answer": "Eceli temsil eder.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Ön taraftaki darağacı hangi geniş manaya işaret eder?",
+          "answer": "Ölümü, faniliği ve ayrılığı hatırlatan süreci temsil eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "İki yaranın biri hangi insani hakikati gösterir?",
+          "answer": "İnsan gücünün çok sınırlı oluşunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Diğer yara neyi göstermektedir?",
+          "answer": "İnsanın ihtiyaç bakımından son derece yoksul ve muhtaç oluşunu göstermektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p21:lisans:S1Q12"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Uzun yolculuk hangi anlamda kullanılmıştır?",
+          "answer": "İnsanın varlık safhalarından geçerek âhirete uzanan imtihan yolunu anlatmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Allah’a ve âhirete iman neden “çözüm sağlayan” bir unsur gibi gösterilmektedir?",
+          "answer": "Çünkü insanın hayat, ölüm ve sonrasına dair düğüm olmuş meselelerine anlam kazandırmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Sabır ve tevekkül birlikte anıldığında insana hangi ahlaki duruş öğretilmiş olur?",
+          "answer": "Sarsıntı karşısında dayanıklı olup neticede Allah’a güvenen bir duruş öğretilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Şükür ile dua arasında nasıl bir ilişki kurulmaktadır?",
+          "answer": "Rızkı vereni bilip ona yönelme ve ihtiyaçları ondan isteme ilişkisi kurulmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Anlatılan hikâyedeki asker niçin “imtihan” içinde kabul edilmektedir?",
+          "answer": "Çünkü çevresi korku, sıkıntı ve aldatıcı seçeneklerle kuşatılmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Nurani zatın önce askere “ümitsiz olma” demesi neden önemlidir?",
+          "answer": "Çünkü çözümün ilk şartı, insanın ümitsizliğe teslim olmamasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Nurani zatın verdiği imkânların işe yaradığını asker nasıl anlıyor?",
+          "answer": "Bir kısmını deneyip doğruluğunu görerek anlıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu deneme vurgusu, iman hakikatleriyle ilgili nasıl bir kavrayışa kapı açar?",
+          "answer": "Manevi hakikatlerin yaşanarak ve tecrübe edilerek de tasdik edilebileceğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p21:lisans:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Soldan gelen kişinin temel yöntemi nedir?",
+          "answer": "Süs, eğlence ve haz teklifleriyle dikkat dağıtıp aldatmaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Aldatıcı kişinin tılsımı küçümsemesi neyi gösterir?",
+          "answer": "Manevi hakikatleri değersiz göstermeye çalıştığını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q15",
+          "sourceQuestionId": "S2Q15",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 15,
+          "question": "Arslanın ecele karşılık gelmesi, ölüm hakkında hangi duyguyu yansıtır?",
+          "answer": "Ölümün insan nefsine ilk bakışta korkutucu geldiğini yansıtır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q16",
+          "sourceQuestionId": "S2Q16",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 16,
+          "question": "Darağacının zaman, ölüm ve ayrılıkla ilişkilendirilmesi bize ne öğretir?",
+          "answer": "Her geçen zamanın sevdiklerimizden kopuşu ve faniliği hatırlattığını öğretir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q17",
+          "sourceQuestionId": "S2Q17",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 17,
+          "question": "Acz ve fakrın “yara” şeklinde anlatılması neyi kuvvetle hissettirir?",
+          "answer": "İnsan varlığının derin eksiklik ve muhtaçlık taşıdığını kuvvetle hissettirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q18",
+          "sourceQuestionId": "S2Q18",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 18,
+          "question": "İman tılsımıyla ölümün anlam değiştirmesi hangi temel bakış açısını verir?",
+          "answer": "Mümin için ölümün son değil, rahmete açılan geçiş olduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S2Q19",
+          "sourceQuestionId": "S2Q19",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 19,
+          "question": "Zamanın akışı neden imanla birlikte daha anlamlı hale gelir?",
+          "answer": "Çünkü değişim ve yenilenme, ilahi kudret ve rahmetin tecellileri olarak okunur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada insanın mutluluğa ulaşması için ilk sırada hangi iman esasları öne çıkarılmaktadır?",
+          "answer": "Allah’a iman ve âhirete iman öne çıkarılmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iman esaslarının “kapı açıcı” yönü hangi insan ihtiyacına cevap verir?",
+          "answer": "Anlam, güven ve ebedilik arayışına cevap verir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p21:lisans:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde verilen manevi ilaçlardan biri sabırla tevekküldür. Bu ikisi birlikte hangi ruh halini doğurur?",
+          "answer": "Sıkıntıya dayanma ve sonucu Allah’a bırakma huzurunu doğurur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Diğer manevi ilaç olan şükür ve dua, insanın rızıkla ilişkisini nasıl düzeltir?",
+          "answer": "Nimeti vereni tanıtarak insanı hem minnete hem istemeye yöneltir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Kur’an’ı dinleyip hükmüne uymanın yolculuk bağlamında anılması neyi düşündürür?",
+          "answer": "Dünya hayatının geçici bir sefer, vahyin ise bu seferde rehber olduğunu düşündürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Temsildeki askerin çok yönlü tehlike içinde olması insan hayatının hangi yönünü temsil eder?",
+          "answer": "İnsanın hem iç hem dış sıkıntılarla aynı anda karşı karşıya oluşunu temsil eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Sağ taraftan gelen nurani kişinin Hızır’a benzetilmesi neyi ima eder?",
+          "answer": "Yardım, rehberlik ve kurtuluşa vesile olacak ilahi bir lütfu ima eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Yaraların güle dönüşmesi nasıl bir manevi mesaj taşır?",
+          "answer": "Doğru bakış ve doğru kullanım ile acı görünen şeylerin hayırlı sonuçlara dönüşebileceği mesajını taşır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bir yıllık yolu bir günde aldıran belge neyi sembolize eder?",
+          "answer": "Âhiret yolculuğunu kolaylaştıran manevi hazırlık ve ilahi destek anlamını sembolize eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Soldan gelen kişinin yanında süs, eğlence ve sarhoş edici şeylerin bulunması neyi anlatır?",
+          "answer": "Nefsi cezbeden aldatıcı dünyanın insanı oyalama tarzını anlatır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Metindeki açıklamaya göre asker doğrudan kimi temsil etmektedir?",
+          "answer": "Her insanı ve özellikle hitap edilen kişinin kendi nefsini temsil etmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Uzun yolculuğun çeşitli safhalar halinde anlatılması neyi vurgular?",
+          "answer": "İnsan hayatının tek parça değil, aşamalı ve sonu âhirete uzanan bir süreç olduğunu vurgular.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q18",
+          "sourceQuestionId": "S3Q18",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 18,
+          "question": "Sabır ve tevekkülün arkasında Allah’ın hangi iki sıfatına güven vardır?",
+          "answer": "Kudretine ve hikmetine güven vardır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q19",
+          "sourceQuestionId": "S3Q19",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 19,
+          "question": "Şiddetli musibet karşısında teslimiyet sözünü söylemek neden kalbi yatıştırır?",
+          "answer": "Çünkü insanın Allah’a ait olduğunu ve sonunda ona döneceğini hatırlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S3Q20",
+          "sourceQuestionId": "S3Q20",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 20,
+          "question": "Son cümlelerde güçlü olmaktan ziyade aczi kabul etmenin övülmesi neyi öğretir?",
+          "answer": "Hakiki emniyetin insanın kendi gücünde değil, Allah’a sığınmasında olduğunu öğretir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın ana maksadı genel olarak nedir?",
+          "answer": "İman ve kulluğun insanın korkularını anlamlı hale getirip onu saadete hazırladığını göstermektir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İki tılsım ifadesiyle anlatılan şeyler hangi alana aittir?",
+          "answer": "İnanç alanına aittir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İki ilaç ifadesiyle anlatılan şeyler daha çok insanın hangi yönünü tedavi eder?",
+          "answer": "Ruhunu, kalbini ve manevi dengesini tedavi eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Namaz ve büyük günahlardan sakınma neden yolculuk hazırlığı içinde sayılmıştır?",
+          "answer": "Çünkü bunlar âhiret için gerekli manevi donanımı sağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Hikâyedeki askerin tek başına ve savunmasız görünmesi hangi insan halini temsil eder?",
+          "answer": "İnsanın dünya imtihanında kırılgan ve korunmaya muhtaç oluşunu temsil eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Nurani kişinin yardımı doğrudan zorla vermemesi, bunun yerine öğretmesi neyi gösterir?",
+          "answer": "İnsanın iradesiyle doğruyu tercih etmesi gerektiğini gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Askerin az da olsa denemesi neden önemlidir?",
+          "answer": "Çünkü hakikate yaklaşmak için samimi bir adımın kapı açabileceğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Aldatıcı kişinin teklifleri daha çok hangi duygulara hitap etmektedir?",
+          "answer": "Hevese, hazza ve gaflete hitap etmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Ecelin arslan şeklinde temsil edilmesi hangi yönü öne çıkarır?",
+          "answer": "Kaçınılmaz ve ürkütücü görünmesini öne çıkarır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Ölüm ve ayrılığın darağacına benzetilmesi neyi hissettirir?",
+          "answer": "Nefsin gözünde bunun ağır ve sarsıcı bir gerçek olduğunu hissettirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "İnsan aczi ile fakrının yara olarak sunulması, insanın kendine yeterli olmadığını nasıl destekler?",
+          "answer": "Çünkü insanın hem güç hem de imkân bakımından eksik olduğu açıkça gösterilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q15",
+          "sourceQuestionId": "S4Q15",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 15,
+          "question": "Uzun seferin çok sayıda duraktan oluşması neyin işaretidir?",
+          "answer": "İnsan varlığının başlangıçtan son hesaba kadar uzanan kapsamlı bir yolculuk olduğunun işaretidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q16",
+          "sourceQuestionId": "S4Q16",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 16,
+          "question": "Allah’a ve âhirete iman bu tabloda neden merkezi konumdadır?",
+          "answer": "Çünkü diğer korku ve belirsizliklerin anlamını dönüştüren esas bunlardır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q17",
+          "sourceQuestionId": "S4Q17",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 17,
+          "question": "Ölümün mümin için olumlu bir geçişe dönüşmesi, âhiret inancının hangi sonucudur?",
+          "answer": "Sonun yokluk değil, daha yüksek bir hayata açılış olduğu sonucudur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S4Q18",
+          "sourceQuestionId": "S4Q18",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 18,
+          "question": "Zamanın geçişinin sanat ve rahmet tecellisi olarak görülmesi ne kazandırır?",
+          "answer": "Kayıp duygusunu azaltır, tefekkür ve hayranlık kazandırır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde insanın önüne konan iki anahtar niteliğindeki inançlar hangileridir?",
+          "answer": "Allah’a iman ile âhirete imandır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu inançlar kâinatın anlaşılmasında nasıl bir rol üstlenmektedir?",
+          "answer": "Karmaşık görünen varlığı anlamlandıran temel bir açıklama çerçevesi sunmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p21:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Sabır, tevekkül, şükür ve dua neden sadece ahlaki öğüt değil, aynı zamanda “ilaç” sayılmıştır?",
+          "answer": "Çünkü bunlar insanın iç sıkıntılarına fiilen çare olur ve ruhunu iyileştirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an’a uyma ve namazın âhiret yolculuğuyla ilişkilendirilmesi neyi öne çıkarır?",
+          "answer": "Kulluğun yalnız dünya için değil, ebedi hayat için de hazırlık olduğunu öne çıkarır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Temsilin başındaki asker neden “kâr ve zarar” döngüsü içinde kabul edilmiştir?",
+          "answer": "Çünkü vereceği kararlar onu ya kurtuluşa ya da kayba götürecektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Askerin yaralı olması ile tehdit altında bulunması arasında nasıl bir ilişki vardır?",
+          "answer": "Hem içten zayıf düşmüş hem dıştan baskı altında kalmış bir durumu anlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Nurani kişinin verdiği tılsımların öğretilmesi, hakikatin neyle faydalı olacağını gösterir?",
+          "answer": "Bilinip doğru şekilde uygulanmasıyla faydalı olacağını gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Verilen ilaçların yaraları güzel bir çiçeğe çevirmesi nasıl yorumlanmalıdır?",
+          "answer": "Manevi reçete ile acıların anlam kazanıp güzelleşmesi şeklinde yorumlanmalıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Yolculuğu kısaltan bilet neyin zorluğunu hafifletmektedir?",
+          "answer": "İnsanın ebedi hayata uzanan uzun ve ağır seferinin zorluğunu hafifletmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Askerin karşısına çıkan ikinci kişi hangi karakter özellikleriyle tanıtılmaktadır?",
+          "answer": "Hileci, sarhoş edici ve aldatıcı bir karakter olarak tanıtılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu kişi neden özellikle eğlence, görüntü ve tat gibi şeyleri öne çıkarmaktadır?",
+          "answer": "Çünkü insanı anlık hazlarla meşgul edip hakikatten uzaklaştırmak istemektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Askere “sağlamsın” denmesi, insanın hangi yanılgısına benzer?",
+          "answer": "Manevi yarasını fark etmeyip kendini yeterli sanma yanılgısına benzer.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Aldatıcı kişiye karşı verilen cevapta hangi eleştirel düşünme yöntemi kullanılmaktadır?",
+          "answer": "Önce sunduğu çözümün gerçek sorunları giderip gidermediği sorgulanmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p21:lisans:S5Q12"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Temsil çözüldüğünde askerin insanı temsil etmesi neyi kolaylaştırır?",
+          "answer": "Hikâyedeki bütün unsurları insanın kendi hayatına uygulamayı kolaylaştırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q15",
+          "sourceQuestionId": "S5Q15",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 15,
+          "question": "İki yaranın insanın aczi ve fakrına karşılık gelmesi neden isabetlidir?",
+          "answer": "Çünkü insan hem güç bakımından zayıf hem de ihtiyaç bakımından sınırsız derecede muhtaçtır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q16",
+          "sourceQuestionId": "S5Q16",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 16,
+          "question": "Uzun yolculuğun farklı hayat safhalarını kapsaması hangi dünya görüşünü yansıtır?",
+          "answer": "İnsanın varlığını doğum öncesinden âhirete kadar bütüncül gören bir dünya görüşünü yansıtır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q17",
+          "sourceQuestionId": "S5Q17",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 17,
+          "question": "Ölümün bir bineğe dönüşmesi hangi iman meyvesidir?",
+          "answer": "Allah’a ve âhirete iman etmenin meydana getirdiği güven ve ümit meyvesidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q18",
+          "sourceQuestionId": "S5Q18",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 18,
+          "question": "Zamanın geçişi neden sadece kayıp olarak değil, seyredilecek bir tecelli alanı olarak da gösterilmektedir?",
+          "answer": "Çünkü iman, değişimi yokluk değil, ilahi sanatın yenilenmesi olarak okutmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q19",
+          "sourceQuestionId": "S5Q19",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 19,
+          "question": "Musibet anında Allah’a dönüşü hatırlatan ifade neyi kuvvetlendirir?",
+          "answer": "Teslimiyeti, güveni ve kalp sükûnunu kuvvetlendirir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S5Q20",
+          "sourceQuestionId": "S5Q20",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 20,
+          "question": "Son bölümde aczin lezzetli bulunması nasıl açıklanır?",
+          "answer": "İnsan kendi güçsüzlüğünü fark edince Allah’ın merhametine daha derin şekilde sığınır ve orada huzur bulur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada insanı saadete götüren temel kapılar nelerdir?",
+          "answer": "Allah’a iman ve âhirete iman temel kapılardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iman esasları neden “tılsım” diye nitelenmiş olabilir?",
+          "answer": "Çünkü zor görünen meseleleri çözüp gizli manaları açan bir etkiye sahiptir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p21:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Sabırla tevekkülün ilâç sayılması, insanın hangi sıkıntılarına işaret eder?",
+          "answer": "Korku, çaresizlik ve yük altında ezilme gibi sıkıntılarına işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Şükürle dua birlikte düşünüldüğünde kulun Rabbiyle ilişkisi nasıl şekillenir?",
+          "answer": "Hem nimeti tanıyan hem ihtiyacını arz eden bir kulluk ilişkisi şekillenir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde dini görevlerin yolculuk için gerekli görülmesi hangi ana fikri destekler?",
+          "answer": "Dünya hayatının geçici, âhiretin ise esas hedef olduğu fikrini destekler.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Askerin çevresinin tehlikelerle dolu olması neden etkili bir temsil oluşturur?",
+          "answer": "Çünkü insan hayatındaki korku, fanilik ve belirsizliği somut hale getirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Sağ taraftan gelen kişinin hayırhah ve aydınlık biri olarak tasviri neyi ima eder?",
+          "answer": "Doğru yol göstericiliğin rahmet ve nur taşıdığını ima eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Askerin verilenleri kullanması şart koşulunca hangi gerçek vurgulanmış olur?",
+          "answer": "Hakikatin faydasının ancak kabul ve uygulama ile ortaya çıkacağı vurgulanmış olur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Sol taraftan gelen kişinin tavrı daha çok akla mı nefse mi hitap etmektedir?",
+          "answer": "Daha çok nefse hitap etmektedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu aldatıcı kişi neden bilinçli olarak manevi araçları küçültmektedir?",
+          "answer": "Çünkü insanı kurtaracak şeylerden uzaklaştırmak istemektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Askerin ona biraz meyletmesi hangi insani zafiyeti gösterir?",
+          "answer": "Nefsin cazibesine kapılabilme zafiyetini gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Askerin insanı temsil etmesiyle birlikte temsil daha çok hangi meseleye dönüşür?",
+          "answer": "Her insanın kendi varoluş ve kurtuluş meselesine dönüşür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q15",
+          "sourceQuestionId": "S6Q15",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 15,
+          "question": "Arslan, darağacı, yaralar ve yolculuk birlikte düşünüldüğünde nasıl bir insan tablosu çıkar?",
+          "answer": "Ölümle yüzleşen, ayrılığa uğrayan, zayıf ve muhtaç, ayrıca geleceğe doğru sürüklenen bir insan tablosu çıkar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q16",
+          "sourceQuestionId": "S6Q16",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 16,
+          "question": "İman sayesinde ölümün korkutucu olmaktan çıkması hangi sonucu doğurur?",
+          "answer": "Müminin ölümü rahmete kavuşma vesilesi olarak görmesini sağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q17",
+          "sourceQuestionId": "S6Q17",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 17,
+          "question": "Zamanın geçişi neden imanla birlikte daha güzel sahneler üreten bir akış gibi anlatılır?",
+          "answer": "Çünkü sürekli değişen varlıklar, ilahi sanatın yeni yeni görünümlerini ortaya koyar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q18",
+          "sourceQuestionId": "S6Q18",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 18,
+          "question": "Sabır ve tevekkülün açıklamasında Allah’ın kudret ve hikmeti neden birlikte anılmıştır?",
+          "answer": "Çünkü insan hem Allah’ın her şeye gücünün yettiğine hem de her işi yerli yerince yaptığına güvenmelidir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q19",
+          "sourceQuestionId": "S6Q19",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 19,
+          "question": "Musibet anında teslimiyet sözü söyleyen kişinin kalbinde hangi hal doğar?",
+          "answer": "Sakinlik, rıza ve güven hali doğar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p21:lisans:S6Q20",
+          "sourceQuestionId": "S6Q20",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 20,
+          "question": "Son kısımda korkunun tamamen kötü görülmemesi neye bağlıdır?",
+          "answer": "Kişiyi Allah’a sığınmaya ve rahmete yönelmeye sevk eden bir korku olmasına bağlıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

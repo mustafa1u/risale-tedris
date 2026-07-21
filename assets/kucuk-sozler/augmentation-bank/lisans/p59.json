@@ -1,0 +1,882 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:lisans:p59",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "lisans",
+  "partNo": "p59",
+  "partNumber": 59,
+  "title": "21. Söz / 1. Makam / 5. İkaz: İki maden-i manevî; namazı terk etmenin hasareti",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/lisans/SveC_lisans_kucuk-sozler-p59-21-soz-1-makam-5-ikaz-iki-maden-i-manevi-namazi-terk-etmenin-hasareti.txt",
+  "sourceRevision": "de9705b9bb76b837f95bd1f6691bd83bf207e10017b6c4dd1931c84e080cbb26",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İlk manevi kazanç, bağda yetiştirilen varlıklarla ilgili olarak nasıl açıklanır?",
+          "answer": "Kişi samimi ve güzel bir maksatla çalışırsa, yetiştirdiği her bitki ve ağacın Allah’ı anmasından sevap payı alır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ilk kazancın elde edilmesinde niyetin yeri nedir?",
+          "answer": "Belirleyici şart niyettir; çalışma Allah rızasına yönelirse manevi pay doğar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci manevi kazanç, bağdan elde edilen ürünlerin yenmesiyle nasıl meydana gelir?",
+          "answer": "O ürünlerden yiyen her canlı sebebiyle kişiye sadaka sevabı yazılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Ürünü yiyenlerin kimler olması bu sevabı ortadan kaldırmaz?",
+          "answer": "İnsan ya da hayvan olması fark etmez; hatta alan kişi ile izinsiz alan kişi açısından bile sevap kapısı kapanmaz.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu ikinci kazancın gerçekleşmesi için mal ve tasarruf anlayışı nasıl olmalıdır?",
+          "answer": "Kişi kendini gerçek malik görmemeli; rızkı verenin adına, O’nun izin verdiği çerçevede dağıtan bir görevli gibi davranmalıdır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Namazı terk etmek, metinde çalışma hayatı açısından hangi büyük kayba bağlanır?",
+          "answer": "Kişi emeğine canlılık veren iki büyük manevi neticeden mahrum kalır ve iç gücünü kaybeder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu mahrumiyetin insanın çalışma şevki üzerindeki etkisi nedir?",
+          "answer": "Gayret azalır, iş ağır görünür ve insan zamanla isteksizleşir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Yaş ilerledikçe manevi bakışı eksik olan kişinin bahçeciliğe karşı tavrı nasıl değişir?",
+          "answer": "“Artık ne gerek var?” diye düşünerek işten soğur ve tembelliğe meyleder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki “iflas” düşüncesi maddi değil hangi yönden bir yoksullaşmayı anlatır?",
+          "answer": "Manevi kazançların kaybını ve emeğin derin anlamını yitirmeyi anlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Önceki olumsuz tavrın karşısına konan örnek kişi nasıl bir anlayış taşır?",
+          "answer": "Hem ibadeti artırmayı hem de helal çalışmayı sürdürmeyi ister.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu olumlu kişinin kabir ve ahiret açısından hedefi nedir?",
+          "answer": "Gelecek hayatına nur ve azık hazırlamak ister.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın ana mesajı nedir?",
+          "answer": "Namaz ve doğru niyet, günlük emeği sıradan bir uğraş olmaktan çıkarıp kalıcı manevi kazanca dönüştürür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada “iki maden” denilerek neye dikkat çekilir?",
+          "answer": "Namazla birlikte helal çalışmanın insana kazandırdığı iki büyük manevi kaynağa dikkat çekilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci kaynağın konusu bağdaki hangi unsurları içine alır?",
+          "answer": "Çiçek veren, meyve veren bütün bitki ve ağaçları kapsar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Birinci kaynağın kişiye kazandırdığı sevap, doğrudan hangi fiille ilişkilidir?",
+          "answer": "Yetişen varlıkların Allah’ı tesbih etmesiyle ilişkilidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci kaynağın kapsamı, ürünlerden yararlananlar bakımından ne kadar geniş tutulur?",
+          "answer": "Çok geniştir; her çeşit canlı ve her çeşit yiyen bu kapsamın içindedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Ürünleri tüketen kişinin dürüst veya haksız davranan biri olması hükmü değiştirir mi?",
+          "answer": "Değiştirmez; belirleyici olan kişinin kendisini Allah’ın malını dağıtan bir memur gibi görmesidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Kişinin kendine “tevziat memuru” gibi bakması hangi inanç terbiyesini gösterir?",
+          "answer": "Mülkün gerçek sahibinin Allah olduğunu kabul eden kulluk şuurunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Namazı bırakmanın sonuçları neden sadece ibadet eksikliği olarak sunulmaz?",
+          "answer": "Çünkü bu terk, hem sevap kaynaklarını kapatır hem de çalışmanın manevi bereketini azaltır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre manevi anlamdan kopan emek, insanı özellikle hangi ruh haline sürükler?",
+          "answer": "Bezginliğe, isteksizliğe ve boş verme duygusuna sürükler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Ben zaten gidiciyim” tarzı düşünce neyin işaretidir?",
+          "answer": "Ahiret hesabını kurmadan sadece dünya yükünü gören yorgun bir bakışın işaretidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Diğer örnekteki kişinin daha çok ibadet ve helal çalışma istemesi hangi şuuru gösterir?",
+          "answer": "Ölüm sonrasını ciddiye alan ve bugünkü emeği ebedi hayata yatırım olarak gören şuuru gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu parçaya göre çalışmanın kalıcı değer kazanması neye bağlıdır?",
+          "answer": "Namazla desteklenmesine, niyetin düzelmesine ve tasarrufun ilahi izin dairesinde olmasına bağlıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Metinden çıkarılacak temel ders nedir?",
+          "answer": "Mümin, günlük işini sadece geçim için değil, ahiret sermayesine çevrilecek bir kulluk vesilesi olarak görmelidir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada bağda yapılan işlerin manevi değeri hangi şart altında yükselir?",
+          "answer": "Çalışma Allah rızasına bağlanır ve niyet temiz tutulursa yükselir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Yetiştirilen bitki ve ağaçların zikriyle insan arasında nasıl bir bağ kuruluyor?",
+          "answer": "İnsan, emeği ve niyeti sayesinde onların ibadetinden sevapça pay alıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Ürünlerden faydalanan canlıların çeşit çeşit sayılması neyi vurgular?",
+          "answer": "İlahi rahmetin genişliğini ve sevap kapısının beklenenden daha kapsamlı olduğunu vurgular.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Ürünün yenmesi nasıl olup da sadaka sayılır?",
+          "answer": "Kişi malı Allah’ın emaneti bilip meşru şekilde sunarsa, o faydalanma hayra dönüşür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Kişinin kendini mülkün sahibi değil de görevli sayması neden önemlidir?",
+          "answer": "Çünkü bu bakış hem kibri kırar hem de sıradan işi ibadete yaklaştırır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde namazı bırakmanın “hasaret” olarak nitelenmesi ne anlama gelir?",
+          "answer": "Görünmeyen ama çok değerli manevi kazançların kaçırılması anlamına gelir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu kaybın emek üzerindeki psikolojik sonucu nasıl tarif edilir?",
+          "answer": "Çalışmaya sevk eden iç enerji zayıflar, insan işinden usanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İleri yaşlarda ortaya çıkan bıkkınlık hangi manevi eksikliğin sonucudur?",
+          "answer": "Emeğin ahirete bakan tarafını görememenin sonucudur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "“Neme lazım” tavrı, metindeki genel anlayış açısından neden sakıncalıdır?",
+          "answer": "Çünkü sorumluluğu terk ettirir ve insanı verimli amelden uzaklaştırır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Olumlu örnek verilen kişinin çalışmayı sürdürme sebebi yalnız dünya geçimi midir?",
+          "answer": "Hayır, asıl olarak kabir ve ahiret için azık hazırlamaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada ibadet ile helal çalışma arasında nasıl bir ilişki kuruluyor?",
+          "answer": "İkisi birbirini destekleyen, birlikte olunca emeği bereketlendiren iki yol olarak gösteriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölüm, genç bir mümine günlük emeğini nasıl yorumlamasını öğütler?",
+          "answer": "Emeğini sadece kazanç aracı değil, niyet ve namazla sevaba dönüşen bir kulluk alanı olarak yorumlamasını öğütler.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre bağdaki her bitkiyle ilgili manevi pay almak için hangi iç yöneliş gereklidir?",
+          "answer": "İhlaslı ve hayırlı bir maksat gereklidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci manevi kazanç neden sadece ürün miktarına bağlı değildir?",
+          "answer": "Çünkü esas kazanç maddi verimden değil, yaratılmışların tesbihine ortak olmaktan doğar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci manevi kazançta dikkat çeken en önemli nokta nedir?",
+          "answer": "Üründen faydalananların çok farklı olması sevabın önüne engel sayılmaz.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan, malı kendine ait mutlak bir hak gibi görürse parçada anlatılan hangi anlayıştan uzaklaşmış olur?",
+          "answer": "Emanet ve kulluk merkezli anlayıştan uzaklaşmış olur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Meşru tasarruf vurgusu neyi sınırlar?",
+          "answer": "Kişinin keyfî sahiplik iddiasını sınırlar ve ilahi ölçüye bağlı kalmasını ister.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Namazı terk eden kişi neden “servet kaybetmiş” sayılır?",
+          "answer": "Çünkü görünürde aynı işi yapsa da onun gizli sevap hazinelerini yitirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Çalışma şevkinin zayıflaması ile namazın terk edilmesi arasında nasıl bir bağ kuruluyor?",
+          "answer": "Namaz olmayınca emeğin manevi hedefi kaybolur; hedef kaybolunca istek de zayıflar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde tembelliğe düşen kişinin kendi kendine kurduğu gerekçe nedir?",
+          "answer": "Dünyadan ayrılacağı için artık bu kadar zahmete değmeyeceğini düşünmesidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Buna karşılık örnek gösterilen diğer kişi aynı gerçeği nasıl farklı yorumlar?",
+          "answer": "Ölümü bırakma sebebi değil, daha çok ibadet ve helal gayret sebebi olarak görür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Kabrine ışık göndermek ifadesi hangi manevi anlayışa işaret eder?",
+          "answer": "Dünyadaki salih amellerin ölüm sonrasına fayda sağlayacağı inancına işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Ahirete azık hazırlamak düşüncesi, günlük işlere nasıl bir anlam kazandırır?",
+          "answer": "Geçici yorgunlukları ebedi kazanca dönüştüren bir anlam kazandırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın bütününden çıkan sonuç nedir?",
+          "answer": "Namaz ve doğru niyet olmadan emek eksik kalır; bunlarla birleşince ise dünya işi ahiret sermayesine dönüşür.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada bağdaki emeğin ilk manevi neticesi hangi varlıkların ibadetiyle bağlantılıdır?",
+          "answer": "Yetiştirilen bütün bitki ve ağaçların Allah’ı zikretmesiyle bağlantılıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Kişi bu neticeden nasıl pay sahibi olur?",
+          "answer": "Güzel niyetle çalıştığında o manevi hayırdan nasip alır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci neticede ürünün kim tarafından yenmesi özellikle neden ayrıntılı biçimde sayılmıştır?",
+          "answer": "Sevabın sadece belli kimselerle sınırlı olmadığını göstermek için sayılmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu ikinci neticenin sadaka sayılmasının temel şartı nedir?",
+          "answer": "Tasarrufun Allah adına ve O’nun izin verdiği ölçüde yapılmasıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Kişinin kendini dağıtıcı bir görevli gibi görmesi, sahiplik anlayışını nasıl değiştirir?",
+          "answer": "Mülkü kendine bağlamak yerine emaneti yerine ulaştıran kul konumuna geçirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Namazı bırakmak neden sadece bir eksiltme değil, büyük bir zarar olarak anlatılır?",
+          "answer": "Çünkü iki büyük manevi kazanç yolu kapanır ve emek bereketini kaybeder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Metin, manevi gayesi olmayan çalışmanın sonunda hangi ruh hâlinin doğacağını söyler?",
+          "answer": "Bezginlik ve boş verme duygusu doğacağını söyler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "“Ben gidiyorum” düşüncesiyle işi bırakan kişi, hayatı hangi açıdan eksik okumuş olur?",
+          "answer": "Ölüm sonrası hesabı ve kalıcı kazancı hesaba katma açısından eksik okumuş olur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Diğer kişinin daha fazla helal çalışma istemesi, dünyaya düşkünlük mü gösterir?",
+          "answer": "Hayır, ahiret için bilinçli hazırlık yapma niyetini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Kabir için ışık, ahiret için zahire hazırlamak ifadeleri neyi ortak olarak anlatır?",
+          "answer": "Salih amel ve helal gayretin ölüm sonrasına taşınan faydasını anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada ibadet ile çalışma birbirine alternatif mi sunuluyor, yoksa birlikte mi düşünülüyor?",
+          "answer": "Birlikte düşünülüyor; ibadet çalışmayı anlamlandırıyor, çalışma da sevap vesilesi oluyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölümden hareketle bir üniversite öğrencisi kendi günlük uğraşlarına nasıl bakmalıdır?",
+          "answer": "Dersini, emeğini ve sorumluluklarını doğru niyet ve ibadetle birleştirerek manevi kazanca çevrilebilecek işler olarak görmelidir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metin, bağda yetişen şeylerin sadece maddi ürün olmadığını hangi yönüyle gösterir?",
+          "answer": "Onların manevi yönü bulunduğunu, yani Allah’ı anmalarıyla sevap kapısı açtığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci manevi kazançta insanın doğrudan yaptığı iş ile dolaylı kazancı arasında nasıl bir ilişki vardır?",
+          "answer": "İnsan yetiştirme emeğini verir; dolaylı olarak da o varlıkların ibadetinden sevap kazanır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci manevi kazançta ürünlerden yararlanan canlılar arasındaki farkların önemsizleşmesi neyi gösterir?",
+          "answer": "Rahmetin ve sadaka hükmünün geniş bir dairede işlediğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Hırsızın bile yemesi durumunda sevap yönünün anılması, hangi bakışı güçlendirir?",
+          "answer": "Sonucu yalnız insan hesabına göre değil, ilahi sahiplik ve rahmet açısından değerlendiren bakışı güçlendirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "“Gerçek rızık verici” vurgusu, kulun mala bakışını nasıl terbiye eder?",
+          "answer": "Malı bağımsız mülk gibi değil, Allah’ın verdiği emanet ve rızık olarak görmeyi öğretir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Namazı terk eden kişinin kaybı neden görünürde fark edilmeyebilir?",
+          "answer": "Çünkü maddi çalışma sürse bile onun manevi getirileri sessizce yok olmuş olur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Manevi kuvvetin amelde büyük destek sağlaması ne demektir?",
+          "answer": "İnsan işini daha anlamlı, daha istekli ve daha dayanıklı şekilde yapar demektir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Yaşlandıkça gelen isteksizlik, metindeki olumsuz örnekte hangi düşünceyle beslenir?",
+          "answer": "Geçiciliği yanlış yorumlayıp emeği anlamsız sayan düşünceyle beslenir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Buna karşılık olumlu örnek neden yaş ilerlese de gayretini artırmak ister?",
+          "answer": "Çünkü yaptığı helal çalışmanın ahiretine fayda hazırladığına inanır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p59:lisans:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada “ışık” ve “zahire” benzetmeleri hangi iki ihtiyacı ima eder?",
+          "answer": "Kabirde aydınlık ve ahirette gerekli manevi hazırlık ihtiyacını ima eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu bölümde namaz, kişinin geçim için yaptığı emeğe ne kazandırır?",
+          "answer": "Emeği sırf dünya işi olmaktan çıkarıp bereketli ve sevaplı bir kulluk faaliyetine dönüştürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p59:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün pasaj bir cümleyle özetlenecek olursa nasıl özetlenir?",
+          "answer": "Doğru niyet ve namazla birleşen helal çalışma, hem dünyayı hem ahireti besleyen büyük bir manevi sermayeye dönüşür.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

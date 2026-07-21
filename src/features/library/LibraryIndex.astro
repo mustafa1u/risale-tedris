@@ -1,0 +1,47 @@
+---
+import { libraryIndex } from "@/data/library.generated";
+import { getUi, type Locale } from "@/i18n";
+import { getGradeLabel } from "@/i18n/libraryLabels";
+import { localizedPath } from "@/i18n/routing";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const { locale } = Astro.props as { locale: Locale };
+const text = getUi(locale);
+---
+
+<BaseLayout title={text.library.pageTitle} description={text.library.lede} locale={locale}>
+  <section class="page-band library-page">
+    <div class="page-band__inner">
+      <header class="page-title library-page__intro">
+        <p class="eyebrow">{text.library.eyebrow}</p>
+        <h1>{text.library.heading}</h1>
+        <p class="lede">{text.library.lede}</p>
+      </header>
+
+      {libraryIndex.books.length === 0 ? (
+        <div class="empty-state">
+          {text.library.emptyManifestPrefix} <code>npm run manifest:generate</code> {text.library.emptyManifestSuffix}
+        </div>
+      ) : (
+        <div class="book-grid">
+          {libraryIndex.books.map((book) => (
+            <article class="book-card">
+              <div class="book-card__header">
+                <div>
+                  <h2 class="book-card__title">{book.title}</h2>
+                  <ul class="meta-list" aria-label={text.library.bookSummaryAria({ bookTitle: book.title })}>
+                    <li class="pill">{text.library.partCount({ count: book.partCount })}</li>
+                    {book.grades.map((grade) => (
+                      <li class="pill">{getGradeLabel(locale, grade.slug, grade.label)}</li>
+                    ))}
+                  </ul>
+                </div>
+                <a class="button" href={localizedPath(locale, `/books/${book.slug}/`)}>{text.actions.open}</a>
+              </div>
+            </article>
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>

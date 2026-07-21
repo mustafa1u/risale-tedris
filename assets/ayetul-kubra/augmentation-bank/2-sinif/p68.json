@@ -1,0 +1,778 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:2-sinif:p68",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "2-sinif",
+  "partNo": "p68",
+  "partNumber": 68,
+  "title": "Doğrudan marifet (19. mertebe) / 1. Hakikat: Gaibane arayıştan muhatabane marifete geçiş ve iki yolun ilanı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/2-sinif/SveC_2sinif_ayetul-kubra-p68-dogrudan-marifet-19-mertebe-1-hakikat-gaibane-arayistan-muhatabane-marifete-gecis-ve-iki-yolun-ilani.txt",
+  "sourceRevision": "265b51caf659078b2325b29881f0d758b9c7ef5844ee5331ced4a05558132d20",
+  "setCount": 6,
+  "questionCount": 64,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu adam dünyada kimi arıyor?",
+          "answer": "Dünyayı yaratanı arıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde Fatiha’dan verilen örnek neyi anlatıyor?",
+          "answer": "Uzak gibi anlatımdan doğrudan hitaba geçmeyi anlatıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Yolcu adam, yalnız uzaktan aramayı bırakıp ne yapmayı düşünüyor?",
+          "answer": "Aradığını, onu en iyi bilenden sormayı düşünüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Güneş örneği niçin veriliyor?",
+          "answer": "Bir şeyi gösterenin, kendini daha açık gösterdiğini anlatmak için veriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Allah’ı tanımada hangi yolla ilerlememiz gerektiği söyleniyor?",
+          "answer": "Allah’ın güzel isimleri ve yüce sıfatlarıyla tanımaya çalışmamız gerektiği söyleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Her insan Allah’ı aynı ölçüde mi tanır? Metne göre nasıl tanır?",
+          "answer": "Hayır, kendi gücü ve anlayışı kadar tanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Anlatılacak yolların sayısı çok mu az mı?",
+          "answer": "Çoktur, sayısızdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu çok yoldan bu risalede kaç tanesi seçiliyor?",
+          "answer": "İki yol seçiliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Seçilen iki yolda, her birinden kaç basamak ele alınıyor?",
+          "answer": "İkişer basamak değil, iki yolun mertebelerinden iki mertebe ele alınıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu mertebelerdeki birçok gerçekten burada ne kadarı anlatılıyor?",
+          "answer": "Yalnız iki hakikat anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Anlatım uzun uzun mu yapılıyor, kısa mı tutuluyor?",
+          "answer": "Kısa ve öz tutuluyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki yolcu nasıl bir insandır?",
+          "answer": "Meraklı ve istekli bir yolcudur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Yolcu, arayış sonunda hangi yüksek yere ulaşıyor?",
+          "answer": "Hakikatin yüce makamına ulaşıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Yolcu bu sözleri kime söylüyor?",
+          "answer": "Kendi ruhuna söylüyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre önceki arayış biçimi nasıldı?",
+          "answer": "Daha çok uzaktan ve dolaylı bir arayıştı.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Sonra hangi yeni yönteme geçmek istiyor?",
+          "answer": "Doğrudan doğruya tanımaya ve sormaya geçmek istiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "“Aradığımızı aradığımızdan sormalıyız” sözü neyi öğretir?",
+          "answer": "En doğru bilgiyi kaynağından aramayı öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Güneşi tanımak için metinde hangi örnek veriliyor?",
+          "answer": "Işığıyla onu görüp tanımak örneği veriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu örnekten sonra Allah’ı tanımak için hangi iki şeyden söz ediliyor?",
+          "answer": "Güzel isimlerinden ve kutsal sıfatlarından söz ediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre insanın Allah’ı tanıması sınırsız mı, ölçülü mü olur?",
+          "answer": "Ölçülü olur.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu ölçü neye bağlıdır?",
+          "answer": "İnsanın kabiliyetine bağlıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Risalede ele alınacak şeyler çok geniş olduğu hâlde neden az sayıda anlatılıyor?",
+          "answer": "Konu çok geniş olduğu için burada kısa bir özet yapılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın ana fikri nedir?",
+          "answer": "Allah’ı daha yakından, O’nun isim ve sıfatlarıyla tanımaya yönelmektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Dünyaya gelen yolcunun asıl amacı nedir?",
+          "answer": "Yaratanı bulup tanımaktır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Yolcu kaç basamaklı bir yükselişten söz ediyor?",
+          "answer": "On sekiz basamaklı bir yükselişten söz ediyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu yükseliş ona nasıl bir bilgi hâli kazandırıyor?",
+          "answer": "Uzak bilgi hâlinden yakın ve doğrudan bir tanımaya götürüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Fatiha örneğiyle hangi değişim anlatılıyor?",
+          "answer": "Uzak anlatımdan doğrudan konuşmaya geçiş anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Yolcu neden eski arama yolunu bırakmak istiyor?",
+          "answer": "Daha yakın ve daha açık bir tanıma yoluna geçmek istediği için.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre bir şeyi en iyi gösteren şey nedir?",
+          "answer": "O şeyi gösteren kaynak, kendisini de en iyi gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Güneşin ışığı bize neyi düşündürüyor?",
+          "answer": "Allah’ın da isim ve sıfatlarıyla tanınabileceğini düşündürüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Allah’ı tanımada insanın görevi nedir?",
+          "answer": "Gücü yettiği kadar tanımaya çalışmaktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde yollar ve basamaklar hakkında nasıl bir büyüklük anlatılıyor?",
+          "answer": "Çok çok fazla yol ve basamak olduğu anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Buna rağmen neden sadece iki hakikat anlatılacak?",
+          "answer": "Konuyu kısa ve öz anlatmak için.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S3Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Buradaki “icmal ve ihtisar” anlayışı ne demektir?",
+          "answer": "Kısaca özetleyerek anlatmak demektir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Fatiha’daki örnek, kulun Rabbine karşı hangi hâle geçmesini hatırlatıyor?",
+          "answer": "Yakınlık ve doğrudan yöneliş hâline geçmesini hatırlatıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Yolcuya göre yalnızca uzaktan bakmak niçin yeterli görülmüyor?",
+          "answer": "Çünkü daha açık ve doğrudan tanıma isteniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde “gösteren şey” olarak hangi örnek seçilmiştir?",
+          "answer": "Güneş seçilmiştir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Güneş örneğinden çıkarılan sonuç nedir?",
+          "answer": "Bir şeyi aydınlatan, kendisini de belli eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Allah’ı tanımak için özellikle nelere bakılması öğütleniyor?",
+          "answer": "Allah’ın isimlerine ve sıfatlarına bakılması öğütleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İnsan neden “kabiliyeti nisbetinde” tanır?",
+          "answer": "Çünkü herkesin anlayışı ve gücü aynı değildir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde anlatılacak konu dar mı, geniş mi gösteriliyor?",
+          "answer": "Çok geniş gösteriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu geniş konudan seçilen bölüm ne kadar?",
+          "answer": "Sadece iki yol, iki mertebe ve iki hakikat kadar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre burada ayrıntı mı özet mi vardır?",
+          "answer": "Özet vardır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu adamın kalbinde hangi iki güzel duygu vardır?",
+          "answer": "Merak ve istek vardır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yolcu, iman yolculuğunda yükselerek nereye kadar varıyor?",
+          "answer": "Gerçeğin yüksek makamına kadar varıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Metindeki değişim, “uzakta bilmekten” hangi hâle geçiştir?",
+          "answer": "Yakında ve doğrudan bilmeyi andıran hâle geçiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Yolcu, aradığı şeyi bulmak için nasıl bir yol seçiyor?",
+          "answer": "Doğrudan doğruya tanımaya çalışan bir yol seçiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu benzetmeye göre Allah’ı tanımada bize yardımcı olan şeyler nelerdir?",
+          "answer": "Allah’ın isimleri ve sıfatlarıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metin, insanın Allah’ı tamamen kuşatacağını mı söylüyor?",
+          "answer": "Hayır, ancak kendi ölçüsünce tanıyabileceğini söylüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde “hadsiz” denilerek ne vurgulanıyor?",
+          "answer": "Yol ve derece bakımından çokluk vurgulanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu çokluk içinden niçin az örnek seçiliyor?",
+          "answer": "Risalede kısa anlatım yapılacağı için.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Burada anlatılacak hakikat sayısı kaçtır?",
+          "answer": "İkidir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Dünyaya gelen yolcu neyi arayan bir kişidir?",
+          "answer": "Dünyanın sahibini ve yaratanını arayan bir kişidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre bu yolculuk sıradan bir gezi mi, imanla ilgili bir yükseliş mi?",
+          "answer": "İmanla ilgili bir yükseliştir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Yolcu hangi noktada yeni bir karar alıyor?",
+          "answer": "Yakın bir tanıma makamına yükselince yeni karar alıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu yeni karar nedir?",
+          "answer": "Uzak yoldan aramayı bırakıp doğrudan sormaktır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde niçin güneş örneği kullanılıyor?",
+          "answer": "Kendini açıkça belli eden şeyi anlatmak için kullanılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Güneş nasıl tanınır örneği verildikten sonra Allah için ne söyleniyor?",
+          "answer": "İsimleri ve sıfatlarıyla tanınmaya çalışılacağı söyleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Herkes bu tanımada aynı seviyede midir?",
+          "answer": "Değildir, herkes kendi kabiliyeti kadardır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde anlatılan yolların sayısı için nasıl bir ifade vardır?",
+          "answer": "Çok fazla olduğu ifade edilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "O yolların içinden burada kaç yol seçilmiştir?",
+          "answer": "İki yol seçilmiştir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu yolların derecelerinden kaç tanesi ele alınmıştır?",
+          "answer": "İki mertebe ele alınmıştır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Çok sayıda hakikat içinden burada kaç tanesi anlatılacaktır?",
+          "answer": "İki tanesi anlatılacaktır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p68:2-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p68:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin sonunda anlatım biçimi için hangi özellik öne çıkıyor?",
+          "answer": "Kısa, toplu ve özlü anlatım öne çıkıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

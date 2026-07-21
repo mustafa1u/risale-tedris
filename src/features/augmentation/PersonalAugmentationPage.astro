@@ -1,0 +1,56 @@
+---
+import { AUGMENTATION_ENABLED } from "@/config/features.js";
+import { PersonalAugmentationDetail } from "@/features/augmentation/AugmentationIslands.jsx";
+import { getUi, type Locale } from "@/i18n";
+import { getGradeExplanatoryLabel } from "@/i18n/libraryLabels";
+import { localizedPath } from "@/i18n/routing";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import type { GradeSlug, LibraryBook } from "@/types/library";
+
+type Props = {
+  book: LibraryBook;
+  locale: Locale;
+};
+
+const { book, locale } = Astro.props as Props;
+const text = getUi(locale);
+const gradeSlugs: GradeSlug[] = ["2-sinif", "5-sinif", "8-sinif", "11-sinif", "lisans"];
+const gradeLabels = Object.fromEntries(
+  gradeSlugs.map((gradeSlug) => [gradeSlug, getGradeExplanatoryLabel(locale, gradeSlug)])
+);
+---
+
+<BaseLayout title={text.augmentation.detailEyebrow} description={text.augmentation.personalDescription} locale={locale}>
+  <section class="page-band">
+    <div class="page-band__inner">
+      <nav class="breadcrumb" aria-label={text.common.breadcrumb}>
+        <a href={localizedPath(locale, "/")}>{text.nav.books}</a>
+        <span>/</span>
+        <a href={localizedPath(locale, `/books/${book.slug}/`)}>{book.title}</a>
+        <span>/</span>
+        <span>{text.augmentation.detailEyebrow}</span>
+      </nav>
+      <div class="page-title">
+        <p class="eyebrow">{text.augmentation.localBadge}</p>
+        <h1>{text.augmentation.detailEyebrow}</h1>
+        <p class="lede">{text.augmentation.personalDescription}</p>
+      </div>
+    </div>
+  </section>
+  <section class="page-band page-band--muted">
+    <div class="page-band__inner">
+      {AUGMENTATION_ENABLED ? (
+        <PersonalAugmentationDetail
+          client:load
+          bookSlug={book.slug}
+          locale={locale}
+          labels={text.augmentation}
+          gradeLabels={gradeLabels}
+        />
+      ) : (
+        <p class="empty-state">{text.augmentation.loadError}</p>
+      )}
+    </div>
+  </section>
+</BaseLayout>
+

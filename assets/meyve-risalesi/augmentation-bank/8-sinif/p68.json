@@ -1,0 +1,1009 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:8-sinif:p68",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "8-sinif",
+  "partNo": "p68",
+  "partNumber": 68,
+  "title": "10. Mes'ele / Emirdağı Çiçeği: Cevşen tekrarı misali ve tekrarat-ı Kur'aniyenin esası",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/8-sinif/SveC_8sinif_meyve-risalesi-p68-10-mesele-emirdagi-cicegi-cevsen-tekrari-misali-ve-tekrarat-i-kuraniyenin-esasi.txt",
+  "sourceRevision": "1f6bb05f566149b127631130e624434b9e865ee5e56f312fee244698677eda67",
+  "setCount": 6,
+  "questionCount": 83,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde geçen Peygamberimizin münacatı olan eserin adı nedir?",
+          "answer": "Cevşenü'l-Kebir'dir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu münacat, Kur’an ile nasıl bir ilişki içinde tanıtılıyor?",
+          "answer": "Kur’an’dan çıkan bir özet gibi ve Kur’an’a dayanan gerçek bir yakarış olarak tanıtılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu münacatta sözü edilen cümle kaç defa tekrar edilmektedir?",
+          "answer": "Yüz defa tekrar edilmektedir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu tekrarın önemli görülmesinin ilk sebebi hangi inanç esasıyla ilgilidir?",
+          "answer": "Allah’ın birliğini bildiren tevhid hakikatiyle ilgilidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Tekrarda öne çıkan ikinci önemli kulluk görevi hangisidir?",
+          "answer": "Allah’ı her türlü eksikten uzak bilip O’nu yüceltmektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre mahlukatın rububiyete karşı büyük vazifelerinden en önemlisi hangi başlık altında anılmıştır?",
+          "answer": "Tesbih ve takdis başlığı altında anılmıştır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İnsan için burada en korkutucu mesele olarak ne gösterilmiştir?",
+          "answer": "Sonsuz mutsuzluğa ve azaba düşme tehlikesinden kurtulma meselesi gösterilmiştir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu duadaki tekrar, insanın hangi yönüyle bağlantılı olarak gerekli görülüyor?",
+          "answer": "Kulluk hali ve insanın güçsüz oluşuyla bağlantılı görülüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre bu cümle binlerce kez söylense bile neden fazla sayılmaz?",
+          "answer": "Çünkü çok büyük hakikatleri içerir ve insanın en temel ihtiyacına cevap verir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Kur’an’daki tekrarlar genel olarak neye dayandırılıyor?",
+          "answer": "Sağlam ve temel esaslara dayandırılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Namazdan sonra yapılan tesbihat örneği, tekrar hakkında hangi düşünceyi desteklemek için verilmiştir?",
+          "answer": "Bazı ibadetlerde tekrarın sünnete uygun ve faydalı olduğunu göstermek için verilmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Metne göre bazen bir sayfada birçok defa açık veya dolaylı biçimde hangi hakikat anlatılır?",
+          "answer": "Tevhid hakikati anlatılır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Bu tür tekrarlar insanda nasıl bir etki bırakır?",
+          "answer": "Bıkkınlık değil, kuvvet, istek ve tatlılık verir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Risale-i Nur’da Kur’an tekrarları hakkında nasıl bir hüküm verildiği söyleniyor?",
+          "answer": "Bu tekrarların yerinde, uygun ve belagat bakımından kabul edilebilir olduğu delillerle açıklandığı söyleniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada sözü edilen tekrar, hangi dua metninde yer almaktadır?",
+          "answer": "Cevşenü'l-Kebir’de yer almaktadır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu dua metni, Peygamber Efendimizle nasıl ilişkilendirilmektedir?",
+          "answer": "Ona ait bir münacat olarak gösterilmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Cevşenü'l-Kebir için Kur’an açısından nasıl bir niteleme yapılmıştır?",
+          "answer": "Kur’an’dan süzülmüş bir özet gibi olduğu ifade edilmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Tekrar edilen sözün merkezindeki en büyük hakikat hangisidir?",
+          "answer": "Allah’ın tek ilah olması hakikatidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanlık açısından en ağır mesele olarak ne öne çıkarılmıştır?",
+          "answer": "Ahirette felakete uğramaktan kurtulma meselesi öne çıkarılmıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "İnsan aczinin ve kulluğunun en gerekli sonucu olarak ne anlatılmaktadır?",
+          "answer": "Allah’a sığınma ve kurtuluş isteme anlatılmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre bu kadar önemli konular geçtiği için tekrarın ölçüsü nasıl değerlendirilmektedir?",
+          "answer": "Çok tekrar edilse bile az görülmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an tekrarlarının dayandığı esaslarla sünnet olan tekrarlar arasında nasıl bir benzerlik kuruluyor?",
+          "answer": "İkisinin de ibadette hikmetli ve yerli yerinde olduğu gösteriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bazen bir sayfada yirmi kere anlatıldığı belirtilen ana konu nedir?",
+          "answer": "Tevhid konusudur.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu anlatım bazen hangi iki yolla yapılır?",
+          "answer": "Bazen açıkça, bazen de dolaylı olarak yapılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Metne göre doğru yerde yapılan tekrar okuyucuda hangi olumsuz duyguyu oluşturmaz?",
+          "answer": "Usanç oluşturmaz.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Bunun yerine hangi üç olumlu sonuç meydana gelir?",
+          "answer": "Güç, şevk ve tatlı bir lezzet meydana gelir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S2Q12"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Parçanın sonuna göre Risale-i Nur, Kur’an’daki tekrarlar hakkında ne yapmıştır?",
+          "answer": "Onların uygunluğunu ve belagat yönünden değerini delilleriyle açıklamıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada örnek verilen tekrar, hangi tür bir metinde geçmektedir?",
+          "answer": "Bir münacatta, yani Allah’a yakarış metninde geçmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu münacatın adı nedir?",
+          "answer": "Cevşenü'l-Kebir’dir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre bu münacat Kur’an’dan tamamen kopuk mudur, yoksa Kur’an’la bağlantılı mıdır?",
+          "answer": "Kur’an’la bağlantılıdır; ondan çıkan bir öz gibidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Tekrarın gerekçeleri arasında ilk sırada hangi inanç konusu vardır?",
+          "answer": "Tevhid vardır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Allah’ı noksan sıfatlardan uzak bilmek ve yüceltmek, metinde hangi kavramlarla anlatılmıştır?",
+          "answer": "Tesbih ve takdis kavramlarıyla anlatılmıştır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu iki kavram neden büyük önem taşır?",
+          "answer": "Çünkü yaratılmışların Allah’a karşı yerine getirdiği en önemli görevlerden biridir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İnsan için sonsuz hayat açısından hangi ihtiyaç vurgulanmaktadır?",
+          "answer": "Ebedî felaketten kurtulma ihtiyacı vurgulanmaktadır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metin, insanın sınırlı gücünü hangi ifadeyle ilişkilendiriyor?",
+          "answer": "Acizlik ve kulluk haliyle ilişkilendiriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu yüzden aynı sözün çok defa söylenmesi nasıl karşılanmaktadır?",
+          "answer": "Gerekli ve hatta az bile sayılacak bir şey olarak karşılanmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Kur’an’daki tekrarlar gelişigüzel değilse, neye yönelmiştir?",
+          "answer": "Güçlü ve temel manalara yönelmiştir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Namaz tesbihatı örneği neden anılmıştır?",
+          "answer": "İbadette tekrarın meşru ve faydalı olduğunu göstermek için anılmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bazen tek bir sayfada çok defa vurgulanan esas nedir?",
+          "answer": "Allah’ın birliği esasıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Bu vurgunun okuyan veya dinleyende bıraktığı etki nedir?",
+          "answer": "Bezginlik vermez; tam tersine canlılık ve manevi tat verir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S3Q12"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Risale-i Nur’un bu meseledeki görevi nasıl özetlenebilir?",
+          "answer": "Kur’an tekrarlarının hikmetli ve güzel olduğunu delillerle ortaya koymak olarak özetlenebilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde Peygamberimizin yakarışı olarak tanıtılan eser hangisidir?",
+          "answer": "Cevşenü'l-Kebir’dir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu eser, Kur’an bakımından nasıl tarif edilmektedir?",
+          "answer": "Kur’an’ın hakiki bir münacatı ve ondan süzülmüş bir öz olarak tarif edilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İçindeki aynı cümle kaç kez tekrar edilmektedir?",
+          "answer": "Yüz kez tekrar edilmektedir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu cümlenin tekrarında en büyük hakikat olarak hangi mesele görülmektedir?",
+          "answer": "Tevhid meselesi görülmektedir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Yaratılmışların Allah’ın terbiyesine karşı önemli görevi olarak hangi davranış öne çıkarılmıştır?",
+          "answer": "Allah’ı yüceltip eksikliklerden uzak bilmeleri öne çıkarılmıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İnsan neslinin en korkunç sorunu olarak ne anlatılmaktadır?",
+          "answer": "Ebedî sıkıntıdan ve cehennemlik olmaktan kurtulma sorunu anlatılmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Kulluk ve insanın zayıflığı bu tekrarın hangi yönünü açıklar?",
+          "answer": "Neden çok gerekli olduğunu açıklar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Parçaya göre bu sözün binlerce tekrar edilmesi nasıl değerlendirilir?",
+          "answer": "Yine de çok görülmez; ihtiyaç devam eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an tekrarlarının bağlı olduğu esaslar nasıl nitelenmiştir?",
+          "answer": "Sağlam ve güçlü temeller olarak nitelenmiştir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Namaz tesbihatı örneği hangi hükme örnek yapılmıştır?",
+          "answer": "İbadette bazı tekrarların sünnet olduğuna örnek yapılmıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Bazen bir sahifede yirmi defa anlatıldığı belirtilen hakikat hangisidir?",
+          "answer": "Tevhid hakikatidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu anlatım yalnız açık şekilde mi olur?",
+          "answer": "Hayır, hem açık hem de dolaylı şekilde olabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Metne göre Kur’an’daki bu tekrarların duygu üzerindeki sonucu nedir?",
+          "answer": "Sıkılma yerine manevi güç, istek ve hoşluk vermesidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "Son cümlede Risale-i Nur’un hangi yönü vurgulanmaktadır?",
+          "answer": "Kur’an’daki tekrarların uygunluğunu ve belagat değerini delillerle açıklaması vurgulanmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Hangi dua metni, Kur’an’ın bir çeşit özeti sayılarak örnek gösterilmiştir?",
+          "answer": "Cevşenü'l-Kebir örnek gösterilmiştir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu metin kime ait bir münacat olarak sunulmaktadır?",
+          "answer": "Peygamber Efendimize ait bir münacat olarak sunulmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Tekrarlanan ifadenin yüz defa söylenmesi neyin önemini göstermektedir?",
+          "answer": "İçerdiği manaların çok büyük ve gerekli olduğunu göstermektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu manalardan biri olan tevhid neden çok büyük görülmektedir?",
+          "answer": "Çünkü bütün kâinatı ilgilendiren en büyük gerçek olarak görülmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Tesbih ve takdisin önemi, mahlukat açısından nasıl açıklanmıştır?",
+          "answer": "Allah’ın rububiyetine karşı yerine getirilen büyük vazifeler içinde başta gelenlerden olduğu açıklanmıştır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İnsan için en ağır mesele olarak geçen konu nedir?",
+          "answer": "Sonsuz azaptan ve ebedî bedbahtlıktan kurtulma konusudur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Metin, bu duayı insanın hangi haliyle uygun görmektedir?",
+          "answer": "Aciz ve muhtaç kul olma haliyle uygun görmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu sebepler bir araya gelince tekrar hakkında hangi sonuca varılıyor?",
+          "answer": "Çok fazla tekrar edilse bile yine gerekli olduğu sonucuna varılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an tekrarları daha çok yüzeysel konulara mı, temel esaslara mı bakar?",
+          "answer": "Temel esaslara bakar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Namaz tesbihatı ile Kur’an tekrarları arasında nasıl bir ilişki kurulmuştur?",
+          "answer": "İkisinde de tekrarın ibadetin hikmetine uygun olduğu gösterilmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bazen bir sayfada birçok defa belirtilen inanç esası hangisidir?",
+          "answer": "Allah’ın birliği inancıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu esas hangi iki tarzla ifade edilebilir?",
+          "answer": "Doğrudan veya işaret yoluyla ifade edilebilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Bu çeşit tekrarın okuyana üç faydası nedir?",
+          "answer": "Dayanıklılık verir, şevk uyandırır ve gönülde tat bırakır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Risale-i Nur bu konu hakkında neyi ispat etmeye çalışmaktadır?",
+          "answer": "Kur’an’daki tekrarların yerli yerinde ve belagat bakımından uygun olduğunu ispat etmeye çalışmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde örnek verilen Peygamberî yakarışın adı nedir?",
+          "answer": "Cevşenü'l-Kebir’dir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yakarışın Kur’an’la bağı nasıl anlatılmıştır?",
+          "answer": "Kur’an’dan çıkan bir hülasa ve onun gerçek bir münacatı gibi anlatılmıştır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İçindeki aynı niyaz ifadesinin yüz kez söylenmesi hangi düşünceyi destekler?",
+          "answer": "Büyük hakikatler için tekrarın gerekli olduğunu destekler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu hakikatlerden biri olan tevhid, metinde hangi büyüklükte sunulmaktadır?",
+          "answer": "Kâinat çapında en büyük hakikat olarak sunulmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Tesbih ve takdis neden sıradan bir görev değil, çok önemli bir görev sayılmaktadır?",
+          "answer": "Çünkü bütün mahlukatın Allah’a karşı temel vazifeleri arasında önemli bir yere sahiptir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde insanlığın en ürkütücü problemi hangi başlık altında ele alınmıştır?",
+          "answer": "Ebedî felaketten kurtuluş başlığı altında ele alınmıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Ubudiyet ve insanın aczi, bu duadaki tekrarın hangi yönünü açıklar?",
+          "answer": "İnsanın sürekli Allah’a yönelmeye muhtaç olduğunu açıklar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu nedenle aynı sözün binlerce kez söylenmesi hakkında nasıl bir hüküm veriliyor?",
+          "answer": "Bunun bile fazla olmayacağı belirtiliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an’daki tekrarların asıl hedefi nedir?",
+          "answer": "Kuvvetli ana esasları yerleştirmektir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde ibadetlerde tekrarın sünnete uygun oluşuna hangi örnek verilmiştir?",
+          "answer": "Namaz tesbihatı örneği verilmiştir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bazen bir sayfada çokça ifade edilen ana gerçek nedir?",
+          "answer": "Tevhid gerçeğidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu ifade ediliş biçimi yalnız açık cümlelerle mi sınırlıdır?",
+          "answer": "Hayır, açık ifadeler yanında örtülü anlatımla da olabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Doğru yerde yapılan bu tekrarlar, insanın ruh hâlini nasıl etkiler?",
+          "answer": "Yormaz; aksine kuvvetlendirir, istek verir ve hoş bir tat bırakır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p68:8-sinif:S6Q12"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p68:8-sinif:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Parçanın son cümlesine göre Risale-i Nur bu konuda nasıl bir katkı sunmaktadır?",
+          "answer": "Kur’an’daki tekrarların ne kadar uygun ve belagatli olduğunu delilleriyle göstermektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

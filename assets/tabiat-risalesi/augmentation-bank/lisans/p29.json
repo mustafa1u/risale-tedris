@@ -1,0 +1,678 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:lisans:p29",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "lisans",
+  "partNo": "p29",
+  "partNumber": 29,
+  "title": "2. Sual: Vahdet-kesret mukayesesi için misaller ve bir sonraki sırra geçiş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/lisans/SveC_lisans_tabiat-risalesi-p29-2-sual-vahdet-kesret-mukayesesi-icin-misaller-ve-bir-sonraki-sirra-gecis.txt",
+  "sourceRevision": "31705afe6d8b1d8ba7840f3f74036b935c0327e3ec972942ee6b9ef477e5870d",
+  "setCount": 6,
+  "questionCount": 57,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, çok sayıda askerin tek bir idareye bağlanması hangi bakımdan daha kolay gösterilmektedir?",
+          "answer": "Düzenin tek elde toplanması sebebiyle sevk ve idarenin daha rahat yürüdüğü anlatılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bir askerin birçok ayrı amire bırakılması niçin daha zor kabul edilmektedir?",
+          "answer": "Çünkü tek bir iş için dağınık emir, farklı merkezler ve çoklu düzenekler gerekir; bu da işi ağırlaştırır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Asker örneğiyle verilmek istenen asıl fikir nedir?",
+          "answer": "Birlik altında işlerin kolaylaştığı, dağınıklıkta ise güçleştiği fikridir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Ağaç misalinde, çok sayıdaki meyvenin kolay meydana gelmesi neye bağlanmaktadır?",
+          "answer": "Ortak bir kök, merkez ve işleyişe bağlı olmalarına bağlanmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Meyvelerin ihtiyaçlarının ayrı ayrı yerlerden karşılandığı varsayıldığında nasıl bir sonuç çıkar?",
+          "answer": "Her bir meyvenin ortaya çıkışı çok daha çetin hale gelir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu iki misal birlikte hangi inancı desteklemektedir?",
+          "answer": "Varlıkların tek yaratıcıya nisbet edilmesinin akla daha uygun ve daha kolay olduğunu desteklemektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p29:lisans:S1Q1",
+            "tabiat-risalesi:p29:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada, çok sayıda varlığın birlik içinde kolay meydana gelmesine karşılık, ortak koşma halinde nasıl bir terslikten söz edilmektedir?",
+          "answer": "Çok olanın kolay, tekin ise daha zor hale geleceği akla aykırı bir durumdan söz edilmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Müellif, bu konunun bazı yönlerini neden başka risalelere havale etmektedir?",
+          "answer": "Çünkü meselenin temel ispatlarının başka yerlerde geniş biçimde ele alındığını bildirip burada belirli bir sırra yoğunlaşmaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümde açıklanacağı belirtilen özel nokta hangi açıdan ele alınacaktır?",
+          "answer": "İlâhî ilim, kader ve kudret açısından ele alınacaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada geçen asker düzeni örneği, merkeziyet ile dağınıklık arasında nasıl bir karşılaştırma kurmaktadır?",
+          "answer": "Tek merkezli yapı kolaylık doğururken, parçalı yapı zorluk doğurmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bir ordunun donatımının tek bir otoriteye bağlanması neden neredeyse tek asker kadar kolay sayılmaktadır?",
+          "answer": "Çünkü ortak sistem, tek yasa ve tek kaynak sayesinde işler tekrar tekrar kurulmadan yürür.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Buna karşılık tek bir askerin donatımı neden bütün ordu kadar zorlaşabilmektedir?",
+          "answer": "Çünkü dağınık düzende tek kişi için bile çok sayıda üretim ve idare unsuruna ihtiyaç doğar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Ağaç örneğinde “birlik sırrı” hangi düzeni anlatmaktadır?",
+          "answer": "Hayat için gerekli unsurların tek kaynaktan ve ortak bir kanunla verilmesini anlatmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Ağacın çok meyve vermesine rağmen kolaylıkla ayakta tutulması hangi sonucu düşündürür?",
+          "answer": "Düzenin çoklukta değil, yönetimin birliğinde kolaylık sağladığını düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Her meyvenin beslenmesinin ayrı ayrı düşünülmesi neden güçlük doğurur?",
+          "answer": "Çünkü her biri için müstakil bir tedarik sistemi kurulmuş gibi olur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Çekirdeğin ağacın bir özeti ve fihristi gibi görülmesi neyi ifade eder?",
+          "answer": "Küçük bir varlıkta büyük bir yapının plan ve özelliklerinin toplandığını ifade eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre, birlikten uzaklaşıp çoklu sebeplere yönelmenin düşünsel sonucu nedir?",
+          "answer": "Yaratmayı basitleştirmek yerine daha karmaşık ve açıklanamaz hale getirmesidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Yüzler misal” ifadesi neyi göstermektedir?",
+          "answer": "Bu sonucun tek tük örneğe değil, birçok gözleme dayandığını göstermektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajın ana hükmü bir cümleyle nasıl özetlenebilir?",
+          "answer": "Tek yaratıcıya nisbet edilen varlıklar kolay anlaşılır; çoklu sebeplere dağıtıldığında mesele çıkmaza girer.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki ilk örnekte, sayı çokluğuna rağmen kolaylığın ortaya çıkması neye dayandırılmaktadır?",
+          "answer": "Emir ve düzenin tek noktada toplanmasına dayandırılmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Dağınık idarenin zorluk doğurması sadece emir sayısıyla mı ilgilidir, yoksa başka unsurlar da var mıdır?",
+          "answer": "Başka unsurlar da vardır; merkezlerin, üretim yerlerinin ve yöneticilerin çoğalması da zorluğu artırır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde neden bir askerin ihtiyaçları için bütün orduya lazım olan imkânlara işaret edilmektedir?",
+          "answer": "Küçük bir işin bile dağınık düzende büyük bir sistem gerektireceğini göstermek için işaret edilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Ağaç ve meyve örneği, asker örneğini hangi yönden tamamlamaktadır?",
+          "answer": "Biri insan düzeninden, diğeri tabiattaki canlı yapıdan misal vererek aynı hakikati iki alanda göstermektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Ağaçtan meyveye uzanan açıklama, varlıkların oluşumunda hangi temel ilkeyi öne çıkarır?",
+          "answer": "Ortak kaynak ve ortak düzen ilkesini öne çıkarır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Çekirdeğin de zorlaşacağı söylenirken hangi akıl yürütme kullanılmaktadır?",
+          "answer": "Küçük bir yapının da büyük yapının yaşaması için gereken esasları taşıdığı düşüncesi kullanılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada “vahdet” ile “kesret” karşılaştırması hangi sonuca bağlanmaktadır?",
+          "answer": "Birlikte kolaylık, dağınıklıkta ise ağırlaşma ve karmaşa sonucuna bağlanmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Müellifin burada uzun ispat yerine kısa işaretlerle yetinmesi hangi öğretim yöntemine örnek sayılabilir?",
+          "answer": "Önceden kurulmuş delilleri hatırlatıp yeni noktaya odaklanan özetleyici bir yönteme örnek sayılabilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu pasaj sadece gözleme mi dayanıyor, yoksa düşünmeye de çağırıyor mu?",
+          "answer": "Hem gözleme dayanıyor hem de aklî kıyas yapmaya çağırıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Üniversite düzeyinde bu parçadan çıkarılabilecek temel kavramsal ders nedir?",
+          "answer": "Düzen, birlik ve merkezilik; açıklamada sadelik ve tutarlılık sağlar, çoklu bağımsız sebepler ise meseleyi zorlaştırır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Tek komutan altında toplanan çok sayıda nefer örneği hangi mantık ilkesini güçlendirmektedir?",
+          "answer": "Ortak idarenin işleri sadeleştirdiği ilkesini güçlendirmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bir neferin birçok merkeze bağlanması, anlatımda neyin sembolü gibi durmaktadır?",
+          "answer": "Sebeplerin dağınık ve bağımsız kabul edilmesinin sembolü gibi durmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Ordunun donatımı ile ağacın beslenmesi arasında nasıl bir benzerlik kurulmaktadır?",
+          "answer": "İkisinde de merkezî düzen bulunduğunda çokluk problem olmaktan çıkmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Ağacın bir meyve kadar kolay gösterilmesi tam olarak neyi anlatmak içindir?",
+          "answer": "Sayıca fazlalığın, eğer düzen tek kaynağa bağlıysa güçlük sebebi olmadığını anlatmak içindir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Her meyvenin ayrı ayrı kaynaklardan beslendiğini düşünmek neden tabii akışa aykırıdır?",
+          "answer": "Çünkü bu, tek bir canlı yapı içindeki düzeni bozup gereksiz çoğalma ve karışıklık meydana getirir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada geçen çok sayıdaki örneklerin ortak verdiği hüküm nedir?",
+          "answer": "Birlik düşüncesi kolaylık verir, ortak koşma ve çoklu sebep anlayışı ise güçlük doğurur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Burada sözü edilen kolaylık sadece maddî bir kolaylık mıdır?",
+          "answer": "Hayır, aynı zamanda aklî ve izah bakımından da bir kolaylıktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Son cümlede yapılacağı söylenen açıklama, önceki örneklerden hangi bakımdan ileri bir aşamadır?",
+          "answer": "Somut misallerden hareket edip meseleyi ilâhî ilim, kader ve kudret çerçevesinde daha derin ele alma aşamasıdır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada ordunun hazırlanmasıyla ilgili verilen misal, birden çoğa mı yoksa çoktan bire mi yönetimin daha uygun olduğunu göstermektedir?",
+          "answer": "Çoktan bire, yani çok unsurun tek idare altında toplanmasının daha uygun olduğunu göstermektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Tek bir askerin hazırlığının zorlaşması hangi şart altında ortaya çıkmaktadır?",
+          "answer": "İşin çeşitli merkezlere ve farklı idarecilere dağıtılması şartında ortaya çıkmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu durumun nedeni olarak metinde hangi ihtiyaç öne çıkarılmaktadır?",
+          "answer": "Tek bir unsur için bile geniş çaplı araç ve imkânların gerektiği öne çıkarılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Ağaç örneğinde kök ve merkez vurgusu neyi temsil etmektedir?",
+          "answer": "Besleme ve idarenin tek kaynaktan yürütülmesini temsil etmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Binlerce meyveye rağmen ağacın kolaylıkla varlığını sürdürmesi hangi fikre delil yapılmaktadır?",
+          "answer": "Çokluğun, birlik düzeni içinde engel oluşturmadığı fikrine delil yapılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Meyvelerin ayrı ayrı kaynaklara bağlanması halinde ortaya çıkan zorluk nasıl anlaşılmalıdır?",
+          "answer": "Her bir meyve sanki bağımsız bir ağaç gibi ele alınmış olur; bu da açıklamayı ağırlaştırır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Çekirdek misali, küçük ile büyük arasındaki hangi ilişkiyi öğretmektedir?",
+          "answer": "Küçüğün, büyüğün özeti ve planı olabileceği ilişkisini öğretmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "“Şirkte ve kesrette” ifadesi burada hangi anlam çerçevesinde kullanılmaktadır?",
+          "answer": "Varlıkları tek yaratıcı yerine dağınık sebeplere paylaştırma anlam çerçevesinde kullanılmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Müellifin “başka yerde ispat edildi” demesi, bu bölümün işlevini nasıl belirler?",
+          "answer": "Bu bölümün temel delilleri yeniden kurmaktan çok, onların bir sonucunu ve ince yönünü göstermeyi amaçladığını belirler.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Tüm pasaj dikkate alındığında, öğrencinin zihninde yerleşmesi beklenen ana düşünce nedir?",
+          "answer": "Kâinattaki düzeni anlamada birlik esastır; dağınık sebepler anlayışı hem aklen hem tasvir bakımından daha zorlayıcıdır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İlk misalde, yüz kişinin tek bir idareciye bağlanması ile tek kişinin çok sayıda idareciye bağlanması arasında nasıl bir fark kuruluyor?",
+          "answer": "İlkinde düzen sadeleşiyor, ikincisinde ise gereksiz karmaşa artıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Ordunun donatımı neden ortak merkez, ortak kural ve tek irade altında daha pratik görülmektedir?",
+          "answer": "Çünkü bütün ihtiyaçlar tek sistem içinde karşılanınca tekrar ve dağınıklık azalır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Aynı mantıkla, bir kişinin hazırlığının neden büyütülmüş bir meseleye dönüştüğü söylenmektedir?",
+          "answer": "Çünkü iş parçalanınca küçük ihtiyaçlar bile büyük bir teşkilat gerektirir hale gelir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Ağaç örneği, hayat unsurlarının tek merkezden verilmesini nasıl bir sonuçla ilişkilendiriyor?",
+          "answer": "Çok sayıdaki ürünün rahat ve düzenli biçimde ortaya çıkması sonucu ile ilişkilendiriyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Ağacın meyveleri için ayrı ayrı kaynaklar tasarlamak hangi bakımdan isabetsiz gösterilmektedir?",
+          "answer": "Hem tabiî düzeni bozduğu hem de açıklamayı gereksiz yere zorlaştırdığı bakımdan isabetsiz gösterilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Çekirdeğin ağaç kadar zor olabileceği düşüncesi hangi durumda ortaya çıkar?",
+          "answer": "Birlikten koparılıp her şeyin dağınık sebeplerle açıklanmaya çalışıldığı durumda ortaya çıkar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre, sayıca çok olan varlıkların kolay yaratılması nasıl mümkün görünmektedir?",
+          "answer": "Hepsi tek bir kudrete bağlandığında mümkün ve makul görünmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Buna karşılık tek bir varlığın bile zorlaşması neyin göstergesidir?",
+          "answer": "Çoklu sebepler anlayışının meseleyi çözmek yerine içinden çıkılmaz hale getirdiğinin göstergesidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölümdeki örnekler hangi yöntemle ikna etmeye çalışmaktadır?",
+          "answer": "Benzetme, kıyas ve gözle görülen düzen üzerinden ikna etmeye çalışmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p29:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın sonunda yeni açıklamaya geçilmeden önce hangi hazırlık yapılmış oluyor?",
+          "answer": "Birlikte kolaylık fikri misallerle zihne yerleştirilmiş ve daha derin açıklama için zemin hazırlanmış oluyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

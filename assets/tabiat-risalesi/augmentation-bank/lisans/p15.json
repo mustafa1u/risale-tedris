@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:lisans:p15",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "lisans",
+  "partNo": "p15",
+  "partNumber": 15,
+  "title": "3. muhal / 1. misal: saray temsili ve defteri yapıcı sanma hezeyanı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/lisans/SveC_lisans_tabiat-risalesi-p15-3-muhal-1-misal-saray-temsili-ve-defteri-yapici-sanma-hezeyani.txt",
+  "sourceRevision": "9f94704ea195ab379992039e72060693231eebc848e109fe09747e360f082fdb",
+  "setCount": 6,
+  "questionCount": 35,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü muhalin başında hangi yöntemle açıklama yapılacağı bildirilmektedir?",
+          "answer": "Konunun iki örnek üzerinden anlaşılır hale getirileceği bildirilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İlk örnekteki boş arazide bulunan yapı nasıl bir yer olarak tasvir edilmektedir?",
+          "answer": "Medeniyet eserleriyle donatılmış, süslenmiş ve düzenli şekilde kurulmuş büyük bir yapı olarak anlatılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İlk örnekte saraya giren kişinin temel özelliği nedir?",
+          "answer": "Kaba, anlayıştan uzak ve doğru değerlendirme yapamayacak derecede şaşkın bir kimse olmasıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu kişi saraydaki düzenli eşyaları görünce önce nasıl bir yanlış arayışa giriyor?",
+          "answer": "Dışarıdan bir yapanı kabul etmeyip içerideki eşyalardan birinin bütün sarayı meydana getirdiğini düşünmeye çalışıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Vahşi adam neden saraydaki tek tek nesneleri kurucu sebep olarak kabul edemiyor?",
+          "answer": "Çünkü onların böylesine büyük ve düzenli bir yapıyı kurmaya elverişli olmadığını kendisi de fark ediyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Sonra gördüğü deftere niçin özel bir anlam yüklüyor?",
+          "answer": "Sarayın düzeni ve işleyişiyle ilgili bilgileri taşıdığı için onu diğer eşyalara göre daha ilgili buluyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre o defterin sarayı fiilen kurup düzenlemesi neden mümkün değildir?",
+          "answer": "Çünkü onda görme, tutma, yapma ve uygulama gücü yoktur; sadece bilgi ve kayıt niteliği taşır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Buna rağmen adamın defteri kurucu gibi görmesi neyi göstermektedir?",
+          "answer": "Delile dayalı bir akıl yürütme değil, mecbur kalmış yanlış bir vehim içinde olduğunu göstermektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu ilk misal ile eleştirilen düşünce biçimi nedir?",
+          "answer": "Kanun, plan veya tarif mahiyetindeki bir şeyi gerçek yapıcı ve yaratıcı yerine koyma yanlışlığıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İlk örnekteki sarayın özellikleri, içinde bulunduğu çevreyle birlikte nasıl bir anlam taşır?",
+          "answer": "Issız bir yerde böylesine düzenli ve sanatlı bir yapının bulunması, bilinçli bir yapıcıyı daha açık hale getirir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Saraya giren kişinin dışarıdan bir müdahaleyi reddetmesi onu nasıl bir çıkmaza sokuyor?",
+          "answer": "Açık gerçeği kabul etmediği için içerideki yetersiz şeylerden birine kurucu rolü vermeye mecbur kalıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Adamın tek tek eşyalara bakıp hiçbirini yeterli bulamaması neyi ortaya koyar?",
+          "answer": "Sarayın parçalarının, bütünün sebebi olamayacağını dolaylı biçimde itiraf ettiğini ortaya koyar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Defterin diğer eşyalardan farkı ne olduğu için adam onu seçiyor?",
+          "answer": "Düzen, plan ve kayıtla ilişkili görünmesi sebebiyle onu daha uygun sanıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Defterin işlevi ile adamın ona yüklediği rol arasındaki temel fark nedir?",
+          "answer": "Defter en fazla bilgi taşıyabilir; fakat adam ona fiilen yapma ve yerleştirme görevi yüklüyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Metin bu davranışı hangi bakımdan eleştiriyor?",
+          "answer": "Cehaletin zorlamasıyla, soyut düzeni gerçek fail yerine koyduğu için eleştiriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S2Q6"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki ilk örnekte sarayın içindeki eşyalarla ilgili hangi özellik özellikle öne çıkarılıyor?",
+          "answer": "Çok sayıda, düzenli ve sanatlı olmaları öne çıkarılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Vahşi adamın yaptığı temel hata hangi noktada başlıyor?",
+          "answer": "Yapıyı meydana getiren asıl faili baştan devre dışı bırakmasında başlıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Defterin program ve fihrist niteliğinde olması, onun hangi sınırını gösterir?",
+          "answer": "Kendiliğinden icra ve üretim yapamayacağını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metin, böyle bir isnadı hangi ruh hâliyle ilişkilendiriyor?",
+          "answer": "Akıldan uzaklaşmış, ölçüsüz ve hezeyanlı bir hâlle ilişkilendiriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İlk misalde “mecburen” yanlış sonuca gitme ne demektir?",
+          "answer": "Hakiki sebebi reddeden kişinin, mantıksız da olsa başka bir dayanak uydurmak zorunda kalması demektir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü muhaldeki ilk temsilde insanın içine girdiği mekân hangi bakımdan dikkat çekicidir?",
+          "answer": "Boş bir yerde bulunmasına rağmen son derece düzenli ve süslü bir yapı olması bakımından dikkat çekicidir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "O kişinin zihniyeti, gördüğü sanatlı yapıya karşı nasıl bir tavır alıyor?",
+          "answer": "Açık delili kabul etmeyip yanlış açıklamalar üretmeye yöneliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Saraydaki eşyalardan birinin bütün yapıyı kurduğunu aramak neden mantıksızdır?",
+          "answer": "Parça olan bir şeyin, kendisini de aşan büyük düzenin bağımsız kurucusu olması düşünülemez.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Defterin sarayla ilgili olması, onu neden gerçek fail yapmaz?",
+          "answer": "Bir şeyle ilgili bilgi taşıması, onu meydana getirme kudreti verdiği anlamına gelmez.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "İlk misaldeki vahşi adamın saraya bakışında en büyük eksiklik nedir?",
+          "answer": "Yapının arkasındaki bilinçli yapıcıyı hesaba katmamasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Sarayın içindeki düzenli eşyalar, aslında hangi gerçeğe işaret eder?",
+          "answer": "Yüksek bir planlama, düzenleme ve sanat sahibine işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "O kişinin “içerideki bir şey yapmıştır” düşüncesi neden kendi içinde tutarsızdır?",
+          "answer": "Çünkü içerideki nesnelerin her biri aynı sarayın parçasıdır; tamamını kuracak üstünlüğe sahip görünmezler.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Defterin sarayla ilişkili olması hangi bakımdan aldatıcı bir yakınlık kuruyor?",
+          "answer": "Düzen bilgisini taşıdığı için sanki kurucu sebepmiş gibi bir görüntü oluşturuyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre bu yakınlık neden gerçek sebep sayılmak için yeterli değildir?",
+          "answer": "Çünkü sebep olmak için yalnız ilişki yetmez; kudret, irade ve icra gerekir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S5Q4"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü muhalin anlatımında neden temsilî örneklere başvurulmuş olabilir?",
+          "answer": "Zor görünen bir düşünceyi göz önünde canlandırarak daha açık öğretmek için başvurulmuş olabilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İlk örnekteki saray, hangi yönüyle sıradan bir bina değildir?",
+          "answer": "Medenî eserlerle tamamlanmış, süslenmiş ve çok düzenli bir bütün oluşuyla sıradan değildir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Saraya giren kişinin cehaleti, ilk olarak hangi yanlış hükümde ortaya çıkıyor?",
+          "answer": "Sarayın dıştan bir ustası olmadığını varsaymasında ortaya çıkıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "O kişinin nesneler arasında fail araması, sebep-sonuç ilişkisini nasıl ters yüz ediyor?",
+          "answer": "Sonuç olan parçaları, bütünün kurucu sebebi haline getirmeye çalışıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p15:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Defterin “program ve liste” türünden bir şey olması neyi gösterir?",
+          "answer": "Onun kurucu değil, olsa olsa tanıtıcı ve düzen bildirici bir unsur olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p15:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İlk misalden çıkarılan ana ders nedir?",
+          "answer": "Düzeni anlatan şey ile düzeni kuran zat aynı değildir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

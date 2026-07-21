@@ -1,0 +1,54 @@
+---
+import { ACTIVE_THEME, THEMES, type ThemeName } from "@/config/themes";
+import { getUi, type Locale } from "@/i18n";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const { locale } = Astro.props as { locale: Locale };
+const text = getUi(locale);
+const themeEntries = Object.keys(THEMES) as ThemeName[];
+const activeThemeLabel = text.themes.names[ACTIVE_THEME];
+---
+
+<BaseLayout title={text.themes.pageTitle} locale={locale}>
+  <section class="page-band">
+    <div class="page-band__inner">
+      <div class="page-title">
+        <p class="eyebrow">{text.themes.eyebrow}</p>
+        <h1 data-theme-current-heading>{text.themes.currentHeading({ theme: activeThemeLabel })}</h1>
+        <p class="lede">{text.themes.lede}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-band page-band--muted">
+    <div class="page-band__inner">
+      <div class="theme-grid">
+        {themeEntries.map((name) => {
+          const themeLabel = text.themes.names[name];
+
+          return (
+            <article class="theme-sample" data-theme={name} data-theme-sample={name}>
+              <h2>{themeLabel}</h2>
+              <p>{text.themes.descriptions[name]}</p>
+              <div class="theme-swatch" aria-label={text.themes.swatchAria({ theme: themeLabel })}>
+                <span style="background: var(--page)"></span>
+                <span style="background: var(--surface)"></span>
+                <span style="background: var(--surface-muted)"></span>
+                <span style="background: var(--accent)"></span>
+                <span style="background: var(--warn)"></span>
+              </div>
+              <div class="theme-sample__button-row">
+                <button class="button" type="button" data-theme-option={name} aria-pressed={name === ACTIVE_THEME ? "true" : "false"}>
+                  {text.themes.apply}
+                </button>
+                <span class="pill theme-sample__status" data-theme-status hidden={name !== ACTIVE_THEME}>
+                  {text.themes.active}
+                </span>
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

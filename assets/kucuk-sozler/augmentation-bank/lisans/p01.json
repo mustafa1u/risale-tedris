@@ -1,0 +1,708 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:lisans:p01",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "lisans",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "Küçük Sözler / Mukaddime: müellif, besmele-hamd-salât ve sekiz sözün takdimi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/lisans/SveC_lisans_kucuk-sozler-p01-kucuk-sozler-mukaddime-muellif-besmele-hamd-salat-ve-sekiz-sozun-takdimi.txt",
+  "sourceRevision": "f90e86978bc5cab359fc43986cf77aaae5a8ea23794a3959bdb344662ba56b7a",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde hitap edilen kişiden ne istenmiştir?",
+          "answer": "Birkaç öğüt talep edilmiştir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Nasihatlerin hangi benzetme alanı üzerinden anlatılacağı belirtilmiştir?",
+          "answer": "Askerlik örnekleri ve kısa temsiller üzerinden anlatılacağı söylenmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde öğüdün yalnız muhataba değil, kime daha çok lazım görüldüğü ifade edilir?",
+          "answer": "En çok kendi nefsine gerekli görüldüğü belirtilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Müellif, daha önce faydalandığı kaç kaynaktan hareketle kaç söz söylediğini bildirir?",
+          "answer": "Sekiz ayetten istifadeyle sekiz söz söylediğini bildirir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Önceden söylediklerini şimdi nasıl bir üslupla sunacağını belirtir?",
+          "answer": "Daha kısa ve halkın anlayacağı sade bir dille ifade edeceğini belirtir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu girişte “nefsime söylüyorum” denmesinin temel anlamı nedir?",
+          "answer": "Kişinin önce kendini ıslah etmeye yönelmesi ve öğüdü önce kendine uygulaması gerektiğini gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metindeki davet cümlesi, okuyucuya nasıl bir konum verir?",
+          "answer": "İsteyen herkesin bu nasihati birlikte dinleyebileceği bir yol arkadaşlığı konumu verir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu bölümün genel havası daha çok hangi ahlâkî tavrı öne çıkarır: üstünlük taslama mı, tevazu mu?",
+          "answer": "Tevazuyu öne çıkarır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Askerlik temsilinin seçilmesi, muhatabın durumuyla nasıl ilişkilidir?",
+          "answer": "Muhatap asker olduğu için, anlayışına uygun bir anlatım yolu tercih edilmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu kısa girişten, nasihatin amacı hakkında hangi sonuç çıkarılabilir?",
+          "answer": "Amaç kuru bilgi vermek değil, hakikatleri anlaşılır biçimde kalbe yaklaştırmaktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Giriş kısmında öğüt isteme işi kimden gelmektedir?",
+          "answer": "Nasihat talebi muhataptan gelmektedir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Müellif, anlatacağı hakikatleri hangi yöntemle sunacağını haber verir?",
+          "answer": "Temsilî ve hikâye tarzında bir anlatımla sunacağını haber verir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "“Kendim buna daha çok muhtacım” anlamındaki ifade, konuşanın hangi yönünü gösterir?",
+          "answer": "Kendini sorgulayan, samimi ve mütevazı bir yönünü gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Daha önceki anlatım ile şimdiki anlatım arasında nasıl bir fark kurulmuştur?",
+          "answer": "Önce daha geniş anlatıldığı, şimdi ise daha özlü ve sade anlatılacağı belirtilmiştir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Burada kullanılan dil için nasıl bir seviye hedeflenmektedir?",
+          "answer": "Herkesin, özellikle sıradan insanların da anlayabileceği bir seviye hedeflenmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre hakikatlerin kaynağı tamamen kişisel fikirler olarak mı sunuluyor?",
+          "answer": "Hayır, ayetlerden alınan istifadeye dayandırılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Sekiz sözün ortaya çıkışında hangi tür bir manevi beslenme kaynağı vardır?",
+          "answer": "Kur’ân ayetlerinden istifade vardır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "“Kim isterse beraber dinlesin” çağrısı, anlatımın kapalı bir çevreye mi yoksa açık bir topluluğa mı yöneldiğini gösterir?",
+          "answer": "Açık bir topluluğa yöneldiğini gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bu pasajda öğüt verme biçimi daha çok buyurgan mı, yoksa paylaşımcı mı görünmektedir?",
+          "answer": "Paylaşımcı görünmektedir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu girişe bakarak müellifin eğitim anlayışı hakkında ne söylenebilir?",
+          "answer": "Muhatabın durumunu dikkate alan, sadeleştiren ve örneklerle öğreten bir yaklaşım benimsediği söylenebilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajda öğütlerin verilme sebebi nedir?",
+          "answer": "Muhatabın nasihat istemiş olmasıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Muhatabın hangi özelliği, anlatım tarzının seçiminde etkili olmuştur?",
+          "answer": "Asker olması etkili olmuştur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Hakikatlerin doğrudan soyut kavramlarla değil de kısa hikâyelerle anlatılması neyi amaçlar?",
+          "answer": "Anlamayı kolaylaştırmayı ve zihinde daha canlı bir kavrayış oluşturmayı amaçlar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Müellifin kendi nefsini öne alması, dinleyici üzerinde nasıl bir etki bırakır?",
+          "answer": "Nasihatin daha samimi ve daha inandırıcı hissedilmesini sağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Önce uzun, şimdi kısa anlatım tercihinin sebebi olarak ne anlaşılabilir?",
+          "answer": "Daha pratik, daha anlaşılır ve daha yaygın istifade sağlamak istenmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Buradaki “avam lisanı” ifadesi hangi tür bir anlatımı işaret eder?",
+          "answer": "Ağır ve kapalı olmayan, sade ve anlaşılır bir anlatımı işaret eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde geçen sayıların düzenli biçimde verilmesi, anlatımın hangi yönünü gösterir?",
+          "answer": "Planlı ve sistemli bir çerçeve içinde kurulduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu girişte nasihat sadece bireysel bir konuşma olarak mı kalmaktadır?",
+          "answer": "Hayır, isteyen herkesin katılabileceği genel bir davete dönüşmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Pasajın sonunda yer alan davet, okuyucuya nasıl bir sorumluluk bırakır?",
+          "answer": "İsterse bu öğütleri dinleyip kendine pay çıkarması sorumluluğunu bırakır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün ana fikrini tek cümleyle nasıl ifade edersin?",
+          "answer": "Hakikatler, samimi bir öz eleştiri ve sade bir üslupla, muhatabın durumuna uygun temsillerle paylaşılacaktır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Girişteki hitap tarzı, muhatapla nasıl bir ilişki kurmaktadır?",
+          "answer": "Kardeşlik ve yakınlık temelinde sıcak bir ilişki kurmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Nasihatler niçin askerlikle bağlantılı örneklerle anlatılacaktır?",
+          "answer": "Muhatabın hayatına uygun bir çerçeve kurmak için böyle yapılacaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Müellifin kendi nefsini nasihate daha muhtaç görmesi hangi ahlâkî dersi içerir?",
+          "answer": "İnsan önce kusuru kendinde görmeli ve kendini ıslah etmeye yönelmelidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Burada sözü edilen hakikatler rastgele mi sıralanmıştır, yoksa belirli bir sayı düzeni içinde mi verilmiştir?",
+          "answer": "Belirli bir sayı düzeni içinde verilmiştir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Ayetlerden istifadeyle sözlerin oluşturulması, anlatılanların hangi niteliğini güçlendirir?",
+          "answer": "Manevî dayanağını ve ciddiyetini güçlendirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "“Kısaca” denmesi, içerikten vazgeçmek anlamına mı gelir?",
+          "answer": "Hayır, özü koruyarak daha derli toplu anlatmak anlamına gelir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Halkın anlayacağı dil vurgusu, öğretim açısından hangi ilkeyi gösterir?",
+          "answer": "Muhatabın seviyesine inerek öğretme ilkesini gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Son cümledeki çağrı, metni nasıl bir öğrenme ortamına dönüştürür?",
+          "answer": "Zorlamasız fakat açık davet içeren ortak bir dinleme ortamına dönüştürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölümde öne çıkan ton daha çok kendinden emin bir üstünlük mü, yoksa içten bir muhasebe midir?",
+          "answer": "İçten bir muhasebedir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Pasajdan hareketle, etkili nasihatin iki temel şartı ne olabilir?",
+          "answer": "Samimiyet ve muhataba uygun anlatım olabilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında talep edilen şey bilgi aktarımı mı, yoksa yönlendirici sözler midir?",
+          "answer": "Yönlendirici ve öğüt verici sözlerdir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Anlatımda askerlik örneklerinin kullanılacağı belirtilirken hangi eğitim yöntemi uygulanmaktadır?",
+          "answer": "Somutlaştırma ve temsil yoluyla öğretme yöntemi uygulanmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Müellifin kendisini nasihate en muhtaç kişi gibi göstermesi, nasihatin tesirini nasıl etkiler?",
+          "answer": "Öğüdü daha sahici ve kibirden uzak hale getirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Sekiz ayetten sekiz söz çıkarması, metnin gelişigüzel değil nasıl kurulduğunu gösterir?",
+          "answer": "Belirli bir manevi düzen ve düşünce bütünlüğüyle kurulduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Önceden uzun anlatılmış olan hususların şimdi sadeleştirilmesi hangi okuyucu kitlesini dikkate alır?",
+          "answer": "Daha geniş ve farklı seviyelerdeki okuyucu kitlesini dikkate alır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "“Nefsime diyeceğim” ifadesi, öğüdün önce kimde uygulanması gerektiğini ima eder?",
+          "answer": "Önce öğüdü söyleyenin kendisinde uygulanması gerektiğini ima eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "“Beraber dinlesin” sözü, okuyucuyu edilgen bir izleyici mi yoksa manevi bir yol arkadaşı mı yapar?",
+          "answer": "Manevi bir yol arkadaşı yapar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu pasajda kullanılan yaklaşım genç bir muhatap için neden uygun görülebilir?",
+          "answer": "Çünkü açık, düzenli, örnekli ve seviyeye uygun bir anlatım sunmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Girişteki üsluptan, müellifin muhatabı küçümsediği sonucu çıkar mı?",
+          "answer": "Hayır, aksine ona yakınlık kurarak değer verdiği anlaşılır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu kısmın sonunda okuyucu hangi tavırla devam eden metne hazırlanır?",
+          "answer": "Dikkatle dinlemeye, kendine pay çıkarmaya ve nasihati önce kendi nefsine uygulamaya hazır hale gelir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajda nasihat talebine verilen karşılık nasıl bir öğretim planına bağlanmıştır?",
+          "answer": "Kısa hikâyeler ve askerlik temsilleriyle işlenecek bir plana bağlanmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Muhatabın asker olması, anlatımın biçimini neden belirlemiştir?",
+          "answer": "Tanıdık bir alan üzerinden hakikatlerin daha kolay anlaşılması hedeflenmiştir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Müellifin “en çok ben muhtacım” anlamındaki yaklaşımı, dinî terbiyede hangi esası hatırlatır?",
+          "answer": "Nefis muhasebesi ve tevazu esasını hatırlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre daha önceki çalışmanın dayandığı temel kaynak nedir?",
+          "answer": "Ayetlerden alınan istifadedir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Şimdiki anlatımın kısa tutulmasıyla hangi fayda amaçlanmış olabilir?",
+          "answer": "Anlamayı kolaylaştırmak ve daha çok kişiye ulaştırmak amaçlanmış olabilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Burada sözü edilen dil tercihi, ilim dilinden tamamen kopmak mıdır?",
+          "answer": "Hayır, hakikati koruyup ifadeyi sadeleştirmektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Pasajın sonundaki davet, zorunlu bir emir mi yoksa gönüllü bir katılım çağrısı mı taşır?",
+          "answer": "Gönüllü bir katılım çağrısı taşır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu girişten hareketle, anlatılacak sözlerin sadece teorik bilgi vermesi mi beklenir?",
+          "answer": "Hayır, insanın nefsine dokunan ve hayatına yön veren öğütler olması beklenir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki düzenli sayı vurgusu okuyucuya nasıl bir beklenti verir?",
+          "answer": "Adım adım ilerleyen, tertipli bir anlatım beklentisi verir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p01:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün bütününe bakınca en belirgin üç özellik nedir?",
+          "answer": "Samimiyet, sadelik ve muhataba uygunluk.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

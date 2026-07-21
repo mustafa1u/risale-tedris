@@ -1,0 +1,858 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:2-sinif:p84",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "2-sinif",
+  "partNo": "p84",
+  "partNumber": 84,
+  "title": "2. menzil / 2. hakikat: Nahl sûresinden 3. misal (hurma-üzüm) ve umumî netice",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/2-sinif/SveC_2sinif_ayetul-kubra-p84-2-menzil-2-hakikat-nahl-suresinden-3-misal-hurma-uzum-ve-umumi-netice.txt",
+  "sourceRevision": "fb68e1737d7b2b5448fbe7ce1724545ebe655f4f85a2e5508f7ee57332b00fad",
+  "setCount": 6,
+  "questionCount": 70,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü âyette dikkatimiz hangi iki meyveye çevriliyor?",
+          "answer": "Hurma ve üzüme.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki meyve, aklı olanlara neyi gösteren bir işaret sayılıyor?",
+          "answer": "Allah’ın birliğini gösteren bir delil sayılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Hurma ve üzüm insanlar için hangi faydaları taşır?",
+          "answer": "Besin olur, meyve olur, güzel yiyeceklere kaynak olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu ağaçların yetiştiği yer nasıl anlatılıyor?",
+          "answer": "Susuz ve kuru bir yer gibi anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Böyle kuru yerde böyle faydalı meyveler çıkması neyi düşündürür?",
+          "answer": "Allah’ın kudretini ve hikmetini düşündürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Asmanın ince bir dalında çok salkım bulunması hangi özelliğe örnek veriliyor?",
+          "answer": "Büyük bir sanat ve düzen olduğuna örnek veriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Üzüm tanelerinin dış kısmı için nasıl bir özellik anlatılıyor?",
+          "answer": "İnce, güzel ve koruyucu bir örtüsü olduğu anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Aynı güzel yapının yeryüzünde pek çok üzümde birlikte görülmesi neyi ispat eder?",
+          "answer": "Bunları yapanın tek bir yaratıcı olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre kör kuvvetler ve şuursuz sebepler bu işe neden karışamaz?",
+          "answer": "Çünkü bu iş çok ölçülü, hikmetli ve düzenlidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Sebeplerin görevi tamamen yapmak mı, yoksa başka bir şey mi?",
+          "answer": "Tam yapan değiller; sadece perde gibi kullanılırlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Son kısımda üç âyetin ortak verdiği ana mesaj nedir?",
+          "answer": "Bütün bu işler Allah’ın birliğine şahitlik eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü âyette geçen iki meyveden biri hurmadır. Diğeri hangisidir?",
+          "answer": "Üzümdür.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki meyve neden boş bir şey değil, önemli bir işaret kabul ediliyor?",
+          "answer": "Çünkü Allah’ın birliğine delil oluyorlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Hurma ve üzüm sadece tatlı şeyler midir, yoksa başka yararları da var mıdır?",
+          "answer": "Başka yararları da vardır; besin ve meyvedirler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kuru toprakta yetişen bu ağaçlar için nasıl bir sonuç çıkarılıyor?",
+          "answer": "Çok hayret veren bir yaratılış olduğu söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Küçücük bir üzüm dalında çok sayıda tane bulunması bize ne öğretir?",
+          "answer": "Allah’ın her şeyi ölçüyle yaptığını öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Her üzüm tanesinde hem koruma hem de içindeki çekirdek bulunması neyi gösterir?",
+          "answer": "İnce bir hikmet ve dikkat olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Çekirdeğin içinde ne tür bir görev bulunduğu anlatılıyor?",
+          "answer": "Yeni hayatın başlangıcını taşıdığı anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Üzümün içinde tatlı bir nimet hazırlanması kimin işi olabilir?",
+          "answer": "Yalnız bütün kâinatı yaratan Allah’ın işi olabilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Aynı özelliklerin pek çok yerde aynı biçimde görülmesi neye delildir?",
+          "answer": "Tek bir yaratıcının işine delildir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde tabiat, sebepler ve kör kuvvetler için hangi yetersizlik söyleniyor?",
+          "answer": "Bu düzenli işe ortak olamayacakları söyleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Sebepler hangi durumda kullanılıyor?",
+          "answer": "Allah’ın emriyle bir örtü gibi kullanılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Üç âyet birlikte düşünülünce hangi inanç güçleniyor?",
+          "answer": "Tevhid inancı güçleniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki üçüncü bölümde hangi meyveler örnek veriliyor?",
+          "answer": "Hurma ve üzüm.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu meyvelere bakınca kimler ibret alır?",
+          "answer": "Aklını kullananlar ibret alır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Hurma ve üzümün birden çok işe yaraması nasıl bir nimettir?",
+          "answer": "Çok faydalı bir nimettir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Ağaçların bulunduğu yer verimli ve sulu mu, yoksa kuru mu anlatılıyor?",
+          "answer": "Kuru ve susuz gibi anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Kuru yerden böyle güzel meyveler çıkması sıradan bir iş midir?",
+          "answer": "Hayır, büyük bir kudret işidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Asmanın küçüklüğü ile meyvesinin çokluğu arasında nasıl bir dikkat çekiliyor?",
+          "answer": "Küçük bir daldan çok ürün çıkmasına dikkat çekiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Üzüm tanesinin dışı ve içi birlikte düşünülünce nasıl bir sanat görülür?",
+          "answer": "Hem koruma hem tat hem çekirdek ile ince bir sanat görülür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Çekirdeğin sert olması ama içindeki görevin önemli olması neyi düşündürür?",
+          "answer": "Küçük bir şeyde büyük bir plan olduğunu düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu güzel yaratılışın her yerde aynı şekilde olması neden önemlidir?",
+          "answer": "Çünkü bir tek elden çıktığını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre sebepler gerçek yapıcı mıdır?",
+          "answer": "Hayır, asıl yapıcı değillerdir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümlede bu üç hakikat neye şahitlik ediyor?",
+          "answer": "Allah’ın tek olduğuna şahitlik ediyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü âyetin anlattığı iki meyve hangileridir?",
+          "answer": "Hurma ile üzüm.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki meyvede görülen işaret hangi büyük gerçeğe götürür?",
+          "answer": "Allah’ın birliği gerçeğine götürür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Hurma ve üzümün insanlara yararı sadece karın doyurmak mıdır?",
+          "answer": "Hayır, hem besindir hem de güzel yiyeceklerin kaynağıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu ağaçlar nasıl bir yerde dururken anlatılıyor?",
+          "answer": "Kuru ve susuz toprakta dururken anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Böyle bir yerde tatlı ve faydalı ürünler vermeleri neyin alametidir?",
+          "answer": "Kudret ve hikmet alametidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde üzüm salkımlarının çokluğu neden anlatılıyor?",
+          "answer": "Yaratılıştaki bolluk ve düzeni göstermek için anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Her üzüm tanesine güzel bir koruyucu verilmesi neyi gösterir?",
+          "answer": "İncelikle düşünülen bir yaratılışı gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Üzüm çekirdeği neden önemli görülüyor?",
+          "answer": "Çünkü yeni hayat için bilgi taşıyan bir başlangıç gibidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Aynı sanatın bütün yeryüzünde görülmesi hangi sonuca götürür?",
+          "answer": "Hepsini yapanın bir olduğunu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Düzensiz ve şuursuz güçler bu işe neden uygun değildir?",
+          "answer": "Çünkü bu iş dikkat, ölçü ve hikmet ister.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Sebeplerin yeri metinde nasıl açıklanıyor?",
+          "answer": "Onlar ancak Allah’ın emriyle perde gibi bulunur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın ana fikri kısa olarak nedir?",
+          "answer": "Kâinattaki düzen Allah’ın birliğini gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Âyette adı geçen iki meyve nedir?",
+          "answer": "Hurma ve üzüm.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu meyveler hangi inancı anlamaya yardım eder?",
+          "answer": "Allah’ın bir olduğunu anlamaya yardım eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İnsanlar bu iki meyveden hangi yönlerle faydalanır?",
+          "answer": "Yiyecek olarak, meyve olarak ve tatlı nimetler olarak faydalanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Ağaçların bulunduğu çevre nasıldır?",
+          "answer": "Kuru ve az sulu bir çevredir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Kuru yerde böylesine güzel ürünler çıkması bize ne dedirtir?",
+          "answer": "Bunu ancak Allah yapar dedirtir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Küçük bir üzüm çubuğunda çok salkım olması neyi anlatır?",
+          "answer": "Az bir yerde çok nimet yaratıldığını anlatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Üzümün hem kabuğu hem çekirdeği hem de tatlı içi olması nasıl bir çalışmayı gösterir?",
+          "answer": "Çok dikkatli ve düzenli bir yaratmayı gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Çekirdek için neden özel bir anlam veriliyor?",
+          "answer": "Çünkü içinde gelecekte çıkacak hayatın başlangıcı vardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu işin bütün dünyada benzer şekilde olması neyi gösterir?",
+          "answer": "Her yerde aynı yaratıcının iş gördüğünü gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Tabiat ve sebeplerin eli bu işe niçin uzanamaz?",
+          "answer": "Çünkü onlar şuursuzdur ve böyle ince iş yapamazlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "O hâlde gerçek yapan kimdir?",
+          "answer": "Allah’tır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda üç âyetin beraber verdiği ders nedir?",
+          "answer": "Hepsi birlikte tevhidi gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde örnek verilen meyveler arasında hurmanın yanında hangisi vardır?",
+          "answer": "Üzüm vardır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki meyve hangi özelliğiyle delil sayılıyor?",
+          "answer": "Allah’ın birliğini göstermeleriyle delil sayılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Hurma ve üzümün soframıza gelen yönleri nelerdir?",
+          "answer": "Besin olurlar, meyve olurlar, güzel yiyecekler hazırlarlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu nimetlerin çıktığı ağaçlar nasıl bir zeminde bulunuyor diye anlatılıyor?",
+          "answer": "Kuru ve susuz bir zeminde bulunuyor diye anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Zor görünen yerde güzel nimetlerin çıkması hangi iki şeyi gösterir?",
+          "answer": "Kudreti ve hikmeti gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Üzüm dalı küçük olduğu hâlde üstündeki ürün neden dikkat çekicidir?",
+          "answer": "Çünkü çok sayıda meyve taşır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Üzüm tanesinin dışının zarif, içinin de faydalı olması bize ne öğretir?",
+          "answer": "Allah’ın her şeyi ince ölçüyle yarattığını öğretir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Çekirdeğin gelecekle ilgili yönü nedir?",
+          "answer": "Yeni bir hayatın başlangıcını taşır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Aynı sanatın sayısız yerde aynı anda görünmesi hangi sonuca ulaştırır?",
+          "answer": "Tek bir yaratıcının varlığına ulaştırır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Kör kuvvetler ve karıştırıcı sebepler neden dışarıda bırakılıyor?",
+          "answer": "Çünkü böyle düzgün ve amaçlı işi yapamazlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Sebeplerin görevi nasıl özetleniyor?",
+          "answer": "Asıl yapan değil, perde olan şeylerdir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p84:2-sinif:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p84:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Üç âyetten çıkan ortak sonuç bir cümleyle nasıl söylenir?",
+          "answer": "Bütün varlıklar Allah’ın birliğini gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

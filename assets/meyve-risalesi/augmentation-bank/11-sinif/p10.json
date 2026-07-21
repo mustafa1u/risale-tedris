@@ -1,0 +1,798 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:11-sinif:p10",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "11-sinif",
+  "partNo": "p10",
+  "partNumber": 10,
+  "title": "3. Mes'ele: “Hayvan gibi yaşamak” itirazına cevap",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/11-sinif/SveC_11sinif_meyve-risalesi-p10-3-mesele-hayvan-gibi-yasamak-itirazina-cevap.txt",
+  "sourceRevision": "6416c5535d51a2e9b1e49def7de6b14f5f26cdafdca85e97b52ffce23c18f18f",
+  "setCount": 6,
+  "questionCount": 65,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Karşı taraf, en azından nasıl bir yaşayış tarzıyla ömrünü sürdürmek istediğini söylüyor?",
+          "answer": "Eğlenceye ve nefsin hoşuna giden şeylere dalarak, derin hakikatleri düşünmeden yaşamak istediğini söylüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu isteğe verilen ilk temel cevap nedir?",
+          "answer": "İnsanın, hayvanla aynı şekilde yaşayamayacağı belirtiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Hayvanın insan gibi geçmiş ve gelecek sıkıntısı taşımamasının sebebi neye bağlanıyor?",
+          "answer": "Hayvanda geçmişi uzun uzun düşünüp üzülme ve geleceği tasalayıp korkma gücü bulunmamasına bağlanıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre hayvan, bu yüzden lezzet konusunda nasıl bir durumda olur?",
+          "answer": "Elindeki zevki daha eksiksiz yaşar ve daha rahat bir hâlde bulunur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Kesime götürülen hayvan örneği hangi düşünceyi açıklamak için veriliyor?",
+          "answer": "Hayvanın, olacak şeyi önceden bilmediği için gereksiz korku çekmediğini göstermek için veriliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Görünmeyen şeylerin insana ve hayvana bildirilmemesi, hangi ilahî özelliklerle ilişkilendiriliyor?",
+          "answer": "Allah’ın merhameti ve şefkatiyle ilişkilendiriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İnsan neden bu örtülmüşlükten hayvan kadar faydalanamaz?",
+          "answer": "Çünkü aklı sebebiyle geçmişi ve geleceği düşünür; böylece üzüntü ve kaygıdan tam kurtulamaz.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Geçmişe ait acılar ve geleceğe ait korkular, insanın bugünkü zevkini nasıl etkiler?",
+          "answer": "Onu çok azaltır, hatta neredeyse değersiz hâle getirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde, sırf zevk bakımından insanın hayvandan daha aşağıya düşebileceği hangi durumda söyleniyor?",
+          "answer": "İmanla aklını doğru kullanmazsa, aklı ona huzur değil sıkıntı getirdiğinde söyleniyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Sonuç olarak insana hangi iki yoldan söz ediliyor ve hangisi tavsiye ediliyor?",
+          "answer": "Ya aklı yok sayıp aşağı bir seviyeye inmeye çalışmak ya da aklı imanla doğru kullanmak yollarından bahsediliyor; tavsiye edilen, imanla Kur’an’a yönelmektir.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu tavsiye gerçekleşirse insan ne kazanır?",
+          "answer": "Bu geçici dünyada bile daha temiz, daha yüksek ve daha gerçek bir huzur ve lezzet kazanır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S1Q10"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada insanla hayvan arasında hangi ana fark öne çıkarılıyor?",
+          "answer": "İnsanın akıl sahibi olması ve bu yüzden zamanın iki tarafıyla da ilgilenmesi öne çıkarılıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Hayvanın rahat yaşayabilmesi, hangi bilgi alanından uzak tutulmasına bağlanıyor?",
+          "answer": "Geçmişi ve geleceği ayrıntılı bilmemesine bağlanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre bu durum hayvan için neden bir eksiklik değil, bir nimet sayılıyor?",
+          "answer": "Çünkü böylece boş yere korku ve üzüntü çekmeden yaşar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Allah’a karşı hayvanın tavrı hakkında ne söyleniyor?",
+          "answer": "Sakin biçimde yaşadığı ve hâl diliyle Rabbine şükür içinde bulunduğu ifade ediliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Kesilme anına dair verilen örnek, acının hangi yönünü vurgular?",
+          "answer": "Acının önceden uzun uzun yaşanmadığını, sadece anlık hissedildiğini vurgular.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanın geçmiş ve gelecek hakkında düşünmesi, ona hangi iki ağır yükü getirir?",
+          "answer": "Ayrılıklardan doğan kederi ve ileride olacaklardan doğan endişeyi getirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bu iki yük, nefsin peşinde koşan insanın elde ettiği kısa zevke ne yapar?",
+          "answer": "O kısa zevki bozar ve küçültür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metindeki muhakemeye göre, insanın sadece keyif için hayvanı örnek alması neden tutarsızdır?",
+          "answer": "Çünkü insan, hayvanın sahip olduğu düşüncesiz rahatlığa sahip değildir; aklı onu buna bırakmaz.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Son kısımda geçen “aklı imanla başına almak” sözüyle ne anlatılıyor?",
+          "answer": "Aklı başıboş bırakmayıp iman ışığında doğru yolda kullanmak anlatılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Kur’an’ı dinlemekle elde edileceği belirtilen sonuç nedir?",
+          "answer": "Hayvani düzeyin çok üstünde, temiz ve gerçek bir lezzet ve huzur elde etmek.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Muhatabın önerdiği çözüm, hangi meseleleri bilerek düşünmemeye dayanıyor?",
+          "answer": "Hayatın sonu, sorumluluk ve varlığın hakikati gibi ince ve ciddi meseleleri düşünmemeye dayanıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen cevapta, insanın hayvan gibi olamayacağı hangi yeteneği üzerinden açıklanıyor?",
+          "answer": "Akıl yeteneği üzerinden açıklanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Akıl, insana sadece üstünlük mü sağlar; yoksa başka bir sonuç da doğurur mu?",
+          "answer": "Üstünlük imkânı sağlar; fakat yanlış kullanılırsa elem ve kaygı da doğurur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre geçmiş zamanın insana yüklediği başlıca duygular nelerdir?",
+          "answer": "Pişmanlık, özlem ve ayrılıktan gelen acılar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Gelecek zaman düşüncesi, insanın içinde hangi hâlleri meydana getirir?",
+          "answer": "Korku, tedirginlik ve endişe meydana getirir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu bakımdan insanın kısa süreli zevk arayışı neden başarısız olur?",
+          "answer": "Çünkü aklı, o zevki gölgeleyen çok sayıda iç sıkıntısı üretir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada “gizlinin örtülmesi” nasıl bir nimet olarak sunuluyor?",
+          "answer": "Kulu gereksiz yükten koruyan bir ilahî merhamet olarak sunuluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Özellikle suçsuz hayvanlar için bu nimetin daha tam olduğu neden ifade ediliyor?",
+          "answer": "Çünkü onlar akılla yük taşımadıkları için daha sade ve daha korunmuş bir hayat yaşarlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İnsana sunulan ilk seçenek neden aslında gerçek bir çözüm değildir?",
+          "answer": "Çünkü insan, aklını fiilen ortadan kaldıramaz; bu yüzden hayvan gibi yaşama iddiası gerçekçi değildir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "İnsana gösterilen doğru çıkış yolu nedir?",
+          "answer": "İmanla aklını yerli yerinde kullanıp vahyin rehberliğine yönelmektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Bu yolun dünyadaki karşılığı sadece ahiret ümidi midir?",
+          "answer": "Hayır, dünyada da daha duru ve daha tatlı bir hayat hissi verdiği belirtiliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S3Q10"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada savunulan düşünceye göre, eğlenceye dalmak insanı hangi temel problemden kurtaramaz?",
+          "answer": "Aklın doğurduğu iç hesaplaşmadan ve zamanla ilgili kaygılardan kurtaramaz.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Hayvanın geçmişten ders çıkarma ya da gelecekten korkma biçimi insanla aynı mıdır?",
+          "answer": "Değildir; bu tür bir zihnî yük insan kadar onda yoktur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu fark, zevk alma bakımından nasıl bir sonuç doğurur?",
+          "answer": "İnsan yanlış yolda olursa aldığı zevk parçalanır; hayvan ise daha sade bir rahatlık yaşar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde geçen hayvan örneği, insanın hangi yanlış beklentisini çürütür?",
+          "answer": "“Ben de hiçbir şeyi düşünmeden rahat ederim” beklentisini çürütür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İlahî rahmetin burada görülen yönü nedir?",
+          "answer": "Kulun kaldıramayacağı ayrıntıları ondan gizleyerek onu korumasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İnsan, aklı sebebiyle hangi sahalardan gelen baskıyı aynı anda hisseder?",
+          "answer": "Hem geçmişten gelen hüzünleri hem de gelecekten gelen korkuları hisseder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu baskılar, cüz’î zevki nasıl bir seviyeye indirir?",
+          "answer": "Çok küçük ve etkisiz bir seviyeye indirir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "“Yüz derece hayvandan aşağı” ifadesi, insanın hangi durumda düştüğü seviyeyi anlatır?",
+          "answer": "Aklını imanla aydınlatmayıp sadece nefsin peşine taktığı durumdaki düşüşü anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki muhakemede akıl tek başına yeterli bir kurtarıcı olarak sunuluyor mu?",
+          "answer": "Hayır, imanla birleşmediğinde sıkıntı kaynağına da dönüşebileceği gösteriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Kur’an’a kulak vermek, akıl açısından ne sağlar?",
+          "answer": "Aklın yönünü düzeltir ve onu huzur getiren bir rehber hâline getirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Bu parçadan çıkarılabilecek ahlâkî ders nedir?",
+          "answer": "Geçici keyif uğruna hakikatten kaçmak çözüm değildir; gerçek huzur imanlı ve şuurlu yaşamaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Muhatabın “ince şeyleri düşünmeyelim” sözü, hangi yaşam anlayışını yansıtır?",
+          "answer": "Sorumluluktan ve derin düşünceden uzak, anlık haz merkezli bir yaşam anlayışını yansıtır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta, bu anlayış neden insan tabiatına uygun görülmüyor?",
+          "answer": "Çünkü insanın aklı, onu ister istemez geçmiş ve gelecekle meşgul eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Hayvanın acıyı sınırlı yaşaması hangi örnekle somutlaştırılıyor?",
+          "answer": "Kesim anında önceden uzun korku yaşamaması örneğiyle somutlaştırılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu örnekten çıkan sonuç nedir?",
+          "answer": "Bilinmeyenin gizli kalması bazen kul için büyük bir kolaylıktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Masum hayvanlar için bu kolaylığın daha mükemmel olduğu söylenirken ne ima ediliyor?",
+          "answer": "Onların ilahî şefkatle daha fazla korunmuş bir sade hayat sürdükleri ima ediliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İnsan ise neden bu sadeliği tam yaşayamaz?",
+          "answer": "Çünkü aklı, zamanı aşan bağlantılar kurar ve ona ağır duygular yükler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Geçmişten gelen duygular arasında özellikle hangi tür acılar dikkat çekiyor?",
+          "answer": "Ayrılıkların ve kayıpların bıraktığı acılar dikkat çekiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Gelecekten gelen duygular ise hangi ruh hâline yol açıyor?",
+          "answer": "Tedirginlik ve korkuya yol açıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Böyle bir insanın nefsanî zevki neden kalıcı olmaz?",
+          "answer": "Çünkü iç dünyasındaki bu yükler o zevki dağıtır ve bozar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S5Q7",
+            "meyve-risalesi:p10:11-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada insan için önerilen esas dönüşüm nedir?",
+          "answer": "Aklı başıboş bırakmak yerine imanla terbiye etmektir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu dönüşümün neticesinde insanın hayvandan üstünlüğü hangi alanda görünür?",
+          "answer": "Lezzeti daha temiz, daha bilinçli ve daha anlamlı yaşama alanında görünür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S5Q10"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda tartışılan ana mesele nedir?",
+          "answer": "İnsanın zevk peşinde giderek düşünceden kaçmasının ona gerçek huzur sağlayıp sağlamayacağı meselesidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen cevaba göre insan neden hayvan seviyesinde bir kaygısızlık elde edemez?",
+          "answer": "Çünkü insan aklıyla zamanı geniş biçimde kavrar; bu da ona dert yükler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Hayvanın geçmiş ve gelecek yükü taşımaması, onun hayatına nasıl yansır?",
+          "answer": "Daha sakin, daha rahat ve elindeki anı daha dolu yaşamasına yansır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre görünmeyen şeylerin bilinmemesi, hangi açıdan nimet sayılır?",
+          "answer": "Korku ve üzüntüyü azaltması açısından nimet sayılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İnsan için bu nimetin tam gerçekleşmemesi hangi özelliğiyle ilgilidir?",
+          "answer": "Düşünme ve muhakeme gücüyle ilgilidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p10:11-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanın geçmişe bakışı, zevkini hangi yönden yaralar?",
+          "answer": "Kaybettiklerini ve ayrılıkları hatırlatarak yaralar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İnsanın geleceğe bakışı, zevkini hangi yönden azaltır?",
+          "answer": "Belirsizlik ve ölüm korkusu gibi endişelerle azaltır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu yüzden sırf keyif peşinde koşan insanın durumu, hayvana göre nasıl değerlendiriliyor?",
+          "answer": "Zevk yönünden daha aşağı bir hâle düşmüş olarak değerlendiriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada geçen sert tercih cümlesi, aslında hangi hakikati vurgulamak için söyleniyor?",
+          "answer": "İnsanın aklını inkâr ederek değil, doğru kullanarak kurtulabileceği hakikatini vurgulamak için söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Doğru kullanımın iki ana dayanağı nedir?",
+          "answer": "İman ve Kur’an rehberliği.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p10:11-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Parçanın sonunda vaat edilen kazanç sadece miktar bakımından mı büyüktür, yoksa nitelik bakımından da farklı mıdır?",
+          "answer": "Nitelik bakımından da farklıdır; daha temiz, daha gerçek ve daha huzurlu bir lezzettir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

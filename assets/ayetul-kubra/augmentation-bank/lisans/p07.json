@@ -1,0 +1,968 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:lisans:p07",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "lisans",
+  "partNo": "p07",
+  "partNumber": 7,
+  "title": "2. Mes'ele: İtikad-ı küfriyenin nevileri (inkâr/nefiy tasnifi)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/lisans/SveC_lisans_ayetul-kubra-p07-2-mesele-itikad-i-kufriyenin-nevileri-inkar-nefiy-tasnifi.txt",
+  "sourceRevision": "003718f67b6a452f696be20ec32eaed1671f20f88478f8ce1c68242945ba8754",
+  "setCount": 6,
+  "questionCount": 80,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde küfrün temel mahiyeti hangi kavramlarla açıklanır?",
+          "answer": "Küfür; inkâr, bilgisizlik ve olumsuzlama çizgisinde ele alınır. Dıştan bir iddia gibi görünse bile özünde yok saymaya dayanır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İman hangi yönleriyle küfrün karşısında konumlandırılır?",
+          "answer": "İman; bilgiye, varlığı kabul etmeye, doğrulamaya ve kesin hükme dayanır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Olumsuz gibi görünen imanla ilgili bir meselenin arkasında ne bulunduğu ifade edilir?",
+          "answer": "Her menfî görünen tarafın gerisinde olumlu ve gerçek bir esas bulunduğu belirtilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Küfür sahipleri yokluğu ispat etmeye çalışırlarsa bu durum hangi sınıra kadar bir hüküm sayılabilir?",
+          "answer": "Çok zor da olsa yokluğu kanıtlamaya yönelirlerse, bu tavır yanlış bir bilgi ve hatalı bir yargı türü olarak değerlendirilebilir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Sadece kabul etmemek ve onaylamamak şeklindeki küfür neden daha ağır bir cehalet sayılır?",
+          "answer": "Çünkü burada sağlam bir delile dayanan hüküm yoktur; yalnızca bilgisizlik ve boşta kalmış bir reddediş vardır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre küfrî inançlar önce kaç ana kısma ayrılır?",
+          "answer": "İki ana kısma ayrılır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İslâmî hakikatlere yönelmeyip sadece kendi yanlış kanaati içinde kalan kısım nasıl nitelenir?",
+          "answer": "Kişiye ait bozuk bir tasdik, batıl bir inanış ve haksız bir hüküm olarak görülür.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İman esaslarına karşı çıkma şeklindeki ikinci ana kısım kendi içinde nasıl ayrılır?",
+          "answer": "Biri sadece kabul etmeme, diğeri ise yokluğu benimseyip kalben onaylama şeklinde ikiye ayrılır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Sadece tasdik etmeme neden “hükümsüzlük” olarak görülür?",
+          "answer": "Çünkü kişi burada karşı bir delil ve kesin yargı ortaya koymaz; sadece kabulden uzak durur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Yokluğu benimseyen ikinci tür neden daha iddialı kabul edilir?",
+          "answer": "Çünkü bu tavır bir inanç, bağlanma ve yargı içerir; dolayısıyla bunu savunabilmek için yokluğu ispat yükü doğar.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Metinde nefyin ilk türü hangi durumda ispatlanabilir görülür?",
+          "answer": "Belli bir yer veya özel bir durum için “orada bulunmuyor” denirse, bu sınırlı olumsuzlama ispat edilebilir sayılır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Geniş kapsamlı imanî meselelerdeki inkâr niçin ispat edilemez denir?",
+          "answer": "Çünkü böyle bir reddi kanıtlamak için bütün âlemi, ahireti ve zamanın tamamını kuşatan bir bakış gerekir; bu ise insan için mümkün değildir.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S1Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde küfür dış görünüşte nasıl algılanabilir, fakat hakikatte neye dayanır?",
+          "answer": "Dışarıdan sanki olumlu bir iddia gibi görünebilir; fakat özünde yokluk ve reddediş temellidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İmanın “hüküm” olarak nitelenmesi neyi gösterir?",
+          "answer": "Rastgele bir kanaat değil, bilgiye dayalı bilinçli bir tasdik ve kararlılık taşıdığını gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Küfür tarafının yokluğu tasdik ederek bir iddiaya dönüşmesi hangi sonucu doğurur?",
+          "answer": "Kişiyi, ileri sürdüğü olumsuzlamayı delillendirmek zorunda bırakır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Metin, delilsiz reddediş ile yanlış da olsa kurulmuş bir yargı arasında nasıl bir ayrım yapar?",
+          "answer": "Delilsiz reddi tam bir cehalet sayar; kurulmuş ama hatalı yargıyı ise yanlış bir bilgi türü olarak görür.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Küfrî itikadın ilk ana türü İslâmî hakikatlerle nasıl bir ilişki içindedir?",
+          "answer": "Doğrudan onlarla hesaplaşmaz; kendi yanlış inancı içinde kalır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "İman hakikatlerine karşı çıkan ikinci ana türün ilk şekli nedir?",
+          "answer": "Sadece doğrulamayarak uzak durmak, yani kabul etmemektir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu ilk şeklin kolay sayılmasının sebebi nedir?",
+          "answer": "Çünkü kişi burada yeni bir delil kurmaz; yalnızca tasdike yanaşmaz.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci şeklin kalbî boyutu nedir?",
+          "answer": "Kişi içten içe yokluğu benimser ve buna bağlanır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Nefyin ikiye ayrılması tartışmaya nasıl bir açıklık kazandırır?",
+          "answer": "Her olumsuzlamanın aynı güçte olmadığını, sınırlı olanla kuşatıcı olanın farklı değerlendirilmesi gerektiğini gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Belirli bir mekân veya özel bir yönle sınırlı olumsuzlama neden mümkün görülebilir?",
+          "answer": "Çünkü inceleme alanı daraltılmıştır; o özel noktada bulunmadığı gösterilebilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Kâinatı, ahireti ve uzun zamanları ilgilendiren dinî meselelerdeki inkâr neden insan sınırlarını aşar?",
+          "answer": "Çünkü böyle bir hüküm, insanın göremediği ve kuşatamadığı alanlar hakkında kesin konuşmayı gerektirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Metne göre geniş kapsamlı bir nefyi doğrulamak için nasıl bir bakış gerekir?",
+          "answer": "Bütün varlık alanını, ahireti ve zamanın her yönünü kuşatacak bir nazar gerekir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Bu parçadan hareketle iman-küfür ilişkisinde ispat yükü kimin üzerine daha çok biner?",
+          "answer": "Yokluğu benimseyip bunu hüküm haline getiren inkârcının üzerine biner.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S2Q3"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada küfür neden “adem” tarafına, iman ise “vücud” tarafına yerleştirilir?",
+          "answer": "Çünkü küfür hakikati yok sayar; iman ise gerçeği kabul edip varlık yönünü tasdik eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İmanla ilgili menfî bir ifadenin bile olumlu bir hakikate işaret etmesi ne demektir?",
+          "answer": "Görünüşte olumsuz anlatım olsa da, onun dayandığı esasın gerçek ve müsbet olduğu demektir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Küfrün “yanlış bir ilim” sayılabilmesi hangi şarta bağlanmıştır?",
+          "answer": "Yokluğu delillendirmeye çalışan düzenli bir kabul ve tasdik biçimi taşımasına bağlanmıştır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Sadece “kabul etmeme” seviyesinde kalan tavır niçin ilim sayılmaz?",
+          "answer": "Çünkü onda ne sağlam bir tasdik ne de kurulmuş bir hüküm vardır; yalnızca boş bir reddiye vardır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Küfrî inançlardan birinci türün temel özelliği nedir?",
+          "answer": "İslâmî hakikatlerle doğrudan çatışmaya girmeden, kişinin kendi yanlış inancında kalmasıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bahsin asıl odak noktası hangi küfür türüdür?",
+          "answer": "İman esaslarına karşı çıkıp onlarla mücadele eden türdür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu odak türün ilk alt basamağı hangi tavırdır?",
+          "answer": "Sadece isbat edilen hakikati onaylamamaktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İlk alt basamağın “kolay” oluşu neye işaret eder?",
+          "answer": "Delil üretmeden geri durmanın, aktif bir inkâr kurmaktan daha basit olduğuna işaret eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci alt basamakta kişiden hangi ek yükümlülük doğar?",
+          "answer": "Yokluk iddiasını kanıtlaması beklenir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "“Hususî yerde yoktur” tarzı nefy neden genel inkârla aynı görülmez?",
+          "answer": "Çünkü bu, sınırlı ve belirli bir alana dair bir yokluk iddiasıdır; kapsamı dar olduğu için araştırılabilir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Genel ve kutsal iman meselelerini reddetmek niçin çok daha ağır bir iddiadır?",
+          "answer": "Çünkü bu reddiye yalnız tek bir olayı değil, geniş ve kuşatıcı hakikatleri hedef alır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Metne göre böyle bir genel reddiye hangi araçlarla ancak ispatlanabilir gibi görünür?",
+          "answer": "Tüm kâinatı, ahireti ve sınırsız zaman boyutlarını kapsayan bir görüşle.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "İnsan bakışının sınırlı oluşu bu tartışmada hangi sonuca götürür?",
+          "answer": "Kuşatıcı imanî hakikatleri toptan inkâr etmenin delillendirilemeyeceği sonucuna götürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metin, küfrün görünüşü ile özü arasında nasıl bir fark kurar?",
+          "answer": "Görünüşte bir şey ileri sürüyor gibi durur; fakat özünde silme, yok sayma ve boş bırakma vardır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İman neden sadece duygu değil, aynı zamanda bilgi olarak sunulur?",
+          "answer": "Çünkü hakikati bilerek onaylama ve hükme bağlama yönü vardır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Küfrün iki ana bölümünden ilki hangi tarz bir sapmayı anlatır?",
+          "answer": "İslâmî hakikatleri doğrudan hedef almayan, kişinin kendi yanlış inancında kalmasını anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu ilk bölüm neden metindeki ana münakaşanın dışında tutulur?",
+          "answer": "Çünkü tartışılan mesele, iman hakikatlerine yönelmiş itiraz ve inkârdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci ana bölümün ilk alt türü olan “adem-i kabul” nasıl anlaşılmalıdır?",
+          "answer": "İspat edilen şeyi benimsemeyip tasdikten kaçınmak şeklinde anlaşılmalıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bu tavrın “cehalet” olarak değerlendirilmesi hangi noktadan kaynaklanır?",
+          "answer": "Bilgiye dayalı bir karşı hüküm üretmemesinden kaynaklanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "“Kabul-ü adem” denilen ikinci alt türte kişi ne yapmış olur?",
+          "answer": "Yokluğu içten benimseyip bunu inanç ve hüküm seviyesine çıkarmış olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bir iddianın “iltizam” haline gelmesi ne anlama gelir?",
+          "answer": "Kişinin o görüşe bağlanması ve onu üstlenmesi anlamına gelir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Böyle bir bağlanma neden ispat sorumluluğu doğurur?",
+          "answer": "Çünkü artık ortada basit bir susma değil, savunulan kesin bir iddia vardır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Nefyin ilk türü hangi sınırlar içinde kalır?",
+          "answer": "Özel bir konum veya belirli bir yön ile sınırlı kalır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Nefyin ikinci türü hangi alanlara uzanır?",
+          "answer": "Dünya, kâinat, ahiret ve çağları ilgilendiren geniş iman meselelerine uzanır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu ikinci türün ispat edilememesi, iddianın hangi yönünü gösterir?",
+          "answer": "İnsanın gücünü aşan kadar kapsamlı ve dayanaksız bir hüküm olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Parçaya göre kuşatıcı inkârın ispatı için niçin olağan insan bakışı yetmez?",
+          "answer": "Çünkü insan ne bütün varlık alanını kuşatabilir ne de görünmeyen âlemleri doğrudan görebilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "Metindeki sınıflandırmanın amacı nedir?",
+          "answer": "Her reddedişi aynı saymamak ve özellikle iman hakikatlerine yönelen kapsamlı inkârın delil bakımından zayıflığını göstermek.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada küfür neden tek biçimli bir yapı olarak değil, farklı dereceler halinde ele alınır?",
+          "answer": "Çünkü her inkâr aynı seviyede değildir; kimi sadece uzak durma, kimi ise açıkça yokluğu savunma şekline bürünür.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İmanın “isbât” oluşu neyi ifade eder?",
+          "answer": "Gerçeğin varlığını kabul edip bunu bilinçli biçimde doğrulamayı ifade eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Küfür sahipleri yokluğu kabul ettirmek için uğraşırsa metin bunu nasıl değerlendirir?",
+          "answer": "Hatalı da olsa bir kanaat ve yargı kurdukları için belli ölçüde yanlış bir bilgi sayılabileceğini söyler.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Hiçbir şeyi ispat etmeden sadece reddetmek neden “mutlak cehalet” diye nitelenir?",
+          "answer": "Çünkü ortada ne sahih bir bilgi ne de temellendirilmiş bir hüküm vardır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İslâmî hakikatlere dönük olmayan yanlış inanç türü hangi bakımdan farklıdır?",
+          "answer": "Doğrudan iman esaslarıyla mücadele etmediği için ayrı tutulur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İman hakikatlerine karşı çıkan bölümün ilk şekliyle ikinci şekli arasındaki temel fark nedir?",
+          "answer": "İlkinde tasdik etmeme vardır; ikincisinde ise yokluğu benimseyip savunma vardır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "İlk şeklin “bahsimizden hariç” sayılması neyi ima eder?",
+          "answer": "Asıl meselenin aktif ve iddialı inkârla ilgili olduğunu ima eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci şeklin “itikad” sayılması hangi özelliğinden gelir?",
+          "answer": "Kalben benimsenmiş ve bağlanılmış bir düşünce olması sebebiyledir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metin, nefyin her türünü neden aynı ölçüde imkânsız görmez?",
+          "answer": "Çünkü dar alana ilişkin yokluk iddiası araştırılabilirken, sınırsız alanlara yayılan yokluk iddiası araştırılamaz.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Özel bir yerde yokluk iddiasının ispatlanabilir olması nasıl anlaşılmalıdır?",
+          "answer": "Belirli bir yer ve şart incelenerek orada bulunmadığı ortaya konabilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Genel iman meselelerinin inkârı neden “muhit” alanlara dair bir iddia sayılır?",
+          "answer": "Çünkü yalnız bir noktayı değil, kapsamı çok geniş hakikatleri içine alır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Ahireti de içine alan bir inkârın ispatı niçin daha da zorlaşır?",
+          "answer": "Çünkü görünmeyen ve insan tecrübesini aşan bir alan hakkında kesin yokluk hükmü vermeyi gerektirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Bu parçaya göre inkârın en problemli biçimi hangisidir?",
+          "answer": "Geniş ve kutsal iman hakikatlerini yok saymayı içten benimseyip bunu hüküm halinde savunan biçimdir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Parçada okuyucuya verilmek istenen fikrî ölçü nedir?",
+          "answer": "İspata dayanan iman ile ispatsız inkârı ayırt etmek ve özellikle kuşatıcı reddiyelerin sağlam delile dayanmadığını anlamaktır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metin, küfrün mahiyetini üç ana kelime etrafında nasıl toplar?",
+          "answer": "Onu inkâr, cehalet ve nefy ekseninde toplar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Küfrün bazen “isbât gibi” görünmesi neden aldatıcıdır?",
+          "answer": "Çünkü dış görünüşte iddia taşısa da içeriğinde varlığı doğrulamak değil, yok saymak vardır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İmanın bilgiyle ilişkilendirilmesi neyi öğretir?",
+          "answer": "İmanın kör bir tutum değil, hakikati bilip tasdik eden bir duruş olduğunu öğretir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Menfî bir iman meselesinin müsbet hakikate perde olması nasıl yorumlanmalıdır?",
+          "answer": "Görünüşte olumsuz ifade bulunsa da, dayandığı özün gerçek ve olumlu olduğu şeklinde yorumlanmalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde küfrî itikadın ilk kısmı için hangi olumsuz nitelemeler kullanıma uygun düşer?",
+          "answer": "Yanlış, batıl ve haksız bir kanaat olarak nitelenmeye uygundur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu ilk kısmın taraflar arasında doğrudan bir müdahale alanı oluşturmaması ne anlama gelir?",
+          "answer": "Karşılıklı tartışmanın merkezinde bulunmadığı, daha çok kişinin kendi sapmış kanaati olarak kaldığı anlamına gelir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci ana kısımda geçen “muaraza” ne tür bir tavrı gösterir?",
+          "answer": "İman hakikatlerine karşı durma ve onlara itiraz etme tavrını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "“Adem-i kabul” ile “kabul-ü adem” arasındaki ince fark nedir?",
+          "answer": "Birincisi kabulden kaçınmaktır; ikincisi ise yokluğu benimseyip doğrulamaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Hükümsüzlük ifadesi hangi durum için kullanılır?",
+          "answer": "Sadece kabul etmeme halinde, ortada kurulmuş bir yargı bulunmadığı durum için kullanılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Hangi durumda kişi nefyini ispat etmeye mecbur hale gelir?",
+          "answer": "Yokluğu kalben benimseyip bunu inanç ve hüküm olarak sahiplendiğinde.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Nefyin birinci kısmının tartışma dışında tutulması neyi gösterir?",
+          "answer": "Sınırlı ve belirli yokluk iddialarının bu metindeki ana mesele olmadığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Nefyin ikinci kısmı neden “imanî ve kudsî ve umumi” meselelerle ilişkilendirilir?",
+          "answer": "Çünkü reddedilen şeyler tekil ve dar değil, geniş kapsamlı ve yüksek değerdeki inanç esaslarıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p07:lisans:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Böyle bir genel inkârı ispatlamak için gereken nazar nasıl bir nazardır?",
+          "answer": "Kâinatı kuşatan, ahireti gören ve zamanın bütün boyutlarını kapsayan bir nazardır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p07:lisans:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Sonuç olarak metin, kapsamlı iman inkârlarının bilgi değeri hakkında ne hüküm verir?",
+          "answer": "Bunların ispat edilemeyecek ölçüde geniş iddialar olduğunu, bu yüzden sağlam bilgi niteliği taşımadığını bildirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

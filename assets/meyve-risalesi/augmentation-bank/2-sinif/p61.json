@@ -1,0 +1,1240 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:2-sinif:p61",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "2-sinif",
+  "partNo": "p61",
+  "partNumber": 61,
+  "title": "9. Mes'ele / 2. Nokta: Peygamberler ve kitapların davaları; rükünlerin ayrılmazlığı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/2-sinif/SveC_2sinif_meyve-risalesi-p61-9-mesele-2-nokta-peygamberler-ve-kitaplarin-davalari-rukunlerin-ayrilmazligi.txt",
+  "sourceRevision": "00eb42c4e05f074360a89fbc2313196dac18425f40cd91315e604a260d2571d7",
+  "setCount": 6,
+  "questionCount": 104,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bütün peygamberlerin ve gökten gelen kitapların anlattığı konular kaç ana temel etrafında toplanıyor?",
+          "answer": "Beş-altı temel etrafında toplanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Peygamberler bu temel konular için ne yapıyorlar?",
+          "answer": "Onları insanlara öğretmeye ve doğruluğunu göstermeye çalışıyorlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Peygamberlerin doğru olduğunu gösteren deliller en çok neyi destekliyor?",
+          "answer": "İman esaslarını destekliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu temel esasların içinde hangi önemli inançlar vardır?",
+          "answer": "Allah’a iman, âhirete iman ve diğer iman şartları vardır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İmanın altı şartı birbirinden kopuk mu, yoksa bağlı mı anlatılıyor?",
+          "answer": "Birbirine bağlı anlatılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bir iman esası ötekilerle nasıl bir ilişki içindedir?",
+          "answer": "Biri diğerlerini de destekler ve ister.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde iman esasları neye benzetiliyor?",
+          "answer": "Büyük ve canlı bir ağaca benzetiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Ağaç örneğinde yaprak neden tek başına düşünülmüyor?",
+          "answer": "Çünkü bütün ağaçtan güç alıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bir yaprağın canlılığını inkâr eden kimseye ağaç örneği neyi gösteriyor?",
+          "answer": "Yanlış düşündüğünü gösteriyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "İman için anlatılan bu benzetmeden hangi sonuç çıkarılıyor?",
+          "answer": "İman şartları birlikte düşünülmelidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu bölümün başında kaç nokta ve kaç nükte ile açıklama yapma niyeti olduğu söyleniyor?",
+          "answer": "Altı nokta ve her noktada beş nükte ile anlatma niyeti olduğu söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu plan neden tam olarak yazılamamış?",
+          "answer": "Bazı engeller çıktığı için yazılamamış.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S1Q11"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "İlk açıklamanın ne bakımdan yeterli olduğu söyleniyor?",
+          "answer": "Ölçü ve örnek olmada yeterli olduğu söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S1Q11"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Bir Müslüman bir iman gerçeğini inkâr ederse ne büyük tehlikeye düşer?",
+          "answer": "Tam inkâra düşer.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q15",
+          "sourceQuestionId": "S1Q15",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 15,
+          "question": "İslâm’da iman esaslarının inkârı neden çok ağır görülüyor?",
+          "answer": "Çünkü iman konuları açıkça anlatılmış ve birbirine bağlanmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q16",
+          "sourceQuestionId": "S1Q16",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 16,
+          "question": "Peygamberimizi kabul etmeyen bir Müslüman, metne göre başka hangi inançları da tam bilemez?",
+          "answer": "Allah’ı sıfatlarıyla ve âhireti tam bilemez.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q17",
+          "sourceQuestionId": "S1Q17",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 17,
+          "question": "Müslümanın imanı neye dayanıyor?",
+          "answer": "Çok kuvvetli ve sayısız delile dayanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S1Q18",
+          "sourceQuestionId": "S1Q18",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 18,
+          "question": "Son cümlede akıl için nasıl bir sonuç söyleniyor?",
+          "answer": "Akıl, imanı kabul etmeye yöneliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Gökten gelen kitaplar ve peygamberler insanlara dağınık şeyler mi anlatıyor, yoksa ortak esaslar mı öğretiyor?",
+          "answer": "Ortak esaslar öğretiyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ortak esasların amacı nedir?",
+          "answer": "İman hakikatlerini bildirmek ve ispat etmektir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Peygamberlerin doğruluğuna işaret eden deliller boşa mı gidiyor?",
+          "answer": "Hayır, iman esaslarını kuvvetlendiriyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde özellikle adı geçen iki iman konusu hangileridir?",
+          "answer": "Allah’a iman ve âhirete iman.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bunlarla birlikte başka hangi şeyler de vardır?",
+          "answer": "Diğer iman rükünleri de vardır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İmanın altı şartı ayrılabilir parçalar gibi mi gösteriliyor?",
+          "answer": "Hayır, ayrılmaz bir bütün gibi gösteriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bu altı şartın her biri ötekiler için ne yapar?",
+          "answer": "Onları da ispat eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Büyük ağaç benzetmesi neden kullanılmış olabilir?",
+          "answer": "Her parçanın bütüne bağlı olduğunu anlatmak için kullanılmış olabilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Dal, meyve ve yaprak neye dayanıyor?",
+          "answer": "Ağacın ortak hayatına dayanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu benzetme iman konusunda bize ne öğretir?",
+          "answer": "Tek bir iman şartı bile ötekilerden koparılamaz.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Müellif başlangıçta kaç iman esasını anlatmayı düşünmüş?",
+          "answer": "Altı iman esasını anlatmayı düşünmüş.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bunları toplam kaç küçük açıklama ile anlatmak istemiş?",
+          "answer": "Otuz altı küçük açıklama ile anlatmak istemiş.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S2Q11"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Başta sorulan zor soruya nasıl cevap vermek istemiş?",
+          "answer": "Açıklayarak cevap vermek istemiş.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Buna fırsat vermeyen şey ne olmuş?",
+          "answer": "Araya giren bazı durumlar olmuş.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S2Q13"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q15",
+          "sourceQuestionId": "S2Q15",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 15,
+          "question": "İlk bölümün özellikle kimler için yeterli olduğu söyleniyor?",
+          "answer": "Daha anlayışlı kimseler için yeterli olduğu söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q16",
+          "sourceQuestionId": "S2Q16",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 16,
+          "question": "İslâmiyet’te iman konularının durumu, başka dinlerin kısa anlatımlarına göre nasıldır?",
+          "answer": "Daha açık ve ayrıntılıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q17",
+          "sourceQuestionId": "S2Q17",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 17,
+          "question": "İman esaslarının zincir gibi birbirine bağlı olması neyi gösterir?",
+          "answer": "Birini bozmanın diğerlerini de etkileyeceğini gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S2Q18",
+          "sourceQuestionId": "S2Q18",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 18,
+          "question": "Metne göre inkârda mazeret kalmamasının sebebi nedir?",
+          "answer": "Çok güçlü delillerin bulunmasıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bütün peygamberler aynı ana hakikatleri anlatıyor mu?",
+          "answer": "Evet, aynı ana hakikatleri anlatıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Gökten gelen kitapların ve sahifelerin davası hangi tarafa bakıyor?",
+          "answer": "İman esaslarına bakıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Deliller peygamberlerin hangi yönünü destekliyor?",
+          "answer": "Doğru ve hak üzere olduklarını destekliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İman esasları arasında bağ var mıdır?",
+          "answer": "Evet, güçlü bir bağ vardır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bir iman şartı tek başına bırakılabilir mi?",
+          "answer": "Hayır, tek başına bırakılamaz.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metindeki ağaç örneğinde köklerin çok güçlü olması neyi anlatır?",
+          "answer": "İmanın temelinin kuvvetli olduğunu anlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Ağacın bir yaprağı bile ağacın hayatından ayrı düşünülebilir mi?",
+          "answer": "Düşünülemez.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "O hâlde bir iman şartını yok saymak neden yanlıştır?",
+          "answer": "Çünkü diğer şartlarla bağlıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu plan tamamlanamamış olsa da hangi bölüm ölçü olarak yeterli görülüyor?",
+          "answer": "Birinci nokta yeterli görülüyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre bir Müslüman iman hakikatlerinden birini reddederse sonucu ne olur?",
+          "answer": "Çok ağır bir inkâra düşer.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "İslâmiyet’te iman konuları neden daha sıkı bağlıdır?",
+          "answer": "Çünkü açıkça anlatılmış ve birbirine bağlanmıştır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Peygamber Efendimizi kabul etmeyen kimse, Allah’ı tanıma konusunda nasıl kalır?",
+          "answer": "Eksik kalır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Aynı kişi âhiret bilgisi konusunda nasıl olur?",
+          "answer": "Onu da tam bilemez.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q15",
+          "sourceQuestionId": "S3Q15",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 15,
+          "question": "Bir Müslümanın imanı zayıf tahminlere mi dayanır?",
+          "answer": "Hayır, pek çok sağlam delile dayanır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q16",
+          "sourceQuestionId": "S3Q16",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 16,
+          "question": "Bu kadar delil olunca inkâr için geçerli bir bahane kalır mı?",
+          "answer": "Hayır, kalmaz.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S3Q17",
+          "sourceQuestionId": "S3Q17",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 17,
+          "question": "Son cümleye göre akıl hangi tarafa yöneliyor?",
+          "answer": "İmanı kabul etme tarafına yöneliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde önce kimlerin ortak davasından söz ediliyor?",
+          "answer": "Kur’an’ın, diğer semavî kitapların ve bütün peygamberlerin ortak davasından söz ediliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ortak davanın çevresinde döndüğü şey nedir?",
+          "answer": "Birkaç ana iman esasıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Onlar bu esasları yalnız söylemekle mi kalıyorlar?",
+          "answer": "Hayır, öğretmeye ve delil getirmeye çalışıyorlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Peygamberliğin doğruluğunu gösteren hüccetler hangi tarafa işaret ediyor?",
+          "answer": "İman esaslarına işaret ediyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İmanın altı rüknü için nasıl bir hüküm veriliyor?",
+          "answer": "Ayrılamaz deniliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Her bir rükün ötekiler için yalnız yanında duran bir bilgi midir?",
+          "answer": "Hayır, onları da destekleyen bir esastır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İman neden parçalara ayrılmayan bir bütün gibi anlatılıyor?",
+          "answer": "Çünkü hepsi birbirine bağlıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Tûbâ ağacı benzetmesinde meyve ve yaprak neyi temsil ediyor olabilir?",
+          "answer": "İmanın tek tek şartlarını temsil ediyor olabilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Ağacın hayatı açıkça belli ise bir yaprağın canlılığı gizli kalır mı?",
+          "answer": "Hayır, gizli kalmaz.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu örnek, inkâr eden kişiye karşı nasıl bir cevap oluyor?",
+          "answer": "Bütün bağlantılar onun yanlışını ortaya çıkarıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Müellif kaç iman rüknünü açıklamayı hedeflemiş?",
+          "answer": "Altı rüknü açıklamayı hedeflemiş.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu açıklamaların hepsi yazılamayınca hangi düşünce söyleniyor?",
+          "answer": "İlk kısmın yeterince ölçü olduğu söyleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S4Q11"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Metne göre İslâm’da iman konuları kapalı mı, açık mı anlatılmıştır?",
+          "answer": "Açık anlatılmıştır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "İman şartlarının zincir gibi olması ne demektir?",
+          "answer": "Birinin ötekine bağlı olması demektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q15",
+          "sourceQuestionId": "S4Q15",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 15,
+          "question": "Peygamber Efendimizi tasdik etmeyen biri hangi iki konuda da eksik kalır?",
+          "answer": "Allah’ı tanımada ve âhireti bilmede eksik kalır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q16",
+          "sourceQuestionId": "S4Q16",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 16,
+          "question": "Müslümanın imanı ne kadar sağlam gösteriliyor?",
+          "answer": "Çok sağlam ve sarsılmaz gösteriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q17",
+          "sourceQuestionId": "S4Q17",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 17,
+          "question": "Bu sağlamlığın sebebi nedir?",
+          "answer": "Sonsuz denecek kadar çok delile dayanmasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S4Q18",
+          "sourceQuestionId": "S4Q18",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 18,
+          "question": "Aklın mecbur kalması ne anlama gelir?",
+          "answer": "Deliller yüzünden doğru olanı kabul etmeye yönelmesi demektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Kur’an ve peygamberler insanlara en çok neyi öğretir?",
+          "answer": "İman esaslarını öğretir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Deliller, peygamberlerin yalancı olduğunu mu, doğru olduğunu mu gösterir?",
+          "answer": "Doğru olduğunu gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Esasların başında hangi inanç gelir?",
+          "answer": "Allah’a iman gelir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Sonra hangi büyük inanç da anılır?",
+          "answer": "Âhirete iman anılır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre iman şartları arasında kopma olabilir mi?",
+          "answer": "Hayır, olamaz.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bir iman şartı diğerlerini nasıl etkiler?",
+          "answer": "Onları da doğrular.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Yaprağın hayatını inkâr etmek neden anlamsız olur?",
+          "answer": "Çünkü ağacın canlılığı ortadadır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu yüzden bir iman şartını inkâr etmek neden tehlikelidir?",
+          "answer": "Çünkü bütün imanla çatışır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Yazar bu bölümde geniş bir anlatım hazırlamak istemiş mi?",
+          "answer": "Evet, istemiş.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu anlatım kaç küçük bölümden oluşacaktı?",
+          "answer": "Otuz altı küçük bölümden oluşacaktı.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S5Q11"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Neden tamamı yazılamamış?",
+          "answer": "Bazı engeller çıkmış.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S5Q11"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Buna rağmen hangi kısım yeterli görülmüş?",
+          "answer": "Birinci nokta yeterli görülmüş.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S5Q11"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q15",
+          "sourceQuestionId": "S5Q15",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 15,
+          "question": "Bir Müslüman bir iman gerçeğini kabul etmezse hangi sonuca yaklaşır?",
+          "answer": "Küfre yaklaşmaz, doğrudan tam inkâra düşer.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q16",
+          "sourceQuestionId": "S5Q16",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 16,
+          "question": "İslâm’da iman esaslarının birbirine bağlı olması neyi zorlaştırır?",
+          "answer": "Bir tanesini ayırıp reddetmeyi zorlaştırır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q17",
+          "sourceQuestionId": "S5Q17",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 17,
+          "question": "Peygamberimizi tanımamak neden yalnız bir kişiyi tanımamak değildir?",
+          "answer": "Çünkü bu durum Allah’ı ve âhireti bilmeye de zarar verir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S5Q18",
+          "sourceQuestionId": "S5Q18",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 18,
+          "question": "Metnin sonunda delillerin çokluğu akıl için nasıl bir etki yapıyor?",
+          "answer": "Aklı imanı kabule yöneltiyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Semavî kitaplar ve peygamberler farklı farklı şeyler mi savunur, yoksa aynı temel gerçekleri mi?",
+          "answer": "Aynı temel gerçekleri savunur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu temel gerçeklerin etrafında dönen davaların merkezi nedir?",
+          "answer": "İman esaslarıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Peygamberlerin doğruluğunu gösteren işaretler neyi kuvvetlendirir?",
+          "answer": "Onların getirdiği iman hakikatlerini kuvvetlendirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İmanın altı şartı için metinde nasıl bir birlik anlatılıyor?",
+          "answer": "Hepsinin tek bir bütün olduğu anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu altı şartın birbirinden ayrılmaması bize ne öğretir?",
+          "answer": "İmanın bölünemeyeceğini öğretir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Tûbâ ağacı örneği niçin verilmiş olabilir?",
+          "answer": "Büyük bir bütüne bağlı olmayı göstermek için verilmiş olabilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Dal, meyve ve yaprakların hayat kaynağı nedir?",
+          "answer": "Ağacın genel hayatıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bir kimse bir yaprağın canlılığını inkâr ederse buna karşı ne olur?",
+          "answer": "Ağacın bütün hali onu yalanlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu durum iman konusunda nasıl anlaşılır?",
+          "answer": "Bir şartı inkâr eden, diğer şartlarla da ters düşer.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Müellif kaç nokta ile konuyu işlemeyi düşünmüş?",
+          "answer": "Altı nokta ile işlemeyi düşünmüş.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Her noktada kaçar nükte planlanmış?",
+          "answer": "Beşer nükte planlanmış.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu planın amacı neydi?",
+          "answer": "İman esaslarını açıklamak ve zor soruya cevap vermekti.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Planın tamamlanmasına ne engel olmuş?",
+          "answer": "Bazı sonradan çıkan durumlar engel olmuş.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S6Q12"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Birinci noktanın hangi yönüyle yeterli olduğu belirtiliyor?",
+          "answer": "Ölçü olması yönüyle yeterli olduğu belirtiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p61:2-sinif:S6Q13"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q15",
+          "sourceQuestionId": "S6Q15",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 15,
+          "question": "Metin, bir Müslümanın iman hakikatini reddetmesini hafif bir hata mı sayıyor?",
+          "answer": "Hayır, çok ağır bir düşüş sayıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q16",
+          "sourceQuestionId": "S6Q16",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 16,
+          "question": "İslâmiyet’te iman konularının açık açık anlatılması neyi ortadan kaldırıyor?",
+          "answer": "İnkar için bahaneyi ortadan kaldırıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q17",
+          "sourceQuestionId": "S6Q17",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 17,
+          "question": "Resûlullah’ı kabul etmeyen kişinin Allah ve âhiret bilgisinde nasıl bir eksik olur?",
+          "answer": "İkisini de tam bilemez.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p61:2-sinif:S6Q18",
+          "sourceQuestionId": "S6Q18",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 18,
+          "question": "Sonunda mü’minin imanı için nasıl bir sağlamlık bildiriliyor?",
+          "answer": "Çok kuvvetli ve sarsılmaz olduğu bildiriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

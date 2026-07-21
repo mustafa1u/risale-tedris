@@ -1,0 +1,575 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:lisans:p55",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "lisans",
+  "partNo": "p55",
+  "partNumber": 55,
+  "title": "21. Söz / 1. Makam / 2. İkaz: Namazın kalbe ve ruha gıda oluşu",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/lisans/SveC_lisans_kucuk-sozler-p55-21-soz-1-makam-2-ikaz-namazin-kalbe-ve-ruha-gida-olusu.txt",
+  "sourceRevision": "f6ba9bd8292bf01ef0f499df0b1b7877e945be50915e2075db80d47eed7ebb57",
+  "setCount": 6,
+  "questionCount": 47,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci ikazda namazın insanı bıktırmaması hangi günlük ihtiyaç örnekleriyle açıklanır?",
+          "answer": "Yeme, içme ve nefes alma gibi her gün tekrarlanan ama ihtiyaç olduğu için usandırmayan şeylerle açıklanır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu benzetmede namaz, insanın hangi iç yönleri için gerekli görülür?",
+          "answer": "Kalbin, ruhun ve Rabbânî yönünün beslenmesi ve ferahlaması için gerekli görülür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p55:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Kalbin gücünü ve tesellisini bulmasının yolu nasıl gösterilir?",
+          "answer": "Kudreti ve merhameti sonsuz olan Allah’a yönelip dua ve niyazla bağ kurmak olarak gösterilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Ruhun diriliği için namazın nasıl bir işlevi olduğu anlatılır?",
+          "answer": "Geçici varlıkların ayrılığı içinde kalan ruhu kalıcı olan Allah’a çevirip ona hayat verici bir kaynak sunduğu anlatılır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İnsandaki latif ve nuranî yönün dünya şartları içinde neden özel bir ihtiyacı vardır?",
+          "answer": "Dünya sıkıcı, ağır ve geçici olduğu için bu ince manevi yönün nefes alacak bir açıklığa ihtiyacı vardır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu manevi yönün nefes alması hangi yolla mümkün görülür?",
+          "answer": "Namazın açtığı manevi pencereyle mümkün görülür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p55:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre namazın tekrar etmesi neden bıkkınlık sebebi değil, aksine tabiî bir durumdur?",
+          "answer": "Çünkü ihtiyaç sürekli yenilenir; ihtiyaç tekrar ettikçe ona karşı yöneliş de sürer.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci ikazın ana fikri bir cümleyle nasıl ifade edilebilir?",
+          "answer": "Namaz, beden kadar kalp ve ruh için de zaruri bir ihtiyaçtır; bu yüzden yük değil rahmettir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci ikazın başında nefse yöneltilen eleştiri hangi zaaf etrafında şekillenir?",
+          "answer": "Yeme içmeye düşkünlük ve bedensel ihtiyaçları merkeze alma zaafı etrafında şekillenir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Tekrarlanan ihtiyaçların insanda bezginlik değil memnuniyet doğurmasının sebebi nedir?",
+          "answer": "Çünkü insan o şeylere her gün yeniden muhtaç olur ve ihtiyaç duyduğu şeye yönelmekten lezzet alır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Namazın kalbe yönelik faydası nasıl temellendirilir?",
+          "answer": "Acılar ve arzularla dolu kalbin gerçek kuvveti, merhamet sahibi Rabbe yönelmekle bulacağı söylenerek temellendirilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Ruhun dünya hayatındaki kırılganlığı hangi durum üzerinden anlatılır?",
+          "answer": "Varlıkların hızla ayrılıp gitmesi ve bunun ruhta hasret doğurması üzerinden anlatılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu ayrılık ortamında ruh için kalıcı çözüm nedir?",
+          "answer": "Sonsuz olan Mabud’a namazla yönelmek ve rahmetine sığınmaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p55:lisans:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanın ebediyet arzusuna metinde nasıl bir anlam verilir?",
+          "answer": "Bu arzu, insanın geçici olana sığmadığını ve sonsuza bakan bir yaratılışa sahip olduğunu gösteren bir işaret olarak verilir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Dünyevî hallerin insandaki ince manevi yapıyı zorlamasının sebebi nasıl anlatılır?",
+          "answer": "Dünya şartları sert, daraltıcı, karanlık ve boğucu olduğu için bu hassas yapıyı sıktığı anlatılır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci ikazdan çıkarılacak temel sonuç nedir?",
+          "answer": "Namaz, yalnız bir görev değil; insanın manevi merkezini canlı tutan vazgeçilmez bir ihtiyaçtır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde bedensel ihtiyaçlarla namaz arasında nasıl bir ilişki kurulur?",
+          "answer": "Bedenin ekmek, su ve havaya muhtaç olması gibi insanın iç dünyasının da namaza muhtaç olduğu söylenir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Kalbin “gıdası” denince burada ne anlaşılmalıdır?",
+          "answer": "Kalbin manevi olarak güç bulması, huzur kazanması ve dayanak elde etmesi anlaşılmalıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Ruh için “hayat verici kaynak” denilmesinin sebebi nedir?",
+          "answer": "Ruhun fanilik ve ayrılık karşısında canlılığını ve direncini Allah’a yönelişle korumasıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanın Rabbânî yönü neden özellikle “nefes alma” ihtiyacıyla anlatılır?",
+          "answer": "Çünkü o yön, dünya baskısı altında daralır; namaz ise ona ferahlık ve açılım sağlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde kalbin karşı karşıya olduğu iki temel alan hangileridir?",
+          "answer": "Üzüntüler ve acılar bir yanda, zevkler ve beklentiler diğer yanda gösterilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Ruhun birçok varlıkla ilgili olmasının sonucu ne olur?",
+          "answer": "Onların ayrılışı ve yok oluşu ruhta derin bir hüzün ve bağlılık acısı doğurur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu hüzün karşısında namaz neden etkili bir çare sayılır?",
+          "answer": "Çünkü insanı geçici varlıklardan alıp sonsuz ve kaybolmayan Allah’a yöneltir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p55:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde insanın özüne dair hangi yüksek vasıf vurgulanır?",
+          "answer": "İnsanın sonsuzu isteyen, ince yaratılışlı ve ilahî tecellilere ayna olabilecek bir mahiyet taşıdığı vurgulanır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci ikazda nefse verilen temel cevap nedir?",
+          "answer": "Namazın tekrar ettiği için sıkıcı sayılamayacağı, çünkü gerçek bir manevi ihtiyaç olduğu cevabı verilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Günlük yiyecek ve içecek örneği hangi düşünceyi çürütmek için kullanılır?",
+          "answer": "Sürekli yapılan şeylerin mutlaka bıkkınlık vereceği düşüncesini çürütmek için kullanılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kalbin huzura kavuşması hangi kapıya yönelmeye bağlanır?",
+          "answer": "Her şeye gücü yeten ve merhameti bol olan Allah’ın kapısına yönelmeye bağlanır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanın dünyada yaşadığı şartlar neden yetersiz görülür?",
+          "answer": "Çünkü bu şartlar geçici, sert ve daraltıcıdır; insanın derin manevi yapısını tam doyurmaz.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Namazın “pencere” olarak sunulması neyi ima eder?",
+          "answer": "Kapalı ve bunaltıcı hâlden açıklığa, ferahlığa ve ilahî rahmete açılan bir yol olduğunu ima eder.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde insanın sadece maddi yönüyle ele alınması neden eksik kalır?",
+          "answer": "Çünkü insanın asıl derinliği kalp, ruh ve manevi latifelerinde ortaya çıkar; bunlar da özel bir beslenme ister.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci ikazın bakış açısına göre namaz terk edilirse en çok hangi alan zarar görür?",
+          "answer": "İnsanın iç dünyası, özellikle kalbi, ruhu ve manevi hassasiyeti zarar görür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci ikazda namazın gerekliliği hangi mantık zinciriyle anlatılır?",
+          "answer": "Sürekli ihtiyaç duyulan şeyler usandırmaz; kalp ve ruh da sürekli namaza muhtaçtır; öyleyse namaz usandırmamalıdır şeklinde anlatılır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Kalbin çok etkilenir bir yapıda olması namaza neden ihtiyaç doğurur?",
+          "answer": "Çünkü kalp acılar, arzular ve dalgalanmalar karşısında tek başına dayanamaz; ilahî rahmete bağlanarak güç kazanır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Ruhun fani âlemde yaşadığı en temel problem nedir?",
+          "answer": "Bağlandığı varlıkların hızla kaybolması ve ayrılık duygusunun ruhu yormasıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu probleme karşı sunulan çözüm hangi yöneliştir?",
+          "answer": "Ebedî olan Allah’ın rahmetine ibadetle yönelmektir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p55:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanın sonsuzu istemesi, metinde onun hangi özelliğine delil sayılır?",
+          "answer": "Yaratılışının yalnız bu geçici dünya ile sınırlı olmadığını gösteren bir delil sayılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Dünya hâllerinin “karanlık ve boğucu” oluşu ne bakımından önemlidir?",
+          "answer": "İnsan ruhunun ve manevi inceliğinin kendi başına bu ortamda rahat edemeyeceğini göstermesi bakımından önemlidir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Namazın kişiye ferahlık vermesi, metindeki hangi insan tasavvuruyla uyumludur?",
+          "answer": "İnsanı sadece beden değil, derin ve hassas bir manevi varlık olarak gören tasavvurla uyumludur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metnin bütününe göre namaza karşı isteksizlik nasıl aşılabilir?",
+          "answer": "Namazı kuru bir tekrar değil, kalp ve ruhun zaruri ihtiyacı olarak görerek aşılabilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci ikazın girişindeki soruların amacı nedir?",
+          "answer": "Nefsin namazdan bıkma iddiasının tutarsızlığını düşündürerek göstermek.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Ekmek, su ve hava örnekleri neyin delili olarak sunulur?",
+          "answer": "Sürekli tekrar eden şeylerin ihtiyaç sebebiyle hoş karşılanabileceğinin delili olarak sunulur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Namazın insanın “beden evi” içindeki hangi misafirlerine fayda verdiği belirtilir?",
+          "answer": "Kalbe, ruha ve ilahî yön taşıyan manevi latifeye fayda verdiği belirtilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Kalbin gerçek kuvveti niçin dünyevî sebeplerde değil de Allah’a yönelişte aranır?",
+          "answer": "Çünkü kalbin yükü sınırsız gibidir; onu tam manasıyla ancak sonsuz kudret ve merhamet sahibi Rab destekleyebilir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Ruhun hayat kaynağı olarak namazın gösterilmesi hangi zemin üzerine kurulur?",
+          "answer": "Dünyadaki ayrılıkların ruha verdiği sarsıntı ve onun kalıcı olana duyduğu ihtiyaç zemini üzerine kurulur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanî sırrın çok hassas anlatılması neyi vurgular?",
+          "answer": "İnsanın manevi yönünün kaba dünya şartları içinde kolayca yıpranabileceğini vurgular.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "“Namazın penceresi” ifadesinden nasıl bir anlam çıkarılır?",
+          "answer": "Namazın, insanı daralmış dünya hâlinden çıkarıp ilahî yakınlığa ve iç huzura açtığı anlamı çıkarılır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p55:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu parçaya göre namazın insana sağladığı en geniş fayda nasıl özetlenebilir?",
+          "answer": "Namaz, kalbi besler, ruhu diriltir ve insanın manevi özünü geçici dünyanın baskısından korur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

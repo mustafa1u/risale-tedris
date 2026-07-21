@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:2-sinif:p69",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "2-sinif",
+  "partNo": "p69",
+  "partNumber": 69,
+  "title": "10. Mes'ele / Emirdağı Çiçeği: Mekkî üslûbun hikmeti (îcaz, tekrar, erkân-ı imaniye)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/2-sinif/SveC_2sinif_meyve-risalesi-p69-10-mesele-emirdagi-cicegi-mekki-uslubun-hikmeti-icaz-tekrar-erkan-i-imaniye.txt",
+  "sourceRevision": "cd9eee33a85f46befbb5602a504ba0e62d5231902a06a69e957ec55f0a4d0042",
+  "setCount": 6,
+  "questionCount": 46,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Mekkî surelerde ilk olarak kimlere hitap ediliyordu?",
+          "answer": "Mekke’deki putperestlere ve okuma yazması az olan insanlara.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yüzden Mekkî surelerde nasıl bir anlatım kullanıldı?",
+          "answer": "Güçlü, kısa ve etkili bir anlatım kullanıldı.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Mekkî surelerde en çok hangi büyük iman konuları anlatıldı?",
+          "answer": "Allah’a iman, birliği ve âhiret gibi konular anlatıldı.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu konular niçin tekrar tekrar bildirildi?",
+          "answer": "Kalplere iyice yerleşsin ve insanları ikna etsin diye.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu güçlü anlatım bazen ne kadar küçük bir yerde bile görülebilir?",
+          "answer": "Bazen bir kelimede, hatta bir harfte bile görülebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu anlatımın kuvveti karşısında belâgat âlimleri ne yaptı?",
+          "answer": "Hayran kaldılar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada, Mekkî surelerin önemli bir özelliği olarak hangi iki şey öne çıkarılıyor?",
+          "answer": "Yüksek anlatım güzelliği ve mucize gibi kısa anlatım.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Buradaki ana fikir nedir?",
+          "answer": "Mekkî sureler, ilk muhataplara uygun olarak kısa, kuvvetli ve iman esaslarını sağlam anlatan bir üslûpla gelmiştir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu insanlara anlatırken neden kısa ve öz bir yol seçildi?",
+          "answer": "Çünkü onlara açık, çabuk tesir eden ve inandıran bir anlatım gerekiyordu.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Mekkî surelerde tevhid nasıl anlatıldı?",
+          "answer": "Çok kuvvetli ve tekrarlarla desteklenmiş şekilde anlatıldı.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Parçada başlangıç ve sonla ilgili hangi iman konularına işaret ediliyor?",
+          "answer": "Yaratılışın başlangıcı ve âhirette diriliş.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Mekkî surelerde anlatımın kısa olması, mananın zayıf olduğunu mu gösterir?",
+          "answer": "Hayır, az sözle çok güçlü mana verildiğini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde, bu güzelliği ortaya koyan hangi eserlerden söz ediliyor?",
+          "answer": "Risale-i Nur’daki bazı eserlerden söz ediliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bu eserlerin gösterdiği şey nedir?",
+          "answer": "Mekkî ayetlerde çok yüksek bir belâgat ve i’caz bulunduğudur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Parçaya göre Mekkî surelerin dili niçin güçlüdür?",
+          "answer": "İlk muhatapların durumuna uygun olduğu ve imanı sağlam yerleştirdiği için güçlüdür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Mekkî ve Medenî sureler aynı anlatım biçimine mi sahiptir?",
+          "answer": "Hayır, birbirinden farklıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Parçada özellikle hangi surelerin özelliği anlatılıyor?",
+          "answer": "Mekkî surelerin özelliği anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Mekkî surelerde hangi amaç öne çıkıyor?",
+          "answer": "İman esaslarını sağlamca yerleştirmek.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanların ikna olması için hangi yol kullanılıyor?",
+          "answer": "Güçlü anlatım ve yerinde tekrar kullanılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Allah’ın varlığı ve birliği yalnız uzun uzun mu anlatılır?",
+          "answer": "Hayır, bazen çok kısa ifadelerle de anlatılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bazen bir harfte bile kuvvetli mana bulunması bize neyi gösterir?",
+          "answer": "Kur’an’ın anlatımındaki ince güzelliği gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu anlatım karşısında uzman kişiler nasıl bir hâl almıştır?",
+          "answer": "Şaşırıp hayran olmuşlardır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu parçadan nasıl bir sonuç çıkarabiliriz?",
+          "answer": "Kur’an, insanlara durumlarına uygun en güzel şekilde hitap eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Böyle bir çevreye hitap edilirken hangi özellikte söz söylemek uygun olur?",
+          "answer": "Kısa, açık, güçlü ve ikna edici söz söylemek uygun olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Mekkî surelerde en çok hangi inanç temelleri vurgulanır?",
+          "answer": "İman esasları ve Allah’ın birliği vurgulanır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Âhiretin de sıkça anılması neyi göstermektedir?",
+          "answer": "İnsanlara hesap gününü hatırlatmanın önemli olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Parçaya göre bu ispatlar sadece uzun ayetlerle mi yapılır?",
+          "answer": "Hayır, çok kısa yerlerde de yapılır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Takdim-tehir, eksiltme ve belirtme gibi anlatım şekilleri niçin önemlidir?",
+          "answer": "Çünkü manayı daha güçlü göstermeye yardım eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Mekkî surelerdeki bu özellikler hangi güzel sonuca işaret eder?",
+          "answer": "Kur’an’ın sözünün insan sözü gibi olmadığını gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Metnin bize öğrettiği en önemli derslerden biri nedir?",
+          "answer": "Kur’an’ın her sözü hikmetli ve yerli yerindedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Mekkî surelerin farklı oluşunun sebebi olarak ne anlatılıyor?",
+          "answer": "İlk dinleyenlerin durumunun farklı olması anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ilk dinleyenlerin inanç bakımından en büyük eksiği neydi?",
+          "answer": "İman esaslarını tam kabul etmemeleriydi.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu eksikliği gidermek için Mekkî surelerde hangi konular sağlam şekilde işlendi?",
+          "answer": "Allah, tevhid, başlangıç ve âhiret konuları işlendi.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Tekrarın burada görevi nedir?",
+          "answer": "Hakikati kuvvetlendirmek ve kalbe yerleştirmek.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Mekkî surelerdeki kısa anlatım çocuk gibi sade insanlara da uygun mudur?",
+          "answer": "Evet, çünkü kolay anlaşılır ama çok güçlüdür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde, bu üstünlüğün sadece bir görüş olmadığı nasıl anlatılıyor?",
+          "answer": "Büyük belâgat âlimlerinin de bunu kabul ettiği söyleniyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p69:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Risale-i Nur’dan söz edilmesi neyi desteklemek içindir?",
+          "answer": "Bu mucizevî anlatımın açıklanıp gösterildiğini belirtmek içindir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Parçaya göre Mekkî surelerin en dikkat çeken yönü nedir?",
+          "answer": "Az sözle çok büyük hakikatleri kuvvetli biçimde bildirmesidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Mekkî surelerin hangi bakımlardan farklı olduğu söyleniyor?",
+          "answer": "Anlatım güzelliği, mucize oluşu, kısa veya ayrıntılı anlatım bakımından farklı olduğu söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Mekke’deki muhatapların yapısı, anlatımı nasıl etkilemiştir?",
+          "answer": "Daha etkili ve öz bir anlatım kullanılmasına sebep olmuştur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Mekkî surelerde neden iman esasları önde gelir?",
+          "answer": "Çünkü önce insanların inancı düzeltilmek istenmiştir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Tevhidin derecelerinin anlatılması neyi amaçlar?",
+          "answer": "Allah’ın birliğini kuvvetli şekilde öğretmeyi amaçlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Parçada, hakikatlerin bazen bir cümle ya da bir kelimede verilmesi neyin işaretidir?",
+          "answer": "Çok derin manaların kısa sözlerde toplanabildiğinin işaretidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu anlatımın insanları ikna etmesi neden önemlidir?",
+          "answer": "Çünkü doğru inancın kalpte sağlamlaşması gerekir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Alanında çok güçlü kimselerin hayran olması bize ne anlatır?",
+          "answer": "Kur’an’ın sözünün çok üstün olduğunu anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p69:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Metnin tamamına göre Mekkî sureler için kısa bir tanım yapar mısın?",
+          "answer": "İmanı kuvvetle öğreten, kısa ama çok güçlü anlatıma sahip surelerdir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

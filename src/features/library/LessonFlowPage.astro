@@ -1,0 +1,75 @@
+---
+import flashcardsUsageVideo from "@/assets/lesson-flow/bilgi-kartlari-nasil-kullanilir.mp4";
+import { getUi, type Locale } from "@/i18n";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const { locale } = Astro.props as { locale: Locale };
+const text = getUi(locale);
+const lessonFlowVideos = text.home.lessonFlow.videos.map((video, index) => ({
+  ...video,
+  src: [flashcardsUsageVideo][index]
+}));
+---
+
+<BaseLayout title={text.nav.lessonFlow} description={text.home.description} locale={locale}>
+  <section class="page-band lesson-flow-page">
+    <div class="page-band__inner">
+      <header class="page-title lesson-flow-page__intro">
+        <p class="eyebrow">{text.home.hero.eyebrow}</p>
+        <h1>{text.nav.lessonFlow}</h1>
+        <p class="lede">{text.home.mixedAgeLead}</p>
+      </header>
+
+      <section class="lesson-flow-media" aria-labelledby="lesson-flow-media-heading">
+        <div class="lesson-flow-media__head">
+          <p class="eyebrow">{text.home.hero.eyebrow}</p>
+          <h2 id="lesson-flow-media-heading">{text.home.lessonFlow.mediaHeading}</h2>
+          <p>{text.home.lessonFlow.mediaLead}</p>
+        </div>
+        <div class="lesson-flow-video-grid">
+          {lessonFlowVideos.map((video) => (
+            <article class="lesson-flow-video-card">
+              <div class="lesson-flow-video-card__player">
+                <video controls preload="metadata" playsinline src={video.src}></video>
+              </div>
+              <div class="lesson-flow-video-card__body">
+                <h3>{video.title}</h3>
+                <p>{video.description}</p>
+                <small>{video.duration}</small>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <div class="home-flow-layout">
+        <div>
+          <h2>{text.home.lessonFlow.heading}</h2>
+          <ol class="lesson-flow">
+            {text.home.lessonFlow.steps.map((step) => <li>{step}</li>)}
+          </ol>
+          <details class="home-flow-detail" open>
+            <summary>{text.home.lessonFlow.mixedAgeClass.summary}</summary>
+            <p>{text.home.lessonFlow.mixedAgeClass.body}</p>
+          </details>
+        </div>
+        <aside class="home-note">
+          <h2>{text.home.desktopAppNote.heading}</h2>
+          <p>{text.home.desktopAppNote.body}</p>
+        </aside>
+      </div>
+
+      <section class="lesson-flow-page__benefits" aria-labelledby="lesson-benefits-heading">
+        <h2 id="lesson-benefits-heading">{text.home.valueHeading}</h2>
+        <div class="home-value-grid">
+          {text.home.valueCards.map((card) => (
+            <article class="home-value-card">
+              <h3>{card.title}</h3>
+              <p>{card.body}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+    </div>
+  </section>
+</BaseLayout>

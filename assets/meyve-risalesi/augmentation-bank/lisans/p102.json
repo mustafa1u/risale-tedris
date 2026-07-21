@@ -1,0 +1,715 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:lisans:p102",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "lisans",
+  "partNo": "p102",
+  "partNumber": 102,
+  "title": "11. Mes'ele / Haşiye / Lâhika: Âyetlerin işarî tefsiri (lâiklik devrinde manevî cihad; Risale-i Nur)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/lisans/SveC_lisans_meyve-risalesi-p102-11-mesele-hasiye-lahika-ayetlerin-isari-tefsiri-laiklik-devrinde-manevi-cihad-risale-i-nur.txt",
+  "sourceRevision": "581c777975a8dfd447b2cb0ea577876cc6df63201741ebaeb0e4b5399656440f",
+  "setCount": 6,
+  "questionCount": 57,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İlk cümlenin işaret ettiği tarih etrafında devlet düzeninde din açısından nasıl bir değişimden söz ediliyor?",
+          "answer": "Din ile dünya işlerinin ayrıldığı, vicdan hürriyetinin resmî bir ilke hâline geldiği ve yönetimin laik cumhuriyet çizgisine yöneldiği belirtiliyor.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yeni düzene karşı din adına öne çıkan mücadele şekli nasıl tasvir ediliyor?",
+          "answer": "Silahlı bir çatışma değil, sağlam delillere dayanan iman hizmeti şeklinde manevî bir mücadele olarak anlatılıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu manevî mücadelenin aracı hangi özellikleriyle öne çıkarılıyor?",
+          "answer": "İnanç esaslarını açık ve güçlü ispatlarla gösteren, insanın gözünü hakikate açan Kur’an kaynaklı bir nur olarak öne çıkarılıyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde nur ile karanlığın sıkça karşı karşıya getirilmesi hangi sonuca işaret sayılıyor?",
+          "answer": "O dönemdeki manevî mücadelede özel bir hizmetin ve bu hizmeti temsil eden eserin öne çıkacağına işaret kabul ediliyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Risale-i Nur’un bu mücadeledeki yeri hangi benzetmeyle açıklanıyor?",
+          "answer": "İnce ve gizli meseleleri çözen manevî bir kılıç gibi görülüyor; bu yüzden maddî silaha ihtiyaç bırakmadığı söyleniyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre geçen yirmi yıl içinde hangi iddianın fiilen doğrulandığı ifade ediliyor?",
+          "answer": "Bahsedilen gaybî haberin ve i’caz parıltısının Risale-i Nur hizmetiyle gerçekleşmiş olduğu ifade ediliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Risale-i Nur talebelerinin siyaset ve dünyevî çekişmeler karşısındaki tavrı nasıl özetlenebilir?",
+          "answer": "Günlük siyasî akımlara ve maddî kavgaya girmemeyi, bunlara değer vermemeyi ve seviyeyi düşürmemeyi tercih ederler.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metindeki örneğe göre gerçek bir talebe, kendisine ağır zarar vermek isteyen kişiye nasıl bakar?",
+          "answer": "Onu sadece düşman olarak görmez; ebedî kayıp tehlikesi içinde olduğu için acınacak biri olarak değerlendirir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bakış açısında ölüm nasıl anlamlandırılıyor?",
+          "answer": "Yok oluş değil, görev bitince başka bir âleme geçiş gibi görülüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Düşmana karşı son tavır öfke mi, başka bir ahlâkî duruş mu?",
+          "answer": "Öfke değil; merhamet, acıma ve mümkünse ıslahına çalışma tavrı öne çıkarılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S1Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başındaki cümlenin cifrî işaretle verdiği tarih hangi fikrî ve siyasî dönüşüme bağlanıyor?",
+          "answer": "Dinin kamusal hayattan ayrıldığı ve vicdan özgürlüğü adına devletin laik esaslara yöneldiği bir dönüşüme bağlanıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu dönüşüm, din hizmetini tamamen etkisiz bırakıyor mu; metne göre bunun yerine ne doğuyor?",
+          "answer": "Hayır; bunun yerine delile dayalı iman eğitimi ve irşad merkezli manevî bir mücadele doğuyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "İman hizmetinde “kılıç” ifadesi maddî bir aracı mı, yoksa başka bir gücü mü temsil ediyor?",
+          "answer": "Maddî silahı değil, kesin bilgi ve tahkikî iman gücünü temsil ediyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Hakikatin insanlara gösterilmesi hangi kaynakla ilişkilendiriliyor?",
+          "answer": "Kur’an’dan çıkan aydınlatıcı bir nurla ilişkilendiriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bu karşılaştırmaların kaynağı olarak ilgili ayet bölümünün gösterilmesi neyi ima ediyor?",
+          "answer": "Risale-i Nur’daki düşünce örgüsünün Kur’anî temele dayandığını ima ediyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Risale-i Nur’un “kahraman” olarak nitelenmesi hangi işleve dayanıyor?",
+          "answer": "Dindeki gizli meseleleri açıklaması ve manevî mücadelede etkili bir rehberlik yapmasına dayanıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki örnek konuşmada saldırgana verilen cevapta dünya ve ahiret dengesi nasıl kuruluyor?",
+          "answer": "Dünyadaki zevkin çok kısa, ahiretteki hesabın ise ağır ve uzun olduğu hatırlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Son cümlelerde örnek talebenin ahlâkî üstünlüğü hangi iki davranışla belirginleşiyor?",
+          "answer": "Kin beslememesi ve karşısındakinin kurtuluşunu isteyerek onun düzelmesini arzulamasıyla belirginleşiyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin ilk bölümünde 1350 tarihine yapılan işaretin amacı sadece tarih vermek midir, yoksa bir mesaj da taşır mı?",
+          "answer": "Sadece tarih vermiyor; o dönemdeki şartlara uygun yeni bir din hizmeti tarzını da haber veriyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "O yeni tarzda neden zor kullanmaya dayalı dinî mücadele uygun görülmüyor?",
+          "answer": "Çünkü toplumsal ve siyasî yapı buna karşı bir zemine dönüşmüş; buna karşı en etkili yol, ikna edici iman delilleriyle hizmet etmektir.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "“Rüşd” ve “irşad” vurgusu, yapılacak hizmetin hangi yönünü öne çıkarıyor?",
+          "answer": "İnsanları baskıyla değil, doğruyu açıkça gösterip bilinç kazandırarak yönlendirme yönünü öne çıkarıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde geçen “nur” ifadesi sadece mecazî bir süs müdür, yoksa somut bir göreve mi bağlanıyor?",
+          "answer": "Somut bir göreve bağlanıyor; hakikati açıklayan ve insanları aydınlatan bir iman hizmetini ifade ediyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Risale-i Nur’daki karşılaştırmaların ayetteki karşıt kavramlarla benzeştirilmesi nasıl bir bağ kuruyor?",
+          "answer": "Eserin dilinin ve yönteminin Kur’an’daki hak-batıl ayrımını takip ettiğini gösteren bir bağ kuruyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "“Maddî kılıçlara ihtiyaç bırakmamak” ifadesinden nasıl bir sonuç çıkarılır?",
+          "answer": "Esas etkinin zor ve şiddetten değil, fikrî açıklık ve manevî kuvvetten beklendiği sonucu çıkarılır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre Risale-i Nur’un son yirmi yıldaki işlevi teorik mi kalmıştır, uygulamada da görülmüş müdür?",
+          "answer": "Uygulamada da görülmüştür; bahsedilen haberin fiilen ortaya çıktığı söylenir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Talebelerin dünyevî cereyanlara girmemesi pasiflik olarak mı sunuluyor, yoksa tercih edilmiş bir usul olarak mı?",
+          "answer": "Bilinçli olarak seçilmiş bir usul olarak sunuluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Düşmana hitapta onun ebedî akıbetinin hatırlatılması hangi duygudan kaynaklanıyor?",
+          "answer": "İntikamdan değil, acıma ve uyarma niyetinden kaynaklanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin sonunda ideal talebe tipinin temel ahlâkı nasıl özetlenebilir?",
+          "answer": "Kavgayı büyütmeyen, merhameti koruyan, karşısındakinin hidayetini isteyen bir ahlâk olarak özetlenebilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İlk paragrafta anlatılan tarihî dönemde vicdan hürriyetiyle birlikte hangi yönetim anlayışı öne çıkıyor?",
+          "answer": "Laik cumhuriyet anlayışının güç kazandığı ifade ediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu şartlar altında din uğruna mücadele hangi alana taşınıyor?",
+          "answer": "Silahlı alandan çıkarılıp manevî ve fikrî alana taşınıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde tahkikî iman niçin bu kadar merkezi bir yerde duruyor?",
+          "answer": "Çünkü hakikati sağlam delillerle ortaya koyarak insanı ikna eden asıl güç olarak görülüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an’dan çıkacağı bildirilen nurun temel görevi nedir?",
+          "answer": "Doğruyu ve gerçeği açık biçimde gösterip insanları irşad etmektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Nur-zulümat ve iman-karanlık karşılaştırmalarının tekrar edilmesi nasıl bir “gizli işaret” sayılıyor?",
+          "answer": "O çağın manevî savaşında özel bir hizmetin önceden haber verilmesi gibi değerlendiriliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metindeki şükür ifadesi hangi gerçekleşmeye bağlanıyor?",
+          "answer": "Bu manevî haberin uzun yıllar boyunca hizmet sahasında somut biçimde görülmesine bağlanıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Risale-i Nur talebeleri neden maddî mücadeleleri küçük görmüyor ama onlara girmiyor?",
+          "answer": "Çünkü asıl vazifelerinin başka bir sahada, yani iman ve hakikat hizmetinde olduğuna inanıyorlar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Verilen örnekte düşmana “seninle uğraşmam” denmesi neyi gösterir?",
+          "answer": "Kişisel çekişmeyi büyütmeyip esas gayeden sapmamayı gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Zalim birine acımak ve onun düzelmesini istemek, metnin hangi ana temasını güçlendiriyor?",
+          "answer": "Manevî cihadın şiddet değil, hikmet, sabır ve şefkat üzerine kurulu olduğu temasını güçlendiriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre 1350 tarihine işaret eden cümle, o devrin hangi temel özelliğini haber veriyor?",
+          "answer": "Devletin din karşısındaki tutumunun değiştiğini ve laiklik yönünde yeni bir siyasal çerçevenin oluştuğunu haber veriyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yeni durumda din hizmetinin başarısı hangi yönteme bağlanıyor?",
+          "answer": "Baskı yerine ispat, açıklama ve ikna gücüne bağlanıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "“İman-ı tahkikî kılıncı” sözüyle hangi eğitim anlayışı destekleniyor?",
+          "answer": "Sorgulanmış, delille pekişmiş ve şuurlu imanı esas alan bir eğitim anlayışı destekleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an’dan çıkan nurun “tebyin” ve “tebeyyün” ile anılması neyi düşündürür?",
+          "answer": "Hakikatin hem açıklanmasını hem de açık seçik anlaşılır hâle gelmesini düşündürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Risale-i Nur’daki karşılaştırmaların ayetle bağlantılı gösterilmesi, eser hakkında nasıl bir değerlendirme sunuyor?",
+          "answer": "Onun Kur’anî bir çizgide yürüdüğü ve bu çizgiden beslendiği değerlendirmesini sunuyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde niçin maddî kılıçtan ziyade manevî kılıç vurgulanıyor?",
+          "answer": "Çünkü dönemin ihtiyaçlarına cevap veren asıl kuvvetin düşünce, delil ve iman olduğu savunuluyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Son yirmi yıl vurgusu hangi delil türü olarak kullanılıyor?",
+          "answer": "Tecrübe ve fiilî gözlem türünde bir delil olarak kullanılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Nur talebelerinin siyaset dışı duruşu, onların topluma ilgisiz olduğunu mu gösterir?",
+          "answer": "Hayır; topluma ilgisizlik değil, hizmet usulünü siyasetten ayırma tercihini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Düşmana yönelik sözlerde ona verilen en önemli uyarı nedir?",
+          "answer": "Geçici dünya hesabıyla hareket edip ebedî sonucunu düşünmemesinin büyük bir kayıp olduğudur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin sonunda düşmana karşı benimsenen yaklaşımın İslam ahlâkı açısından özeti nedir?",
+          "answer": "Kötülüğe kötülükle karşılık vermek yerine, merhametle ıslah yolu aramaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İlk paragrafta geçen tarih işareti, din-devlet ilişkilerinde nasıl bir ayrışmayı gündeme getiriyor?",
+          "answer": "Dinin dünya işlerinden ayrıldığı ve devlet yapısının bunu esas alan bir biçime dönüştüğü bir ayrışmayı gündeme getiriyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre böyle bir dönemde din için en uygun mücadele biçimi neden manevîdir?",
+          "answer": "Çünkü zorlamaya dayalı yol kapanırken, delil ve irşad yoluyla insanların kalp ve aklına hitap etmek daha uygun hâle gelmiştir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İman hakikatlerini göstermede “gözlere gösterecek derecede” denmesi nasıl anlaşılmalıdır?",
+          "answer": "Delillerin çok açık, ikna edici ve şüpheyi azaltacak derecede kuvvetli olması şeklinde anlaşılmalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Ayetteki zıt kavramlarla Risale-i Nur’daki denge ve karşılaştırmalar arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Eserdeki yöntem ve vurguların o ayetlerin işaret ettiği hakikatlerle uyumlu olduğu söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "“Büyük kahraman” ifadesi bir şahsa mı, yoksa bir esere mi yöneltiliyor?",
+          "answer": "Bir esere, yani Risale-i Nur’a yöneltiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu eserin maddî silaha ihtiyaç bırakmaması hangi bakımdandır?",
+          "answer": "İnanç alanındaki düğümleri çözmesi ve manevî savunmayı güçlü şekilde yapması bakımındandır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde geçen “ihbar-ı gayb” ve “lem’a-i i’caz” ifadeleri birlikte neyi anlatmak için kullanılıyor?",
+          "answer": "Önceden bildirilen bir hakikatin sonradan gerçekleşmesini ve bunun hayranlık uyandıran yönünü anlatmak için kullanılıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Hakikî talebelerin siyasî ve maddî çatışmalara girmemesi onların hangi önceliğini gösterir?",
+          "answer": "Önceliklerinin dünya menfaati değil, iman hizmeti ve ahiret merkezli bir duruş olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Düşmana verilen cevapta kendi ölümü nasıl değerlendiriliyor ve bu değerlendirme neyi sağlar?",
+          "answer": "Ölüm bir terhis gibi görülüyor; bu da korkuyu azaltıp metaneti artırıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p102:lisans:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p102:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Son cümledeki merhamet tavrı, düşmanı nasıl görmeye yönlendiriyor?",
+          "answer": "Sadece cezalandırılacak biri olarak değil, kurtulması umulan ve düzelmesi istenen biri olarak görmeye yönlendiriyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

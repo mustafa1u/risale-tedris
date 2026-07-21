@@ -1,0 +1,864 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:lisans:p22",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "lisans",
+  "partNo": "p22",
+  "partNumber": 22,
+  "title": "7. Söz: Şeytanın iğvası; tılsım-ilâç-bilet muhaveresi ve ikaz",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/lisans/SveC_lisans_kucuk-sozler-p22-7-soz-seytanin-igvasi-tilsim-ilac-bilet-muhaveresi-ve-ikaz.txt",
+  "sourceRevision": "0d96974ae24f3b773f608fac602293956ec0e97fcaf2eec2d54207b553642b8f",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Hedef pasajda kişiyi aldatmaya çalışan kimse, onu ilk olarak neye çağırmaktadır?",
+          "answer": "Eğlenceye, zevke ve nefsin hoşuna giden şeylere yönelmeye çağırmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Aldatıcı kişinin dikkat çektiği şeyler hangi tür dünyevî cazibelerdir?",
+          "answer": "Görüntü, ses, yiyecek ve sarhoş edici keyifler gibi duyuları cezbeden geçici lezzetlerdir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Eldeki şey “ilaç” olarak açıklanınca aldatıcı kişi buna nasıl tepki vermektedir?",
+          "answer": "Kişinin aslında hasta olmadığını söyleyip ilacı bırakmasını istemektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Beş işaretli kâğıt neyi temsil etmektedir?",
+          "answer": "Yol için gerekli bir geçiş belgesini ve rızık payını gösteren bir belgeyi temsil etmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Aldatıcı kişi bu belge hakkında ne yapılmasını istemektedir?",
+          "answer": "Onun parçalanmasını ve yol hazırlığından vazgeçilmesini istemektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu çağrının etkisi altında kalan kişi nasıl bir iç hâle girmektedir?",
+          "answer": "Bir ölçüde kandırılmakta ve o tarafa meyletmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde “insanın aldanabileceği” düşüncesi nasıl desteklenmektedir?",
+          "answer": "Bunun sadece hikâyedeki kişiyle sınırlı olmadığı, umum insanın böyle bir zafiyete sahip olduğu belirtilerek desteklenmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Sağ taraftan gelen güçlü ses önce hangi temel uyarıyı yapmaktadır?",
+          "answer": "Aldanmamayı ve aldatıcının sözüne kapılmamayı emretmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu ses, aldatıcıya karşı nasıl bir ölçü koymaktadır?",
+          "answer": "Önce insanın temel dertlerini çözebiliyorsa çözmesini, ancak ondan sonra zevk çağrısı yapmasını söylemektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Aldatıcıdan çözmesi istenen büyük tehlikeler nelerdir?",
+          "answer": "Arkadaki ölüm tehdidi, öndeki yok oluş sahnesi, iki yandaki yaralar ve kaçınılmaz yolculuktur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Bu meydan okumanın ana fikri nedir?",
+          "answer": "Geçici hazlar, insanın esas meselelerine çare olamadığı için güvenilir bir teklif değildir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S1Q11"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Pasajdaki çatışma, özünde hangi iki çağrı arasında geçmektedir?",
+          "answer": "Nefsin hoşuna giden aldatıcı çağrı ile hakikate ve kurtuluşa yönelten uyarı arasında geçmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajda ortaya çıkan aldatıcı kimsenin üslubu nasıldır?",
+          "answer": "Baştan çıkarıcı, hafife alıcı ve insanı oyalayıcı bir üsluptur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kimse eğlence teklifini hangi araçlarla süslemektedir?",
+          "answer": "Göz alıcı suretler, hoş nağmeler, tatlı yiyecekler ve sarhoşluk veren keyiflerle süslemektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İlaç benzetmesi, kişinin içinde bulunduğu durum hakkında ne ima etmektedir?",
+          "answer": "Görünürde fark edilmese bile kişinin ciddi bir manevi sıkıntı içinde olduğunu ima etmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Aldatıcı kimsenin “sağlamsın” demesi neden yanıltıcıdır?",
+          "answer": "Çünkü gerçek tehlikeleri görmezden gelmekte ve sahte bir güven duygusu aşılamaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bilet ve erzak belgesi birlikte düşünülünce ne anlam taşır?",
+          "answer": "Önünde uzun bir yol bulunan kişinin yol hazırlığına muhtaç olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Her türlü hile ile ikna etmeye çalışma” ifadesi, aldatmanın hangi yönünü öne çıkarır?",
+          "answer": "Tek bir sözle değil, çok yönlü ve ısrarlı yöntemlerle yapıldığını öne çıkarır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Sağ taraftan gelen sesin gök gürültüsüne benzetilmesi neyi hissettirir?",
+          "answer": "Uyarının sarsıcı, ciddi ve ihmale gelmez olduğunu hissettirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu sesin aldatıcıya sunduğu şart neden önemlidir?",
+          "answer": "Çünkü sözün değerini, insanın en büyük korku ve acılarına gerçek çözüm getirip getirmediğiyle ölçmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Pasajda sayılan sorunlar çözülemezse eğlence çağrısının hükmü ne olur?",
+          "answer": "Boş, yetersiz ve insanı oyalayan bir teklif olarak kalır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Son cümlede aldatıcıya yöneltilen sert hitap neyi gösterir?",
+          "answer": "Hakikate karşı yapılan saptırmanın ciddiye alınmadığını ve kesin biçimde reddedildiğini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Bu parçadan çıkarılabilecek temel ders nedir?",
+          "answer": "Nefsin hoşuna giden her teklif faydalı değildir; asıl ölçü, insanın varoluşsal meselelerine çare olup olmamasıdır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajın başında yapılan davet, insanın hangi yönünü hedef almaktadır?",
+          "answer": "Şehvetini, hevesini ve anlık haz arzusunu hedef almaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Güzel görüntüler ve hoş seslerin birlikte anılması neyi göstermektedir?",
+          "answer": "Aldanmanın sadece bir duyu üzerinden değil, birçok kapıdan geldiğini göstermektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İlaç ile eğlence teklifi arasında nasıl bir karşıtlık vardır?",
+          "answer": "Biri tedavi ve iyileşmeye, diğeri ise oyalanma ve gaflete yöneltmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Beş işaretli belgeyi yok etmeye çağırmak, sembolik olarak ne anlama gelir?",
+          "answer": "Kişinin istikametini, hazırlığını ve sorumluluk bilincini ortadan kaldırmaya çalışmak anlamına gelir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Kişinin biraz yönelmesi, bu anlatımda neden önemlidir?",
+          "answer": "Çünkü sapmanın bir anda tam düşüşle değil, küçük bir meyille başlayabileceğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Sağdan gelen ses, öncelikle nasıl bir muhakeme öğretmektedir?",
+          "answer": "Teklife kapılmadan önce onun gerçek problemlere çözüm getirip getirmediğini sorgulama muhakemesi öğretmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Arkadaki yırtıcı hayvanın ortadan kaldırılması şartı neyi temsil eder?",
+          "answer": "İnsan üzerindeki büyük tehdidin giderilmesi gereğini temsil eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Öndeki darağacının kaldırılması talebi hangi kaygıyla ilişkilidir?",
+          "answer": "Yok oluş, ayrılık ve sonla yüzleşme kaygısıyla ilişkilidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "İki yandaki yaraların giderilmesi talebi neden ayrıca zikredilmektedir?",
+          "answer": "Çünkü insanın sadece dış tehlikeleri değil, içten taşıdığı acıları da vardır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Peşindeki yolculuğun engellenmesi isteği neyi vurgular?",
+          "answer": "Kaçınılmaz gidişin ve geleceğin insan için temel bir mesele olduğunu vurgular.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Sağ taraftan gelen sesin sonunda semavî zata yönlendirme yapılması neyi gösterir?",
+          "answer": "Kurtuluş yolunun aldatıcı heveslerde değil, yüce kaynaktan gelen rehberlikte olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S3Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Aldatıcı kişinin konuşmasına bakıldığında, onun amacı karşısındakine neyi unutturmaktır?",
+          "answer": "İçinde bulunduğu ciddi tehlikeleri ve uzun yolculuk hazırlığını unutturmaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Davette geçen yiyecek, müzik ve suretler ortak olarak neyi temsil eder?",
+          "answer": "Geçici dünya zevklerini temsil eder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "“Ağzında ne okuyorsun?” sorusu, aldatıcının hangi tavrını gösterir?",
+          "answer": "Manevi dayanağı öğrenip onu etkisiz hâle getirme tavrını gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İlacın reddedilmesi istenince, aslında hangi ihtiyaç inkâr edilmiş olur?",
+          "answer": "İnsanın tedaviye ve manevi ıslaha olan ihtiyacı inkâr edilmiş olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bilet ve erzak belgesine karşı çıkılması, gelecek hakkında nasıl bir yanlış telkin üretir?",
+          "answer": "Hazırlığın gereksiz olduğu ve hesabın ertelenebileceği şeklinde yanlış bir telkin üretir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde aldatıcının başarısı tam mıdır, kısmi midir?",
+          "answer": "Kısmidir; kişi tamamen teslim olmadan önce uyarı gelmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Sağdan gelen sesin ani ve güçlü oluşu neye işaret eder?",
+          "answer": "Hakikatin gerektiğinde insanı sarsarak uyandırdığına işaret eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu sesin önerdiği cevap tarzı nasıl bir düşünme yöntemi içerir?",
+          "answer": "İddiayı sonuçlarıyla sınayan, delil ve çözüm isteyen bir düşünme yöntemi içerir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Aldatıcıdan beklenen çözüm neden fiilen imkânsız görünmektedir?",
+          "answer": "Çünkü teklif ettiği zevkler, ölüm, ayrılık, acı ve mecburi yolculuk gibi büyük hakikatleri ortadan kaldıramaz.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "“Önce yap da görelim” anlamındaki meydan okuma neyi amaçlar?",
+          "answer": "Aldatıcı sözün içinin boş olduğunu ortaya çıkarmayı amaçlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Sonunda semavî zata kulak verilmesinin istenmesi neyin tercih edilmesidir?",
+          "answer": "Nefsânî çağrı yerine ilahî rehberliğin tercih edilmesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajda geçen aldatıcı çağrı, insanı hangi tür hayat anlayışına çekmek istemektedir?",
+          "answer": "Sorumluluk yerine hazza dayalı, kısa vadeli bir hayat anlayışına çekmek istemektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Eğlence teklifinin peş peşe sıralanması nasıl bir etki oluşturur?",
+          "answer": "Kişiyi düşünmeden sürüklemek için yoğun bir cazibe atmosferi oluşturur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Sessizce okunan şeyin korunması neden önemlidir?",
+          "answer": "Çünkü o, kişinin aldanmaya karşı elindeki manevi dayanaklardan biridir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İlaç ile biletin birlikte bulunması neyi gösterir?",
+          "answer": "Kişinin hem yaralı olduğunu hem de bir yolculuğa hazırlanması gerektiğini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Aldatıcı kişi neden önce bu iki şeyi değersiz göstermeye çalışmaktadır?",
+          "answer": "Çünkü insanı hakikatten koruyan araçları devre dışı bırakmadan onu kolayca yönlendiremez.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metindeki aldanma hâli, insan tabiatı hakkında hangi gerçeği hatırlatır?",
+          "answer": "İnsanın zaaf taşıdığını ve süslü telkinlerle kolayca sarsılabildiğini hatırlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Sağ taraftan gelen ses, sadece yasak koymakla mı yetinmektedir?",
+          "answer": "Hayır, aynı zamanda sağlam bir ölçü ve cevap biçimi öğretmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu ölçüye göre bir davetin doğruluğu nasıl anlaşılır?",
+          "answer": "İnsanın temel korkularını, acılarını ve kaçınılmaz yolunu gerçekten çözebilmesiyle anlaşılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Arkadaki tehlike ile öndeki darağacının birlikte anılması neyi kuvvetlendirir?",
+          "answer": "İnsanın hem peşinden gelen hem de karşısında duran büyük tehditlerle çevrili olduğu fikrini kuvvetlendirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Sağ ve soldaki yaraların ayrıca zikredilmesi, insanın hangi yönünü öne çıkarır?",
+          "answer": "İç dünyasında taşıdığı eksiklik ve acziyet yönünü öne çıkarır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Yolculuğun menedilmesi şartı neden konulmaktadır?",
+          "answer": "Çünkü insanın yüzleştiği en büyük gerçeklerden biri de kaçamayacağı ilerleyiştir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Aldatıcı bunlara çözüm sunamazsa onun daveti nasıl değerlendirilmelidir?",
+          "answer": "Ciddiyetsiz ve aldatıcı bir oyalanma olarak değerlendirilmelidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Pasajdaki yönlendirme, kişiyi sonuçta kime kulak vermeye sevk eder?",
+          "answer": "Gökten gelen hak sözlü rehbere kulak vermeye sevk eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Bu parçadaki ana mesaj bir cümleyle nasıl özetlenebilir?",
+          "answer": "Geçici zevkler insanın asıl dertlerini çözmez; bu yüzden kurtuluş, hevese değil hakikate uymaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada kişiyi kandırmaya çalışan adamın temel yöntemi nedir?",
+          "answer": "Hoşa giden şeyleri öne çıkarıp tehlikeleri unutturmak suretiyle kandırmaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Davette yer alan unsurlar daha çok bedenî mi, ruhî mi hazlara yöneliktir?",
+          "answer": "Daha çok bedenî ve duyusal hazlara yöneliktir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İlaç hakkındaki konuşma, görünüş ile gerçek arasındaki hangi farkı gösterir?",
+          "answer": "Dışarıdan iyi görünen birinin içte aslında yardıma muhtaç olabileceğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bilet ve tayın belgesi ne tür bir hazırlığın işaretidir?",
+          "answer": "Önünde bulunan ciddi ve uzun bir sefer için yapılan hazırlığın işaretidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Aldatıcı kimsenin bu hazırlığa karşı çıkması neyi amaçlar?",
+          "answer": "Kişiyi geleceğini düşünmekten alıkoyup bugünün keyfine hapsetmeyi amaçlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Kişinin biraz meyletmesi neden ibret vericidir?",
+          "answer": "Çünkü iman ve akıl sahibi insan bile dikkatsiz kalınca aldatıcı sözlerden etkilenebilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Sağ cihetten gelen sesin ilk emri nedir?",
+          "answer": "Aldanmama emridir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu sesin öğrettiği cevapta önce hangi tür delil istenmektedir?",
+          "answer": "Sözde değil fiilde, yani gerçek çözüm üreten bir delil istenmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Aldatıcıdan istenen çareler hangi alanları kapsar?",
+          "answer": "Ölüm korkusu, yok oluş gerçeği, iç yaralar ve zorunlu yolculuk gibi hayatın en temel alanlarını kapsar.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu şartların sıralanması, zevk teklifini hangi açıdan yetersiz bırakır?",
+          "answer": "Onun sadece yüzeyde kaldığını, varoluşun ağır meselelerine ulaşamadığını göstererek yetersiz bırakır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p22:lisans:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Son kısımda aldatıcıya “sus” denmesi neyin ifadesidir?",
+          "answer": "Batıl ve faydasız sözün reddedilmesinin ifadesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Hızır’a benzetilen semavî zatın sözüne dönülmesi neyi temsil eder?",
+          "answer": "Doğru rehberliğe, umut veren hakikate ve kurtuluş yoluna dönmeyi temsil eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p22:lisans:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Pasajın eğitim açısından verdiği en önemli ders nedir?",
+          "answer": "İnsan, karar verirken sadece hoşuna gidene değil, hakikatte kendisini kurtaracak olana yönelmelidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

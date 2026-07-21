@@ -1,0 +1,701 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:lisans:p56",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "lisans",
+  "partNo": "p56",
+  "partNumber": 56,
+  "title": "21. Söz / 1. Makam / 3. İkaz: Sabırsızlık vehmi; üç sabır",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/lisans/SveC_lisans_kucuk-sozler-p56-21-soz-1-makam-3-ikaz-sabirsizlik-vehmi-uc-sabir.txt",
+  "sourceRevision": "550f56272af0c3b543d3e745edd2fcc593a9d919bf5128130482476484cdec28",
+  "setCount": 6,
+  "questionCount": 59,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü ikazda, geçmiş ve gelecek ibadetleri bugünden yük edinmenin akıl bakımından yanlış görülmesinin sebebi nedir?",
+          "answer": "Çünkü insanın elindeki vakit bugündür; geçmişin yükü bitmiş, geleceğin yükü ise henüz gelmemiştir. Bunları bugüne taşıyınca sabır dağılır ve kişi boş yere yorulur.",
+          "wordCount": 23,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen askerî örnekte kumandanın temel hatası nedir?",
+          "answer": "Kuvvetlerini ihtiyaç olmayan yerlere dağıtıp merkezini zayıflatmasıdır. Böylece asıl saldırıya açık hâle gelir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu örnekteki merkezî kuvvetin zayıflaması, insanın iç dünyasında neye benzetilmektedir?",
+          "answer": "Kişinin sabır ve dayanma gücünü yanlış yerlere harcamasına benzetilmektedir. Böyle yapınca bugünkü vazifeye karşı kuvveti azalır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p56:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Geçmiş günlerde çekilen zahmetler metinde hangi dönüşümle ele alınmaktadır?",
+          "answer": "Onların acı tarafının geçtiği, geride ise rahmet, sevap ve manevî faydanın kaldığı anlatılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Gelecekteki sıkıntıları şimdiden dert edinmek hangi davranışa benzetilmektedir?",
+          "answer": "Henüz yaşanmamış açlık ve susuzluğu bugünden feryat ederek çekiyormuş gibi davranmaya benzetilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İbadet konusunda akıllıca hareket etmek isteyen bir kimse bugüne nasıl bakmalıdır?",
+          "answer": "Sadece bugünkü görevine odaklanmalı ve kısa bir zamanı büyük karşılığı olan değerli bir kulluğa ayırdığını düşünmelidir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde “acı gevşekliğin tatlı gayrete dönüşmesi” neye bağlıdır?",
+          "answer": "Zihni geçmiş ve gelecek yüklerinden çekip bugünkü vazifeye yöneltmeye bağlıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Üç çeşit sabır hangileridir?",
+          "answer": "İtaatte sebat etmek, günahtan uzak durmak ve belâ karşısında metanet göstermektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu üç sabrın yükünü taşıyabilmek için ne tavsiye edilmektedir?",
+          "answer": "Allah’tan yardım isteyip sabrı dağılmadan doğru yerde kullanmak tavsiye edilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p56:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Sabır kuvveti yanlış yerlerde tüketilmezse hangi sonuca ulaşılır?",
+          "answer": "Kişi zorluklara ve musibetlere karşı yeterli dayanıklılığı bulur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü ikazın ana meselesi hangi ahlâkî zaaf etrafında kurulmuştur?",
+          "answer": "Sabırsızlık etrafında kurulmuştur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde sabırsızlık, zaman algısını nasıl bozuyor?",
+          "answer": "Kişi geçmişin bitmiş yükünü ve geleceğin gelmemiş yükünü bugüne taşıyarak mevcut anı gereksiz yere ağırlaştırıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Geçmişte yapılan ibadet ve çekilen sıkıntılar neden bugün için doğrudan yük sayılmıyor?",
+          "answer": "Çünkü onların zahmeti geride kalmıştır; bugün elde kalan tarafı manevî kazanç ve hoş neticedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Gelecekteki ibadetleri şimdiden düşünüp usanmanın yanlışlığı nasıl temellendiriliyor?",
+          "answer": "Çünkü henüz sorumluluk vakti gelmemiş bir şeyi bugünün omzuna yüklemek gerçekçi değildir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Kumandan örneği, sabrın kullanımı hakkında hangi dersi veriyor?",
+          "answer": "İnsan kuvvetini dağınık ve zamansız kullanırsa en gerekli yerde güçsüz kalır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre ibadet için ayrılan zaman nasıl nitelendirilmektedir?",
+          "answer": "Az zahmetli ama karşılığı çok büyük, güzel ve yüce bir hizmet vakti olarak görülmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Burada “yalnız bugünü düşünmek” anlayışı ihmalkârlık mıdır, yoksa bilinçli bir ölçü müdür? Açıklayınız.",
+          "answer": "Bilinçli bir ölçüdür; amaç sorumluluğu terk etmek değil, her günün görevini kendi vaktinde taşıyarak sabrı korumaktır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "“Yâ Sabûr” hitabının bu bölümdeki işlevi nedir?",
+          "answer": "Kişiyi ilâhî yardıma yönlendirip sabır konusunda ruhen toparlamaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Musibete karşı sabır ile ibadette sabır arasında nasıl bir ortak nokta vardır?",
+          "answer": "İkisi de insanın yükü doğru zamanda ve doğru şekilde taşımasını gerektirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan çıkan pratik ders nedir?",
+          "answer": "Mümin, sabrını dağıtmadan bugünün ibadetini yerine getirmeli, geçmişe üzülüp geleceğe yıpratıcı biçimde takılmamalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde geçmiş, şimdi ve gelecek arasında nasıl bir görev paylaşımı yapılmaktadır?",
+          "answer": "Geçmiş kapanmıştır, gelecek henüz açılmamıştır, fiilî sorumluluk ise bugünün içindedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Geçmiş sıkıntıların bugün rahmete dönüşmesi neyi gösterir?",
+          "answer": "Zorluğun kalıcı olmadığını, kulluğun meyvesinin ise insanın lehine kaldığını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Askerî temsilin verilme amacı nedir?",
+          "answer": "Soyut bir iç hâli somut bir tabloyla açıklayarak sabrın yanlış kullanımını daha açık göstermektir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Düşman gelmeden sol tarafa asker sevk edilmesi hangi psikolojik duruma benzer?",
+          "answer": "Henüz gerçekleşmemiş olayları olmuş gibi düşünüp gereksiz endişe üretmeye benzer.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre kişinin bugünkü ibadete bakışı nasıl olursa isteksizlik azalır?",
+          "answer": "Onu ağır bir yük değil, kıymetli neticesi olan kısa bir kulluk fırsatı olarak görürse isteksizlik azalır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Üç sabırdan “masiyetten sabır” ne anlama gelir?",
+          "answer": "Günaha yönelten isteklere karşı kendini tutabilmek anlamına gelir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "“Merdane” bir tavırla sabır istemek nasıl bir ruh hâline işaret eder?",
+          "answer": "Korkakça kaçmak yerine dayanıklı, vakarlı ve bilinçli bir duruşa işaret eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Sabır gücünün her musibete yeterli olmasının şartı nedir?",
+          "answer": "Onu yanlış yere saçıp tüketmemek şartıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölüm, ibadet yorgunluğunu azaltmak için hangi zihinsel düzeltmeyi öneriyor?",
+          "answer": "Zamansız yüklenmeyi bırakıp sadece mevcut göreve yoğunlaşmayı öneriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre sabırsızlık sadece duygusal bir problem midir, yoksa düşünme hatası da mıdır?",
+          "answer": "İkisi birdendir; hem ruhu yorar hem de zamanı ve yükü yanlış hesaplayan bir düşünme hatasıdır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü ikazda nefsin en belirgin kusuru nasıl tanıtılmaktadır?",
+          "answer": "Dayanması gereken yerde dağılması ve zamanları birbirine karıştırması olarak tanıtılmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metindeki kumandan neden başarısız oluyor?",
+          "answer": "Elindeki gücü gerçek ihtiyaçlara göre kullanmadığı için asıl korunması gereken noktayı savunmasız bırakıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu örnekten hareketle, insan sabrını hangi alanlarda israf edebilir?",
+          "answer": "Geçmişe hayıflanmakta ve geleceği zamansız biçimde dert edinmekte israf edebilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Geçmiş ibadetlerin meşakkati bugün için neden usanç sebebi olmamalıdır?",
+          "answer": "Çünkü onların zahmeti gitmiş, faydası ve sevabı kalmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Gelecek günlerin ibadetini bugünden düşünerek gevşemek neden akılsızlık sayılmaktadır?",
+          "answer": "Çünkü henüz gelmemiş bir vazifenin sıkıntısını bugünden yaşamak gereksiz bir yüklenmedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metin, bugünkü ibadetin süresi ve karşılığı hakkında nasıl bir denge kuruyor?",
+          "answer": "Ayrılan vaktin az, elde edilen karşılığın ise çok büyük olduğunu vurguluyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Üç sabrın birlikte zikredilmesi neyi gösterir?",
+          "answer": "Müminin hayatında sabrın yalnızca musibet anlarında değil, ibadet ve günahlardan kaçınma alanlarında da gerekli olduğunu gösterir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Sabır kuvvetinin Allah tarafından verildiğinin söylenmesi, kula hangi sorumluluğu yükler?",
+          "answer": "Bu nimeti doğru kullanma, boşa tüketmeme ve yerli yerinde değerlendirme sorumluluğunu yükler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu parçaya göre gerçek dayanıklılık nasıl elde edilir?",
+          "answer": "İmanlı bir şuurla sabrı toplu tutup doğru meseleye yöneltmekle elde edilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bölümün genel mesajını tek cümleyle ifade ediniz.",
+          "answer": "Mümin, sabrını geçmiş ve geleceğe dağıtmayıp bugünkü kulluğa yöneltirse hem ibadette sebat eder hem de sıkıntılara dayanır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü ikazda kişiye ilk olarak hangi yanlış hesap hatırlatılmaktadır?",
+          "answer": "Geçmişteki zahmetleri ve gelecekteki yükleri aynı anda bugüne yığma yanlışlığı hatırlatılmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Geçmişin elemi ile geçmişin meyvesi arasında nasıl bir ayrım yapılmaktadır?",
+          "answer": "Acı kısmının sona erdiği, kalıcı olanın ise manevî kazanç olduğu belirtilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Henüz gelmeyen günlerin düşünülmesi insanda hangi olumsuz sonucu doğurur?",
+          "answer": "Bezginlik, şevk kaybı ve görevden geri durma hâli doğurur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre ibadette doğru odak noktası nedir?",
+          "answer": "İçinde bulunulan günün vazifesidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "“Bir saatlik hizmet” ifadesiyle hangi anlayış güçlendiriliyor?",
+          "answer": "İbadetin taşınamaz bir yük değil, sınırlı süreli ve yüksek değerli bir kulluk işi olduğu anlayışı güçlendiriliyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Üç sabır arasında, günahla ilgili olanı nasıl açıklarsınız?",
+          "answer": "Haram ve yanlış olana yönelme isteğine karşı nefsini tutmaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Musibete karşı sabır neden diğer sabır türleriyle birlikte anılmıştır?",
+          "answer": "Çünkü insanın imtihanı sadece ibadet yapmakla değil, sıkıntılar karşısında da sağlam kalmakla tamamlanır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "“Yâ Sabûr” demek burada sadece sözlü bir tekrar mıdır, yoksa bir yöneliş midir?",
+          "answer": "Bir yöneliştir; kişi kendi gücünün sınırlı olduğunu kabul edip sabır için Rabbine dayanır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre sabrını koruyan kişi ne kazanır?",
+          "answer": "Hem ibadette devam gücü kazanır hem de zorluklar karşısında sarsılmadan durabilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde nefsin hangi eğilimi düzeltilmek istenmektedir?",
+          "answer": "Hemen bunalan, yükü yanlış hesaplayan ve sebat göstermeyen eğilimi düzeltilmek istenmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Geçmiş musibet ve ibadetlerin bugünkü etkisi nasıl değerlendirilmelidir?",
+          "answer": "Onların doğrudan acısı bitmiştir; bugünde kalan taraf, ders ve sevap yönüdür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Gelecek günler için bugünden sabırsızlanmak hangi temel gerçeği gözden kaçırır?",
+          "answer": "O günlerin henüz gelmediği ve her vaktin yükünün kendi zamanı içinde taşınacağı gerçeğini gözden kaçırır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Kumandanın merkezin gücünü azaltması, insanın bugünkü hâlinde hangi sonuca yol açar?",
+          "answer": "Kişi mevcut vazifesini yerine getirecek iç direnci kaybeder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre ibadete karşı şevk nasıl yenilenebilir?",
+          "answer": "Geçmişin bitmiş yükünden ve geleceğin gelmemiş sıkıntısından zihni çekip bugünkü ibadetin değerine yönelerek yenilenebilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Üç çeşit sabırdan hangisi doğrudan ibadetin sürdürülmesiyle ilgilidir?",
+          "answer": "Taat üzerinde sabır doğrudan bununla ilgilidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Sabrın günaha karşı olan yönü niçin önemlidir?",
+          "answer": "Çünkü sabır sadece acıya katlanmak değil, yanlış olana karşı nefsi frenlemek anlamına da gelir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İlâhî olarak verilen sabır gücünün “yanlış yolda dağıtılması” ne demektir?",
+          "answer": "Onu gerçek ihtiyaç yerine vesveseye, kuruntuya ve zamansız endişeye harcamak demektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu parçadan hareketle, sabır ile akıl arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Akıl, sabrı düzenli ve yerinde kullanmayı sağlar; sabırsızlık ise aklın ölçüsünü bozup kişiyi yanlış sevk eder.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p56:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Öğrenci hayatına uygulanırsa bu bölümün tavsiyesi nasıl özetlenebilir?",
+          "answer": "Geçmiş hatalara takılıp kalmadan ve geleceğin yükünü bugünden büyütmeden, bugünkü dersini ve ibadetini düzenli şekilde yerine getirmek gerekir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

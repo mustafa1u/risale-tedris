@@ -1,0 +1,849 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:lisans:p52",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "lisans",
+  "partNo": "p52",
+  "partNumber": 52,
+  "title": "8. Mes'ele: Namaz tesbihatı—Elhamdülillahın haşri ihtar edişi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/lisans/SveC_lisans_meyve-risalesi-p52-8-mesele-namaz-tesbihatielhamdulillahin-hasri-ihtar-edisi.txt",
+  "sourceRevision": "68a614d4c85e71fed6dbab1073365be2b544f9bc55dfbd5bd39797c069a22f16",
+  "setCount": 6,
+  "questionCount": 71,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde üç mübarek ifadenin namazla ilişkisi nasıl açıklanıyor?",
+          "answer": "Namazın özünü ve ana manalarını özetleyen temel ifadeler olarak gösteriliyor; tekrar edilmeleri de namazdaki anlamı kuvvetlendiriyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu üç ifade insanın kâinata bakarken yaşadığı hangi üç temel hâle cevap veriyor?",
+          "answer": "Hayret, şükür ve azamet duygusundan doğan sorulara karşılık veriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p52:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Hac ibadeti sırasında kulun Allah’ı tanımasında nasıl bir genişleme olduğu belirtiliyor?",
+          "answer": "Kişi Allah’ı daha kuşatıcı ve daha büyük bir rububiyet unvanıyla tanımaya başlıyor; böylece kalbinde daha yüksek bir marifet açılıyor.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "“Allahu Ekber” ifadesinin tekrar edilmesi, kalpte çoğalan sorular karşısında ne işe yarıyor?",
+          "answer": "Büyük ve sarsıcı hayretlerin doğurduğu sorulara güçlü bir cevap ve teselli veriyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre bu ifade şeytanın hileleri karşısında nasıl bir işleve sahiptir?",
+          "answer": "Vesveselerin temelini kesen kesin bir cevap hükmüne geçiyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p52:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Âhiret meselesi bakımından “Allahu Ekber” için nasıl bir değerlendirme yapılıyor?",
+          "answer": "Kısa ama kuvvetli bir cevap verdiği söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "“Elhamdülillah” ifadesinin âhireti istemesi hangi düşünceye dayanıyor?",
+          "answer": "Gerçek ve tam hamdin sonsuz bir nimet ufkuna yönelmesi gerektiği, bunun da ebedî saadet olmadan tamamlanamayacağı düşüncesine dayanıyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bütün övgü ve şükrün yalnız Allah’a ait olduğunun söylenmesi neden âhiretle bağlantılı görülüyor?",
+          "answer": "Çünkü bu kadar kapsamlı bir hamdin karşılığı, geçici dünya nimetleriyle sınırlı kalmaz; onu tamamlayan kalıcı mutluluk gerekir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde, hakiki nimetlerin zirvesi olarak hangi şey öne çıkarılıyor?",
+          "answer": "Şuurlu varlıkları yokluğun sınırsız musibetinden kurtaran ebedî saadet öne çıkarılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Namazlardan sonra çokça “Elhamdülillah” denmesinin manevî değeri nasıl yorumlanıyor?",
+          "answer": "Bu zikir, Cennet ve ebedî mutluluk için peşin bir kulluk bedeli ve hazırlık gibi değerlendiriliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu hamd ifadesinin dünya nimetlerine bakışı nasıl tasvir ediliyor?",
+          "answer": "Dünya nimetlerini sadece geçici zevkler olarak değil, kalıcı nimetlere vesile olmaları yönüyle değerlendiriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p52:lisans:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin ana fikri kısaca nasıl özetlenebilir?",
+          "answer": "Namazdaki temel zikirler, insanın büyük imanî sorularına cevap verir; özellikle “Allahu Ekber” ve “Elhamdülillah” âhiret ve ebedî saadet hakikatine işaret eder.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde namaz içindeki üç temel zikrin genel görevi nedir?",
+          "answer": "İbadetin öz manalarını toplamak ve kulun zihnindeki derin sorulara yön vermektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın evrende gördüğü olağanüstü şeyler onda hangi iç tepkileri doğurur?",
+          "answer": "Şaşkınlık, sevinç, ürperti ve büyüklük hissi uyandırır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu iç tepkilerden doğan sorulara hangi ifade özellikle cevap veriyor?",
+          "answer": "“Allahu Ekber” ifadesi öne çıkarılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Hacdaki misal ile sıradan zamanlar arasındaki fark neyi anlatmak için kullanılmıştır?",
+          "answer": "Kulun Allah’ı daha sınırlı bir idrakten daha geniş bir marifete yükselmesini anlatmak için kullanılmıştır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Hacda elde edilen bu marifet artışı kalpte nasıl bir sonuç doğuruyor?",
+          "answer": "İlâhî büyüklük mertebeleri açıldıkça hayret çoğalıyor ve bu hayrete karşı zikirle cevap veriliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p52:lisans:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre “Allahu Ekber” yalnızca bir tesbih cümlesi midir, yoksa başka bir fonksiyonu daha var mıdır?",
+          "answer": "Sadece tesbih değildir; vesveseleri gideren, soruları cevaplayan ve imanı kuvvetlendiren bir anahtar gibidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "“Elhamdülillah” sözünün âhiretle irtibatı hangi mantık üzerinden kuruluyor?",
+          "answer": "Sınırsız hamd manası, ancak sınırsız değerde bir nimetle tam karşılık bulur; bu da ebedî saadettir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre dünya nimetleri niçin “Elhamdülillah”ın bütün manasını tek başına karşılamaz?",
+          "answer": "Çünkü onlar kısa ömürlüdür ve acılarla karışıktır; bu yüzden tam ve sonsuz şükre yeterli zemin oluşturmaz.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Dünya nimetlerine yine de neden şükredilir?",
+          "answer": "Kalıcı nimetlere vesile olabilecekleri için onlara da bu yönüyle şükredilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Her gün çok sayıda tekrarlanan hamdin şer’î yönü ile mana yönü arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Şer’an tekrar edilmesi, anlamındaki geniş ve sürekli şükrün dile dökülmüş kulluk ifadesi olarak görülüyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre ebedî saadet olmadan hamd anlayışında ne eksik kalır?",
+          "answer": "Hamdin küllî manası tam karşılığını bulamaz; nimet tasavvuru eksik kalır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan hareketle namaz tesbihatının öğrenciler için nasıl bir ders taşıdığı söylenebilir?",
+          "answer": "Sadece tekrar edilen sözler değil, iman esaslarını ve âhiret ümidini diri tutan derin anlamlar taşıyan bir eğitimdir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada geçen üç zikir, namazın hangi yönünü öne çıkarıyor?",
+          "answer": "Namazın hem özeti hem de iç manasını taşıyan yönünü öne çıkarıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "“Allahu Ekber” bu sorular karşısında nasıl bir cevap sunuyor?",
+          "answer": "Her şeyin üstünde bir ilâhî kudret bulunduğunu hatırlatarak zihni ve kalbi yatıştırıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde hacca dair verilen örnek, kulluğun hangi boyutunu güçlendiriyor?",
+          "answer": "Allah’ı daha kapsamlı şekilde tanıma ve O’nun büyüklüğünü daha derin hissetme boyutunu güçlendiriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İlâhî büyüklüğün kalpte açılması neden tekrar edilen bir zikri gerekli kılıyor?",
+          "answer": "Çünkü artan hayret ve heybet duygusu, aynı derecede güçlü bir teslimiyet ifadesi istiyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Şeytanın desiselerine karşı “Allahu Ekber”in etkisi neden önemlidir?",
+          "answer": "Çünkü şüphe ve korku üreten telkinleri kökten reddeden sağlam bir iman cümlesi olur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada “Elhamdülillah” neden sadece dünyadaki nimetler için söylenen bir söz gibi görülmüyor?",
+          "answer": "Çünkü manası zaman bakımından sonsuz bir şükrü kapsıyor; bu da sadece dünya ile sınırlandırılamaz.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bütün nimetleri gerçek nimet yapan unsur olarak ne gösteriliyor?",
+          "answer": "Ebedî saadet gösteriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Şuurlu varlıkların yokluğun sıkıntısından kurtulması niçin önemli bir nimet sayılıyor?",
+          "answer": "Çünkü en büyük kayıp, tamamen yok olup gitme korkusudur; bundan kurtuluş gerçek mutluluğun temelidir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Namaz sonrası tekrar edilen hamd cümlesi nasıl bir manevi yatırım gibi anlatılıyor?",
+          "answer": "Cennet ve kalıcı mutluluk için önceden sunulan bir kulluk karşılığı gibi anlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Geçici nimetlerle ebedî nimetler arasındaki ilişki nasıl kuruluyor?",
+          "answer": "Geçici olanlar, kalıcı olanlara götüren birer vesile ve işaret olarak görülüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajda en güçlü şekilde vurgulanan sonuç nedir?",
+          "answer": "Zikirler sadece dil alışkanlığı değil; iman, âhiret ve kulluk şuurunu besleyen derin hakikatlerdir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde söz konusu edilen üç ifade niçin namazın çekirdeği sayılıyor?",
+          "answer": "Çünkü namazda bulunan temel tefekkür, tesbih ve şükür anlamlarını özlü biçimde içinde topluyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan, kâinat karşısında neden hayrete düşer?",
+          "answer": "Gördüğü olağanüstü, güzel ve büyük şeyler onda derin bir merak ve sarsıcı bir etkilenme doğurur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu hayretin doğurduğu sorulara karşı hangi yol gösteriliyor?",
+          "answer": "Büyük zikirlerin tekrar edilmesiyle cevap bulunacağı gösteriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p52:lisans:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Hac örneğinde, kulun Allah’ı tanımasındaki seviye artışı nasıl tasvir ediliyor?",
+          "answer": "Daha yüksek bir makam ve daha geniş bir ilâhî hâkimiyet anlayışıyla tanımaya yöneldiği belirtiliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "“Allahu Ekber” ifadesinin tekrarı neden duygusal olduğu kadar aklî bir işleve de sahiptir?",
+          "answer": "Çünkü hem kalpte teselli oluşturur hem de sorulara düşünce bakımından cevap verir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde bu ifadenin âhiretle ilgili soruya verdiği cevabın niteliği nasıldır?",
+          "answer": "Kısa, öz fakat güçlü bir cevap olarak nitelenir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p52:lisans:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "“Elhamdülillah” sözünden âhiret inancına ulaşılması hangi esas üzerinden yapılır?",
+          "answer": "Hamdin sınırsız kapsamı, karşılığında sınırsız değerde nimetlerin bulunmasını gerektirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Ebedî mutluluk neden nimetlerin başı olarak sunuluyor?",
+          "answer": "Çünkü diğer nimetleri tam ve kalıcı hale getiren asıl unsur odur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Dünya nimetlerinin sıkıntılarla iç içe anılması neyi göstermek içindir?",
+          "answer": "Onların tek başına insanın nihai beklentisini karşılamadığını göstermek içindir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Buna rağmen dünya nimetlerine şükretmek nasıl anlam kazanıyor?",
+          "answer": "Sonsuz saadete vesile olma ihtimalleri bakımından değer kazanıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Her gün çok defa hamd etmenin düzenli oluşu neyi telkin eder?",
+          "answer": "Kulun sürekli bir şükür bilinciyle yaşaması ve ebedî nimetlere yönelmesi gerektiğini telkin eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Metni dikkate alarak, namaz tesbihatı için nasıl bir eğitim dili kullanılmıştır?",
+          "answer": "Hem akla hem kalbe hitap eden, ibadeti anlamlandıran ve âhiret şuurunu güçlendiren bir dil kullanılmıştır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada üç temel zikrin ibadet hayatındaki merkezi yeri nasıl ifade ediliyor?",
+          "answer": "İbadetin özünü taşıyan anahtar sözler olarak anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ifadeler, insanın kâinattaki tecrübeleriyle nasıl ilişkilendiriliyor?",
+          "answer": "İnsanın gördüğü büyüklük, güzellik ve şaşırtıcı olaylardan doğan iç sorgulamalara cevap veriyorlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Hac örneği neden özellikle zikredilmiş olabilir?",
+          "answer": "Allah’ın azametini daha kapsamlı biçimde hissetmenin bu zikirlerin manasını daha açık gösterdiği için zikredilmiş olabilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "“Allahu Ekber”in sık tekrarı hangi ruh hâline karşılık gelir?",
+          "answer": "Büyüklük karşısında duyulan hayret, ürperti ve sığınma ihtiyacına karşılık gelir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre bu ifade, vesvese ile mücadelede ne tür bir konum kazanır?",
+          "answer": "Kesin hüküm veren ve aldatıcı telkinleri etkisiz bırakan bir dayanak olur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p52:lisans:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Âhiretle ilgili soruya bu ifadenin cevap vermesi neden anlamlıdır?",
+          "answer": "Çünkü ilâhî kudretin büyüklüğü kabul edilince âhiretin varlığı akla daha yakın hale gelir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p52:lisans:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "“Elhamdülillah” ifadesi neden kendi manasının âhiretsiz tamamlanmayacağını söyler?",
+          "answer": "Çünkü kapsadığı şükür sadece sınırlı ve geçici nimetlere indirgenemez.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre bütün nimetlerin gerçek değerini ne belirler?",
+          "answer": "İnsanları kalıcı kurtuluşa ve ebedî mutluluğa ulaştırması belirler.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Namaz sonrası çokça hamd etmek neyin işareti sayılabilir?",
+          "answer": "Kulun ebedî nimetlere talip olduğunun ve bunu şuurla dile getirdiğinin işareti sayılabilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Geçici dünya nimetlerine bakışta hangi denge öğretiliyor?",
+          "answer": "Onları küçümsemeden ama son hedef yapmadan, sonsuz nimetlere götüren araçlar olarak görmek öğretiliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Parçaya göre hamd ile Cennet arasında nasıl bir bağ kuruluyor?",
+          "answer": "Hamd, Cennet ve ebedî saadete yönelen kulluğun şimdiden ödenen manevî karşılığı gibi görülüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasaj öğrencinin iman eğitimine hangi açıdan katkı sağlar?",
+          "answer": "Zikirlerin ezberlenmiş sözler olmadığını, inanç esaslarını temellendiren anlamlar taşıdığını fark ettirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde “Sübhanallah”, “Elhamdülillah” ve “Allahu Ekber”in birlikte anılması neyi gösterir?",
+          "answer": "Bu ifadelerin birlikte namazın temel anlam çerçevesini kurduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan için kâinatta görülen acayiplikler neden soru sebebi oluyor?",
+          "answer": "Çünkü bunlar insanı hem düşündürür hem de varlığın arkasındaki kudreti ve hikmeti sorgulatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "“Allahu Ekber” ifadesi bu sorgulama içinde hangi temel hakikati hatırlatır?",
+          "answer": "Allah’ın her türlü büyüklüğün üstünde olduğunu hatırlatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Hacdaki marifet artışıyla “Allahu Ekber” arasında nasıl bir bağ kuruluyor?",
+          "answer": "Allah’ın büyüklüğü daha geniş idrak edilince bu zikir, o idrakin dili haline geliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu ifadenin tekrar edilmesi neden sadece sevap kazanmak için değil, anlamı yerleştirmek için de önemlidir?",
+          "answer": "Çünkü tekrar, kalpte açılan büyüklük idrakini sağlamlaştırır ve doğan sorulara sürekli cevap olur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p52:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Şeytanın önemli oyunlarını bozması bakımından bu ifadenin gücü nereden gelir?",
+          "answer": "Allah’ın mutlak büyüklüğünü merkeze aldığı için şüpheyi küçültür ve etkisiz bırakır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p52:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "“Elhamdülillah” cümlesi haşri nasıl haber veriyor?",
+          "answer": "Tam ve sonsuz şükrün gerçekleşmesi için ebedî nimetlerin varlığını gerekli göstererek haşre işaret ediyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Şuurlu varlıkları yokluğun felaketinden kurtarmak neden hamdin merkezine yerleştirilmiştir?",
+          "answer": "Çünkü bu kurtuluş, nimetin en köklü ve en kapsamlı şeklidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Dünya nimetlerinin faniliği, “Elhamdülillah”ın manası açısından ne sonuç doğurur?",
+          "answer": "Bu nimetlerin tek başına yeterli olmadığını, asıl tamamlayıcının ahiret nimetleri olduğunu gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Namazlardan sonra yüz elliden fazla hamd edilmesinin metindeki yorumu nedir?",
+          "answer": "Bunun, sınırsız şükür manasını günlük ibadette canlı tutan bir uygulama olduğu belirtilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Ebedî saadetin Cennet için “peşin bedel” gibi anılması ne anlatır?",
+          "answer": "Şimdiki kulluk ve şükrün, gelecekteki büyük nimete yönelen bilinçli bir hazırlık olduğunu anlatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p52:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın bütününden çıkarılabilecek en genel ders nedir?",
+          "answer": "Namaz tesbihatı, mü’minin hem aklını hem kalbini besleyen; özellikle âhiret inancını güçlendiren derin bir iman dersidir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

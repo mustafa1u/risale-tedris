@@ -1,0 +1,751 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:5-sinif:p04",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "5-sinif",
+  "partNo": "p04",
+  "partNumber": 4,
+  "title": "1. Söz: Nimete Bismillah ile alıp verme; fiyatı zikir-şükür-fikir",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/5-sinif/SveC_5sinif_kucuk-sozler-p04-1-soz-nimete-bismillah-ile-alip-verme-fiyati-zikir-sukur-fikir.txt",
+  "sourceRevision": "6107a65996fb54efbb546c2468614d92ea3ef94441709a70e0401906466a44ee",
+  "setCount": 6,
+  "questionCount": 63,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada, varlıkların manevi olarak hangi sözü söylediği bildiriliyor?",
+          "answer": "Hepsinin Allah’ın adını anarak iş gördüğü anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Nimetleri bize ulaştıran şeyler ve canlılar bunları kimin adına getiriyor?",
+          "answer": "Allah’ın adına getiriyorlar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu yüzden insanın verirken ve alırken nasıl davranması isteniyor?",
+          "answer": "Başlarken, verirken ve alırken Allah’ı anarak davranması isteniyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Allah’ı anmadan veren kimselerden neden almamak gerektiği söyleniyor?",
+          "answer": "Çünkü asıl sahibini unutup gafletle davranmış olurlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Parçada insanlara benzetme yoluyla hangi görev veriliyor?",
+          "answer": "Onların dağıtan birer aracı gibi olduğu anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Asıl nimet sahibi bizden nimetlerin karşılığı olarak kaç şey istiyor?",
+          "answer": "Üç şey istiyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu üç şey nelerdir?",
+          "answer": "Anmak, teşekkür etmek ve düşünüp anlamaktır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Başta söylenen mübarek söz bu üç şeyden hangisine girer?",
+          "answer": "Anmaya girer.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p04:5-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Sonda söylenen hamd sözü bu üç şeyten hangisidir?",
+          "answer": "Şükürdür.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p04:5-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Ortadaki düşünme göreviyle neyin fark edilmesi isteniyor?",
+          "answer": "Nimetlerin Allah’ın kudreti ve merhametiyle geldiğinin anlaşılması isteniyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p04:5-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Hediyeyi getirene aşırı değer verip asıl göndericiyi unutmak nasıl görülüyor?",
+          "answer": "Büyük bir akılsızlık olarak görülüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda nefse verilen kısa öğüt nedir?",
+          "answer": "Her işe Allah’ın adıyla başlamak, alıp verirken O’nu unutmamaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümün ana düşüncesi nedir?",
+          "answer": "Nimetlerin gerçek sahibini bilip her işi Allah’ın adıyla yapmaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Parçada, her şeyin manevi olarak Allah’ın adını anması neyi gösterir?",
+          "answer": "Varlıkların kendi başına değil, Allah’ın izniyle hizmet ettiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "İnsan nimetlerle karşılaşınca sadece eşyaya mı bakmalı, yoksa daha derin bir şey mi anlamalıdır?",
+          "answer": "Daha derinini anlayıp bunların Allah’ın ikramı olduğunu kavramalıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Zikir bu parçada hangi davranışla örnekleniyor?",
+          "answer": "İşe Allah’ın adıyla başlamakla örnekleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Şükür hangi sözle örnekleniyor?",
+          "answer": "Sonunda Allah’a hamd etmekle örnekleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Fikir ne demek oluyor?",
+          "answer": "Nimetlerin boşuna değil, Allah’ın sanatı ve rahmetiyle verildiğini düşünmektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Nimeti getirene takılıp gerçek vereni unutmak niçin yanlış bulunuyor?",
+          "answer": "Çünkü aracıya yönelip asıl ihsan sahibini görmezden gelmek olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre doğru Müslümanca tavır nasıl özetlenebilir?",
+          "answer": "Allah’ın adıyla başlamak, O’nun adına alıp vermek ve nimetlerde O’nu hatırlamaktır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p04:5-sinif:S2Q5",
+            "kucuk-sozler:p04:5-sinif:S2Q6",
+            "kucuk-sozler:p04:5-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "“Gafil insan” sözüyle nasıl bir kimse kastediliyor?",
+          "answer": "Nimetin gerçek sahibini düşünmeyen kimse kastediliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada insanın nimet karşısındaki ilk görevi ne olarak gösteriliyor?",
+          "answer": "Allah’ı anması olarak gösteriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Nimetlerin insanlara ulaşmasında görünen kişiler ve sebepler nasıl bir yerde duruyor?",
+          "answer": "Onlar aracı durumunda bulunuyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Asıl sahip kim olarak bildiriliyor?",
+          "answer": "Allah olarak bildiriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metindeki soruya göre insanlar aracı olanlara bir karşılık veriyor. Peki gerçek karşılık kime yönelmelidir?",
+          "answer": "Asıl nimet sahibi olan Allah’a yönelmelidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Allah’ın istediği üç karşılıktan biri olan “fikir”, sadece bakmak mıdır?",
+          "answer": "Hayır, düşünüp anlamaktır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Düşünüp anlamakla nimetlerde hangi iki özellik fark edilir?",
+          "answer": "Allah’ın kudreti ve rahmeti fark edilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Başlangıç, orta ve son şeklinde bir sıra kurulması neyi öğretir?",
+          "answer": "İnsanın nimetle karşılaşırken her aşamada Allah’ı hatırlaması gerektiğini öğretir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Başlangıçta ne yapılır?",
+          "answer": "Allah’ın adı anılır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Nimetten yararlanırken ne yapılır?",
+          "answer": "Onun Allah’ın ikramı olduğu düşünülür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Sonunda ne yapılır?",
+          "answer": "Allah’a hamd edilip teşekkür edilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Görünen vericileri övüp gerçek vereni unutmanın daha da ağır bir yanlış sayılması neyi vurgular?",
+          "answer": "Asıl yönelişin yalnız Allah’a olması gerektiğini vurgular.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada nimetlerle ilgili hangi yanlış anlayış düzeltiliyor?",
+          "answer": "Nimeti sadece görünen kişiden bilme yanlışı düzeltiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Varlıkların Allah adına nimet getirmesi, insanın onlara nasıl bakmasını gerektirir?",
+          "answer": "Onları bağımsız sahip değil, görevli hizmetkâr gibi görmesini gerektirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "“Allah namına vermek” sözü neyi anlatır?",
+          "answer": "Verirken bunu Allah’ın emrine uygun ve O’nu unutmadan yapmayı anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "“Allah namına almak” sözü neyi anlatır?",
+          "answer": "Alırken nimetin gerçek sahibinin Allah olduğunu bilerek almayı anlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre gaflet sahibi insanın kusuru nedir?",
+          "answer": "Allah’ı hesaba katmadan hareket etmesidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada gerçek ücretin üç şey olması neyi gösterir?",
+          "answer": "Nimetlerin karşılığının yalnız maddi değil, manevi görevlerle verileceğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Zikir, şükür ve fikir arasında hangisi kalple düşünmeye daha çok bağlıdır?",
+          "answer": "Fikir daha çok bağlıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Hangisi dil ile teşekkür etmeyi öne çıkarır?",
+          "answer": "Şükür öne çıkarır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Hangisi işe Allah’ı anarak başlamayı öne çıkarır?",
+          "answer": "Zikir öne çıkarır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Son öğüdün özeti tek cümleyle nasıl söylenebilir?",
+          "answer": "Hayatı Allah’ı unutmadan yaşa.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada geçen anlatıma göre, bütün varlıkların hali insana neyi öğretir?",
+          "answer": "Her işin Allah’ın adıyla yapılması gerektiğini öğretir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Nimetlerin bize gelmesi kimin ikramı olarak görülmelidir?",
+          "answer": "Allah’ın ikramı olarak görülmelidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İnsanlar bazen nimeti ulaştıran kişiyi öne çıkarabilir. Parça buna karşı ne öğretiyor?",
+          "answer": "Aracıyı değil, gerçek nimeti vereni tanımayı öğretiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Gerçek nimet sahibi olan Allah’ın istediği üç karşılığın ilki nedir?",
+          "answer": "Zikirdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İkincisi nedir?",
+          "answer": "Şükürdür.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncüsü nedir?",
+          "answer": "Fikirdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu üçlü içinde başta yer alan davranış hangisidir?",
+          "answer": "Allah’ın adını anmaktır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Sonda yer alan davranış hangisidir?",
+          "answer": "Hamd ederek teşekkür etmektir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Ortadaki davranışın görevi nedir?",
+          "answer": "Nimetin Allah’tan geldiğini düşünüp kavramaktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Aracı kişiyi aşırı büyütmek neden doğru değildir?",
+          "answer": "Çünkü verilen şeyin asıl sahibi o değildir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada akılsızlık olarak görülen tutum hangi iki şeyi karıştırır?",
+          "answer": "Aracıyı asıl verenle karıştırır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada insanın nimete yaklaşımında hangi bilinç öne çıkarılıyor?",
+          "answer": "Tevhid şuuru, yani her nimetin Allah’tan geldiğini bilme bilinci öne çıkarılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "“Her şey manevi olarak bu sözü söyler” denmesi, insan için nasıl bir örneklik olur?",
+          "answer": "İnsan da aynı şekilde Allah’ı anarak hareket etmelidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Nimetleri taşıyan sebepler niçin son durak gibi görülmemelidir?",
+          "answer": "Çünkü onlar sadece ulaştıran vasıtalardır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu kulluk görevi kaç bölümdür?",
+          "answer": "Üç bölümdür.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Zikir insana nimetin hangi anında lazımdır?",
+          "answer": "Başında lazımdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Şükür nimetin hangi anında öne çıkar?",
+          "answer": "Sonunda öne çıkar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Fikir nimetin hangi yönünü anlamaya yardım eder?",
+          "answer": "Onun Allah’ın sanat eseri ve rahmet hediyesi olduğunu anlamaya yardım eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada verilen hediye örneği hangi temel dersi kolaylaştırıyor?",
+          "answer": "Teşekkürün doğru kişiye yapılması gerektiği dersini kolaylaştırıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Son öğütte “başla, al, ver, işle” şeklinde sıralama yapılması ne anlatır?",
+          "answer": "Hayatın her alanında Allah’ı unutmamayı anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p04:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölümden çıkarılacak kısa bir davranış kuralı söyle.",
+          "answer": "Nimet görünce Allah’ı an, düşün ve şükret.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

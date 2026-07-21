@@ -1,0 +1,793 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:lisans:p88",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "lisans",
+  "partNo": "p88",
+  "partNumber": 88,
+  "title": "2. Sır: nuraniyet ve itaat sırrıyla az-çok eşitliği (güneş, kelime, nuranî ruhanî misalleri)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/lisans/SveC_lisans_ayetul-kubra-p88-2-sir-nuraniyet-ve-itaat-sirriyla-az-cok-esitligi-gunes-kelime-nurani-ruhani-misalleri.txt",
+  "sourceRevision": "b99108a4267d12ad955d351d9923a30e556e52e9ea99c6510be93b255158cd9a",
+  "setCount": 6,
+  "questionCount": 67,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Sır’da ilk olarak hangi misalle birden çoğa aynı anda tesirin mümkün olduğu anlatılıyor?",
+          "answer": "Güneşin ışığını tek bir aynaya verdiği gibi sayısız parlak yüzeye de kolayca yansıtması örneğiyle anlatılıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ilk misalde azlık ile çokluk arasında neden fark görülmediği vurgulanıyor?",
+          "answer": "Çünkü nuranî bir kaynağın yansıması, sayı arttığında zorlaşmıyor; aynı tesir pek çok yerde birlikte ortaya çıkabiliyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p88:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde bir sözün tek kişiye ve çok kişiye ulaşması hangi hakikati açıklamak için kullanılıyor?",
+          "answer": "Bir işin bir kişiyle sınırlı kalmadan aynı kolaylıkla çoklarına da yöneltilebileceğini göstermek için kullanılıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Tek bir sözün birçok kulağa zahmetsizce ulaşması hangi ilahî izne bağlanıyor?",
+          "answer": "Rabbin iznine bağlanıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Göz ve Cebrail misalleri hangi ortak özelliği öne çıkarıyor?",
+          "answer": "Nuranî olanın bir yerde bulunmasıyla birçok yerde tesir göstermesi arasında güçlük farkı bulunmamasını öne çıkarıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre bir nuranî varlık tek yere yönelmekle çok yere yönelmek arasında nasıl bir fark yaşar?",
+          "answer": "Esas bakımından bir ağırlık farkı yaşamaz; ikisi de kolaydır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci Sır’ın ana fikri nasıl özetlenebilir?",
+          "answer": "İlâhî kudretin nuranî tecellisiyle bir şey ile çok şey arasında zorluk bakımından fark yoktur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Verilen üç misal birlikte düşünüldüğünde hangi anlayışı güçlendirir?",
+          "answer": "Kudretin kuşatıcılığı sebebiyle çoğalmanın işi ağırlaştırmadığı anlayışını güçlendirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metindeki örneklerden hareketle, sayı artınca tesirin dağılması düşüncesine nasıl cevap verilir?",
+          "answer": "Nuranî ve geniş faaliyet sahibi bir tesirde sayı artışı dağınıklık doğurmaz; aynı anda çok yerde tesir mümkündür.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Sır’da güneş örneğiyle hangi temel ilke anlatılmak isteniyor?",
+          "answer": "Tek bir kaynağın aynı anda pek çok yerde etkisini gösterebilmesi anlatılmak isteniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Güneş örneği, ilahî kudret hakkında hangi sonuca kapı açıyor?",
+          "answer": "Kudretin çok sayıda varlıkta birden tecelli etmesinin zor olmayacağı sonucuna kapı açıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p88:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Tek bir cümlenin birçok kişiye ulaşması hangi açıdan güneş örneğine benzer?",
+          "answer": "İkisinde de bir kaynaktan çıkan tesir, sayı artsa da kolayca çoklarına ulaşmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p88:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bir kişinin işitmesiyle bir milyon kişinin işitmesi arasında fark olmadığı söylenirken asıl hangi nokta öne çıkıyor?",
+          "answer": "Gücün sınırlı insan ölçüsüyle değil, ilahî izin ve geniş tasarruf açısından değerlendirilmesi öne çıkıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Göz misali bize hangi kabiliyet hakkında fikir veriyor?",
+          "answer": "Tek bir nurun çeşitli yerlere yönelmesinin kolaylığı hakkında fikir veriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Cebrail örneğinin ayrıca verilmesi neyi genişletiyor?",
+          "answer": "Sadece maddî ışık değil, ruhânî varlıkların da çok yerde tasarruf edebilmesi düşüncesini genişletiyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde “tecelli-i rahmet” ifadesi hangi bağlamda kullanılıyor?",
+          "answer": "Rabbânî faaliyetin genişliği içinde nuranî bir varlığın birden çok yerde kolayca bulunabilmesi bağlamında kullanılıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Az ve çok birdir” hükmü, pasajdaki hangi örneklerin ortak sonucudur?",
+          "answer": "Güneşin yansıması, sözün birçok kulağa ulaşması ve nuranî varlığın birçok yerde bulunması örneklerinin ortak sonucudur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümdeki delillendirme tarzı daha çok hangisine dayanır: tarihî olaylara mı, benzetmelere mi?",
+          "answer": "Benzetmelere dayanır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Metin, insanın alışık olduğu maddî ölçülerin ötesinde neyi kavratmayı amaçlıyor?",
+          "answer": "İlâhî kudretin sayı ve mekân engeliyle kayıtlı olmadığını kavratmayı amaçlıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "İkinci Sır’ın dilinde tekrar edilen kolaylık vurgusu hangi yanlış anlayışı düzeltir?",
+          "answer": "Çok olanın mutlaka daha zor olacağı düşüncesini düzeltir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajın başındaki güneş temsili hangi üç özellikle birlikte zikrediliyor?",
+          "answer": "Nuranîlik, şeffaflık ve emre boyun eğme ile birlikte zikrediliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Güneşin tek aynadaki görüntüsü ile çok sayıdaki yansıması arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Birinde olan kolaylığın diğerinde de bulunduğu, sayı farkının zorluk doğurmadığı belirtiliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Burada “kayıtsız kudret” ifadesi neyi düşündürür?",
+          "answer": "Sınırlarla daralmayan, geniş tesirli bir kudreti düşündürür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde sözün birçok kişiye ulaşması kendi başına mı gerçekleşiyor, yoksa hangi şartla oluyor?",
+          "answer": "İlâhî izinle oluyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Göz ve Cebrail’in aynı cümlede anılması hangi ortak paydayı ortaya koyar?",
+          "answer": "İkisinin de nuranîlik yönüyle çok yerde bulunma veya yönelme kolaylığını göstermesi ortak paydasını ortaya koyar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "“Bir tek yerde bulunmak” ile “binler yerde bulunmak” arasında fark olmaması hangi bakış açısına göredir?",
+          "answer": "İlâhî kudretin verdiği imkân açısından böyledir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu pasajda kullanılan örnekler soyut bir inancı nasıl anlaşılır hâle getiriyor?",
+          "answer": "Görünen ve bilinen misallerden hareketle görünmeyen ilahî tasarrufu kavramaya yardımcı oluyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metnin bu kısmında doğrudan hangi ana hüküm tekrar edilmektedir?",
+          "answer": "Azlık ve çokluk arasında fark bulunmadığı hükmü tekrar edilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Eğer bir öğrenci bu pasajın merkezinde “kudretin aynı anda çok yere yetişmesi” düşüncesi olduğunu söylese, bu doğru olur mu? Gerekçesi nedir?",
+          "answer": "Doğru olur; çünkü verilen bütün misaller tek bir etkinin çok yerde birlikte ortaya çıkmasını açıklamaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Pasajdaki anlatım tarzı, aklı tamamen devre dışı mı bırakıyor, yoksa akla yakınlaştırıcı bir yol mu izliyor?",
+          "answer": "Akla yakınlaştırıcı bir yol izliyor; benzetmelerle meseleyi anlaşılır kılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "İkinci Sır’dan çıkarılabilecek kısa bir tevhid dersi nedir?",
+          "answer": "Tek ve mutlak kudret için çokluk engel değildir; bütün işler O’na göre kolaydır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Sır’da önce hangi tabiî olay üzerinden bir açıklama yapılıyor?",
+          "answer": "Işığın yansıması üzerinden bir açıklama yapılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu olaydan hareketle neyin mümkün olduğu gösterilmek isteniyor?",
+          "answer": "Bir kaynağın tesirinin aynı anda pek çok yerde ortaya çıkmasının mümkün olduğu gösterilmek isteniyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Metindeki “tek kelime” örneği hangi duyu üzerinden kurulmuştur?",
+          "answer": "İşitme duyusu üzerinden kurulmuştur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu örnek, bir emrin veya sözün yayılışı bakımından neyi ispatlamaya yardım eder?",
+          "answer": "Bir sözün tek kişiye yönelmesiyle çok kişiye yönelmesi arasında esaslı bir güçlük farkı olmadığını göstermeye yardım eder.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Göz misalinde dikkat çekilen şey bakmanın hangi yönüdür?",
+          "answer": "Bir ışığın veya görme nurunun farklı yerlere yönelmesindeki kolaylık yönüdür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Cebrail misalinin eklenmesi, meselenin sadece fizikî ışıkla sınırlı olmadığını nasıl gösterir?",
+          "answer": "Ruhânî bir varlığın da çok yerde bulunabileceği söylenerek konunun daha geniş olduğu gösterilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Pasajın içinde geçen misallerin ortak yapısı nedir?",
+          "answer": "Hepsinde tek olan bir kaynaktan çok yere uzanan bir tesir anlatılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "“Fark etmez” vurgusu hangi düşünceyi reddeder?",
+          "answer": "Çok sayıya ulaşmanın tek olana ulaşmaktan mutlaka daha zor olduğu düşüncesini reddeder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölümde ilahî kudret doğrudan tanımlanmak yerine daha çok nasıl sezdiriliyor?",
+          "answer": "Misaller ve benzerlikler yoluyla sezdiriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada “zahmetsizlik” niçin birkaç örnekte tekrar edilmektedir?",
+          "answer": "Çünkü anlatılan sır, çokluk karşısında külfetin artmaması esasına dayanmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Bu pasajdan hareketle, ilahî tasarrufun mekânla sınırlı düşünülmesi doğru olur mu?\tNeden?",
+          "answer": "Doğru olmaz; çünkü aynı tesirin birçok yerde birden gerçekleşebildiği özellikle gösterilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin bu kısmı öğrencide hangi zihnî dönüşümü hedefler?",
+          "answer": "Beşerî ölçülerle düşünülen zorluk anlayışından çıkıp ilâhî kudretin sınırsızlığını kavrama yönünde bir dönüşüm hedefler.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Sır’ın ilk cümlesinde verilen misal hangi hakikate giriş yapıyor?",
+          "answer": "Bir olanın çok sayıda yerde aynı anda tesir gösterebilmesi hakikatine giriş yapıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Aynaların ve damlaların çokluğu, güneşin işini neden ağırlaştırmıyor?",
+          "answer": "Çünkü güneşin yansıması sayıdan dolayı parçalara ayrılıp zorlaşmıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bir sözün birçok kulağa ulaşması, ilahî kudretle ilgili hangi zihnî engeli kırmayı amaçlar?",
+          "answer": "Çok kişiye yönelmenin tek kişiye yönelmekten mutlaka daha güç olduğu engelini kırmayı amaçlar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre dinleyenlerin sayısı artsa bile hangi şey değişmemektedir?",
+          "answer": "Ulaşmanın kolaylığı değişmemektedir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Göz gibi bir nur ile ruhânî bir varlığın aynı örnek dizisinde bulunması nasıl bir öğretim yöntemi gösterir?",
+          "answer": "Somuttan daha soyuta doğru ilerleyen bir öğretim yöntemi gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "“Tecelli” kavramı burada ne anlamda kullanılmaktadır?",
+          "answer": "Bir kudret veya rahmet eserinin görünmesi ve ortaya çıkması anlamında kullanılmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Pasajın sonundaki hüküm, baştaki örnekleri nasıl bağlar?",
+          "answer": "Hepsinin ortak sonucunu söyleyerek azlık ve çokluk arasında fark bulunmadığını bağlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu bölümde sayı artışının zorluk doğurmaması, daha çok hangi özellik sayesinde açıklanıyor?",
+          "answer": "Nuranîlik ve geniş ilahî faaliyet sayesinde açıklanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metin, öğrencinin sadece ezberlemesini mi ister, yoksa aklî bağlantı kurmasını mı teşvik eder?",
+          "answer": "Aklî bağlantı kurmasını teşvik eder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Eğer biri “Bu pasajda asıl mesele nicelik değil, kudretin mahiyeti” dese, bu ne kadar isabetlidir?",
+          "answer": "İsabetlidir; çünkü çokluk meselesi, kudretin sınırsız ve nuranî oluşu çerçevesinde açıklanmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu pasajda kullanılan temsilî anlatım, imanî bir meseleyi öğrenmede ne fayda sağlar?",
+          "answer": "Zor görünen bir meseleyi gözlemlenen örneklerle yakınlaştırır ve anlamayı kolaylaştırır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "İkinci Sır’ın üniversite düzeyinde kısa bir kavramsal özeti nasıl yapılabilir?",
+          "answer": "Nuranî ve sınırsız ilâhî kudret için tekil ve çoğul nesneler arasında icra bakımından fark yoktur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajda geçen ilk temsil, yaratma fiilini doğrudan anlatmaktan önce hangi sahadan örnek verir?",
+          "answer": "Işık ve yansıma sahasından örnek verir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Güneş örneğinde tek bir aynayla sınırsız parlak yüzeylerin birlikte anılması neyi hissettirir?",
+          "answer": "Bir kaynağın tesirinin sayı ile daralmadığını hissettirir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p88:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bir tek sözün çok sayıda insan tarafından işitilmesi hangi açıdan delil olarak kullanılıyor?",
+          "answer": "Aynı etkinin birçok muhataba birden yönelmesindeki kolaylığı göstermek açısından delil olarak kullanılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde bu işitme hadisesinin gerçekleşmesi kimin iznine bağlanıyor?",
+          "answer": "Rabbanî izne bağlanıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Göz misali ile Cebrail misali arasında kurulmak istenen bağ nedir?",
+          "answer": "İkisinin de nuranî tarafı sebebiyle çok yerde bulunma veya tesir etme kolaylığını göstermesidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "“Bir tek yere gitmek” ile “binler yere gitmek” arasındaki farkın kaldırılması neyi amaçlar?",
+          "answer": "Beşerî sınırlara göre düşünülen güçlük ölçüsünü aşmayı amaçlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metindeki örnekler doğrudan hüküm vermek yerine neden aşamalı olarak ilerliyor olabilir?",
+          "answer": "Okuyucunun tanıdığı örneklerden hareketle daha yüksek bir hakikati adım adım kavraması için ilerliyor olabilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu pasajda öne çıkan mantık örgüsü hangi sırayı izler?",
+          "answer": "Önce görünen örnekler verilir, sonra bunlardan genel bir kudret sonucu çıkarılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "“Az, çok farkı yoktur” cümlesi, pasajın hangi yönünü özetleyen bir sonuç cümlesidir?",
+          "answer": "Bütün benzetmelerin ortak manasını özetleyen sonuç cümlesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci Sır, öğrencinin hangi hatalı kıyasını düzeltir?",
+          "answer": "İnsan kudretindeki sınırlılığı ilâhî kudrete aynen uygulama hatasını düzeltir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada geçen misallerden hangileri birlikte düşünüldüğünde hem işitme hem görme alanı kullanılmış olur?",
+          "answer": "Tek sözün birçok kulağa ulaşması ile gözün birçok yere yönelmesi misalleri birlikte düşünüldüğünde hem işitme hem görme alanı kullanılmış olur.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p88:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajın imanî eğitim açısından en temel kazanımı nedir?",
+          "answer": "Allah’ın kudretinde çokluk sebebiyle zorluk bulunmadığını kalbe ve akla birlikte yerleştirmesidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

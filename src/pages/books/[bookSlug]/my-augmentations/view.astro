@@ -1,0 +1,17 @@
+---
+import { libraryIndex, loadBook } from "@/data/library.generated";
+import PersonalAugmentationPage from "@/features/augmentation/PersonalAugmentationPage.astro";
+
+export function getStaticPaths() {
+  return libraryIndex.books.map((book) => ({ params: { bookSlug: book.slug } }));
+}
+
+const bookSlug = Astro.params.bookSlug ?? "";
+const book = await loadBook(bookSlug);
+if (!book) {
+  throw new Error(`Unknown book slug: ${bookSlug}`);
+}
+---
+
+<PersonalAugmentationPage book={book} locale="tr" />
+

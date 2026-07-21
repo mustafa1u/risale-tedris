@@ -1,0 +1,878 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:5-sinif:p26",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "5-sinif",
+  "partNo": "p26",
+  "partNumber": 26,
+  "title": "7. Söz / Hâtime: namaz ve kebairi terk nasihati; Kur’an’ı dinleme ve dua",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/5-sinif/SveC_5sinif_kucuk-sozler-p26-7-soz-hatime-namaz-ve-kebairi-terk-nasihati-kurani-dinleme-ve-dua.txt",
+  "sourceRevision": "e84a210863e52b2277a78c033827f1621d1232d6a64d30d11d0d07e38539cd5e",
+  "setCount": 6,
+  "questionCount": 74,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada nefse ilk olarak hangi iki dinî görev hatırlatılıyor?",
+          "answer": "Beş vakit namazı kılmak ve büyük günahlardan uzak durmak hatırlatılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki görevin yapılması metinde nasıl gösteriliyor?",
+          "answer": "Zor değil, yapılabilir ve insana ağır gelmeyecek işler olarak gösteriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p26:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu ibadet ve sakınmanın sonucu için nasıl bir değerlendirme yapılıyor?",
+          "answer": "Sonucunun çok değerli, faydalı ve büyük olduğu bildiriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p26:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Kötü yola çağıran varlığa karşı hangi meydan okuma yapılıyor?",
+          "answer": "Ölümü yok etmeye, dünyadaki geçiciliği kaldırmaya, insanın zayıflığını ve ihtiyaçlarını bitirmeye, bir de kabri ortadan kaldırmaya gücü varsa konuşması isteniyor.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Böyle bir gücü yoksa ona ne denmesi gerektiği anlatılıyor?",
+          "answer": "Susması gerektiği söyleniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p26:5-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Kâinat hangi benzetmeyle anlatılıyor?",
+          "answer": "Çok büyük bir ibadet yeri gibi anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu büyük âlem içinde insanın neyi dinlemesi isteniyor?",
+          "answer": "Kur’an’ı dinlemesi isteniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an’ın insana kazandırdığı iki şey bu bölümde nasıl ifade ediliyor?",
+          "answer": "İnsanı aydınlatması ve doğru yola yöneltmesi şeklinde anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an’la ilgili olarak günlük hayatta yapılması istenen şey nedir?",
+          "answer": "Onu dilde tutmak, yani devamlı okumak ve anmak isteniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre doğru sözün kaynağı nedir?",
+          "answer": "Hak olan, Allah’tan gelen ve gerçeği gösteren ilahî mesajdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Duada kalpler için özellikle ne isteniyor?",
+          "answer": "İman ve Kur’an nuru ile aydınlanma isteniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Duada Allah’tan zenginlik hangi yolla talep ediliyor?",
+          "answer": "Allah’a muhtaç olduğunu bilme yoluyla isteniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Duada insan kendi gücü hakkında nasıl bir tavır gösteriyor?",
+          "answer": "Kendi kuvvetine güvenmediğini, Allah’ın gücüne sığındığını söylüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Duada müminler için hangi ortak istek yer alıyor?",
+          "answer": "Mümin erkek ve kadınlara merhamet edilmesi isteniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S1Q15",
+          "sourceQuestionId": "S1Q15",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 15,
+          "question": "Hz. Muhammed için duada hangi iki şey bir arada yapılıyor?",
+          "answer": "Salât ve selâm isteniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın başında nefse verilen temel öğüt nedir?",
+          "answer": "İbadeti aksatmamak ve büyük günahlardan kaçınmaktır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Namaz ve günahlardan sakınma neden akıllı bir insan için önemlidir?",
+          "answer": "Çünkü az bir gayretle çok büyük bir kazanç sağlar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanı yanlış yola iten iki etken kimler olarak anılıyor?",
+          "answer": "Şeytan ve onu kötülüğe çağıran kişi anılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu kötü çağrıya karşı öne sürülen delil hangi gerçeğe dayanıyor?",
+          "answer": "İnsan hayatındaki ölüm, fanilik, zayıflık, ihtiyaç ve kabir gerçeğine dayanıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p26:5-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Kâinatın büyük bir mescid gibi gösterilmesi, insana ne hissettirmeyi amaçlar?",
+          "answer": "Her yerde Allah’ın delilleri bulunduğunu ve insanın kulluk içinde yaşaması gerektiğini hissettirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an’ın “kâinatı okuması” sözüyle ne anlatılmak isteniyor?",
+          "answer": "Evrenin anlamını, düzenini ve yaratılış hikmetini açıkladığı anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Onun nuruyla nurlanalım” ifadesi neyi öğütler?",
+          "answer": "Kur’an’ın rehberliğini kabul edip kalbi ve hayatı onunla güzelleştirmeyi öğütler.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "“Hidayetiyle amel edelim” sözüne göre yalnız bilmek yeterli midir?",
+          "answer": "Hayır, öğrenilen doğruya göre yaşamak da gerekir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Duada kalbin aydınlanması hangi iki kaynakla isteniyor?",
+          "answer": "İman ve Kur’an ile isteniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Duada Allah’tan bağımsız görünmenin değil, hangi hâlin verilmesi isteniyor?",
+          "answer": "Allah’a muhtaç olduğunu bilme hâlinin verilmesi isteniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p26:5-sinif:S2Q11"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "İnsanın kendinden uzaklaştırmak istediği şey nedir?",
+          "answer": "Kendi gücüne ve kudretine dayanma düşüncesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Duada özellikle hangi güzel ahlâk isteniyor?",
+          "answer": "Tevekkül isteniyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S2Q15",
+          "sourceQuestionId": "S2Q15",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 15,
+          "question": "Duanın sonunda kimlere rahmet ve selam dileğinde bulunuluyor?",
+          "answer": "Hz. Muhammed’e, onun ailesine, ashabına, diğer peygamberlere, meleklere ve salih kullara dilekte bulunuluyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada ibadetlerle ilgili verilen sayı hangisidir ve neyi gösterir?",
+          "answer": "Beş sayısı geçer; günlük namaz vakitlerini gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Günahlardan sakınma konusunda hangi tür günahlara dikkat çekiliyor?",
+          "answer": "Büyük günahlara dikkat çekiliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre bu dinî görevler çok mu ağır, yoksa kolay mı gösteriliyor?",
+          "answer": "Kolay ve hafif gösteriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Buna rağmen insan neden gevşek davranmamalıdır?",
+          "answer": "Çünkü küçük görünen bu görevlerin sonucu çok büyüktür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p26:5-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Kötülüğe çağıranlara söylenen sözde hangi imkânsız istekler sıralanıyor?",
+          "answer": "Ölümü ortadan kaldırmak, faniliği bitirmek, insanın eksik yönlerini yok etmek ve kabri kapatmak gibi imkânsız şeyler sıralanıyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Parçaya göre insan kimin sözüne kulak vermelidir?",
+          "answer": "Kur’an’ın gösterdiği doğru söze kulak vermelidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an’ın dinlenmesi yanında onunla ilgili hangi üç davranış öneriliyor?",
+          "answer": "Onunla aydınlanmak, onun gösterdiği yolda yaşamak ve onu dilde tutmak öneriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "“Hak” olan sözün bazı özellikleri nelerdir?",
+          "answer": "Doğru olması, ilahî kaynaktan gelmesi, gerçeği göstermesi ve hikmet yaymasıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Duadaki ilk istek daha çok insanın hangi yönüyle ilgilidir?",
+          "answer": "Kalp dünyasıyla ilgilidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Duada istenen manevi zenginlik nasıl bir anlayışla bağlantılıdır?",
+          "answer": "Kulun Allah’a muhtaç olduğunu kabul etmesiyle bağlantılıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Duaya göre güvenilecek asıl kuvvet kime aittir?",
+          "answer": "Asıl kuvvet Allah’a aittir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Kişinin kendi nefsine bırakılmaması neden isteniyor olabilir?",
+          "answer": "Çünkü insan tek başına zayıftır ve hata edebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Duada sadece kişi kendisi için mi ister, yoksa başkaları için de ister mi?",
+          "answer": "Başkaları için de ister; bütün müminlere merhamet dilenir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde nefse hitap edilirken onun hangi kusuru öne çıkarılıyor?",
+          "answer": "Tembellik kusuru öne çıkarılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu tembelliğe karşı ilk çözüm olarak hangi ibadet anılıyor?",
+          "answer": "Beş vakit namaz anılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci çözüm olarak hangi ahlâkî dikkat isteniyor?",
+          "answer": "Büyük günahlardan uzak durmak isteniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p26:5-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu görevlerin az ve hafif oluşu, insan için nasıl bir mazereti ortadan kaldırır?",
+          "answer": "“Yapamam, çok zor” mazeretini ortadan kaldırır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Şeytanın çağrısına karşı verilen cevapta hangi gerçek değiştirilemez kabul ediliyor?",
+          "answer": "Ölüm ve insanın fanilik içinde oluşu değiştirilemez kabul ediliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanlardaki acz ve fakr burada neyi anlatır?",
+          "answer": "Zayıf ve ihtiyaç sahibi olmayı anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Kabir kapısını kapatmak ifadesiyle neyin mümkün olmadığı anlatılıyor?",
+          "answer": "Ölüm sonrası yolculuğu yok etmenin insanın elinde olmadığı anlatılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Parçaya göre bütün evrene nasıl bakmak gerekir?",
+          "answer": "Allah’ın ayetlerini gösteren büyük bir ibadet alanı gibi bakmak gerekir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an’ın bu büyük âlemdeki görevi nasıl anlaşılabilir?",
+          "answer": "Varlıkları anlamlandıran ve insana doğru bakışı öğreten rehber olarak anlaşılabilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Kur’an’la nurlanmak, sadece ezberlemek midir?",
+          "answer": "Hayır, onun ışığını kalbe ve davranışlara taşımaktır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Duada geçen tevekkül isteği hangi davranışı öğretir?",
+          "answer": "Sonucu Allah’a bırakarak O’na güvenmeyi öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Duada “bizi kendimize bırakma” anlamındaki istek neye işaret eder?",
+          "answer": "İnsanın Allah’ın yardımı olmadan yeterli olamayacağına işaret eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Duada koruma isteği kime yöneltiliyor?",
+          "answer": "Allah’a yöneltiliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "Merhamet dileği hangi topluluğu kapsıyor?",
+          "answer": "İnanan erkekleri ve kadınları kapsıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S4Q15",
+          "sourceQuestionId": "S4Q15",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 15,
+          "question": "Hz. Muhammed için yapılan övgüler genel olarak onun hangi yönünü gösterir?",
+          "answer": "Allah’ın elçisi, insanlara rahmet ve hidayet vesilesi olan yüce bir peygamber olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçaya göre az emekle çok fayda veren iki iş hangisidir?",
+          "answer": "Namaz kılmak ve büyük günahları terk etmektir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki işin önemini kim anlayabilir?",
+          "answer": "Aklını doğru kullanan kimse anlayabilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p26:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Parçaya göre gerçek söz neden değerlidir?",
+          "answer": "Çünkü doğruyu bildirir ve insanı hakikate ulaştırır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Kendi güç ve kuvvetinden uzak durmak neyi öğretir?",
+          "answer": "Kibre kapılmamayı ve Allah’a dayanmayı öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Tevekkül eden insanın temel dayanağı nedir?",
+          "answer": "Allah’ın kudreti ve yardımıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Duadaki rahmet isteği yalnız bireysel mi, toplu mu?",
+          "answer": "Topludur; bütün müminleri içine alır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metin, nefse hangi hatalı huyundan dolayı sesleniyor?",
+          "answer": "Üşengeçliğinden dolayı sesleniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Namaz ve büyük günahlardan kaçınma hakkında verilen ortak hüküm nedir?",
+          "answer": "Bunların yapılmasının kolay, sonucu ise çok kıymetli olduğudur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Şeytanın teşviki daha çok neye çağırıyor olarak gösteriliyor?",
+          "answer": "Günaha ve boş zevklere çağırıyor olarak gösteriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Ona karşı söylenen “çözümün varsa söyle” sözü nasıl bir anlam taşır?",
+          "answer": "Gerçek sorunları çözemeyenlerin sözünün değersiz olduğunu anlatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metindeki gerçek sorunlar arasında hangi beş şey sayılıyor?",
+          "answer": "Ölüm, dünyanın geçiciliği, insanın zayıflığı, ihtiyaç sahibi oluşu ve kabir sayılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Kâinatta Kur’an’ın yaptığı iş hangi benzetmeyle açıklanıyor?",
+          "answer": "Koca âlemi okuyan ve anlamını bildiren bir rehber gibi açıklanıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre Kur’an’la ilişki kurmanın kalbe etkisi nedir?",
+          "answer": "Kalbi aydınlatır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Kur’an’ın hidayetiyle amel etmek hangi iki şeyi birleştirir?",
+          "answer": "Öğrenmeyi ve uygulamayı birleştirir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Duadaki ilk bölüm, insanın hangi manevi ihtiyacını öne çıkarır?",
+          "answer": "İmanla iç dünyasının aydınlanma ihtiyacını öne çıkarır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Allah’a karşı ihtiyaç duymak neden olumsuz değil, olumlu bir hâl olarak isteniyor?",
+          "answer": "Çünkü kulun Rabbine yönelmesini ve O’na bağlanmasını sağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Duada Allah’ın hangi sıfatına uygun bir istek açıkça görülüyor?",
+          "answer": "Koruyucu ve merhametli oluşuna uygun bir istek görülüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p26:5-sinif:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Hz. Muhammed hakkında çok sayıda güzel sıfatın anılması neyi gösterir?",
+          "answer": "Onun Allah katındaki yüksek makamını ve insanlığa rehber oluşunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

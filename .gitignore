@@ -1,0 +1,64 @@
+# Dependencies
+node_modules/
+
+# Astro / Vite generated output
+.astro/
+dist/
+public/assets/
+.vite/
+
+# Local caches and coverage
+.cache/
+.tmp/
+.deploy/
+.parcel-cache/
+build/
+coverage/
+test-results/
+playwright-report/
+blob-report/
+bin/
+obj/
+
+# Logs and temporary script output
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+scripts/.tmp-*.json
+study-bulk-import-report.json
+astro-dev.*.log
+services/Rissor.Augmentation.Export/jobs/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+.netlify/
+
+# Editor and OS noise
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office files and generated document outputs
+*.doc
+*.docx
+*.pdf
+*.odt
+*.rtf
+assets/*/*/docx/
+assets/*/*/mobile/
+assets/*/*/pdf-normal/
+assets/*/*/pdf-mobile-6in/
+outputs/
+artifacts/
+ciktilar/
+çıktılar/

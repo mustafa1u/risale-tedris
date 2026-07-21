@@ -1,0 +1,765 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:lisans:p09",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "lisans",
+  "partNo": "p09",
+  "partNumber": 9,
+  "title": "3. Söz: İnsan aczi; ubudiyet yolunun kazancı ve hamd",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/lisans/SveC_lisans_kucuk-sozler-p09-3-soz-insan-aczi-ubudiyet-yolunun-kazanci-ve-hamd.txt",
+  "sourceRevision": "3e056f8bac9c8fe23d5e85bd5f4c6eec2ea6cf72f0eeb1755a50f05ceffd36b3",
+  "setCount": 6,
+  "questionCount": 63,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde insanın imkânları ile ihtiyaçları arasında nasıl bir dengesizlik anlatılmaktadır?",
+          "answer": "İnsanın ihtiyaçları son derece geniş gösterilirken, elindeki imkân ve gücün çok dar olduğu belirtilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın karşılaşabileceği sıkıntılar ile onlara karşı koyma gücü arasında nasıl bir oran kuruluyor?",
+          "answer": "Musibetlerin çok fazla, insanın dayanma ve engel olma gücünün ise çok sınırlı olduğu ifade ediliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İnsanın güç ve sermayesinin sınırı neye göre tasvir edilmektedir?",
+          "answer": "Fiilen uzanabildiği ve elinin erişebildiği alan kadar dar bir çerçevede anlatılmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Buna karşılık insanın arzu, hayal ve acılarının alanı nasıl betimleniyor?",
+          "answer": "Gözünün ve hayalinin uzandığı yere kadar yayılan, çok geniş bir alan olarak sunuluyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu dört esasın insana sağladığı netice hangi kavramlarla özetleniyor?",
+          "answer": "Büyük kazanç, mutluluk ve nimet olarak özetleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p09:lisans:S1Q1",
+            "kucuk-sozler:p09:lisans:S1Q2",
+            "kucuk-sozler:p09:lisans:S1Q3",
+            "kucuk-sozler:p09:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde, zarar ihtimali bulunmayan bir yol ile riskli bir yol arasında aklen hangi tercih yapılmalıdır?",
+          "answer": "Zararsız olan yol seçilmelidir; küçük bir fayda ihtimali bile bunu makul kılar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Kulluk yolu hangi iki özellikle öne çıkarılıyor?",
+          "answer": "Hem tehlikesiz oluşuyla hem de büyük bir ebedî saadet ihtimali taşımasıyla öne çıkarılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Günah ve ölçüsüz keyif peşinde gitme yolu hakkında nasıl bir hüküm veriliyor?",
+          "answer": "Fayda vermediği, buna karşılık kalıcı felakete sürükleme ihtimalinin çok yüksek olduğu söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu hükmün doğruluğu hangi dayanaklarla güçlendiriliyor?",
+          "answer": "Çok sayıda ehil kimsenin ortak kanaati, ardı ardına gelen güçlü rivayetler ve manevî tecrübe sahiplerinin haberleriyle destekleniyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p09:lisans:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metnin sonunda dünya ve âhiret saadeti hangi hayat tarzına bağlanıyor?",
+          "answer": "İbadet etmeye ve Allah’ın emrine bağlı bir kul olmaya bağlanıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu sonucun ardından müminin nasıl bir tavır içinde olması isteniyor?",
+          "answer": "İtaat ve ilahî muvaffakiyet için hamd etmesi, ayrıca Müslümanlığı için şükretmesi isteniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p09:lisans:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada insanın temel varlık durumu hangi dört özellik üzerinden anlatılıyor?",
+          "answer": "Acizlik, zayıflık, fakirlik ve muhtaçlık üzerinden anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan niçin kendi başına yeterli bir varlık olarak görülmüyor?",
+          "answer": "Çünkü ihtiyaçları ve karşılaşacağı sıkıntılar çok geniş, fakat bunları karşılayacak gücü çok sınırlı.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde “sermaye” ifadesi insan açısından neyi düşündürüyor?",
+          "answer": "Kişinin elindeki imkân, güç ve dayanma kapasitesini düşündürüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanın hayal ve isteklerinin geniş olması, onun durumunu nasıl daha belirgin hale getiriyor?",
+          "answer": "Elindekinin azlığı ile iç dünyasındaki beklentilerin büyüklüğü arasındaki farkı daha keskin gösteriyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre bunu kim anlayabilir?",
+          "answer": "Büsbütün hakikate kapanmamış olan herkes bunu fark edebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p09:lisans:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada aklî kıyas yapılırken hangi günlük ilkeye başvuruluyor?",
+          "answer": "İnsanların tehlikesiz olan seçeneği, tehlikeli olana göre tercih etmesi esas alınıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Ubudiyet yolunun akla uygunluğu hangi iki sebeple savunuluyor?",
+          "answer": "Birincisi zarar taşımaması, ikincisi ise yüksek oranda sonsuz mutluluğa ulaştırma ümidi vermesi.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Fısk ve sefahet yolunun akla aykırılığı nasıl temellendiriliyor?",
+          "answer": "Çünkü kayda değer bir faydası yokken, ağır ve kalıcı bir hüsrana götürme ihtimali çok güçlü gösteriliyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde bu konuda yalnız kişisel kanaat mi sunuluyor, yoksa daha geniş bir destek mi veriliyor?",
+          "answer": "Daha geniş bir destek veriliyor; uzman kabul edilen kimselerin ortak şahitliği ve manevî tecrübeler buna delil olarak gösteriliyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümlelerde önerilen ahlâkî ve dinî duruş nedir?",
+          "answer": "Kulluğu nimet bilmek, itaate vesile olan tevfike hamd etmek ve Müslümanlığın kıymetini şükürle karşılamaktır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın ihtiyaçlarının sonsuz denecek kadar çok olması neyi gösterir?",
+          "answer": "Kendi başına tam anlamıyla yeterli olamayacağını ve her şeyi kontrol edemeyeceğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Emel, arzu, elem ve bela alanının geniş gösterilmesi neyi vurgular?",
+          "answer": "İnsanın sadece mevcut şartlarla değil, zihninde büyüttüğü geniş yüklerle de kuşatıldığını vurgular.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu tablo karşısında ibadet nasıl bir işlev görmektedir?",
+          "answer": "İnsan için çıkış yolu, anlam kaynağı ve saadete götüren sağlam bir yöneliş olarak sunulmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p09:lisans:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Tevhid burada yalnız bir inanç ilkesi mi, yoksa hayatı yorumlama biçimi mi olarak duruyor?",
+          "answer": "Aynı zamanda hayatı yorumlama biçimi olarak duruyor; insanı dağınık sebepler yerine Allah’a bağlayan bir merkez oluyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metindeki yol kıyaslaması hangi düşünce biçimine dayanıyor?",
+          "answer": "Risk ve fayda karşılaştırmasına dayanan aklî bir muhakemeye dayanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Ubudiyet yolu için verilen “yüksek kazanç” ifadesi hangi sonuca işaret eder?",
+          "answer": "Sadece geçici rahatlığa değil, kalıcı kurtuluş ve mutluluğa işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Fısk ve sefahet yolunun menfaatsiz sayılması ne anlama gelir?",
+          "answer": "İlk bakışta cazip görünse bile gerçek ve kalıcı bir fayda üretmediği anlamına gelir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Ebedî şekavet ifadesi, bu yolun sonucu hakkında nasıl bir ciddiyet taşır?",
+          "answer": "Sonucun sıradan bir kayıp değil, çok ağır ve devamlı bir hüsran olduğunu bildirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde delil olarak anılan “ehl-i ihtisas” ve “ehl-i zevk ve keşif” hangi işlevi görüyor?",
+          "answer": "Söylenenlerin sadece teorik bir iddia olmadığını, bilgi ve tecrübe sahibi kimselerce de desteklendiğini gösteriyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Son bölümde hamd ve şükür niçin özellikle vurgulanıyor?",
+          "answer": "Çünkü doğru yolda bulunmanın ve itaate muvaffak olmanın büyük bir nimet olduğu hatırlatılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada insanın zayıflığı hangi iki ana başlık altında ele alınıyor?",
+          "answer": "Bir yanda çok geniş ihtiyaçları, diğer yanda çok sayıdaki musibetlere karşı yetersiz kalışı altında ele alınıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "“Eli nereye yetişirse” tarzındaki anlatım, insan hakkında nasıl bir sonuç doğurur?",
+          "answer": "İnsanın tesir alanının son derece sınırlı olduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Buna karşılık insanın iç dünyasının genişliği hangi unsurlarla anlatılıyor?",
+          "answer": "İstekleri, beklentileri, acıları ve başına gelebilecek dertlerin ufku üzerinden anlatılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre insanın bu hali onu hangi manevî ihtiyaçlara yöneltir?",
+          "answer": "Kulluğa, Allah’a güvenmeye, O’nu birlemeye ve hükmüne teslim olmaya yöneltir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p09:lisans:S4Q1",
+            "kucuk-sozler:p09:lisans:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Günlük hayatta insanlar, içinde tehlike olan seçeneklere karşı nasıl davranır?",
+          "answer": "Genelde güvenli olanı seçerler ve zarar ihtimali olanı geride bırakırlar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metin bu genel davranışı dinî hayata nasıl uyguluyor?",
+          "answer": "Kulluk yolunun emniyetli ve kazançlı, günah yolunun ise faydasız ve tehlikeli olduğunu söyleyerek uyguluyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p09:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Ubudiyet yolunda geçen “ebedî saadet hazinesi” ifadesi neyi çağrıştırır?",
+          "answer": "Sonu tükenmeyen bir kurtuluş ve nimet kaynağını çağrıştırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Dünya mutluluğunun da ibadete bağlanması neyi gösterir?",
+          "answer": "İbadetin sadece ahiret için değil, dünya hayatının huzuru için de gerekli görüldüğünü gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin sonunda okuyucu hangi iki dinî tutuma çağrılıyor?",
+          "answer": "Hamd etmeye ve Müslüman oluşuna şükretmeye çağrılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçaya göre insan neden kendisini tam güven içinde hissedemez?",
+          "answer": "Çünkü ihtiyaçları ve korkuları çok büyük, bunları karşılayacak gücü ise çok küçüktür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın imkânlarının dar, hayallerinin geniş olması hangi çelişkiyi ortaya koyuyor?",
+          "answer": "Fiilî kudreti az olan insanın zihnen ve kalben çok büyük alanlara açıldığını ortaya koyuyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu çelişki karşısında ibadet neden anlamlı bir cevap sayılıyor?",
+          "answer": "Çünkü insanı kendi sınırlı gücüne mahkûm bırakmayıp Allah’a yöneltiyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p09:lisans:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Tevekkülün bu pasajdaki yeri nasıl anlaşılmalıdır?",
+          "answer": "Kulun her şeyi kendi omzunda taşımaya çalışmaması, dayanacağı asıl merciyi bilmesi olarak anlaşılmalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Tevhid neden insanın yükünü hafifleten bir esas olarak görülebilir?",
+          "answer": "Çünkü çok sayıda dağınık güç yerine her şeyin tek bir ilahî idare altında olduğunu kabul ettirir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Metindeki yol örneği hangi bakımdan dikkat çekicidir?",
+          "answer": "Çok basit bir akıl yürütmeyle dinî tercihin ne kadar makul olduğunu göstermesi bakımından dikkat çekicidir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Ubudiyet yolunun “zararsız” sayılması ne demektir?",
+          "answer": "Kişiyi gerçek anlamda hüsrana sürüklemeyen, güvenli bir istikamet olması demektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Fısk ve sefahet yolunun “menfaatsiz” sayılması hangi örtük eleştiriyi içerir?",
+          "answer": "Geçici zevklerin insanı aldatabileceği, fakat sonunda gerçek bir kazanç bırakmadığı eleştirisini içerir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metin, ebedî saadet ve ebedî şekavet ihtimallerini neden karşılaştırıyor?",
+          "answer": "Okuyucunun tercihinin sonucunu uzun vadeli ve ciddi biçimde düşünmesini sağlamak için karşılaştırıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Şahitlik, icma ve güçlü nakil vurgusu hangi amaca hizmet eder?",
+          "answer": "Sözün şahsî bir his değil, kuvvetli dayanakları olan bir hakikat olarak görülmesine hizmet eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümledeki şükür çağrısı, bilgi düzeyinden öte hangi ahlâkî duruşu ister?",
+          "answer": "Nimeti fark eden, itaati lütuf bilen ve dinine karşı minnet duyan bir kulluk şuurunu ister.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde insanın ihtiyaçlarının çokluğu ile gücünün azlığı nasıl bir insan tasavvuru ortaya koyuyor?",
+          "answer": "Kendi başına yeterli olmayan, korunmaya ve yardıma muhtaç bir insan tasavvuru ortaya koyuyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Musibetlerin sınırsız, kudretin sınırlı oluşu insanı hangi sonuca götürmelidir?",
+          "answer": "Kendine aşırı güvenmek yerine Allah’a yönelmeye götürmelidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İnsanın etkisinin elinin ulaştığı yer kadar, fakat tasalarının hayalinin ulaştığı yer kadar geniş olması neyi hissettirir?",
+          "answer": "İnsanın iç dünyasında taşıdığı yükün, dış gücünden çok daha büyük olduğunu hissettirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu durumda ibadet niçin yalnız dinî bir görev değil, aynı zamanda bir ihtiyaçtır?",
+          "answer": "Çünkü insanın zaafını telafi eden, ona dayanak ve yön veren bir cevap niteliğindedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p09:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Tevekkül ve teslimin beraber anılması nasıl okunmalıdır?",
+          "answer": "Allah’a güvenip sonucu O’nun hikmetine bırakma bütünlüğü olarak okunmalıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre bunu anlamak için çok derin bir bilgi mi gerekir?",
+          "answer": "Hayır, hakikate tamamen kapanmamış olmak bile bunu kavramaya yeterli görülür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p09:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Zararsız yolun tercih edilmesi örneği, hangi tür bir delillendirme yöntemidir?",
+          "answer": "Herkesin kabul edebileceği sağduyuya dayalı bir delillendirme yöntemidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Ubudiyet yolunda “dokuz ihtimalle” büyük saadet bulunduğunun söylenmesi neyi amaçlar?",
+          "answer": "Bu yolun hem güvenli hem de çok kuvvetli bir kazanç ihtimali taşıdığını göstermek amaçlanır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Fısk ve sefahet yolunda “dokuz ihtimalle” kalıcı hüsran bulunması nasıl bir uyarıdır?",
+          "answer": "Görünüşte serbestlik sunsa da gerçekte çok tehlikeli bir tercih olduğuna dair ciddi bir uyarıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu olumsuz sonucun bilgi değeri hangi çevrelerin tanıklığıyla pekiştiriliyor?",
+          "answer": "Konuya ehil kişilerin ortak görüşleri ve manevî tecrübe sahiplerinin bildirimleriyle pekiştiriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Parçanın özeti olarak dünya mutluluğu hangi ifadeyle bağlanıyor?",
+          "answer": "İbadete ve Allah’ın emrine bağlı yaşamaya bağlanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p09:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin sonunda geçen hamd ve şükür çağrısı, okuyucuya hangi bilinci kazandırmayı hedefler?",
+          "answer": "İtaatin bir lütuf, Müslümanlığın da büyük bir nimet olduğunu bilme şuurunu kazandırmayı hedefler.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

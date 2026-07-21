@@ -1,0 +1,862 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:2-sinif:p40",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "2-sinif",
+  "partNo": "p40",
+  "partNumber": 40,
+  "title": "8. Mes'elenin Bir Hülâsası: Âhiret imanının hayat-ı içtimaiyeye bakan faydaları (çocuklar ve ihtiyarlar)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/2-sinif/SveC_2sinif_meyve-risalesi-p40-8-meselenin-bir-hulasasi-ahiret-imaninin-hayat-i-ictimaiyeye-bakan-faydalari-cocuklar-ve-ihtiyarlar.txt",
+  "sourceRevision": "c408522f4fb87c167a67b62e18b701d3f714633790ff8cabb9f1a10e6ea921fd",
+  "setCount": 6,
+  "questionCount": 70,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada önce hangi iki insan grubu anlatılıyor?",
+          "answer": "Çocuklar ve ihtiyarlar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Çocukların güzelce yaşayabilmesi için hangi inançtan söz ediliyor?",
+          "answer": "Âhirete imandan.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Çocuklar çevrelerinde ne görünce üzülüp korkabilir?",
+          "answer": "Başka çocukların ölmesini görünce.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Ölüm korkusu, çocukların hangi yönlerini zorlar?",
+          "answer": "Akıllarını, kalplerini ve ruhlarını.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu inanç çocukların üzüntüsünü neye çevirir?",
+          "answer": "Sevinç ve iç rahatlığına.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Ölen bir arkadaş için çocuk nasıl güzel bir düşünceye sahip olur?",
+          "answer": "Onun Cennet’te iyi durumda olduğunu düşünür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Annesi ölen bir çocuk, bu inançla ne umut eder?",
+          "answer": "Annesini sonra yine göreceğini umut eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Parçaya göre böyle düşünen çocuk nasıl yaşar?",
+          "answer": "İnsana yakışır şekilde yaşar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İhtiyarlar en çok hangi iki şey için teselliye ihtiyaç duyar?",
+          "answer": "Ölüme yaklaşmak ve toprağa girmek için.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "İhtiyarların teselliyi bulduğu yer neresidir?",
+          "answer": "Âhiret imanıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu teselli olmazsa dünya ihtiyarlara nasıl görünür?",
+          "answer": "Karanlık ve sıkıntılı bir yer gibi görünür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Âhiret inancı ihtiyarlara gelecek için ne müjdesi verir?",
+          "answer": "Bitmeyen hayat, gençlik ve sevdikleriyle kavuşma müjdesi verir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada çocukların sayısı için insanlığın ne kadarı deniyor?",
+          "answer": "Dörtte biri deniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Çocuklar bu inanç olmazsa kendilerini nasıl avutmaya çalışır?",
+          "answer": "Oyuncaklarla ve boş şeylerle oyalanmaya çalışır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Çocukların zihni nasıl anlatılıyor?",
+          "answer": "Hassas ve çabuk etkilenen bir zihin olarak anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Âhiret inancı gelince çocuk ölüm karşısında ne hisseder?",
+          "answer": "Ferahlık ve sevinç hisseder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada ihtiyarlar için “yakında” olan iki durum nedir?",
+          "answer": "Hayatlarının bitmesi ve kabre gitmeleri.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İhtiyar annelerle babalar bu inanç olmazsa ne yaşar?",
+          "answer": "Büyük iç sıkıntısı ve derin üzüntü yaşar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Âhiret inancı, ihtiyarlara yaptıkları iyilikler hakkında ne haber verir?",
+          "answer": "İyiliklerinin kaybolmadığını söyler.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "İhtiyarlar sevdikleriyle yeniden ne yapacaktır?",
+          "answer": "Sevinçle buluşacaktır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu inanç ihtiyarların içine ne verir?",
+          "answer": "Teselli ve genişlik verir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın ana düşüncesi nedir?",
+          "answer": "Âhiret inancı çocuklara da ihtiyarlara da güç ve huzur verir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Çocuklar için anlatılan en büyük sıkıntılardan biri nedir?",
+          "answer": "Ölümü düşünüp korkmalarıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Çocuklar bu korku yüzünden hayata nasıl bakabilir?",
+          "answer": "Hayatı zor ve acı verici görebilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Âhiret inancı çocukların saklandığı korkuları ne yapar?",
+          "answer": "Azaltır ve yerini umutla doldurur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Ölen arkadaşını düşünen çocuk neden biraz rahatlar?",
+          "answer": "Onun daha güzel bir yerde olduğunu düşündüğü için.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Ölen annesi için çocuk hangi buluşmayı hayal eder?",
+          "answer": "Cennet’te yeniden kavuşmayı hayal eder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu güzel düşünceler çocuğun davranışına nasıl yansır?",
+          "answer": "Daha düzgün ve insan gibi yaşamasına yardım eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İhtiyarlar neden geleceği düşününce kaygılanabilir?",
+          "answer": "Çünkü ölüme ve dünya hayatının bitmesine yaklaştıklarını bilirler.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Âhiret inancı ihtiyarlara nasıl bir ömürden haber verir?",
+          "answer": "Sonu olmayan bir ömürden haber verir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu inanç ihtiyarlara kaybettikleri yakınları için ne vaat eder?",
+          "answer": "Onlarla tekrar görüşmeyi vaat eder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "İhtiyarların yaptığı iyiliklerin durumu ne olur?",
+          "answer": "Korunur ve karşılığı verilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Çok büyük yaşlılık sıkıntıları gelse bile, bu inanç neyi engeller?",
+          "answer": "Ümitsizliğe düşmeyi engeller.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Çocuklar ve ihtiyarlar bakımından ortak fayda nedir?",
+          "answer": "İkisinin de kalbine teselli vermesidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada çocukların içinde bulunduğu yaş için hangi özellik öne çıkıyor?",
+          "answer": "Çabuk üzülüp etkilenmeleri.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Çocuklar ölüm olaylarını görünce içlerinde ne oluşabilir?",
+          "answer": "Korku ve endişe oluşabilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Âhirete iman çocuğa arkadaşının ölümü hakkında nasıl bir bakış kazandırır?",
+          "answer": "Kötü son değil, güzel bir son düşünmesini sağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Çocuk annesi öldüğünde tamamen ayrılık mı düşünür, yeniden kavuşmayı mı?",
+          "answer": "Yeniden kavuşmayı düşünür.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu bakış çocuğun iç dünyasında hangi değişimi yapar?",
+          "answer": "İçini rahatlatır ve umut verir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İhtiyarlar için dünya neden kapanıyor gibi görünür?",
+          "answer": "Çünkü hayatlarının sonuna yaklaştıklarını hissederler.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İhtiyarların teselli bulduğu tek yer olarak ne gösteriliyor?",
+          "answer": "Âhiret inancı gösteriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu inanç, ihtiyarlara gençlik hakkında ne söyler?",
+          "answer": "Yeniden devamlı bir gençlik olacağını söyler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "İhtiyarlara sevdikleri hakkında hangi güzel haber verilir?",
+          "answer": "Yakınlarıyla tekrar görüşecekleri haberi verilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "İhtiyarların yaptığı güzel işler ne olur?",
+          "answer": "Karşılıksız kalmaz.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Bu inanç ihtiyarların kalbine hangi iki güzel şeyi verir?",
+          "answer": "Teselli ve ferahlık.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Parçaya göre âhiret inancı insan hayatını nasıl etkiler?",
+          "answer": "Acıyı hafifletir, umudu artırır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde çocuklar ölüm olayları karşısında neden daha çok zorlanır?",
+          "answer": "Çünkü akılları, kalpleri ve ruhları hassastır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İnançsız kalınca çocuklar neyle oyalanıp derdi unutmak ister?",
+          "answer": "Oyuncaklarla oyalanmak ister.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Âhiret inancı alan çocuk, ölen bir çocuk için kötü mü düşünür, iyi mi düşünür?",
+          "answer": "İyi düşünür.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Çocuğun ölen annesi için beslediği umut nedir?",
+          "answer": "Onunla sonra yine buluşmak.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Böyle bir umut çocuğa hangi güzel duyguyu verir?",
+          "answer": "İç huzuru verir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde ihtiyarlar insanlığın ne kadarı olarak anlatılıyor?",
+          "answer": "Dörtte biri olarak anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "İhtiyarların kalbini sıkan iki büyük düşünce nedir?",
+          "answer": "Ölümün yaklaşması ve dünyanın onlardan uzaklaşması.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Âhiret inancı olmazsa hayat ihtiyarlara nasıl gelebilir?",
+          "answer": "Çok ağır ve acı gelebilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Âhiret inancı ihtiyarlara sevdikleri için hangi müjdeyi verir?",
+          "answer": "Onlarla yeniden kavuşma müjdesi verir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Yaptıkları iyiliklerin sonu ne olur?",
+          "answer": "Mükâfatı verilir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "İhtiyarlara gelen bu teselli onların duygusunu nasıl değiştirir?",
+          "answer": "Onları ümitsizlikten kurtarır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Parçada çocuk ve ihtiyar için ortak ihtiyaç nedir?",
+          "answer": "Teselli ve umut ihtiyacıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatılan çocuklar hangi inançla gerçek insan gibi yaşayabilir?",
+          "answer": "Âhirete imanla.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Çocukların çevresindeki ölümler onlarda nasıl bir iz bırakır?",
+          "answer": "Derin korku ve üzüntü bırakır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu inanç çocuğa ölen arkadaşının şimdi daha güzel bir yerde olduğunu düşündürür mü, yoksa her şeyin bittiğini mi?",
+          "answer": "Daha güzel bir yerde olduğunu düşündürür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Çocuk, annesi için gelecekte nasıl bir sevinç bekler?",
+          "answer": "Onunla yeniden buluşmayı bekler.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Çocukta korkunun yerine gelen iki duygu nedir?",
+          "answer": "Sevinç ve ferahlık.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İhtiyarlar neden teselli arar?",
+          "answer": "Çünkü ölüme ve kabre yaklaştıklarını düşünürler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Onlar için en büyük teselli kaynağı nedir?",
+          "answer": "Âhiret inancıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu inanç ihtiyarlara nasıl bir hayatın onları beklediğini bildirir?",
+          "answer": "Parlak ve bitmeyen bir hayatın onları beklediğini bildirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "İhtiyarlar kaybettikleri çocuk ve yakınlarıyla ne yapacaktır?",
+          "answer": "Yeniden görüşecektir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Yapılan iyilikler kaybolur mu, saklanır mı?",
+          "answer": "Saklanır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu haberler ihtiyarların içine hangi hâli verir?",
+          "answer": "Rahatlama ve umut verir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p40:2-sinif:S6Q8",
+            "meyve-risalesi:p40:2-sinif:S6Q9",
+            "meyve-risalesi:p40:2-sinif:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p40:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan çıkan kısa ders nedir?",
+          "answer": "Âhirete iman, küçük büyük herkese güç verir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

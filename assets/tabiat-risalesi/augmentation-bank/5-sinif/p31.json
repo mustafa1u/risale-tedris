@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:5-sinif:p31",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "5-sinif",
+  "partNo": "p31",
+  "partNumber": 31,
+  "title": "Hâtime / 3. Sual: “Hiçten icad yok” iddiası; Sofestaî ve inkârcı güruhların tasnifi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/5-sinif/SveC_5sinif_tabiat-risalesi-p31-hatime-3-sual-hicten-icad-yok-iddiasi-sofestai-ve-inkarci-guruhlarin-tasnifi.txt",
+  "sourceRevision": "6793c2c22fc4a67a2196cbd5c5d7c51b1cd9b959c126130845f2033347c1f004",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde sözü edilen düşünürler, kâinatta olup bitenleri hangi iki işlemle açıklamaya çalışıyor?",
+          "answer": "Birleştirme ve ayırma ile açıklamaya çalışıyorlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu düşünürlerin yanıldığı nokta, varlıkların oluşumuna hangi gözle bakmamalarıyla ilgili gösteriliyor?",
+          "answer": "Kur’an’ın gösterdiği nurlu bakışla bakmamalarıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde bu düşünürlerin kaç gruba ayrıldığı bildiriliyor?",
+          "answer": "İki gruba ayrıldıkları bildiriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Birinci grup, zorluğu aşmak için hangi aşırı inkâra kadar gidiyor?",
+          "answer": "Hem âlemin hem de kendi varlıklarını inkâra kadar gidiyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İlk grubun akıl bakımından düştüğü hâl nasıl anlatılıyor?",
+          "answer": "Aklı bırakıp çok aşağı bir cehalete düştükleri anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci grup, bir sinek veya çekirdeğin meydana gelmesini nasıl görüyor?",
+          "answer": "Çok zor ve normal aklın üstünde bir güç gerektirir görüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu yüzden ikinci grup, yaratma konusunda hangi sözü benimsiyor?",
+          "answer": "Yoktan var etmenin olmayacağını söylüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Aynı grup yok olma konusunda hangi hükme varıyor?",
+          "answer": "Var olanın tamamen yok olmayacağını düşünüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Onlara göre evrende görülen değişimler daha çok neye bağlanıyor?",
+          "answer": "Parçacıkların hareketine, rastlantıya, dağılmaya ve toplanmaya bağlanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin sonunda, sapmanın insana nasıl bir zarar verdiği konusunda hangi ders veriliyor?",
+          "answer": "İnsanı gülünç, aşağı ve çok bilgisiz bir duruma düşürebileceği dersi veriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümün başında sözü aktarılan kişi eskiden nasıl, şimdi nasıl biri olarak tanıtılıyor?",
+          "answer": "Önceden karşı olan, şimdi ise dost olmuş ve doğru yolu kabul etmiş biri olarak tanıtılıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kişinin aktardığı iddiaya göre kâinattaki işleyişin temelinde ne var deniliyor?",
+          "answer": "Sadece çözülme ve birleşme var deniliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Cevap kısmında, bazı düşünürlerin varlıkların oluşumunu neden çok zor bulduğu söyleniyor?",
+          "answer": "Tabiat ve sebeplerle açıklamaya çalıştıkları için çok zor buldukları söyleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Birinci grubun seçtiği yanlış yol nedir?",
+          "answer": "Her şeyi inkâr etmeye yönelmeleridir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu inkârın en ileri noktası nedir?",
+          "answer": "Kendi varlığını bile kabul etmemektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci grup neden yaratmayı inkâr etmeye mecbur kalıyor?",
+          "answer": "Sebeplerin bir canlıyı meydana getirmesini aşırı derecede güç gördüğü için.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci grubun “var olan kaybolmaz” düşüncesi, onların hangi konuda çıkmaza girdiğini gösterir?",
+          "answer": "Yok etmeyi de gerçek anlamda açıklayamadıklarını gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu gruba göre değişimin görünen sebebi nedir?",
+          "answer": "Küçük parçaların hareket etmesi ve rastlantılı karışmalarıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde, bu kişilerin kendileri hakkında nasıl bir yanlış düşünce taşıdığı belirtiliyor?",
+          "answer": "Kendilerini çok akıllı sandıkları belirtiliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan çıkarılacak ibretli sonuç nedir?",
+          "answer": "İnsan doğru yoldan saparsa aklını doğru kullanamayabilir ve büyük yanlışa düşebilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde eleştirilen görüş, “yoktan yaratma” hakkında ne söylüyor?",
+          "answer": "Yoktan bir şeyin meydana gelmeyeceğini söylüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Aynı görüş, “tamamen yok olma” hakkında ne iddia ediyor?",
+          "answer": "Hiçbir şeyin bütünüyle ortadan kalkmayacağını iddia ediyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Cevaba göre, varlıkları sadece tabiat ve sebeplerle açıklamak kolay mı, zor mu gösteriliyor?",
+          "answer": "Çok zor gösteriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu zorluk yüzünden bir kısım insanlar hangi aşırı sonuca gidiyor?",
+          "answer": "Varlığı tümden inkâr etmeye gidiyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde “Sofestaî” diye anılan grubun temel özelliği nedir?",
+          "answer": "Gerçeği inkâr edecek kadar ileri gitmeleridir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Öteki grup niçin yaratmayı kabul etmiyor?",
+          "answer": "Sebeplerle açıklanamayacak kadar büyük bir güç gerektirdiğini gördükleri halde bunu kabul etmek istemedikleri için.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci grubun evrendeki değişimi anlatırken öne çıkardığı dört şey nelerdir?",
+          "answer": "Zerrelerin hareketi, rastlantı, dağılma ve toplanmadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bir sinek ile bir çekirdek örneği niçin verilmiş olabilir?",
+          "answer": "Küçük görünen şeylerin bile yaratılmasının çok derin ve zor açıklanabildiğini göstermek için.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki eleştiriye göre insanı küçük düşüren şey bilgi değil, nedir?",
+          "answer": "Dalalet ve cehalettir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçanın ana fikri bir cümleyle nasıl söylenebilir?",
+          "answer": "Tabiat ve sebeplerle her şeyi açıklamaya çalışan inkârcı anlayış insanı tutarsız ve yanlış sonuçlara götürür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde geçen soruda, bazı ileri düşünürlerin kâinatı çalıştıran şey olarak neyi gördüğü aktarılıyor?",
+          "answer": "Maddelerin birleşip ayrılmasını gördükleri aktarılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta, doğru bakıştan uzak kalan bu kimseler önce neyi fark ediyor?",
+          "answer": "Varlıkları tabiat ve sebeplerle açıklamanın aşırı derecede zor olduğunu fark ediyorlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu fark edişten sonra ortaya çıkan ilk yol nedir?",
+          "answer": "Her şeyi inkâr etmeye sapmaktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İlk yolun sahipleri özellikle hangi insan özelliğini terk etmiş sayılıyor?",
+          "answer": "Akıllarını doğru kullanma özelliğini terk etmiş sayılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu grubun düştüğü yer bilgi bakımından nasıl anlatılıyor?",
+          "answer": "Tam bir bilgisizliğe düştükleri anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci yolun sahipleri küçük bir canlının yaratılmasında ne görüyor?",
+          "answer": "Sınırsız denecek kadar büyük zorluk görüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu yüzden ikinci yolun sahipleri hangi iki yaratılış gerçeğini reddediyor?",
+          "answer": "Yoktan yaratmayı ve gerçek yok oluşu reddediyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Onların kurduğu açıklama daha çok gerçek mi, yoksa zihinlerinde kurdukları bir tasarım mı olarak sunuluyor?",
+          "answer": "Zihinlerinde kurdukları bir tasarım olarak sunuluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde bu kişilere bakınca hangi iki kötü hâlin seviyesi en dipte gösteriliyor?",
+          "answer": "Ahmaklık ve cehaletin seviyesi en dipte gösteriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S4Q4",
+            "tabiat-risalesi:p31:5-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Okuyucuya bu manzaradan ne yapması öğütleniyor?",
+          "answer": "İbret alması ve sapmanın insanı ne hâle düşürdüğünü anlaması öğütleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçadaki konuşmada, zamanın bazı filozofları varlıkların ortaya çıkışını hangi düşünceyle açıklıyor?",
+          "answer": "Yeni bir yaratma yok, sadece maddelerde çözülme ve birleşme var düşüncesiyle açıklıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre bu düşüncenin sahipleri, varlıkları hangi araçlarla açıklamaya çalışıyor?",
+          "answer": "Tabiat ve sebeplerle açıklamaya çalışıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu açıklama tarzı onları niçin iki ayrı gruba ayırıyor?",
+          "answer": "Çünkü karşılaştıkları zorluk karşısında farklı yanlış sonuçlara gidiyorlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İlk grubun çözümü neden daha da yanlış sayılıyor?",
+          "answer": "Zorluğu çözmek yerine varlığı inkâr ettikleri için.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İlk grubun kendileri hakkında bile vardığı yanlış sonuç nedir?",
+          "answer": "Kendi varlıklarını bile kabul etmemeleridir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci grup, küçücük bir varlığın oluşumunda bile nasıl bir ihtiyaç görüyor?",
+          "answer": "Akıl ölçüsünü aşan büyük bir güç ihtiyacı görüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Buna rağmen ikinci grup hangi sözü savunuyor?",
+          "answer": "Yoktan meydana gelmenin olmayacağını savunuyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde “tesadüf rüzgârları” düşüncesi neyi eleştirmek için anılıyor?",
+          "answer": "Olayları rastlantıyla açıklama yanlışını eleştirmek için anılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu kişiler niçin “kendini çok akıllı sananlar” diye eleştiriliyor?",
+          "answer": "Büyük iddialarına rağmen çok tutarsız ve düşük bir anlayışa düştükleri için.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın sonunda verilen ahlâkî uyarı nedir?",
+          "answer": "Yanlış inanç ve sapma, insanı aklen ve ahlâken aşağı düşürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde cevap verilen itirazın özünde hangi iddia vardır?",
+          "answer": "Evrenin işleyişinde gerçek yaratma ve yok etme olmadığı iddiası vardır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Cevaba göre, bu iddiayı ileri sürenler varlıkları hangi pencereden görememişlerdir?",
+          "answer": "Kur’an’ın aydınlattığı pencereden görememişlerdir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde anlatılan ilk topluluk, sebepleri yaratıcı saymaktan bile daha kolay olarak neyi seçiyor?",
+          "answer": "Her şeyi, hatta kendisini bile inkâr etmeyi seçiyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu seçimin onları götürdüğü son durum nedir?",
+          "answer": "Koyu bir bilgisizlik ve şaşkınlıktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci topluluk, bir sineğin veya çekirdeğin meydana gelişinde nasıl bir mesele görüyor?",
+          "answer": "Sonsuz sayılacak kadar güç bir mesele görüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu yüzden yaratılış yerine hangi tür açıklamaya sığınıyorlar?",
+          "answer": "Parçacıkların hareket edip birleşip ayrıldığı bir açıklamaya sığınıyorlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci topluluğun düşüncesinde tesadüfün yeri nedir?",
+          "answer": "Olayların oluşumunda etkili bir sebep gibi görülüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Metin, bu iki topluluğun ortak yanlışını nasıl özetlemeye imkân verir?",
+          "answer": "İkisi de yaratmayı inkâr etmek için akla aykırı yollara sapıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p31:5-sinif:S6Q3",
+            "tabiat-risalesi:p31:5-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada geçen eleştirilere göre gerçek akıllılık neyi gerektirir?",
+          "answer": "Varlık karşısında inkâra değil, doğru düşünmeye yönelmeyi gerektirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p31:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün okuyucuya vermek istediği en temel ders nedir?",
+          "answer": "Sapkın düşünce insanı tutarsızlığa düşürür; insan ibret alıp doğruyu aramalıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

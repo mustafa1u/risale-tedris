@@ -1,0 +1,770 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:5-sinif:p72",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "5-sinif",
+  "partNo": "p72",
+  "partNumber": 72,
+  "title": "10. Mes'ele / Emirdağı Çiçeği: Ehemmiyetli bir sual ve cevabı (fezleke münasebeti)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/5-sinif/SveC_5sinif_meyve-risalesi-p72-10-mesele-emirdagi-cicegi-ehemmiyetli-bir-sual-ve-cevabi-fezleke-munasebeti.txt",
+  "sourceRevision": "92092eda3a3f7b6701d903de3f2b03714bfd28160789e810ae284dd6e291d38d",
+  "setCount": 6,
+  "questionCount": 64,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümün başındaki önemli soruda, bazı kimseler neyi anlamakta zorlanıyor?",
+          "answer": "Küçük gibi görünen bir olay anlatılırken, birden çok yüksek ve genel bir hakikatin neden söylendiğini anlamakta zorlanıyorlar.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu zorluk yüzünden nasıl bir yanlış düşünce ortaya çıkabiliyor?",
+          "answer": "Sözün yerinde olmadığı veya anlatımda eksiklik varmış gibi bir zan doğabiliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p72:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Verilen örnekte, sıradan gibi görünen bir olayın içinde nasıl bir tür hakikat anılıyor?",
+          "answer": "İlimle ilgili çok büyük ve genel bir kural anılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p72:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Cevabın başında, uzun ve orta uzunluktaki sûreler için nasıl bir benzetme yapılıyor?",
+          "answer": "Bunların her birinin küçük bir Kur’an gibi olduğu söyleniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu sûrelerde yalnız birkaç konu mu bulunur, yoksa daha fazlası mı vardır?",
+          "answer": "Yalnız birkaç konu değil, birçok ders ve farklı maksat vardır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu bölümde Kur’an’ın hangi yönleri birlikte anılıyor?",
+          "answer": "Zikir, iman, düşünme, hüküm, hikmet ve doğru yolu gösterme yönleri birlikte anılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Kur’an’ın birçok dersi bir arada vermesi, Allah’ın hangi özelliğini göstermeye hizmet eder?",
+          "answer": "Allah’ın terbiyesinin ve tasarrufunun her şeyi kuşattığını göstermeye hizmet eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an, kâinatla ilgili olarak nasıl bir görev görür?",
+          "answer": "Büyük yaratılmışlar kitabını okutan bir rehber gibi görev görür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an’ın bir yerde bir konudan başka bir derse geçmesi neye dayanır?",
+          "answer": "Görünüşte zayıf olsa bile bir bağlantıya dayanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "İlk bakışta zayıf görünen bağ neden sonradan uygun hale gelir?",
+          "answer": "Çünkü ona başka güçlü bağlantılar da eklenir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu durum anlatımın hangi yönünü yükseltir?",
+          "answer": "Anlatımın güzelliğini ve yerindeliğini yükseltir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki önemli sorunun çıkış noktası nedir?",
+          "answer": "Bazı derin gerçeklerin yüzeyden bakınca kolay anlaşılmamasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Yüzeysel bakan kişiler, hangi durumda bağlantıyı fark edemeyebilir?",
+          "answer": "Küçük bir olaydan sonra geniş bir iman dersi geldiğinde bağlantıyı fark edemeyebilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu fark edememe, nasıl bir vehme sebep olabilir?",
+          "answer": "Uygunsuzluk var sanılmasına sebep olabilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Cevaba göre uzun sûreler kaç amaçla sınırlı değildir?",
+          "answer": "Sadece iki veya üç amaçla sınırlı değildir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu sûrelerde farklı derslerin bulunması Kur’an’ın nasıl bir kitap olduğunu gösterir?",
+          "answer": "Tek yönlü değil, birçok faydalı dersi içinde toplayan kapsamlı bir kitap olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an her makamda ne yapar?",
+          "answer": "Birçok amacı takip eder ve Allah’ı tanıtan, birliği bildiren, imanı güçlendiren dersler verir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bazen bir konudan başka derse geçişin bağı nasıl görünebilir?",
+          "answer": "Dışarıdan bakınca zayıf görünebilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre bu zayıf gibi görünen bağ tek başına mı kalır?",
+          "answer": "Hayır, sonradan başka kuvvetli bağlarla desteklenir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Sonunda ortaya nasıl bir sonuç çıkar?",
+          "answer": "O sözün tam yerine uygun olduğu anlaşılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, bazı gerçeklerin kimlere açıkça görünmediği belirtiliyor?",
+          "answer": "Derine inmeyip yüzeyden bakan kimselere açıkça görünmediği belirtiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Küçük bir olayın ardından büyük bir ilke söylenince insanlar neyi sorgulayabiliyor?",
+          "answer": "İkisi arasındaki uygunluğu sorgulayabiliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Soruda verilen misal, hangi tür bir olayla hangi tür bir sözün yan yana gelmesine örnektir?",
+          "answer": "Sınırlı bir olayla çok genel bir hikmet sözünün yan yana gelmesine örnektir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p72:5-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Cevapta uzun ve orta sûrelerin önemli bir özelliği nasıl anlatılıyor?",
+          "answer": "Her birinin içinde birçok konuyu taşıyan küçük bir bütün gibi olduğu anlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Kur’an’ın sadece inanç kitabı olmadığı, başka hangi alanları da kapsadığı söyleniyor?",
+          "answer": "Hüküm, hikmet, öğüt ve doğru yola yöneltme alanlarını da kapsadığı söyleniyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu çok yönlülük, Kur’an’ın anlatımına nasıl yansır?",
+          "answer": "Aynı yerde birden fazla ders vermesine yansır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Kur’an’ın Allah’ı tanıtan dersler vermesi hangi konular üzerinden olur?",
+          "answer": "Allah’ın birliği ve iman esasları üzerinden olur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Dışarıdan bakınca zayıf görünen ilişki neden yeterli görülmez?",
+          "answer": "Çünkü asıl manayı anlamak için sonradan gelen başka uygunlukları da görmek gerekir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Kuvvetli bağlantılar eklenince ne ortaya çıkar?",
+          "answer": "Sözün bulunduğu yere çok uygun olduğu anlaşılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Belâgat bakımından bu neyi gösterir?",
+          "answer": "Anlatımın eksik değil, aksine daha yüksek bir seviyede olduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan, Kur’an’ın anlatım tarzı hakkında hangi sonuç çıkar?",
+          "answer": "Kur’an tek bir konuya kapanmaz; küçük bir olaydan büyük iman derslerine hikmetle geçer.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümde anlatılan mesele, insanların hangi hatasından kaynaklanıyor?",
+          "answer": "Olaylara sadece dış yüzünden bakma hatasından kaynaklanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu hata olunca, yüksek bir inanç cümlesi küçük bir olayın yanında nasıl görünebilir?",
+          "answer": "Sanki oraya uygun değilmiş gibi görünebilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p72:5-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Metin, bu düşüncenin doğru olmadığını neyle açıklıyor?",
+          "answer": "Kur’an’ın birçok amacı aynı anda taşıyan bir kitap olduğunu açıklayarak gösteriyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p72:5-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Uzun sûrelerin “küçük Kur’an” gibi görülmesi ne anlama gelir?",
+          "answer": "İçlerinde temel ve geniş derslerin topluca bulunması anlamına gelir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu dersler sadece bir alana mı aittir?",
+          "answer": "Hayır, farklı alanlara aittir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde sayılan bu alanlardan birkaçını söyle.",
+          "answer": "İman, zikir, düşünme, hikmet, hüküm ve irşad.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Kur’an’ın çok yönlü ders vermesi, Allah’ın hangi büyüklüğünü bildirir?",
+          "answer": "Her şeyi kuşatan ilahî idare ve tecellisini bildirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "“Kâinat kitabını okuma” benzetmesi neyi anlatır?",
+          "answer": "Kur’an’ın yaratılmış âlemdeki anlamları insana öğrettiğini anlatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an bir makamda neden birden başka bir konuya geçebilir?",
+          "answer": "Çünkü aynı yerde birden çok faydalı ders vermek ister.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu geçiş ilk anda niçin zor anlaşılabilir?",
+          "answer": "Çünkü görünen bağ küçük olabilir ve hemen fark edilmeyebilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Sonradan eklenen güçlü ilgiler neyi ispatlar?",
+          "answer": "Geçişin yerli yerinde ve hikmetli olduğunu ispatlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki soru, hangi konuda bir “sır” ve “hikmet” arıyor?",
+          "answer": "Küçük bir olayın içinde büyük bir tevhid veya genel kaidenin neden geçtiğinin hikmetini arıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bazı insanların kusur var sanmasının temel sebebi nedir?",
+          "answer": "Münasebeti hemen görememeleridir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Cevaba göre Kur’an’ın uzun ve orta bölümleri neden zengindir?",
+          "answer": "Çünkü birçok kitabın dersi gibi farklı maksatları içinde toplar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an’ın bu farklı maksatları toplaması, onun hangi özelliğini gösterir?",
+          "answer": "Kapsayıcı ve çok yönlü bir ilahî rehber olduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde Kur’an’ın hangi büyük hakikatleri ders verdiği söyleniyor?",
+          "answer": "Allah’ı tanıma, Allah’ın birliği ve iman hakikatlerini ders verdiği söyleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an’ın her yerde bu dersleri vermesi neyi gösterir?",
+          "answer": "Her makamda insanı eğiten ve yönlendiren bir kitap olduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Başka bir derse geçiş bazen nasıl bir bağla başlar?",
+          "answer": "Görünüşte küçük bir bağla başlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "O küçük bağ daha sonra nasıl güçlenir?",
+          "answer": "Başka kuvvetli uygunluklar ona katılır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu güçlenme sonunda o yer için nasıl bir hüküm verilir?",
+          "answer": "Tam yerinde ve uygun bir anlatım olduğu anlaşılır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre bu durum belâgatı azaltır mı artırır mı?",
+          "answer": "Artırır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde sorulan önemli mesele, hangi tür okuyucuların zorlanmasıyla ilgilidir?",
+          "answer": "Derin bakmayan ve hemen hüküm veren okuyucuların zorlanmasıyla ilgilidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Onlar özellikle neyi göremedikleri için yanlış kanaate varırlar?",
+          "answer": "Küçük bir olay ile büyük bir hakikat arasındaki bağı göremedikleri için yanlış kanaate varırlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p72:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Verilen örnek, anlatımda hangi iki şeyin bir araya gelebileceğini gösterir?",
+          "answer": "Sınırlı bir hadise ile çok genel bir ilkenin bir araya gelebileceğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p72:5-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Cevapta Kur’an’ın mahiyeti nasıl tanıtılıyor?",
+          "answer": "Birçok farklı dersi içinde taşıyan çok yönlü bir ilahî kitap olarak tanıtılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Kur’an’ın sadece bilgi vermekle kalmayıp insanı yönlendirmesi hangi kelimeyle ifade ediliyor?",
+          "answer": "İrşad kelimesiyle ifade ediliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Allah’ın rububiyetinin her şeyi kuşatması Kur’an’da neden sıkça gösterilir?",
+          "answer": "Çünkü insanın her olayda Allah’ın kudret ve idaresini görmesi istenir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Kur’an’ın kâinatı okumaya benzetilmesi, insanın bakışını nasıl genişletir?",
+          "answer": "Olayları sadece tek bir yönüyle değil, bütün yaratılış düzeni içinde düşünmesini sağlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an bazen bir makamda neden başka bir ders açar?",
+          "answer": "Aynı yerden yeni bir iman ve marifet dersi vermek için açar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "İlk bakışta zayıf görünen ilgi, metne göre gerçekten zayıf mıdır?",
+          "answer": "Hayır, sonradan görülen başka bağlarla kuvvet kazanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p72:5-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bağların çoğalması neyi ortaya koyar?",
+          "answer": "O sözün orada çok uygun bulunduğunu ortaya koyar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p72:5-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Böyle bir anlatımın belâgat bakımından değeri nedir?",
+          "answer": "Değeri yüksektir; çünkü hem yerinde hem de çok anlamlıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p72:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın bütününe bakınca, Kur’an hakkında hangi genel yargıya varılır?",
+          "answer": "Kur’an, bir olay anlatırken bile büyük iman dersleri veren hikmetli ve derin bir kitaptır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:2-sinif:p24",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "2-sinif",
+  "partNo": "p24",
+  "partNumber": 24,
+  "title": "Hayvanat ve tuyur: Zikir hâli ve üç hakikate giriş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/2-sinif/SveC_2sinif_ayetul-kubra-p24-hayvanat-ve-tuyur-zikir-hali-ve-uc-hakikate-giris.txt",
+  "sourceRevision": "cfc318cbfc2a903afb09fc215e4b708edccbb8f5c7235ed654ee5514a3b05222",
+  "setCount": 6,
+  "questionCount": 54,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu, bahar bahçesinden sonra hangi canlıların dünyasına giriyor?",
+          "answer": "Hayvanlar ve kuşlar dünyasına giriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu canlılar yolcuyu nasıl çağırıyor?",
+          "answer": "Pek çok ses ve farklı dillerle içeriye davet ediyorlar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Yolcu yeryüzünü onların hâliyle neye benzetiyor?",
+          "answer": "Büyük bir zikir yeri gibi görüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Hayvanlar ve kuşlar kime hamd ediyor?",
+          "answer": "Onları yaratan ve rızık veren Allah’a hamd ediyorlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde onların hangi yönleri anlamlı sözler gibi gösteriliyor?",
+          "answer": "Duyguları, güçleri, organları ve aletleri.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu canlılar neye şahitlik ediyor?",
+          "answer": "Allah’ın birliğine şahitlik ediyorlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Birinci büyük delilde, canlıların var olması neyin eseri olarak anlatılıyor?",
+          "answer": "İlim, hikmet ve iradenin eseri olarak anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Birinci delile göre canlıları cansız sebeplere bırakmak doğru mu?",
+          "answer": "Doğru değil.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci büyük delilde hayvanlarda görülen hangi güzelliklerden söz ediliyor?",
+          "answer": "Yüzlerinin ayrı olması, şekillerinin güzel olması, ölçülü ve düzenli olmaları.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu düzen ve güzellik, her şeye gücü yeten nasıl bir yaratıcıyı gösterir?",
+          "answer": "Her şeyi bilen ve her şeye gücü yeten Allah’ı gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S1Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcunun merakı ve sevinci yol boyunca nasıl oluyor?",
+          "answer": "Artıyor.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Hayvanlar ve kuşlar yolcunun hangi iki özelliğine hitap ederek kapılarını açıyor?",
+          "answer": "Aklına ve düşüncesine.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bütün hayvan türleri birlikte hangi ortak mesajı veriyor?",
+          "answer": "Allah’ın bir olduğunu bildiriyorlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde her bir hayvan ne gibi görülüyor?",
+          "answer": "Rabbini anlatan bir işaret gibi görülüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Hayvanların hangi özellikleri düzenli kelimeler gibi düşünülüyor?",
+          "answer": "Hisleri, kuvvetleri, cihazları ve uzuvları.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bu düzenli yapıların iki sonucu nedir?",
+          "answer": "Şükür göstermeleri ve Allah’ın birliğini bildirmeleri.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Birinci hakikatte canlılara can verilmesi hangi üç şeyi gösteriyor?",
+          "answer": "İlim, hikmet ve iradeyi gösteriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Birinci hakikat, Allah hakkında hangi temel gerçeğe delil oluyor?",
+          "answer": "Allah’ın varlığına ve birliğine delil oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci hakikatte hayvanlar arasında hangi farklar anlatılıyor?",
+          "answer": "Yüz, şekil, ölçü ve görünüş farkları anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu kadar farklı ve güzel yapıyı yapmak neden başkasına verilemez?",
+          "answer": "Çünkü bunu ancak her şeyi bilen ve her şeye gücü yeten Allah yapabilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S2Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu, bahardan ne almış olarak geliyor?",
+          "answer": "İman ve marifet demeti almış olarak geliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Hayvanlar ve kuşlar yolcuya tek bir sesle mi, çok çeşitli seslerle mi sesleniyor?",
+          "answer": "Çok çeşitli seslerle sesleniyorlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Yolcu içeri girince bütün canlıları hangi iş içinde gibi görüyor?",
+          "answer": "Zikir ve hamd ediyor gibi görüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre hayvanlar sadece dilleriyle mi, hâlleriyle de mi konuşuyor?",
+          "answer": "Hâlleriyle de konuşuyorlar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Hayvanların organları ve araçları neyi bildiren işaretler oluyor?",
+          "answer": "Yaratıcının varlığını, rızık vermesini ve birliğini bildiren işaretler oluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde kaç büyük hakikatten söz ediliyor?",
+          "answer": "İki büyük hakikatten söz ediliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İlk hakikatte canlıların yaratılışı hangi yanlış düşünceleri reddediyor?",
+          "answer": "Tesadüf, kör kuvvet ve şuursuz tabiat düşüncelerini reddediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci hakikatte hayvanların dış görünüşünde hangi özellikler öne çıkıyor?",
+          "answer": "Farklılık, süs, ölçü ve düzen öne çıkıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu bu bölümde hangi iki canlı grubunu birlikte inceliyor?",
+          "answer": "Hayvanları ve kuşları.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Yeryüzü bu canlılarla neye dönüşmüş gibi anlatılıyor?",
+          "answer": "Büyük bir Allah’ı anma meclisine dönüşmüş gibi anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Her bir hayvan için nasıl bir benzetme yapılıyor?",
+          "answer": "Rabbi anlatan güzel bir söz gibi benzetiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Hayvanların duyguları ve organları neden önemli görülüyor?",
+          "answer": "Çünkü yaratıcılarını gösteren deliller sayılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Onlar kime şükrediyor?",
+          "answer": "Allah’a şükrediyorlar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İlk delilde, canlıların ortaya çıkışı neden tesadüfle açıklanmıyor?",
+          "answer": "Çünkü çok hikmetli ve bilinçli bir yaratılış var.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İlk delilde özellikle hangi nimet dikkat çekiyor?",
+          "answer": "Can verilmesi dikkat çekiyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci delilde hayvanların hangi yönü Allah’ın ilmini gösteriyor?",
+          "answer": "Birbirinden farklı ama düzenli ve ölçülü olmaları.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcunun önüne açılan yeni âlem hangisidir?",
+          "answer": "Hayvanlar ve kuşlar âlemidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bütün canlılar birlikte hangi inancı haber veriyor?",
+          "answer": "Allah’ın tek olduğunu haber veriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre yeryüzü neden bir zikirhane gibi oluyor?",
+          "answer": "Çünkü hayvanlar ve kuşlar hâlleriyle Allah’ı anıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Hayvanların yalnız bedeni mi önemli, yoksa hisleri ve güçleri de mi önemli?",
+          "answer": "Hisleri ve güçleri de önemli.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Onların bu hâli Allah’ın hangi iki nimetine işaret ediyor?",
+          "answer": "Yaratmasına ve rızık vermesine işaret ediyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Birinci hakikatte yaratma işi hangi güzel özelliklerle anlatılıyor?",
+          "answer": "Hikmetli, bilgili ve seçerek yaratma olarak anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu yaratma, Allah’ın hangi yönüne tanıklık ediyor?",
+          "answer": "Varlığına, kudretine ve birliğine tanıklık ediyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci hakikatte hayvanların farklı yüz ve şekilleri neyi gösteriyor?",
+          "answer": "Hepsinin özel bir ölçüyle yapıldığını gösteriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre bu işleri Allah’tan başkası yapabilir mi?",
+          "answer": "Yapamaz.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S5Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu bahar bahçesinden çıkınca elinde neye benzer bir kazanç var?",
+          "answer": "Güzel bir iman bilgisi demeti var.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Sonra hangi canlıların kapısı açılıyor?",
+          "answer": "Hayvanların ve kuşların kapısı açılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu canlıların çok sesli çağrısı neyi gösterir?",
+          "answer": "Çok çeşitli olduklarını ama aynı hakikati bildirdiklerini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Yolcu onları görünce nasıl bir topluluk görmüş gibi oluyor?",
+          "answer": "Hep birlikte Allah’ı öven bir topluluk görmüş gibi oluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Hayvanların organları ve araçları ne gibi kabul ediliyor?",
+          "answer": "Düzenli ve anlamlı sözler gibi kabul ediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu sözler gibi olan yapılar kimin birliğine delildir?",
+          "answer": "Allah’ın birliğine delildir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Birinci hakikatte canlıların hayat sahibi olması neden önemlidir?",
+          "answer": "Çünkü bunun bilgi, irade ve hikmetle olduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Birinci hakikate göre cansız sebepler canlıları yapabilir mi?",
+          "answer": "Yapamaz.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p24:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p24:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci hakikatte görülen düzen, süs ve ölçü neyi ispat eder?",
+          "answer": "Her şeyi bilen ve her şeye gücü yeten Allah’ın eserini ispat eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

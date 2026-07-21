@@ -1,0 +1,653 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:lisans:p63",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "lisans",
+  "partNo": "p63",
+  "partNumber": 63,
+  "title": "İbadet ve tevhid çağrısı: ayet ve meali",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/lisans/SveC_lisans_kucuk-sozler-p63-ibadet-ve-tevhid-cagrisi-ayet-ve-meali.txt",
+  "sourceRevision": "7b5e347f396636458c0da276436499d832a5f3654c33bbf103e319a0962dff01",
+  "setCount": 6,
+  "questionCount": 54,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Verilen ayetlerde insanlardan istenen en temel görev nedir?",
+          "answer": "Kendilerini ve önceki nesilleri yaratan Rabbe kulluk etmeleri istenmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kulluğun hedeflerinden biri hangi manevi sonuca ulaşmaktır?",
+          "answer": "Sorumluluk bilinci ve sakınma şuuru kazanmaktır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p63:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Yeryüzünün insan için ne şekilde hazırlandığı belirtilmektedir?",
+          "answer": "İnsanın yaşamasına elverişli bir zemin ve barınmaya uygun bir ortam olarak hazırlandığı ifade edilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Göğün insan hayatındaki işlevi hangi benzetmeyle anlatılmaktadır?",
+          "answer": "Koruyucu ve kuşatıcı bir örtü gibi tasvir edilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Yağmurun indirilmesi ile yeryüzünden ürünlerin çıkması arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Suyun gelişi, rızıkların ortaya çıkmasına vesile olan bir sebep olarak gösteriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde meyveler ve diğer yiyeceklerin verilmesi, Allah’ın hangi yönünü düşündürür?",
+          "answer": "Yaratma, besleme ve nimet verme sıfatlarını düşündürür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Ayetlerin sonunda yasaklanan inanç yanlışı nedir?",
+          "answer": "Allah’a denk, ortak veya benzer kabul edilmesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu yasağın ardından “biliyorsunuz” anlamı taşıyan vurgu neyi hatırlatır?",
+          "answer": "İnsanların gerçekte tek yaratıcı ve tek ilah bulunduğunu bildiklerini hatırlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p63:lisans:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde yaratma ile ibadet arasında nasıl bir bağ kurulmuştur?",
+          "answer": "İnsanı var eden Rab olduğu için kulluk da O’na yönelmelidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajın ana fikrini kısa şekilde nasıl ifade edersin?",
+          "answer": "İnsanın nimetleri veren tek Rabbe yönelmesi, O’na kulluk etmesi ve O’na hiçbir ortağın yakıştırılmamasıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Hitabın “insanlar”a yöneltilmiş olması mesajın kapsamı hakkında ne gösterir?",
+          "answer": "Çağrının belli bir gruba değil, bütün insanlığa yönelik olduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanların yalnız kendilerinin değil, kendilerinden öncekilerin de yaratılmış olduğunun söylenmesi neyi güçlendirir?",
+          "answer": "Yaratıcının bütün nesiller üzerinde tek ilah ve tek rab olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "İbadetin gerekçeleri arasında hangi yaratılış ve nimet örnekleri sayılmaktadır?",
+          "answer": "Yaratılış, yeryüzünün yaşama uygun hale getirilmesi, göğün korunmuş bir yapı gibi düzenlenmesi, yağmurun indirilmesi ve rızıkların çıkarılması sayılmaktadır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Takvaya ulaşma ifadesi, ibadetin sadece dış davranıştan ibaret olmadığını nasıl gösterir?",
+          "answer": "Kulluğun insanın iç dünyasını da ıslah eden bir manevi eğitim olduğunu gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Yerin hazırlanmış bir döşek gibi sunulması insana hangi kolaylığı hatırlatır?",
+          "answer": "Yaşamın sürmesi için gerekli zeminin rahmetle hazırlanmış olduğunu hatırlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Rızkın yerden çıkması anlatılırken insanın hangi konuda düşünmesi beklenir?",
+          "answer": "Nimeti kendinden bilmeyip onu vereni tanıması beklenir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Allah’a ortak koşmama emri, önceki nimetlerin zikrinden sonra neden anlamlıdır?",
+          "answer": "Çünkü bütün bu nimetleri veren tek Zât’ın başkasıyla eş tutulması büyük bir yanlış olur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p63:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre insanın Allah’a ortak koşması sadece bilgisizlikten mi kaynaklanır?",
+          "answer": "Hayır, metin insanların hakikati belli ölçüde bildikleri halde böyle bir yanlışa düşmemeleri gerektiğini vurgular.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bu pasajda Rab oluş ile ilah oluş arasında nasıl bir ilişki vardır?",
+          "answer": "Yaratan, düzenleyen ve rızık veren Rab aynı zamanda kulluğa layık olan tek ilahtır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Parçadan çıkarılabilecek kısa bir ahlaki sonuç nedir?",
+          "answer": "Nimetin şükrü, nimeti verene ihlasla kulluk etmek ve O’na ortak koşmamaktır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde kulluğa çağrı yapılırken önce hangi hakikat öne çıkarılıyor?",
+          "answer": "İnsanın ve geçmiş kuşakların Allah tarafından yaratılmış olması öne çıkarılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Geçmiş nesillerin de anılması insana hangi ortak kaderi düşündürür?",
+          "answer": "Bütün insanların aynı yaratıcıya bağlı olduğunu ve nesillerin O’nun kudreti altında bulunduğunu düşündürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p63:lisans:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Yağmurun rızka vesile yapılması, sebeplerle Müsebbibü’l-Esbâb arasında nasıl bir bakış kurar?",
+          "answer": "Sebeplerin işlediğini gösterirken asıl verenin Allah olduğunu düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Allah’a benzerler isnat etmeme emri, tevhidin hangi yönünü korur?",
+          "answer": "Allah’ın eşsizliğini ve ibadette tek oluşunu korur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "“Bildiğiniz halde” anlamındaki vurgu, insanın sorumluluğunu nasıl artırır?",
+          "answer": "Gerçeğe dair işaretler açıkken inkâr veya ortak koşmanın mazeretsiz olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu pasaj sadece bilgi vermekle mi yetiniyor, yoksa bir yönlendirme de yapıyor mu?",
+          "answer": "Bilgi vermekle kalmıyor; insanı kulluğa, takvaya ve tevhide yönlendiriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metni bir cümleyle özetlemen istense ne dersin?",
+          "answer": "İnsana verilen varlık ve rızık nimetleri, onu tek olan Rabbe ibadete ve şirkten uzak durmaya sevk etmelidir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Ayetteki çağrının merkezinde “Rab” kavramı neden önemlidir?",
+          "answer": "Çünkü terbiye eden, yaratan ve nimetlerle besleyen Zât’a kulluk edilmesi gerektiğini bildirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanların yaratılmış olması, ibadetin zorunluluğu için nasıl bir delil sayılmaktadır?",
+          "answer": "Varlığını kendinden bulmayan kulun, kendisini var edene yönelmesi gerektiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Arzın insan için hazırlanması, ilahî rahmetin hangi yönüne işaret eder?",
+          "answer": "İnsanın hayatını kolaylaştıran, barınmasına ve yaşamasına uygun bir düzen kuran rahmete işaret eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Semanın yapı gibi anılması ne tür bir düzen fikri verir?",
+          "answer": "Üstten kuşatan, koruyan ve ölçüyle kurulmuş bir düzen fikri verir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Yağmur ile rızık arasında kurulan bağ, insanı hangi düşünce hatasından uzaklaştırır?",
+          "answer": "Nimetleri tabiata veya kendi gücüne vermek gibi yanlış bir bakıştan uzaklaştırır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Allah’a eş koşmamak emri sadece putlara mı karşıdır, yoksa daha geniş bir ilkeyi mi bildirir?",
+          "answer": "Daha geniş bir ilkeyi bildirir; Allah’a uluhiyet ve rububiyette hiçbir şeyi ortak yapmamayı emreder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Takva ile ibadet arasındaki ilişki nasıl anlaşılmalıdır?",
+          "answer": "İbadet, insanı Allah’a karşı daha dikkatli, saygılı ve sakınan bir hale getirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan hareketle kulun nimete karşı en doğru tavrı nedir?",
+          "answer": "Nimetleri Allah’tan bilip O’na ibadet etmek ve hiçbir ortağı O’na nispet etmemektir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajda insanın Allah’a yönelmesi için sunulan ilk delil nedir?",
+          "answer": "İnsanın ve önceki nesillerin Allah tarafından yaratılmış olmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Kulluğun neticesi olarak belirtilen takva, öğrencilik diliyle nasıl açıklanabilir?",
+          "answer": "Kişinin Allah’ın sınırlarına daha dikkatli olması ve hayatını buna göre düzenlemesidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Yerin döşek gibi gösterilmesi hangi nimeti sade biçimde anlatır?",
+          "answer": "İnsan için yaşanabilir bir dünya hazırlanmış olmasını anlatır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Göğün bina gibi zikredilmesi insana ne hissettirmeyi amaçlar?",
+          "answer": "Kâinatta başıboşluk değil, koruyucu ve ölçülü bir düzen bulunduğunu hissettirmeyi amaçlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Suyun gökten indirilmesi ile yiyeceklerin çıkması arasında nasıl bir rızık düzeni anlatılmaktadır?",
+          "answer": "Allah’ın suyu gönderip onunla yiyecekleri var etmesi şeklinde bir nimet zinciri anlatılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Meyvelerin ve diğer gıdaların özellikle anılması, insanı hangi kulluk bilincine çağırır?",
+          "answer": "Günlük hayatındaki nimetleri fark ederek şükreden bir kulluk bilincine çağırır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Allah’a “denkler” yapmamak ifadesi hangi temel inanç esasını korur?",
+          "answer": "Tevhid esasını korur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İnsanların bunu “bildiği” belirtilince, şirk neden daha ağır bir kusur haline gelir?",
+          "answer": "Çünkü apaçık delillere rağmen gerçeğe aykırı davranmak olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Pasajın verdiği mesajı bugünün genci için bir cümleyle ifade et.",
+          "answer": "Hayatın ve rızkın kaynağını doğru tanıyan genç, ibadetini yalnız Allah’a yöneltir ve kalbini şirkten korur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Ayetin girişindeki hitap, insanı hangi göreve çağırmaktadır?",
+          "answer": "Rabbinin kulluğunu yerine getirmeye çağırmaktadır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu çağrıda Allah’ın hangi fiili önce zikredilerek kulluk temellendiriliyor?",
+          "answer": "Yaratma fiili zikredilerek kulluk temellendiriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre kulluğun insan üzerindeki manevi etkisi nedir?",
+          "answer": "Onu takvaya, yani daha şuurlu ve sakınan bir hayata yöneltmesidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Yeryüzünün insan için uygun hale getirilmesi hangi mesajı taşır?",
+          "answer": "İnsanın ihtiyaçlarının ilahî lütufla gözetildiği mesajını taşır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Semanın bir yapı gibi anlatılması evren hakkında nasıl bir anlayış kazandırır?",
+          "answer": "Kâinatın rastgele değil, kurulmuş ve düzenlenmiş olduğunu kazandırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Yağmur ve ürünler örneği, görünür sebeplerin ötesinde neyi fark ettirmeyi amaçlar?",
+          "answer": "Asıl nimet vericinin Allah olduğunu fark ettirmeyi amaçlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Allah’a ortak koşmama emri, önceki cümlelerle birlikte okununca hangi mantıki sonuca dayanır?",
+          "answer": "Yaratan, düzenleyen ve rızık veren tek Zât kim ise ibadete layık olan da yalnız O’dur sonucuna dayanır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p63:lisans:S6Q2",
+            "kucuk-sozler:p63:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "“Siz de biliyorsunuz” anlamındaki ifade, hitabın ikna yönünü nasıl güçlendirir?",
+          "answer": "İnsanların vicdan ve akılla bunu kavrayabilecek durumda olduklarını hatırlatarak sorumluluğu güçlendirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Pasajda hem yaratılış hem de rızık örneklerinin verilmesi, tevhidi hangi iki açıdan destekler?",
+          "answer": "Hem var etme açısından hem de yaşatma açısından tevhidi destekler.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p63:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümden çıkarılacak en kapsamlı sonuç nedir?",
+          "answer": "İnsan, varlığını da geçimini de Allah’tan bildiği için yalnız O’na ibadet etmeli, takvayı hedeflemeli ve O’na hiçbir ortak nispet etmemelidir.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:lisans:p01",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "lisans",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "İhtar: tabiatçı inkârın muhallerini kısaca beyan ve sebeb-i te'lif",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/lisans/SveC_lisans_tabiat-risalesi-p01-ihtar-tabiatci-inkarin-muhallerini-kisaca-beyan-ve-sebeb-i-telif.txt",
+  "sourceRevision": "e9ef34cbddf564f4bf4616e1ce10948ea0db501709ff6bf96d0de8059a1baedc",
+  "setCount": 6,
+  "questionCount": 34,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümün başındaki uyarıda, inkârcı tabiat anlayışının hangi iki temel vasfı özellikle öne çıkarılıyor?",
+          "answer": "Akıldan uzak olduğu ve çirkin bir hurafe mahiyeti taşıdığı vurgulanıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde, bu anlayışın yanlışlığı hangi usulle ortaya konulacağı bildiriliyor?",
+          "answer": "Çok sayıda imkânsızlığı gösteren delillerle, kesin ispat yoluyla açıklanacağı belirtiliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bazı düşünürlerin böylesine açık bir yanlışı nasıl benimsediği sorusuna nasıl cevap veriliyor?",
+          "answer": "Kendi yollarının gerçek sonucunu ve o yolun zorunlu götürdüğü noktayı fark edemedikleri söyleniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Müellif, bu notada niçin bazı ara açıklamaları kısa geçtiğini bildiriyor?",
+          "answer": "Çünkü konu başka yerlerde kısmen işlendiği için burada özlü davranmayı tercih ediyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu parçaya göre müellif, şüphe duyan kimselere karşı ne yapmaya hazır olduğunu söylüyor?",
+          "answer": "O düşüncenin zorunlu sonuçlarını açık delillerle ayrıntılı biçimde göstermeye hazır olduğunu ifade ediyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bölümün genel amacı, tabiatçı inkâr anlayışı hakkında hangi sonucu okuyucuya kabul ettirmektir?",
+          "answer": "Bu anlayışın sağlam bir düşünce sistemi değil, akla ve ispat ölçülerine aykırı bir yol olduğunu göstermektir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre bu yaklaşım neden sadece yanlış değil, aynı zamanda hurafe sayılmaktadır?",
+          "answer": "Çünkü mantıken kabul edilemeyecek pek çok imkânsızlığı içinde barındırmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu bölümde geçen “mesleğin içyüzünü görememek” ne anlama gelir?",
+          "answer": "Benimsedikleri fikrin perde arkasındaki gerçek sonuçları kavrayamamaları demektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Müellif, karşı tarafın görüşünü eleştirirken hangi tür delile dayandığını bildiriyor?",
+          "answer": "Açık, zorlayıcı ve kesin kanıta dayanan delillere dayandığını söylüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre burada kısa anlatım tercih edilmesi, delillerin zayıf olduğu anlamına mı gelir? Gerekçesiyle cevap veriniz.",
+          "answer": "Hayır. Kısa tutulmasının sebebi, bazı açıklamaların başka risalelerde daha önce yer almış olmasıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bu pasajın ana fikrini bir cümleyle ifade ediniz.",
+          "answer": "Tabiata dayalı inkâr anlayışı, dikkatle incelendiğinde aklî ve mantıkî temelden yoksun kalmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Başlangıçta verilen bilgiye göre bu risalenin ayrı bir eser olarak öne çıkarılmasının sebebi nedir?",
+          "answer": "Önemi büyük görüldüğü için müstakil bir bölüm haline getirildiği belirtiliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu risalenin hedef aldığı düşünce, inanç açısından ne tür bir fikir olarak tanıtılıyor?",
+          "answer": "Küfre götüren bir düşünce olarak tanıtılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde bu düşüncenin etkisine karşı nasıl bir sonuç hedeflenmektedir?",
+          "answer": "Onun dayandığı temelin sarsılması ve etkisiz hale getirilmesi hedeflenmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Uyarı kısmına göre burada anlatılan imkânsızlıklar neyi göstermeye yöneliktir?",
+          "answer": "Tabiatçı inkâr yolunun hem mantık dışı hem de kabul edilemez olduğunu göstermeye yöneliktir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Müellifin, bu mezhebin “gerekli sonucu” üzerinde durması neden önemlidir?",
+          "answer": "Çünkü bir düşüncenin doğruluğu, sadece iddiasıyla değil, zorunlu olarak götürdüğü neticelerle de anlaşılır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu parçadan hareketle, eleştirinin yalnız duygusal bir reddiye olmadığı nasıl anlaşılır?",
+          "answer": "Çünkü metin, meseleyi kesin delillerle açıklama ve ayrıntılı ispat etme iddiası taşımaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde ele alınan tabiatçı anlayışın “akıldan uzak” sayılması hangi genel sebebe bağlanıyor?",
+          "answer": "Çok sayıda mantıksız ve imkânsız sonucu kabul etmeyi gerektirmesine bağlanıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Burada sözü edilen “dokuz imkânsızlık” neyin delili olarak sunulmaktadır?",
+          "answer": "İnkârcı tabiat anlayışının tutarsız olduğunun delili olarak sunulmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Müellifin “bazı basamaklar atlandı” demesi, okurdan nasıl bir dikkat beklediğini gösterir?",
+          "answer": "Okurun kısa anlatımı takip edecek ölçüde dikkatli ve düşünerek okumasını beklediğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre meşhur filozofların hatası daha çok bilgisizlikten mi, yoksa kötü niyetten mi kaynaklanıyor gibi sunuluyor?",
+          "answer": "Daha çok benimsedikleri yolun gerçek mahiyetini görememelerinden kaynaklanıyor gibi sunuluyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "“Lâzım” ve “mukteza” üzerinde durulması, bir görüşü değerlendirmede hangi yöntemi gösterir?",
+          "answer": "Görüşü, zorunlu sonuçları üzerinden sınama yöntemini gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bu parçaya göre şüphe içinde olan bir kişiyi ikna etmenin temel yolu nedir?",
+          "answer": "Görüşün kaçınılmaz sonuçlarını açık ve kesin delillerle ortaya koymaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda eleştirilen yolun dış görünüşü ile iç sonucu arasında nasıl bir fark bulunduğu ima ediliyor?",
+          "answer": "Dışarıdan makul görünebilse de, iç sonucu son derece çirkin ve akıl dışı kabul ediliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde, önceki risalelere yapılan gönderme burada nasıl bir işlev görüyor?",
+          "answer": "Bu bölümün niçin özet geçtiğini açıklıyor ve delillerin daha geniş bir arka plana sahip olduğunu gösteriyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Müellifin “hazırım” demesi, anlatım tarzı bakımından neyi gösterir?",
+          "answer": "Kendi iddiasına güven duyduğunu ve tartışmayı delil zemininde yürüttüğünü gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu parçada tabiatçı inkâr anlayışına yöneltilen eleştiri daha çok hangi alandadır: tarihî, ahlâkî, yoksa aklî?",
+          "answer": "Daha çok aklî alandadır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Pasajın bütününe göre okuyucudan beklenen temel tavır nedir?",
+          "answer": "Benimsenen fikirlerin sonuçlarını sorgulamak ve delile göre hüküm vermektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Baştaki tanıtım cümlesinde, bu eserin küfürle ilişkili hangi yönü hedef aldığı söyleniyor?",
+          "answer": "Küfrü besleyen düşünce temelini hedef aldığı söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "“Dirilmeyecek şekilde öldürmek” tarzındaki ifade, metnin maksadını nasıl yansıtır?",
+          "answer": "Sadece geçici bir cevap vermeyi değil, kökten bir çürütmeyi amaçladığını yansıtır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Uyarı bölümünde anlatımın kısa tutulması, okuyucu açısından hangi zorluğu doğurabilir?",
+          "answer": "Bazı ara bağlantıları kendisinin kurmasını gerektirebilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre yanlış yolun meşhur kişilerce benimsenmiş olması, onun doğruluğuna delil sayılır mı?",
+          "answer": "Sayılmaz; çünkü ünleri olsa da görüşlerinin içyüzünü görmemiş olabilirler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Müellifin, karşı görüşün zorunlu neticelerini göstermeye önem vermesi hangi mantık ilkesine uygundur?",
+          "answer": "Bir iddianın, götürdüğü sonuçlarla test edilmesi ilkesine uygundur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p01:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu parçanın sonunda verilen güvence, eserin devamı hakkında nasıl bir beklenti oluşturur?",
+          "answer": "İlerleyen kısımlarda güçlü, açık ve ayrıntılı aklî delillerin sunulacağı beklentisini oluşturur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

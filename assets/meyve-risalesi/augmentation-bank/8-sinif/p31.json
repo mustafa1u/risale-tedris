@@ -1,0 +1,798 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:8-sinif:p31",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "8-sinif",
+  "partNo": "p31",
+  "partNumber": 31,
+  "title": "7. Mes'ele: Evvel-Âhir-Zâhir-Bâtın (ağaç misali)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/8-sinif/SveC_8sinif_meyve-risalesi-p31-7-mesele-evvel-ahir-zahir-batin-agac-misali.txt",
+  "sourceRevision": "b6d568fcd1b719db5730818c920764528995bf4c5947114bb15d49e53710b231",
+  "setCount": 6,
+  "questionCount": 68,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Verilen bölümde hangi dört İlâhî isim üzerinde durulmaktadır?",
+          "answer": "Evvel, Âhir, Zâhir ve Bâtın isimleri üzerinde durulmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu dört ismin her şeyde gösterildiği söylenirken hangi iki büyük hakikatin ders verildiği belirtiliyor?",
+          "answer": "Her şeyi koruyup kaydetme hakikati ile dirilişin kolay ve kesin oluşu anlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Ağaç örneğinde çekirdeğin hangi isme ayna olduğu bildiriliyor?",
+          "answer": "Evvel ismine ayna olduğu bildiriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Çekirdeğin bu isme delil sayılmasının sebebi nedir?",
+          "answer": "Çünkü küçücük olduğu hâlde ağacın düzenini, planını ve oluşum şartlarını içinde taşıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p31:8-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Meyve hangi ismin tecellisine örnek gösteriliyor?",
+          "answer": "Âhir isminin tecellisine örnek gösteriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Meyvenin içindeki çekirdekler neyi hatırlatıyor?",
+          "answer": "Ağacın yaptığı görevlerin özeti ve devamına dair kuralları hatırlatıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Ağacın dış görünüşü hangi isme bağlanıyor?",
+          "answer": "Zâhir ismine bağlanıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Ağacın dış yapısında özellikle hangi özellikler vurgulanıyor?",
+          "answer": "Ölçülü oluşu, sanatlı yapısı, süslü görünüşü ve güzelliği vurgulanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Ağacın iç düzeni hangi isme ayna kabul ediliyor?",
+          "answer": "Bâtın ismine ayna kabul ediliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Ağacın iç yapısı hangi benzetmelerle anlatılıyor?",
+          "answer": "Fabrika, tezgâh ve kimyahane gibi benzetmelerle anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "İç yapının hiçbir dalı, yaprağı ve meyveyi mahrum bırakmaması neyi gösterir?",
+          "answer": "Kudretin kusursuz işlediğini, adaletin bulunduğunu ve rahmetin herkese ulaştığını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın ana fikri nedir?",
+          "answer": "Kâinattaki düzen, kayıt ve denge; Allah’ın isimleriyle hem korumayı hem de yeniden diriltmeyi açıkça göstermektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatımı kuvvetlendirmek için hangi örnek seçilmiştir?",
+          "answer": "Bir ağaç örneği seçilmiştir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "En küçükten en büyüğe kadar bu dört ismin geçerli olduğu söylenince ne anlatılmak isteniyor?",
+          "answer": "Allah’ın isimlerinin sadece büyük varlıklarda değil, en küçük şeylerde de görüldüğü anlatılmak isteniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Çekirdeğin “başlangıç” ile ilişkili görülmesinin nedeni nedir?",
+          "answer": "Çünkü ağacın ortaya çıkışına dair temel bilgiler onda toplanmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Meyvenin “sonuç” tarafını göstermesi nasıl açıklanıyor?",
+          "answer": "Çünkü meyve, ağacın yaptığı işlerin bir özetini ve gelecek nesline ait bilgileri taşır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Ağacın dışındaki süs ve düzen birlikte düşünülünce hangi sonuç çıkar?",
+          "answer": "Her şeyin başıboş değil, hikmetle ve güzellikle yaratıldığı sonucu çıkar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Ağacın görünmeyen iç düzeni neden önemli bir delildir?",
+          "answer": "Çünkü dışarıdan fark edilmeyen ama kusursuz çalışan bir sistemin varlığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İç yapının düzenli işlemesi hangi yanlış düşünceyi çürütür?",
+          "answer": "Tesadüf ve başıboşluk düşüncesini çürütür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bu parçada hafîziyet kavramı ne anlama gelecek şekilde kullanılıyor?",
+          "answer": "Varlıkların bilgilerini, görevlerini ve düzenlerini koruyup saklama anlamında kullanılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Ağaç üzerinden haşrin kolaylığına nasıl işaret ediliyor?",
+          "answer": "Bir ağacın bütün planı ve devamı küçük parçalarda korunuyorsa, yeniden diriltmenin de kolay olduğu anlatılıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada kudret ile hikmetin birlikte anılması neyi gösterir?",
+          "answer": "Allah’ın hem her şeye gücünün yettiğini hem de her işi yerli yerince yaptığını gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Âyette geçen dört isimden hangisi “başlangıç” mânâsını çağrıştırır?",
+          "answer": "Evvel ismi.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Ağaçta Evvel ismine örnek olarak ne gösteriliyor?",
+          "answer": "Çekirdek gösteriliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Küçük bir çekirdeğin büyük bir ağaca işaret etmesi bize ne düşündürür?",
+          "answer": "Az bir şey içinde çok büyük bir plan ve bilgi bulunabildiğini düşündürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Âhir ismine örnek olan meyvede hangi yön öne çıkarılıyor?",
+          "answer": "İçindeki tohumlarla ağacın görevlerinin özünü taşıması öne çıkarılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Zâhir ismi anlatılırken ağacın hangi tarafına dikkat çekiliyor?",
+          "answer": "Gözle görülen bedenine, şekline ve süsüne dikkat çekiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Ağacın dış görünüşündeki ahenk hangi sıfatları hissettiriyor?",
+          "answer": "Kudreti, hikmeti ve rahmeti hissettiriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bâtın ismi için ağacın hangi yönü örnek veriliyor?",
+          "answer": "İçindeki işleyen düzen ve besleme sistemi örnek veriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Ağacın iç sisteminin her yere rızık ulaştırması hangi ilkeyi anlatır?",
+          "answer": "Ölçü, denge ve adalet ilkesini anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Görünen ve görünmeyen tarafların birlikte ele alınması neden önemlidir?",
+          "answer": "Çünkü hem dış güzellik hem iç düzen birlikte olunca yaratılışın tam ve kusursuz olduğu anlaşılır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Bu bölümde ağaç sadece biyolojik bir varlık olarak mı ele alınıyor?",
+          "answer": "Hayır, aynı zamanda İlâhî isimleri gösteren bir delil olarak ele alınıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bölümün sonunda okuyucuya verilmek istenen temel mesaj nedir?",
+          "answer": "Kâinattaki her şey Allah’ın isimlerini gösterir; bu da korumanın ve ahirette diriltmenin kesinliğine işaret eder.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde dört ismin “her şeyde” gösterildiğinin söylenmesi, anlatımın kapsamı hakkında ne bildirir?",
+          "answer": "Anlatımın sadece tek bir varlıkla sınırlı olmadığını, genel bir kanun anlatıldığını bildirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Ağaç örneği neden uygun bir örnektir?",
+          "answer": "Çünkü onda başlangıç, sonuç, dış görünüş ve iç işleyiş bir arada görülebilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Çekirdeğin ağacın programını taşıdığı söylenince hangi düşünce desteklenmiş olur?",
+          "answer": "Yaratılışın planlı ve bilgili bir şekilde gerçekleştiği düşüncesi desteklenmiş olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Meyvenin ağacın amellerinin fihristi gibi gösterilmesi ne anlama gelir?",
+          "answer": "Ağacın hayatı boyunca ortaya koyduğu işlerin özeti ve kaydı onda toplanmıştır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Ağacın dışındaki güzellik sadece estetik bir durum olarak mı sunuluyor?",
+          "answer": "Hayır, aynı zamanda kudret, hikmet ve rahmetin görünen bir işareti olarak sunuluyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Dış görünüşteki süs ile içteki düzen arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Dışta güzellik, içte kusursuz işleyiş vardır; ikisi birlikte tam bir yaratılışı gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Ağacın iç kısmının fabrika gibi anlatılması neyi daha anlaşılır hâle getirir?",
+          "answer": "İçeride çok işin düzenli ve sürekli yapıldığını daha anlaşılır hâle getirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Hiçbir yaprak ve meyvenin gıdasız bırakılmaması hangi sonucu doğurur?",
+          "answer": "Her şeyin ince hesapla yönetildiği sonucu doğurur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre hafîziyet yalnız saklamak mıdır, yoksa başka bir yönü daha var mıdır?",
+          "answer": "Sadece saklamak değildir; düzeni korumak ve devam ettirmek yönü de vardır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölüm haşir inancına doğrudan mı, dolaylı mı delil getiriyor?",
+          "answer": "Doğrudan delil getiriyor; çünkü koruma ve kayıt hakikatinden yeniden diriltmeye geçiyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Kudret, adalet, hikmet ve rahmetin birlikte zikredilmesi neden önemlidir?",
+          "answer": "Çünkü yaratılışta hem güç, hem ölçü, hem amaç, hem de şefkat bulunduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bir öğrenci bu parçayı okuduktan sonra tabiata nasıl bakmalıdır?",
+          "answer": "Tabiatı sıradan bir düzen olarak değil, Allah’ın isimlerini gösteren anlamlı bir kitap gibi görmelidir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Çekirdek ile meyve arasında nasıl bir anlam bağı kuruluyor?",
+          "answer": "Biri başlangıcı, diğeri sonucu ve devamı gösteriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Çekirdeğin küçük olmasına rağmen büyük anlam taşıması neyi ispat eder?",
+          "answer": "Allah’ın büyük işleri küçük şeylerde saklayabildiğini ispat eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Meyvenin içinde yeni çekirdekler bulunması hangi fikri kuvvetlendirir?",
+          "answer": "Sonun aynı zamanda yeni bir başlangıca zemin hazırladığı fikrini kuvvetlendirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Zâhir ismi anlatılırken neden süs, renk ve sanat üzerinde duruluyor?",
+          "answer": "Çünkü görünen dünyadaki güzellikler bu ismin tecellisini açıkça gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bâtın ismi anlatılırken neden görünmeyen mekanizma öne çıkarılıyor?",
+          "answer": "Çünkü gözle görülmeyen ama düzenli çalışan sistemler içteki hikmeti ve kudreti gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Ağacın iç düzeni ile dış güzelliği arasında hangisi daha üstün gösteriliyor?",
+          "answer": "Biri diğerinden üstün gösterilmiyor; ikisi birlikte tam delil sayılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde geçen benzetmelerin amacı nedir?",
+          "answer": "Soyut hakikatleri öğrencinin zihninde daha canlı ve kolay anlaşılır hâle getirmektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Hafîziyetin “en yüksek derecede” gösterildiği söylenince ne anlaşılır?",
+          "answer": "Koruma, kayıt ve düzenleme işinin çok kapsamlı ve kusursuz olduğu anlaşılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümde ağaçtan hareketle hangi genel inanç esasına ulaşılır?",
+          "answer": "Ahirette dirilmenin mümkün ve kesin olduğu inanç esasına ulaşılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada sadece bilgi vermek mi amaçlanıyor, yoksa ikna etmek de mi amaçlanıyor?",
+          "answer": "İkna etmek de amaçlanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "İkna için en güçlü dayanak olarak ne kullanılıyor?",
+          "answer": "Gözle görülen düzen, saklama ve devam kanunları kullanılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Verilen bölümün merkezindeki ana örnek nedir?",
+          "answer": "Bir ağacın farklı yönleriyle incelenmesi örneğidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu örnekte ilk olarak hangi parça ele alınıyor ve hangi isme bağlanıyor?",
+          "answer": "Çekirdek ele alınıyor ve Evvel ismine bağlanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Çekirdeğin ağacın bütün şartlarını toplayan bir yapı gibi sunulması hangi kavramı destekler?",
+          "answer": "Hafîziyet kavramını destekler.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci olarak ele alınan meyve, neden sadece yiyecek olarak düşünülmüyor?",
+          "answer": "Çünkü meyve, ağacın görevlerini ve geleceğe ait bilgisini taşıyan bir emanet gibi gösteriliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Ağacın bedeni hangi bakımdan dikkat çekici bulunuyor?",
+          "answer": "Düzeni, süsü, ince sanatı ve uyumu bakımından dikkat çekici bulunuyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Ağacın bedeninin Zâhir ismine delil olması bize ne öğretir?",
+          "answer": "Görünen varlıklarda Allah’ın kudret, hikmet ve rahmetinin okunabileceğini öğretir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Ağacın iç tarafı neden bir üretim merkezi gibi tasvir ediliyor?",
+          "answer": "Çünkü besleme, büyütme ve dağıtma işleri orada düzenli şekilde yürütülüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İç düzenin ölçülü işlemesi hangi iki yanlış anlayışı reddeder?",
+          "answer": "Karmaşa ve tesadüfü reddeder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre dış görünüş ve iç işleyiş birlikte düşünüldüğünde hangi sonuç kesinleşir?",
+          "answer": "Yaratılışın bilinçli, düzenli ve amaçlı olduğu sonucu kesinleşir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Hafîziyet ile haşir arasında nasıl bir bağ kuruluyor?",
+          "answer": "Bir şeyin planı ve sonucu korunuyorsa, yeniden ortaya çıkarılması da mümkün ve kolaydır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu parçanın dili daha çok bilgi verici mi, yoksa hayranlık uyandırıcı mı?",
+          "answer": "İkisi de vardır; hem öğretici hem hayranlık uyandırıcıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p31:8-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Sekizinci sınıf düzeyinde bu parçadan çıkarılacak en kısa ders nedir?",
+          "answer": "Allah her şeyi düzenle, bilgiyle ve korumayla yaratır; bu yüzden ahiret ve diriliş gerçektir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:5-sinif:p07",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "5-sinif",
+  "partNo": "p07",
+  "partNumber": 7,
+  "title": "3. Mes'ele: Eskişehir hapishanesindeki ibretli müşahede ve sefahetin akıbeti",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/5-sinif/SveC_5sinif_meyve-risalesi-p07-3-mesele-eskisehir-hapishanesindeki-ibretli-musahede-ve-sefahetin-akibeti.txt",
+  "sourceRevision": "42bd253a59018a2f0ef3923a5397bc3bfd9d47c721238d0947fee350ef9213f9",
+  "setCount": 6,
+  "questionCount": 61,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatılan ibretli olay nerede yaşanmıştır?",
+          "answer": "Eskişehir’deki hapishanede yaşanmıştır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bayram günü karşı tarafta hangi öğrenciler görülmüştür?",
+          "answer": "Lise çağındaki kız öğrenciler görülmüştür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu öğrenciler o sırada ne yapıyordu?",
+          "answer": "Bahçede neşeli şekilde oynayıp eğleniyorlardı.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p07:5-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Sonra anlatanın önüne nasıl bir manzara açılmıştır?",
+          "answer": "Yıllar sonraki hallerini manevi bir gösteri gibi görmüştür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İleride görülen kızların büyük kısmının durumu nasıl anlatılmıştır?",
+          "answer": "Çoğunun öldüğü ve kabirde sıkıntı çektiği görülmüştür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Geri kalan bir kısmın yaşlılık hali nasıl tasvir edilmiştir?",
+          "answer": "İhtiyarlayınca güzelliklerini kaybetmiş ve gençliğinde yanlış yaşadıkları için insanların bakışlarından hoşlanmaz hale gelmişlerdir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p07:5-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu manzara anlatanı nasıl etkilemiştir?",
+          "answer": "Çok üzmüş ve ağlatmıştır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Hapishanedeki arkadaşları neden yanına gelmiştir?",
+          "answer": "Ağlama sesini duydukları için gelip sebebini sormuşlardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p07:5-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Anlatan, gördüklerinin hayal olmadığını hangi benzetmeyle destekliyor?",
+          "answer": "Yazın ve sonbaharın ardından kışın gelmesi gibi gençliğin ardından da ihtiyarlık ve ölümün geleceğini söylüyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Eğer insanlara ilerideki kötü sonuçlar açıkça gösterilseydi, şimdiki yanlış eğlencelerine karşı ne hissederlerdi?",
+          "answer": "Onlardan soğur, pişman olur ve üzülürlerdi.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu sırada karşısına çıkan kötü etkili topluluk ne istiyordu?",
+          "answer": "Hayatın her tadını yaşamak ve başkalarına da yaşatmak istiyordu.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Anlatılan olay hangi özel günde gerçekleşmiştir?",
+          "answer": "Cumhuriyet Bayramı gününde gerçekleşmiştir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bakılan yer ile görülen okul arasında nasıl bir ilişki vardır?",
+          "answer": "Hapishane penceresinden karşıdaki okulun bahçesi görülmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu öğrencilerden kaç kadarının kabirde sıkıntı çektiği görülmüştür?",
+          "answer": "Yaklaşık kırk-elli kadarının böyle bir durumda olduğu görülmüştür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Yaklaşık on kişinin yaşlılıkta kötü duruma düşmesinin sebebi ne olarak gösterilmiştir?",
+          "answer": "Gençliklerinde namuslarını ve temiz hallerini korumamalarıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Gençken ilgi bekleyen bu kişiler, yaşlanınca insanların bakışlarına karşı ne hissetmektedir?",
+          "answer": "Rahatsızlık ve tiksinme duymaktadırlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Burada gençlik ile hangi duygu arasında bir uyarı kuruluyor?",
+          "answer": "Aldatıcı zevk ile sonradan gelen pişmanlık arasında bir uyarı kuruluyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Geçmişteki olayları bugüne getiren araç örneği neden verilmiştir?",
+          "answer": "Gelecekte olacak şeylerin de gösterilebileceğini düşündürmek için verilmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre sapkınlık ve taşkın eğlence içinde yaşayanlar, geleceklerini görseler nasıl tepki verirler?",
+          "answer": "Şimdi hoşlarına giden şeylerden utanır ve acı duyarlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Karşıya çıkan “insî şeytan gibi” ifade edilen etki neyi yaymaya çalışmaktadır?",
+          "answer": "Bozuk yaşamı ve günahlı eğlenceyi yaymaya çalışmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu etkili ses, anlatana karşı nasıl bir tavır takınmıştır?",
+          "answer": "Karışmamasını isteyen meydan okuyucu bir tavır takınmıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü meselede özetlenen olayın kaynağı olarak hangi eser anılmıştır?",
+          "answer": "Gençlik Rehberi anılmıştır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Anlatan kişi pencerede otururken dışarıda nasıl bir görüntüyle karşılaşmıştır?",
+          "answer": "Bayram sebebiyle bahçede eğlenen kız öğrencileri görmüştür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu ilk görüntü neşeli olduğu halde, sonra görülen tablo neden acı vericidir?",
+          "answer": "Çünkü gelecekteki halleri ölüm, kabir sıkıntısı ve pişmanlıkla dolu görünmüştür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Burada “manevî sinema” sözüyle ne anlatılmak isteniyor?",
+          "answer": "Geleceğin sonucu sanki gözle görülür gibi açık biçimde gösteriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Öğrencilerin bir kısmı için kabirde azap görülmesi neye işaret eder?",
+          "answer": "Yanlış yaşamanın ağır sonucuna işaret eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İffeti korumamanın dünyadaki sonucu olarak ne gösteriliyor?",
+          "answer": "Yaşlılıkta saygı ve sevgi yerine küçümsenme ve rahatsızlık görülüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "“Gençlik yazı” ve “ihtiyarlık güz” benzetmesi neyi anlatmaktadır?",
+          "answer": "Gençliğin geçici olduğunu ve sonunda yaşlılıkla ölümün geldiğini anlatmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde niçin “şimdiki gülüşlerine sonradan ağlarlardı” anlamı veriliyor?",
+          "answer": "Çünkü haram eğlencelerin sonu mutluluk değil pişmanlıktır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Sefahet ve dalaleti özendiren topluluk kendini nasıl savunuyor?",
+          "answer": "Her çeşit zevki tatmak istediklerini söyleyerek savunuyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Olayın başında anlatan kişi nerede ve ne durumda bulunmaktadır?",
+          "answer": "Hapishane penceresinde oturmuş dışarıyı seyretmektedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Karşıdaki okul bahçesindeki hareketlilik nasıl bir havayı göstermektedir?",
+          "answer": "Sevinçli ve eğlenceli bir bayram havasını göstermektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu dış görünüşün arkasında anlatana gösterilen gerçek nedir?",
+          "answer": "Görünen neşenin ardında acı bir gelecek ihtimali bulunduğudur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Sayılar dikkate alındığında çoğunluğun başına gelen sonuç nedir?",
+          "answer": "Çoğunluk ölümden sonra sıkıntılı bir hale düşmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Daha az sayıdaki diğer grubun ortak özelliği nedir?",
+          "answer": "Onlar da dünyada yanlış yaşamalarının utanç verici sonucunu çekmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Arkadaşları anlatanın ağlamasını duyunca nasıl davranmıştır?",
+          "answer": "Yanına gelip neden ağladığını sormuşlardır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Anlatanın onları göndermesi neyi gösterir?",
+          "answer": "Gördüğü manzaranın derin etkisi altında kaldığını gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Mevsim örneğiyle verilmek istenen düşünce nedir?",
+          "answer": "Her dönemin bir sonu vardır; gençliğin sonu da yaşlılık ve ölümdür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Geleceği gösteren bir araç örneği, insanları hangi yanlışlardan vazgeçirebilirdi?",
+          "answer": "İnançsızlık, taşkınlık ve haram keyiflerden vazgeçirebilirdi.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde karşıya çıkan kötü çağrı, insanları neye yöneltmektedir?",
+          "answer": "Sınırsız keyif arayışına ve yanlış eğlenceye yöneltmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada görülen olay gerçek hayattan bir sahneyle mi, yoksa sadece hayalî bir masalla mı başlıyor?",
+          "answer": "Gerçek hayattan bir sahneyle başlıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Gerçek sahnede kimler dikkat çekmektedir?",
+          "answer": "Bayramda okul bahçesinde eğlenen kız öğrenciler dikkat çekmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Daha sonra bu gerçek sahneye nasıl bir iç görüş eklenmektedir?",
+          "answer": "Yıllar sonrasını gösteren manevi bir görüş eklenmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu iç görüşte ölüm ve kabirle ilgili nasıl bir sonuç görülmektedir?",
+          "answer": "Birçok kişinin ölümden sonra acı çektiği görülmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İffetsiz yaşamanın yaşlılıktaki etkisi nasıl anlatılmaktadır?",
+          "answer": "İnsan, eskisi gibi beğenilmek isterken tam tersine rahatsız edici bir duruma düşmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "“Bu gördüğüm doğrudur” denilmesi neden önemlidir?",
+          "answer": "Verilen uyarının sıradan bir tahmin değil, güçlü bir hakikat dersi olduğunu belirtir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Mevsimlerin değişmesiyle insan ömrü arasında nasıl bir benzerlik kuruluyor?",
+          "answer": "Nasıl sıcak ve güzel günler bitiyorsa, gençlik de bitip yerini sona yaklaştıran döneme bırakır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "İnançsız ve günaha dalmış kişiler geleceği görseler, şu anki eğlencelerine neden dayanamazlardı?",
+          "answer": "Çünkü sonunda acı ve pişmanlık olduğunu anlayınca o eğlenceler onlara çirkin gelirdi.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Karşıdaki kötü ses “bize karışma” derken hangi anlayışı savunuyor?",
+          "answer": "Sınır tanımadan zevk peşinde koşma anlayışını savunuyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Parçaya göre bu anlayışın en büyük kusuru nedir?",
+          "answer": "Sonucu hesaba katmaması ve geçici keyfi kalıcı zararın önüne koymasıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçadaki olayın anlatılma amacı neşe dolu bir günü övmek midir, yoksa ibret vermek midir?",
+          "answer": "İbret vermektir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İlk bakışta görülen manzara neden aldatıcı sayılabilir?",
+          "answer": "Çünkü dışarıda sadece sevinç görünse de ileride acı sonuçlar vardır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Geleceğe dair gösterilen manzarada iki farklı kötü sonuç nelerdir?",
+          "answer": "Bir kısmı ölüm sonrası sıkıntı çekerken, bir kısmı da dünyada yaşlılıkta pişmanlık ve değersizlik yaşamaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu iki sonucun ortak mesajı nedir?",
+          "answer": "Yanlış yaşanan gençliğin hem dünyada hem ahirette zarar vermesidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Anlatanın çevresindekiler onun halini fark edince ne yapmıştır?",
+          "answer": "Ağlama sesinden etkilenip yanına gelmişlerdir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde gençlik hangi mevsime benzetiliyor?",
+          "answer": "Yaza benzetiliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Kabir ve berzah hangi mevsime benzetiliyor?",
+          "answer": "Kışa benzetiliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu benzetme, zamanın hangi özelliğini öğretir?",
+          "answer": "Her güzel dönemin geçici olduğunu ve sonrasının geleceğini öğretir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Geleceği gösteren bir görüntü olsa idi, günahlı eğlence içinde olanlar ne yapardı?",
+          "answer": "Şimdiki yanlış keyiflerinden nefret eder ve üzüntü duyardı.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde “insî şeytan gibi” denilen etki hangi fikri yaymaktadır?",
+          "answer": "İnsanları günaha ve ölçüsüz zevke çağıran fikri yaymaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p07:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün parçayı tek cümlede nasıl özetleyebiliriz?",
+          "answer": "Geçici eğlenceye kapılan insan, sonunu düşünmezse büyük pişmanlık yaşar; bu yüzden gençlik temiz ve ölçülü yaşanmalıdır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

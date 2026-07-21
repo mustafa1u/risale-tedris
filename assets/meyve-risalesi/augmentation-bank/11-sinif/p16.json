@@ -1,0 +1,674 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:11-sinif:p16",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "11-sinif",
+  "partNo": "p16",
+  "partNumber": 16,
+  "title": "6. Mes'ele: Fenlerden temsiller (eczahane–fabrika–iaşe anbarı)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/11-sinif/SveC_11sinif_meyve-risalesi-p16-6-mesele-fenlerden-temsiller-eczahanefabrikaiase-anbari.txt",
+  "sourceRevision": "cafa0294a0744d6d1a6becec0a3c0469b2a6f8527f5e5ea47a39a97bd52619a7",
+  "setCount": 6,
+  "questionCount": 56,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde hangi iman esası üzerinde duruluyor?",
+          "answer": "Allah’a imanı ispat eden deliller üzerinde duruluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Lise talebeleri hangi ihtiyaçla soru soruyorlar?",
+          "answer": "Yaratıcılarını tanımak ve Allah’ı nasıl bileceklerini öğrenmek istiyorlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Verilen cevaba göre fen dersleri neyi yapmaktadır?",
+          "answer": "Her biri kendi alanından Allah’ın varlığını ve sanatını göstermektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p16:11-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İlaçların düzenli hazırlandığı bir yer örneğiyle hangi sonuca ulaştırılıyor?",
+          "answer": "Böylesi hassas bir düzenin bilgili ve maharetli bir sahibinin bulunduğu anlaşılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Yeryüzünün büyük bir eczane gibi anlatılması neyi göstermek içindir?",
+          "answer": "Bitki ve hayvanlardaki hayat düzeninin hikmet sahibi bir Yaratıcıyı tanıttığını göstermek içindir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Fabrika benzetmesinde hangi özellik öne çıkarılıyor?",
+          "answer": "Basit görünen maddelerden çok çeşitli ve düzenli şeylerin ortaya çıkarılması öne çıkarılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu benzetmeye göre makine ilmi insana neyi fark ettirir?",
+          "answer": "Yeryüzündeki büyük düzenin bir ustası ve sahibi olduğunu fark ettirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Erzak deposu ve iaşe anbarı örneği hangi hakikate delil olarak sunuluyor?",
+          "answer": "Canlıların rızıklarının düzenli şekilde verilmesinin merhametli ve idare edici bir Rabbi gösterdiğine delil olarak sunuluyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Mevsimlerin özellikle baharın anılması neyi destekliyor?",
+          "answer": "Çok çeşitli ihtiyaçların tam vaktinde karşılandığını ve bunun bilinçli bir sevk ve idareyle olduğunu destekliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde fenlerin yalnız bilgi veren dersler olmadığı nasıl anlatılıyor?",
+          "answer": "Onların kâinattaki düzeni okuyup insanı Allah’ı tanımaya götüren birer rehber olduğu anlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada talebelere muallimlerden çok neyi dinlemeleri tavsiye ediliyor?",
+          "answer": "Okudukları fenlerin ortaya koyduğu hakikatleri dinlemeleri tavsiye ediliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Fenlerin “kendi diliyle konuşması” sözüyle ne kastediliyor?",
+          "answer": "Her ilmin incelediği düzen ve kanunlar üzerinden Allah’ı göstermesi kastediliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Tıp alanından verilen misalde hangi gözlem temel alınıyor?",
+          "answer": "Yeryüzünde sayısız canlı türünde çok hassas ve faydalı bileşimlerin bulunması temel alınıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu gözlemden hangi inanca varılması isteniyor?",
+          "answer": "Her şeyi bilen ve hikmetle yaratan bir Hâlıkın varlığına varılması isteniyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p16:11-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Makine örneğinde dünya niçin çok başlı bir sisteme benzetiliyor?",
+          "answer": "İçinde sayısız düzenli üretim merkezi ve işleyen yapı bulunduğu için böyle benzetiliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İaşe örneğinde yeryüzünün yolculuk yapan bir araç gibi düşünülmesi hangi yönü öne çıkarır?",
+          "answer": "Hareket hâlindeki dünyada rızık düzeninin bozulmadan sürmesini öne çıkarır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Yüzbinlerce canlının farklı gıdalara ihtiyaç duyması neyi düşündürür?",
+          "answer": "Bütün ihtiyaçları bilen ve hepsine uygun şekilde veren bir idareyi düşündürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metindeki örneklerde ortak mantık yürütme biçimi nedir?",
+          "answer": "Düzenli ve amaçlı işlerden hareketle onları yapan bilinçli bir failin varlığına ulaşmaktır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün ana mesajı nedir?",
+          "answer": "Kâinata dikkatle bakan insanın, fenler aracılığıyla Allah’ı tanıyabileceğidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümün başında anlatılan deliller nasıl nitelendiriliyor?",
+          "answer": "Çok sayıda genel delilden sadece birine kısa bir işaret olarak nitelendiriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Talebelerin “Allah’tan bahsedilmiyor” diye yakınması hangi boşluğu gösterir?",
+          "answer": "Bilgi ile iman arasında bağ kurulmadığında önemli bir eksiklik doğduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Verilen cevapta ilim ile iman arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Doğru okunan ilmin imana kapı açtığı ve insanı Yaratıcıya götürdüğü ilişki kuruluyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p16:11-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Eczane örneğinde hassas ölçülerin vurgulanması neden önemlidir?",
+          "answer": "Tesadüfle açıklanamayacak kadar bilinçli ve ince bir düzen bulunduğunu göstermek içindir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bitki ve hayvan çeşitliliği niçin delil olarak kullanılıyor?",
+          "answer": "Çok farklı canlılarda uygun yapılar kurulmasının tek bir ilim ve kudretin eseri olduğunu göstermek için kullanılıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Fabrika temsili, yeryüzü hakkında hangi anlayışı güçlendirir?",
+          "answer": "Yeryüzünün başıboş değil, planlı çalışan bir sistem olduğu anlayışını güçlendirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Erzak anbarı benzetmesinde Allah’ın hangi yönü daha belirgin şekilde öne çıkar?",
+          "answer": "Rezzak oluşu, yani canlıların rızkını veren yönü daha belirgin öne çıkar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Baharın büyük bir yük taşıyan araca benzetilmesi hangi manayı kuvvetlendirir?",
+          "answer": "Sayısız nimetin topluca ve vakti gelince getirildiği manasını kuvvetlendirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre bir ilmi gerçekten “dinlemek” ne demektir?",
+          "answer": "O ilmin gösterdiği düzen, ölçü ve hikmetten Allah’ı tanımaya çalışmak demektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Burada anlatılan ispat yolu daha çok dış dünyaya bakmaya mı, iç duyguya mı dayanıyor?",
+          "answer": "Daha çok dış dünyadaki düzen ve varlıklara bakmaya dayanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Talebelere verilen ilk cevap, Allah’ı tanımada hangi kaynağın ihmal edilmemesi gerektiğini gösteriyor?",
+          "answer": "Kâinat kitabının ve fenlerin ortaya koyduğu delillerin ihmal edilmemesi gerektiğini gösteriyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Eczane misalinde küçük örnekten büyük sonuca geçiş nasıl kuruluyor?",
+          "answer": "İnsan yapımı sınırlı bir düzenin bile ustasını gösterdiği söylenip, yeryüzündeki çok daha büyük düzenin elbette daha güçlü biçimde Yaratıcıyı göstereceği anlatılıyor.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Fabrika örneği, yeryüzünde rastgelelik yerine neyi öne çıkarıyor?",
+          "answer": "Düzenli işleyişi, planı ve ustalığı öne çıkarıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İaşe örneğinde canlıların farklı ihtiyaçlarının karşılanması hangi sonuca götürüyor?",
+          "answer": "Hepsini bilen, gözeten ve yöneten bir Rabbin varlığı sonucuna götürüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde yeryüzü neden yalnızca bir mekân olarak değil, işleyen bir sistem olarak tasvir ediliyor?",
+          "answer": "Allah’ın fiillerini ve sürekli devam eden idaresini daha açık göstermek için böyle tasvir ediliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu parçada “hikmet” kavramı en çok hangi anlamda hissedilir?",
+          "answer": "Her şeyin yerli yerinde, faydalı ve amaçlı yaratılması anlamında hissedilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki benzetmelerin ortak eğitim yöntemi nedir?",
+          "answer": "Soyut iman hakikatlerini günlük hayattan tanıdık örneklerle anlaşılır hâle getirmektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde öğrencilere doğrudan hangi konuda yardımcı olunuyor?",
+          "answer": "Allah’ı tanıma ve imanî delilleri anlama konusunda yardımcı olunuyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Talebelerin sorusuna verilen cevap, derslerle din arasında nasıl bir bağ kuruyor?",
+          "answer": "Derslerde görülen gerçeklerin dini hakikatleri desteklediğini gösteren bir bağ kuruyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Eczane örneği özellikle canlılardaki hangi yönü düşündürür?",
+          "answer": "Onlardaki ince ayar, ölçü ve faydalı bileşimleri düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu ince ayar neden kendi kendine oluşmuş gibi görülmüyor?",
+          "answer": "Çünkü çok hassas, düzenli ve amaca uygun olduğu için bilinçli bir iradeyi gerektiriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p16:11-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Fabrika örneğiyle dünyadaki üretim ve oluşumlar hakkında hangi yorum yapılıyor?",
+          "answer": "Bunların başıboş değil, sanatkârane ve planlı şekilde yürüdüğü yorumu yapılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İaşe anbarı benzetmesinde yeryüzünün hangi hizmeti öne çıkarılıyor?",
+          "answer": "Sayısız canlıya uygun rızık hazırlayıp ulaştırma hizmeti öne çıkarılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Mevsim düzeninin delil olarak kullanılması neyi anlatır?",
+          "answer": "Rızık ve hayat düzeninin belirli bir planla yenilenip sürdürüldüğünü anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre fen okumak insanı dinden uzaklaştırmak zorunda mıdır, yoksa başka bir sonuç mu doğurmalıdır?",
+          "answer": "Tam tersine, doğru okunursa Allah’ı tanımaya götürmelidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu parçada yer alan örnekler daha çok hangi duyguyu uyandırmayı hedefler?",
+          "answer": "Hayranlık, güven ve Allah’ın sanatını fark etme duygusunu uyandırmayı hedefler.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bütün örnekler birlikte düşünüldüğünde yeryüzü için nasıl bir genel tablo ortaya çıkıyor?",
+          "answer": "Hikmetle işleyen, canlıları besleyen, düzenli çalışan ve sahibini gösteren büyük bir ilahî düzen tablosu ortaya çıkıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Altıncı meselede deliller hangi öğrenci grubuna hitap edilerek anlatılmaya başlanıyor?",
+          "answer": "Lise talebelerine hitap edilerek anlatılmaya başlanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Öğrencilerin öğretmenlerinden bekleyip bulamadıkları şey nedir?",
+          "answer": "Allah’ı tanıtmaya yönelik açıklamalardır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Verilen cevabın temel yönlendirmesi nedir?",
+          "answer": "Fenlerin ortaya koyduğu hakikatleri dikkatle inceleyip oradan Allah’ı tanımaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p16:11-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Eczane benzetmesinde yeryüzü neden daha üstün bir örnek sayılıyor?",
+          "answer": "Çünkü orada çok daha fazla çeşit, çok daha ince düzen ve canlılık içeren yapılar bulunuyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Tıp ilmi bu anlatımda hangi görevi görüyor?",
+          "answer": "Canlılardaki düzeni ölçü alıp Allah’ın hikmetini göstermeye vesile oluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Makine ilmiyle bakıldığında dünya hakkında hangi sonuca varılıyor?",
+          "answer": "Dünyanın son derece düzenli çalışan büyük bir sistem olduğu ve bunu kuran bir sahibinin bulunduğu sonucuna varılıyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İaşe örneğinde “farklı toplulukların farklı rızıkları” vurgusu neden yapılmış olabilir?",
+          "answer": "Her canlının ihtiyacının ayrı ayrı bilindiğini ve buna göre karşılandığını göstermek için yapılmış olabilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu parçada Allah’ın varlığına dair deliller sadece bir yaratma anına mı bağlanıyor, yoksa süreklilik de var mı?",
+          "answer": "Süreklilik de var; yaratma, besleme ve idare etme devam eden fiiller olarak gösteriliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Öğrencinin bu metinden çıkaracağı en önemli çalışma alışkanlığı ne olabilir?",
+          "answer": "Fenleri ezberlemekle yetinmeyip onların gösterdiği manayı tefekkür etmek olabilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p16:11-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın sonunda okuyucu hangi anlayışa ulaşmış olmalıdır?",
+          "answer": "Kâinattaki düzenin ilim, hikmet ve kudret sahibi olan Allah’ı açıkça tanıttığı anlayışına ulaşmış olmalıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

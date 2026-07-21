@@ -1,0 +1,725 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:lisans:p03",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "lisans",
+  "partNo": "p03",
+  "partNumber": 3,
+  "title": "Mukaddime: Dinsizliği işmam eden üç kelime ve dört yol (esbab, kendiliğinden, tabiat, kudret)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/lisans/SveC_lisans_tabiat-risalesi-p03-mukaddime-dinsizligi-ismam-eden-uc-kelime-ve-dort-yol-esbab-kendiliginden-tabiat-kudret.txt",
+  "sourceRevision": "7a27c4c4b631724da86d61277f71d6f5817b3cfd01fd296054bf8274181df399",
+  "setCount": 6,
+  "questionCount": 59,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Mukaddime kısmında özellikle dikkat çekilen problemli sözlerin ortak yönü nedir?",
+          "answer": "Dinsizliği çağrıştırmaları ve bazen iman sahibi kimselerin de farkında olmadan bunları kullanmalarıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu bölümde üzerinde durulan üç yanlış açıklama hangi alanla ilgilidir?",
+          "answer": "Varlıkların nasıl meydana geldiğini açıklama iddiasıyla ilgilidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İlk yanlış ifade neyi savunur?",
+          "answer": "Bir şeyin sebepler tarafından ortaya getirildiğini ileri sürer.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci yanlış ifade hangi iddiayı taşır?",
+          "answer": "Bir varlığın dış bir fail olmadan kendiliğinden oluştuğunu söyler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü yanlış ifade oluşumu neye bağlar?",
+          "answer": "Tabiatın zorunlu kılması ve etkisiyle meydana gelmesine bağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde varlıklar hakkında kabul edilen üç temel özellik nelerdir?",
+          "answer": "Varlıkların gerçekten mevcut olması, sanat ve hikmet taşıması, ayrıca ezelî olmayıp sonradan meydana gelmesidir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Verilen örnekte “bu hayvan” üzerinden hangi temel soru gündeme getiriliyor?",
+          "answer": "Böyle bir varlığın hangi yolla ortaya çıktığının açıklanması isteniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre aklen kaç ihtimal vardır ve bunlar nelerdir?",
+          "answer": "Dört ihtimal vardır: sebeplerin yapması, kendi kendine oluşması, tabiatın meydana getirmesi ve Allah’ın kudretiyle yaratılması.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İlk üç yolun hükmü nasıl belirtilmiştir?",
+          "answer": "İmkânsız, geçersiz ve kabul edilemez yollar olarak gösterilmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "İlk üç yol geçersiz olunca hangi sonuç zorunlu olarak ortaya çıkar?",
+          "answer": "Geriye yalnız Allah’ın birliği esasına dayanan dördüncü yolun doğruluğu kalır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Buradaki akıl yürütme biçimi nasıl özetlenebilir?",
+          "answer": "Yanlış ihtimaller elenince doğru seçeneğin zorunlu biçimde kabul edilmesi şeklindedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin ana fikri nedir?",
+          "answer": "Sanatlı ve sonradan var edilen mahlukların sebeplerle, kendi kendine veya tabiatla açıklanamayacağı; bunların ilahî kudretle yaratıldığıdır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Mukaddime’de niçin üç ifadeye özel olarak yer veriliyor?",
+          "answer": "Çünkü bunlar yaygın biçimde söylenebilen ve fark edilmeden yanlış inanç kapısı açan sözlerdir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde “iman ehli” için yapılan uyarı neyi gösterir?",
+          "answer": "Kişinin inanç bakımından doğru yerde olsa bile dilinde ve düşüncesinde hatalı kalıplar taşıyabileceğini gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kendi kendine oluşma iddiası diğer iki yanlıştan hangi yönüyle ayrılır?",
+          "answer": "Onda dıştan bir etken bile kabul edilmez; varlığın kendisinin kendi oluşumunun kaynağı olduğu öne sürülür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Mevcudatın inkâr edilmemesi neden tartışmanın başlangıç noktası yapılmıştır?",
+          "answer": "Çünkü ortada açıklanması gereken gerçek bir varlık dünyası bulunduğu önce kabul ettirilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Varlıkların sanatlı ve hikmetli oluşu hangi sonuca zemin hazırlar?",
+          "answer": "Gelişigüzel ve şuursuz bir meydana gelişin yetersiz kalacağı sonucuna zemin hazırlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Varlıkların kadîm olmadığı vurgusu neyi reddetmek için kullanılır?",
+          "answer": "Onların ezelden beri var olduğu düşüncesini reddetmek için kullanılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metindeki hitap tarzında “ey mülhid” denmesi ne işe yarar?",
+          "answer": "İtiraz sahibini doğrudan muhatap alarak onu dört seçenekten biriyle yüzleştirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Dördüncü yolun diğerlerinden farkı nedir?",
+          "answer": "O yol, varlığı sonsuz kudret sahibi Allah’ın yaratmasına dayandırır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "“Aklen dört yoldan başka yol yoktur” ifadesi tartışmada nasıl bir işlev görür?",
+          "answer": "İhtimalleri sınırlandırır ve meseleyi dağınıklıktan kurtarıp net bir değerlendirmeye açar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu parçada ispat hangi yöntemle kuruluyor: doğrudan tek görüşü anlatma mı, alternatifleri değerlendirme mi?",
+          "answer": "Alternatifleri tek tek eleme yöntemine dayanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Parçadan çıkarılan inanç sonucu nedir?",
+          "answer": "Gerçek ve düzenli varlıkların nihai açıklaması Allah’ın birliği ve kudretidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Mukaddime’nin ilk cümlesi insanı hangi bakımdan uyarmaktadır?",
+          "answer": "Dilde dolaşan bazı sözlerin fark edilmeden küfre yakın anlamlar taşıyabileceği bakımından uyarmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde geçen üç söz neden “dehşetli” olarak nitelenebilir?",
+          "answer": "Çünkü varlıkların yaratılışını Allah’tan koparıp başka şeylere bağlama tehlikesi taşırlar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Sebeplerin meydana getirdiğini söylemek niçin problemli bir yaklaşım olarak sunuluyor?",
+          "answer": "Çünkü yaratmayı gerçek failden alıp yaratılmış vasıtalara vermiş oluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Mevcudatın sanatlı oluşu, onların gelişinin hangi özelliğini gösterir?",
+          "answer": "Amaçlı, ölçülü ve bilinç gerektiren bir düzen içinde ortaya çıktığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Sonradan meydana gelme gerçeği, varlıklar için neyi gerekli kılar?",
+          "answer": "Onları varlık sahasına çıkaran bir failin bulunmasını gerekli kılar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İlk üç açıklamanın ortak kusuru nedir?",
+          "answer": "Hepsinin yaratılışı şuursuz veya yetersiz görülen şeylere dayandırmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Dördüncü yol niçin “bedahet” derecesinde kabul edilir deniyor?",
+          "answer": "Çünkü diğer ihtimaller çürütülünce geriye zorunlu olarak o kalır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S3Q9"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Metnin akışında önce hangi şey yapılmakta, sonra hangi sonuca geçilmektedir?",
+          "answer": "Önce mümkün görünen açıklamalar sayılmakta, sonra yanlış olanlar elenerek doğru sonuca geçilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S3Q10"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde eleştirilen sözler daha çok hangi hataya yol açmaktadır?",
+          "answer": "Yaratmayı Allah’tan başkasına isnat etme hatasına yol açmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre bu sözleri kullananların tamamı bilinçli inkârcı mıdır?",
+          "answer": "Hayır; bazıları farkında olmadan böyle ifadeler kullanabilmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "“Sebepler yaptı” anlayışı ile “Allah yarattı” anlayışı arasındaki asıl fark nedir?",
+          "answer": "Birinde gerçek tesir yaratılmış şeylere verilir, diğerinde yaratma kudreti Allah’a nispet edilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "“Tabiat yaptı” demekle aslında ne yapılmış olur?",
+          "answer": "Gerçek fail yerine soyut bir kavrama üretici güç yüklenmiş olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metin, varlıkların var olduğunu neden özellikle hatırlatır?",
+          "answer": "Çünkü tartışma hayalî bir mesele değil, fiilen mevcut olan varlıkların açıklanması üzerinedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Sanat ve hikmet vurgusu, canlı veya cansız varlıklarda hangi niteliğe işaret eder?",
+          "answer": "Düzen, ölçü ve gaye taşıyan bir yapıya işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Varlıkların sonradan olması hangi düşünceyi destekler?",
+          "answer": "Onların yaratılmış olduğu düşüncesini destekler.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Dört yol içinde tevhid yolunun yeri nasıl belirlenir?",
+          "answer": "Diğer üç ihtimal geçersiz kalınca tek sağlam açıklama olarak belirlenir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Burada kesinliğe ulaşmak için kullanılan delillendirme tarzı nedir?",
+          "answer": "İhtimalleri sınırlayıp yanlışları iptal ederek doğruyu zorunlu hâle getirme tarzıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Metnin bu kısmında asıl hedef sadece dil düzeltmek midir, yoksa inanç temeli kurmak mıdır?",
+          "answer": "Asıl hedef inanç temelini sağlamlaştırmaktır; dil uyarısı bunun bir parçasıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Üç örneğin seçilmesi, bunların hangi ortak noktaya sahip olduğunu gösterir?",
+          "answer": "Hepsinin oluşu Allah dışında bir şeye bağlaması ortak noktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Sebepleri yaratıcı görmek, sebeplerin gerçek konumunu nasıl aşar?",
+          "answer": "Onları araç olmaktan çıkarıp asıl fail yerine koyar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Tabiata icad gücü vermek neden tevhid açısından sakıncalıdır?",
+          "answer": "Çünkü yaratma fiiline Allah’tan başka bir kaynak ortak edilmiş olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Her mevcudun sanatlı oluşundan hangi aklî sonuç doğar?",
+          "answer": "Onun bilinçsiz tesadüfle değil, bilgi ve hikmetle ilişkili bir şekilde ortaya çıktığı sonucu doğar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Sonradan meydana gelmiş olmak, varlıklar için nasıl bir ihtiyaç doğurur?",
+          "answer": "Başlatıcı ve var edici bir kudrete ihtiyaç doğurur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada niçin “dört yoldan başka yol yoktur” denilerek sınır çiziliyor?",
+          "answer": "Konuyu belirsizlikten kurtarıp seçenekleri açık biçimde değerlendirmek için sınır çiziliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "İlk üç yolun imkânsızlığı ispatlanırsa zihnen hangi mecburiyet ortaya çıkar?",
+          "answer": "Dördüncü yolu, yani ilahî yaratmayı kabul etme mecburiyeti ortaya çıkar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu pasaj sadece naklî bir çağrı mı yapıyor, yoksa aklî muhakeme de kuruyor mu?",
+          "answer": "Aklî muhakeme kuruyor; çünkü seçenekleri mantıkî biçimde tartıştırıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Mukaddime’nin başında verilen uyarı, dil ile inanç arasında nasıl bir bağ kuruyor?",
+          "answer": "Kullanılan bazı sözlerin inancı zedeleyebileceğini, bu yüzden dilin de korunması gerektiğini gösteriyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu bölümde zikredilen üç söz hangi temel soruya cevap verme iddiasındadır?",
+          "answer": "Varlıkların nasıl ortaya çıktığı sorusuna cevap verme iddiasındadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Sebeplerin icad ettiğini ileri sürmekte hangi nispet hatası vardır?",
+          "answer": "Yaratma fiili, yaratılmış ve sınırlı sebeplere verilmiş olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Tabiatın yaptığını söylemek, tabiat kavramına ne yükler?",
+          "answer": "Ona gerçek anlamda üretici ve kurucu bir güç yükler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde varlıkların inkâr edilememesi neyi kesinleştirir?",
+          "answer": "Açıklanması gereken somut bir varlık alanının bulunduğunu kesinleştirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Her varlığın sanatlı ve hikmetli olması hangi düşünceyi zayıflatır?",
+          "answer": "Kör, amaçsız ve şuursuz açıklamaları zayıflatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Varlıkların ezelî olmayıp sonradan olması, onların neye muhtaç olduğunu gösterir?",
+          "answer": "Yaratılmaya ve bir yaratıcıya muhtaç olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Dört yolun sayılması, inanç tartışmasında nasıl bir düzen sağlar?",
+          "answer": "Meseleyi sistemli hâle getirir ve hangi görüşlerin ayakta kalabildiğini göstermeye yarar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "İlk üç yol neden aynı hüküm altında toplanmaktadır?",
+          "answer": "Çünkü hepsi de yaratılışı Allah’tan başka şeye dayandırdığı için geçersiz görülmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p03:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Dördüncü yolun doğruluğu nasıl temellendiriliyor?",
+          "answer": "Diğer bütün ihtimaller çürütülünce onun zorunlu ve açık biçimde doğru olduğu ortaya konuyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p03:lisans:S6Q10"
+          ]
+        }
+      ]
+    }
+  ]
+}

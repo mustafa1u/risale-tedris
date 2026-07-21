@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:5-sinif:p23",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "5-sinif",
+  "partNo": "p23",
+  "partNumber": 23,
+  "title": "7. Söz: Temsilin te’vili; ecel/ölüm; iman tılsımı; sabır-tevekkül ilâcı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/5-sinif/SveC_5sinif_kucuk-sozler-p23-7-soz-temsilin-tevili-ecel-olum-iman-tilsimi-sabir-tevekkul-ilaci.txt",
+  "sourceRevision": "cb3bca337b5e2f46400c38e8648c7c97bb167d6fced0618e8b299ecf5a0e7e83",
+  "setCount": 6,
+  "questionCount": 66,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Hikâyedeki çaresiz asker kimi temsil ediyor?",
+          "answer": "İnsanı, yani her bir kişiyi temsil ediyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Hikâyedeki arslan neyi anlatıyor?",
+          "answer": "Eceli anlatıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Dikili olan darağacı hangi gerçekleri hatırlatıyor?",
+          "answer": "Ölümü, dünyanın geçiciliğini ve ayrılıkları hatırlatıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Askerdeki iki yara insanın hangi iki zayıf tarafına benzetiliyor?",
+          "answer": "Biri insanın güçsüzlüğüne, diğeri ihtiyaç sahibi oluşuna benzetiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Uzun yolculuk neyi simgeliyor?",
+          "answer": "İnsanın yaratılıştan başlayıp ahirete doğru giden uzun imtihan yolunu simgeliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İki tılsım hangi iki büyük imandır?",
+          "answer": "Allah’a iman ve ahirete imandır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu iman sayesinde ölüm, mümin için nasıl bir hâl alır?",
+          "answer": "Korkulacak bir son olmaktan çıkıp güzel bir âleme götüren bir vasıta gibi olur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p23:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bazı olgun kimselerin ölümü sevmesinin sebebi nedir?",
+          "answer": "Ölümün hakikatini görüp onun mümin için hayırlı bir geçiş olduğunu anlamalarıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İman olunca zamanın geçmesi ve ayrılıklar nasıl görülmeye başlanır?",
+          "answer": "Allah’ın yeni yeni güzelliklerini göstermeye yarayan bir değişim gibi görülür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde aynaların ve görüntü perdelerinin değişmesi niçin örnek veriliyor?",
+          "answer": "Değişmenin her zaman kötü olmadığını, bazen daha güzel manzaralara yol açtığını anlatmak için veriliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "İki ilaçtan ilki nedir?",
+          "answer": "Sabır ve tevekküldür.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Tevekkül eden kişi neye dayanmış olur?",
+          "answer": "Allah’ın kudretine ve hikmetine dayanmış olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Asker örneği yalnız bir kişiyi mi, bütün insanları mı içine alır?",
+          "answer": "Bütün insanları içine alır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Darağacının ayrılığı da anlatması ne demektir?",
+          "answer": "Sadece ölüm değil, dünyadaki sevdiklerimizden kopmanın da insanı üzdüğünü gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanın iki yarasından biri olan acz ne demektir?",
+          "answer": "İnsanın her şeye gücünün yetmemesi demektir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Diğer yara olan fakr neyi bildirir?",
+          "answer": "İnsanın çok şeye muhtaç olduğunu bildirir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Allah’a ve ahirete iman niçin tılsım gibi anlatılıyor?",
+          "answer": "Çünkü zor görünen şeylerin anlamını açıyor ve korkuyu hafifletiyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Mümin için ölümün güzel bir bineğe benzetilmesi hangi sonucu çıkarır?",
+          "answer": "Doğru imanla ölümün korkunç değil, rahmete götüren bir geçit olduğu anlaşılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Zamanın geçişi imanla bakılınca neden sadece kayıp sayılmıyor?",
+          "answer": "Çünkü her yeni anda Allah’ın başka nimet ve sanatları görülebiliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "İlk ilacın iki parçası nelerdir?",
+          "answer": "Sabır ve tevekküldür.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki temsilin sonunda askerin aslında kim olduğu açıklanıyor?",
+          "answer": "Askerin insan olduğu açıklanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Arslanla anlatılan şey insanın hayatındaki hangi kaçınılmaz gerçektir?",
+          "answer": "Ecel gerçeğidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Darağacı sadece ölümü değil, başka hangi durumu da düşündürüyor?",
+          "answer": "Yok oluşu ve sevdiklerden ayrılmayı da düşündürüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İki yaranın insanla ilgili olması, insanın hangi yönünü ortaya koyar?",
+          "answer": "Kendi başına tam yeterli olmadığını ortaya koyar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Uzun yolculuğun başlangıç ve sonu hakkında nasıl bir genel fikir veriliyor?",
+          "answer": "Başlangıçtan ahirete kadar süren uzun bir geçiş olduğu fikrini veriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İki tılsımın insan için faydası nedir?",
+          "answer": "Hayatın zor görünen yönlerini anlamlandırıp korkuyu azaltmalarıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İmanlı bir insan için ölüm neden dünya hapsinden çıkış gibi görülüyor?",
+          "answer": "Çünkü onu daha güzel ve rahmet dolu bir yurda götüreceğine inanılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Ölümü sevmiş olan olgun kişiler hakkında ne anlıyoruz?",
+          "answer": "Onlar ölümün dış görünüşüne değil, arkasındaki hayra bakmışlardır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Zamanın geçişi imanla bakıldığında niçin seyredilecek güzelliklere dönüşüyor?",
+          "answer": "Çünkü değişen olaylarda Allah’ın sanat ve rahmet eserleri fark ediliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Güneş ışığı ve değişen görüntüler örneği hangi ana düşünceyi destekliyor?",
+          "answer": "Yenilenmenin daha güzel sonuçlar doğurabileceği düşüncesini destekliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Birinci ilaçta geçen sabır insanın hangi durumda işine yarar?",
+          "answer": "Zorluk ve sıkıntı zamanlarında işine yarar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Tevekkül, insanın kendi gücüne değil neye güvenmesini öğretir?",
+          "answer": "Allah’ın kudret ve hikmetine güvenmesini öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Temsildeki asker ile gerçek hayattaki insan arasında nasıl bir benzerlik kuruluyor?",
+          "answer": "İkisi de korkular, ihtiyaçlar ve zorluklarla karşı karşıya kalıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Arslanın ecel olması, insanın hangi konuda hazırlıklı olması gerektiğini anlatır?",
+          "answer": "Ölüm gerçeğine hazırlıklı olması gerektiğini anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Darağacının zeval ve firakla birlikte anılması dünyayı nasıl tanıtıyor?",
+          "answer": "Dünyanın kalıcı olmadığını tanıtıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İki yaranın biri acz, biri fakr olduğuna göre insan kendisi hakkında ne öğrenmelidir?",
+          "answer": "Gücünün sınırlı ve ihtiyaçlarının çok olduğunu öğrenmelidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Uzun seferin bir imtihan yolu olması neyi gösterir?",
+          "answer": "Hayatın boşuna değil, sorumlulukla yaşanması gereken bir süreç olduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İki tılsımın ikisinin de iman olması neden önemlidir?",
+          "answer": "Çünkü hem Allah’a bağlanmayı hem de ahireti düşünmeyi birlikte sağlar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Ölümün mümin için güzel bir bineğe dönüşmesi hangi bakış açısının sonucudur?",
+          "answer": "İmanlı bakış açısının sonucudur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Olgun insanların ölümü istemesi, dünyadan nefret ettiklerini mi gösterir?",
+          "answer": "Hayır, ölümün ardındaki rahmeti bildiklerini gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Zamanın akışı imanla bakıldığında hangi güzel işe vesile olur?",
+          "answer": "Allah’ın eserlerini zevkle görmeye vesile olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre ilk ilaç yalnız sabır mıdır, yoksa başka bir şey de var mıdır?",
+          "answer": "Sabırla birlikte tevekkül de vardır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Hâlıkın kudretine dayanmak ve hikmetine güvenmek insana hangi duyguyu verir?",
+          "answer": "Güven ve gönül rahatlığı verir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde askerin sen olduğunu bil denilerek hangi ders veriliyor?",
+          "answer": "Anlatılan hâllerin her insanın kendi hayatıyla ilgili olduğu dersi veriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Arslanın ecel olması, ondan kaçmanın kolay olmadığını nasıl düşündürür?",
+          "answer": "Çünkü ecel herkesin karşılaşacağı bir gerçektir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Darağacıyla birlikte gece ve gündüzün dönüşünden söz edilmesi neyi ima eder?",
+          "answer": "Zaman geçtikçe ayrılıkların ve kayıpların yaşandığını ima eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Acz ve fakr birlikte anılınca insanın hangi ihtiyacı daha iyi anlaşılır?",
+          "answer": "Allah’a sığınma ihtiyacı daha iyi anlaşılır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Yolculuğun birçok safhadan geçmesi, hayatın hangi yönünü öne çıkarır?",
+          "answer": "Uzun ve ciddi bir sınav oluşunu öne çıkarır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Allah’a iman ve ahirete iman neden çözüm anahtarı gibi gösteriliyor?",
+          "answer": "Çünkü ölüm, ayrılık ve sıkıntıları doğru anlamayı sağlıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Mümin için ölümün güzel bir yere götürmesi hangi umut duygusunu güçlendirir?",
+          "answer": "Ahiret ümidi duygusunu güçlendirir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Ölümün hakikatini gören kişilerin tavrı bize ne öğretir?",
+          "answer": "Görünüşten korkmadan gerçeğin hayırlı tarafını görmeyi öğretir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Değişen aynalar ve perdeler benzetmesi, dünyadaki değişim hakkında hangi düşünceyi verir?",
+          "answer": "Değişimin yeni güzellikleri gösterebileceği düşüncesini verir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "İlk ilacın sabır olması niçin anlamlıdır?",
+          "answer": "Çünkü insan sıkıntılar karşısında hemen dağılmamalıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Tevekkül ile sabır birleşince insan zorluklara nasıl bakar?",
+          "answer": "Yalnız olmadığını bilip metin durur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "“O asker sensin” sözü okuyucuya nasıl bir sorumluluk yükler?",
+          "answer": "Anlatılan dersi kendi hayatına uygulama sorumluluğu yükler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Arslan ve darağacı birlikte düşünülünce insanın hangi iki korkusu öne çıkıyor?",
+          "answer": "Ölüm korkusu ve ayrılık korkusu öne çıkıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İki yaranın içimizde olması, dış düşmandan çok neye dikkat çeker?",
+          "answer": "İnsanın kendi güçsüzlüğü ve muhtaçlığına dikkat çeker.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Uzun yolculuğun imtihan olarak anlatılması, yaşamayı nasıl değerlendirmemiz gerektiğini söyler?",
+          "answer": "Hayatı dikkatli ve sorumlu yaşamamız gerektiğini söyler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İki tılsımdan biri Allah’a iman ise diğeri nedir?",
+          "answer": "Ahirete imandır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu iki iman, korkutucu görünen hangi şeyleri daha katlanılır yapıyor?",
+          "answer": "Ölümü, ayrılığı ve hayatın zorluklarını daha katlanılır yapıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Mümin için ölümün bineğe benzetilmesi, ölümün son mu yoksa geçiş mi olduğunu düşündürür?",
+          "answer": "Bir geçiş olduğunu düşündürür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Kâmil insanların ölümü sevmesi hangi bilgiye dayanmaktadır?",
+          "answer": "Ölümün hakikatini bilmeye dayanmaktadır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Zamanın geçmesi imanla bakıldığında neden sadece üzücü değildir?",
+          "answer": "Çünkü Allah’ın sanatının yeni görüntülerini ortaya çıkarır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Verilen görsel benzetmeler hangi duyguyu güçlendiriyor?",
+          "answer": "Ümit ve hayranlık duygusunu güçlendiriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Birinci ilaçta geçen tevekkül, insanı kimin hikmetine güvenmeye çağırır?",
+          "answer": "Allah’ın hikmetine güvenmeye çağırır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p23:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçaya göre insanın sıkıntıları karşısında en doğru dayanak nedir?",
+          "answer": "Allah’a iman ederek sabır ve tevekkülle O’na dayanmak en doğru dayanaktır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

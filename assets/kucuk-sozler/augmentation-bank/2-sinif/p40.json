@@ -1,0 +1,624 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:2-sinif:p40",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "2-sinif",
+  "partNo": "p40",
+  "partNumber": 40,
+  "title": "9. Söz / 4. Nükte: Gece ve teheccüd; berzah ve haşir ihtarı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/2-sinif/SveC_2sinif_kucuk-sozler-p40-9-soz-4-nukte-gece-ve-teheccud-berzah-ve-hasir-ihtari.txt",
+  "sourceRevision": "61f45135aa00e8b1e8294efb061bffcf975913c3d6d03ba9d7b79168d25563c5",
+  "setCount": 6,
+  "questionCount": 50,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Gece vakti insana hangi mevsimi hatırlatır?",
+          "answer": "Kışı hatırlatır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Gece, insana ölümden sonraki hangi iki yeri de düşündürür?",
+          "answer": "Kabri ve berzah âlemini düşündürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu hatırlatmalar insana en çok neye muhtaç olduğunu bildirir?",
+          "answer": "Allah’ın rahmetine çok muhtaç olduğunu bildirir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S1Q1",
+            "kucuk-sozler:p40:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Gece içindeki teheccüd namazı hangi karanlık zamanlar için faydalı bir nur gibi anlatılır?",
+          "answer": "Kabir gecesi ve berzah karanlığı için faydalı bir nur gibi anlatılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada, değişmeler ve dönüşümler içinde kimin nimetleri hatırlatılır?",
+          "answer": "Gerçek nimet verici olan Allah’ın nimetleri hatırlatılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu nimetler yüzünden Allah neyi hak eder?",
+          "answer": "Hamdi ve övgüyü hak eder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci sabah hangi büyük olayı hatırlatır?",
+          "answer": "Diriliş sabahını hatırlatır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Kıştan sonra baharın gelmesi, parçada hangi hakikate örnek yapılır?",
+          "answer": "Haşrin gerçek ve kesin oluşuna örnek yapılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Gece vakti, insanın kalbine hangi duyguyu yerleştirir?",
+          "answer": "Allah’ın merhametine ihtiyaç duyduğunu hissettirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Gece yalnız bir zamanı değil, başka neyi de anımsatır?",
+          "answer": "Kışı, kabri ve berzahı da anımsatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Teheccüd namazı neden değerli gösterilir?",
+          "answer": "Zor ve karanlık haller için ışık gibi faydalı olduğu için.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Parçada “ışık” gibi faydalı denilen ibadet hangisidir?",
+          "answer": "Teheccüd namazıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Gece boyunca olan değişimler içinde insan hangi gerçeği unutmamalıdır?",
+          "answer": "Allah’ın sayısız nimetlerini unutmamalıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Nimetleri düşününce kulun dili ve kalbi ne yapmalıdır?",
+          "answer": "Şükretmeli ve Allah’ı övmelidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci sabah neyin habercisi gibi anlatılır?",
+          "answer": "Haşrin habercisi gibi anlatılır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Sabahın gelişi nasıl bir kesinliği gösterir?",
+          "answer": "Dirilişin de kesin olduğunu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Gece denince parçada ilk olarak hangi mevsim akla getiriliyor?",
+          "answer": "Kış akla getiriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Gece vakti insana dünya hayatının dışında hangi hâlleri düşündürüyor?",
+          "answer": "Kabir hayatını ve berzahı düşündürüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İnsan bu düşüncelerle hangi ilahî sıfata sığınma ihtiyacını anlar?",
+          "answer": "Allah’ın rahmetine sığınma ihtiyacını anlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Gece kılınan özel namazın adı nedir?",
+          "answer": "Teheccüddür.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Teheccüd hangi iki karanlık yer için gerekli gösterilir?",
+          "answer": "Kabir gecesi ve berzah karanlığı için.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada nimetlerin sahibi olarak kim gösteriliyor?",
+          "answer": "Allah gösteriliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Allah’ın nimetleri sonsuz olunca kula hangi görev düşer?",
+          "answer": "Çokça hamd etmek ve övmek düşer.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci sabahın hatırlattığı olay dünyadaki bir uyanış mıdır, ahiretteki bir diriliş midir?",
+          "answer": "Ahiretteki bir diriliştir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Gecenin sabahı ve kışın baharı kesin görülüyorsa, bundan hangi sonuç çıkarılır?",
+          "answer": "Haşrin de kesin olduğu sonucu çıkarılır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Gece vakti insana hangi üç şeyi düşündürür?",
+          "answer": "Kışı, kabri ve berzahı düşündürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu üç şeyi düşünmek, insanın kendi gücünün yeterli olmadığını hangi konuda hissettirir?",
+          "answer": "Rahmete ihtiyaç duyma konusunda hissettirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Gece içinde yapılan teheccüd, hangi zor zamanlarda işe yarayan bir yardımcı gibi anlatılır?",
+          "answer": "Kabirde ve berzahta işe yarayan bir yardımcı gibi anlatılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Parçada yaşanan büyük değişiklikler arasında kulun aklına ne gelmelidir?",
+          "answer": "Allah’ın bitmeyen nimetleri gelmelidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Nimetleri bilmek insanda hangi güzel davranışı doğurur?",
+          "answer": "Şükür ve övgü doğurur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci sabah hangi ahiret zamanını çağrıştırır?",
+          "answer": "Haşir sabahını çağrıştırır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın sonuna göre haşir nasıl bir şeydir?",
+          "answer": "Olması kesin bir gerçektir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Gece vakti, insana sadece karanlığı mı anlatır, yoksa başka şeyleri de mi hatırlatır?",
+          "answer": "Başka şeyleri de hatırlatır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu başka şeylerden biri hangi mevsimdir?",
+          "answer": "Kıştır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Gece vakti, insanın ölümden sonraki yolculuğundan hangi durakları düşündürür?",
+          "answer": "Kabri ve berzahı düşündürür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan bunları düşününce en çok neye muhtaç olduğunu anlar?",
+          "answer": "Rahman olan Allah’ın merhametine muhtaç olduğunu anlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S5Q2",
+            "kucuk-sozler:p40:2-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Teheccüd hangi iki yerin karanlığıyla birlikte anılır?",
+          "answer": "Kabir ve berzah karanlığıyla.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada Allah’ın nimetleri için nasıl bir ölçü verilir?",
+          "answer": "Sonu olmayan çoklukta olduğu bildirilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu kadar çok nimet karşısında kul ne yapmalıdır?",
+          "answer": "Allah’a hamd etmeli ve O’nu övmelidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci sabahın işaret ettiği şey yeni bir gün mü, yeniden diriliş mi?",
+          "answer": "Yeniden diriliştir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Gecenin sabahı nasıl gerçekse, haşir için ne söylenir?",
+          "answer": "Onun da aynı şekilde gerçek ve kesin olduğu söylenir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada gece vakti hangi mevsimle benzer tutulur?",
+          "answer": "Kış mevsimiyle.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Gece vakti, dünya hayatından sonra gelen hangi iki hâli haber verir gibi anlatılır?",
+          "answer": "Kabri ve berzah âlemini.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bunları düşünmek insanın kalbinde hangi ihtiyacı uyandırır?",
+          "answer": "Allah’ın rahmetine sığınma ihtiyacını uyandırır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p40:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Gecede kılınan teheccüd namazı hangi bakımdan önemlidir?",
+          "answer": "Ahiret karanlıkları için nur gibi olduğu için önemlidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Teheccüdün faydası sadece dünya gecesi için mi anlatılıyor?",
+          "answer": "Hayır, kabir ve berzah için de anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Büyük değişimler içinde asıl nimet sahibi olarak kim tanıtılır?",
+          "answer": "Allah tanıtılır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Allah’ın nimetlerini düşünmek kulun hangi sözlerini çoğaltmalıdır?",
+          "answer": "Hamd ve övgü sözlerini çoğaltmalıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci sabah denilince hangi sabah akla getirilir?",
+          "answer": "Haşir sabahı akla getirilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p40:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Kışın ardından gelen bahar, haşir konusunda insana ne öğretir?",
+          "answer": "Yeniden dirilmenin akla uygun ve kesin olduğunu öğretir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

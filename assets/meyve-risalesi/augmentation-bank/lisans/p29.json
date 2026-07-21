@@ -1,0 +1,921 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:lisans:p29",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "lisans",
+  "partNo": "p29",
+  "partNumber": 29,
+  "title": "7. Mes'ele: Kur’an delili (çağrı/askerî kışla temsili) ile âhiretin zarureti",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/lisans/SveC_lisans_meyve-risalesi-p29-7-mesele-kuran-delili-cagri-askeri-kisla-temsili-ile-ahiretin-zarureti.txt",
+  "sourceRevision": "496dc15d9b1d37407b68f98f2b599ac367e6514c17ea2551037f97fcb33baec6",
+  "setCount": 6,
+  "questionCount": 79,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde gökler ve yer hangi benzetmeyle anlatılır?",
+          "answer": "İlâhî emre tam itaat eden iki büyük kışla gibi tasvir edilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu benzetmede askerlerin çağrılması neyi düşündürür?",
+          "answer": "Ölülerin ilâhî emirle yeniden diriltilip görev yerine çıkarılmasını düşündürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p29:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Hazret-i İsrafil’in sûru hangi olayla ilişkilendirilir?",
+          "answer": "Genel dirilişin başlaması ve ölülerin kabirlerinden çıkarılmasıyla ilişkilendirilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bahar mevsimi, dirilişe nasıl bir delil olarak sunulur?",
+          "answer": "Toprağın içindeki sayısız varlığın tekrar canlanması, yeniden yaratmanın fiilen mümkün olduğunu gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre rubûbiyet saltanatının büyüklüğü hangi gözlemle de anlaşılır?",
+          "answer": "Tabiatta benzer bir çağrı ve hareket düzeninin sürekli görülmesiyle anlaşılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Âhiretin gerçekleşmemesi, rahmet açısından nasıl bir sonuç doğurur?",
+          "answer": "Şefkat ve merhamet mânâsını zedeleyip onun zıddına döndürmüş olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Âhiretin olmaması hikmet bakımından niçin kabul edilemez görülür?",
+          "answer": "Varlıklardaki amaç, fayda ve düzen boşa çıkmış olur; bu da ilâhî hikmete uymaz.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İnayetin âhiret olmadan düşünülememesinin sebebi nedir?",
+          "answer": "Görünen iltifat ve koruyuculuk, sonu hüsranla biten bir aldanışa dönüşmüş olur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Adaletin haşri gerekli kılması ne demektir?",
+          "answer": "Hakların tam yerini bulması ve zulmün karşılıksız kalmaması için hesap gününün lazım olması demektir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde insanın bazı özel donanımlarla yaratılmasından hangi sonuca varılır?",
+          "answer": "İnsanın ebedî mutluluğa yönelen bir fıtratla yaratıldığı, bu yüzden yokluğa terk edilmeyeceği sonucu çıkarılır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Akıl ve kalbin insana verilmesi, pasajın ana fikri içinde neyi destekler?",
+          "answer": "İnsanın sonsuzluk isteğinin boş olmadığını ve âhiretin hikmet gereği var olduğunu destekler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Müellif, âhiretin olmamasını niçin “imkânsızlık” derecesinde görür?",
+          "answer": "Çünkü bu durumda rahmet, hikmet, inayet, adalet ve saltanatın hepsi anlamını kaybeder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Pasajın sonunda hangi ilâhî isimlerin âhirete delil olduğu belirtilir?",
+          "answer": "Rahman, Hakîm, Adl, Kerim ve Hâkim isimleri delil olarak gösterilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Asker ve kışla örneğiyle hangi inanç konusu somutlaştırılmaktadır?",
+          "answer": "Haşir, yani öldükten sonra yeniden dirilme konusu somutlaştırılmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Askerlerin komutan emriyle toplanması ile insanların dirilmesi arasında nasıl bir benzerlik kuruluyor?",
+          "answer": "İkisinde de üstün bir emre karşı gecikmesiz ve düzenli bir itaat vurgulanıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p29:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Yerin her bahar gösterdiği tablo, hangi büyük hakikatin küçük bir örneği sayılır?",
+          "answer": "Kıyamet sonrası dirilişin dünyadaki küçük bir numunesi sayılır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Göklerin ve yerin “itaatkâr” gösterilmesi neyi anlatır?",
+          "answer": "Kâinatın başıboş değil, emir altında işleyen bir düzen içinde olduğunu anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde geçen rahmet, hikmet, inayet ve adalet birlikte hangi sonuca götürür?",
+          "answer": "Âhiretin ve hesap yurdunun mutlaka açılacağı sonucuna götürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Eğer âhiret olmasa, merhamet neden tersine dönmüş sayılır?",
+          "answer": "Çünkü ebediyet arzusu verilmiş bir varlığın sonunda yokluğa atılması büyük bir mahrumiyet olur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre insanın yeteneklerinin sonuçsuz bırakılması niçin israf sayılır?",
+          "answer": "Çünkü insana çok yönlü kabiliyetler ve anlamlı donanımlar verilmişken bunların boşa çıkması düşünülemez.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Pasajda “saltanat” kavramı âhiretle nasıl ilişkilendiriliyor?",
+          "answer": "Sonsuz hâkimiyetin kemali, hükmünün tam görünmesi için âhireti gerektiriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçaya göre haşrin gelmemesi neden rubûbiyet kemaline aykırıdır?",
+          "answer": "Çünkü böyle olursa ilâhî idarenin maksatlı, güçlü ve tam oluşu gölgelenmiş olur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "“Her zîşuur anlar” ifadesinin işlevi nedir?",
+          "answer": "Meselenin yalnız nakle değil, sağlıklı akıl yürütmeye de dayandığını vurgular.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Metin, âhireti sadece naklî delille mi temellendiriyor?",
+          "answer": "Hayır, gözlenen düzen, insan fıtratı ve ilâhî sıfatlar üzerinden aklî delillerle de temellendiriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Son cümlede ilâhî isimlerin cevap vermesi ne anlama gelir?",
+          "answer": "Âhiret sorusunun, Allah’ın isimlerinin tecellileri düşünülünce açıkça çözüldüğü anlamına gelir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Parçanın ana mesajını bir cümleyle özetleyiniz.",
+          "answer": "Kâinattaki düzen ve insandaki ebediyet arzusu, ilâhî isimlerle birlikte düşünüldüğünde âhiretin kesinliğini gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki ilk benzetme hangi iki unsur üzerinden kurulmuştur?",
+          "answer": "Kışlada bekleyen askerler ile emre hazır hâlde duran kâinat unsurları üzerinden kurulmuştur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Boru sesi örneği neden özellikle seçilmiş olabilir?",
+          "answer": "Tek bir işaretle büyük bir topluluğun aynı anda harekete geçmesini anlatmak için seçilmiş olabilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Arzın baharda gösterdiği canlılık, sûra üfürülme düşüncesini nasıl destekler?",
+          "answer": "Toprak altında duranların bir emirle ortaya çıkması, büyük dirilişin de mümkün olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "“Elbette” tarzındaki güçlü vurguların metindeki işlevi nedir?",
+          "answer": "Anlatılan sonucun tereddüde açık olmadığını kuvvetle bildirmektir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre âhiret açılmazsa hangi ilâhî özellikler anlam kaybına uğrar?",
+          "answer": "Rahmet, hikmet, inayet, adalet ve ebedî saltanat anlam kaybına uğrar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Neden rahmetin çirkin bir merhametsizliğe dönüşeceği söyleniyor?",
+          "answer": "Çünkü sevgiyle yetiştirilen insanın sonsuz arzuları cevapsız bırakılmış olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Hikmetin boşa çıkması ifadesi neyi eleştirir?",
+          "answer": "Varlıktaki düzen, amaç ve faydaların sonuç vermemesini eleştirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İnayetin ihanete dönüşmesi sözüyle ne kastedilir?",
+          "answer": "Görünüşte değer verilen insanın sonunda sahipsiz ve neticesiz bırakılması kastedilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Adaletin zulme dönüşmesi hangi mantığa dayanır?",
+          "answer": "Hak edenle etmeyenin aynı akıbete bırakılması, adaletin gerçekleşmemesi anlamına gelir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "İnsan neden bu pasajda özel bir yere sahiptir?",
+          "answer": "Çünkü ona kalıcı mutluluğu arzulatan manevî ve aklî donanımlar verilmiştir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "İnsandaki ebediyet isteği metinde nasıl değerlendirilir?",
+          "answer": "Gerçek bir karşılığı olan, boşuna verilmemiş bir yöneliş olarak değerlendirilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Pasaj, ölümün insan için nihai son olduğu düşüncesine nasıl cevap verir?",
+          "answer": "İnsanın yapısı ve ilâhî sıfatlar, ölümün son değil daha ileri bir hayatın kapısı olduğunu gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Metne göre âhirete iman sadece duygusal bir teselli midir?",
+          "answer": "Hayır, kâinat düzeni ve ilâhî sıfatlardan çıkan zorunlu bir neticedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada geçen asker örneği hangi yönüyle dirilişi anlaşılır kılar?",
+          "answer": "Dağılmış görünen topluluğun tek emirle yeniden düzenli biçimde toplanabileceğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Gökler ve yerin iki kışlaya benzetilmesi nasıl bir bakış açısı kazandırır?",
+          "answer": "Kâinatı düzensiz bir alan değil, emir ve disiplin altındaki bir düzen olarak görmeyi sağlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Baharın sürekli tekrarlanması, haşir için nasıl bir mantık oluşturur?",
+          "answer": "Daha küçük ölçekte tekrar eden diriliş örnekleri, büyük dirilişin de akla uygun olduğunu gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde rubûbiyet saltanatı neden haşirle bağlantılı düşünülür?",
+          "answer": "Çünkü tam bir ilâhî idarenin sonuçları eksiksiz göstermesi gerekir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Âhiretin açılmaması neden saltanatın haşmetine zarar verir?",
+          "answer": "Çünkü böyle olursa hüküm ve icraatın nihai neticesi ortaya çıkmamış olur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İnsana verilen duyguların âhirete işaret etmesi nasıl açıklanır?",
+          "answer": "Kalıcı mutluluk arzusunun fıtrata yerleştirilmesi, onun boş bir istek olmadığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Akıl ve kalbin varlığı neden ebedî hayatla ilişkilendirilir?",
+          "answer": "Çünkü bu iki özellik, geçici dünya ile yetinmeyen derin anlam ve sonsuzluk arayışı doğurur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "İnsanın kabiliyetlerinin yoklukla sonuçlanması neden hikmetsiz görülür?",
+          "answer": "Çünkü çok yönlü potansiyellerin meyvesiz bırakılması amaçsızlık doğurur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Pasajda vaad ve ahidlerin anılması hangi güven unsurunu öne çıkarır?",
+          "answer": "İlâhî sözün doğruluğu ve gerçekleşeceğine dair kesin güven öne çıkarılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Hâşâ kaydıyla hangi yanlış düşünce reddedilmektedir?",
+          "answer": "Allah hakkında acizlik veya bilgisizlik düşüncesi kesin biçimde reddedilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "“Daire-i imkân haricinde” denilmesi neyi ifade eder?",
+          "answer": "Âhiretin olmamasının sadece zayıf değil, esasen mümkün olmayan bir varsayım olduğunu ifade eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Bu pasajda akıl ile iman arasında nasıl bir ilişki kuruluyor?",
+          "answer": "İman hakikatinin sağlam akıl yürütmeyle uyumlu olduğu gösteriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "Metnin sonuç cümlesi âhiret hakkında nasıl bir kesinlik bildirir?",
+          "answer": "Şüpheye yer bırakmayacak açıklıkta âhiretin varlığını bildirir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada kullanılan askerî örnek, ilâhî emrin hangi özelliğini öne çıkarır?",
+          "answer": "Emrin gecikmeden, topluca ve tam bir düzenle yerine gelmesini öne çıkarır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İsrafil Aleyhisselâm’ın sûru ile bahardaki canlanma arasında ne tür bir bağ kuruluyor?",
+          "answer": "İkisi de gizli veya dağılmış halde bulunanların çağrıyla ortaya çıkmasını temsil ediyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Yeryüzündeki bahar tablosu neden sadece tabiî bir olay olarak görülmüyor?",
+          "answer": "Çünkü metin onu daha büyük bir dirilişin delili ve habercisi olarak okuyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Rahmetin âhireti istemesi ne demektir?",
+          "answer": "Şefkatin gerçek tamamlanmasının, insanın ebedî saadete kavuşmasıyla mümkün olması demektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Hikmetin âhireti gerekli kılması hangi düşünceye dayanır?",
+          "answer": "Yaratılıştaki maksatların ve faydaların tam netice vermesi gerektiği düşüncesine dayanır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İnayetin âhiretle tamamlanması nasıl anlaşılır?",
+          "answer": "Dünya hayatındaki korunma ve lütufların nihai iyilikle sonuçlanması olarak anlaşılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Adalet niçin yalnız dünya ile sınırlı düşünülemez?",
+          "answer": "Çünkü dünyada birçok hak ve haksızlık tam karşılığını bulmadan kalabilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Ebedî hayat isteğinin insana verilmesi neyin delili sayılıyor?",
+          "answer": "İnsan fıtratının daha kalıcı bir âleme yönlendirildiğinin delili sayılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde insanın ölümle tamamen yok edilmesi neden ağır bir haksızlık gibi sunulur?",
+          "answer": "Çünkü değer verilmiş, donatılmış ve sonsuzluğu arzulayan bir varlığın böyle son bulması ilâhî lütufla bağdaşmaz.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Dimağa çok sayıda hikmet yerleştirilmesinden hangi sonuç çıkarılıyor?",
+          "answer": "İnsanın gelişigüzel yaratılmadığı ve hayatının daha büyük bir gayeye bağlı olduğu sonucu çıkarılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Binlerce faydası olan kabiliyetlerin sonuçsuz bırakılması pasajda nasıl nitelendirilir?",
+          "answer": "Tam bir faydasızlık ve amaçsızlık olarak nitelendirilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Parçanın sonunda zikredilen ilâhî isimler neden önemlidir?",
+          "answer": "Çünkü âhiret inancının sadece bir temenni değil, Allah’ın isimlerinin gereği olduğunu gösterirler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Bu pasajdan çıkan en temel iman dersi nedir?",
+          "answer": "Allah’ın rahmeti, hikmeti ve adaleti gereği insan için bir âhiret hayatı mutlaka vardır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metin dirilişi anlatırken neden büyük kozmik unsurları askerî düzene benzetiyor?",
+          "answer": "Kâinatta hükmeden disiplin ve emre bağlılığı göz önüne sermek için böyle yapıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "“Ölüm ile yatanlar” ifadesinin işaret ettiği topluluk kimlerdir?",
+          "answer": "Dünyada ölüp kabir hayatına geçmiş bütün insanlardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "“Cesed libasını giyip dışarı çıkmak” sözü hangi inancı anlatır?",
+          "answer": "Bedenli diriliş inancını anlatır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Baharda görülen canlanma ile haşir arasında nasıl bir oran kuruluyor?",
+          "answer": "Bahar, büyük dirilişin küçük ama açık bir misali olarak gösteriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre âhiretin olmaması en çok hangi ilâhî sıfatları zedeler?",
+          "answer": "Rahmeti, hikmeti, inayeti, adaleti ve ebedî hükümranlığı zedeler.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Rahmetin merhametsizliğe dönüşmesi düşüncesi, insanın hangi yönü üzerinden temellendiriliyor?",
+          "answer": "İnsana verilmiş ebediyet arzusu ve değerli yaratılışı üzerinden temellendiriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Hikmetin abesiyete dönmesi ne anlama gelir?",
+          "answer": "Yaratılıştaki ince amaçların boş ve sonuçsuz kalması anlamına gelir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İnayetin ihanete dönüşmesi ifadesi, dünya nimetlerine nasıl bir anlam yükler?",
+          "answer": "Bu nimetlerin geçici bir oyalama değil, daha büyük bir sonuca hazırlık olması gerektiği anlamını yükler.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Adaletin zulme dönüşmesi hangi eksiklikten doğar?",
+          "answer": "Hesap ve karşılık gününün bulunmaması varsayımından doğar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "İnsan niçin sıradan bir canlı gibi ele alınmıyor?",
+          "answer": "Çünkü ona akıl, kalp ve sonsuzluk isteği verilerek özel bir sorumluluk ve değer yüklenmiştir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Vaad ve ahidlerin yerine getirilmesi niçin önemlidir?",
+          "answer": "Çünkü ilâhî doğruluk, kudret ve kemal bununla görünür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Âhiretin olmamasını “mümteni” saymak ne demektir?",
+          "answer": "Bunun gerçekleşmesi imkânsız, gerçek dışı ve hakikate aykırı demektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Pasaj, okuyucuyu sadece bilgiye mi çağırıyor, yoksa muhakemeye de mi yönlendiriyor?",
+          "answer": "Muhakemeye de yönlendiriyor; sıfatlar ile sonuçlar arasında bağlantı kurduruyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p29:lisans:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Son hüküm olarak, âhiret sorusuna nasıl bir cevap verilmektedir?",
+          "answer": "Allah’ın isimleri ve onların kâinattaki tecellileri, âhiretin kesin bir hakikat olduğunu bildirmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

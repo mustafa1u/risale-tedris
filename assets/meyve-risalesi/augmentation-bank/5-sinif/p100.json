@@ -1,0 +1,792 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:5-sinif:p100",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "5-sinif",
+  "partNo": "p100",
+  "partNumber": 100,
+  "title": "Hâtime / Haşiye: Felak Suresinde dört “مِنْ شَرِّ” ile cifrî işaretler",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/5-sinif/SveC_5sinif_meyve-risalesi-p100-hatime-hasiye-felak-suresinde-dort-ile-cifri-isaretler.txt",
+  "sourceRevision": "84550dd14dc63e0d39f6839adb2a82a3b67a65d65e7c85558b2303eaea04e888",
+  "setCount": 6,
+  "questionCount": 66,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada, surenin dört cümlesinin hangi şeylere işaret ettiği söyleniyor?",
+          "answer": "Bu yüzyıldaki dört büyük kötülüğe, karışıklığa ve sarsıntıya işaret ettiği anlatılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde, aynı surenin bir başka döneme de baktığı belirtiliyor. Bu dönem hangi olaylarla tanıtılıyor?",
+          "answer": "Cengiz ve Hülâgu fitneleriyle ve Abbasi Devleti’nin çöküş zamanı ile tanıtılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Dört kere geçen iki kelimenin birlikte bu eski döneme dikkat çektiği nasıl açıklanıyor?",
+          "answer": "Bu tekrarların sayısal hesapla o devreye işaret ettiği söyleniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Şedde hesaba katılmadan “şerr” kelimesine kaç değer veriliyor?",
+          "answer": "Beş yüz.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "“Min” kelimesinin sayısal değeri kaç olarak veriliyor?",
+          "answer": "Doksan.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Geleceğe bakan bazı ayetlerin sadece bir zamana değil, birden fazla döneme işaret edebildiği hakkında ne deniyor?",
+          "answer": "Hem bu asra hem de önceki bazı asırlara bakabildiği ifade ediliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde hangi iki büyük zatın da hem bu çağa hem o eski zamana haber verdiği belirtiliyor?",
+          "answer": "Hz. Ali ve Gavs-ı A’zam.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "“Gâsik” kelimesi tek başına hangi tarihe işaret ediyor?",
+          "answer": "1161 tarihine.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "“İzâ vekab” ifadesi tek başına hangi tarihe işaret ediyor?",
+          "answer": "810 tarihine.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu iki ifade birlikte düşünülünce hangi miladi tarih ortaya çıkıyor?",
+          "answer": "1971.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p100:5-sinif:S1Q9",
+            "meyve-risalesi:p100:5-sinif:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "1971 için nasıl bir uyarı yapılıyor?",
+          "answer": "Çok ağır bir kötülüğün haberi veriliyor ve bozuk gidiş düzelmezse cezanın sert olacağı söyleniyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada, surenin bazı cümlelerinin yalnız bugünkü zamana değil, geçmişteki hangi büyük musibet dönemine de baktığı söyleniyor?",
+          "answer": "Moğol saldırıları ve Abbasi Devleti’nin yıkılış dönemine de baktığı söyleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu eski döneme işaret etmede hangi kelime grubunun dört kez geçmesi önemli görülüyor?",
+          "answer": "“Min şerri” ifadesinin dört kez geçmesi önemli kabul ediliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu işaretin yapıldığı yöntem olarak hangi iki hesap yolundan söz ediliyor?",
+          "answer": "İşarî mana ve cifir hesabından söz ediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "“Şerr” kelimesinin sayısal değeri hakkında verilen bilgi nedir?",
+          "answer": "Şedde sayılmadan beş yüz ettiği belirtiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "“Min” kelimesi için verilen sayı nedir?",
+          "answer": "Doksan.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre, bazı ayetlerin hem yakın hem uzak zamanlara bakması mümkün müdür?",
+          "answer": "Mümkündür; birden fazla devre işaret edebildiği söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Geçmişe ve bugüne birlikte haber verdiği belirtilen zatlar kimlerdir?",
+          "answer": "İmam-ı Ali ile Gavs-ı A’zam.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Gâsik” için verilen tarih, hangi tür kötülüklerle ilişkilendiriliyor?",
+          "answer": "Maddî ve manevî önemli kötülüklerle ilişkilendiriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "“İzâ vekab” için verilen tarih de neye işaret ediyor?",
+          "answer": "O dönemdeki ciddi zararlara ve sıkıntılara işaret ediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "İki ifade beraber alındığında çıkan 1971 tarihi hakkında nasıl bir beklenti dile getiriliyor?",
+          "answer": "Şiddetli bir kötülüğün görülebileceği bildiriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p100:5-sinif:S2Q9",
+            "meyve-risalesi:p100:5-sinif:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümlede, “tohumların mahsulü” sözüyle hangi düşünce anlatılıyor olabilir?",
+          "answer": "Şimdiki yanlışların ileride ağır sonuçlar doğurabileceği anlatılıyor olabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında, surenin dört cümlesiyle dört büyük şerre bakmasından sonra buna benzer hangi ikinci işaret anlatılıyor?",
+          "answer": "Dört kez geçen bir ifadenin de İslam dünyası için çok korkunç bir eski fitne dönemine işaret ettiği anlatılıyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İslam âlemi için en dehşetli olaylardan biri olarak hangi isimler anılıyor?",
+          "answer": "Cengiz ve Hülâgu.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu isimlerle birlikte hangi devletin yıkılış zamanı zikrediliyor?",
+          "answer": "Abbasi Devleti’nin yıkılış zamanı.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre bu işaret kaç defa yapılıyor?",
+          "answer": "Dört defa.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "“Şerr” ve “min” kelimeleriyle ilgili verilen rakamlar nedir?",
+          "answer": "“Şerr” 500, “min” 90 olarak veriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada, geleceğe dönük bazı ayetlerin birden fazla zamana bakabilmesi neye bağlanıyor?",
+          "answer": "İşarî şekilde farklı dönemlere işaret etmesine bağlanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İmam-ı Ali ve Gavs-ı A’zam’ın haber vermesi, metindeki ana fikri nasıl destekliyor?",
+          "answer": "Aynı hakikatin başka büyük zatlar tarafından da bildirildiğini göstererek destekliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "“Gâsik” kelimesinin gösterdiği tarih nedir?",
+          "answer": "1161.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "“İzâ vekab” ifadesinin gösterdiği tarih nedir?",
+          "answer": "810.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Beraber hesaplandığında ulaşılan 1971 tarihi için nasıl bir dil kullanılıyor?",
+          "answer": "Korkutucu bir şerden haber veren bir dil kullanılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p100:5-sinif:S3Q9",
+            "meyve-risalesi:p100:5-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Son kısımda geçen uyarının özü nedir?",
+          "answer": "Bugünün yanlışları düzeltilmezse ileride çok ağır sonuçlar görülebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada, surenin işaretlerinin yalnız yaşanılan yüzyılla sınırlı olmadığı nasıl anlatılıyor?",
+          "answer": "Geçmişteki büyük felaket dönemlerine de yöneldiği söylenerek anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Geçmişte işaret edildiği söylenen dönem, Müslümanlar açısından neden önemlidir?",
+          "answer": "Çok büyük fitnelerin yaşandığı ve bir İslam devletinin yıkıldığı bir dönem olduğu için önemlidir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Hangi sözün dört kez geçmesi bu işarette temel kabul ediliyor?",
+          "answer": "“Min şerri” sözünün dört kez geçmesi.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Sayı hesabında “şerr” için hangi değer belirtiliyor?",
+          "answer": "500.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Aynı hesapta “min” için hangi değer belirtiliyor?",
+          "answer": "90.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde bazı ayetlerin geleceğe dönük haberler taşıdığı söylenirken kimlerin de buna benzer şekilde haber verdiği ekleniyor?",
+          "answer": "İmam-ı Ali ile Gavs-ı A’zam’ın da böyle haber verdiği ekleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu iki zatın hem bu asra hem eski asra bakması neyi gösterir?",
+          "answer": "Aynı işaretin farklı zamanlara uzanabildiğini gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "“Gâsik” için verilen sayı hangi yıldır?",
+          "answer": "1161.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "“İzâ vekab” için verilen sayı hangi yıldır?",
+          "answer": "810.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "İkisi bir araya getirilince çıkan miladi yıl hangisidir?",
+          "answer": "1971.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p100:5-sinif:S4Q9",
+            "meyve-risalesi:p100:5-sinif:S4Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda, yirmi yıl sonrası için hangi şart altında ağır bir sonuç beklendiği söyleniyor?",
+          "answer": "Şimdiden atılan kötü tohumlar düzeltilmezse ağır sonuç beklendiği söyleniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin ilk cümlesinde “aynı şekilde” denerek hangi benzerlik kuruluyor?",
+          "answer": "Surenin daha önce dört büyük şerre bakması gibi, burada da başka bir döneme tekrarlarla işaret ettiği benzerliği kuruluyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yeni işaret, İslam tarihi içindeki hangi acı döneme yöneltiliyor?",
+          "answer": "Cengiz ve Hülâgu’nun çıkardığı fitnelerle Abbasi Devleti’nin çöküş dönemine.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İşaretin dört defa yapılması hangi sözün tekrarıyla ilgilidir?",
+          "answer": "“Min şerri” sözünün tekrarıyla ilgilidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "“Şerr” kelimesinin şeddesiz değeri nedir?",
+          "answer": "500.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "“Min” kelimesinin değeri nedir?",
+          "answer": "90.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Geleceğe işaret eden ayetlerin birden fazla devri göstermesi, metne göre şaşılacak bir şey midir?",
+          "answer": "Hayır; böyle olabildiği açıkça anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu düşünceye destek olarak hangi iki manevi şahsiyet anılıyor?",
+          "answer": "İmam-ı Ali ve Gavs-ı A’zam.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "“Gâsik” hangi tarihle eşleştiriliyor?",
+          "answer": "1161 ile.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "“İzâ vekab” hangi tarihle eşleştiriliyor?",
+          "answer": "810 ile.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu iki ifade birlikte hesaplanınca hangi yıl ortaya çıkıyor?",
+          "answer": "1971.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p100:5-sinif:S5Q9",
+            "meyve-risalesi:p100:5-sinif:S5Q10"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada, surenin bazı ifadeleriyle hem bugünkü yüzyıla hem de eski zamanlara bakabildiği hakkında hangi genel fikir veriliyor?",
+          "answer": "Kur’an’daki bazı işaretlerin farklı çağlarda ayrı örnekleri gösterebildiği fikri veriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Eski zamanlardan özellikle hangi fitne dönemi örnek gösteriliyor?",
+          "answer": "Cengiz ve Hülâgu zamanındaki büyük karışıklıklar örnek gösteriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu fitne dönemine hangi devletin yıkılışı da ekleniyor?",
+          "answer": "Abbasi Devleti’nin yıkılışı ekleniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Dört kez tekrar edilen ifade neden önemli sayılıyor?",
+          "answer": "Sayı yoluyla o döneme dikkat çektiği için önemli sayılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "“Şerr” için belirtilen ebced değeri nedir?",
+          "answer": "500.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "“Min” için belirtilen ebced değeri nedir?",
+          "answer": "90.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde, geleceğe bakan ayetlerle ilgili olarak iki büyük zatın haber vermesi neyi güçlendirir?",
+          "answer": "Yapılan yorumun desteklendiği düşüncesini güçlendirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Adı geçen bu iki zat kimdir?",
+          "answer": "İmam-ı Ali ve Gavs-ı A’zam.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "“Gâsik” kelimesinin işaret ettiği yıl kaçtır?",
+          "answer": "1161.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "“İzâ vekab” ifadesinin işaret ettiği yıl kaçtır?",
+          "answer": "810.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "İkisi bir arada düşünülünce hangi miladi tarih elde ediliyor?",
+          "answer": "1971.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p100:5-sinif:S6Q9",
+            "meyve-risalesi:p100:5-sinif:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p100:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonundaki “ıslah olmazsa” uyarısı, insanlara ne yapmaları gerektiğini dolaylı olarak öğretir?",
+          "answer": "Hataları erken fark edip düzeltmeleri gerektiğini öğretir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

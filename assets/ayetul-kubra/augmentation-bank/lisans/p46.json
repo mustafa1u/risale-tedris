@@ -1,0 +1,535 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:lisans:p46",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "lisans",
+  "partNo": "p46",
+  "partNumber": 46,
+  "title": "Hz. Muhammed'in (A.S.M.) risaleti / 16. mertebe: 7. delil (âl ve ashabın tasdiki)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/lisans/SveC_lisans_ayetul-kubra-p46-hz-muhammedin-a-s-m-risaleti-16-mertebe-7-delil-al-ve-ashabin-tasdiki.txt",
+  "sourceRevision": "ac74de01d32e6ac233e9b71a1f5fabaee0e560ee7b7dc5edd6b8fb588b56d778",
+  "setCount": 6,
+  "questionCount": 41,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Yedinci delilde, hangi topluluğun ortak kanaati öne çıkarılmaktadır?",
+          "answer": "Ehl-i beyt ve sahabe olarak anılan seçkin topluluğun birleşmiş tasdiki öne çıkarılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu topluluğun insanlar arasında özellikle hangi yönleriyle temayüz ettiği belirtilmektedir?",
+          "answer": "Sezgi, basiret, akıl, olgunluk, dindarlık ve saygınlık bakımından önde oldukları ifade edilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu kimselerin ilgili zat hakkında hüküm verirken nasıl bir yol izledikleri anlatılmaktadır?",
+          "answer": "Onun görünen ve görünmeyen hâllerini, düşüncelerini ve tavırlarını büyük bir dikkat ve ciddiyetle araştırıp incelemişlerdir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İncelemelerinin sonunda hangi neticeye vardıkları bildirilmektedir?",
+          "answer": "Onun doğrulukta, yücelikte ve hak üzere oluşta en ileri seviyede bulunduğunu kabul etmişlerdir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde bu kabulün şahsî bir kanaat değil de güçlü bir delil sayılmasının sebebi nedir?",
+          "answer": "Çünkü bu sonuç tek tek kişilerin dağınık görüşü değil, çok seçkin bir topluluğun ortak ve sarsılmaz onayıdır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu delilin kuvveti hangi benzetmeyle anlatılmaktadır?",
+          "answer": "Gündüzün güneş ışığını göstermesi gibi açık bir işaret olduğu söylenmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Burada yalnızca duygusal bağlılık mı vurgulanmaktadır, yoksa tahkike dayalı bir tasdik mi?",
+          "answer": "Tahkike dayalı bir tasdik vurgulanmaktadır; çünkü önce araştırma ve inceleme, sonra ortak hüküm zikredilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Parçanın ana fikri bir cümleyle nasıl ifade edilebilir?",
+          "answer": "En seçkin ve dikkatli neslin ortak incelemesi, o zatın doğruluğuna çok açık ve sağlam bir delildir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Yedinci bölümde sözü edilen topluluğun ilgili zata yaklaşımında hangi duygu dikkat çekmektedir?",
+          "answer": "Güçlü bir öğrenme isteği ve ciddi bir merak dikkat çekmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu merak yüzeysel bir ilgiden nasıl ayrılmaktadır?",
+          "answer": "Sadece duymakla yetinmeyip her yönünü ayrıntılı biçimde araştırmalarıyla ayrılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde “gizli ve açık hâller” üzerinde durulması neyi göstermektedir?",
+          "answer": "Değerlendirmenin tek taraflı değil, hayatın bütün yönlerini kapsayan kapsamlı bir inceleme olduğunu göstermektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu incelemeyi yapanların “keskin görüşlü” olarak nitelenmesi delilin değerini nasıl etkiler?",
+          "answer": "Yanılma ihtimalini azaltır ve verdikleri hükmün güvenilirliğini artırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Ulaşılan hüküm sadece ahlâkî doğrulukla mı sınırlıdır?",
+          "answer": "Hayır, hem doğruluğu hem üstün konumu hem de hakikate uygunluğu birlikte ifade edilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "“İttifak” ve “icma” vurgusu hangi anlamı güçlendirmektedir?",
+          "answer": "Farklı kişilerin aynı sonuca topluca varmasını ve bu sonucun sağlamlığını güçlendirmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Yedinci delilde adı geçen topluluk neden sıradan bir topluluk olarak sunulmamaktadır?",
+          "answer": "İnsanlık içinde peygamberlerden sonra anlayış, olgunluk ve saygınlık bakımından öne çıkan bir zümre olarak gösterilmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kişilerin ilgili zatın hangi alanlarını araştırdığı ifade edilmektedir?",
+          "answer": "Davranışlarını, düşünce dünyasını, genel hâlini ve duruşunu her yönden incelemişlerdir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Parçaya göre verilen hükmün aceleci olmadığı nasıl anlaşılır?",
+          "answer": "Büyük bir dikkat, ciddi takip ve derin inceleme sonucunda verildiği belirtilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde ulaşılan sonucun hangi özellikleri taşıdığı söylenmektedir?",
+          "answer": "Sağlam, ortaklaşa benimsenmiş ve sarsılması zor bir kabul olduğu söylenmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu delilde “iman” kelimesinin geçmesi neyi ek olarak gösterir?",
+          "answer": "Meselenin sadece zihnî bir kabul değil, kalpten benimsenen kuvvetli bir tasdik olduğunu da gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Gün ışığı benzetmesi burada hangi işlevi görmektedir?",
+          "answer": "Delilin kapalılıktan uzak, kolay fark edilir ve açık seçik olduğunu anlatmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada öne çıkan topluluk iki ana gruptan oluşmaktadır; bunlar hangileridir?",
+          "answer": "Ehl-i beyt ve sahabe grubudur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu grupların ortak özelliği olarak hangi manevi ve zihnî nitelikler öne çıkarılmaktadır?",
+          "answer": "Basiretli, anlayışlı, olgun, dindar ve itibarlı olmaları öne çıkarılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Onların ilgili zâtı değerlendirmesi hangi yöntem bakımından ilmî bir tavra benzemektedir?",
+          "answer": "Gözlem, araştırma, sorgulama ve karşılaştırma içeren titiz bir inceleme yapmaları bakımından ilmî bir tavra benzemektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre araştırmaları sadece dış görünüşe mi dayanmıştır?",
+          "answer": "Hayır, hem dışa yansıyan hâlleri hem de daha derin yönleri değerlendirilmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Vardıkları ortak sonuç hangi dört ana vasfı kapsamaktadır?",
+          "answer": "En doğru, en yüce, en haklı ve hakikate en uygun olma vasıflarını kapsamaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Buradaki ortak kabul neden “sarsılmaz” olarak nitelenmiş olabilir?",
+          "answer": "Çünkü ciddi araştırmadan sonra çok sayıda seçkin kişinin birleşmesiyle oluşmuştur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada delilin açıklığını anlatmak için seçilen örnek niçin etkileyicidir?",
+          "answer": "Çünkü gündüzün ışığı herkesçe fark edilen açık bir gerçekliktir; böylece delilin belirsiz olmadığı anlatılmış olur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Yedinci delilde ilgili zâtın hangi yönü ispatlanmak istenmektedir?",
+          "answer": "Onun doğruluğu, yüceliği ve hak üzere oluşu ispatlanmak istenmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde bu kimselerin inceleme biçimi hakkında hangi üç özellik özellikle hissedilmektedir?",
+          "answer": "Yoğun ilgi, yüksek dikkat ve tam ciddiyet özellikle hissedilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Onların araştırmasının kapsamı ne kadar geniş tutulmuştur?",
+          "answer": "Kişinin hayatındaki açık ve gizli bütün yönleri içine alacak kadar geniş tutulmuştur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu kadar geniş bir incelemeden sonra aynı hükme varmaları neyi düşündürür?",
+          "answer": "Ulaşılan sonucun rastgele değil, güçlü verilere dayanan bir kanaat olduğunu düşündürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "“Kuvvetli iman” ifadesi, sadece bilgi sahibi olmayı aşan hangi boyutu gösterir?",
+          "answer": "Bilginin içten benimsenip kararlılıkla bağlanılan bir inanca dönüştüğünü gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bir cümleyle bu delilin mantığı nasıl kurulmaktadır?",
+          "answer": "En seçkin ve en yakından gözlemleyen topluluğun ayrıntılı inceleme sonunda birleşmesi, o zatın doğruluğunu açıkça göstermektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Yedinci kısımda tanıklığına başvurulan insanlar niçin güvenilir kabul edilmektedir?",
+          "answer": "Çünkü hem yüksek ahlâk ve dindarlıklarıyla hem de anlayış ve basiretleriyle öne çıkan kimselerdir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kişilerin ilgili zât hakkında hüküm verirken pasif bir konumda kalmadıkları nasıl anlatılmaktadır?",
+          "answer": "Onun hâllerini, fikirlerini ve tavırlarını bizzat arayıp soruşturdukları belirtilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metin, onların değerlendirmesinin gelişigüzel olmadığını hangi ifadelerle hissettirmektedir?",
+          "answer": "Dikkatli, ciddi ve ayrıntılı bir inceleme yapıldığını belirterek bunu hissettirmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Vardıkları hükümde sadece “doğru” oluş mu vardır, yoksa başka boyutlar da eklenir mi?",
+          "answer": "Başka boyutlar da eklenir; üstünlük, haklılık ve hakikate uygunluk da beraber zikredilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu hükmün ortaklaşa verilmesi niçin tek bir kişinin şahitliğinden daha kuvvetlidir?",
+          "answer": "Çünkü farklı nitelikli birçok güvenilir kişinin aynı sonuca varması hata ihtimalini daha da azaltır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metindeki benzetmeden hareketle, bu delilin anlaşılması zor mudur yoksa açık mıdır?",
+          "answer": "Açık ve seçiktir; fark edilmesi zor bir işaret gibi sunulmamaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Parçadan çıkarımla, ilgili zâtı en yakından tanıyanların tavrı ne yöndedir?",
+          "answer": "Onu tereddütle değil, sağlam bir kabul ve güçlü bir inançla tasdik etme yönündedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p46:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p46:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu bölümün bütününe bakıldığında hangi sonuç ortaya çıkar?",
+          "answer": "En güvenilir ilk çevrenin kapsamlı araştırması ve ortak tasdiki, o zatın doğruluğuna parlak bir delil sayılmaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

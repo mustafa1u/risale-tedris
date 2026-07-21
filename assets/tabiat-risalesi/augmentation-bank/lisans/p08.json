@@ -1,0 +1,731 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:lisans:p08",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "lisans",
+  "partNo": "p08",
+  "partNumber": 8,
+  "title": "2. mesele / 1. muhal: zerrelere şuur ve ilim vermek lâzım gelmesi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/lisans/SveC_lisans_tabiat-risalesi-p08-2-mesele-1-muhal-zerrelere-suur-ve-ilim-vermek-lazim-gelmesi.txt",
+  "sourceRevision": "b3c4099f01812aa84855b446997599ab672815bf9cb373f049cf28d6016fee45",
+  "setCount": 6,
+  "questionCount": 59,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde eleştirilen temel iddia nedir?",
+          "answer": "Canlı veya insan yapısının, aşkın bir kudrete dayanmadan kendi kendine meydana geldiği iddiasıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iddianın yanlışlığı kaç örnekle gösterileceği bildiriliyor?",
+          "answer": "Üç ayrı imkânsızlık örneğiyle açıklanacağı söyleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İnsanın yapısı neden sıradan ve değişmeyen bir madde gibi görülmüyor?",
+          "answer": "Çünkü insan bedeni sürekli yenilenen, hareket hâlinde olan ve düzenli işleyen karmaşık bir yapıya sahiptir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bedendeki parçacıkların sürekli faaliyeti, insanın hangi geniş bağlarını düşündürüyor?",
+          "answer": "İnsanın hem evrenle hem de özellikle beslenme ve neslin sürmesi bakımından geniş ilişkiler içinde olduğunu düşündürüyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Parçacıkların bu ilişkileri bozmadan hareket ettiği söylenirken hangi anlam öne çıkarılıyor?",
+          "answer": "Gelişigüzel değil, ölçülü ve yerli yerinde bir işleyiş bulunduğu vurgulanıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Dış ve iç duyuların bu düzenle ilişkisi nasıl kuruluyor?",
+          "answer": "İnsan, sahip olduğu duyular sayesinde bedendeki bu hassas düzenin sonuçlarından fayda görüyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde kabul edilmesi istenen doğru yaklaşım, bedendeki zerreleri nasıl değerlendirmektedir?",
+          "answer": "Onları ilahî kanunla çalışan görevli unsurlar, kader ve kudretin emrine bağlı vasıtalar olarak görmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu yaklaşım reddedilirse, tek bir parçacığa hangi aşırı özelliklerin verilmesi gerekir?",
+          "answer": "Bedenin tamamını, insanın evrenle bağlarını, geçmişini, geleceğini, soyunu ve rızık kaynaklarını bilecek kadar kapsamlı bir görme ve bilme gücü verilmesi gerekir.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bir zerreye böylesine geniş bilgi ve şuur yüklemek neden akıl dışı sayılıyor?",
+          "answer": "Çünkü küçücük ve şuursuz bir unsura, insandan çok daha üstün bir idrak nisbet etmek gerçeklikle bağdaşmaz.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin ana sonucu nedir?",
+          "answer": "İnsanın kendi kendine oluştuğunu söylemek yerine, bedendeki düzenin ilahî kudret ve ilimle açıklanması gerekir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "“Kendi kendine oluşma” düşüncesine karşı ilk itirazın özü nedir?",
+          "answer": "İnsan bedenindeki düzenin, şuursuz maddelerin bağımsız hareketiyle açıklanamayacağıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın varlığı metinde hangi iki benzetmeyle anlatılıyor?",
+          "answer": "Sürekli işleyen düzenli bir makineye ve daima değişip yenilenen görkemli bir yapıya benzetiliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bedendeki zerrelerin hareketi yalnız bedenle sınırlı mı gösteriliyor?",
+          "answer": "Hayır, bu hareketlerin insanın daha geniş hayat bağlarıyla uyum içinde olduğu belirtiliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Özellikle hangi iki ilişki alanı anılıyor?",
+          "answer": "Geçim için alınan nimetler ve insan neslinin devamı.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Zerrelerin “dikkatli davranması” ifadesi hangi sonuca götürür?",
+          "answer": "Bedende kör tesadüf değil, bilinçli bir düzen izlenimi bulunduğu sonucuna götürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre insan bu hassas düzenin meyvesini nasıl alır?",
+          "answer": "Görünür ve içe dönük his ve algılarıyla bundan yararlanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Zerreleri ilahî emir altında memur kabul etmenin düşünsel faydası nedir?",
+          "answer": "Bedendeki düzeni makul bir çerçevede açıklamayı sağlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Tersi durumda her bir zerre için ne tür olağanüstü bir idrak tasavvur edilmek zorunda kalınır?",
+          "answer": "Hem insanın iç yapısını hem de dış dünyayla bütün bağlantılarını kuşatan bir bilgi ve görüş gücü varsayılmak zorunda kalınır.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Metin, böyle bir varsayımı hangi açıdan eleştiriyor?",
+          "answer": "Bunu akla, ölçüye ve sağduyuya aykırı bir kuruntu olarak görüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Buradan çıkan inanç ve düşünce bakımından temel ders nedir?",
+          "answer": "Canlılardaki düzeni bağımsız maddelere vermek yerine, bunu ilahî ilim ve kudrete dayandırmak gerekir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada tartışılan mesele hangi kısa ifadeyle özetleniyor?",
+          "answer": "Şeylerin kendi başına şekil kazanıp oluştuğu iddiasıyla özetleniyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iddianın çok yönlü biçimde reddedilmesi neyi gösterir?",
+          "answer": "Meselenin yalnız tek bir noktadan değil, birçok aklî yönden tutarsız görüldüğünü gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İnsan niçin basit ve donuk bir varlık olarak tanımlanmıyor?",
+          "answer": "Çünkü insan yapısı canlı, yenilenen, hareketli ve düzenli bir bütünlük taşır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre beden içindeki zerrelerin çalışması neyin delili gibi sunuluyor?",
+          "answer": "İnce bir denge, sürekli işleyen bir düzen ve kapsamlı bir bağlantılar ağı bulunduğunun delili gibi sunuluyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanın evrenle ilişkisi hangi örnek alanlar üzerinden belirtiliyor?",
+          "answer": "Beslenme düzeni ve soyun devamı üzerinden belirtiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Zerrelerin bu kadar uyumlu davranması, kendi başlarına hareket ettikleri kabul edilirse nasıl bir problem doğar?",
+          "answer": "Her birine çok geniş bir bilgi, hesap ve yönlendirme gücü verilmesi gerekir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde geçen “bütün bedeni görmek” düşüncesi neyi anlatmak için kullanılmıştır?",
+          "answer": "Bir parçacığa, normalde sahip olamayacağı derecede kapsamlı bir denetim ve farkındalık yüklemenin saçmalığını anlatmak için kullanılmıştır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Parçacığın yalnız bedeni değil, insanın geçmiş ve gelecekle ilgili yönlerini de bilmesi gerektiğinin söylenmesi neyi hedefler?",
+          "answer": "Kendi kendine oluşma düşüncesinin ne kadar ağır ve mantıksız sonuçlar doğurduğunu göstermek.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metnin üslubunda sert eleştiri kullanılmasının sebebi nedir?",
+          "answer": "Akla aykırı görülen bir görüşün çelişkisini sarsıcı biçimde ortaya koymaktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın savunduğu ana açıklama modeli nedir?",
+          "answer": "Bedendeki unsurların ilahî takdir ve kudret çizgisinde görev yapan vasıtalar olduğu modelidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda insan bedeninin sürekli değişen bir yapıda gösterilmesi hangi düşünceyi çürütmeye yöneliktir?",
+          "answer": "Oluşumun basit, kendiliğinden ve şuursuz süreçlerle açıklanabileceği düşüncesini çürütmeye yöneliktir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Düzenli bir makine benzetmesi, insan bedeni hakkında hangi özelliği öne çıkarır?",
+          "answer": "Parçaların uyum içinde çalıştığını ve belli bir amaç doğrultusunda işlediğini öne çıkarır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Saray benzetmesi, ilk benzetmeden farklı olarak hangi yönü hissettirir?",
+          "answer": "Yapının ihtişamını, çok katmanlı oluşunu ve hayranlık uyandıran tarafını hissettirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bedendeki zerrelerin kâinatla bağlantılı sayılması, insanı nasıl bir varlık olarak konumlandırır?",
+          "answer": "Kendi içine kapalı değil, daha büyük yaratılış düzeniyle ilişkili bir varlık olarak konumlandırır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Rızıkla ilgili bağın anılması neyi düşündürür?",
+          "answer": "İnsanın yaşaması için dış dünyadan düzenli ve ölçülü bir destek aldığını düşündürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Neslin devamına yapılan vurgu niçin önemlidir?",
+          "answer": "İnsanın yapısının yalnız bugünkü bedeniyle değil, türün sürmesiyle de ilişkili olduğunu gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Zerreler ilahî kanunun memurları kabul edilirse hangi yorum kolaylaşır?",
+          "answer": "Bedendeki kusursuz uyumun bilinçsiz maddelerden değil, üstün bir düzenleyiciden kaynaklandığı yorumu kolaylaşır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Aksi görüşte her bir zerre için adeta bir “üst akıl” gerekeceği neden söyleniyor?",
+          "answer": "Çünkü o parçacığın hem beden içindeki yeri hem de beden dışındaki sayısız ilişkiyi bilmeden doğru iş yapması açıklanamaz.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metin, küçük bir parçacığa olağanüstü ilim nisbet etmeyi hangi bakımdan ele alıyor?",
+          "answer": "Bunu düşünce bakımından aşırı, ölçüsüz ve gerçek dışı buluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bütün pasaj bir cümleyle özetlenirse ne denebilir?",
+          "answer": "İnsandaki canlı ve hassas düzen, kendi kendine oluşumla değil, ilahî idareyle açıklanabilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin bu kısmında hangi görüşün bâtıl olduğu savunuluyor?",
+          "answer": "Canlı yapısının kendi başına oluştuğu görüşünün geçersiz olduğu savunuluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın “mevcut” olması neden tartışmada önemli bir başlangıç noktasıdır?",
+          "answer": "Çünkü ortada gerçek, karmaşık ve işleyen bir varlık bulunduğu kabul edilerek açıklama ondan hareketle yapılıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İnsanın değişmeyen değil de yenilenmekte olan bir yapı sayılması neye işaret eder?",
+          "answer": "Bedenin durağan değil, devamlı işleyen ve tazelenen süreçlere sahip olduğuna işaret eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Zerrelerin çalışması ile düzen arasındaki bağ nasıl kuruluyor?",
+          "answer": "Her parçacığın, bedenin genel dengesini bozmayacak şekilde yerli yerinde hareket ettiği söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Kâinatla alışveriş ifadesi hangi anlamı taşır?",
+          "answer": "İnsan bedeninin dış dünyadan kopuk olmayıp onunla sürekli etkileşim içinde olduğunu anlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İnsan bu etkileşimden hangi vasıtalarla fayda görür?",
+          "answer": "İç ve dış duyuları vasıtasıyla fayda görür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Doğru kabul edilen açıklamada zerreler neyin unsurları gibidir?",
+          "answer": "İlahî emre bağlı görevliler veya kudret ve kaderin uygulama noktaları gibidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Kendi kendine oluşma kabul edilirse, bir parçacığın bilmesi gereken şeylerin kapsamı ne kadar genişler?",
+          "answer": "Sadece bulunduğu yeri değil, bütün bedeni ve insanın evrenle ilgili bağlarını da kapsayacak kadar genişler.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Böyle bir bilgi ve şuur yüklemesi neden inandırıcı bulunmuyor?",
+          "answer": "Çünkü küçücük bir maddî unsura aşırı derecede bilinç ve ilim vermek mantıklı değildir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada okuyucuya verilmek istenen zihnî uyarı nedir?",
+          "answer": "Görünen düzen karşısında, açıklamayı şuursuz zerrelere değil, her şeyi bilen ve kudreti yeten Yaratıcı’ya vermek gerekir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bedenin sürekli yenilenmesi, tesadüfî oluşum iddiasını nasıl zorlaştırır?",
+          "answer": "Çünkü yalnız bir defalık değil, devamlı süren düzenli bir kurulum ve işletim gerektirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde zerrelerin “çalışması” ne tür bir düzen fikrine işaret eder?",
+          "answer": "Amaçlı, dikkatli ve birbirine uyumlu bir düzen fikrine işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan bedeninin kâinatla bağlantılı gösterilmesi, bedendeki en küçük unsur için nasıl bir sonuç doğurur?",
+          "answer": "En küçük unsurun bile çok geniş bir sistemle uyumlu hareket etmesi gerektiği sonucu doğurur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Rızık ve soy bağı örnekleri neden özellikle dikkat çekicidir?",
+          "answer": "Çünkü bunlar insanın hem bugünkü hayatını hem de devamını ilgilendiren temel alanlardır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Zerrelerin ilahî kanunla hareket eden memurlar olarak düşünülmesi hangi aklî kolaylığı sağlar?",
+          "answer": "Çok sayıda unsurun tek bir düzen altında nasıl uyum gösterdiğini anlaşılır hâle getirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu kabul reddedildiğinde, gözde çalışan tek bir zerre için bile nasıl bir yetenek düşünülmek zorunda kalınır?",
+          "answer": "Bedenin tamamını ve beden dışındaki geniş ilişkileri kuşatacak derecede üstün bir görme ve bilme yeteneği düşünülmek zorunda kalınır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Geçmiş, gelecek, soy ve rızık kaynaklarının da bilinmesi gerektiğinin söylenmesi neyi ortaya koyar?",
+          "answer": "Kendi kendine oluşum iddiasının, tek bir zerreye bile taşıyamayacağı kadar büyük anlamlar yüklediğini ortaya koyar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metin bu tür bir görüşü sadece yanlış değil, aynı zamanda nasıl değerlendiriyor?",
+          "answer": "Onu akıldan uzak, aşırı ve kuruntuya dayalı bir düşünce olarak değerlendiriyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p08:lisans:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p08:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Pasajın imanî ve fikrî neticesi nedir?",
+          "answer": "İnsandaki hassas düzenin kendi kendine değil, ezelî kudret ve ilim sahibi Allah’ın tasarrufuyla var olduğunu kabul etmek gerekir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

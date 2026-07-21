@@ -1,0 +1,683 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:2-sinif:p30",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "2-sinif",
+  "partNo": "p30",
+  "partNumber": 30,
+  "title": "Evliya ve mürşidler: Keşf/keramet tevafuku (10. mertebe)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/2-sinif/SveC_2sinif_ayetul-kubra-p30-evliya-ve-mursidler-kesf-keramet-tevafuku-10-mertebe.txt",
+  "sourceRevision": "c154c8986eb51648b9dbe6967e002703a3e5992ab1e1f60ff6452015e01d7485",
+  "setCount": 6,
+  "questionCount": 55,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu bu dergâha neden gitmek istedi?",
+          "answer": "İmanını daha da güçlendirmek ve hakikati daha açık görmek istedi.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Yolcu medreseden sonra nasıl bir yere çağrıldı?",
+          "answer": "Çok feyizli, nurlu ve geniş bir irşad yerine çağrıldı.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu yerde yolcuyu kimler karşıladı?",
+          "answer": "Hakka ulaşmaya çalışan kutsal rehberler karşıladı.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu rehberler hangi büyük yolun gölgesinde bulunuyordu?",
+          "answer": "Peygamber Efendimizin yolunun gölgesinde bulunuyordu.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu mürşidler hangi ortak sözü söylüyordu?",
+          "answer": "Allah’ın bir olduğunu bildiriyorlardı.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu zatlar inançlarını neye dayandırıyordu?",
+          "answer": "Manevî görmelerine, gördükleri hakikatlere ve kerametlere dayandırıyordu.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde hakikati anlamak için hangi ışık örneği veriliyor?",
+          "answer": "Güneşi renklerinden tanıma örneği veriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Farklı yol ve meşreplerde olan bu insanlar hangi konuda birleşiyordu?",
+          "answer": "Allah’ın varlığı ve birliği konusunda birleşiyordu.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Yolcu bu birlik ve uyuşmayı nasıl gördü?",
+          "answer": "Çok açık ve parlak gördü.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Peygamberler, seçkin âlimler ve velilerin birlikte aynı hakikatte buluşması yolcuya nasıl göründü?",
+          "answer": "Gündüz ışığından da parlak göründü.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu imanda hangi dereceden daha ileri bir dereceye çıkmak istiyordu?",
+          "answer": "Bilerek inanmadan, görür gibi kesin inanmaya çıkmak istiyordu.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Dergâhın büyüklüğü neye benzetiliyor?",
+          "answer": "Çok geniş bir sahaya benzetiliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "O dergâhta az mı çok mu mürşid vardı?",
+          "answer": "Çok, hatta sayısız denecek kadar çok mürşid vardı.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu mürşidlerin bir özelliği neydi?",
+          "answer": "Manevî keşif ve keramet sahibi olmalarıydı.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu zatlar Allah hakkında neyi haber veriyordu?",
+          "answer": "Allah’ın varlığını ve birliğini bildiriyordu.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde farklı hak yolları neyin çeşitliliğine benzetiliyor?",
+          "answer": "Işığın farklı renklerine benzetiliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Farklı yolların doğru olması neyi gösteriyor?",
+          "answer": "Hepsinin aynı hakikate yöneldiğini gösteriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Yolcu, bu zatların aynı şeyi söylemesinden ne sonuç çıkardı?",
+          "answer": "Söyledikleri hakikatin sağlam olduğunu anladı.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Evliyaların söz birliği, başka hangi iki topluluğun birliğiyle birlikte anılıyor?",
+          "answer": "Peygamberlerin ve seçkin âlimlerin birliğiyle birlikte anılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Yolcu bu dergâhtan ne aldı?",
+          "answer": "İmanına kuvvet veren büyük bir feyiz aldı.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu bu yeni yerde daha çok neyi görmek istiyordu?",
+          "answer": "İmanın nurlarını ve manevi lezzetlerini görmek istiyordu.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Girdiği yer sadece bir tekye mi olarak anlatılıyor?",
+          "answer": "Hayır, zikir ve irşad yeri olarak da anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu kutsal rehberler hakikate yalnız aramakla mı kalmıştı?",
+          "answer": "Hayır, hakikate ulaşmışlardı da.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu insanların ulaştığı iman derecesi neydi?",
+          "answer": "Daha açık görür gibi bir yakin derecesiydi.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Onların ortak haberine göre Allah nasıl bir Rabbdir?",
+          "answer": "Varlığı zorunlu ve tek olan Rabdir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Nurların çokluğu neyi anlatmak için kullanılıyor?",
+          "answer": "Allah’ı tanıtan yolların ve tecellilerin çokluğunu anlatmak için kullanılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Yol ve meşrep farklı olsa da sonuç neden aynı çıkıyor?",
+          "answer": "Çünkü hepsi aynı doğru hakikate bakıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Yolcu bu hakikati sadece duyarak mı, yoksa daha açık bir şekilde mi anladı?",
+          "answer": "Daha açık bir şekilde, sanki görür gibi anladı.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Üç büyük topluluğun birleşmesi yolcuya ne kadar kuvvetli göründü?",
+          "answer": "Çok kuvvetli ve çok parlak göründü.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu medreseden çıktıktan sonra hangi tür insanların çağrısını kabul etti?",
+          "answer": "Manevî rehberlerin çağrısını kabul etti.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu manevi rehberler çalışmalarını kimin yolunun gölgesinde sürdürüyorlardı?",
+          "answer": "Resûlullah’ın yolunun gölgesinde sürdürüyorlardı.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Onların söyledikleri söz, Allah hakkında hangi iki temel hakikati bildiriyordu?",
+          "answer": "Allah’ın var olduğunu ve bir olduğunu bildiriyordu.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu rehberlerin haberleri neden güvenilir görülüyor?",
+          "answer": "Keşif, müşahede ve kerametle desteklendiği için güvenilir görülüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Metindeki güneş benzetmesi neyi kolay anlamamıza yardım ediyor?",
+          "answer": "Tek bir kaynaktan çok farklı işaretler gelebileceğini anlamamıza yardım ediyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Farklı tarikat ve mesleklerin olması, hakikate zarar mı veriyor?",
+          "answer": "Hayır, aynı hakikati değişik yönlerden göstermiş oluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Yolcu, bu insanların birleştiği gerçeği nasıl değerlendirdi?",
+          "answer": "Çok açık ve inkârı zor bir gerçek olarak değerlendirdi.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Peygamberler, asfiyalar ve evliyalar aynı noktada birleşince bu neyi gösterir?",
+          "answer": "Hakikatin çok sağlam olduğunu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Yolcunun bu ziyaretten sonra imanı için ne söylenebilir?",
+          "answer": "İmanı daha da arttı ve güçlendi.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu neden bu kadar istekliydi?",
+          "answer": "İmanda ilerlemek ve hakikati daha net tanımak istiyordu.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Anlatılan dergâh küçük bir yer mi, çok geniş bir yer mi?",
+          "answer": "Çok geniş bir yer gibi anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu yerde bulunan rehberler nasıl kimselerdi?",
+          "answer": "Nurlu, kutsal ve insanlara yol gösteren kimselerdi.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu zatların hep birlikte söylediği inanç nedir?",
+          "answer": "Allah’tan başka ilah olmadığı inancıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Onlar bunu sadece düşünerek mi, yoksa yaşayarak da mı destekliyordu?",
+          "answer": "Yaşadıkları manevi hallerle de destekliyordu.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Renklerin çok olması neyin çokluğunu anlatıyor?",
+          "answer": "Hakikati gösteren manevi işaretlerin çokluğunu anlatıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Değişik meşreplerin doğru olması bize ne öğretir?",
+          "answer": "Doğru olanların aynı Rabb’e götürebileceğini öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre bu ortak şahitlik ne kadar açıktır?",
+          "answer": "Çok açık ve parlaktır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S5Q4"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcunun imanı hangi yönde ilerliyordu?",
+          "answer": "Daha güçlü ve daha aydınlık bir hâle gidiyordu.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Yolcu hangi topluluğun yanına girdi?",
+          "answer": "Manevî keşif sahibi mürşidlerin yanına girdi.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu mürşidler kime bağlı bir yolda bulunuyordu?",
+          "answer": "Peygamber Efendimizin yoluna bağlı bir yolda bulunuyordu.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu insanlar kâinata hangi haberi duyuruyordu?",
+          "answer": "Allah’ın tek olduğunu duyuruyordu.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Onların dayanaklarından biri keramet ise, bir diğeri nedir?",
+          "answer": "Manevî müşahedeleridir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p30:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde neden çok sayıda renk örneği kullanılmıştır?",
+          "answer": "Aynı hakikatin çeşitli güzel yönlerini anlatmak için kullanılmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Çeşitli tarikatlar ve yollar sonunda nereyi gösteriyor?",
+          "answer": "Aynı ilahî hakikati gösteriyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Yolcu bu durumu hangi kesinlik derecesiyle fark etti?",
+          "answer": "Gözle görür gibi bir kesinlikle fark etti.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p30:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Üç topluluğun beraberce aynı hakikati göstermesi yolcunun gözünde neye üstün geldi?",
+          "answer": "Gündüzün aydınlığından bile daha parlak oldu.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

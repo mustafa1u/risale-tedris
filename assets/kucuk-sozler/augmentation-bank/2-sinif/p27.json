@@ -1,0 +1,639 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:2-sinif:p27",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "2-sinif",
+  "partNo": "p27",
+  "partNumber": 27,
+  "title": "8. Söz: Din ile dünya; iki yolun seçimi (iki kardeş temsili)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/2-sinif/SveC_2sinif_kucuk-sozler-p27-8-soz-din-ile-dunya-iki-yolun-secimi-iki-kardes-temsili.txt",
+  "sourceRevision": "2539e4cec2858b3a4400d9ea4934a615acc73a9ef857241930ff96e7f766d21c",
+  "setCount": 6,
+  "questionCount": 53,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatılan şeyleri anlamak için neye bakmamız isteniyor?",
+          "answer": "Kısa bir temsile benzeyen hikâyeye bakmamız isteniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Hikâyede başta kimler birlikte yola çıkıyor?",
+          "answer": "İki kardeş birlikte yolculuğa çıkıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Yol ayrımında karşılarına nasıl bir kişi çıkıyor?",
+          "answer": "Ciddi bir adam çıkıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Sağ yol için hangi iki şey söyleniyor?",
+          "answer": "Kurala uyma var; ama güven ve mutluluk da var.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Sol yol için hangi iki şey söyleniyor?",
+          "answer": "Rahat görünüşlü bir serbestlik var; ama tehlike ve mutsuzluk da var.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Güzel huylu kardeş hangi yolu seçiyor?",
+          "answer": "Sağ yolu seçiyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu kardeş yola çıkarken kime güveniyor?",
+          "answer": "Allah’a güveniyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p27:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Diğer kardeş sol yolu neden istiyor?",
+          "answer": "Yalnızca serbest olmak istediği için.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p27:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Sol yolu seçen kardeş dıştan nasıl, içten nasıl bir hâlde gidiyor?",
+          "answer": "Dıştan hafif görünse de içten ağır bir hâldedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Hikâyede hangi kardeşin hâli önce anlatılıyor?",
+          "answer": "Sol yolu seçen kardeşin hâli anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Anlatılan bölümün ana konusu nedir?",
+          "answer": "Doğru dinin insan için ne kadar önemli olduğunu göstermektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Hak din olmazsa dünya nasıl bir yere benzer?",
+          "answer": "Sıkıntılı bir yere benzer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Dinsiz insan için nasıl bir durumdan söz ediliyor?",
+          "answer": "Çok mutsuz bir duruma düşer.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanı karanlıklardan kurtaran sözler olarak hangi inanç anlatılıyor?",
+          "answer": "Allah’ı bilmek ve O’nun bir olduğuna inanmak anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İki kardeş yol ayrımında neyi öğrenmek istiyor?",
+          "answer": "Hangi yolun daha iyi olduğunu öğrenmek istiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Yol başındaki adam seçimi kime bırakıyor?",
+          "answer": "Kardeşlerin kendisine bırakıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Sağ yolu seçen kardeşin bir güzel özelliği nedir?",
+          "answer": "Güzel huylu olmasıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Sol yolu seçen kardeş için hangi kötü özellikler söyleniyor?",
+          "answer": "Ahlâkça bozuk ve başına buyruk olduğu söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Kurala uymak ilk bakışta nasıl görünüyor?",
+          "answer": "Biraz yük gibi görünüyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Buna rağmen kurala uymak sonunda ne getiriyor?",
+          "answer": "Güven ve huzur getiriyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p27:2-sinif:S2Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Hikâyede iki yol neyi karşılaştırmak için anlatılıyor olabilir?",
+          "answer": "Doğru yol ile yanlış yolu karşılaştırmak için.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Sağ yolun zor tarafı nedir?",
+          "answer": "Düzen ve kurala uymayı istemesidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Sağ yolun güzel sonucu nedir?",
+          "answer": "İnsan kendini daha güvende ve huzurlu bulur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Sol yolun hoş görünen tarafı nedir?",
+          "answer": "İstediği gibi davranma düşüncesidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Sol yolun kötü sonucu nedir?",
+          "answer": "Tehlike ve mutsuzluk getirmesidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Güzel huylu kardeşin seçimi bize hangi dersi verir?",
+          "answer": "Allah’a güvenip doğru olanı seçmek gerektiğini öğretir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Kötü huylu kardeşin seçimi bize hangi dersi verir?",
+          "answer": "Sırf rahatlık isteyerek yanlış tercih yapılmaması gerektiğini öğretir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İki kardeşin farkı sadece yol farkı mıdır?",
+          "answer": "Hayır, huyları ve düşünceleri de farklıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümün başında insanın hangi yönünden de söz ediliyor?",
+          "answer": "İnsanın ruhundan söz ediliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Dinin insan için hangi iki yönü anlatılıyor?",
+          "answer": "Ne olduğu ve ne kadar kıymetli olduğu anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Âlemin kapalı kalan sırrını açmaya yardımcı olan şey nedir?",
+          "answer": "Allah’a iman ve doğru din.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Hikâye doğrudan ders vererek mi, yoksa örnekle mi anlatılıyor?",
+          "answer": "Örnek bir hikâye ile anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Kardeşler neden yol başındaki adama soru soruyor?",
+          "answer": "Doğru seçimi yapmak için.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Sağ yolda insan neye uymak zorunda kalıyor?",
+          "answer": "Kurala ve düzene uymak zorunda kalıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Sol yolda görünen özgürlük niçin aldatıcıdır?",
+          "answer": "Çünkü sonunda tehlike ve sıkıntı vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İyi huylu kardeşin söylediği güven sözü neyi gösterir?",
+          "answer": "Allah’a dayanıp yola çıktığını gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümde hangi kardeş örnek alınmalıdır?",
+          "answer": "Sağ yolu seçen kardeş örnek alınmalıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Hikâye eski zamanda geçen nasıl bir olayla başlıyor?",
+          "answer": "Birlikte yolculuk eden iki kardeşle başlıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Yolun ikiye ayrılması neyi düşündürür?",
+          "answer": "İnsanın bir seçim yapması gerektiğini düşündürür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Yol başındaki adam bilgi verirken iki yol arasında nasıl bir denge kuruyor?",
+          "answer": "Birinin zorlu ama güvenli, ötekinin rahat ama tehlikeli olduğunu söylüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Sağ yolun yük gibi görünen kısmı nedir?",
+          "answer": "Kurallı olmasıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Sol yolun hafif gibi görünen kısmı nedir?",
+          "answer": "Serbest bırakmasıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Hangi kardeş aceleyle hoşuna gideni seçiyor?",
+          "answer": "Kötü huylu kardeş seçiyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Hangi kardeş düşünerek ve tevekkülle seçiyor?",
+          "answer": "Güzel huylu kardeş seçiyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümde dünya ve insanla ilgili önemli olan hangi konu öne çıkarılıyor?",
+          "answer": "Din konusu öne çıkarılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Hak din olmadığında insanın iç dünyası nasıl etkilenir?",
+          "answer": "Huzuru bozulur, mutsuz olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Allah’ı anmak ve birliğine inanmak neye vesile olur?",
+          "answer": "İnsanın karanlıktan kurtulmasına vesile olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Hikâyedeki iki kardeş aynı yola mı gidiyor?",
+          "answer": "Hayır, farklı yollara gidiyorlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Yolu sordukları kişi onlara buyurucu mu davranıyor, açıklayıcı mı davranıyor?",
+          "answer": "Açıklayıcı davranıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Sağ yol neden daha hayırlı görünüyor?",
+          "answer": "Çünkü emniyet ve mutluluk getiriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Sol yol neden sonunda kötüye çıkıyor?",
+          "answer": "Çünkü görünüşte rahat olsa da içinde tehlike var.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Güzel huylu kardeşin ilk yaptığı doğru davranış nedir?",
+          "answer": "Allah’a güvenerek doğru yolu seçmesidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p27:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Diğer kardeşin yanlış davranışı nedir?",
+          "answer": "Sırf serbestlik isteyip tehlikeli yolu seçmesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p27:2-sinif:S6Q8"
+          ]
+        }
+      ]
+    }
+  ]
+}

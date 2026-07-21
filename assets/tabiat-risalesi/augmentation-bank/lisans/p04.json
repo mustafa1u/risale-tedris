@@ -1,0 +1,598 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:lisans:p04",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "lisans",
+  "partNo": "p04",
+  "partNumber": 4,
+  "title": "1. yol / 1. muhal: Eczahane misali (macun ve tiryakın tesadüfle oluşmasının imkânsızlığı)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/lisans/SveC_lisans_tabiat-risalesi-p04-1-yol-1-muhal-eczahane-misali-macun-ve-tiryakin-tesadufle-olusmasinin-imkansizligi.txt",
+  "sourceRevision": "fa34d279571986eb08a24877cb101ae5856861e05b4307a71cc1334a0953efef",
+  "setCount": 6,
+  "questionCount": 50,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde ele alınan ilk yol, varlıkların meydana gelişini neye bağlamaktadır?",
+          "answer": "Eşyanın, çeşitli sebeplerin bir araya gelmesiyle oluştuğunu ileri sürmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İlk örnekte eczane benzetmesiyle hangi temel düşünce anlatılmak istenmektedir?",
+          "answer": "Canlı bir yapının ortaya çıkması için çok farklı maddelerin son derece hassas ölçülerle birleşmesi gerektiği gösterilmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Macun ve tiryak örneğinde ölçüdeki çok küçük bir değişiklik neden önemli sayılmıştır?",
+          "answer": "Çünkü en ufak eksiklik veya fazlalık, o bileşimin özelliğini ve işlevini bozacaktır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Şişelerin rastgele devrilmesiyle uygun karışımın meydana gelmesi niçin akla aykırı görülmektedir?",
+          "answer": "Çünkü birçok ayrı maddeden tam gereken miktarların kendiliğinden aynı anda doğru biçimde toplanması gerçekçi değildir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu misalin canlılara uygulanmasında ne söylenmektedir?",
+          "answer": "Her canlının, çok sayıda unsurun ince bir ölçüyle birleşmesinden meydana geldiği; dolayısıyla bunu sebeplere vermenin o örnekteki rastgele karışıma benzemesi gerektiği ifade edilmektedir.",
+          "wordCount": 23,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada tartışılan görüşlerden ilkine göre mahlukat nasıl ortaya çıkmaktadır?",
+          "answer": "Çeşitli tabiî sebeplerin birleşmesiyle ortaya çıktığı iddia edilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Eczane örneğinde çok sayıdaki şişeden farklı miktarlar alınması neyi temsil etmektedir?",
+          "answer": "Canlılardaki pek çok unsurun belirli oranlarla bir araya gelişini temsil etmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Hazırlanan karışımın canlılık veya şifa özelliğini koruması neye bağlı gösterilmiştir?",
+          "answer": "Gerekli maddelerin tam uygun ölçüde alınmasına bağlı gösterilmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Rastgele bir olayın bu karışımı oluşturamayacağı hangi mantık üzerinden savunulmaktadır?",
+          "answer": "Çünkü rastgelelik, böylesine ince hesaplı ve dengeli bir sonucu sürekli şekilde üretemez.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Eczane benzetmesi ile varlık âlemi arasında nasıl bir ilişki kurulmaktadır?",
+          "answer": "Büyük âlemdeki canlıların da tıpkı hassas bir terkiple oluşmuş bileşikler gibi olduğu anlatılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde ilk yolun eleştirisi kaç örnek imkânsızlık üzerinden yürütülmektedir?",
+          "answer": "Üç örnek imkânsızlık üzerinden yürütülmektedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İlk imkânsızlıkta verilen benzetmede hangi tür bir oluşum örnek alınmıştır?",
+          "answer": "Çok farklı maddelerden hassas ölçülerle hazırlanan canlılık taşıyan bir bileşim örnek alınmıştır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Her şişeden farklı miktarlarda madde alınmasının özellikle vurgulanmasının sebebi nedir?",
+          "answer": "Ortaya çıkan yapının tesadüfle değil, ince bir hesapla meydana geldiğini göstermek içindir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Ölçü bozulursa karışımın niteliğinin kaybolması neyi ispatlamak için kullanılmıştır?",
+          "answer": "Böyle bir sonucun rastgele olaylarla açıklanamayacağını ispatlamak için kullanılmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İlk imkânsızlıktan hareketle canlıların yaratılışı hakkında hangi sonuca gidilmektedir?",
+          "answer": "Canlıların oluşumunu sebeplerin kör birleşimine vermenin mantıksız olduğuna gidilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde hikmet, ilim ve iradenin birlikte anılması neyi göstermektedir?",
+          "answer": "Canlılardaki oluşumun bilinçli, ölçülü ve maksatlı bir fiil olduğunu göstermektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin bu kısmında “birinci yol” denilince hangi iddia kastedilmektedir?",
+          "answer": "Varlıkların sebeplerin toplanmasıyla meydana geldiği iddiası kastedilmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İlk delilde eczane örneği neden tercih edilmiş olabilir?",
+          "answer": "Ölçü, denge ve hassas terkib fikrini somut biçimde göstermek için tercih edilmiş olabilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Canlı bir macun veya tesirli bir ilaç benzetmesi canlılar hakkında ne düşündürmektedir?",
+          "answer": "Canlıların basit ve rastgele değil, çok ince oranlarla kurulmuş yapılar olduğunu düşündürmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bir maddenin az veya fazla olmasının sonucu bozması, hangi anlayışı çürütmektedir?",
+          "answer": "Tesadüf ve gelişigüzel birleşme anlayışını çürütmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Şişelerin devrilmesiyle uygun karışımın oluşması örneği, sebeplerin yaratıcı sayılmasına karşı nasıl bir delildir?",
+          "answer": "Sebeplerin bilinçsiz hareketlerinden kusursuz bir sonuç çıkmayacağını gösteren bir delildir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre âlemdeki hayat unsurlarının meydana gelişi hangi tür özellikler gerektirir?",
+          "answer": "Kapsamlı bilgi, ince hikmet ve kuşatıcı tercih gerektirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada savunulan ana tez, sebeplerin eşyayı meydana getirmesi hakkında nasıl bir hükümdür?",
+          "answer": "Böyle bir nisbetin mümkün ve makul olmadığı hükmüdür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İlk misaldeki çok sayıdaki kavanoz neyin sembolü gibi düşünülebilir?",
+          "answer": "Canlıyı meydana getiren çeşitli maddelerin ve unsurların sembolü gibi düşünülebilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Karışımdaki oranların farklı farklı olması neden tesadüf ihtimalini zayıflatır?",
+          "answer": "Çünkü tesadüf, her biri ayrı ölçü isteyen pek çok unsuru tam yerinde birleştiremez.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İlk misalin sonunda kullanılan sert üslup neyi vurgulamak için tercih edilmiştir?",
+          "answer": "Anlatılan iddianın akıldan ne kadar uzak olduğunu güçlü biçimde vurgulamak için tercih edilmiştir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Canlıların birer hassas terkib olarak görülmesi, sebepler anlayışını nasıl etkiler?",
+          "answer": "Sebeplerin şuursuz ve ölçüsüz oluşu sebebiyle bu anlayışı geçersiz kılar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Hayat maddelerinin doğru biçimde bir araya gelmesi için hangi üç temel özellik öne çıkarılmaktadır?",
+          "answer": "Hikmet, ilim ve irade öne çıkarılmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci imkânsızlıkta neden özellikle “maddî sebepler” üzerinde durulmaktadır?",
+          "answer": "Çünkü maddî sebep denince, etkisinin fizikî yakınlık ve temasla olması gerektiği gösterilmek istenmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Sineğin bedeninde çok çeşitli sebeplerin müdahalesi gerektiği kabulü neden sorunlu bulunur?",
+          "answer": "Çünkü bu kadar farklı sebebin tam bir uyumla aynı küçük yapıda iş görmesi imkânsız kabul edilir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Küçücük bir göz hücresine kadar sebeplerin yerleşmesi gerektiği düşüncesi hangi mantıksal çıkmazı gösterir?",
+          "answer": "Sebeplere yaratıcı güç verildiğinde sonucun saçma ve uygulanamaz bir tabloya dönüştüğünü gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü imkânsızlıkta tek bir varlığın bir elden çıkması fikri hangi özelliklere dayandırılmaktadır?",
+          "answer": "Varlığın birliğine, düzenine, ölçüsüne ve canlılık taşımasına dayandırılmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Şuursuz sebeplerin çokluğu neden yeterlilik değil, tersine problem olarak sunulmaktadır?",
+          "answer": "Çünkü sayı artınca uyum değil, çatışma ve düzensizlik ihtimali artar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Maddî sebeplerin en fazla dış yüzle temas etmesi, canlılığın hangi yönünü açıklamada yetersiz kalır?",
+          "answer": "İç yapının inceliğini, düzenini ve sanatını açıklamada yetersiz kalır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Küçük canlıların büyüklerden daha şaşırtıcı bulunması neye delildir?",
+          "answer": "Yaratılıştaki sanatın derinliğine ve sebeplerle açıklanamayacak kadar ince olduğuna delildir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Metindeki üç imkânsızlık birlikte düşünüldüğünde okuyucu hangi kanaate sevk edilmektedir?",
+          "answer": "Canlıların ve düzenli varlıkların kör sebeplerle değil, tek ve kudret sahibi bir yaratıcı ile açıklanması gerektiği kanaatine sevk edilmektedir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda reddedilen görüş, eşyanın ortaya çıkışını hangi kaynağa bağlamaktadır?",
+          "answer": "Çeşitli tabiî ve maddî sebeplerin birleşmesine bağlamaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İlk örnekteki ilaç hazırlama tasviri, canlıların yapısı hakkında nasıl bir benzetme kurmaktadır?",
+          "answer": "Canlıları, çok hassas oranlarla kurulmuş karmaşık bileşimlere benzetmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bir bileşenin çok az değişmesiyle sonucun bozulması neyi gösterir?",
+          "answer": "Oluşumun ince hesap gerektirdiğini ve rastgeleliğe açık olmadığını gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Fırtına veya kaza ile doğru karışımın oluşması düşüncesi neden reddedilmektedir?",
+          "answer": "Çünkü gelişigüzel hareketlerden tam ölçülü ve amaçlı bir netice çıkması beklenmez.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu benzetmeden sonra canlıların sebeplerce yapılmış sayılması hangi örneğe denk tutulmaktadır?",
+          "answer": "Şişelerin kendiliğinden devrilip kusursuz bir ilaç oluşturması örneğine denk tutulmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Hayat unsurlarının meydana gelişi için metinde hangi bilinçli yönetime işaret edilmektedir?",
+          "answer": "Her şeyi kuşatan bir bilgiye, ince bir hikmete ve belirleyici bir iradeye işaret edilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci muhâlde sineğin seçilmesi, delilin etkisini nasıl artırmaktadır?",
+          "answer": "En küçük canlıda bile sebep teorisinin işlemediğini göstererek delili daha çarpıcı hale getirmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Sineğin vücudunun birçok unsurla ilişkili görülmesi, sebepler görüşüne hangi yükü bindirir?",
+          "answer": "Çok sayıda unsurun onun oluşumunda aynı anda hazır ve faal olmasını gerektiren ağır bir yük bindirir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Maddî sebebin müsebbebin yanında bulunması gerektiği düşüncesi, sinek örneğinde neye varmaktadır?",
+          "answer": "Sebeplerin sineğin bedenine, hatta çok küçük parçalarına kadar girmesi gerektiği sonucuna varmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu sonuç neden aklî bakımdan kabul edilmez görülmektedir?",
+          "answer": "Çünkü küçücük bir yerde sayısız etkenin kusursuzca toplanıp çalışması mantıklı bulunmamaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Üçüncü muhâlde tek ve düzenli bir varlığın çok ellere verilememesi hangi esasla açıklanmaktadır?",
+          "answer": "Birlik ve intizam taşıyan şeylerin dağınık ve çok başlı etkilerden değil, tek bir kaynaktan gelmesinin uygun olması esasıyla açıklanmaktadır.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Sebeplerin kör, sağır ve şuursuz oluşu niçin özellikle vurgulanmaktadır?",
+          "answer": "Çünkü bu nitelikler, onların maksatlı ve sanatlı bir yaratılışı gerçekleştiremeyeceğini göstermektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Canlıların iç dünyasının dışlarından daha ince olması, sebeplerin sınırını nasıl ortaya koyar?",
+          "answer": "Sebepler dışa bile tam nüfuz edemezken, daha derin ve daha hassas olan iç yapıyı açıklamalarının mümkün olmadığını ortaya koyar.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p04:lisans:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Pasajın sonunda sebeplere isnadın eleştirisi hangi güçlü hükümle tamamlanmaktadır?",
+          "answer": "Böyle bir isnadın, aklın ve sağduyunun kabul etmeyeceği derecede körlük ve şuursuzluk içerdiği hükmüyle tamamlanmaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

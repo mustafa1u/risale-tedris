@@ -1,0 +1,14 @@
+Design a web application for the following purposes:
+
+1) There are books in assets/ folder. Each book has grades 2, 5, 8, 11 and lisans grades and parcalar/ folder which contains the divisions of the book. Each division's file name is in the following format:
+    book-name-part-number-part-label
+
+That is, each file name consist of three parts which are slugified. Part numbers are like p07 etc.  
+
+We need a web application which one can view the books, then view the grades inside it, or view the list and content of any division and download the docx or pdf files of any grade.
+
+2) pdf files do not exist right now. We have to convert docx files to pdf files for mobile phone size of 6 inches or normal pdf (direct conversion of docx file). These should be converted not at the download time, but be ready in the assets. When user downloads, no conversion will happen, but only direct download.
+
+
+3) At the beginning, for developer purposes, we want to view several different color themes. So, allow changing it with one variable (string or enumaration etc.)
+

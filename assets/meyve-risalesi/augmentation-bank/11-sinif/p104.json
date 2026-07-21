@@ -1,0 +1,844 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:11-sinif:p104",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "11-sinif",
+  "partNo": "p104",
+  "partNumber": 104,
+  "title": "11. Mes'ele / Lâhika: Hüsrev'in mektup parçası (Meyve Risalesi'nin tesiri ve metanet)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/11-sinif/SveC_11sinif_meyve-risalesi-p104-11-mesele-lahika-husrevin-mektup-parcasi-meyve-risalesinin-tesiri-ve-metanet.txt",
+  "sourceRevision": "3433d23fe8ab794fb8fce54d0aa1e532c5ec10c12df885e950c387cc6d5bf00c",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin bu bölümünde ilk mektubu yazan kişi kimdir?",
+          "answer": "İlk mektubu yazan kişi Hüsrev’dir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İlk mektup hangi eser vesilesiyle kaleme alınmıştır?",
+          "answer": "“Meyve” adlı eserin on birinci meselesi münasebetiyle yazılmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Mektupta “Meyve”nin ilk kısımlarının nasıl bir zamanda fayda verdiği anlatılıyor?",
+          "answer": "Çok zor, tehlikeli ve isyanların arttığı bir zamanda kurtuluş vesilesi olduğu anlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Onuncu ve Onbirinci meselelerin Nur talebelerine hangi yönden destek olduğu belirtiliyor?",
+          "answer": "Onları hakikat yolunda kuvvetlendirdiği ve teşvik ettiği belirtiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Kabir ve kabir hayatı hakkında mektupta nasıl bir etki anlatılıyor?",
+          "answer": "Korkuyu hafiflettiği, kabre karşı ünsiyet kazandırdığı ve insanı rahatlattığı anlatılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu kısımların, kabir hayatını tam kavrayamayanlara ne gibi bir kolaylık sağladığı söyleniyor?",
+          "answer": "Uzağı aydınlatan kuvvetli bir ışık gibi yol gösterdiği söyleniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Mektupta Nur’dan alınan faydalar hangi benzetmeyle güzel ve hoş gösteriliyor?",
+          "answer": "Güzel kokulu ve örnek alınacak bir çiçek bahçesine benzetiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Hüsrev, kendilerini üstadına hangi durumda benzetiyor?",
+          "answer": "Her gün öğrendiğini hocasına arz eden bir talebeye benzetiyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Buna rağmen neden her şeyi sürekli arz edemediklerini ifade ediyor?",
+          "answer": "Çünkü üstadın bir müddet konuşmayı bıraktığı belirtiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p104:11-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci hitap kısmında mektubu yazan talebe, konuşmasına neyi sebep gösteriyor?",
+          "answer": "Risale-i Nur’un hakikati, “Meyve”nin güzelliği ve ondan gelen feyzi sebep gösteriyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu konuşmanın yalnız yazanı değil, başkalarını da nasıl etkilediği söyleniyor?",
+          "answer": "Benzer duygular taşıyan birçok kalbe canlılık verdiği söyleniyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bulundukları çevrede Risale-i Nur’a yönelen hareketlerin hangi vesileyle daha da güçlendiği ifade ediliyor?",
+          "answer": "“Meyve”nin on birinci çiçeği sayesinde daha sağlam hâle geldiği ifade ediliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "İlk mektubun başındaki selamlama ve hitap şekli, yazanın üstadına karşı tavrını nasıl gösteriyor?",
+          "answer": "Büyük sevgi, hürmet ve bağlılık gösteriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Mektupta “Dokuz Mes’ele” için millet ve memleket açısından nasıl bir değer biçiliyor?",
+          "answer": "Toplum ve vatan için çok hayırlı ve faydalı görüldüğü ifade ediliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu eser, talebeleri sadece bilgilendirmekle mi kalmış, yoksa başka bir işlev de görmüş müdür?",
+          "answer": "Sadece bilgi vermemiş, onları kurtuluşa vesile olan bir rehber gibi de hizmet etmiştir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Onuncu ve Onbirinci meselelerde özellikle hangi yolun yolcularının övüldüğü söyleniyor?",
+          "answer": "Hakikat yolunda yürüyen Nur talebelerinin desteklendiği söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Mektuba göre insanların çok ürktüğü ilk durak neresidir?",
+          "answer": "Kabir ve toprak altındaki ilk menzildir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bu korkulu menzil hakkında anlatılanlar, müminin duygusunda nasıl bir değişiklik meydana getiriyor?",
+          "answer": "Şiddetli korkuyu azaltıp huzur ve yakınlık duygusu veriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Melaikelerle karşılaşma ve konuşma düşüncesinin öne çıkarılması neyi yumuşatıyor?",
+          "answer": "Kabirle ilgili sert ve ürkütücü algıyı yumuşatıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Mektupta kullanılan ışık benzetmesi, eserin hangi yönünü anlatmak için kullanılmıştır?",
+          "answer": "Görülmeyen uhrevî hakikatleri açıklayıp anlaşılır hâle getirmesini anlatmak için kullanılmıştır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Hüsrev’in “memleketim namına” konuştuğunu söylemesi hangi anlamı taşır?",
+          "answer": "Kendi duygusunun sadece şahsî olmadığını, yaşadığı çevrenin de buna ihtiyaç duyduğunu gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci bölümde çevrede Risale-i Nur’a karşı atılan adımların güçlenmesi neye bağlanıyor?",
+          "answer": "“Meyve”nin on birinci kısmının verdiği dayanıklılık ve gelişmeye bağlanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Buradaki “uzatılan eller” ifadesi en uygun biçimde nasıl anlaşılır?",
+          "answer": "Risale-i Nur’a yönelme, ilgi gösterme ve sahip çıkma şeklinde anlaşılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "İlk mektubun sonunda yazan kişinin kendini “hakir talebe” diye anması hangi ahlâkî tavrı gösterir?",
+          "answer": "Tevazu ve edep tavrını gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İlk mektupta “Meyve”nin bazı bölümlerinin zor zamanlarda kurtuluş vesilesi olduğu belirtilirken hangi tür bir fayda öne çıkarılıyor?",
+          "answer": "Manevî koruma ve teselli faydası öne çıkarılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Mektuba göre bu eser, talebelerin sadece dünyadaki sıkıntılarına mı değiniyor?",
+          "answer": "Hayır, kabir ve âhiret yolculuğuna dair hallerine de değiniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Kabir hakkındaki anlatımın en önemli sonucu öğrencilerin hangi duygusunu azaltmaktır?",
+          "answer": "Derin korku ve endişe duygusunu azaltmaktır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "“Toprak altı” için hem korku hem de yakınlık ifade eden anlatımın birlikte kullanılması neyi gösterir?",
+          "answer": "Önce ürküten bir yer gibi görülen kabrin, iman sayesinde daha tanıdık ve katlanılabilir hâle geldiğini gösterir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Nur’un, göremeyenlerin elinde uzaklara ışık saçan bir alete benzetilmesi hangi anlama gelir?",
+          "answer": "İnsanın tek başına kavrayamadığı hakikatleri açıklığa kavuşturduğu anlamına gelir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Çiçek bahçesi benzetmesi, eserin hangi özelliğini hissettirmektedir?",
+          "answer": "Gönle ferahlık veren, hoş, canlı ve cazip bir yönü olduğunu hissettirmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Hüsrev’in üstadına her gün ders okuyan öğrenci benzetmesini yapması, talebe-üstad ilişkisi hakkında ne anlatır?",
+          "answer": "Sürekli öğrenme, hesap verme ve bağlılık içinde bir ilişki olduğunu anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Üstadın konuşmalarını bir süre bırakması mektupta nasıl bir sınırlama doğurmuştur?",
+          "answer": "Talebelerin her an içlerinden geçenleri doğrudan arz etmelerini zorlaştırmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci hitap kısmında “hakikat”, “güzellik” ve “feyiz” kelimelerinin peş peşe anılması neyi kuvvetlendirir?",
+          "answer": "Eserin hem doğru, hem güzel, hem de bereketli olduğuna dair kanaati kuvvetlendirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Yazanın konuşmasının başka kalplere hayat verdiğini söylemesi, metnin etki alanı hakkında ne düşündürür?",
+          "answer": "Tesirin yalnız bir kişide kalmayıp geniş bir çevreye yayıldığını düşündürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Çevrede Risale-i Nur lehine gelişen hareketlerin “faaliyete başlaması” hangi aşamayı gösterir?",
+          "answer": "Sadece düşünce seviyesinde kalmayıp fiilî bir canlanmaya geçtiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu mektubun genel havası daha çok şikâyet mi, şükür mü, yoksa tarafsız bilgi verme midir?",
+          "answer": "Daha çok şükür, memnuniyet ve takdir havası taşır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İlk mektubun yazılış sebebi olarak metinde hangi özel bölüm gösteriliyor?",
+          "answer": "“Meyve”nin on birinci meselesi gösteriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Mektupta “Dokuz Mes’ele” ile ardından gelen iki meselenin etkisi arasında nasıl bir ilişki kuruluyor?",
+          "answer": "İlk kısımların kurtuluş vesilesi olduğu, sonraki iki meselenin ise özellikle hakikat yolunu daha da sevdirdiği ve kuvvetlendirdiği anlatılıyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "“En büyük düşmanlar arasında” ifadesi, dönemin nasıl bir ortam taşıdığını gösterir?",
+          "answer": "Çok baskılı, tehlikeli ve düşmanlığın güçlü olduğu bir ortamı gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Mektupta kabirdeki hallerin anlatılması neden önemli görülüyor?",
+          "answer": "Çünkü insanların en çok korktuğu yerlerden biri hakkında iç rahatlatıcı bir bakış kazandırıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Kabirde meleklerle görüşme düşüncesinin sevdirilmesi, ölüm anlayışını nasıl değiştiriyor?",
+          "answer": "Ölümü ve kabri yalnız karanlık ve acı bir son gibi değil, manevî bir karşılaşma yeri gibi düşündürüyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "“Korkularımızı ta’dil etmiş” ifadesi en doğru şekilde nasıl açıklanır?",
+          "answer": "Korkuyu tamamen yok etmeyip ölçülü hâle getirmiş demektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Uzak mesafelere uzanan ışık benzetmesi, eserin hangi ufku açtığını anlatır?",
+          "answer": "Âhiret ve gayb ile ilgili geniş bir kavrayış kazandırdığını anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Hüsrev’in üstadına hitabında sürekli sevgi ve saygı bildirmesi, mektubun üslubunu nasıl yapar?",
+          "answer": "Samimi, edepli ve hürmet dolu bir üslup yapar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci paragrafta yazan kişi, kendi konuşmasını hangi üç hususun etkisine bağlıyor?",
+          "answer": "Risale-i Nur’un doğruluğuna, “Meyve”nin güzelliğine ve ondan gelen feyze bağlıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "“Memleketim namına” ifadesi, yazanın bakışının sadece şahsî olmadığını nasıl gösterir?",
+          "answer": "Kendisini bir topluluğun hissiyatını taşıyan kişi gibi gördüğünü gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre çevrede Risale-i Nur’a yönelişin artmasında hangi bölüm özel olarak etkili olmuştur?",
+          "answer": "“Meyve”nin on birinci çiçeği özel olarak etkili olmuştur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümledeki anlatıma göre bu yöneliş sadece güçlenmiş midir, yoksa başka bir aşamaya da geçmiş midir?",
+          "answer": "Hem güçlenmiş hem gelişmiş hem de harekete dönüşmüştür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Hüsrev’in mektubunda üstadına karşı kullandığı hitaplar onun hangi iki temel duygusunu açıkça gösterir?",
+          "answer": "Muhabbet ve hürmet duygularını açıkça gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Mektuba göre “Meyve”nin bazı kısımları, talebelere sadece bilgi vermemiş; onları neyden kurtarmaya vesile olmuştur?",
+          "answer": "Zor zamanlarda manevî sıkışmışlıktan ve ümitsizlikten kurtarmaya vesile olmuştur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Onuncu ve Onbirinci meselelerin talebeleri “hakikat yollarında alkışlaması” sözü nasıl anlaşılmalıdır?",
+          "answer": "Doğru yolda olduklarını destekleyip onları cesaretlendirmesi şeklinde anlaşılmalıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kabir için korkutucu ifadelerin ardından olumlu yönlerin anlatılması hangi eğitim yöntemine benzer?",
+          "answer": "Önce gerçeği hatırlatıp sonra ümit ve teselli vererek denge kuran bir yönteme benzer.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Mektupta, kabir hayatını tam göremeyenler için eserin ne gibi bir vazife gördüğü söyleniyor?",
+          "answer": "Anlayışı aydınlatan ve görünmeyeni hissettiren bir rehber vazifesi gördüğü söyleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Çiçek bahçesi benzetmesi daha çok akla mı, gönle mi hitap eder?",
+          "answer": "Daha çok gönle hitap eder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Nur’dan alınan feyizleri üstadına sunma isteği, talebelerin eğitim anlayışı hakkında ne gösterir?",
+          "answer": "Aldıkları manevî dersleri paylaşmayı ve hocanın terbiyesi altında kalmayı önemsediklerini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Üstadın bir süre konuşmaması, mektuptaki ifadeye göre talebeleri tamamen susturmuş mudur?",
+          "answer": "Hayır, doğrudan konuşmayı sınırlamış; fakat içlerindeki şükrü ve bağlılığı bitirmemiştir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci hitap kısmında yazan kişi, kendi çevresindeki gelişmeleri hangi ruh hâliyle anlatıyor?",
+          "answer": "Minnet duyan, ümitli ve cesaret kazanmış bir ruh hâliyle anlatıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "“Atılan adımlar ve uzatılan eller” sözü, çevrede nasıl bir hareketlenmeye işaret eder?",
+          "answer": "Risale-i Nur’a yaklaşma, sahiplenme ve destek verme hareketine işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu hareketlenmenin “metanet” kazanması neyi gösterir?",
+          "answer": "Daha dayanıklı, kararlı ve sarsılmaz bir hâle geldiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p104:11-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "İlk mektubun bütününe bakıldığında en baskın ana tema hangisidir?",
+          "answer": "Risale-i Nur’un zor zamanlarda imanî teselli ve kuvvet vermesi ana temadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Hedef metindeki ilk yazı tür olarak en uygun biçimde nasıl adlandırılabilir?",
+          "answer": "Üstada yazılmış bir mektup olarak adlandırılabilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu mektupta “Meyve”nin belirli bölümlerinin öne çıkarılmasının temel sebebi nedir?",
+          "answer": "Talebelere manevî fayda ve teselli sağlamalarıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Mektuba göre bu fayda, özellikle nasıl bir dönemin içinde daha belirgin hâle gelmiştir?",
+          "answer": "Şiddetli sıkıntıların ve düşmanlıkların bulunduğu bir dönemde daha belirgin hâle gelmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Onuncu ve Onbirinci meselelerin kabre dair bilgiler vermesi, insanın hangi büyük bilinmezine ışık tutuyor?",
+          "answer": "Ölüm sonrası ilk menziline ışık tutuyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Kabirde meleklerle beraberlik düşüncesinin sevdirilmesi, ehl-i gaflet için neden ayrıca dikkat çekicidir?",
+          "answer": "Çünkü onlar için çok ürkütücü görülen bir mesele daha yumuşak ve katlanılabilir hâle getirilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Mektupta geçen güçlü ışık benzetmesinden hareketle, eser hangi işlevi üstlenmiş görünmektedir?",
+          "answer": "Karanlıkta yol buldurup uzak hakikatleri görünür kılan bir işlev üstlenmiş görünmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Hüsrev’in, Nur’dan aldığı feyzi üstadına sunmak istemesi hangi ahlâkî ve ilmî terbiyeye işaret eder?",
+          "answer": "Şükür, sadakat ve hocaya bağlı ilim terbiyesine işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "“Şimdilik konuşmalarını bırakmışlardı” ifadesi, mektuptaki anlatımın tonunu nasıl etkiler?",
+          "answer": "İçtenliği korurken hafif bir mahzunluk da katar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Sonraki hitapta yazan kişi, niçin konuştuğunu doğrudan neye dayandırıyor?",
+          "answer": "Eserin hakikati, güzelliği ve bereketli etkisine dayandırıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "“Benim gibi konuşan çok kalbler” sözü, okuyucu kitlesi hakkında hangi sonucu düşündürür?",
+          "answer": "Benzer duyguları paylaşan geniş bir topluluk bulunduğunu düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Çevrede Risale-i Nur’a karşı gelişen ilginin üç aşaması metinde nasıl sıralanıyor?",
+          "answer": "Sağlamlaşma, gelişme ve harekete geçme şeklinde sıralanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p104:11-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Mektubun sonunda imza sahibinin kendini küçük görerek tanıtması, metnin genel manevî çizgisine nasıl uygundur?",
+          "answer": "Tevazuya dayalı samimi kulluk ve talebelik anlayışına uygundur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

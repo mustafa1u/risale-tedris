@@ -1,0 +1,602 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:lisans:p25",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "lisans",
+  "partNo": "p25",
+  "partNumber": 25,
+  "title": "Hayvanat ve tuyur / 3. hakikat: Suretlerin açılışı ve üç hakikatın ittifakıyla tehlil",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/lisans/SveC_lisans_ayetul-kubra-p25-hayvanat-ve-tuyur-3-hakikat-suretlerin-acilisi-ve-uc-hakikatin-ittifakiyla-tehlil.txt",
+  "sourceRevision": "ea882074ac94f1006ff7234e35c1e3f6cdef86c2eedae7d7b718d981a20a404d",
+  "setCount": 6,
+  "questionCount": 49,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde üçüncü hakikat, hayvanların yaratılışında hangi başlangıç maddeleri üzerinde durur?",
+          "answer": "Yumurta, yumurtacık ve nutfe gibi birbirine benzeyen, sınırlı sayıdaki başlangıç unsurları üzerinde durur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu benzer başlangıçlardan ortaya çıkan varlıkların en dikkat çekici yönü nasıl anlatılır?",
+          "answer": "Sayısız hayvan türünün çok farklı biçimlerde, hikmetli ve hayranlık verici suretlerle ortaya çıkması şeklinde anlatılır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Hayvanların suretlerinin açılması hangi niteliklerle tasvir edilir?",
+          "answer": "Düzenli, dengeli ve kusurdan uzak bir oluş halinde tasvir edilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Üçüncü hakikatin parlak sayılmasının sebebi nedir?",
+          "answer": "Çünkü benzer ve sınırlı sebeplerden çok çeşitli ve kusursuz canlı şekillerinin çıkması, güçlü bir yaratma delili gösterir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu hakikati aydınlatan delillerin çokluğu neye bağlanır?",
+          "answer": "Hayvanların sayısı kadar belge ve işaret bulunmasına bağlanır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre üç hakikatin birleşmesi hayvan türleri hakkında hangi ortak sonuca götürür?",
+          "answer": "Bütün hayvan türlerinin birlikte Allah’ın birliğine şahitlik ettiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Hayvanların ortak şehadeti yeryüzü üzerinden nasıl canlandırılır?",
+          "answer": "Yeryüzü büyük bir insan gibi düşünülür ve bu büyük varlık sanki tevhid ilanını göklere duyurur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Burada kullanılan büyük insan benzetmesi hangi ana fikri kuvvetlendirir?",
+          "answer": "Kâinattaki canlıların topluca ve uyum içinde aynı hakikate işaret ettiğini kuvvetlendirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p25:lisans:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada yalnız tek tek hayvanlar mı öne çıkarılır, yoksa toplu bir tablo mu kurulur?",
+          "answer": "Toplu bir tablo kurulur; bütün türlerin birleşik şahitliği öne çıkarılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki üçüncü delil, benzer tohum mahiyetindeki canlı başlangıçları ile hangi sonuç arasındaki ilişkiye dikkat çeker?",
+          "answer": "Birbirine yakın başlangıçlardan çok farklı ve sayısız hayvan biçimlerinin ortaya çıkmasına dikkat çeker.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Hayvanların suretleri hangi bakımlardan övülerek anlatılır?",
+          "answer": "Ölçülü olmaları, dengeli görünmeleri ve yanlışsız meydana gelmeleri bakımından övülür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "“Birer hikmet mucizesi” denmesi, hayvanların hangi yönünü öne çıkarır?",
+          "answer": "Her birinin sıradan değil, anlamlı ve ince bir düzenle yaratılmış olduğunu öne çıkarır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü hakikat için çok parlak denmesi, metnin ispat tarzı bakımından ne ifade eder?",
+          "answer": "Bu delilin açık, güçlü ve inkârı zor bir kanıt olduğunu ifade eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde delillerin hayvan sayısınca gösterilmesi nasıl anlaşılmalıdır?",
+          "answer": "Her bir hayvanın kendi varlığıyla bu gerçeğe ayrı bir tanıklık yaptığı şeklinde anlaşılmalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Hayvanların hep birlikte tevhid şehadeti getirmesi, metinde bireysel mi kozmik mi bir görünüm taşır?",
+          "answer": "Kozmik bir görünüm taşır; yeryüzü çapında bir ilan gibi gösterilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Yeryüzünün gök ehline duyurur gibi tasvir edilmesi hangi anlamı taşır?",
+          "answer": "Bu şehadetin küçük ve dar bir çevreyle sınırlı olmayıp çok büyük bir kapsam taşıdığını anlatır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada geçen üçüncü hakikat, hayvanların hangi yönü üzerinden kurulmuştur?",
+          "answer": "Türlerinin ve şekillerinin ortaya çıkışı üzerinden kurulmuştur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre hayvan suretlerindeki farklılık sıradan bir değişiklik midir?",
+          "answer": "Hayır, çok çeşitli ve dikkat çekici tarzlarda gerçekleşen bir farklılıktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Suretlerin “hatasız” oluşu hangi kavrama daha yakındır: düzensizlik mi hikmet mi?",
+          "answer": "Hikmete daha yakındır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu bölümde sayısız hayvan türünün varlığı nasıl bir ispat değeri taşır?",
+          "answer": "Her tür ve her fert, yaratılıştaki hikmetin ayrı bir delili olarak görülür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "“Sened” ve “delil” ifadeleri birlikte düşünüldüğünde, hayvanların varlığı ne vazife görür?",
+          "answer": "Tevhidi doğrulayan canlı birer belge vazifesi görür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metin, hayvanların şehadetini yalnız sözlü bir anlatım gibi mi verir?",
+          "answer": "Hayır, onların varlık yapısı ve yaratılış düzeniyle fiilî bir şahitlik olarak verir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Yeryüzünün büyük bir insan gibi tasvir edilmesi, hayvanların şehadetini hangi ölçekte gösterir?",
+          "answer": "Küllî ve bütün dünyayı kuşatan bir ölçekte gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü hakikatte, canlıların ilk maddeleri arasında hangi ortak özellik vurgulanır?",
+          "answer": "Birbirine benzemeleri ve sayıca sınırlı olmaları vurgulanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Buna karşılık ortaya çıkan hayvan suretlerinde hangi karşıt özellik öne çıkarılır?",
+          "answer": "Sınırsız denecek kadar çok çeşitlilik ve belirgin farklılık öne çıkarılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p25:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Metin, bu çeşitliliğin gelişigüzel değil hangi vasıflarla ortaya çıktığını bildirir?",
+          "answer": "Düzen, denge ve kusursuzluk içinde ortaya çıktığını bildirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Buradaki akıl yürütmede “benzerden farklı çıkması” neyin işareti sayılır?",
+          "answer": "Bilinçli bir yaratma ve hikmetli bir yönlendirmenin işareti sayılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p25:lisans:S4Q1",
+            "ayetul-kubra:p25:lisans:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Hayvanlar adedince delil bulunması, nicelik bakımından nasıl bir vurgu yapar?",
+          "answer": "Delillerin son derece bol ve yaygın olduğunu vurgular.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde hayvanların tüm türlerinin birlikte şehadet etmesi hangi kavramla daha iyi ifade edilir: dağınıklık mı ittifak mı?",
+          "answer": "İttifak kavramıyla daha iyi ifade edilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu ittifakın sonucu olarak hangi tevhid cümlesine işaret edilir?",
+          "answer": "Allah’tan başka ilah bulunmadığını bildiren tevhid ilanına işaret edilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p25:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Yeryüzünün bir insan gibi düşünülmesi, cansız bir zemine ne kazandırır?",
+          "answer": "Ona temsilî bir bütünlük ve ortak ses kazandırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Gök ehline duyurma benzetmesi, şehadetin hangi yönünü güçlendirir?",
+          "answer": "Büyüklüğünü ve yankı uyandıran kuvvetini güçlendirir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin bu kısmında üçüncü hakikat hangi canlı grubuna aittir?",
+          "answer": "Hayvanlar âlemine aittir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Üçüncü hakikat, hayvanların suretlerinin ortaya çıkışını hangi iki kutup arasında düşünmeye sevk eder?",
+          "answer": "Benzer ve sınırlı başlangıçlar ile çok farklı ve sayısız sonuçlar arasında düşünmeye sevk eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Hayvan şekillerinin açılması sadece çoklukla mı anlatılır, yoksa kalite yönü de var mıdır?",
+          "answer": "Kalite yönü de vardır; ölçü, denge ve kusursuzluk vurgulanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu kusursuzluk, metinde hangi inanç esasını destekleyen bir işaret hâline gelir?",
+          "answer": "Allah’ın birliğini destekleyen bir işaret hâline gelir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Her hayvanın bir delil sayılması, varlıklara nasıl bir anlam yükler?",
+          "answer": "Onları sadece canlı değil, aynı zamanda hakikati gösteren işaretler olarak görür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Üç hakikatin birleşmesiyle ortaya çıkan şehadet, tek bir türle mi sınırlıdır?",
+          "answer": "Hayır, bütün hayvan türlerini kapsar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bütün türlerin ortak tanıklığı nasıl bir manevî tablo meydana getirir?",
+          "answer": "Yeryüzünü toplu bir zikir ve tevhid ilanı yapan büyük bir sahne hâline getirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metindeki temsil, yeryüzünü neden büyük bir insana benzetir?",
+          "answer": "Çeşitli canlıların ortak sesini tek ve güçlü bir şahitlik olarak göstermek için benzetir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü hakikatte, hayvanların başlangıç aşamasındaki benzerlik hangi örneklerle anlatılır?",
+          "answer": "Yumurta, yumurtacık ve nutfe örnekleriyle anlatılır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu başlangıç örneklerinin ortak yönü nedir?",
+          "answer": "Birbirine benzeyen, sınırlı ve basit görünen yapılar olmalarıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Buna rağmen ortaya çıkan hayvan suretleri nasıl nitelendirilir?",
+          "answer": "Pek çok çeşitte, hikmet taşıyan, düzenli ve dengeli biçimler olarak nitelendirilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metin, bu oluşumda yanlış ve kusur bulunmadığını söyleyerek neyi reddetmiş olur?",
+          "answer": "Gelişigüzelliği ve şuursuz bir meydana gelişi reddetmiş olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p25:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Hayvan sayısınca delil bulunması, okuyucunun hangi sonuca varmasını kolaylaştırır?",
+          "answer": "Bu hakikatin tek tük değil, her yerde görülen yaygın bir gerçek olduğunu anlamasını kolaylaştırır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Üç hakikatin birlikte verdiği mesaj nedir?",
+          "answer": "Bütün hayvan çeşitlerinin Allah’ın birliğini birlikte ilan ettiğidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Buradaki şehadet sadece iç dünyaya dönük bir mana mı taşır, yoksa dışa dönük bir ilan da içerir mi?",
+          "answer": "Dışa dönük bir ilan da içerir; yeryüzünün bunu göklere duyurduğu tasvir edilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p25:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Yeryüzünün seslenir gibi gösterilmesi hangi edebî amaçla kullanılmıştır?",
+          "answer": "Tevhid şehadetinin büyüklüğünü ve canlılığını zihinde kuvvetle canlandırmak amacıyla kullanılmıştır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p25:lisans:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p25:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu parçada “bütün” ve “hadsiz” gibi anlamlar neden önemlidir?",
+          "answer": "Çünkü delilin hem kapsamını hem de kuvvetini artırır; tekil değil küllî bir şahitlik gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

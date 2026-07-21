@@ -1,0 +1,329 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:5-sinif:p03",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "5-sinif",
+  "partNo": "p03",
+  "partNumber": 3,
+  "title": "2. Mes'elenin Hülâsası: Ölümün kat'îliği ve kabirden kurtuluş çâresi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/5-sinif/SveC_5sinif_meyve-risalesi-p03-2-meselenin-hulasasi-olumun-katiligi-ve-kabirden-kurtulus-caresi.txt",
+  "sourceRevision": "a8b7a24714e8143ef888ee052d489771b53e6966b4196a382787fc4e12f3f16d",
+  "setCount": 6,
+  "questionCount": 25,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde ölümün geleceği hangi günlük olaylara benzetilerek anlatılıyor?",
+          "answer": "Gecenin gündüzden sonra gelmesi ve kışın güzden sonra gelmesi gibi kesin bir şey olarak anlatılıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Hapishanenin geçici bir misafir yerine benzetilmesinin sebebi nedir?",
+          "answer": "Çünkü insanlar oraya sürekli girip çıkar, orada kalış devamlı değildir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Yeryüzü neden kısa süre kalınan bir konak yeri gibi gösteriliyor?",
+          "answer": "Çünkü insanlar dünyada kalıcı değildir; gelir, bir süre yaşar ve sonra giderler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre ölüm karşısında insanın en büyük derdi nedir?",
+          "answer": "Ölümden ve kabir yalnızlığından kurtuluş yolunu bulmaktır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu derde bir çözüm bulunduğu hakkında ne söyleniyor?",
+          "answer": "Bir çare olduğu ve bunun çok açık şekilde ispat edildiği bildiriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p03:5-sinif:S1Q4"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada ölüm için nasıl bir kesinlik vurgulanıyor?",
+          "answer": "Ölümün mutlaka geleceği, bundan kaçış olmadığı vurgulanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Dünya hayatının bir han veya konak yerine benzetilmesi bize ne öğretir?",
+          "answer": "Dünyanın asıl yurt olmadığını, burada geçici bulunduğumuzu öğretir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre kapanmayan iki şey nedir?",
+          "answer": "Ölümün gelmesi durmuyor ve kabre giriş yolu kapanmıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanın bu durumda en çok önem vermesi gereken şey ne olur?",
+          "answer": "Ahiret için kurtuluş yolunu aramak olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p03:5-sinif:S2Q1"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde ölümün apaçık olduğu nasıl anlatılıyor?",
+          "answer": "Herkesin bildiği tabii olaylar gibi açık ve şüphesiz bir gerçek olarak anlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Hapishane ile dünya arasında kurulan ortak özellik nedir?",
+          "answer": "İkisinin de kalıcı olmayıp gelip geçilen yerler olmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Ölümün “en büyük mesele” sayılmasının sebebi nedir?",
+          "answer": "Çünkü herkesi bulur ve insanın sonunu doğrudan ilgilendirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bölüme göre insanı en çok korkutabilecek iki şey hangileridir?",
+          "answer": "Ölümün kendisi ve kabirdeki yalnızlık düşüncesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde insanlara hangi kaçınılmaz gerçek hatırlatılıyor?",
+          "answer": "Ölümün mutlaka geleceği hatırlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Dünyanın yol üstünde bir gecelik kalınan yer gibi anlatılması, ömrün hangi yönünü öne çıkarır?",
+          "answer": "Ömrün kısa ve geçici oluşunu öne çıkarır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Ölümün sırrını çözmekten söz edilince hangi mesele açıklanmak isteniyor?",
+          "answer": "Ölümün yok olup gitmek mi, yoksa başka bir hayata geçmek mi olduğu açıklanmak isteniyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanın ölümden kurtuluş çaresi varsa buna neden çok önem vermesi gerekir?",
+          "answer": "Çünkü bu, bütün hayatından daha üstün ve sonunu belirleyen bir meseledir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın başında ölüm hangi yönüyle ele alınıyor?",
+          "answer": "Kesin ve inkâr edilemez bir gerçek oluşuyla ele alınıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Hapishaneye giren ve çıkanların çok olması neyi örneklemek için kullanılıyor?",
+          "answer": "Dünyadaki insanların da gelip geçici olduğunu örneklemek için kullanılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre ölüm karşısında insan niçin çaresiz görünür?",
+          "answer": "Çünkü ölüm durdurulamıyor ve kabre gitmek engellenemiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Buna rağmen insana hangi müjde veriliyor?",
+          "answer": "Kurtuluş için bir yol bulunduğu müjdesi veriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p03:5-sinif:S5Q3"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metin, ölümün geleceğini anlatırken hangi benzetmelerle öğrencinin anlayacağı kadar açık konuşuyor?",
+          "answer": "Gece ile kışın vakti gelince gelmesi gibi açık benzetmeler yapıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Dünyanın bir konak yeri gibi görülmesi, insanın yaşamını nasıl değerlendirmesine yardım eder?",
+          "answer": "Kalıcı şeylere hazırlanmasına ve geçici şeylere aldanmamasına yardım eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Ölümün çözülmesi gereken bir bilmece gibi sunulması ne demektir?",
+          "answer": "İnsan için ölümün anlamını doğru kavramanın çok önemli olması demektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p03:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Parçada insanın en üstün endişesi olarak ne gösteriliyor?",
+          "answer": "Ölüm ve kabir tehlikesinden kurtuluş yolu gösteriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

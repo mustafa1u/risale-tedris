@@ -1,0 +1,816 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:lisans:p87",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "lisans",
+  "partNo": "p87",
+  "partNumber": 87,
+  "title": "11. Mes'ele: Melaikeye iman (Münker-Nekir ve kabirde suale cevap)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/lisans/SveC_lisans_meyve-risalesi-p87-11-mesele-melaikeye-iman-munker-nekir-ve-kabirde-suale-cevap.txt",
+  "sourceRevision": "5bf340348078d4b0d5e06fb34c8d725d280b81b3589fdba1f1d16dcdc8428856",
+  "setCount": 6,
+  "questionCount": 68,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde kabir nasıl bir yer olarak hayal edilmiştir ve bu tasavvur hangi duyguları doğurmuştur?",
+          "answer": "Kabir, tek başınalığın ağır hissedildiği, dar, karanlık ve ürkütücü bir yer gibi düşünülmüştür; bu da korku, ürperti ve ümitsizlik meydana getirmiştir.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu sıkıntılı hal hangi gelişmeyle değişmiştir?",
+          "answer": "Sual meleği olan iki mübarek vazifeli ortaya çıkınca o daralma yerini ferahlığa bırakmıştır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "O anda hem kalpte hem kabir tasavvurunda ne tür bir dönüşüm yaşanmıştır?",
+          "answer": "İç dünyada genişlik ve huzur oluşmuş, kabir karanlık bir kapanış yeri olmaktan çıkıp aydınlanan bir menzil gibi görünmüştür.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Ruhlar âlemine pencere açılması neyi ima etmektedir?",
+          "answer": "Ölümden sonrasının bütünüyle kopuş olmadığını, başka bir hayata geçiş ve bağlantı bulunduğunu göstermektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Medrese talebesinin kabirde verdiği cevap neden dikkat çekicidir?",
+          "answer": "Çünkü sorulan manevî soruyu kendi öğrendiği dil bilgisi çerçevesinde anlamış ve buna göre cevap vererek beklenmedik, nükteli bir durum ortaya çıkarmıştır.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu olayda ilahî rahmetin tecellisi nasıl anlatılmaktadır?",
+          "answer": "Ortaya çıkan samimi ve saf hal, cezaya değil rahmete vesile olan hoş bir tabloya dönüşmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Hâfız Ali’nin kabirdeki tavrı hangi yönüyle medrese talebesine benzetilmektedir?",
+          "answer": "İkisi de ölüm sonrası sorguda dünyada çok meşgul oldukları ilim ve hakikatlerle karşılık vermektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Hâfız Ali’nin cevabının kaynağı ne olarak gösterilmektedir?",
+          "answer": "Gönülden bağlı olduğu ve yazıp okuyarak yaşadığı iman hakikatleri olarak gösterilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde Risale-i Nur talebeleri için nasıl bir gelecek ümidi dile getirilmektedir?",
+          "answer": "Onların da kabirdeki suallere sağlam delillerle cevap verip görevli meleklere doğrulatacak derecede hazırlıklı olacakları ümit edilmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Burada “şimdi manen, ileride hakikaten” tarzındaki ifade ne anlatır?",
+          "answer": "Şu anda zihnen ve kalben hazırlanmanın, ileride fiilen yaşanacak hale bir ön alıştırma olduğu anlatılır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın ana fikri nedir?",
+          "answer": "Meleklere iman, özellikle kabir sorgusunu korku kaynağı olmaktan çıkarıp ümit, hazırlık ve teselli vesilesi hâline getirir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada meleklere imanın hangi özel yönü örnekle açıklanmaktadır?",
+          "answer": "Kabirde sorgu melekleriyle karşılaşma meselesi üzerinden bu imanın teselli edici yönü açıklanmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Kişinin kendi kabrine girdiğini düşünmesi, anlatımda hangi amaca hizmet eder?",
+          "answer": "Soyut bir inanç meselesini şahsî tecrübe gibi hissettirip okuyucunun meseleyi daha canlı kavramasını sağlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Kabirdeki yalnızlık tasviri insanın hangi temel ihtiyacını öne çıkarır?",
+          "answer": "Destek, yakınlık ve emniyet ihtiyacını öne çıkarır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Münker ve Nekir’in gelişi neden korkuyu tamamen artırmak yerine huzura çevirmiştir?",
+          "answer": "Çünkü onlar düşman değil vazifeli ve mübarek varlıklar olarak görülmüş, bu da kabri sahipsiz bir yer olmaktan çıkarmıştır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Kalbin genişlemesi ile kabrin genişlemesi arasında nasıl bir ilişki kurulmuştur?",
+          "answer": "İç huzur artınca dış şartların algısı da değişmiş; manevî ferahlık kabir tasavvuruna da yansımıştır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Medrese talebesinin verdiği cevapta hangi tür yanlış anlama vardır?",
+          "answer": "Dinî sorgu, dil bilgisi dersi sorusu gibi anlaşılmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Buna rağmen bu hadisenin olumlu sonuçlanması neye bağlanmaktadır?",
+          "answer": "Samimiyete, saf niyete ve ilahî rahmete bağlanmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde keşif sahibi kişinin bulunması, olayın hangi yönünü güçlendirir?",
+          "answer": "Hadisenin sadece bir mizah unsuru değil, manevî bir vakıa olarak aktarıldığı izlenimini güçlendirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Hâfız Ali’nin hapisteyken yaptığı faaliyet ile kabirdeki cevabı arasında nasıl bir bağ vardır?",
+          "answer": "Dünyada hangi hakikatle yaşadıysa, ölüm sonrasında da onunla konuşacak derecede o hakikat onda yerleşmiştir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Risale-i Nur talebeleri için belirtilen kabir hazırlığı yalnız ezber anlamına mı gelir?",
+          "answer": "Hayır; delilleri kavrayıp içselleştirmek, kalben benimsemek ve manen hazır olmak anlamına gelir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada korku ile sevinç arasındaki geçiş neye dayanmaktadır?",
+          "answer": "İnancın, ölüm ve kabir hakkında bakışı değiştirmesine dayanmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajdan bir öğrenci için çıkarılabilecek pratik ders nedir?",
+          "answer": "İman esaslarını yüzeysel değil, delilleriyle öğrenmek gerekir; çünkü bu bilgi yalnız dünyada değil, ahiret açısından da hazırlık sağlar.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İki görevli meleğin “arkadaş” gibi nitelenmesi neyi gösterir?",
+          "answer": "Doğru imanla bakıldığında ahiret sahnelerinin tamamen yabancı ve düşmanca görülmediğini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Kabir sahnesindeki aydınlanma ve ısınma, hangi manevî manaya işaret eder?",
+          "answer": "Ümitsizliğin yerini rahmet beklentisinin ve emniyet duygusunun almasına işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Ruhlar âlemine açılan pencere ifadesi ölüm anlayışını nasıl değiştirir?",
+          "answer": "Ölümü yok oluş değil, başka bir varlık safhasına geçiş olarak düşündürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Nahiv öğrencisinin kıssası neden metne yerleştirilmiş olabilir?",
+          "answer": "Kabir sorgusunun yalnız korku tarafını değil, rahmet ve latifelik boyutunu da göstermek için yerleştirilmiş olabilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu kıssada öğrencinin cehaleti mi, yoksa başka bir hâli mi öne çıkmaktadır?",
+          "answer": "Cehaletinden çok, alıştığı ilim diliyle düşünmesi ve saf tabiatı öne çıkmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Olayda hem meleklerin hem ruhların hem de manevî keşif sahibi kişinin gülmesi neyi anlatır?",
+          "answer": "Hadisenin sert bir azap sahnesine dönüşmediğini, rahmetle kuşatılmış latif bir karşılaşma olduğunu anlatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Hâfız Ali örneği niçin özellikle zikredilmiştir?",
+          "answer": "İman hakikatlerine hizmet eden bir kimsenin bu hizmetinin ölüm sonrasında da fayda vereceğini göstermek için zikredilmiştir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Risale-i Nur talebelerinin melekleri tasdike sevk edeceği umudu neyi vurgular?",
+          "answer": "İmanî delillerin kuvvetini ve bu delilleri bilenlerin sağlam bir duruş kazanacağını vurgular.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde bilgi ile iman arasında nasıl bir ilişki kurulmuştur?",
+          "answer": "Bilginin kuru malumat olarak kalmayıp imanı destekleyen, kişiyi ahirete hazırlayan bir kuvvete dönüşmesi gerektiği gösterilmiştir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın genel tonunu en iyi hangi iki kelime özetler?",
+          "answer": "Teselli ve hazırlık.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada kabre girişin hayal yoluyla tasvir edilmesi, okuyucuya nasıl bir etkide bulunur?",
+          "answer": "Kişiyi meseleye dışarıdan değil, bizzat yaşayacakmış gibi yaklaştırır ve tefekkürü derinleştirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Kabirdeki ilk ruh hali neden “mutlak ayrılık” şeklinde hissedilmektedir?",
+          "answer": "Çünkü orası insanın dünya bağlarından kopmuş, tek başına kalmış gibi göründüğü bir makam olarak düşünülmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Sorgu meleklerinin gelişiyle meydana gelen değişim, meleklere imanın hangi meyvesini gösterir?",
+          "answer": "Korkutucu görünen bir ahiret menzilinde bile ümit ve yakınlık duygusu doğurmasını gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kalp ile kabir arasındaki eş zamanlı değişim bize ne öğretir?",
+          "answer": "İnsan iç dünyasını imanla düzeltince dışarıdaki zor hâlleri de farklı görmeye başlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Medrese talebesinin cevabı, eğitim hayatının ölüm sonrasına dair bilinçte iz bırakabileceğini nasıl gösterir?",
+          "answer": "Kişinin sürekli meşgul olduğu dersler, düşünme biçimine yerleşir ve olağanüstü anlarda bile kendini gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu kıssanın azaptan kurtuluşla sonuçlanması, ilahî muamelenin hangi yönünü düşündürür?",
+          "answer": "Sadece zahirî şekle göre değil, kulun niyeti ve safiyetine göre rahmetle muamele edildiğini düşündürür.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:lisans:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Hâfız Ali’nin ölüm anındaki meşguliyeti neden önemlidir?",
+          "answer": "Çünkü son hâlinin iman hizmetiyle dolu olması, kabirdeki cevabının da o istikamette olacağını göstermektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Risale-i Nur talebelerinin manen cevap vermesi ne demektir?",
+          "answer": "Henüz kabir hayatına girmeden önce o sorulara kalben ve fikren hazır hâle gelmeleri demektir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Gelecekte hakikaten cevap verileceğinin söylenmesi hangi inancı pekiştirir?",
+          "answer": "Kabir sorgusunun gerçek olduğunu ve buna şimdiden hazırlanmanın anlamlı bulunduğunu pekiştirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Parçadan hareketle, dinî ilimlerin en önemli faydalarından biri nasıl ifade edilebilir?",
+          "answer": "İnsan yalnız dünyada bilgi sahibi olmaz; o bilgi doğru biçimde içselleşirse ahiret yolculuğunda da destek olur.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajın okuyucuya vermek istediği temel ahlâkî yönlendirme nedir?",
+          "answer": "Ölümü unutmadan, kabir sualine hazırlanacak şekilde imanî hakikatleri ciddiyetle öğrenmek ve yaşamak gerekir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde mezar düşüncesi ilk aşamada nasıl bir psikolojik tablo ortaya koymaktadır?",
+          "answer": "İnsan kendini terk edilmiş, sıkışmış ve ürkmüş hisseden ağır bir ruh hâline giriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "O karanlık tabloyu dağıtan unsur nedir?",
+          "answer": "Sorgu için gelen iki meleğin rahmet tarafını hissettiren varlığıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Meleklerin “münazara”ya başlaması nasıl anlaşılmalıdır?",
+          "answer": "Sadece korkutucu bir sorgu değil, cevap vermeyi gerektiren ciddi bir karşılaşma olarak anlaşılmalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu karşılaşmanın ardından duyulan sevinç hangi inanç esasına dayanır?",
+          "answer": "Ahiretin sahipsiz ve başıboş olmadığını, ilahî düzen içinde sürdüğünü bilmeye dayanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Nahiv talebesinin hikâyesi metne hangi anlatım rengini katmaktadır?",
+          "answer": "Ciddiyet içinde latif bir nükte katarak metni tek yönlü korku havasından çıkarır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Talebenin cevabında dinî bilgi mi dil bilgisi mi öne çıkmıştır?",
+          "answer": "Dil bilgisi öne çıkmıştır; çünkü soruyu kendi ders alanına göre değerlendirmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:lisans:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Buna rağmen sonucun hayırlı olması hangi ilkeye işaret eder?",
+          "answer": "Samimiyet ve masumiyetin ilahî rahmete vesile olabileceği ilkesine işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:lisans:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Hâfız Ali örneğinde hangi özellik ön plandadır?",
+          "answer": "İman hizmetine sevgiyle bağlılık ve öğrendiği hakikatleri benimsemiş olmak ön plandadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Kabirde verilen cevapların “hakikatler” ile olması neyi gösterir?",
+          "answer": "Cevabın ezberlenmiş sözlerden değil, delile dayalı sağlam imandan kaynaklandığını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Risale-i Nur talebeleri hakkında kullanılan umut dolu ifade, eğitim açısından neyi teşvik eder?",
+          "answer": "Öğrenciyi iman meselelerini güçlü delilleriyle öğrenmeye ve onları hayatına yerleştirmeye teşvik eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada ahiret korkusu nasıl yönetilmektedir?",
+          "answer": "Korku inkâr edilmeden, iman ve hazırlık sayesinde teselliye dönüştürülmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün pasaj tek cümleyle nasıl özetlenebilir?",
+          "answer": "Meleklere ve ahiret sorgusuna iman eden, bu hakikatleri sağlam delillerle öğrenirse kabir korkusunu ümit ve huzura çevirebilir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde kabir neden “dar bir yalnızlık yeri” olarak resmedilmektedir?",
+          "answer": "İnsan açısından dünya ilişkilerinin bittiği ve kendi başına kalacağı düşünüldüğü için böyle resmedilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu tasvirin ardından gelen melek sahnesi, anlatıda nasıl bir zıtlık kurar?",
+          "answer": "Önce dehşet ve ıssızlık gösterilir, sonra buna karşılık ünsiyet, nur ve ferahlık gelir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p87:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Kabirdeki vazifenin iki melek tarafından yürütülmesi, ahiret hayatı hakkında hangi düşünceyi destekler?",
+          "answer": "Ahiret safhasının düzenli, görevli varlıklarla kuşatılmış ve ilahî nizam altında olduğunu destekler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Ruhlar âlemine açılan pencereler ifadesi bir öğrenciye nasıl açıklanabilir?",
+          "answer": "Ölümün kapalı bir son değil, başka bir âleme açılan geçit olduğunu anlatan bir benzetme olarak açıklanabilir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Nahiv talebesinin hikâyesinde ilmin faydası mı, sınırlılığı mı daha çok hissedilir?",
+          "answer": "İkisi birlikte hissedilir; ilim zihne yerleşmiştir ama meseleye tam uygun olmayan bir çerçevede kullanılmıştır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu hikâyede rahmetin baskın çıkması, kulun hangi niteliğini değerli kılar?",
+          "answer": "Saflık, iyi niyet ve temiz meşgaleyi değerli kılar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Hâfız Ali’nin örneği neden sıradan bir talebe örneğinden daha güçlüdür?",
+          "answer": "Çünkü o, iman hakikatlerine hizmet ederken vefat etmiş ve o hakikatlerle derin bağ kurmuş bir şahıs olarak sunulmaktadır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "“Meyve hakikatleri ile cevap vermek” ifadesinden ne anlaşılır?",
+          "answer": "Öğrendiği imanî meseleleri yalnız okumakla bırakmayıp onları savunabilecek ve ifade edebilecek dereceye ulaşmak anlaşılır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Risale-i Nur talebeleri için zikredilen tasdik ve takdir beklentisi neye dayanır?",
+          "answer": "Ortaya konan delillerin parlak ve kuvvetli kabul edilmesine dayanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metin, ölüm sonrasına hazırlığın hangi zamanda başlaması gerektiğini ima eder?",
+          "answer": "Daha dünyadayken, özellikle hayattayken manen hazırlanmak gerektiğini ima eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu pasajda ilim, iman ve amel arasında nasıl bir bütünlük görülür?",
+          "answer": "Öğrenilen hakikatler kalpte yerleşir, yaşayışa yön verir ve sonunda ahiret yolculuğunda destek olur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p87:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Üniversite çağındaki bir genç bu parçadan kendine hangi temel nasihati çıkarabilir?",
+          "answer": "İman esaslarını delilleriyle öğrenmeli, ölümü uzak görmemeli ve kabir sualine hazırlık olacak bir bilinçle yaşamalıdır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+---
+import { getPartCapabilityItems } from "@/features/library/libraryBook.js";
+import { getUi, type Locale } from "@/i18n";
+import { getGradeShortLabel } from "@/i18n/libraryLabels";
+import { localizedPath } from "@/i18n/routing";
+import { AUGMENTATION_ENABLED, SEARCH_ENABLED } from "@/config/features.js";
+import { PersonalAugmentationList } from "@/features/augmentation/AugmentationIslands.jsx";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import type { LibraryBook } from "@/types/library";
+
+type Props = {
+  book: LibraryBook;
+  locale: Locale;
+};
+
+const { book, locale } = Astro.props as Props;
+const text = getUi(locale);
+const getCapabilityLabel = (item: { key: string; count?: number }) => {
+  switch (item.key) {
+    case "text":
+      return text.book.capabilities.text;
+    case "gradeLevels":
+      return text.book.capabilities.gradeLevels({ count: item.count ?? 0 });
+    case "flashcards":
+      return text.book.capabilities.flashcards;
+    case "questionSheets":
+      return text.book.capabilities.questionSheets;
+    default:
+      return item.key;
+  }
+};
+---
+
+<BaseLayout title={book.title} description={text.book.description({ title: book.title })} locale={locale}>
+  <section class="page-band">
+    <div class="page-band__inner">
+      <nav class="breadcrumb" aria-label={text.common.breadcrumb}>
+        <a href={localizedPath(locale, "/")}>{text.nav.books}</a>
+        <span>/</span>
+        <span>{book.title}</span>
+      </nav>
+      <div class="page-title">
+        <p class="eyebrow">{text.book.eyebrow}</p>
+        <h1>{book.title}</h1>
+        <p class="lede">{text.book.lede({ partCount: book.parts.length, gradeCount: book.grades.length })}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-band page-band--muted">
+    <div class="page-band__inner">
+      <section class="guidance-panel" aria-labelledby="book-guide-heading">
+        <h2 id="book-guide-heading">{text.book.guide.heading}</h2>
+        <p>{text.book.guide.body}</p>
+      </section>
+
+      <div
+        class="toolbar"
+        data-part-toolbar
+        data-search-fallback="metadata"
+        data-full-text-search-enabled={String(SEARCH_ENABLED)}
+      >
+        <div class="field">
+          <label for="part-search">{text.book.searchLabel}</label>
+          <input id="part-search" type="search" placeholder={text.book.searchPlaceholder} data-part-search />
+        </div>
+        <div class="field">
+          <label for="grade-filter">{text.book.gradeLabel}</label>
+          <select id="grade-filter" data-grade-filter>
+            <option value="">{text.book.allGrades}</option>
+            {book.grades.map((grade) => (
+              <option value={grade.slug}>{getGradeShortLabel(locale, grade.slug, grade.label)}</option>
+            ))}
+          </select>
+        </div>
+      </div>
+      <p
+        class="filter-status"
+        data-filter-status
+        data-count-one={text.book.resultCount({ count: 1 }).replace("1", "{count}")}
+        data-count-many={text.book.resultCount({ count: 2 }).replace("2", "{count}")}
+        aria-live="polite"
+      >
+        {text.book.resultCount({ count: book.parts.length })}
+      </p>
+
+      {AUGMENTATION_ENABLED ? (
+        <PersonalAugmentationList
+          client:load
+          bookSlug={book.slug}
+          locale={locale}
+          labels={text.augmentation}
+        />
+      ) : null}
+
+      <div class="part-list" data-part-list>
+        {book.parts.map((part) => {
+          const gradeSlugs = Object.keys(part.downloads).join(" ");
+          const partPath = `/books/${book.slug}/parts/${part.partNo}/`;
+          const capabilityItems = getPartCapabilityItems(part);
+
+          return (
+            <article
+              class="part-row"
+              data-part-row
+              data-search={`${part.partNo} ${part.title} ${part.labelSlug}`}
+              data-grades={gradeSlugs}
+            >
+              <div class="part-row__number">{part.partNo.toUpperCase()}</div>
+              <div class="part-row__body">
+                <a class="part-row__title" href={localizedPath(locale, partPath)}>
+                  {part.title}
+                </a>
+                <ul class="meta-list part-row__capabilities" aria-label={text.book.capabilitiesLabel({ partTitle: part.title })}>
+                  {capabilityItems.map((item) => (
+                    <li class="pill">{getCapabilityLabel(item)}</li>
+                  ))}
+                </ul>
+              </div>
+              <a class="button-secondary" href={localizedPath(locale, partPath)}>
+                {text.actions.read}
+              </a>
+            </article>
+          );
+        })}
+      </div>
+      <div class="empty-state" data-filter-empty hidden>{text.book.noResults}</div>
+    </div>
+  </section>
+
+  <script>
+    import { initPartFilters } from "./bookPageClient.js";
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", () => initPartFilters());
+    } else {
+      initPartFilters();
+    }
+  </script>
+</BaseLayout>

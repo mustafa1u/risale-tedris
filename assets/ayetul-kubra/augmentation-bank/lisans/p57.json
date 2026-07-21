@@ -1,0 +1,612 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:lisans:p57",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "lisans",
+  "partNo": "p57",
+  "partNumber": 57,
+  "title": "Kur'an'ın i'caz ve şehadeti (17. mertebe) / Kur'anın semavîliğine imzalar: Bütün tabakaların istifadesi; ulûm ve şeriatın Kur'andan istihracı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/lisans/SveC_lisans_ayetul-kubra-p57-kuranin-icaz-ve-sehadeti-17-mertebe-kuranin-semaviligine-imzalar-butun-tabakalarin-istifadesi-ulum-ve-seriatin-kurandan-istihraci.txt",
+  "sourceRevision": "3e5765c84f82577f80f0b2b20b1fecdf0a5acb5f148539db1076596408503af6",
+  "setCount": 6,
+  "questionCount": 48,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Hedef metinde Kur’an’dan faydalanma bakımından insan toplulukları hangi geniş çerçevede ele alınmaktadır?",
+          "answer": "En düşük anlayış seviyesinden en yüksek ilim ehline kadar bütün insan tabakalarının ondan nasibini aldığı belirtilmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre sıradan insanlar ile derin ilim sahibi kimseler arasında Kur’an’dan yararlanma noktasında ortak olan husus nedir?",
+          "answer": "Her iki kesim de kendi seviyesine uygun şekilde ondan pay almakta ve hakikatten mahrum kalmamaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İslâmî ilimlerle meşgul olan farklı grupların Kur’an’la ilişkisi nasıl açıklanmaktadır?",
+          "answer": "Her ilim ehlinin kendi alanındaki ihtiyaçlarını ve meselelerinin cevaplarını Kur’an’dan çıkardığı ifade edilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu durum, Kur’an’ın hangi temel vasfına delil sayılmaktadır?",
+          "answer": "Hakikatin asli kaynağı ve doğruluğun hazinesi olduğuna işaret kabul edilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Arap edebiyatında ileri seviyede olan fakat İslâm’ı kabul etmeyen kimseler bakımından hangi iddia öne çıkarılmaktadır?",
+          "answer": "Kur’an’a karşı sözle denk bir metin ortaya koymaya ihtiyaç duymalarına rağmen bunu başaramadıkları söylenmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde Kur’an’ın erişilmezliği özellikle hangi yönden örneklendirilmektedir?",
+          "answer": "Mucizelik yönlerinden sadece belâgat tarafı üzerinden bile benzerinin getirilememesiyle örneklendirilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Şöhretli hatipler ve güçlü âlimlerin Kur’an karşısındaki tavrı nasıl tasvir edilmektedir?",
+          "answer": "Karşı koyamayarak susmak zorunda kaldıkları anlatılmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu acziyet, Kur’an hakkında hangi sonuca götürmektedir?",
+          "answer": "İnsan gücünün üstünde bir mucize olduğu sonucuna götürmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S1Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde Kur’an’ın hitabından istifade edenlerin kapsamı nasıl çizilmektedir?",
+          "answer": "Toplumun her kesiminin, ister zayıf anlayışlı ister çok zeki olsun, ondan faydalandığı belirtilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu geniş faydalanma tablosu, Kur’an’ın anlatımında nasıl bir özelliğe işaret eder?",
+          "answer": "Hem avama hem seçkin ilim ehline hitap edebilen kuşatıcı bir yapıya sahip olduğunu gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Büyük müçtehitler ve kelâm sahasındaki araştırmacılar Kur’an’dan ne yapmaktadır?",
+          "answer": "Kendi ilim dallarına dair ihtiyaç duydukları hükümleri ve cevapları ondan çıkarmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu çıkarım faaliyeti Kur’an’ın hangi niteliğini öne çıkarır?",
+          "answer": "Gerçeğin temel kaynağı olması niteliğini öne çıkarır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Arap ediplerinin özellikle hangi alandaki yetersizliği delil olarak kullanılmaktadır?",
+          "answer": "Söz sanatında üstün olmalarına rağmen Kur’an’a denk bir sure ortaya koyamamaları delil yapılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde neden sadece tek bir yönden benzerini getirememeleri ayrıca vurgulanmaktadır?",
+          "answer": "Çünkü Kur’an’ın mucizelik yönleri çoktur; buna rağmen sadece bir yönünde bile karşılık verilememesi aczi daha açık göstermektedir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Muaraza peşinde koşan meşhur belâgat sahiplerinin sonuçta suskun kalması nasıl yorumlanmaktadır?",
+          "answer": "Kur’an karşısında güç yetiremediklerinin fiilî kabulü olarak yorumlanmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İnsanların söz ustalığında geri çekilmesi Kur’an’ın hangi seviyede görüldüğünü gösterir?",
+          "answer": "Beşer kudretini aşan bir seviyede görüldüğünü gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S2Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Hedef pasajın ilk bölümünde Kur’an’ın insanlara hitabı bakımından hangi kapsayıcılık dile getirilmektedir?",
+          "answer": "Akıl ve bilgi seviyesi ne olursa olsun herkesin ondan istifade edebildiği dile getirilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "En derin meselelerin bile anlaşılabilmesi, Kur’an’ın hangi öğretici yönünü gösterir?",
+          "answer": "Farklı seviyelere uygun biçimde hakikati ulaştırabilen bir rehber oluşunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İslâmî ilimlerin çeşitli alanlarında çalışan âlimlerin Kur’an’dan cevap bulması neyi düşündürür?",
+          "answer": "Kur’an’ın sadece ibadet metni değil, aynı zamanda ilim ve hüküm kaynağı olduğunu düşündürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu sebeple Kur’an için hangi iki tanımlayıcı vasıf kullanılmaktadır?",
+          "answer": "Doğrunun kaynağı ve hakikatin madeni olduğu ifade edilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Edebiyat sahasında güçlü olan Arapların başarısızlığı hangi konuda öne çıkarılmaktadır?",
+          "answer": "Kur’an’ın söz güzelliğine denk bir örnek ortaya koyamamalarında öne çıkarılmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde Kur’an’ın mucizeliğinin kaç yönden bulunduğu, fakat örneklemenin özellikle kaçıncı alana dayandırıldığı belirtilmektedir?",
+          "answer": "Birden çok, yani yedi yönden mucize olduğu; örneğin ise özellikle belâgat alanına dayandırıldığı belirtilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Tanınmış beliğler ve dâhi âlimlerin itiraz yerine susması hangi anlama gelir?",
+          "answer": "Kur’an’ın karşısında delil ve güç bulamadıkları anlamına gelir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu tablo, Kur’an’ın insan sözü olup olmadığı meselesinde nasıl bir sonuca götürür?",
+          "answer": "Sıradan insan sözü sayılamayacağı ve olağanüstü bir kelâm olduğu sonucuna götürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S3Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metin, Kur’an’ın anlaşılması konusunda insan seviyeleri arasında nasıl bir köprü kurmaktadır?",
+          "answer": "En sade insan ile en ileri ilim sahibinin aynı kaynaktan pay alabildiğini söyleyerek bir köprü kurmaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Herkesin kendi derecesine göre hisse alması Kur’an’ın hangi özelliğini yansıtır?",
+          "answer": "Evrensel ve kuşatıcı bir eğitim dili taşıdığını yansıtır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Büyük fakihler ve kelâm âlimleri açısından Kur’an’ın işlevi nedir?",
+          "answer": "İhtiyaç duydukları esasları ve cevapları çıkarabilecekleri ana başvuru kaynağıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Buradan hareketle Kur’an için hangi değerlendirme yapılmaktadır?",
+          "answer": "Hakikatin temel menşei olduğu değerlendirmesi yapılmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İslâm’a girmemiş Arap ediplerinin anılması hangi delili kuvvetlendirmek içindir?",
+          "answer": "Tarafsız sayılabilecek söz ustalarının bile Kur’an’a denk bir söz getirememesini göstermek içindir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Tek bir surenin benzerini getirememe iddiası neyi ispatlamak üzere kullanılmaktadır?",
+          "answer": "Kur’an’ın belağat bakımından aşılmaz oluşunu ispatlamak üzere kullanılmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Muaraza etmek isteyen meşhurların sonuçsuz kalması hangi psikolojik ve ilmî durumu gösterir?",
+          "answer": "Hem isteğin bulunduğunu hem de güç yetmediği için geri durulduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İnsan kudretinin üstünde olduğu hükmü hangi gözleme dayandırılmaktadır?",
+          "answer": "En seçkin söz ve ilim sahiplerinin bile karşılık verememesi gözlemine dayandırılmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S4Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Hedef metne göre Kur’an’ın dersinden kimler yararlanabilmektedir?",
+          "answer": "Bilgisi az olanlardan derin ilim sahiplerine kadar herkes yararlanabilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yaygın yararlanma hâli, Kur’an’ın insanlara sunuluş tarzı hakkında ne gösterir?",
+          "answer": "Farklı seviyeleri kuşatan hikmetli bir anlatıma sahip olduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İslâmî ilimlerin uzmanlarının kendi meselelerine cevap bulmak için yöneldikleri yer neresidir?",
+          "answer": "Kur’an’dır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Böyle bir yöneliş, Kur’an’ın hangi değerini teyit eder?",
+          "answer": "Gerçeğin merkezi oluşunu teyit eder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Arapların en güçlü edebiyatçılarının ortaya koyduğu fiilî durum nedir?",
+          "answer": "Kur’an’a benzer bir metin meydana getirememeleridir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde bu acziyetin hangi dar çerçevede bile ortaya çıktığı söylenmektedir?",
+          "answer": "Sadece söz sanatındaki üstünlük yönünde bile ortaya çıktığı söylenmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Ün kazanmak isteyen meşhur edip ve âlimlerin karşı duramaması hangi tür bir delildir?",
+          "answer": "Kur’an’ın üstünlüğünü düşmanlarının bile dolaylı biçimde kabul ettiğini gösteren fiilî bir delildir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Buradan Kur’an hakkında hangi hükme varılmaktadır?",
+          "answer": "Mucize olduğu ve insan takatini aştığı hükmüne varılmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S5Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında Kur’an’ın öğreticiliği hangi insan çeşitliliği üzerinden gösterilmektedir?",
+          "answer": "Zekâ ve bilgi bakımından çok farklı seviyelerde bulunan bütün insan kesimleri üzerinden gösterilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Her tabakanın Kur’an’dan pay alabilmesi, onun hangi yönünü anlamaya yardımcı olur?",
+          "answer": "Hem sade hem derin manaları bir arada taşıyan ilâhî bir hitap olduğunu anlamaya yardımcı olur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Müçtehitler ve kelâmcılar Kur’an’dan sadece genel öğütler mi almaktadır, yoksa daha fazlası mı söz konusudur?",
+          "answer": "Daha fazlası söz konusudur; kendi ilim alanlarının ihtiyaç duyduğu hükümleri ve cevapları ondan çıkarmaktadırlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu çıkarım imkânı, Kur’an’ın hangi sıfatıyla ilişkilendirilmektedir?",
+          "answer": "Hak ve hakikatin menşei olması sıfatıyla ilişkilendirilmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İslâm dışında kalan bazı Arap ediplerinin Kur’an’la ilgili tavrı neden önemlidir?",
+          "answer": "Çünkü edebiyatça güçlü olmalarına rağmen ona denk bir söz getiremeyişleri, tarafgirlikten uzak bir aczi göstermektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metin, Kur’an’ın meydan okuyuşuna cevap verilemeyişini hangi somut örnekle sınırlandırarak anlatmaktadır?",
+          "answer": "Bir surenin benzerini dahi ortaya koyamama örneğiyle anlatmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Karşı koymak isteyen ünlü beliğlerin sessiz kalması neyin göstergesidir?",
+          "answer": "Kur’an’ın i‘cazı karşısında çaresiz kaldıklarının göstergesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p57:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu gösterge, Kur’an’ın kaynağı hakkında hangi ima taşır?",
+          "answer": "İnsan sözü sınırlarını aşan ilâhî bir kaynağa işaret ima eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p57:lisans:S6Q7"
+          ]
+        }
+      ]
+    }
+  ]
+}

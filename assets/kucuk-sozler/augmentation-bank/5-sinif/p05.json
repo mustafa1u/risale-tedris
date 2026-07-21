@@ -1,0 +1,818 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:5-sinif:p05",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "5-sinif",
+  "partNo": "p05",
+  "partNumber": 5,
+  "title": "2. Söz: İmanda saadet ve nimet; temsile giriş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/5-sinif/SveC_5sinif_kucuk-sozler-p05-2-soz-imanda-saadet-ve-nimet-temsile-giris.txt",
+  "sourceRevision": "a1ec70a1d4b415268e7a70c4849b767cb87e492477924b7fa85041069486d5b0",
+  "setCount": 6,
+  "questionCount": 65,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Hikâyenin başında iki adam hangi iki amaçla yola çıkıyor?",
+          "answer": "Gezmek ve alışveriş-kazanç elde etmek için.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki adamın iç dünyaları bakımından en belirgin farkı nedir?",
+          "answer": "Biri yalnız kendini düşünen ve olumsuz bakan biridir; diğeri Allah’ı gözeten, doğru düşünen ve güzel huyludur.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Kötü bakışlı olan adam bulunduğu yeri nasıl görür?",
+          "answer": "Korku, üzüntü ve karışıklık dolu bir yer gibi görür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu adam neden içindeki sıkıntıdan kaçmak ister?",
+          "answer": "Çünkü herkesi yabancı ve düşman gibi görür, etrafta da acıklı sahneler fark eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Sıkıntısını bastırmak için neye yönelir?",
+          "answer": "Sarhoşluğa sığınmaya çalışır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İyi huylu olan adam aynı yeri nasıl değerlendirir?",
+          "answer": "Sevinç, düzen ve dostluk bulunan güzel bir memleket gibi değerlendirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu adam insanlar hakkında nasıl bir duygu içindedir?",
+          "answer": "Onları yakın, dostça ve sıcak kimseler gibi görür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Onun gördüğü toplu sevinç hali neyi andırır?",
+          "answer": "Büyük bir kutlama ve neşeli bir uğurlama havasını andırır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İyi taraftaki adam yolculukta hangi dünya işi bakımından da kazanç elde eder?",
+          "answer": "Ticarette de fayda sağlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Sonunda iki adam karşılaşınca iyi olan, ötekine sorunun asıl kaynağı olarak neyi söyler?",
+          "answer": "Asıl bozukluğun kendi içinde olduğunu, bu yüzden dışarıyı yanlış gördüğünü söyler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "İyi adam, ötekinin gerçeği görebilmesi için ona neyi düzeltmesini öğütler?",
+          "answer": "Aklını toparlamasını ve kalbini temizlemesini öğütler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bedbaht adam sonunda nasıl bir değişim yaşar?",
+          "answer": "Hatasını anlayıp pişman olur ve o kötü halden kurtulduğunu kabul eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Hikâyede aynı yolculuğa çıkan kişiler kaç tanedir?",
+          "answer": "İki kişidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Kendine dönük ve karamsar olan kişi çevresindeki insanları nasıl algılar?",
+          "answer": "Güçsüzlerin ezildiği, insanların tehdit altında olduğu bir ortam gibi algılar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Onun gözünde memleketin genel görünüşü neye benzer?",
+          "answer": "Büyük bir yas ve keder yerine benzer.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu kişinin vicdanı niçin rahat etmez?",
+          "answer": "Gördüğü şeyleri acıklı ve karanlık saydığı için içi sızlar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Allah’ı bilen ve doğru düşünen kişi memlekette hangi güzel tarafları fark eder?",
+          "answer": "Düzen, sevinç, ibadet neşesi ve insanlar arasında yakınlık görür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bu ikinci kişi, duyduğu sesleri nasıl yorumlar?",
+          "answer": "Sevinçli bir çağrı ve görev için toplanma sesi gibi yorumlar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İlk kişi genel halka bakınca üzülürken, ikinci kişi neden ferahlar?",
+          "answer": "Çünkü biri her şeyi felaket gibi, diğeri ise hayırlı ve düzenli bir tablo gibi görür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S2Q3",
+            "kucuk-sozler:p05:5-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Böyle bir yöneticinin ülkesinin, kötü adamın sandığı gibi olması neden uygun görülmez?",
+          "answer": "Çünkü bu kadar düzen ve gelişme bulunan bir yerde o kadar düzensiz ve zalim bir manzara düşünülemez.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Hikâyenin sonunda karamsar kişi neyi kabul eder?",
+          "answer": "Yanlış düşündüğünü ve kendinden kaynaklanan bir bozuklukla baktığını kabul eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Temsildeki iki yolcudan biri neden talihsiz sayılır?",
+          "answer": "Çünkü bencil, karamsar ve kötü değerlendiren bir yapısı vardır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Diğer yolcu neden bahtiyar olarak anlatılır?",
+          "answer": "Çünkü Allah’a yönelen, doğru düşünen ve güzel ahlâklı biridir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Talihsiz adamın baktığı yerde en çok hangi duygu öne çıkar?",
+          "answer": "Keder ve korku öne çıkar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu olumsuz bakış onun insanlarla ilişkisini nasıl etkiler?",
+          "answer": "Herkesi kendisine karşı gibi düşünür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bahtiyar adamın baktığı yerde hangi duygular öne çıkar?",
+          "answer": "Sevinç, umut ve yakınlık duyguları öne çıkar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Onun çevreyi dostça görmesi, iç dünyası hakkında ne gösterir?",
+          "answer": "Kalbinin temiz ve bakışının sağlıklı olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İyi adam, arkadaşına dışarıdaki bozukluk kadar içerideki bozukluğun da önemli olduğunu nasıl anlatır?",
+          "answer": "İçteki çirkinliğin dışarıyı da çirkin gösterdiğini söyleyerek anlatır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Arkadaşına “perde kalksın” derken neyi kasteder?",
+          "answer": "Gerçeği görmeyi engelleyen yanlış düşüncenin gitmesini kasteder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Memlekette görülen ilerleme ve düzen, hangi sonuca delil sayılır?",
+          "answer": "Oranın kötü ve sahipsiz değil, hikmetli bir idare altında olduğuna delil sayılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Karamsar adamın sonunda pişman olması neyi gösterir?",
+          "answer": "Yanlış anlayıştan dönmenin mümkün olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Yolculuğa çıkan iki adamın ortak yanı nedir?",
+          "answer": "İkisi de aynı yolculuğa çıkmıştır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İlk adamın kendine zarar veren üç özelliği nasıl özetlenebilir?",
+          "answer": "Bencil olması, kötü düşünmesi ve sadece kendi çıkarını gözetmesidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu özellikler onun bulunduğu memleketi görme biçimini nasıl değiştirir?",
+          "answer": "Her yeri acı, korku ve tehdit dolu göstermesine sebep olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İlk adam neden çevresindeki kimseleri yakın hissetmez?",
+          "answer": "Onları yabancı ve düşman gibi gördüğü için.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İlk adamın yaşadığı iç azap hangi duygudan beslenir?",
+          "answer": "Umutsuzluk ve yanlış yorumdan beslenir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci adamın güzel ahlâkı onun çevresini algılamasına nasıl yansır?",
+          "answer": "Çevresinde sevinç, dostluk ve anlam görmesine yansır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci adamın memlekette kutlama gibi bir hava görmesi neye işaret eder?",
+          "answer": "Olayları hayırlı ve düzenli bir gözle değerlendirdiğine işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci adamın ticarette de kazançlı çıkması neyi düşündürür?",
+          "answer": "Doğru bakışın hem gönle hem dünya işlerine bereket getirebildiğini düşündürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "İyi adamın arkadaşına söylediği sözlerde en güçlü uyarı nedir?",
+          "answer": "Yanlış hayallerle gerçeği bozup görmemesi gerektiği uyarısıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Arkadaşına kalbini temizle demesi neden önemlidir?",
+          "answer": "Çünkü doğru görmek sadece gözle değil, temiz bir iç dünyayla da ilgilidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Kötü durumdaki adam, düzeldikten sonra arkadaşına karşı hangi duyguyu gösterir?",
+          "answer": "Minnet ve teşekkür duygusu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde birinci yolcu hangi sebeple “bedbaht” durumuna düşer?",
+          "answer": "Yanlış bakışı ve kötü huyları yüzünden.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Onun gözünde memleketteki zayıf insanlar nasıl bir halde görünür?",
+          "answer": "Sert ve zalim kişilerin elinde eziliyor gibi görünür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bütün ülkenin ona bir yas yeri gibi görünmesi neyi gösterir?",
+          "answer": "İç dünyasının karardığını gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu adam acı veren hali hissetmemek için ne yapmaya çalışır?",
+          "answer": "Kendini uyuşturacak bir yola kaçmaya çalışır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci yolcu memlekette ne tür bir toplu hava sezmiştir?",
+          "answer": "Sevinçli, canlı ve ibadet neşesi taşıyan bir hava sezmiştir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanları dost ve akraba gibi görmesi onun hangi yönünü ortaya koyar?",
+          "answer": "Güven dolu ve güzel bakışlı olduğunu ortaya koyar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci yolcunun işittiği sesler ona neden korkutucu gelmez?",
+          "answer": "Çünkü onları hayırlı bir çağrı ve düzenli bir hareket olarak anlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci yolcunun sevinci yalnız kendisiyle sınırlı mıdır?",
+          "answer": "Hayır, başkalarının sevinciyle de mutlu olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Sonraki konuşmada iyi adam, arkadaşının yanlış yorumunu neye bağlar?",
+          "answer": "İçindeki bozuklukların dışarıya yansımasına bağlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Memleketin güçlü, şefkatli ve adaletli bir hükümdara ait olduğunun söylenmesi hangi yanlış anlamayı düzeltir?",
+          "answer": "Her yerin sahipsiz, karışık ve zalimce olduğu düşüncesini düzeltir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bedbaht adamın pişman olması onun için nasıl bir başlangıç sayılabilir?",
+          "answer": "Doğruyu fark etme ve düzelme başlangıcı sayılabilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Metin, insanın dış dünyayı görmesinde hangi iç özelliklerin önemli olduğunu anlatır?",
+          "answer": "İnanç, kalp temizliği, güzel ahlâk ve doğru düşünce önemlidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Hikâyede iki kişinin aynı yolculuğu yapmasına rağmen farklı sonuçlara ulaşmasının temel sebebi nedir?",
+          "answer": "Aynı olaylara farklı gözle bakmalarıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Hodbin olan kişi, bulunduğu yerde en çok hangi olumsuzlukları fark eder?",
+          "answer": "Zorbalık, acizlik, keder ve korku gibi olumsuzlukları fark eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu kişinin herkesi düşman gibi görmesi onun ruh halini nasıl açıklar?",
+          "answer": "Güvensiz ve karanlık bir ruh halinde olduğunu açıklar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Hudâbin olan kişi, aynı memlekette niçin bambaşka bir tablo görür?",
+          "answer": "Çünkü o, olaylara imanla, iyi niyetle ve güzel ahlâkla bakar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Onun gördüğü neşeli ortam, insanlar hakkında nasıl bir hükme varmasına yol açar?",
+          "answer": "İnsanların dostça ve yakın kimseler olduğu hükmüne varır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu kişinin memlekette hem sevinç hem de düzen görmesi hangi düşünceyi güçlendirir?",
+          "answer": "Ortada hikmetli ve merhametli bir idare bulunduğu düşüncesini güçlendirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p05:5-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İyi adamın arkadaşına yaptığı konuşmada asıl hedef nedir?",
+          "answer": "Onu yanlış bakıştan kurtarıp gerçeği fark ettirmektir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "“Kalbini temizle” öğüdü sadece duygu ile mi ilgilidir, yoksa anlayışla da ilişkili midir?",
+          "answer": "Anlayışla da ilişkilidir; çünkü temiz kalp doğru görmeye yardım eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bedbaht adamın “divane olmuştum” demesi ne anlama gelir?",
+          "answer": "Sağlıklı düşünemediğini ve yanıldığını kabul etmesi anlamına gelir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Arkadaşına teşekkür etmesi, onun hangi nimete kavuştuğunu gösterir?",
+          "answer": "Kötü bir ruh halinden kurtulma nimetine kavuştuğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p05:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan çıkan en önemli ders nedir?",
+          "answer": "İmanlı ve temiz bir bakış insanı huzura ulaştırır; kötü ve bozuk bakış ise hayatı karartır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

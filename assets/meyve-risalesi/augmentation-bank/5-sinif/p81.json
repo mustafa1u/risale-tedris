@@ -1,0 +1,665 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:5-sinif:p81",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "5-sinif",
+  "partNo": "p81",
+  "partNumber": 81,
+  "title": "10. Mes'ele / Lâhika: Hüsrev'in mektubu (Emirdağı Çiçeği'nin takdiri)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/5-sinif/SveC_5sinif_meyve-risalesi-p81-10-mesele-lahika-husrevin-mektubu-emirdagi-ciceginin-takdiri.txt",
+  "sourceRevision": "f8e12f6baec8ae417995c5aa6b09ca238d22864bd0238d0e74c5e015915640ba",
+  "setCount": 6,
+  "questionCount": 53,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Mektubun başında hangi eser parçasını aldıklarını sevinçle haber veriyor?",
+          "answer": "Denizli Meyvesi’nin Onuncu Mes’elesi diye anılan “Emirdağı Çiçeği”ni aldıklarını bildiriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu parçanın gelmesi, ayrılık ve haber alamama yüzünden oluşan hangi sıkıntıları hafifleştirmiştir?",
+          "answer": "Ayrı kalmanın üzüntüsünü ve haberleşememenin verdiği sıkıntıyı azaltmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Mektupta bu eserin kalplere ve ruhlara nasıl bir tesir yaptığı anlatılıyor?",
+          "answer": "Kalplere canlılık verdiği, ruhlara da ferahlatıcı bir tazelik getirdiği anlatılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu bölümde Kur’an’daki tekrarlar hakkında hangi iki yön açıklanmış olarak gösteriliyor?",
+          "answer": "Tekrarların güzellikleri sayılıyor; ayrıca bu tekrarların neden gerekli ve önemli olduğu açıklanıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Onuncu Mes’elenin Risale-i Nur için nasıl bir yön taşıdığı belirtiliyor?",
+          "answer": "Çok güçlü ve dikkat çekici bir savunma olduğu söyleniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "“Çiçeği kokladıkça iştiyakın artması” sözüyle ne anlatılmak isteniyor?",
+          "answer": "Eseri okudukça sevgi, ilgi ve öğrenme arzularının çoğaldığı anlatılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Dokuzuncu Mes’ele ile Onuncu Mes’ele arasında nasıl bir benzerlik kuruluyor?",
+          "answer": "Biri beraate vesile olmasıyla güzelliğini göstermiş, diğeri de Kur’an’ın mucize yönlerini açıklamasıyla güzelliğini göstermiştir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Dokuz aylık hapis sıkıntısına karşılık Dokuzuncu Mes’elenin hangi faydası öne çıkarılıyor?",
+          "answer": "Beraat almalarına büyük bir sebep olması öne çıkarılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Onuncu Mes’elenin güzelliği hangi konuda kendini göstermektedir?",
+          "answer": "Kur’an’ın özlü ve mucizevi anlatımındaki harikalıkları göstermesinde kendini göstermektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Mektubun genel duygusu daha çok hangisidir: kırgınlık mı, şükür ve sevinç mi?",
+          "answer": "Şükür ve sevinçtir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Mektubu yazan talebe, sözlerine ilk olarak kime hamd ederek başlıyor?",
+          "answer": "Allah’a sonsuz şükrederek başlıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İki ay süren ayrılığın ardından gelen bu eser, mektupta nasıl bir manevî hediye gibi görülüyor?",
+          "answer": "Gönülleri canlandıran ve ruhları ferahlatan bir nimet gibi görülüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Mektupta adı geçen eser hangi ana konuyu işler şekilde tanıtılıyor?",
+          "answer": "Kur’an’daki tekrarların hikmetini ve değerini açıklayan bir eser olarak tanıtılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Mektupta bu eserin takdire layık olduğu hangi ifadeden anlaşılır?",
+          "answer": "Beğenilmeye ve övülmeye çok uygun olduğunun söylenmesinden anlaşılır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bu parçayı okuyup üzerinde düşündükçe talebelerin içinde hangi his güçleniyor?",
+          "answer": "Özlem ve kavuşma arzusu güçleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Dokuzuncu Mes’ele dış dünyada hangi sonucu doğurmuş olarak anlatılıyor?",
+          "answer": "Beraatla sonuçlanan önemli bir fayda sağlamış olarak anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Onuncu Mes’elenin daha çok hangi alandaki güzelliği öne çıkarılıyor: hukukî fayda mı, ilmî ve imanî açıklama mı?",
+          "answer": "İlmî ve imanî açıklama öne çıkarılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Mektupta alınan eserin tam adı nasıl belirtiliyor?",
+          "answer": "Denizli Meyvesi’nin Onuncu Mes’elesi olarak anılan “Emirdağı Çiçeği” şeklinde belirtiliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu eser gelmeden önce mektubu yazanların yaşadığı iki temel manevi sıkıntı nedir?",
+          "answer": "Ayrı kalmanın üzüntüsü ve haberleşememenin verdiği acıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Mektuba göre bu bölüm, Kur’an’daki tekrarları boş bir tekrar gibi mi, hikmetli bir tekrar gibi mi gösteriyor?",
+          "answer": "Hikmetli ve gerekli bir tekrar gibi gösteriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "“Risale-i Nur’un harika müdafaası” denince bu parçanın hangi görevi yaptığı anlaşılır?",
+          "answer": "Risale-i Nur’u güçlü biçimde savunup haklılığını ortaya koyduğu anlaşılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "“Kokladıkça” ifadesi gerçek bir çiçeği mi, yoksa manevi bir istifadeyi mi anlatıyor?",
+          "answer": "Manevi bir istifadeyi anlatıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Dokuzuncu Mes’elenin güzelliği hangi somut olayla ilişkilendiriliyor?",
+          "answer": "Beraate vesile olmasıyla ilişkilendiriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Onuncu Mes’elenin güzelliği hangi bilgi ve hakikati göstermesinden geliyor?",
+          "answer": "Kur’an’ın mucizevi anlatımındaki incelikleri göstermesinden geliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Hapis süresi ile Mes’elelerin faydası arasında nasıl bir karşılık kuruluyor?",
+          "answer": "Uzun sıkıntıya karşı manevi teselli ve fayda getiren eserler olarak sunuluyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Mektupta geçen “iftirak” ve “muhaberesizlik” kelimeleri hangi durumları anlatıyor?",
+          "answer": "Biri ayrı kalmayı, diğeri ise haberleşememeyi anlatıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Gelen eser bu iki zorluğun etkisini tamamen yok etmekten çok hangi işi yapıyor?",
+          "answer": "Onların ağırlığını hafifletiyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kalplere hayat, ruhlara temiz bir esinti benzetmesi niçin kullanılmış olabilir?",
+          "answer": "Eserin insanı içten ferahlattığını ve yenilediğini anlatmak için kullanılmış olabilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Mektuba göre Kur’an’daki tekrarların ele alınmasında hangi üç yön öne çıkıyor?",
+          "answer": "Tekrarların güzelliği, hikmeti ve öneminin açıklanması öne çıkıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "“Emirdağı Çiçeği” adı, eserin hangi yönünü hissettirmektedir?",
+          "answer": "Zarif, güzel ve faydalı bir manevi armağan olduğunu hissettirmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Talebelerin iştiyakının yükselmesi, eserden memnun kaldıklarını mı yoksa sıkıldıklarını mı gösterir?",
+          "answer": "Eserden çok memnun kaldıklarını gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Mektupta Dokuzuncu Mes’elenin değeri hangi sonuç üzerinden anlatılıyor?",
+          "answer": "Beraate büyük ölçüde vesile olması üzerinden anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Onuncu Mes’ele ise hangi yönüyle değer kazanıyor?",
+          "answer": "Kur’an’ın üstün ve hayranlık veren yönlerini göstermesiyle değer kazanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu metinde hem Dokuzuncu hem Onuncu Mes’ele için ortak olarak söylenebilecek şey nedir?",
+          "answer": "İkisinin de çok faydalı ve güzel sonuçlar verdiğidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Mektubu yazan kişi, Onuncu Mes’eleyi alınca önce hangi duyguyla hareket ediyor?",
+          "answer": "Büyük bir şükür ve sevinç duygusuyla hareket ediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu eser, iki aylık ayrılığın ardından insanların iç dünyasında nasıl bir değişim yapmıştır?",
+          "answer": "Üzüntüyü hafifletmiş, kalp ve ruhlara ferahlık getirmiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Mektuba göre bu bölüm Kur’an’daki tekrarları hangi bakımdan açıklıyor?",
+          "answer": "Güzel, hikmetli, gerekli ve önemli oluşu bakımından açıklıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Eserin aynı zamanda bir “müdafaa” olarak görülmesi neyi gösterir?",
+          "answer": "Sadece bilgi vermediğini, aynı zamanda doğruyu savunduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "“Bu çiçeği kokladıkça” sözü, eserden yararlanmanın nasıl bir süreç olduğunu hissettiriyor?",
+          "answer": "Okudukça ve düşündükçe faydanın arttığı bir süreç olduğunu hissettiriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Mektupta geçen “iştiyak” kelimesi burada hangi duyguya yakındır?",
+          "answer": "Güçlü bir özlem ve istek duygusuna yakındır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Dokuzuncu Mes’ele hangi sıkıntılı durum içinde faydasını göstermiştir?",
+          "answer": "Dokuz aylık hapis sıkıntısı içinde faydasını göstermiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu fayda daha çok hangi sonuçla anlaşılmıştır?",
+          "answer": "Beraate yardımcı olmasıyla anlaşılmıştır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Onuncu Mes’elenin faydası ise hangi hakikati ortaya koymakta görülüyor?",
+          "answer": "Kur’an’ın olağanüstü anlatım ve mucize yönlerini ortaya koymakta görülüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Mektupta sözü edilen eser hangi isimle tanınmaktadır?",
+          "answer": "“Emirdağı Çiçeği” ismiyle tanınmaktadır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu eserin gelmesi, mektubu yazanların hangi iki duygusal yarasını hafifletiyor?",
+          "answer": "Ayrılıktan doğan üzüntüyü ve haber alamamaktan doğan sıkıntıyı hafifletiyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Kalplerin canlanması ve ruhların ferahlaması, eserin yalnız akla mı yoksa gönle de hitap ettiğini mi gösterir?",
+          "answer": "Gönle de hitap ettiğini gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Mektuba göre Onuncu Mes’elenin ana konusu nedir?",
+          "answer": "Kur’an’daki tekrarların boş olmadığını, hikmetli ve gerekli olduğunu açıklamaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu bölümün Risale-i Nur açısından önemli görülmesinin bir sebebi nedir?",
+          "answer": "Risale-i Nur’u çok etkili biçimde savunmasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "“Koklamak” benzetmesi, bu manevi eserden nasıl yararlanıldığını anlatır?",
+          "answer": "Onu severek okuyup tadını çıkararak faydalanmayı anlatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Dokuzuncu Mes’ele ile Onuncu Mes’ele arasında sonuç bakımından nasıl bir fark vardır?",
+          "answer": "Biri beraate yardımcı olmuş, diğeri Kur’an’ın mucize yönlerini göstermiştir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Her iki Mes’elenin de güzel görülmesinin ortak sebebi nedir?",
+          "answer": "İkisinin de ihtiyaç anında büyük fayda sağlamasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Mektupta geçen ifadelerden, talebelerin bu esere karşı ilgisi için hangi yargı çıkarılır?",
+          "answer": "Onu çok kıymetli buldukları ve büyük bir istekle benimsedikleri çıkarılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p81:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p81:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajın sonunda Onuncu Mes’ele hakkında varılan genel hüküm nedir?",
+          "answer": "Çok değerli, faydalı ve Kur’an’ın üstünlüğünü gösteren bir eser olduğudur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

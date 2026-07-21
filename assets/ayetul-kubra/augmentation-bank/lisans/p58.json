@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:lisans:p58",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "lisans",
+  "partNo": "p58",
+  "partNumber": 58,
+  "title": "Kur'an'ın i'caz ve şehadeti (17. mertebe): Hitabın kaynağı-muhatabı-maksadıyla mislinin getirilemezliği",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/lisans/SveC_lisans_ayetul-kubra-p58-kuranin-icaz-ve-sehadeti-17-mertebe-hitabin-kaynagi-muhatabi-maksadiyla-mislinin-getirilemezligi.txt",
+  "sourceRevision": "fceb06b19d98f92dace764cb43e260c6804e5149ad4fa5951fa0af714ad78388",
+  "setCount": 6,
+  "questionCount": 48,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bir sözün değerini anlamada metinde öne çıkarılan üç temel soru nedir?",
+          "answer": "O sözün kaynağı, muhatabı ve söyleniş gayesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ölçülere göre Kur’an’ın benzerinin getirilememesi hangi ana sebebe bağlanır?",
+          "answer": "Çünkü o, sıradan bir insan sözü değil; bütün varlığın Rabbi olan Allah’ın hitabıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p58:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde, bu hitabın yapmacıklıktan uzak olduğu nasıl ifade edilmektedir?",
+          "answer": "İçinde taklit veya zorlama izlenimi verecek hiçbir belirti bulunmadığı vurgulanmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p58:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an’ın muhatabı olarak gösterilen zâtın diğer insanlardan farklı yönü nedir?",
+          "answer": "O, bütün insanlık hatta mahlûkat adına gönderilmiş, şöhreti ve makamı çok büyük bir elçidir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu muhatabın iman kuvvetinin neticesi olarak hangi büyük sonuçtan söz edilir?",
+          "answer": "Onun güçlü imanı, İslâm’ın ortaya çıkmasına vesile olmuş ve kendisini çok yüce bir yakınlık makamına taşımıştır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p58:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre Kur’an daha çok hangi konuları açıklayıp öğretmektedir?",
+          "answer": "Dünya ve âhiret saadeti, kâinatın yaratılış gayesi, ilâhî maksatlar ve iman hakikatleri gibi temel meseleleri açıklamaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Kâinatın harita, saat ve ev gibi gösterilmesi neyi anlatmak için kullanılmıştır?",
+          "answer": "Evrenin düzenli, anlamlı ve sanatlı bir eser olarak tanıtıldığını; böylece Yaratıcısının bildirildiğini anlatmak içindir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bütün bu özellikler birlikte düşünüldüğünde Kur’an hakkında hangi sonuca varılır?",
+          "answer": "Ona denk bir söz getirilemeyeceği ve mucize oluş derecesine ulaşılamayacağı sonucuna varılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p58:lisans:S1Q2",
+            "ayetul-kubra:p58:lisans:S1Q3",
+            "ayetul-kubra:p58:lisans:S1Q4",
+            "ayetul-kubra:p58:lisans:S1Q6",
+            "ayetul-kubra:p58:lisans:S1Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde bir kelâmın yüceliğinin ortaya çıkması hangi bakış açısına bağlanmaktadır?",
+          "answer": "Kimin söylediği, kime hitap ettiği ve hangi maksatla söylendiği dikkate alınarak değerlendirilmesine bağlanmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Kur’an’ın hitabının kaynağı neden eşsiz kabul edilir?",
+          "answer": "Çünkü kaynağı bütün âlemleri yaratan ve yöneten Allah’tır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde Kur’an için insan sözü izlenimi vermemesini destekleyen hangi özellik belirtilir?",
+          "answer": "İçinde taklitçilik ve sunîlik hissi uyandıracak bir işaret bulunmadığı belirtilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an’ın indiği Peygamberin insanlıkla ilişkisi nasıl tasvir edilir?",
+          "answer": "O, insan türünün en tanınmış temsilcisi olarak bütün insanlık adına gönderilmiş biri şeklinde anlatılır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Peygamber Efendimiz’in geniş ve kuvvetli imanı, vahyin mahiyetini anlamada nasıl bir rol oynar?",
+          "answer": "Bu iman, vahyin büyüklüğünü taşıyan bir muhatap bulunduğunu ve mesajın yüceliğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an’ın iki cihan saadetiyle ilgili olması ne anlama gelir?",
+          "answer": "Sadece dünya hayatını değil, âhireti de kuşatan bir rehberlik sunduğu anlamına gelir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde Kur’an’ın kâinatı anlatma biçimi nasıl özetlenebilir?",
+          "answer": "Evreni farklı yönleriyle göz önüne serip onun ustasını tanıtan bir ders verdiği söylenebilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Parçanın ana fikri bir cümleyle nasıl ifade edilebilir?",
+          "answer": "Kur’an, kaynağı, muhatabı, konusu ve anlatım gücü sebebiyle erişilemez bir ilâhî kelâmdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde Kur’an’ın belâgatı yalnızca dil güzelliğiyle mi temellendiriliyor, yoksa daha geniş bir zemine mi oturtuluyor?",
+          "answer": "Daha geniş bir zemine oturtuluyor; kaynağı, muhatabı ve amacıyla birlikte ele alınıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Kur’an’ın Allah’ın hitabı olarak sunulması, onun kıymeti hakkında ne gösterir?",
+          "answer": "Değerinin son derece yüksek ve insan sözleriyle kıyaslanamayacak seviyede olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Taklitten ve yapaylıktan uzak oluş, Kur’an’ın hangi yönünü destekler?",
+          "answer": "Samimiyetini, doğruluğunu ve ilâhî menşeli oluşunu destekler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde Peygamber Efendimiz’in “bütün mahlûkat adına gönderilmiş” olması nasıl anlaşılmalıdır?",
+          "answer": "Onun mesajının dar bir çevreye değil, çok geniş bir varlık alanına hitap ettiğini gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Peygamberimizin ulaştığı yüksek makamın anılması, Kur’an’ın anlaşılmasına nasıl katkı sağlar?",
+          "answer": "Vahyin, son derece seçkin ve hazırlıklı bir muhataba geldiğini bildirerek Kur’an’ın yüceliğini daha da belirginleştirir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an’ın açıkladığı meseleler arasında neden kâinatın yaratılış gayesi de yer alır?",
+          "answer": "Çünkü metne göre Kur’an, sadece ibadet hükümlerini değil, varlığın anlamını da öğreten kapsamlı bir rehberdir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Evrenin bir düzen ve sanat eseri gibi gösterilmesi, okuyucuda hangi düşünceyi uyandırmayı amaçlar?",
+          "answer": "Her şeyin bilinçli bir yaratma ile meydana geldiğini ve bunların sahibinin tanınması gerektiğini düşündürmeyi amaçlar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metnin sonunda varılan hüküm nedir?",
+          "answer": "Kur’an’ın benzeri yapılamaz ve onun mucize oluş seviyesine erişilemez.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada, bir sözün üstünlüğünü belirlemede yalnız lafzına bakmanın yeterli olmadığı nasıl anlaşılmaktadır?",
+          "answer": "Çünkü metin, sözün değerini söyleyenin kimliği, muhatabın makamı ve maksadın büyüklüğüyle birlikte ele alır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Kur’an’ın konuşan tarafı kim olarak tanıtılmaktadır?",
+          "answer": "Bütün varlıkların Rabbi ve yaratıcısı olan Allah olarak tanıtılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kur’an’da gösterişe dayalı bir söz söyleme tarzı bulunmadığına dair ne söylenir?",
+          "answer": "İçeriğinde özentili veya sonradan kurulmuş bir ifade havası bulunmadığı belirtilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Vahyin muhatabının “en meşhur ve namdar” diye nitelenmesi neyi vurgular?",
+          "answer": "Onun insanlar içindeki seçkinliğini ve böyle büyük bir hitaba layık oluşunu vurgular.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre bu muhatabın imanı sadece şahsî bir özellik midir, yoksa daha büyük bir neticeye mi yol açmıştır?",
+          "answer": "Daha büyük bir neticeye yol açmıştır; İslâm’ın ortaya çıkışıyla bağlantılı bir güç olarak sunulmuştur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an hangi alanlarda açıklayıcı bir rehber olarak tanıtılır?",
+          "answer": "İman esasları, evrenin anlamı, ilâhî hikmetler ve dünya-âhiret mutluluğu gibi alanlarda rehber olarak tanıtılır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Kâinatın çeşitli örneklerle tasvir edilmesi, Kur’an’ın hangi öğretici yönünü öne çıkarır?",
+          "answer": "Varlığı okunabilir bir kitap gibi gösterip Yaratıcıyı tanıtan öğretici yönünü öne çıkarır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bütün bu anlatımın vardığı temel hüküm nedir?",
+          "answer": "Kur’an’ın erişilmez bir beyan olduğu ve insan gücünün onun dengine ulaşamayacağıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde “kimden, kime ve ne için” soruları neden önemlidir?",
+          "answer": "Çünkü bir sözün gerçek değerini, yüceliğini ve ifade gücünü ortaya çıkaran ölçüler bunlardır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Kur’an’ın kaynağı bakımından başka sözlerden ayrılan tarafı nedir?",
+          "answer": "Onun kaynağı yaratılmışlardan biri değil, tüm âlemlerin Rabbi olan Allah’tır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Metin, Kur’an’ın sunî bir metin olmadığını hangi ifadeyle temellendirir?",
+          "answer": "İçinde öykünme veya zorlamayla kurulmuş olma izlenimi bulunmadığını belirterek temellendirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an’ın muhatabının bütün insanlık adına gönderilmiş olması, mesajın kapsamı hakkında ne gösterir?",
+          "answer": "Mesajın evrensel olduğunu ve sadece belli bir topluluğa sınırlanmadığını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Peygamberimizin iman genişliği neden özellikle anılmıştır?",
+          "answer": "Çünkü böyle büyük hakikatleri taşıyabilecek bir kalbî ve manevî kapasiteye sahip olduğunu göstermek içindir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an’ın anlattığı meseleler arasında hem âhiret hem kâinatın gayesi bulunması neyi gösterir?",
+          "answer": "Onun insan hayatını ve varlığın anlamını birlikte açıklayan kuşatıcı bir kitap olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Kur’an’ın evreni gösterip onu yapanı tanıtması, hangi tür bir tefekküre çağrıdır?",
+          "answer": "İnsanı yaratılış düzeni üzerinde düşünmeye ve o düzenin sahibini tanımaya çağrıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu parçaya göre neden Kur’an’ın bir benzeri ortaya konulamaz?",
+          "answer": "Çünkü kaynağı ilâhîdir, muhatabı en yüce elçidir, konusu çok kapsamlıdır ve beyanı insan sözünü aşan bir mucizedir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Kur’an’ın eşsizliği değerlendirilirken hangi temel ölçü üzerinden hareket edilmektedir?",
+          "answer": "Sözü söyleyenin büyüklüğü, muhatabın makamı ve sözün hedefi üzerinden hareket edilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Kur’an’ın Allah kelâmı oluşu, onun belâgatı ile nasıl ilişkilendirilmektedir?",
+          "answer": "Belâgatının üstünlüğü, ilâhî kaynaktan gelmesiyle daha açık hale getirilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde Kur’an’ın taklit edilemezliğini destekleyen ifade tarzı hakkında ne söylenir?",
+          "answer": "Sözlerinde sunîlik ve benzetme kokusu taşıyan bir yön bulunmadığı söylenir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Vahyi alan zâtın bütün mahlûkat adına gönderilmesi, onun hangi yönünü öne çıkarır?",
+          "answer": "Temsil gücünü ve hitabın geniş bir çevreyi kapsadığını öne çıkarır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Peygamberimizin yüksek imanının ve ulaştığı makamın zikredilmesi neyi ispatlamaya hizmet eder?",
+          "answer": "Kur’an’ın çok yüce bir muhataba indiğini ve bu hitabın sıradan bir söz olmadığını göstermeye hizmet eder.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre Kur’an hangi büyük meseleleri açıklamaktadır?",
+          "answer": "İki âlem mutluluğunu, yaratılışın sonuçlarını, ilâhî hikmetleri ve İslâm hakikatlerini açıklamaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Kâinatı düzenli ve anlamlı bir bütün olarak tasvir etmesi, Kur’an’ın hangi vazifesini gösterir?",
+          "answer": "Yaratılmışları tanıtıp onların ustasını bildiren bir hidayet kitabı olma vazifesini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p58:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Parçadan çıkarılan nihai hüküm nasıl özetlenir?",
+          "answer": "Kur’an’ın mucizevî beyanına ne denk bir söz getirilebilir ne de onun seviyesine çıkılabilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

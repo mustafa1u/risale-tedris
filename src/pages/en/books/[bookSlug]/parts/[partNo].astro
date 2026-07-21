@@ -1,0 +1,28 @@
+---
+import { libraryIndex, loadBook } from "@/data/library.generated";
+import PartPage from "@/features/library/PartPage.astro";
+
+export function getStaticPaths() {
+  return libraryIndex.books.flatMap((book) =>
+    book.partRoutes.map((part) => ({
+      params: { bookSlug: book.slug, partNo: part.partNo }
+    }))
+  );
+}
+
+const bookSlug = Astro.params.bookSlug ?? "";
+const partNo = Astro.params.partNo ?? "";
+const book = await loadBook(bookSlug);
+
+if (!book) {
+  throw new Error(`Unknown book slug: ${bookSlug}`);
+}
+
+const part = book.parts.find((item) => item.partNo === partNo);
+
+if (!part) {
+  throw new Error(`Unknown part ${partNo} for book ${bookSlug}`);
+}
+---
+
+<PartPage book={book} part={part} locale="en" />

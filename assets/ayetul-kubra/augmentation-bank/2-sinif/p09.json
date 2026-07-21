@@ -1,0 +1,592 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:2-sinif:p09",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "2-sinif",
+  "partNo": "p09",
+  "partNumber": 9,
+  "title": "2. varta ve çare-i necat / 1. mesele: Şeairde 'Allahu Ekber', hadîs-i kudsî ve Cevşen ile azamet-kibriyanın perde oluşu",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/2-sinif/SveC_2sinif_ayetul-kubra-p09-2-varta-ve-care-i-necat-1-mesele-seairde-allahu-ekber-hadis-i-kudsi-ve-cevsen-ile-azamet-kibriyanin-perde-olusu.txt",
+  "sourceRevision": "930415f129e505eb640c62b8df18ccc5db8d974c200532f8e04452a1801a5d0e",
+  "setCount": 6,
+  "questionCount": 48,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Ezan ve namazda çokça söylenen sözle hangi şey haber verilir?",
+          "answer": "Allah’ın çok büyük olduğu bildirilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu tekrarlar hangi ibadetlerde geçer?",
+          "answer": "Ezan ve namazda geçer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p09:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde Allah için özellikle hangi iki yüce özellik öne çıkarılır?",
+          "answer": "Büyüklüğü ve ululuğu öne çıkarılır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu duada insanların Allah’ı övmesini tam olarak bitirebilmesi kolay mı gösterilir?",
+          "answer": "Hayır, tam olarak kuşatamayacakları anlatılır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre mahlûklar Allah’ın yüceliğini tam anlatabilir mi?",
+          "answer": "Tam anlatamazlar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İnsan düşüncesi Allah’ın büyüklüğünü tamamen kavrayabilir mi?",
+          "answer": "Tam kavrayamaz.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Gözler Allah’ın kemalini bütünüyle anlayabilir mi?",
+          "answer": "Hayır, bütünüyle anlayamaz.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bütün bu örnekler bize hangi sonucu gösterir?",
+          "answer": "Allah’ın azamet ve kibriyasının gerekli bir perde olduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p09:2-sinif:S1Q6",
+            "ayetul-kubra:p09:2-sinif:S1Q7",
+            "ayetul-kubra:p09:2-sinif:S1Q8",
+            "ayetul-kubra:p09:2-sinif:S1Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde İslâm’ın işaretlerinden hangileri örnek veriliyor?",
+          "answer": "Ezan ve namaz örnek veriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ibadetlerde bir sözün sık sık tekrarlanmasının sebebi ne olabilir?",
+          "answer": "Allah’ın büyüklüğünü duyurmak içindir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p09:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Allah’ın çok büyük olduğunu söylemek kalpte hangi duyguyu uyandırır?",
+          "answer": "Saygı ve hayranlık uyandırır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Cevşen’deki münacatta Allah’ın hangi yönü insan aklından üstün gösteriliyor?",
+          "answer": "Yüceliği ve sıfatları üstün gösteriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanlar Allah’ı överken neden eksik kalır?",
+          "answer": "Çünkü Allah çok yücedir, insan gücü sınırlıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Yaratılmış olanların Allah’ı tam anlatamaması neyi gösterir?",
+          "answer": "Allah’ın sonsuz derecede büyük olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu metne göre Allah’ın büyüklüğü gizli değil, nasıl bir şekilde bildiriliyor?",
+          "answer": "Tekrar tekrar ilan edilerek bildiriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Perde” sözü burada gerçek bir örtü mü, yoksa başka bir anlam mı taşıyor?",
+          "answer": "Başka bir anlam taşır; yüceliği anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Son cümledeki ana düşünce nedir?",
+          "answer": "Allah’ın azameti ve kibriyası çok yüce olduğu için bir perde gibi anlaşılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde Allah’ın büyüklüğünü duyuran ibadet sözleri ne kadar sık geçiyor?",
+          "answer": "Çok sık geçiyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Ezan ve namazda bu yüce anlamın tekrarlanması bize ne öğretir?",
+          "answer": "Allah’ı büyük bilmemiz gerektiğini öğretir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu duada Allah’ın mülkü hakkında nasıl bir anlam vardır?",
+          "answer": "Gerçek sahipliğin O’na ait olduğu anlaşılır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Kulların övgüsü ve düşüncesi neden sınırlı kalıyor?",
+          "answer": "Çünkü Allah’ın büyüklüğü çok yücedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İnsan aklı ve hayali Allah’ın hakikatini neden tam kuşatamaz?",
+          "answer": "Çünkü O, insanların kavrayışından daha yücedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre Allah’ın büyüklüğü önemsiz bir konu mu, yoksa sık hatırlatılan bir konu mu?",
+          "answer": "Sık hatırlatılan bir konudur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "“Azamet ve kibriya lüzumlu bir perdedir” sözü ne anlatıyor?",
+          "answer": "Allah’ın yüceliğinin çok büyük olduğunu anlatıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada tekrar edilen ana konu nedir?",
+          "answer": "Allah’ın büyüklüğü ve yüceliğidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu konu hangi dinî uygulamalarda öne çıkıyor?",
+          "answer": "Ezan ve namazda öne çıkıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kudsî hadisten sonra hangi dua örnek gösteriliyor?",
+          "answer": "Cevşen’den bir dua örnek gösteriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Duada Allah’ın yüceliği karşısında insanların dili ne durumda kalıyor?",
+          "answer": "Yetersiz kalıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Duada sadece insanlar mı, yoksa bütün yaratılmışlar da mı sınırlı gösteriliyor?",
+          "answer": "Bütün yaratılmışlar sınırlı gösteriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İnsanların düşünmesi Allah’ın büyüklüğünü niçin tam kuşatamaz?",
+          "answer": "Çünkü Allah’ın büyüklüğü insan düşüncesinden daha geniştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Metindeki örnekler tek bir sonuca mı bağlanıyor?",
+          "answer": "Evet, hepsi aynı sonuca bağlanıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu ortak sonuç nedir?",
+          "answer": "Allah’ın azamet ve kibriyasının gerekli bir perde olduğudur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p09:2-sinif:S4Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Ezan ve namazdaki tekrarlar boşuna mı yapılır, yoksa bir hikmeti mi vardır?",
+          "answer": "Bir hikmeti vardır; Allah’ın büyüklüğünü duyurur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde Allah’ın hangi sıfatı insanlara sık sık hatırlatılıyor?",
+          "answer": "Çok büyük ve yüce olduğu hatırlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Kudsî sözde bu yücelik kime ait gösteriliyor?",
+          "answer": "Yalnız Allah’a ait gösteriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanlar Allah’ın güzellik ve kemalini tamamen görebilir mi?",
+          "answer": "Tamamen göremez.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İnsan aklı Allah’ın sıfatlarını bütünüyle anlayabilir mi?",
+          "answer": "Bütünüyle anlayamaz.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu sınır bize Allah hakkında ne öğretir?",
+          "answer": "Allah’ın sonsuz derecede yüce olduğunu öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p09:2-sinif:S5Q5",
+            "ayetul-kubra:p09:2-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki delillerin sonunda hangi hükme varılıyor?",
+          "answer": "Azamet ve kibriyanın gerekli bir perde olduğuna varılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Allah’ın büyüklüğü hangi iki ibadet üzerinden anlatılıyor?",
+          "answer": "Ezan ve namaz üzerinden anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Allah’ın yüceliğini bildiren sözün çok tekrarlanması neyi önemsetir?",
+          "answer": "Bu hakikatin çok önemli olduğunu önemsetir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde sadece ibadetler mi, yoksa bir hadis ve bir dua da mı yer alıyor?",
+          "answer": "Bir hadis ve bir dua da yer alıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Cevşen’deki ifadeler Allah’ın tamamen tarif edilebildiğini mi, edilemediğini mi düşündürüyor?",
+          "answer": "Tamamen tarif edilemediğini düşündürüyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanların hayali ve fikri Allah’ın büyüklüğüne neden yetişemez?",
+          "answer": "Çünkü Allah’ın büyüklüğü çok üstündür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Yaratılmışların Allah’ı tam anlatamaması eksiklik kimdedir gösterir?",
+          "answer": "Eksiklik yaratılmışlardadır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Buna göre Allah’ın şanı nasıl bir şandır?",
+          "answer": "Çok yüksek ve çok büyüktür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p09:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "“Lüzumlu bir perde” sözüyle ne anlatılmak isteniyor?",
+          "answer": "Allah’ın yüceliğinin herkesçe tam kuşatılamayacak kadar büyük olduğu anlatılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p09:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu metnin ana mesajını kısa söyle.",
+          "answer": "Allah’ın azameti çok büyüktür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

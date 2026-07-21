@@ -1,0 +1,765 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:8-sinif:p16",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "8-sinif",
+  "partNo": "p16",
+  "partNumber": 16,
+  "title": "3. muhal / 1. misal: temsilden tabiata tatbik ve sert ikaz",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/8-sinif/SveC_8sinif_tabiat-risalesi-p16-3-muhal-1-misal-temsilden-tabiata-tatbik-ve-sert-ikaz.txt",
+  "sourceRevision": "1527a6f845db9e395de9d6c3a015ac5aa80fb732744c1908e6fbe36a37e30a60",
+  "setCount": 6,
+  "questionCount": 65,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde dünya ve kâinat neye benzetilerek anlatılıyor?",
+          "answer": "Son derece düzenli ve hikmetli bir saraya benzetiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu saraya giren kişinin temel yanlışı nedir?",
+          "answer": "Eserleri Allah’a vermeyip açıklamayı tabiatta aramasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p16:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde “tabiat” nasıl tanıtılıyor?",
+          "answer": "Kendi başına yapan bir güç değil; ilahî düzeni gösteren, kurallar topluluğu gibi düşünülüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Neden tabiata yaratma görevi vermek akla uygun görülmüyor?",
+          "answer": "Çünkü tabiatın şuur, görme, irade ve kudreti yoktur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde geçen “defter” benzetmesi neyi anlatmak için kullanılıyor?",
+          "answer": "Tabiatın ancak bir planı veya kayıt düzenini andırdığını anlatmak için kullanılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İnkârcı kişinin “Madem sebep lazım, en uygunu bu olsun” demesi hangi kusuru gösterir?",
+          "answer": "Hakikati aramak yerine peşin hükümle yanlışta ısrar ettiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde insanın “tabiat bataklığı”ndan çıkması istenirken neye çağrı yapılıyor?",
+          "answer": "Körü körüne inkârı bırakıp yaratılmışlara bakarak Allah’ı tanımaya çağrılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Zerrelerden yıldızlara kadar varlıkların ortak şahitliği nedir?",
+          "answer": "Hepsinin tek bir yüce Yaratıcıyı gösterdiğidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Sarayı yapanla programını yazan arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Programı yazan da sarayı yapan da aynı sanat sahibi olarak gösteriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde kurtulunması istenen “hezeyanlar” neyi ifade eder?",
+          "answer": "Tabiatı bağımsız yaratıcı sayan bozuk düşünceleri ifade eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın ana fikri nedir?",
+          "answer": "Kâinattaki düzenin sahibi tabiat değil, her şeyi bilen ve yaratan Allah’tır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Hedef alınan düşünce hangi inanç yanlışına götürüyor?",
+          "answer": "Allah’ın varlığını ve yaratıcılığını inkâra götürüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Kâinatın saraydan daha üstün görülmesinin sebebi nedir?",
+          "answer": "Düzeninin, mükemmelliğinin ve hikmetinin çok daha büyük olmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde Allah için mümkinatın dışında denmesi neyi anlatır?",
+          "answer": "Allah’ın yaratılmışlardan biri olmadığını, onlardan tamamen farklı olduğunu anlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "“Tabiat”ın bir levha veya defter gibi anılması neyi reddeder?",
+          "answer": "Onun bağımsız bir yaratıcı olduğunu reddeder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Tabiata “eşya için en uygun sebep” gözüyle bakmak neden yanlış bulunuyor?",
+          "answer": "Sebebe benzedi diye yaratma yetkisi verilmiş oluyor; bu da akla ve hakikate aykırı görülüyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada muhataba neden sert bir uyarı yapılıyor?",
+          "answer": "Açık delillere rağmen yanlışta ısrar ettiği için.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Arkaya bak” çağrısı mecazen ne anlama gelir?",
+          "answer": "Çevrendeki bütün varlıkların verdiği delilleri fark et anlamına gelir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Varlıkların farklı dillerle şahitlik etmesi nasıl anlaşılmalıdır?",
+          "answer": "Her varlığın kendi düzeni ve haliyle Allah’ı göstermesi şeklinde anlaşılmalıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Kur’an’ı dinleme çağrısı, akıl ile vahiy arasında nasıl bir ilişki kuruyor?",
+          "answer": "İkisinin birlikte hakikati göstermesine işaret ediyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajdan çıkarılan sonuç cümlesi nasıl söylenebilir?",
+          "answer": "Tabiat ancak bir düzenin adı olabilir; yaratma ise yalnız Allah’a aittir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada anlatılan misaldeki vahşi insan, kâinata yanlış bakan kimi temsil ediyor?",
+          "answer": "Tabiatı yaratıcı gibi gören inkârcı kişiyi temsil ediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Misaldeki saray ile gerçek hayatta ne anlatılmak isteniyor?",
+          "answer": "Sarayla kâinatın düzenli yapısı anlatılmak isteniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Misaldeki defterin gerçek karşılığı nedir?",
+          "answer": "Tabiat denilen ilahî âdetler ve düzenler toplamıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Aynı mantık tabiat için nasıl uygulanıyor?",
+          "answer": "Tabiatın da şuursuz ve güçsüz olduğu için yaratıcı olamayacağı söyleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İnkârcı kişinin Allah’ı kabul etmemesi, onu nasıl bir seçime zorluyor?",
+          "answer": "Açıkça yanlış olduğunu bildiği halde tabiatı öne sürmeye zorluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu durum, düşünmede hangi hataya örnektir?",
+          "answer": "Delile göre düşünmemeye ve inatla yanlış açıklama seçmeye örnektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde varlıkların işaret ettiği zat hangi özelliklerle tanıtılıyor?",
+          "answer": "Yüce, sanat sahibi ve her şeyi yaratan bir Rab olarak tanıtılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Sarayın programını yazan ile sarayı yapanın birlikte anılması neyi gösterir?",
+          "answer": "Düzen ile yaratmanın aynı ilahî kaynağa dayandığını gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada niçin “gör, bak, dinle” gibi emirler kullanılıyor?",
+          "answer": "İnsanı hem düşünmeye hem de hakikati fark etmeye yöneltmek için.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Bu metne göre tabiatı yaratıcı saymak bilgi eksikliği mi, yoksa başka bir sorun mu?",
+          "answer": "Sadece bilgi eksikliği değil; aynı zamanda yanlış tercih ve inat sorunudur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın vermek istediği ders nedir?",
+          "answer": "Düzeni görünce kurala değil, o kuralı koyan ve uygulayan Allah’a yönelmek gerekir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda kâinattaki sanat ve düzen kimin eseri olarak gösteriliyor?",
+          "answer": "Vacibü’l-vücud olan Allah’ın eseri olarak gösteriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre “tabiat” denilen şeyin en doğru yeri nedir?",
+          "answer": "Yaratan olmak değil, yaratılıştaki düzeni ifade eden bir kavram olmaktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Neden mümkinat içindeki bir şey, bütün mümkinatı açıklayan son merci olamaz?",
+          "answer": "Çünkü kendisi de yaratılmış ve açıklanmaya muhtaçtır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Parçada “yazar bozar levha” benzetmesi neye işaret eder?",
+          "answer": "Tabiatın değişen ve uygulamaya bağlı bir düzen görünümünde olduğuna işaret eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Tabiatın “kanunlar toplamı” gibi görülmesi, onu hangi konuma indirir?",
+          "answer": "Asıl fail değil, ancak tarif eden veya bildiren bir konuma indirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bir şeyin “sebep istemesi”, önüne çıkan her şeyi yaratıcı yapar mı?",
+          "answer": "Hayır, sadece uygun görünen bir şey yaratıcı olmaz; gerçek failde kudret ve irade de gerekir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada insanın çevresine bakması neden isteniyor?",
+          "answer": "Çok sayıdaki delilin tek bir Yaratıcıyı gösterdiğini anlaması için.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Zerreden yıldıza kadar örnek verilmesi neyi kuvvetlendirir?",
+          "answer": "Delilin küçük büyük her varlıkta geçerli olduğunu kuvvetlendirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Nakkaş benzetmesiyle hangi hakikat öne çıkarılıyor?",
+          "answer": "Evrendeki güzelliğin arkasında sanat sahibi bir Yaratıcının bulunduğu öne çıkarılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Kur’an’a yönlendirme, inkârcı düşünceden çıkış için ne sunuyor?",
+          "answer": "Doğru ölçü ve rehberlik sunuyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Metinde savunulan en temel hüküm nedir?",
+          "answer": "Kâinatın sahibi ve yaratıcısı tabiat değil, Allah’tır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada geçen insan neden “vahşi” gibi bir sıfatla anlatılıyor?",
+          "answer": "Çünkü kâinattaki açık düzeni görmeyip çok kaba ve yanlış bir yorum yapıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kişinin kâinata bakışında ilk reddettiği şey nedir?",
+          "answer": "Eserlerin Allah’a ait olduğunu kabul etmiyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Tabiatın bir “fihriste” gibi görülmesi ne demektir?",
+          "answer": "O, varlıkları yapan değil; düzeni ve sanatın izlerini gösteren bir işaret gibidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Şuursuz bir şeyin yaratıcı sayılamamasının sebebi nedir?",
+          "answer": "Ne yaptığını bilmeden ölçülü ve hikmetli eserler meydana getiremez.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde geçen yanlış düşünce, sebep ile faili nasıl karıştırıyor?",
+          "answer": "Sebebe bakıp gerçek yapıcıyı unutuyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bu karışıklığın sonucunda hangi mantıksız hükme varılıyor?",
+          "answer": "Kuralların veya tabiatın bizzat eşyayı yaptığı söylenmiş oluyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada niçin bütün varlıkların şehadeti üzerinde duruluyor?",
+          "answer": "Tek bir kişinin zannına karşı bütün kâinatın delil olduğunu göstermek için.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "“Parmaklarıyla işaret etmek” sözü nasıl anlaşılmalıdır?",
+          "answer": "Varlıkların açık delillerle Allah’ı göstermesi şeklinde anlaşılmalıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu parçaya göre inkârdan kurtulmanın ilk adımı nedir?",
+          "answer": "Tabiatı bağımsız güç saymayı bırakıp varlıkların gösterdiği Yaratıcıyı fark etmektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın öğrenciler için kısa dersi nasıl söylenebilir?",
+          "answer": "Kanuna değil kanun koyana, esere değil eseri yapana bakmak gerekir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatılan örnek, önceki saray misalinin hangi yönünü gerçek hayata taşıyor?",
+          "answer": "Saraydaki düzeni kâinattaki düzenle karşılaştırarak tabiatın yaratıcı olamayacağını gösteriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Kâinatın “mucize gibi hikmetle dolu” gösterilmesi neyi anlatır?",
+          "answer": "Her şeyde ölçü, amaç ve ince bir düzen bulunduğunu anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Allah’ın sanatını düşünmeden yüz çevirmek, kişiyi hangi hataya düşürüyor?",
+          "answer": "Yaratılmış bir kavrama yaratıcı gözüyle bakma hatasına düşürüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde tabiat neden değişen bir deftere benzetiliyor?",
+          "answer": "Çünkü o, ancak işleyişi anlatan ve uygulamaya bağlı görünen bir düzen gibi düşünülüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Gözsüz, şuursuz ve güçsüz bir şeyin icat yapamayacağı söylenirken hangi ölçü veriliyor?",
+          "answer": "Büyük işleri yapabilmek için sadece var olmak değil, bilinçli kudret sahibi olmak gerektiği ölçüsü veriliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İnançsız kişi niçin yanlış olduğunu fark ettiği halde yine de tabiata sarılıyor?",
+          "answer": "Allah’ı kabul etmek istemediği için başka bir açıklamaya mecbur kalıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu mecburiyet, düşüncenin sağlamlığını mı zayıflığını mı gösterir?",
+          "answer": "Zayıflığını gösterir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Zerrattan yıldızlara kadar bütün varlıkların aynı hakikati göstermesi neyi ispatlar?",
+          "answer": "Yaratmanın tek elden çıktığını ispatlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Nakkaş-ı Ezelî ifadesiyle Allah’ın hangi yönü öne çıkarılıyor?",
+          "answer": "Sonsuz sanat ve güzellik sahibi oluşu öne çıkarılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Fermanına bakmak ve Kur’an’ı dinlemek çağrısı insana ne kazandırır?",
+          "answer": "Doğru bakış açısı ve sapık fikirlerden kurtuluş kazandırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada tabiatı yaratıcı saymanın sonucu nasıl değerlendiriliyor?",
+          "answer": "Gerçekten uzak, bozuk ve saçma bir düşünce olarak değerlendiriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p16:8-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajı bir cümleyle özetlersen nasıl özetlersin?",
+          "answer": "Kâinattaki düzenin sahibi tabiat değil, her şeyi programıyla da eseriyle de yöneten Allah’tır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

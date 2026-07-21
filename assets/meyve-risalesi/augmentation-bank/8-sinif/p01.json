@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:8-sinif:p01",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "8-sinif",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "Onbirinci Şuâ / Meyve Risalesi / Mukaddime: Medrese-i Yusufiye ve hülâsaların beyanı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/8-sinif/SveC_8sinif_meyve-risalesi-p01-onbirinci-sua-meyve-risalesi-mukaddime-medrese-i-yusufiye-ve-hulasalarin-beyani.txt",
+  "sourceRevision": "b67dd20324a5225f35d026bc089f8e14a85a8277932cbfb64509c0a690f6dac9",
+  "setCount": 6,
+  "questionCount": 11,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçanın başında Hz. Yusuf ile hapishane arasında nasıl bir bağ kuruluyor?",
+          "answer": "Hz. Yusuf’un mahpuslar için örnek bir rehber olduğu belirtiliyor ve bu sebeple hapishanenin manevî eğitim yeri gibi görülebileceği anlatılıyor.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Hapishane için neden bir ders ve terbiye yeri deniliyor?",
+          "answer": "Çünkü burada bulunanların kendilerini düzeltmeleri, faydalı hakikatleri öğrenmeleri ve manen yetişmeleri mümkün görülüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Risale-i Nur talebelerinin bu yere tekrar gelmesi, onlara neyi gerekli kılıyor?",
+          "answer": "Hapse dair ispat edilen bazı önemli meselelerin özetlerini okuyup anlamalarını gerekli kılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p01:8-sinif:S1Q1"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde hapishaneye verilen özel isim neyi anlatmak için kullanılıyor?",
+          "answer": "Hapishanenin sadece ceza yeri değil, sabır ve eğitim yeri olabileceğini anlatmak için kullanılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Burada anlatılan derslerin kısa özetler hâlinde sunulmasının sebebi nedir?",
+          "answer": "Mahpusların eğitim ve terbiyesine yardımcı olmak için temel hakikatleri kolayca kavratmaktır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın girişinde mahpuslara verilecek derslerin amacı nedir?",
+          "answer": "Onların tam bir manevî terbiye almalarına yardımcı olmaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Parçada “dershane” gibi bir anlam yüklenen yer neresidir?",
+          "answer": "Hapishanedir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde hapishanenin eğitimle ilişkilendirilmesi hangi peygamber üzerinden yapılıyor?",
+          "answer": "Hz. Yusuf üzerinden yapılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu parçadaki anlatıma göre mahpusların faydasına olacak şey nedir?",
+          "answer": "Hapse temas eden dinî hakikatlerin özetlerini okuyup öğrenmeleridir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın başında mahpuslara hitap eden ana düşünce nedir?",
+          "answer": "Hapishanenin manevî eğitim ve kendini düzeltme yeri olarak değerlendirilebileceğidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p01:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Risale-i Nur talebeleri için hapse dair meselelerin okunması neden önemli görülüyor?",
+          "answer": "Çünkü bu derslerin onların terbiyesine ve manevî gelişimine katkı sağlayacağı düşünülüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,833 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:2-sinif:p19",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "2-sinif",
+  "partNo": "p19",
+  "partNumber": 19,
+  "title": "6. Söz: Beş derece hasaret (1-5); zayi mal-ömür, hıyanet, sukut, ağır yük, Cehennem kapıları",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/2-sinif/SveC_2sinif_kucuk-sozler-p19-6-soz-bes-derece-hasaret-1-5-zayi-mal-omur-hiyanet-sukut-agir-yuk-cehennem-kapilari.txt",
+  "sourceRevision": "f6e5efd5d73210dd52eb83c80d6f18c50d98882b50016e419ef64e94c336955a",
+  "setCount": 6,
+  "questionCount": 67,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu kârlı işi yapmayan kişi kaç türlü zarara düşer?",
+          "answer": "Beş türlü zarara düşer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İlk zararda insanın sevdiği hangi şeyler elinden gider?",
+          "answer": "Malı, çocukları, gençliği, hayatı ve nefsinin istediği şeyler gider.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu giden şeyler insana geride ne bırakır?",
+          "answer": "Günah ve üzüntü bırakır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci zararda hangi suçun cezası anlatılır?",
+          "answer": "Emanete kötü davranmanın cezası anlatılır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İnsan burada değerli şeylerini nasıl yanlış kullanmıştır?",
+          "answer": "Onları değersiz işler için kullanmıştır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncü zararda insanın özellikleri hangi seviyeden daha aşağı düşürülür?",
+          "answer": "Hayvandan da aşağı bir seviyeye düşürülür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Dördüncü zararda insan hangi iki hâliyle ağır hayat yükünü taşır?",
+          "answer": "Güçsüzlük ve fakirlikle taşır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu ağır yük yüzünden insanın hâli nasıl olur?",
+          "answer": "Sürekli inler ve acı çeker.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Beşinci zararda hangi güzel nimetler kötü bir sonuca çevrilir?",
+          "answer": "Akıl, kalp, göz ve dil gibi nimetler kötüye çevrilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu kötü çevirmenin sonu hangi kapıları açar?",
+          "answer": "Cehennem kapılarını açar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S1Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde yapılmayan şey, sonunda kazanç mı getirir yoksa kayıp mı?",
+          "answer": "Kayıp getirir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Anlatılan kayıplar yalnız bir tane midir, yoksa art arda mıdır?",
+          "answer": "Art arda olan beş kayıptır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Birinci kayıpta dünyada sevilen şeylerin sonu ne olur?",
+          "answer": "Yok olup giderler.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan bu kayıpta sadece sevdiği şeyleri mi kaybeder, yoksa başka yükler de alır mı?",
+          "answer": "Başka yükler de alır; günah ve acılar kalır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci kaybın sebebi nedir?",
+          "answer": "Emaneti yanlış yerde kullanmaktır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Burada insan en değerli nimetlere nasıl davranmıştır?",
+          "answer": "Onları ucuz ve değersiz işlerde harcamıştır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü kayıpta insanın yaratılıştaki değerine ne olur?",
+          "answer": "Çok aşağı düşer.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu düşüş sadece insana mı zarar verir, yoksa ilahî hikmete karşı da yanlış olur mu?",
+          "answer": "İlahî hikmete karşı da yanlış olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Dördüncü kayıpta insan hayat yükünü kolay mı taşır, zor mu taşır?",
+          "answer": "Çok zor taşır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu yük altında insanın içinde hangi duygular çoğalır?",
+          "answer": "Ayrılık acısı ve feryat çoğalır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Son kayıpta güzel verilen organ ve duygular ne için verilmişti?",
+          "answer": "Sonsuz hayat için hazırlanmak üzere verilmişti.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "İnsan bunları kötü kullanırsa neye dönüşür?",
+          "answer": "Kötü bir sonuca götüren araçlara dönüşür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S2Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde kârlı iş yapılmazsa insan neyin dışında kalır?",
+          "answer": "Kazançlardan uzak kalır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Kazançlardan uzak kalmanın yanında insan neye de düşer?",
+          "answer": "Büyük zararlara düşer.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İlk zararda insanın çok bağlandığı şeyler kalıcı mıdır?",
+          "answer": "Hayır, kalıcı değildir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci zararın sonunda insanın boynuna yüklenen iki şey nedir?",
+          "answer": "Günahlar ve kederlerdir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci zararda insan kime ait olan emanete yanlış davranmıştır?",
+          "answer": "Allah’ın verdiği emanete yanlış davranmıştır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Değerli uzuvları boş işlerde kullanmak insana iyilik mi, kötülük mü eder?",
+          "answer": "Kötülük eder.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Üçüncü zararda insanın cihazları doğru kullanılmayınca hangi kötü dereceye iner?",
+          "answer": "Çok aşağı bir dereceye iner.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Dördüncü zararda insanın hayat yükü neden daha da ağır gelir?",
+          "answer": "Çünkü insan zaten güçsüz ve ihtiyaç içindedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümde ayrılık ve bitiş darbeleri altında insan ne yapar?",
+          "answer": "Feryat eder.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Beşinci zararda sayılan dört güzel nimet nedir?",
+          "answer": "Akıl, kalp, göz ve dildir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu nimetleri yanlış yolda kullanmak ahirette neye sebep olur?",
+          "answer": "Cehenneme götüren bir hâle sebep olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S3Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümde toplam kaç hasar basamağı anlatılıyor?",
+          "answer": "Beş basamak anlatılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İlk basamakta insanın sevdiği şeylerin ortak özelliği nedir?",
+          "answer": "Hepsi geçicidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu geçici şeyler giderken insana hediye mi bırakır, yoksa yük mü bırakır?",
+          "answer": "Yük bırakır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu yükler hangi iki çeşittir?",
+          "answer": "Günah ve acıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci basamakta insanın kendi nefsine yaptığı yanlış nedir?",
+          "answer": "Kendine zulmetmesidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Kendine zulmetmesinin sebebi ne olarak gösteriliyor?",
+          "answer": "Kıymetli nimetleri kıymetsiz işlerde kullanmasıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü basamakta insanın sahip olduğu özel donanımların değeri artıyor mu, azalıyor mu?",
+          "answer": "Azalıyor.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Hatta hangi seviyeden de aşağı indiği söyleniyor?",
+          "answer": "Hayvan seviyesinden de aşağı indiği söyleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Dördüncü basamakta insanın beline yüklenen şey nedir?",
+          "answer": "Ağır hayat yüküdür.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "İnsan bu yük altında nasıl bir ses ve hâl içindedir?",
+          "answer": "Sürekli ağlayıp sızlayan bir hâldedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Beşinci basamakta verilen güzel hediyeler aslında ne için lazımdı?",
+          "answer": "Ahiret mutluluğuna hazırlanmak için lazımdı.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu hediyeler kötüye çevrilince insanı nereye götürür?",
+          "answer": "Cehenneme götürür.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S4Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre bu güzel alışveriş yapılmazsa sadece bir zarar mı olur?",
+          "answer": "Hayır, beş büyük zarar olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci zararda insanın çok sevdiği dünya nimetleri onun yanında kalır mı?",
+          "answer": "Kalmaz.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu nimetler gittikten sonra insana ağır gelen ne kalır?",
+          "answer": "Günahları ve sıkıntıları kalır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci zararda suçun adı nedir?",
+          "answer": "Emanete ihanet etmektir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İnsan hangi tür araçları yanlış yere harcamıştır?",
+          "answer": "Çok değerli araçları yanlış yere harcamıştır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncü zararda insanın değeri yükselir mi, düşer mi?",
+          "answer": "Düşer.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu düşüş ne kadar kötüdür?",
+          "answer": "Hayvandan aşağıya inecek kadar kötüdür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Dördüncü zararda insanda zaten bulunan iki zorluk nedir?",
+          "answer": "Güçsüzlük ve yoksulluktur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu iki zorlukla birlikte hayat yükünü taşımak insana ne yapar?",
+          "answer": "Onu çok yorar ve ağlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Son zararda akıl, kalp, göz ve dil nasıl nimetlerdir?",
+          "answer": "Güzel ve rahmetten gelen nimetlerdir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu nimetler kötü kullanılırsa hangi kötü işe yarar hâle gelir?",
+          "answer": "Cehenneme yol açan bir hâle gelir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S5Q10"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada yapılmayan işin sonucu nimet mi, mahrumiyet mi?",
+          "answer": "Mahrumiyettir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Mahrumiyetin yanında insan başka ne yaşar?",
+          "answer": "Büyük kayıplar yaşar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İlk kayıpta insanın sevdiği şeylerin kalmaması bize onların hangi özelliğini gösterir?",
+          "answer": "Geçici olduklarını gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu ilk kayıpta insanın üstünde kalan manevi yükler nelerdir?",
+          "answer": "Günahlar ve üzüntülerdir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci kayıpta ceza görmenin sebebi, emanetleri nasıl kullanmaktır?",
+          "answer": "Yanlış ve değersiz yerlerde kullanmaktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu yanlış kullanım insana fayda mı verir, zarar mı?",
+          "answer": "Zarar verir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü kayıp, insanın kıymetli tarafları için nasıl bir düşüş anlatır?",
+          "answer": "Çok aşağı bir düşüş anlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu eziliş sürüp gidince insanın dili ve hâli nasıl olur?",
+          "answer": "Sürekli feryat eden bir hâli olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Beşinci kayıpta hangi organlar örnek olarak söylenir?",
+          "answer": "Akıl, kalp, göz ve dil söylenir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu organlar doğru hazırlık için verilmişken kötü kullanılırsa ne olur?",
+          "answer": "İnsanın aleyhine döner.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p19:2-sinif:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p19:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Parçaya göre insanın en önemli sorumluluğu nedir?",
+          "answer": "Kendisine verilen nimetleri Allah’ın istediği gibi kullanmaktır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:2-sinif:p34",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "2-sinif",
+  "partNo": "p34",
+  "partNumber": 34,
+  "title": "9. Söz: Beş vakit namazın vakitlere tahsisi; giriş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/2-sinif/SveC_2sinif_kucuk-sozler-p34-9-soz-bes-vakit-namazin-vakitlere-tahsisi-giris.txt",
+  "sourceRevision": "c3910ef4615b7b59e251bebd14733f228d62dc99e2bbf50772749bd1acbf6f32",
+  "setCount": 6,
+  "questionCount": 56,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Namaz için özellikle kaç vakitten söz ediliyor?",
+          "answer": "Beş vakitten söz ediliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu yüzden o vakitlerde ne yapmamız istenir?",
+          "answer": "Allah’ı anmamız, yüceltmemiz ve O’na şükretmemiz istenir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p34:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İki vakit arasında biriken nimetlere karşı namaz ne olur?",
+          "answer": "Bir teşekkür olur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada bir kardeş, neyin hikmetini soruyor?",
+          "answer": "Namazın neden beş vakit olduğunun hikmetini soruyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Çok hikmetten kaç tanesine işaret edileceği söyleniyor?",
+          "answer": "Bir tanesine işaret edileceği söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Namaz vakitleri neden kıymetli görülüyor?",
+          "answer": "Çünkü önemli zaman dönümleridir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "O zamanlarda Allah’ın nimetleri için hangi iki şey yapılır?",
+          "answer": "Hamd edilir ve şükredilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Namazın manasını daha iyi anlamak için neyi dinlemek gerektiği söyleniyor?",
+          "answer": "Beş nükteyi dinlemek gerektiği söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Namazın özünde bulunan üç ana anlam nedir?",
+          "answer": "Tesbih, ta’zim ve şükürdür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Allah’ın yüceliği karşısında hangi söz söylenir?",
+          "answer": "Sübhanallah söylenir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Allah’ın büyüklüğü karşısında hangi söz söylenir?",
+          "answer": "Allahu Ekber söylenir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Allah’ın iyilikleri karşısında hangi söz söylenir?",
+          "answer": "Elhamdülillah söylenir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "İbadetin anlamında kul, Allah’ın huzurunda kendini nasıl görür?",
+          "answer": "Eksik, güçsüz ve muhtaç görür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Allah’ın tertemiz olduğunu bildirmek için kul ne yapar?",
+          "answer": "Tesbih eder.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Allah’ın büyük kudreti karşısında kulun hangi hâli öne çıkar?",
+          "answer": "Aczi ve zayıflığı öne çıkar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın başında Allah’ı hangi zamanlarda tesbih etmekten söz ediliyor?",
+          "answer": "Günün değişen zamanlarında tesbih etmekten söz ediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Sonraki cümlelerde özellikle hangi ibadet üzerinde duruluyor?",
+          "answer": "Namaz üzerinde duruluyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Namazın vakitleri, Allah’ın neyi için bir ayna gibi anlatılıyor?",
+          "answer": "İlâhî tasarrufları için bir ayna gibi anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu vakitlerde gelen nimetleri düşünmek insanı hangi güzel işe götürür?",
+          "answer": "Şükretmeye götürür.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Namazın manasını anlamak için anlatım kaç bölüm hâlinde ilerliyor?",
+          "answer": "Beş bölüm hâlinde ilerliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Birinci nükteye göre namazın anlamı üç parçadan oluşur. Bunlar nelerdir?",
+          "answer": "Tesbih, ta’zim ve şükürdür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Rükû ile hangi gerçek daha iyi anlaşılır?",
+          "answer": "Kulun zayıf, Allah’ın ise çok kudretli olduğu gerçeği anlaşılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S3Q17",
+          "sourceQuestionId": "S3Q17",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 17,
+          "question": "Üçüncü nükteye göre insan büyük kâinata göre nasıl anlatılır?",
+          "answer": "Küçük bir örnek gibi anlatılır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu metinde sorulan ana soru nedir?",
+          "answer": "Namazın neden beş vakit olduğudur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta her vaktin sıradan bir zaman olmadığı nasıl anlatılıyor?",
+          "answer": "Her vaktin önemli bir dönüm olduğu anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p34:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Namaz, iki vakit arasında gelen nimetler için ne sayılır?",
+          "answer": "Toplu bir şükür sayılır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci nükteye göre namazın içinde üç temel söz bulunur. Bunlar hangileridir?",
+          "answer": "Sübhanallah, Allahu Ekber ve Elhamdülillah.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Allah’ın noksansız olduğunu söylemek hangi söze girer?",
+          "answer": "Sübhanallah sözüne girer.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Allah’ın en büyük olduğunu söylemek hangi söze girer?",
+          "answer": "Allahu Ekber sözüne girer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Allah’a teşekkür etmek hangi söze girer?",
+          "answer": "Elhamdülillah sözüne girer.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci nükteye göre ibadet eden kul, kendi içinde hangi üç şeyi fark eder?",
+          "answer": "Kusurunu, aczini ve fakirliğini fark eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Kul, Allah’ın tertemiz oluşunu nasıl bildirir?",
+          "answer": "Tesbih ederek bildirir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Kul, Allah’ın büyük kudreti karşısında ne yapmaya yönelir?",
+          "answer": "Rükû etmeye ve Allah’a sığınmaya yönelir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S4Q15",
+          "sourceQuestionId": "S4Q15",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 15,
+          "question": "Namazın hareket ve sözleri boşuna mı konmuştur?",
+          "answer": "Hayır, derin manalar için konmuştur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde anlatılan ibadetin vakitleri belli midir?",
+          "answer": "Evet, belli vakitlerdir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu vakitlerin sayısı kaçtır?",
+          "answer": "Beştir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu zamanlarda kulun diliyle ve kalbiyle ne yapması uygun görülür?",
+          "answer": "Allah’ı anması, yüceltmesi ve O’na şükretmesi uygun görülür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p34:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Namazın manasını anlamak için sözü edilen ilk önemli nokta nedir?",
+          "answer": "Namazın tesbih, ta’zim ve şükür olduğudur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Tesbih ederken kul Allah hakkında ne söyler?",
+          "answer": "O’nun her eksikten uzak olduğunu söyler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Ta’zim ederken kul neyi dile getirir?",
+          "answer": "Allah’ın çok büyük olduğunu dile getirir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Şükür ederken kul neyi hatırlar?",
+          "answer": "Allah’ın verdiği nimetleri hatırlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "İbadetin anlamı anlatılırken kulun Allah’ın huzurunda ne yapması söylenir?",
+          "answer": "Kendi eksikliğini anlayıp secde etmesi söylenir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde namazın hangi yönü açıklanıyor?",
+          "answer": "Beş vakit oluşunun hikmeti açıklanıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Her namaz vakti neden önemlidir?",
+          "answer": "Çünkü büyük değişim zamanıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu vakitler Allah’ın neyi için bir yansıma gibidir?",
+          "answer": "İlâhî işleri ve nimetleri için bir yansıma gibidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Kul bu vakitlerde Allah’a hangi üç yolla yönelir?",
+          "answer": "Tesbih, yüceltme ve şükürle yönelir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Namazın manasını öğrenmek için kaç nükte dinlenmesi isteniyor?",
+          "answer": "Beş nükte dinlenmesi isteniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Birinci nükteye göre namazın ilk ana manası nedir?",
+          "answer": "Tesbihtir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci ana manası nedir?",
+          "answer": "Ta’zimdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Üçüncü ana manası nedir?",
+          "answer": "Şükürdür.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu üç ana mana namazda sadece sözlerde mi bulunur?",
+          "answer": "Hayır, sözlerde ve hareketlerde bulunur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p34:2-sinif:S6Q6",
+            "kucuk-sozler:p34:2-sinif:S6Q7",
+            "kucuk-sozler:p34:2-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci nükteye göre kul, ibadet ederken önce kendi hangi hâllerini fark eder?",
+          "answer": "Aczini, fakirliğini ve kusurunu fark eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Allah’ın tertemiz ve kusursuz olduğunu bildiren davranış nedir?",
+          "answer": "Tesbih etmektir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Allah’ın büyük kudreti karşısında rükû etmek neyi gösterir?",
+          "answer": "Kula düşenin boyun eğmek olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q16",
+          "sourceQuestionId": "S6Q16",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 16,
+          "question": "Metne göre namazın hareketleri ve sözleri anlamlı mıdır?",
+          "answer": "Evet, hepsi anlamlıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p34:2-sinif:S6Q17",
+          "sourceQuestionId": "S6Q17",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 17,
+          "question": "Üçüncü nükteye göre insan, büyük âlemin nasıl bir örneğidir?",
+          "answer": "Küçük bir örneğidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

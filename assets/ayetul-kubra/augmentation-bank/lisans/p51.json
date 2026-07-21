@@ -1,0 +1,864 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:lisans:p51",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "lisans",
+  "partNo": "p51",
+  "partNumber": 51,
+  "title": "Kur'an'ın i'caz ve şehadeti (17. mertebe): Kur'an'a müracaat ve Risale-i Nur'a havale",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/lisans/SveC_lisans_ayetul-kubra-p51-kuranin-icaz-ve-sehadeti-17-mertebe-kurana-muracaat-ve-risale-i-nura-havale.txt",
+  "sourceRevision": "da0277c52171cc45771fa3b8bb9636123a6131443e5b2f6500e66643e7eec2c5",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcunun, dünyadaki hayatın asıl değeri hakkında vardığı kanaat nedir?",
+          "answer": "Hayatın gerçek maksadının ve hayatı diri tutan esasın iman olduğunu düşünmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kanaat sebebiyle yolcu hangi kaynağa başvurmaya karar vermiştir?",
+          "answer": "Aradığı hakikati anlamak için Kur’an’a yönelmeye karar vermiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Kur’an’a doğrudan bakmadan önce çözülmesi gereken temel mesele nedir?",
+          "answer": "Bu kitabın gerçekten Hâlık’ın kelâmı olduğunun ispat edilmesi gerektiğini kabul etmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Yolcu, yaşadığı çağla ilgili hangi sebeple önce belli bir esere bakmıştır?",
+          "answer": "Kendi zamanında bulunduğu için önce Kur’an’ın manevî mucizeliğini gösteren Risale-i Nur’a müracaat etmiştir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Risale-i Nur’un Kur’an’la ilişkisi nasıl tanıtılmaktadır?",
+          "answer": "Kur’an âyetlerinin inceliklerini açıklayan, ışıklarını gösteren ve sağlam bir tefsir vazifesi gören bir eser topluluğu olarak sunulmaktadır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Risale-i Nur’un güçlü bir delil sayılmasına metinde hangi gözlem dayanak yapılmaktadır?",
+          "answer": "İnatçı inkârın yaygın olduğu bir dönemde Kur’an hakikatlerini cesaretle yaydığı halde ona karşı etkili bir karşılık getirilememesi delil kabul edilmektedir.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu durumdan Kur’an hakkında hangi sonuca ulaşılmaktadır?",
+          "answer": "Onun insan sözü değil, semavî kaynaklı ilahî bir kitap olduğu neticesine varılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde, Kur’an’ın mucize oluşunu ayrıntılı biçimde gösteren hangi iki kısma işaret edilmektedir?",
+          "answer": "Birisi Yirmi Beşinci Söz, diğeri de Ondokuzuncu Mektub’un son kısmıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu iki bölümün Kur’an hakkında ortaya koyduğu ana iddia nedir?",
+          "answer": "Kur’an’ın birçok yönden mucize olduğunu kuvvetli biçimde ortaya koydukları belirtilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu ispatları gören kimselerin tavrı nasıl anlatılmaktadır?",
+          "answer": "Karşı çıkmak yerine hayranlık duyup takdirle karşıladıkları ifade edilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde neden ayrıntılı delillendirme yapılmayıp kısa bir işaretle yetinilmektedir?",
+          "answer": "Çünkü Kur’an’ın mucizeliğini ve ilahî kelâm oluşunu açıklama görevi esasen Risale-i Nur’a bırakılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Yolcunun bu safhadaki tutumu, imanî araştırma açısından neyi göstermektedir?",
+          "answer": "Körü körüne kabulle yetinmeyip önce delil arayan, sonra hükme varan araştırmacı bir yaklaşımı göstermektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcunun kalbine yaptığı hitapta öne çıkan ilk düşünce nedir?",
+          "answer": "En çok bilinen, en parlak ve hükmü baskın olan kelâmın ne söylediğini öğrenmek istemesidir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Başvurulacak kitabın hangi vasfı özellikle vurgulanmaktadır?",
+          "answer": "Her devirde kendisine boyun eğmeyenlere meydan okuyan eşsiz bir kitap oluşu öne çıkarılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Yolcu, Kur’an hakkında bilgi edinmek için nasıl bir yöntem izlemektedir?",
+          "answer": "Önce onun kaynağını araştırmakta, ardından ne dediğini anlamaya yönelmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre iman ile hakikati arama arasında nasıl bir bağ kurulmaktadır?",
+          "answer": "İmanın hayatın özü olduğuna inanan kişi, bunun için en güvenilir ilahî hitabı araştırma ihtiyacı duymaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Risale-i Nur’un yüz otuz risalesi hakkında hangi genel değerlendirme yapılmaktadır?",
+          "answer": "Bunların Kur’an âyetlerinin inceliklerini ve nurlarını açıklayan temel tefsirler olduğu belirtilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Risale-i Nur’un faaliyet tarzı metinde nasıl tasvir edilmektedir?",
+          "answer": "Kur’an hakikatlerini mücadele ruhuyla ve geniş bir sahada yaydığı anlatılmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Muhaliflerin karşılık verememesi hangi mantık yürütmesiyle delil kabul edilmektedir?",
+          "answer": "Böyle bir eserin dayandığı asıl kaynağın insan ürünü değil, daha yüce bir menşeden geldiği sonucu çıkarılmaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an ile Risale-i Nur arasında kaynak bakımından nasıl bir hiyerarşi kurulmaktadır?",
+          "answer": "Risale-i Nur talebe ve açıklayıcı konumunda, Kur’an ise üstad, kaynak ve ana güneş konumundadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Yirmi Beşinci Söz ile Ondokuzuncu Mektub’un son bölümünün önemi nedir?",
+          "answer": "Bu kısımlar, Kur’an’ın mucize oluşunu çok yönlü delillerle gösteren örnekler olarak öne çıkarılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu delilleri görenlerin tenkit yerine takdir göstermesi neyi ima eder?",
+          "answer": "Delillerin kuvvetli, ikna edici ve kolayca çürütülemez olduğunu düşündürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde “kısa işaret” ile yetinilmesi okuyucuya nasıl bir mesaj verir?",
+          "answer": "Asıl ayrıntılı tahkikin başka yerde bulunduğunu, burada ise dikkatleri ana noktaya yöneltme maksadı güdüldüğünü gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün pasaj birlikte düşünüldüğünde, yolcunun arayışı daha çok duygusal mı yoksa tahkikî midir?",
+          "answer": "Daha çok tahkikîdir; çünkü şöhret veya gelenekle değil, delil ve ispatla hareket etmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde geçen yolcu neden “yorulmaz ve tok olmaz” şeklinde nitelenmiştir?",
+          "answer": "Çünkü hakikati arama isteği sönmeyen, öğrendikçe daha derinini isteyen bir arayış içindedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Yolcunun “aradığımız zâtın sözü” ifadesiyle yöneldiği şey nedir?",
+          "answer": "Hâlık’ın insanlara hitabı olarak görülen ilahî kitap kastedilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu kitap için sayılan “meşhur, parlak, hâkim” gibi nitelemeler neyi gösterir?",
+          "answer": "Kur’an’ın insanlar üzerindeki tesirinin yaygın, güçlü ve üstün görüldüğünü gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Yolcu, Kur’an’ın söylediklerini öğrenmeden önce neden kimden geldiğini araştırmaktadır?",
+          "answer": "Çünkü sözün değerini tam anlayabilmek için önce sahibinin gerçekten Hâlık olduğunun ispatını gerekli görmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Yaşanılan çağ ile Risale-i Nur’a yönelme arasında nasıl bir ilişki kurulmuştur?",
+          "answer": "Bulunulan zaman diliminde Kur’an’ın manevî mucizeliğini gösteren parlak delillerin orada görüldüğü kabul edilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Risale-i Nur’un Kur’an’a ait hangi yönleri açığa çıkardığı belirtilmektedir?",
+          "answer": "Âyetlerin derin anlamlarını, işaretlerini ve aydınlatıcı taraflarını ortaya koyduğu ifade edilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde geçen “inatçı ve inkârcı asır” ifadesi, delilin değerini nasıl artırmaktadır?",
+          "answer": "Böylesine zor bir ortamda bile karşı konulamaması, ileri sürülen hakikatlerin gücünü daha belirgin hale getirmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Risale-i Nur’un başarılı oluşu, dolaylı olarak Kur’an hakkında neye şahitlik etmektedir?",
+          "answer": "Dayandığı kitabın üstün ve ilahî bir kaynak olduğunu desteklemektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an’ın insan sözü olmadığı hükmü doğrudan hangi gözleme bağlanmıştır?",
+          "answer": "Onun hakikatlerini açıklayan esere karşı ciddi bir cevap getirilememesine bağlanmıştır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde Kur’an’ın mucizeliğinin bütün yönleri burada anlatılıyor mu?",
+          "answer": "Hayır; ayrıntılı ispat başka eserlere bırakılıp burada sadece bazı dikkat çekici noktalar öne alınmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Delilleri görenlerin hayran kalması, metnin ikna tarzı hakkında ne söyler?",
+          "answer": "Sadece duygusal etkilemeye değil, aklı tatmin eden güçlü açıklamalara dayandığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajdan hareketle sağlam iman için nasıl bir öğrenme usulü önerilmektedir?",
+          "answer": "Soru soran, delil arayan, güvenilir kaynaklara bakan ve sonra kanaat oluşturan bir usul önerilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu açısından iman neden yalnızca bir inanç konusu değil, aynı zamanda hayatî bir mesele olarak görülmektedir?",
+          "answer": "Çünkü iman, hem yaşamın amacı hem de ona gerçek canlılık kazandıran temel unsur olarak değerlendirilmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Kur’an’a yönelirken ilk hedef, onun hükümlerini öğrenmek mi yoksa kaynağını doğrulamak mıdır?",
+          "answer": "Öncelik, onun ilahî kaynaklı olduğunu doğrulamaktır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kur’an’ın herkesçe teslim alınmayanlara meydan okuması hangi özelliğine işaret eder?",
+          "answer": "Kendine güvenen, üstünlüğünü sürdüren ve zamanla sarsılmayan bir kitap olduğuna işaret eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Risale-i Nur’a “Kur’an’ın manevî mucizeliğinin parıltıları” denmesi ne anlama gelir?",
+          "answer": "Kur’an’daki olağanüstü yönlerin o eserlerde yansıma ve açıklama bulduğu anlamına gelir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu eserlerin âyetlerle ilişkisi sadece açıklama düzeyinde midir, yoksa başka bir fonksiyonu da var mıdır?",
+          "answer": "Açıklamanın yanında, âyetlerin nurunu ve ince hikmetlerini görünür kılma görevi de vardır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre Risale-i Nur’un dönemi neden özellikle dikkat çekicidir?",
+          "answer": "Çünkü bu dönem, inkârın ve direnişin yoğun olduğu zor bir zaman olarak tasvir edilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Böylesi bir zamanda hakikatleri yaymasına rağmen karşı konulamaması nasıl yorumlanmaktadır?",
+          "answer": "Onun arkasındaki kaynağın güçlü ve beşer üstü olduğuna dair bir işaret sayılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an’ın “üstad, kaynak, başvuru yeri ve güneş” olarak anılması neyi anlatır?",
+          "answer": "Risale-i Nur’un değerinin bağımsız değil, Kur’an’dan aldığı feyiz ve otoriteyle anlam kazandığını anlatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde adı geçen iki risale niçin örnek olarak seçilmiş görünmektedir?",
+          "answer": "Çünkü Kur’an’ın mucizeliğini çok yönlü ve ikna edici biçimde gösteren belirgin örnekler olarak görülmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "İnsanların bu deliller karşısında eleştiri yerine takdir göstermesi, hangi sonucu destekler?",
+          "answer": "İleri sürülen açıklamaların güçlü ve tesirli olduğu sonucunu destekler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "“Ayrıntıyı başka yere havale etme” yöntemi, metnin akışı bakımından ne sağlar?",
+          "answer": "Ana meseleyi dağıtmadan özlü bir çerçeve kurar ve okuyucuyu esas delillere yönlendirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajın ana fikri tek cümleyle nasıl ifade edilebilir?",
+          "answer": "İman arayışındaki kişi, Kur’an’ın ilahî kitap oluşunu araştırırken bunu destekleyen açıklamaları görüp Kur’an’ın üstünlüğüne dikkat kesilir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcu hangi bilinçle hareket ettiği için Kur’an’a başvurma ihtiyacı hissetmektedir?",
+          "answer": "İmanın insan hayatının en temel hakikati olduğunu bildiği için böyle davranmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Kur’an’ın dünyadaki yeri metinde nasıl tasvir edilmektedir?",
+          "answer": "En tanınmış, en parlak ve etkisi baskın olan ilahî hitap olarak tanıtılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Kur’an’ın her asırda meydan okuması neye delalet eder?",
+          "answer": "Zamanla eskimeyen ve rakiplerine karşı üstünlüğünü koruyan bir kuvvete sahip olduğuna delalet eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Yolcu neden hemen içerik incelemesine geçmemektedir?",
+          "answer": "Önce kitabın gerçekten Hâlık’a ait olduğunu kesinleştirmek istemektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Risale-i Nur’un Kur’an’la bağını gösteren üç temel işlev nedir?",
+          "answer": "Âyetlerin inceliklerini açıklaması, onların nurlarını göstermesi ve esaslı tefsir vazifesi görmesidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde Risale-i Nur’un yayma faaliyeti için nasıl bir üslup kullanılmaktadır?",
+          "answer": "Mücadeleci, cesur ve yaygın bir neşir faaliyeti olarak anlatılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Karşısına kimsenin çıkamaması yalnızca eserin gücünü mü, yoksa daha fazlasını mı gösterir?",
+          "answer": "Daha fazlasını gösterir; aynı zamanda dayandığı Kur’an’ın semavî oluşuna işaret eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an’ın beşer kelâmı olmadığı hükmüne ulaşırken nasıl bir dolaylı delil kullanılmaktadır?",
+          "answer": "Kur’an’dan beslenen açıklayıcı eserin bile çürütülememesi, asıl kaynağın insan üstü olduğunu düşündüren dolaylı bir delil olarak kullanılmaktadır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Yirmi Beşinci Söz ve Ondokuzuncu Mektub’un son kısmı burada hangi amaçla anılmaktadır?",
+          "answer": "Kur’an’ın mucize yönlerinin ayrıntılı biçimde başka yerde ispat edildiğini göstermek amacıyla anılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümlere bakanların ortak tepkisi ne olmuştur?",
+          "answer": "İtiraz etmek yerine hayranlık ve övgü ile yaklaşmaları olmuştur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Metin, okuyucuyu ayrıntılı delilden tamamen mahrum mu bırakmaktadır?",
+          "answer": "Hayır; ayrıntıyı başka eserlere yönlendirirken burada da büyüklüğünü hissettiren özet bir çerçeve sunmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın bütününe göre hakikati arayan bir gencin nasıl bir tavır sahibi olması gerekir?",
+          "answer": "Merakını diri tutan, delile dayanan, sağlam kaynaklara başvuran ve inancını tahkikle kuvvetlendiren bir tavır sahibi olması gerekir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda yolcunun iç konuşması hangi temel arayışın ifadesidir?",
+          "answer": "Allah’ı ve O’nun hitabını sağlam delillerle tanıma arayışının ifadesidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Hayatın hedefi ile Kur’an’a yöneliş arasında nasıl bir bağ kurulmaktadır?",
+          "answer": "Hayatın gerçek gayesi iman olunca, bu gayeyi besleyen ilahî kelâmı öğrenmek zaruri hale gelmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Kur’an’ın üstünlüğü metnin başında hangi üç açıdan öne çıkarılmaktadır?",
+          "answer": "Tanınmış olması, parlak bir değer taşıması ve hükmünün güçlü olması açısından öne çıkarılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde niçin önce “bu kitap kimin kelâmıdır?” sorusu ele alınmaktadır?",
+          "answer": "Çünkü mesajın bağlayıcılığı ve kıymeti, onu söyleyenin kim olduğunun kesinleşmesine bağlı görülmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Yolcunun ilk baktığı kaynak neden doğrudan başka bir eser olmuştur?",
+          "answer": "Kendi çağında Kur’an’ın mucizeliğini açıklayan canlı delilleri önce o eserde gördüğü için oradan başlamıştır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Risale-i Nur’un, Kur’an âyetleriyle ilgili yaptığı katkı nasıl özetlenebilir?",
+          "answer": "Âyetlerin anlam derinliğini açıp onların rehberliğini daha görünür hale getirmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde dönemin “inatçı ve inkârcı” olarak nitelenmesi neyi hissettirir?",
+          "answer": "Hakikatin kabulünün zorlaştığı bir ortamda delilin daha çetin bir imtihandan geçtiğini hissettirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Böyle bir ortamda etkili bir reddiye gelmemesi hangi hükme zemin hazırlamaktadır?",
+          "answer": "Kur’an’ın gökten gelen ilahî bir kelâm olduğu hükmüne zemin hazırlamaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an ile Risale-i Nur arasındaki ilişkiyi “güneş ve yansıma” benzetmesiyle nasıl açıklayabiliriz?",
+          "answer": "Asıl ışık Kur’an’dadır; Risale-i Nur ise o ışığı gösteren ve insanlara ulaştıran bir ayna gibidir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde anılan iki bölümün kırk farklı yönden ispat yapması neyi gösterir?",
+          "answer": "Konunun tek bir noktaya değil, çok cepheli ve sağlam bir delillendirmeye dayandığını gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Delilleri görenlerin takdir etmesi, yalnız müminler için mi anlamlıdır, yoksa genel bir ikna gücüne mi işaret eder?",
+          "answer": "Genel bir ikna gücüne işaret eder; çünkü tepki, itirazdan çok hayranlık şeklinde anlatılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p51:lisans:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p51:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan çıkarılacak eğitim dersi nedir?",
+          "answer": "İmanî meselelerde genç insanın hem kalbini hem aklını çalıştırarak, ilahî hakikati araştırma ve delille öğrenme yolunu tutması gerektiğidir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

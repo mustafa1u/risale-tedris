@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:2-sinif:p70",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "2-sinif",
+  "partNo": "p70",
+  "partNumber": 70,
+  "title": "10. Mes'ele / Emirdağı Çiçeği: Medenî üslûbun hikmeti (tafsil, fezleke-hâtime)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/2-sinif/SveC_2sinif_meyve-risalesi-p70-10-mesele-emirdagi-cicegi-medeni-uslubun-hikmeti-tafsil-fezleke-hatime.txt",
+  "sourceRevision": "0aafab42098cf57bbb6c7da26ae93bacb6022bfe8ccc2906f464a311fbfc3163",
+  "setCount": 6,
+  "questionCount": 58,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Medine’de inen sûrelerde ilk karşıdaki topluluk kimlerdi?",
+          "answer": "Yahudi ve Hristiyan olan kitap ehliydi.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu sûrelerde anlatım nasıl kurulmuştur?",
+          "answer": "Açık, sade ve ayrıntılı kurulmuştur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu bölümde daha çok dinin hangi kısmı anlatılır?",
+          "answer": "Uyuşmazlık çıkan hükümler, kurallar ve ayrıntılar anlatılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Küçük bir dinî mesele anlatılırken sonra ne yapılır?",
+          "answer": "Arkasından büyük bir özet ve kuvvetli bir sonuç getirilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu son kısım insanı hangi büyük inanca yöneltir?",
+          "answer": "Allah’a iman etmeye ve ahireti hatırlamaya yöneltir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Böyle olunca anlatılan yer nasıl bir hâl alır?",
+          "answer": "Daha aydınlık, daha yüce ve daha genel bir ders olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Âyet sonlarında gelen kısa güçlü ifadeler ne işe yarar?",
+          "answer": "Anlatılanı toparlar ve kuvvetlendirir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Risale-i Nur bu son cümleler hakkında ne söylediğini bildiriyor?",
+          "answer": "Onlarda büyük güzellikler ve ince manalar bulunduğunu anlatıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu güzelliklerden kaç tanesinin açıklandığı söyleniyor?",
+          "answer": "On tanesinin açıklandığı söyleniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu özetli sonlarda nasıl bir büyüklük bulunduğu ifade ediliyor?",
+          "answer": "Büyük bir mucizelik olduğu ifade ediliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S1Q4"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Medine sûrelerinin muhatapları Allah’ı tamamen inkâr edenler mi, yoksa Allah’ı kabul eden kitap ehli mi?",
+          "answer": "Allah’ı kabul eden kitap ehliydi.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yüzden onlara karşı hangi konuların açıklanması gerekli görülmüştür?",
+          "answer": "Şeriat hükümleri, ayrıntılar ve genel kuralların dayanakları açıklanmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Anlatımın sade olması neye uygundur?",
+          "answer": "Duruma ve doğru yol göstermeye uygundur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Medine sûrelerinde yalnız ayrıntı mı vardır, yoksa büyük inanç dersleri de bağlanır mı?",
+          "answer": "Büyük inanç dersleri de bağlanır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Küçük bir olayın sonuna eklenen tevhid cümlesi ne sağlar?",
+          "answer": "O olayı büyütür ve imanla bağlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bu son cümlelerin anlatımı için hangi özellikler söyleniyor?",
+          "answer": "Güçlü, güzel ve ince manalı oldukları söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu bölümde geçen eser, bu sonlarda bulunan yönleri nasıl ele almıştır?",
+          "answer": "Bir kısmını seçip açıklamıştır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Açıklanan bu yönler inatçı kimselere karşı neyi göstermektedir?",
+          "answer": "Kur’an’daki büyük mucizeliği göstermektedir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S2Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Medine âyetlerinde neden ayrıntılı açıklama gerekir?",
+          "answer": "Çünkü karşıdaki kitap ehliyle bazı dinî hükümlerde anlaşmazlık vardır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu âyetlerde imanın temelleri yerine daha çok hangi alan öne çıkar?",
+          "answer": "Hükümler ve dinin uygulama tarafı öne çıkar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Ayrıntılı anlatımın içinde birden gelen kuvvetli sonuç neyi gösterir?",
+          "answer": "Kur’an’ın eşsiz anlatım yolunu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Küçük bir meseleye büyük bir sonuç eklenince mesele nasıl değişir?",
+          "answer": "Daha genel ve daha yüksek bir anlam kazanır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu sonuçlar itaati yalnız kuralla mı bırakır, yoksa imanla da destekler mi?",
+          "answer": "İmanla da destekler.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Âyet sonlarında Allah’ın kudreti ve ilmi gibi manaların gelmesi niçin önemlidir?",
+          "answer": "Hükümlerin Allah’tan geldiğini kuvvetle hatırlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Böyle bir bitiriş, anlatılan bölümü nasıl etkiler?",
+          "answer": "Onu nurlandırır ve yüceltir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Risale-i Nur bu son cümlelerin içinde neler bulunduğunu bildirir?",
+          "answer": "Güzel yönler, sağlamlık ve ince hikmetler bulunduğunu bildirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu anlatılanlar hangi düşünceyi destekler?",
+          "answer": "Kur’an’ın çok üstün bir söz olduğunu destekler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın ana fikri nedir?",
+          "answer": "Medine sûreleri sade ve ayrıntılı anlatırken sonunda tevhid ve ahiretle dersi tamamlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Medine sûrelerinde ilk sıradaki dinleyiciler hangi inanç çevresindendi?",
+          "answer": "Kitap ehli çevresindendi.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kimselere hitap ederken nasıl bir dil seçilmiştir?",
+          "answer": "Kolay anlaşılır ve açık bir dil seçilmiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu anlatımda hangi konular üzerinde durulur?",
+          "answer": "Dinî hükümler, ayrıntılar ve kurallar üzerinde durulur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Küçük görünen bir şer’î olay anlatılırken ardından ne eklenir?",
+          "answer": "Güçlü bir özet, delil ve sonuç eklenir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu eklenen kısım çoğu zaman hangi iki büyük konudan birini hatırlatır?",
+          "answer": "Tevhidi veya ahireti hatırlatır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Böyle bir bağ kurmak, küçük meseleyi nasıl yapar?",
+          "answer": "Onu geniş anlamlı bir ders yapar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu son cümleler okuyanın içinde nasıl bir etki bırakır?",
+          "answer": "Kalbi aydınlatır ve manayı kuvvetlendirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde bu son kısımlar için hangi güzel yönler anılıyor?",
+          "answer": "Belâgat, üstünlük, güç ve ince anlamlar anılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu yönlerden kaç tanesinin anlatıldığı söyleniyor?",
+          "answer": "On tanesinin anlatıldığı söyleniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bütün bunlar Kur’an için hangi sonucu gösterir?",
+          "answer": "Çok büyük ve eşsiz bir mucize olduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S4Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Medine sûrelerinde karşı taraf kim olduğu için üslûp sade tutulmuştur?",
+          "answer": "Kitap ehli olduğu için sade tutulmuştur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu sade üslûp ile sadece ana inançlar mı anlatılır?",
+          "answer": "Hayır, daha çok hükümler ve ayrıntılar da anlatılır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Ayrıntıların anlatılması neden gerekli olmuştur?",
+          "answer": "Çünkü anlaşmazlık olan konuların açıklanması gerekir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an bu ayrıntıların arasında nasıl özel bir yol izler?",
+          "answer": "Sonunda yüksek manalı toparlayıcı cümleler getirir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu toparlayıcı cümleler hangi inançları hatırlatabilir?",
+          "answer": "Allah’ın birliğini ve ahireti hatırlatabilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Böylece küçük bir olay neye dönüşür?",
+          "answer": "Büyük ve herkes için ders olan bir mesaja dönüşür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu sonlar, emre uymayı nasıl sağlamlaştırır?",
+          "answer": "Onu Allah’a imanla sağlamlaştırır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Risale-i Nur bu sonlar hakkında nasıl bir değerlendirme yapar?",
+          "answer": "Çok yüksek bir anlatım güzelliği taşıdıklarını söyler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu konuda yapılan açıklama kaç örnek özellik vermektedir?",
+          "answer": "On özellik vermektedir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçaya göre Medine sûrelerinin en belirgin tarafı nedir?",
+          "answer": "Hükümleri açıklarken kalbi büyük iman hakikatlerine bağlamasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Medine âyetlerinin muhatapları arasında hangi iki topluluk adı geçiyor?",
+          "answer": "Yahudiler ve Hristiyanlar geçiyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Onlara yönelik anlatım niçin açık ve ayrıntılıdır?",
+          "answer": "Rehberlik etmek ve duruma uygun konuşmak için böyledir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu bölümde hangi tür meseleler öne alınır?",
+          "answer": "Şeriat hükümleri, ayrıntılar ve genel kuralların kaynakları öne alınır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Ayrıntılı anlatımın içine konulan güçlü kapanış ne iş görür?",
+          "answer": "Sözü toplar ve büyük manaya bağlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu kapanışlar bazen hangi yüksek gerçekleri bildirir?",
+          "answer": "Allah’ın birliğini ve ahiret gerçeğini bildirir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu sayede anlatılan makamda ne gibi bir değişim olur?",
+          "answer": "Daha parlak, daha yüce ve daha geniş bir anlam doğar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Âyet sonlarındaki bu cümleler neden önemli sayılır?",
+          "answer": "Çünkü çok güçlü anlatım ve ince hikmet taşırlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Risale-i Nur bu konuda ne yapmıştır?",
+          "answer": "Bu son cümlelerdeki bazı güzel sırları açıklamıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Açıklanan sırlar neyi ispat etmeye yardım eder?",
+          "answer": "Kur’an’ın büyük mucize oluşunu göstermeye yardım eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p70:2-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p70:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan çıkarılan kısa sonuç nedir?",
+          "answer": "Medine sûreleri açık anlatır, sonra da dersi imanla tamamlar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

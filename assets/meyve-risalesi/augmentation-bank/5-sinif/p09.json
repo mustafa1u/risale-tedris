@@ -1,0 +1,826 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:5-sinif:p09",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "5-sinif",
+  "partNo": "p09",
+  "partNumber": 9,
+  "title": "3. Mes'ele: İmanın faidesine dair temsil (evlât misali)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/5-sinif/SveC_5sinif_meyve-risalesi-p09-3-mesele-imanin-faidesine-dair-temsil-evlat-misali.txt",
+  "sourceRevision": "ab86ea6c6b50bef0d730b13ea3dd3108d3b2bbc4cf09588d96a56d038e9e3051",
+  "setCount": 6,
+  "questionCount": 68,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada, imanın dünyadaki sayısız faydalarından kaç tanesinin anlatılacağı bildiriliyor?",
+          "answer": "Sadece bir faydası ve verdiği bir sevinç anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Anlatılan örnekte, insanı en çok üzen durum nedir?",
+          "answer": "Çok sevdiği çocuğunun ölmek üzere olması ve ondan sonsuza kadar ayrılacağını sanmasıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu örnekte gelen doktor nasıl bir iş yapıyor?",
+          "answer": "Çocuğa şifa veren bir ilaç içirip onu ölümden kurtarıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Çocuğun iyileşmesi, örnekte hangi duyguyu anlatmak için kullanılıyor?",
+          "answer": "Çok büyük bir rahatlama ve sevinci anlatmak için kullanılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Temsildeki tek çocuk, asıl manada neye benzetiliyor?",
+          "answer": "İnsanın sevdiği birçok yakın ve değer verdiği kimseye benzetiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İmansız bakışta geçmişteki ölüler nasıl görülüyor?",
+          "answer": "Yok olup gitmiş ve tamamen kaybedilmiş gibi görülüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İman, bu karanlık düşünceyi nasıl değiştiriyor?",
+          "answer": "Kalbe aydınlık verip ölümün tam yokluk olmadığını gösteriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Parçaya göre imanlı bakışla ölmüş kimseler hakkında nasıl bir ümit doğuyor?",
+          "answer": "Onlarla yeniden buluşma ümidi doğuyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu buluşma ümidi insana ne kazandırıyor?",
+          "answer": "Çok derin bir ferahlık ve büyük bir mutluluk kazandırıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin ana düşüncesi nedir?",
+          "answer": "İman, sadece ahirette değil, dünyada da insana büyük sevinç ve iç huzuru verir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Parçanın sonunda iman neye benzetiliyor?",
+          "answer": "İçinde çok büyük güzellikler taşıyan değerli bir tohuma benzetiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu benzetme ile ne anlatılmak isteniyor?",
+          "answer": "İmanın küçük gibi görünse de içinde çok büyük saadetler taşıdığı anlatılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatım yapılırken hangi yola başvuruluyor?",
+          "answer": "Bir benzetme ve örnekleme yoluna başvuruluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Örnekte kişinin en bağlı olduğu varlık kimdir?",
+          "answer": "Çok sevdiği evlâdıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Çocuğun durumu başta neden üzüntü vericidir?",
+          "answer": "Çünkü ölümün yaklaştığı düşünülüyor ve ayrılık kaçınılmaz sanılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Doktorun aniden gelmesi olayın hangi yönünü değiştiriyor?",
+          "answer": "Ümitsizliği sevince çeviriyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İman, kalpte nasıl bir etki yapıyor?",
+          "answer": "Karanlık ve üzüntülü düşünceyi dağıtıp umut doğuruyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Parçaya göre ölüm, iman sayesinde nasıl görülmeye başlanıyor?",
+          "answer": "Tam bitiş değil, yeniden görüşmeye engel olmayan bir geçiş gibi görülüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Örnekteki mezarlık düşüncesi imanla nasıl değişiyor?",
+          "answer": "Korku veren bir yer olmaktan çıkıp ümit doğuran bir manaya dönüşüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Burada anlatılan sevinç yalnız akılla mı ilgilidir, yoksa kalple de ilgili midir?",
+          "answer": "Hem kalple hem ruhla ilgili derin bir sevinçtir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Parçadan çıkan sonuca göre imanın dünyadaki etkilerinden biri nedir?",
+          "answer": "Ayrılık acısını hafifletmesi ve insana teselli vermesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "“Ölmüş gibi görünenlerin dirilmesi” sözü burada nasıl anlaşılmalıdır?",
+          "answer": "Bu, iman sayesinde onların tamamen yok olmadığını anlamaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde iman hangi yönüyle ele alınıyor?",
+          "answer": "İnsana bu dünyada tattırdığı fayda ve sevinç yönüyle ele alınıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen örneğin başındaki duygusal hâl nasıldır?",
+          "answer": "Çok ağır bir üzüntü ve çaresizlik hâlidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu çaresizlik neye dayanıyor?",
+          "answer": "Sevilen kişinin ebediyen kaybedileceğini sanmaya dayanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Örnekte şifanın gelmesi neyi temsil ediyor?",
+          "answer": "İman hakikatinin insanın içine doğmasını temsil ediyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İman gelince insanın ölüme bakışı neden değişiyor?",
+          "answer": "Çünkü ölümden sonra da hayat ve kavuşma ümidi olduğunu anlıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Parçaya göre insan sadece bir kişiyi mi sever?",
+          "answer": "Hayır, birçok sevdiği ve bağlı olduğu insan vardır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu yüzden iman insana neden daha büyük bir sevinç verir?",
+          "answer": "Çünkü bir kişiyi değil, çok sayıda sevdiği kimseyi yeniden kavuşulabilir gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metindeki aydınlık verme ifadesi neyi anlatır?",
+          "answer": "Kalpte oluşan imanla hakikatin anlaşılmasını anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İman olmayınca geçmişteki vefat edenler nasıl algılanır?",
+          "answer": "Tamamen kaybolmuş gibi algılanır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "İman olunca bu algı nasıl düzelir?",
+          "answer": "Onların yaşamlarının bütünüyle bitmediği ve tekrar görüşmenin mümkün olduğu anlaşılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S3Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada imanın bir çekirdeğe benzetilmesinin sebebi nedir?",
+          "answer": "Az gibi görünse de içinde çok büyük nimetler ve güzellikler taşıdığı içindir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölümün vermek istediği en temel mesaj nedir?",
+          "answer": "Sağlam iman, dünyada bile insana cennetimsi bir sevinç ve huzur tattırır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda iman anlatılırken doğrudan kural mı veriliyor, yoksa örnek mi kullanılıyor?",
+          "answer": "Daha iyi anlaşılsın diye örnek kullanılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Örnekte insanı sarsan olay nedir?",
+          "answer": "Çok sevdiği çocuğunun canının tehlikede olmasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kişi neden ümitsizliğe düşüyor?",
+          "answer": "Ayrılığın bir daha bitmeyeceğini düşündüğü için ümitsizliğe düşüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Çocuğun yeniden gözünü açması hangi duyguyu meydana getiriyor?",
+          "answer": "Büyük bir sevinç, rahatlık ve iç ferahlığı meydana getiriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metin, bu duyguyu neden daha sonra birçok insanla ilişkilendiriyor?",
+          "answer": "İmanın tesellisinin yalnız bir kişiyle sınırlı olmadığını göstermek için ilişkilendiriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Kişinin sevdiği insanlar nerede düşünülüyor?",
+          "answer": "Geçmişte vefat etmiş kimseler arasında düşünülüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İman bu konuda neyi öğretmiş oluyor?",
+          "answer": "Onların tamamen yok olmadığını ve yeniden kavuşmanın mümkün olduğunu öğretmiş oluyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu öğretme insanın hangi hâlini değiştiriyor?",
+          "answer": "Kederli ve karanlık hâlini sevinçli ve ümitli hâle çeviriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada geçen kalp penceresi sözü neyi anlatır?",
+          "answer": "İnsanın iç dünyasındaki anlayış ve hissediş yolunu anlatır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "İmanın dünyada da fayda verdiği nasıl gösteriliyor?",
+          "answer": "İnsanın daha yaşarken büyük bir manevi teselli ve mutluluk bulmasıyla gösteriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Son benzetmede imanın içinden çıkan büyük nimet neyi ifade eder?",
+          "answer": "İmanın sonunda çok büyük saadetler ve özel güzellikler bulunduğunu ifade eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada hangi konuya bağlı olarak imandan bir örnek verileceği söyleniyor?",
+          "answer": "İmanın verdiği fayda ve lezzeti göstermek için bir örnek verileceği söyleniyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Anlatılan örnekte önce hangi iki duygu öne çıkıyor?",
+          "answer": "Acı ve ümitsizlik öne çıkıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Sonra bu duyguların yerine ne geliyor?",
+          "answer": "Sevinç ve ferahlık geliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu değişimin sebebi nedir?",
+          "answer": "Ölmek üzere sanılan çocuğun iyileşmesidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu olay, imanla ilgili hangi hakikate benzetiliyor?",
+          "answer": "İmanın, ölüm ve ayrılık hakkındaki yanlış düşünceyi değiştirmesine benzetiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İmansız biri geçmişte vefat eden sevdikleri için nasıl bir düşünceye kapılabilir?",
+          "answer": "Onları bir daha hiç göremeyeceğini düşünüp çok üzülür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "İman bu düşünceye karşı nasıl bir kapı açar?",
+          "answer": "Yeniden buluşma ve devam eden hayat kapısını açar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde niçin “milyonlar” gibi çokluk bildiren bir anlam vardır?",
+          "answer": "İmanın tesellisinin çok geniş olduğunu, pek çok sevilen insanı içine aldığını göstermek içindir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "İmanla gelen sevinç neden sıradan bir sevinç değildir?",
+          "answer": "Çünkü çok büyük bir kayıp korkusunu gideren derin bir manevi sevinçtir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçaya göre iman yalnız bilgi midir, yoksa insanın duygularına da dokunur mu?",
+          "answer": "Duygularına da dokunur, kalbi sevindirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Çekirdek benzetmesiyle imanın hangi özelliği anlatılıyor?",
+          "answer": "İçinde büyüyüp gelişecek çok büyük nimetler taşıması anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin sonunda imanın değeri nasıl anlaşılmış oluyor?",
+          "answer": "Dünyada bile insanın içini aydınlatan ve büyük huzur veren bir nimet olduğu anlaşılmış oluyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında, imanın pek çok sonucundan ne kadarı anlatılmak üzere seçiliyor?",
+          "answer": "Bunlardan yalnız biri seçiliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Seçilen örnekte en sevilen kimsenin çocuk olması niçin etkili bir anlatımdır?",
+          "answer": "Çünkü çocuk sevgisi çok güçlüdür; böylece duygunun büyüklüğü daha iyi anlaşılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Çocuğun son nefeste olduğu düşüncesi kişide nasıl bir korku doğuruyor?",
+          "answer": "Sonsuz ayrılık korkusu doğuruyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Doktorun verdiği çare neyin başlangıcı oluyor?",
+          "answer": "Üzüntünün bitip sevincin başlamasının başlangıcı oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Parçadaki örnekten sonra, tek çocuk yerine kimler düşünülüyor?",
+          "answer": "İnsan için değerli olan çok sayıda sevilen kimseler düşünülüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu kimseler, imansız gözle nasıl değerlendirilir?",
+          "answer": "Kaybolmuş ve çürüyüp gitmiş gibi değerlendirilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İmanın kalbe verdiği ışık neyi değiştirir?",
+          "answer": "Ölüm hakkındaki karanlık düşünceyi değiştirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu değişim sonunda insan, ölen yakınları hakkında hangi müjdeyi hisseder?",
+          "answer": "Onlarla yeniden karşılaşma umudunu hisseder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu ümit insana dünyada ne kazandırır?",
+          "answer": "Hadsiz denecek kadar büyük bir teselli ve mutluluk kazandırır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre bu durum, imanın hangi yönünü ispat eder?",
+          "answer": "Dünyada da meyve veren ve insanı sevindiren bir hakikat olduğunu ispat eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p09:5-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p09:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "İman neden küçük bir çekirdeğe benzetilip ondan büyük bir güzellik çıktığı söyleniyor?",
+          "answer": "Çünkü iman özde bulunur ama sonucu çok büyük saadetler doğurur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

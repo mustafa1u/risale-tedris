@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:8-sinif:p115",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "8-sinif",
+  "partNo": "p115",
+  "partNumber": 115,
+  "title": "İhtar ve tebyiz/tevafuk kaydı (müsveddeye dair)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/8-sinif/SveC_8sinif_ayetul-kubra-p115-ihtar-ve-tebyiz-tevafuk-kaydi-musveddeye-dair.txt",
+  "sourceRevision": "6e72dac9fedc3ad8ca6a10a26c9aa10d6df2585b66ba15c96393634e0754ab66",
+  "setCount": 6,
+  "questionCount": 57,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu ihtar bölümünde, bazı meselelerin başka eserlerde de yeniden anılması hangi eksikliğe bağlanmıştır?",
+          "answer": "O bölgede diğer Nur risalelerinin bulunmamasına bağlanmıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Eserin orada ortaya çıkışı nasıl gerçekleşmiştir?",
+          "answer": "Önceden planlanmadan, kendiliğinden o yerde yazılmıştır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Başka eserlerden bazı önemli konuların burada tekrar yer almasının hikmeti nedir?",
+          "answer": "Oradaki talebeler için her bir kısmın küçük bir risale gibi fayda vermesidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde görülen tekrar nasıl bir tekrar olarak anlatılmıştır?",
+          "answer": "Dış görünüşte tekrar gibi duran bir durum olarak anlatılmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İlk temiz kopyayı hazırlayan kişi hakkında hangi özellik özellikle belirtilmiştir?",
+          "answer": "Tevafuk meselesini bilmeden yazmış olması belirtilmiştir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Yazılan nüshada dikkat çeken uygunluk ne ile ilgilidir?",
+          "answer": "Satır başlarındaki eliflerin sayısıyla ilgilidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu eliflerin sayısı kaç olarak görülmüştür?",
+          "answer": "Altı yüz altmış altı olarak görülmüştür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu sayı, risaleye verilen hangi isimle ilişkilendirilmiştir?",
+          "answer": "Âyetü’l-Kübra ismiyle ilişkilendirilmiştir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Sayının bu isme uygun düşmesi, risale hakkında hangi sonuca işaret sayılmıştır?",
+          "answer": "Bu isme layık olduğuna işaret sayılmıştır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Kur’an ayetlerinin toplam sayısıyla kurulan benzerlik, risale için nasıl bir anlam taşır?",
+          "answer": "Ayetlerden bir parıltı taşıdığına dair bir işaret olarak değerlendirilmiştir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada, risalenin yazıldığı çevrede hangi durumun bulunmaması önemli görülmüştür?",
+          "answer": "Diğer Nur risalelerinin elde bulunmaması önemli görülmüştür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Şakirdler açısından bu kısımların değeri nasıl tanımlanmıştır?",
+          "answer": "Her biri küçük bir Risale-i Nur gibi kabul edilmiştir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İlk yazıya geçirilen nüsha kimin tarafından hazırlanmıştır?",
+          "answer": "Mübarek olarak nitelenen bir kişi tarafından hazırlanmıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu kişinin bilmediği halde ortaya çıkan durum neyi gösteren hoş bir örnek sayılmıştır?",
+          "answer": "Tevafukun anlamlı bir örneği sayılmıştır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Dikkat çekici uygunluk, yazının hangi kısmında fark edilmiştir?",
+          "answer": "Satırların başındaki harflerde fark edilmiştir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Sayı ile isim arasında nasıl bir bağ kurulmuştur?",
+          "answer": "Harf sayısının, risaleye verilen ismin ebced hesabındaki değerine tam uyduğu söylenmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu tam uyum, sadece bir rastlantı gibi mi görülmüş, yoksa anlam yüklenmiş midir?",
+          "answer": "Buna anlam yüklenmiş ve risalenin adına uygunluğuna delil gibi bakılmıştır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an ayetlerinin sayısıyla olan yakınlık kaç basamaklı bir uygunluk şeklinde anlatılmıştır?",
+          "answer": "Dört basamaktan üçünün uyuşması şeklinde anlatılmıştır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu ikinci uygunluktan çıkarılan manevi sonuç nedir?",
+          "answer": "Risalenin Kur’an ayetlerinden iz taşıdığı düşünülmüştür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S2Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İhtar kısmının ilk paragrafında hangi ihtiyaç ön plana çıkarılmıştır?",
+          "answer": "Bulunulan yerde diğer risaleler olmadığı için öğretici içeriğe duyulan ihtiyaç ön plana çıkarılmıştır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Burada yazılan risalenin meydana gelişi iradeli bir planla mı, yoksa farklı bir şekilde mi anlatılıyor?",
+          "answer": "Planlı bir tercihten çok, kendiliğinden gerçekleşmiş gibi anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu durum metinde neden kusur sayılmıyor?",
+          "answer": "Çünkü tekrar görünse de eğitim ve irşad açısından gerekli bir hikmete bağlanıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "O kişinin farkında olmadan ortaya çıkardığı sayı düzeni neyi düşündürmüştür?",
+          "answer": "Bunun manidar bir uygunluk olduğu düşünülmüştür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Altı yüz altmış altı sayısının özellikle önemli görülmesinin sebebi nedir?",
+          "answer": "Çünkü bu sayı, risalenin özel adının ebced değerine denk kabul edilmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu adın kim tarafından verildiği belirtiliyor?",
+          "answer": "Hazret-i İmam-ı Ali tarafından verildiği belirtiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Ayet sayısıyla kurulan ikinci ilişki, risalenin Kur’an ile bağını nasıl anlatıyor?",
+          "answer": "Onun Kur’an’dan yansıyan bir nur taşıdığına işaret ediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın genelinde sayı uygunluklarına nasıl bakılmıştır?",
+          "answer": "Sadece sayı oyunu gibi değil, manevi anlam taşıyan işaretler olarak bakılmıştır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre risalede görülen bazı tekrarların asıl sebebi nedir?",
+          "answer": "Başka risaleler o çevrede bulunmadığı için gerekli meselelerin burada da yer almasıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Yazılma süreci için “ihtiyarsız” denmesi ne anlatır?",
+          "answer": "Bilinçli bir plan kurmadan, şartların sevkiyle yazıldığını anlatır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Başka eserlerden önemli meselelerin alınması hangi kitle düşünülerek yapılmıştır?",
+          "answer": "Oradaki talebeler düşünülerek yapılmıştır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Her bir bölümün küçük bir risale hükmünde sayılması bize ne gösterir?",
+          "answer": "Bölümlerin kendi başına da öğretici ve yeterli görüldüğünü gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İlk tebyiz edilen nüshada fark edilen özel durum nedir?",
+          "answer": "Satır başlarındaki eliflerin belirli bir sayıda toplanmasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bu uygunluğu fark edenler, bunu neden değerli bulmuştur?",
+          "answer": "Çünkü risalenin adıyla sayısal olarak tam denk gelmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Sayısal denkliğin ilgili olduğu alan hangisidir?",
+          "answer": "Cifrî ve ebcedî hesap alanıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Sayının risalenin adına tam uyması neyin göstergesi kabul edilmiştir?",
+          "answer": "O adın risaleye uygun olduğunun göstergesi kabul edilmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Ayetlerin toplam sayısıyla olan benzerlik tam mı, kısmî mi verilmiştir?",
+          "answer": "Tam değil, büyük ölçüde bir uygunluk olarak verilmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Son cümledeki değerlendirme kesin bir hüküm mü, yoksa bir yorum mu taşır?",
+          "answer": "Daha çok manevi bir yorum taşır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu metinde niçin bazı önemli konular yeniden anılmıştır?",
+          "answer": "Aynı bölgede başka risaleler olmadığı için ihtiyaç karşılamak amacıyla yeniden anılmıştır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yeniden anma, boş bir tekrar olarak mı sunulmuştur?",
+          "answer": "Hayır, faydalı bir hikmete dayanan tekrar olarak sunulmuştur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Buradaki öğrenciler için her bir bölümün değeri nasıl ifade edilmiştir?",
+          "answer": "Her bölüm, tek başına küçük bir eser gibi faydalı sayılmıştır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İlk temiz nüshayı yazan kişinin hangi bilgiden habersiz olduğu söylenmiştir?",
+          "answer": "Tevafukla ilgili bilgiden habersiz olduğu söylenmiştir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Buna rağmen ortaya çıkan durum, metinde nasıl nitelendirilmiştir?",
+          "answer": "İnce ve anlamlı bir uygunluk olarak nitelendirilmiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bu uygunluk hangi harf üzerinden fark edilmiştir?",
+          "answer": "Elif harfi üzerinden fark edilmiştir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Eliflerin sayısı ile hangi manevi isim arasında bağ kurulmuştur?",
+          "answer": "Âyetü’l-Kübra adı arasında bağ kurulmuştur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İmam-ı Ali’ye nisbet edilen bu adın sayı değeri kaçtır?",
+          "answer": "Altı yüz altmış altıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an’daki ayet sayısıyla kurulan ilişki, risalenin ne olduğuna dair nasıl bir ipucu verir?",
+          "answer": "Kur’an hakikatlerinden bir parıltı taşıdığına dair ipucu verir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin bütününe bakınca sayıların verilme amacı daha çok nedir?",
+          "answer": "Risalenin manevi değerine dikkat çekmektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İhtar bölümünde anlatılan ilk mesele, eserlerin bulunmasıyla ilgili hangi sorundur?",
+          "answer": "Diğer Nur risalelerinin o muhitte bulunmaması sorunudur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu eksiklik, metnin içeriğini nasıl etkilemiştir?",
+          "answer": "Başka eserlerdeki bazı önemli konuların burada da yer almasına sebep olmuştur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Böyle yapılmasının eğitim yönünden faydası nedir?",
+          "answer": "Talebelerin tek bir metinden daha geniş şekilde istifade etmesini sağlamasıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metindeki tekrar görüntüsünün arkasında nasıl bir maksat vardır?",
+          "answer": "İhtiyacı karşılamak ve öğretimi kolaylaştırmak maksadı vardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İlk tebyiz nüshasında görülen tevafuk, yazanın bilinçli tercihiyle mi oluşmuştur?",
+          "answer": "Hayır, yazan bunu bilmeden oluşmuştur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu da metinde neyi daha dikkat çekici hale getirir?",
+          "answer": "Uygunluğun kendiliğinden ortaya çıkmasını daha dikkat çekici hale getirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Satır başlarındaki elif sayısının önem kazanması hangi hesap sebebiyledir?",
+          "answer": "Risalenin adının ebced ve cifir değeriyle örtüşmesi sebebiyledir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu örtüşme, risalenin adına dair nasıl bir değerlendirme doğurmuştur?",
+          "answer": "Bu ismi hak ettiğine dair bir kanaat doğurmuştur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p115:8-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Ayetlerin toplam sayısıyla yapılan karşılaştırma, risalenin hangi yönünü öne çıkarır?",
+          "answer": "Kur’an’la bağlantılı manevi yönünü öne çıkarır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p115:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre bu işaretler nasıl anlaşılmalıdır: kesin matematik sonucu olarak mı, yoksa manalı bir belirti olarak mı?",
+          "answer": "Manalı bir belirti olarak anlaşılmalıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

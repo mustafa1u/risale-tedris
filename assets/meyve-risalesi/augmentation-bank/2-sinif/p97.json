@@ -1,0 +1,762 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "meyve-risalesi:2-sinif:p97",
+  "bookSlug": "meyve-risalesi",
+  "bookTitle": "Meyve Risalesi",
+  "bookOrder": 2,
+  "gradeSlug": "2-sinif",
+  "partNo": "p97",
+  "partNumber": 97,
+  "title": "Hâtime / 1. İşaret: Felak Suresinde 'şerr' tekrarları ve ebced tevafukları",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/MeyveRisalesi/2-sinif/SveC_2sinif_meyve-risalesi-p97-hatime-1-isaret-felak-suresinde-serr-tekrarlari-ve-ebced-tevafuklari.txt",
+  "sourceRevision": "28020ca1365b8f78e8e3bd09dc3ef4960fae4320ab10614f77c7782f77cd401d",
+  "setCount": 6,
+  "questionCount": 58,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde, surenin sözlerinde hangi kelimenin birkaç kez geçtiği anlatılıyor?",
+          "answer": "Şer kelimesi.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu tekrarın, bu zamandaki kaç büyük kötülüğe işaret ettiği söyleniyor?",
+          "answer": "Dört büyük kötülüğe.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İnsanlara bu kötülükler karşısında hangi uyarı yapılıyor?",
+          "answer": "Sakınmaları isteniyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İlk cümlenin işaret ettiği büyük olay nedir?",
+          "answer": "İkinci büyük savaş.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu savaşın ortaya çıkmasında hangi kötü duygular anılıyor?",
+          "answer": "Hırs ve kıskançlık.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Müminlere bu savaş için nasıl bir yol gösteriliyor?",
+          "answer": "Savaşa girmemek ve Allah’a sığınmak.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İlk cümlede, Kur’an hizmetinde olan talebeler için hangi güzel haber de anılıyor?",
+          "answer": "Büyük bir zarardan ve hapisten kurtulmaları.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci örnekte anlatılan cümle, hangi tür sıkıntıya dikkat çekiyor?",
+          "answer": "Çok acımasız yıkıma ve büyük belaya.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu ikinci işarette, Nur talebeleri hangi yerle ilgili bir sıkıntıdan kurtuluyor?",
+          "answer": "Denizli hapsinden.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci örnekte insanlara gizlice ne öğütleniyor?",
+          "answer": "İnsanlardan gelebilecek kötülüklere karşı korunmak.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S1Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Anlatılan bölümde, surenin anlamlarının tek mi çok mu olduğu söyleniyor?",
+          "answer": "Çok olduğu söyleniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Burada özellikle hangi anlam yönü üzerinde duruluyor?",
+          "answer": "İşarî anlam yönü.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Surede kötü şeyleri bildiren sözlerin tekrarı, neyin güzelliğine uygun görülüyor?",
+          "answer": "Kur’an’ın mucizeli anlatımına.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İlk verilen örnekte tarih hesabıyla hangi yıllara denk gelme anlatılıyor?",
+          "answer": "1352 ile 1354 yıllarına.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu işaret, insanlık için hazırlanmakta olan hangi olaya bakıyor?",
+          "answer": "İkinci dünya savaşına.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Ümmete verilen manevi öğüt nedir?",
+          "answer": "Rablerine sığınmaları.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "İlk örnekte geçen özel iltifat kimlere yöneliktir?",
+          "answer": "Risale-i Nur talebelerine.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Onların başına gelmesi planlanan kötü şeyin sonucu ne oluyor?",
+          "answer": "Boşa çıkıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci örnekte sözü edilen savaşın yıkımı nasıl anlatılıyor?",
+          "answer": "Çok sert ve zalimce.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu ikinci işaret, talebelerin hangi iki şeyden korunmasına bakıyor?",
+          "answer": "Büyük yok etme planından ve ağır beladan.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S2Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada surenin her cümlesinin yalnız bir manası olduğu mu söyleniyor?",
+          "answer": "Hayır, birçok manası olduğu söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Anlatımda, bu asra bakan hangi anlam tabakası ele alınıyor?",
+          "answer": "İşaret eden mana tabakası.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İçinde yaşadığımız zaman, o geniş anlamın nesi olarak görülüyor?",
+          "answer": "Bir örneği olarak.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu çağ için özel olan nokta nedir?",
+          "answer": "Tarihiyle ona bakması.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İlk örnekteki uyarı, Müslümanlara savaş konusunda ne diyor?",
+          "answer": "O savaşa girmemelerini söylüyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu uyarıyla birlikte Allah hakkında ne yapmaları isteniyor?",
+          "answer": "O’na sığınmaları.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İlk örnekte geçen kurtuluş, hangi hapishaneyle ilgilidir?",
+          "answer": "Eskişehir hapsiyle.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci örnekteki tarih işareti hangi yıla denk geliyor?",
+          "answer": "1361 yılına.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu ikinci örnek hem savaşa hem de talebelere nasıl bakıyor?",
+          "answer": "Hem büyük savaşın yıkımına, hem de talebelerin kurtuluşuna işaret ediyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci örneğin sonunda verilmek istenen kısa ders nedir?",
+          "answer": "Kötülüklerden korunmak.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S3Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada tekrar edilen kötü anlamlı sözler, bu çağdaki olaylar için nasıl bir görev görüyor?",
+          "answer": "Uyarı ve haber verme görevi görüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu kötü huylar hangi büyük olaya sebep olacak şekilde anlatılıyor?",
+          "answer": "İkinci büyük savaşa.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Müslümanlara bu olay karşısında nasıl davranmaları tavsiye ediliyor?",
+          "answer": "Uzak durmaları ve Allah’a yönelmeleri.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İlk örnekte, Kur’an hizmetkârlarına gelen özel haber sevindirici mi üzücü mü?",
+          "answer": "Sevindirici.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Çünkü onlar neden korunuyor?",
+          "answer": "Büyük bir kötülükten ve yok edilme planından.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci örnekte anlatılan harbin etkisi nasıl tasvir ediliyor?",
+          "answer": "Çok yıkıcı ve merhametsiz.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu ikinci işaretin Nur talebeleriyle ilgili yönü nedir?",
+          "answer": "Onların bir beladan ve hapisten kurtulmaları.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "İlk örnekle ikinci örneğin ortak yanı nedir?",
+          "answer": "İkisinde de korunma ve sığınma dersi vardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S4Q5",
+            "meyve-risalesi:p97:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün ana fikri nedir?",
+          "answer": "Sure, insanları büyük kötülüklere karşı uyarır ve Allah’a sığınmayı öğretir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde, suredeki bazı sözlerin tekrar edilmesi boşuna mı görülüyor?",
+          "answer": "Hayır, anlamlı görülüyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu anlamlı tekrarların, bu zamana dair ne yaptığı söyleniyor?",
+          "answer": "Büyük kötülüklere işaret ettiği söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu kötü duygular hangileridir?",
+          "answer": "Hırs ve haset.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Ümmete verilen manevi emirlerden biri nedir?",
+          "answer": "Allah’a sığınmak.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İlk örnekte Risale-i Nur talebeleri neyin içinden selamet buluyor?",
+          "answer": "Eskişehir’deki hapis sıkıntısından.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Onlar hakkında kurulan kötü planın sonu ne oluyor?",
+          "answer": "Başarısız oluyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci örnekteki tarih, emsalsiz savaşın hangi yönüne dikkat çekiyor?",
+          "answer": "Zalimce yaptığı yıkıma.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Aynı işaret, Nur talebelerinin hangi sıkıntısından kurtuluşuna da denk geliyor?",
+          "answer": "Denizli hapsinden kurtuluşuna.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci örnekte gizli olarak hangi korunma dersi veriliyor?",
+          "answer": "Yaratılmışların kötülüğünden sakınma dersi.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S5Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada surenin beş cümlesinden söz edilirken, özellikle kaç defa geçen kötü anlamlı söz öne çıkarılıyor?",
+          "answer": "Dört defa.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu dört tekrar, bu çağ için nasıl olaylara işaret ediyor?",
+          "answer": "Çok büyük ve sarsıcı kötülüklere.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu işaretlerin sonunda insanlara hangi kısa mesaj veriliyor?",
+          "answer": "Bunlardan sakının.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İlk örnekteki işaret, hangi dünya çapındaki savaşı gösteriyor?",
+          "answer": "İkinci dünya savaşını.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu savaş için ümmete verilen iki öğüt nedir?",
+          "answer": "İçine girmemek ve Rabbe sığınmak.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İlk örnekte Kur’an hizmetinde bulunanlar için hangi hapishane anılıyor?",
+          "answer": "Eskişehir hapsi.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Onların korunması, nasıl bir şerden kurtuluş olarak anlatılıyor?",
+          "answer": "Çok ağır bir kötülükten kurtuluş olarak.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci örnekte hangi yıl sayısı veriliyor?",
+          "answer": "1361.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu örnek, savaşın hangi sonucuna dikkat çekiyor?",
+          "answer": "Büyük yıkımına.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "meyve-risalesi:p97:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Aynı örnekte talebeler için hangi iki rahatlık vardır?",
+          "answer": "Beladan korunmaları ve Denizli hapsinden çıkmaları.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "meyve-risalesi:p97:2-sinif:S6Q8",
+            "meyve-risalesi:p97:2-sinif:S6Q6"
+          ]
+        }
+      ]
+    }
+  ]
+}

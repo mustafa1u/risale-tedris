@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:lisans:p01",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "lisans",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "Fehmi işkal eden beş sebep",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/lisans/SveC_lisans_ayetul-kubra-p01-fehmi-iskal-eden-bes-sebep.txt",
+  "sourceRevision": "73513d96d7b1c0851a2a0514e8b11e9d5e7fc4bcc68862f1c0180774941c6fe7",
+  "setCount": 6,
+  "questionCount": 51,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında, bu risalenin herkes tarafından aynı derecede anlaşılamaması hangi benzetmeyle açıklanıyor?",
+          "answer": "Büyük bir bahçeye giren kişinin bütün ürünlere ulaşamaması, fakat ulaşabildiği kadardan yine fayda görmesi benzetmesiyle açıklanıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu benzetmenin vermek istediği ana fikir nedir?",
+          "answer": "Bir kimse eserin tamamını kavrayamasa da ondan nasipsiz kalmaz; gücü yettiği ölçüde istifade eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p01:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Risalenin anlaşılmasını zorlaştıran sebeplerin sayısı kaç olarak veriliyor?",
+          "answer": "Beş sebep olarak veriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İlk sebep, eserin yazılış tarzı bakımından hangi noktaya dayanıyor?",
+          "answer": "Eser, başkalarının anlayışına göre değil, müellifin kendi idraki ve yaşadığı tecrübeye göre kaleme alınmıştır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci sebebe göre konuların kavranmasını güçleştiren temel özellikler nelerdir?",
+          "answer": "Konular çok kapsamlı, derin ve yer yer uzun olduğu için hepsini bir anda kuşatmak zorlaşır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncü sebepte, cümlelerin bazen neden uzadığı belirtiliyor?",
+          "answer": "Büyük hakikatler bölünüp zayıflatılmasın diye bazen tek bir hüküm içinde çok sayıda hazırlayıcı unsur bir araya getirildiği söyleniyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Dördüncü sebepte delillerin çokluğu nasıl bir sonuca bağlanıyor?",
+          "answer": "Bir mesele için çok sayıda kanıt birlikte sunulunca anlatım uzuyor ve dar kavrayışlı kimseler takip etmekte zorlanıyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Beşinci sebepte yazım şartları açısından hangi güçlüklerden söz ediliyor?",
+          "answer": "Yazım sırasında hastalık, dağınık hâl, aceleyle yazma ve ilk taslakla yetinme gibi güçlüklerden bahsediliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Müellif, metni sonradan düzenleme konusunda neden çekingen davranmıştır?",
+          "answer": "Yazarken bunun tamamen kendi iradesiyle olmadığını hissettiği için sonradan kendi fikrine göre değiştirmeyi uygun görmemiştir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Beşinci sebepte dil bakımından ayrıca hangi husus, anlamayı zorlaştıran bir etken olarak anılıyor?",
+          "answer": "Arapça kısımların çokça yer alması, özellikle ilk bölümün bütünüyle Arapça olması, anlamayı zorlaştıran bir unsur olarak gösteriliyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Başlangıç kısmında, eserden herkesin eşit seviyede faydalanamayacağı nasıl ifade ediliyor?",
+          "answer": "Her insanın bütün meseleleri çözemeyeceği, fakat yine de payına düşen bir istifadeyi alacağı belirtiliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci sebepte geçen yüksek tevhid anlatımı, metnin yapısını nasıl etkilemiştir?",
+          "answer": "Anlatımı hem genişletmiş hem de derinleştirmiş, böylece metni daha ağır hale getirmiştir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü sebep, hakikatin korunması ile anlatım biçimi arasında nasıl bir ilişki kuruyor?",
+          "answer": "Hakikatin parçalanmadan sunulması için anlatımın bazen sıkışık ve yoğun tutulduğunu söylüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "“Bir delil hükmünde çok mukaddemat” denilmesinin manası nedir?",
+          "answer": "Tek bir sonuca ulaşmak için önce birçok hazırlayıcı düşüncenin birlikte verilmesi demektir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Dördüncü sebebe göre, çok delil kullanmak her zaman anlaşılmayı kolaylaştırır mı?\tNeden?",
+          "answer": "Hayır. Deliller güç kazandırsa da bir araya fazla toplanınca kısa kavrayışlı okuyucu için takip etmek zorlaşır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin girişinde okuyucuya hangi teselli veriliyor?",
+          "answer": "Tamamını anlayamasa da eserden mutlaka bir nasip alacağı söyleniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Risalenin herkes için aynı derecede yazılmadığını gösteren ifade hangi düşünceye dayanır?",
+          "answer": "Müellifin, başkalarının beklentisine göre değil kendi müşahedesine göre yazdığı düşüncesine dayanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci sebep, bir okuyucunun niçin bütün meseleleri bir anda kuşatamayacağını nasıl açıklar?",
+          "answer": "Çünkü ele alınan iman ve tevhid bahisleri hem çok geniş hem çok derindir; hızlıca toparlanmaları kolay değildir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Üçüncü sebepte, uzun cümlelerin olumsuz bir tercih değil de gerekli bir yöntem olduğunu gösteren nokta nedir?",
+          "answer": "Büyük manaların bozulmadan taşınması için bazen tek cümlede yoğun biçimde verilmesinin gerekli görülmesidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Dördüncü sebepte “çok delili bir bürhan yapmak” ne tür bir yönteme işaret eder?",
+          "answer": "Farklı kanıtları bir araya getirip tek bir kuvvetli ispat halinde sunma yöntemine işaret eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu yöntem neden bazı okuyucular için zorlayıcı olabilir?",
+          "answer": "Çünkü çok sayıda delilin aynı çizgide takip edilmesi dikkat ve zihnî dayanıklılık ister.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p01:lisans:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Beşinci sebep sadece fizikî hastalıktan mı söz eder, yoksa başka bir yön de var mıdır?",
+          "answer": "Sadece hastalıktan söz etmez; acele yazma, dağınık hâl ve sonradan düzenlememe gibi başka yönler de vardır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Arapça bölümlerin yoğunluğu bakımından hangi özel durum belirtiliyor?",
+          "answer": "İlk makamın tamamen Arapça olduğu ve bu yüzden ayrı bir şekilde ele alındığı belirtiliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İlk paragrafta verilen misal, okuyucu ile eser arasındaki ilişkiyi nasıl tasvir eder?",
+          "answer": "Okuyucunun eserden kapasitesi kadar faydalanabileceğini, fakat faydanın sadece tam kavrayanlara mahsus olmadığını tasvir eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "“Hissesiz kalmaz” düşüncesi, eğitim açısından nasıl bir mesaj taşır?",
+          "answer": "Kısmi anlamanın da değerli olduğunu, öğrenmenin bütünü kavramadan da başlayabileceğini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Birinci sebep, metnin niçin alışılmış öğretici kitaplardan farklı olabileceğini nasıl açıklar?",
+          "answer": "Çünkü genel okuyucuya göre sadeleştirilmiş bir ders kitabı gibi değil, şahsî tefekkürün ifadesi olarak yazılmıştır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci sebepteki zorluk, daha çok konu seçimiyle mi yoksa dil hatasıyla mı ilgilidir?",
+          "answer": "Daha çok konuların büyüklüğü ve derinliğiyle ilgilidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü sebepte hakikati bölmemek ifadesi hangi öğretim ilkesine benzer?",
+          "answer": "Bir düşünceyi parçalayarak zayıflatmamak, onu kendi bütünlüğü içinde korumak ilkesine benzer.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Dördüncü sebepten, müellifin ispat konusunda nasıl bir tutum benimsediği anlaşılır?",
+          "answer": "Tek delille yetinmeyip çok yönlü ve kuvvetli ispat sunmayı tercih ettiği anlaşılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu tutumun faydası nedir?",
+          "answer": "Konuları daha sağlam temellendirir ve delil gücünü artırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p01:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Aynı tutumun zorluğu nedir?",
+          "answer": "Metin uzar ve dikkat seviyesi düşük okuyucular için takip zorlaşır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p01:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Beşinci sebepteki şartlar dikkate alındığında, metnin bazı yerlerinin ağır oluşu hangi bakımdan mazur görülebilir?",
+          "answer": "Yazımın hastalık, acele ve sınırlı tashih altında gerçekleşmiş olması bakımından mazur görülebilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Beşinci sebebe göre ilk bölümün ayrı yazılmasının en muhtemel sebebi nedir?",
+          "answer": "Tamamen Arapça oluşu sebebiyle metin içinde ayrıca ayrıştırılmasının daha uygun görülmesidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin girişindeki bahçe temsili, farklı okuyucu seviyelerini nasıl açıklıyor?",
+          "answer": "Herkesin aynı erişim gücüne sahip olmadığını, fakat her seviyeden okuyucunun kendine göre bir pay alabileceğini açıklıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci sebep, eserin merkezinde daha çok hangi unsurun bulunduğunu gösterir: genel pedagoji mi, şahsî tecrübe mi?",
+          "answer": "Şahsî tecrübenin bulunduğunu gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci sebepte geçen genişlik ve derinlik birlikte düşünüldüğünde, okuyucudan nasıl bir çaba beklenir?",
+          "answer": "Sabırlı, dikkatli ve aşamalı bir okuma çabası beklenir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Üçüncü sebep, metindeki yoğun anlatımın amaçsız olmadığını nasıl gösterir?",
+          "answer": "Çünkü amaç, büyük hakikatleri eksiltmeden ve parçalamadan aktarmaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Dördüncü sebebe göre, bir meselede çok delil bulunması hangi iki sonucu bir arada doğurur?",
+          "answer": "Hem ispatı kuvvetlendirir hem de anlatımı uzatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "“Kısa fehimler kavramaz” ifadesi, okuyucu bakımından neye işaret eder?",
+          "answer": "Yüzeysel veya çabuk yorulan zihnin böyle yoğun metinleri anlamakta zorlanacağına işaret eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Beşinci sebepte Ramazan’ın anılması, yazım süreci hakkında hangi olumlu yönü düşündürür?",
+          "answer": "Yazımın manevî bir bereket ve feyiz ortamında gerçekleştiğini düşündürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Aynı sebepte hangi olumsuz şartlar bu olumlu yönle birlikte zikredilir?",
+          "answer": "Hastalık, dağınık hâl, acele yazma ve düzeltme yapmama gibi şartlar zikredilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçanın genel amacı, okuyucuya neyi önceden bildirmektir?",
+          "answer": "Eserin niçin yer yer ağır ve zor göründüğünü sebepleriyle önceden bildirmektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada ilk olarak, risalenin herkes için aynı açıklıkta olmadığından söz edildikten sonra hangi güven verici düşünce öne çıkarılıyor?",
+          "answer": "Anlayış farkı olsa da kimsenin tamamen mahrum kalmayacağı düşüncesi öne çıkarılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Büyük bahçe örneğinde, tamamına ulaşamayan kişinin yine de fayda görmesi neyi öğretir?",
+          "answer": "Kısmi istifadenin de kıymetli olduğunu ve öğrenmenin derece derece gerçekleşebileceğini öğretir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İlk sebep bakımından, eserin muhatabı en başta kimdir?",
+          "answer": "En başta müellifin kendi anlayışı ve tecrübesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci sebepteki yüksek tevhid anlatımının “azamî surette” verilmesi, metnin hangi niteliğini artırır?",
+          "answer": "Kapsam ve derinlik niteliğini artırır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü sebepte tek cümlede geniş mana taşınmasının sebebi nedir?",
+          "answer": "Hakikatin bütünlüğünü koruyarak eksiksiz vermek istenmesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Dördüncü sebepte yer alan delil çokluğu, müellifin hangi ilmî tavrını gösterir?",
+          "answer": "Kuvvetli ispat arayan, çok yönlü delillendirmeyi önemseyen ilmî tavrını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Beşinci sebepten, metnin redaksiyon süreci hakkında hangi hüküm çıkar?",
+          "answer": "Ayrıntılı gözden geçirme ve düzenleme imkânının sınırlı kaldığı hükmü çıkar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Yazımın aceleyle gerçekleşmesi ile anlamanın zorlaşması arasında nasıl bir bağ kuruluyor?",
+          "answer": "Hızlı yazım ve ilk taslakta bırakılma, anlatımda bazı karışıklıklara yol açarak kavrayışı güçleştiriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p01:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Arapça parçaların çokluğu, okuyucu kitlesi açısından nasıl bir eşik oluşturur?",
+          "answer": "Arapçaya aşina olmayanlar için ilave bir anlama eşiği oluşturur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

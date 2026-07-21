@@ -1,0 +1,724 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "ayetul-kubra:11-sinif:p27",
+  "bookSlug": "ayetul-kubra",
+  "bookTitle": "Ayetül Kübra",
+  "bookOrder": 0,
+  "gradeSlug": "11-sinif",
+  "partNo": "p27",
+  "partNumber": 27,
+  "title": "Enbiyalar: Mu'cizat ve icma ile tevhid dersi (giriş ve hüküm)",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/AyetulKubra/11-sinif/SveC_11sinif_ayetul-kubra-p27-enbiyalar-mucizat-ve-icma-ile-tevhid-dersi-giris-ve-hukum.txt",
+  "sourceRevision": "e0b4cf5f3cf5cd8fd0d04c905b4c712467806eda6558f9a54a69f32cea99e522",
+  "setCount": 6,
+  "questionCount": 58,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Mütefekkir yolcu, bu bölümde hangi yeni âleme girmek istemektedir?",
+          "answer": "İnsanlar âlemine, yani beşer dünyasına yönelmek istemektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Onu bu âleme ilk olarak kimler davet etmektedir?",
+          "answer": "Başta peygamberler davet etmektedir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Yolcu, insanlık tarihine bakınca peygamberlerde ortak olarak ne görmektedir?",
+          "answer": "Hepsinin Allah’ın birliğini bildirdiğini ve insanları imana çağırdığını görmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Peygamberlerin insanları hangi seviyeden hangi seviyeye çıkarmaya çalıştığı anlatılmaktadır?",
+          "answer": "İnsanları nefsanî ve aşağı bir hâlden daha yüce ve mânevî bir dereceye yükseltmeye çalıştıkları anlatılmaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Peygamberlerin sözlerinin güvenilir ve güçlü olduğuna hangi delil özellikle gösterilmektedir?",
+          "answer": "Ellerindeki mucizelerin, onların doğruluğunu gösteren bir ilâhî tasdik işareti olması gösterilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Peygamberlerin haber verdiği hakikatin kuvveti, metinde hangi iki unsurla daha da pekiştirilmektedir?",
+          "answer": "Çok sayıda doğru kimsenin aynı şeyi bildirmesi ve birçok topluluğun onları tasdik edip iman etmesiyle pekiştirilmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu deliller karşısında inkâr edenler hakkında nasıl bir değerlendirme yapılmaktadır?",
+          "answer": "Çok büyük bir yanlışa düştükleri ve ağır bir sorumluluk altına girdikleri belirtilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S1Q5",
+            "ayetul-kubra:p27:11-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Buna karşılık peygamberleri tasdik edip iman edenler için nasıl bir hüküm verilmektedir?",
+          "answer": "Onların doğru yolda ve hakka uygun bir tavır içinde oldukları ifade edilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Yolcunun bu dersten elde ettiği mânevî kazanç nedir?",
+          "answer": "İmanın kutsiyetine ait daha yüksek bir dereceyi fark etmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın ana fikri nedir?",
+          "answer": "Peygamberlerin ortak daveti, mucizeleri ve ümmetlerin tasdiki, Allah’ın birliğine ve imanın doğruluğuna çok kuvvetli delil teşkil etmektedir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcunun marifet yolunda daha ileri gitme isteği onu nereye yöneltmektedir?",
+          "answer": "İlahî marifetin daha ileri derecelerini ararken insanlık âlemine yöneltmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Yolcu içeri girince önce zaman bakımından nereye bakmaktadır?",
+          "answer": "Geçmişe, yani önceki zamanlara bakmaktadır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Geçmişte gördüğü en seçkin insan topluluğu kimlerdir?",
+          "answer": "Peygamberlerdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Peygamberlerin ortak zikri ve çağrısı hangi inanç esası etrafında toplanmaktadır?",
+          "answer": "Allah’ın tek ilâh olduğu inancı etrafında toplanmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Peygamberlerin insanlara sadece bilgi vermediği, aynı zamanda onları dönüştürmek istediği nasıl anlaşılmaktadır?",
+          "answer": "İnsanları daha aşağı bir hayattan daha yüce bir mânevî hayata yükseltmek için eğitim verdiklerinin söylenmesinden anlaşılmaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Her bir peygamberin elindeki mucize neyin işareti sayılmaktadır?",
+          "answer": "Yaratıcı tarafından verilen bir doğrulama nişanesi sayılmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Pek çok insan topluluğunun peygamberleri kabul etmesi, anlatılan hakikate nasıl bir katkı sağlamaktadır?",
+          "answer": "O hakikatin boş bir iddia olmadığını, toplumlar tarafından da tasdik edildiğini göstermektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre birçok doğru haber vericinin ittifak ettiği bir konuda şüphe niçin zayıf kalmaktadır?",
+          "answer": "Çünkü hepsi aynı hakikati ciddi ve sağlam delillerle bildirmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İnkâr edenlerin tavrı niçin sadece basit bir hata olarak bırakılmamış, daha ağır görülmüştür?",
+          "answer": "Bu kadar açık delile rağmen inkâr ettikleri için bunun büyük bir sapma ve ağır bir suç olduğu anlatılmıştır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S2Q6",
+            "ayetul-kubra:p27:11-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümde okuyucuya verilmek istenen temel ders nedir?",
+          "answer": "Peygamberlerin birleştiği tevhid dersi, insanı hakka götüren en güvenilir ve en kuvvetli rehberdir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada yolcunun girdiği yer nasıl bir eğitim ortamı gibi tasvir edilmektedir?",
+          "answer": "Nurlu bir ders yeri ve mânevî bir mektep gibi tasvir edilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Yolcu burada diz çöküp derse oturunca ilk dikkatini çeken ana nokta nedir?",
+          "answer": "Peygamberlerin ortak şekilde aynı hakikati haber vermeleri olmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Peygamberlerin insanlık içindeki konumu nasıl anlatılmaktadır?",
+          "answer": "İnsanlığın en aydınlık ve en olgun şahsiyetleri olarak anlatılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Peygamberlerin tevhid davasını destekleyen olağanüstü deliller nelerdir?",
+          "answer": "Mucizeleridir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Mucizelerin “tasdik işareti” sayılması ne anlama gelir?",
+          "answer": "Peygamberlerin Allah tarafından desteklendiğini ve doğru söylediklerini göstermesi anlamına gelir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Büyük toplulukların peygamberlere iman etmesi, onların daveti hakkında ne düşündürür?",
+          "answer": "Bu davetin insanlarda karşılık bulduğunu ve ikna edici bir hakikat taşıdığını düşündürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada “birçok doğru zâtın birleşmesi” neden önemli görülmektedir?",
+          "answer": "Çünkü ayrı ayrı doğru kişilerin aynı hükümde buluşması, o hükmün kesinliğini artırmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Yolcu, ehl-i dalaletin durumunu anlayınca hangi karşılaştırmayı zihninde kurmaktadır?",
+          "answer": "Delile dayanan iman ehlinin haklılığını, delile rağmen inkâr edenlerin ise büyük bir yanlış içinde olduğunu kavramaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İman edenlerin haklı sayılması sadece duygusal bir bağlılıktan mı kaynaklanmaktadır?",
+          "answer": "Hayır, güçlü delillerle desteklenen bir hakikati kabul etmelerinden kaynaklanmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre bu ders yolcuda hangi iç sonuçla bitmektedir?",
+          "answer": "İmanın yüceliğini daha derinden fark etmesiyle bitmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanlar âlemine girişte öncü rehberler olarak kimler öne çıkarılmaktadır?",
+          "answer": "Peygamberler öne çıkarılmaktadır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Yolcunun geçmişe bakması, hakikati değerlendirmede neyi göstermektedir?",
+          "answer": "Sadece bir döneme değil, insanlık tarihinin geneline bakarak hüküm verdiğini göstermektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Peygamberlerin hepsinin aynı inancı bildirmesi hangi kavramla ifade edilebilir?",
+          "answer": "İcma, yani ortak birleşme ile ifade edilebilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Peygamberlerin görevi, insanı sadece dünyaya ait bir seviyede bırakmak mıdır?",
+          "answer": "Hayır, insanı daha yüksek ve mânevî bir dereceye taşımaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre bir peygamberin doğruluğunu destekleyen iki temel unsur nedir?",
+          "answer": "Mucize göstermesi ve insan topluluklarının onu tasdik etmesidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Çok sayıda doğru kimsenin aynı hakikati bildirmesi neden kesinlik kazandırır?",
+          "answer": "Çünkü ortak ve ciddi şahitlik, yanlış ihtimalini çok azaltır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Deliller bu kadar güçlü iken inkârı seçenlerin yanlışı niçin büyütülmektedir?",
+          "answer": "Açık hakikate karşı çıkmaları sebebiyle bu tavrın ağır bir sapma olduğu vurgulanmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Peygamberleri tasdik edenlerin doğru yolda olduğu hangi mantıkla anlaşılmaktadır?",
+          "answer": "Sağlam delillerle doğrulanmış haberi kabul ettikleri için doğru yolda oldukları anlaşılmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajda iman hangi yönüyle öne çıkarılmaktadır?",
+          "answer": "Kutsal, değerli ve insanı yükselten yönüyle öne çıkarılmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Yolcunun beşer dünyasına geçişi, arayışının hangi yönünü göstermektedir?",
+          "answer": "Hakikati daha kapsamlı tanımak için insanlık içindeki ilâhî rehberliği araştırdığını göstermektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu bölümde peygamberler neden “öğretici” konumunda sunulmaktadır?",
+          "answer": "İnsanlara imanı anlattıkları ve onları daha üstün bir hayata yönelttikleri için öğretici konumunda sunulmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Peygamberlerin ortak mesajı hangi temel esası bildirmektedir?",
+          "answer": "Allah’ın birliğini bildirmektedir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Peygamberlerin haberini kuvvetlendiren olağanüstü hâllerin adı nedir?",
+          "answer": "Mucizedir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Mucize ile ümmetlerin tasdiki birlikte düşünülünce nasıl bir sonuç çıkar?",
+          "answer": "Hem ilâhî destek hem de insanî kabul bulunduğu için davanın çok sağlam olduğu sonucu çıkar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada “yüzbin ciddî ve doğru zât” ifadesiyle hangi düşünce güçlendirilmektedir?",
+          "answer": "Doğru kimselerin birleştiği haberin son derece güvenilir olduğu düşüncesi güçlendirilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Ehl-i dalaletin tutumu, bilgi eksikliğinin ötesinde niçin ağır bir yanlış sayılmaktadır?",
+          "answer": "Çünkü açık delilleri reddetmeleri, sadece bilmemekten daha ileri bir sapma göstermektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İman edenlerin haklılığı yalnız çoğunluğa dayanarak mı savunulmaktadır?",
+          "answer": "Hayır, asıl olarak peygamberlerin doğruluğunu gösteren kuvvetli delillere dayanarak savunulmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Yolcunun bu dersten sonra ulaştığı mânevî fark ediş nedir?",
+          "answer": "İmanın ne kadar yüce ve mukaddes bir mertebe taşıdığını daha iyi anlamasıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin bütününden çıkarılabilecek sonuç nedir?",
+          "answer": "Peygamberlerin ortak şehadeti, tevhid inancını aklen ve kalben kuvvetli biçimde doğrulamaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Peygamberlerin insanlık içindeki üstünlüğü hangi iki özellikle belirtilmektedir?",
+          "answer": "En aydınlık ve en olgun kişiler olmalarıyla belirtilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Hepsinin birlikte aynı zikri söylemesi neyi göstermektedir?",
+          "answer": "Tevhid konusunda aralarında tam bir birlik bulunduğunu göstermektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Peygamberlerin hedefi insanı hangi bakımdan yükseltmektir?",
+          "answer": "Mânevî ve ahlâkî bakımdan yükseltmektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Her peygamberin elindeki mucize, onun görevi hakkında nasıl bir anlam taşımaktadır?",
+          "answer": "Görevinin gerçek ve ilâhî destekli olduğunu göstermektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Birçok ümmetin peygamberleri doğrulaması, yolcuya hangi hükmü çıkarma imkânı vermektedir?",
+          "answer": "Bildirilen hakikatin toplumlarda da kabul gören sağlam bir gerçek olduğu hükmünü vermektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Çok sayıda sadık habercinin ortak tasdiki karşısında inkârcıların durumu nasıl görünmektedir?",
+          "answer": "Delile karşı direnen ve çok büyük bir yanlış yapan kimseler olarak görünmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu yanlışın “cinayet” gibi ağır bir ifadeyle anılması neyi vurgular?",
+          "answer": "Hakikate karşı çıkmanın sıradan bir hata değil, çok ciddi bir sapma olduğunu vurgular.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "ayetul-kubra:p27:11-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Peygamberleri tasdik edenlerin “hakikatlı” sayılması neye dayanır?",
+          "answer": "Gerçeği taşıyan sağlam haberi kabul etmelerine dayanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "ayetul-kubra:p27:11-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Yolcu bu bölümün sonunda hangi manevî kazançla ayrılmaktadır?",
+          "answer": "İmanın kutsallığını ve değerini daha yüksek bir derecede kavramış olarak ayrılmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

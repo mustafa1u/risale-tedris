@@ -1,0 +1,866 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "kucuk-sozler:8-sinif:p65",
+  "bookSlug": "kucuk-sozler",
+  "bookTitle": "Küçük Sözler",
+  "bookOrder": 1,
+  "gradeSlug": "8-sinif",
+  "partNo": "p65",
+  "partNumber": 65,
+  "title": "İbadetin dünya saadetine vesile oluşu / 1. Cihet: ihtiyaçlar, adalet-şeriat, peygamberlik ve akaid",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/kucuk-sozler/outputs/8-sinif/SveC_8sinif_kucuk-sozler-p65-ibadetin-dunya-saadetine-vesile-olusu-1-cihet-ihtiyaclar-adalet-seriat-peygamberlik-ve-akaid.txt",
+  "sourceRevision": "159530b946416488e89213bcf7dda5f18d3ae2e73d80b514b783aa014181e8a7",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde insanın hayvanlardan farklı gösterilen yönü nedir?",
+          "answer": "İnsanın daha ince ve özel bir yaratılışa sahip olması, onda çok çeşitli istek ve eğilimlerin bulunmasıdır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın güzel ve seçkin şeylere yönelmesi onu hangi ihtiyaca götürür?",
+          "answer": "İhtiyaçlarını iyi şekilde karşılayabilmek için çeşitli beceri ve işlere muhtaç hale getirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bir insan bu becerilerin hepsini tek başına yapamadığında neye mecbur olur?",
+          "answer": "Başkalarıyla yardımlaşmaya ve emeklerini paylaşmaya mecbur olur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanlar arasında alışveriş ve ortak çalışma varken neden haksızlıklar ortaya çıkabilir?",
+          "answer": "Çünkü insandaki istek, öfke ve akıl kuvvetleri sınırlandırılmadan bırakılmıştır; bu da taşkınlığa yol açabilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu haksızlıkları önlemek için toplumun neye ihtiyacı olduğu söyleniyor?",
+          "answer": "Adalete dayanan bir kurala ihtiyaç vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Her insanın aklı adaleti tam kavrayamadığı için hangi çözüme işaret edilir?",
+          "answer": "Herkesi kuşatan genel bir ölçüye, yani kanun hükmündeki ilahî düzene ihtiyaç olduğu belirtilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre gerçek ve kapsamlı kanun ne olabilir?",
+          "answer": "Şeriat olabilir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu ilahî hükümlerin uygulanması için niçin bir rehbere ihtiyaç vardır?",
+          "answer": "Çünkü kuralların etkili olması ve hayata geçmesi için onları tebliğ edip uygulatan bir önder gerekir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu görev kime verilir?",
+          "answer": "Peygambere verilir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Peygamberin doğruluğunu ve Allah ile bağını gösteren delil nedir?",
+          "answer": "Mucizelerdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Allah’ın emir ve yasaklarına gönülden bağlanmak için zihinlerde neyin yerleşmesi gerekir?",
+          "answer": "Allah’ın büyüklüğünün sağlam şekilde yerleşmesi gerekir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu yerleşme hangi yolla güçlenir?",
+          "answer": "İman esaslarıyla olur; bunların kuvvetlenmesi de ibadetin tekrar edilmesiyle gerçekleşir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde ibadetin özellikle hangi faydası açıklanıyor?",
+          "answer": "Dünya hayatındaki mutluluğa ve düzenli yaşama vesile oluşu açıklanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın yaratılışındaki çeşitli istekler arasında hangi tür arzular örnek verilebilir?",
+          "answer": "Güzel, seçkin, süslü şeyleri istemesi ve onurlu bir hayat sürmeyi arzulaması örnek verilebilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu arzuların çokluğu insanın günlük hayatını nasıl etkiler?",
+          "answer": "Yeme, giyinme ve başka ihtiyaçlarını karşılamak için daha çok emek ve beceriye ihtiyaç duymasına sebep olur.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanların birbirleriyle iş birliği yapmasının temel sebebi nedir?",
+          "answer": "Herkesin her işi bilmemesi ve ihtiyaçlarını tek başına tamamlayamamasıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İş birliği yapılan bir toplumda adalet neden gerekli hale gelir?",
+          "answer": "Çünkü emeklerin paylaşımında ve alışverişte haksızlık çıkmaması gerekir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre sadece bireysel akılla adaleti tam kurmak neden zor görülür?",
+          "answer": "Çünkü tek tek insanların aklı eksik kalabilir; herkesi kapsayan doğru ölçüyü tek başına sağlayamaz.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "“Küllî akıl” düşüncesi pratikte ne şekilde ortaya çıkar?",
+          "answer": "Kanun şeklinde ortaya çıkar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu kanunun en doğru biçimi olarak ne gösterilir?",
+          "answer": "Şeriat gösterilir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Şeriatın yalnız var olması niçin yeterli görülmüyor?",
+          "answer": "Çünkü onun uygulanmasını ve etkisini sürdürecek bir yetkiliye ihtiyaç vardır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Peygamberin insanlara karşı etkili bir rehber olması için hangi iki alanda üstünlüğe ihtiyacı olduğu anlatılıyor?",
+          "answer": "Hem görünen hayatta hem de manevî yönden yüceliğe ve ayrı bir konuma ihtiyacı olduğu anlatılıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Mucizelerin burada üstlendiği görev nedir?",
+          "answer": "Peygamberin Allah tarafından gönderildiğini göstermektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümlelerde ibadet ile iman arasında nasıl bir bağ kuruluyor?",
+          "answer": "İman esasları ibadetle canlı tutulur, güçlenir ve gelişir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde insanın yapısı nasıl tasvir edilerek konuya başlanıyor?",
+          "answer": "İnsanın çok yönlü, hassas ve farklı isteklere açık bir varlık olduğu belirtilerek başlanıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın seçkin ve güzel şeyleri istemesi onun sıradan bir hayatla yetinmediğini nasıl gösterir?",
+          "answer": "Daha nitelikli bir yaşam, daha güzel eşyalar ve saygın bir hayat aradığını gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu durumda insanın başka insanlarla ilişki kurması neden kaçınılmaz hale gelir?",
+          "answer": "Çünkü ihtiyaçlarını karşılamak için farklı alanlarda başkalarının emeğine ve bilgisine ihtiyaç duyar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan tabiatındaki hangi kuvvetler kontrolsüz kalınca toplumsal sorun doğurur?",
+          "answer": "Arzu, öfke ve akıl kuvvetleri ölçüsüz kullanıldığında sorun doğurur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Zulüm ve saldırının önlenmesi için ilk gerekli şey nedir?",
+          "answer": "Adaletli bir düzenin kurulmasıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metin, adaletin kaynağı olarak neden herkesin kendi düşüncesini yeterli görmez?",
+          "answer": "Çünkü bireylerin bakışı sınırlıdır; ortak ve doğru ölçü için daha kapsamlı bir rehber gerekir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu kapsamlı rehberin adı nedir?",
+          "answer": "Şeriattır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Şeriatı hayata taşıyacak makam kimdir?",
+          "answer": "Peygamberdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Peygamberin davasını destekleyen açık işaretler ne olarak ifade edilir?",
+          "answer": "Mucizeler olarak ifade edilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Allah’ın buyruklarına boyun eğebilmek için kalpte ve zihinde hangi düşünce kuvvetlenmelidir?",
+          "answer": "Allah’ın azameti ve büyüklüğü kuvvetlenmelidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Bu büyüklüğü yerleştiren temel alan nedir?",
+          "answer": "İmanla ilgili esaslardır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "İman hükümlerinin gelişmesi neden ibadete bağlanmıştır?",
+          "answer": "Çünkü ibadet tekrarlandıkça iman yenilenir, sağlamlaşır ve etkisi artar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S3Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre insanı diğer canlılardan ayıran önemli özelliklerden biri nedir?",
+          "answer": "Çok geniş istek ve yönelişlere sahip olmasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın ihtiyaçlarını güzel şekilde karşılama isteği hangi sonucu doğurur?",
+          "answer": "Pek çok sanat, iş ve uğraşa ihtiyaç doğurur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Herkesin kendi emeğinin ürününü başkalarıyla değiştirmesi hangi faydayı sağlar?",
+          "answer": "İnsanların birbirine destek olup eksiklerini tamamlamasını sağlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde insanın özgür seçimiyle gelişmesi için hangi durumun bırakıldığı belirtiliyor?",
+          "answer": "Bazı iç kuvvetlerinin sınırlandırılmadan bırakıldığı belirtiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu serbestlik yanlış kullanıldığında hangi kötü sonuç meydana gelir?",
+          "answer": "Haksızlık ve başkasının hakkına saldırı meydana gelir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Toplumda adaleti sağlamak için neden genel geçer bir ölçü gerekir?",
+          "answer": "Çünkü herkes kendi çıkarına göre davranırsa ortak hakkı korumak zorlaşır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu genel ölçü niçin şeriat olarak tanımlanır?",
+          "answer": "Çünkü herkesi bağlayan, ilahî kaynaklı ve adaleti esas alan bir kanun olarak sunulur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Peygamberin bulunması şeriat açısından hangi ihtiyacı karşılar?",
+          "answer": "Onu bildirme, uygulatma ve toplumda etkili kılma ihtiyacını karşılar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Peygamberin hem insanlar nezdinde hem de Allah katındaki konumunu göstermeye yarayan şey nedir?",
+          "answer": "Mucizelerdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "İnsanların ilahî emirlere bağlanmasında niçin Allah’ın yüceliğini tanımak önemlidir?",
+          "answer": "Çünkü kişi Allah’ın büyüklüğünü kavradıkça emirlere saygı ve teslimiyet gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Akaid burada hangi görevi görür?",
+          "answer": "Allah’a ve dinin esaslarına dair inancı zihinde yerleştirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "İbadetin tekrar edilmesi, imana nasıl bir katkı sağlar?",
+          "answer": "İmanı güçlendirir, tazeler ve daha görünür hale getirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçaya göre insanın tabiatında bulunan çok sayıdaki istek ona nasıl bir hayat arayışı kazandırır?",
+          "answer": "Daha güzel, daha düzenli ve insana yakışan bir hayat arayışı kazandırır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan neden ihtiyaçlarını karşılarken tek başına yeterli olamaz?",
+          "answer": "Çünkü her alandaki bilgiye ve beceriye sahip değildir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu eksiklik insanları hangi sosyal yola sevk eder?",
+          "answer": "Ortak çalışmaya, yardımlaşmaya ve alışverişe sevk eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "kucuk-sozler:p65:8-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Yardımlaşma içinde bile sorun çıkmasının sebebi nedir?",
+          "answer": "İnsan nefsindeki istek ve öfke gibi güçlerin ölçüsüz kullanılmasıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Toplum düzeni için adaletin gerekli olması hangi durumdan doğar?",
+          "answer": "Hakkın korunması ve saldırıların önlenmesi ihtiyacından doğar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Tek tek insanlar adaleti tam kuramayınca neye başvurmak gerekir?",
+          "answer": "Daha üst ve kuşatıcı bir kanuna başvurmak gerekir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu kanunun ilahî adı nedir?",
+          "answer": "Şeriattır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Şeriatın uygulanmasında peygamber neden merkezi bir konumdadır?",
+          "answer": "Çünkü o, ilahî hükmü insanlara ulaştıran ve yaşayışta örnek olan kişidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Peygamberin hak üzere olduğunu gösteren olağanüstü delillerin adı nedir?",
+          "answer": "Mucizedir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Allah’ın emir ve yasaklarına bağlılık oluşturmak için önce neyin sağlamlaşması gerekir?",
+          "answer": "Allah’ın büyüklüğüne dair inancın sağlamlaşması gerekir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "İman esaslarının zihinlerde parlaması neyi doğurur?",
+          "answer": "Emir ve yasaklara itaat etmeyi kolaylaştırır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "İbadetin sürekli yapılması neden önemli görülür?",
+          "answer": "Çünkü iman hükümlerini kuvvetlendirir ve insanın onları unutmadan yaşamasını sağlar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu metin parçasında insanın arzuları nasıl bir yapıya sahip olarak anlatılıyor?",
+          "answer": "Çeşitli, güçlü ve çok farklı alanlara yönelen bir yapıya sahip olarak anlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanın yiyecek, giyecek ve benzeri ihtiyaçlarını en güzel şekilde elde etmek istemesi neyi gerekli kılar?",
+          "answer": "Birçok iş kolunu, beceriyi ve insanlarla iş birliğini gerekli kılar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İnsanların birlikte çalışıp ürünlerini değiştirmesi hangi ihtiyacı karşılar?",
+          "answer": "Herkesin kendi eksiğini tamamlayıp hayatını sürdürebilme ihtiyacını karşılar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İnsandaki bazı kuvvetlerin sınırlandırılmamış olması hangi tehlikeyi doğurur?",
+          "answer": "Haddi aşma, zulüm ve saldırı tehlikesini doğurur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu tehlike karşısında toplumun koruyucu dayanağı ne olmalıdır?",
+          "answer": "Adalet olmalıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Adaletin sağlanması için neden bireysel akıldan daha geniş bir ölçü aranır?",
+          "answer": "Çünkü bireysel akıl yetersiz kalabilir; herkese uygun ortak hüküm için daha kapsamlı bir rehber gerekir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu kapsamlı rehber hangi biçimde insanlara ulaşır?",
+          "answer": "Kanun biçiminde ulaşır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde bu kanunun dinî karşılığı nedir?",
+          "answer": "Şeriattır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Kanunun yürürlük kazanması için neden peygamber gerekir?",
+          "answer": "Çünkü onu açıklayacak, uygulayacak ve insanlara kabul ettirecek bir elçi gerekir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Peygamberin taşıdığı davanın doğruluğunu destekleyen en güçlü işaret nedir?",
+          "answer": "Mucizelerdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "İtaat ve boyun eğmenin kalplerde yerleşmesi için hangi inanç yönünün kuvvetlenmesi gerekir?",
+          "answer": "Allah’ın azametini tanıma yönünün kuvvetlenmesi gerekir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "kucuk-sozler:p65:8-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Sonuç olarak ibadet, imanla ilgili hükümler üzerinde nasıl bir etki yapar?",
+          "answer": "Onları besler, güçlendirir ve zamanla gelişmelerine vesile olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

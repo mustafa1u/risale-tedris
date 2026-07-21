@@ -1,0 +1,744 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "tabiat-risalesi:8-sinif:p02",
+  "bookSlug": "tabiat-risalesi",
+  "bookTitle": "Tabiat Risalesi",
+  "bookOrder": 3,
+  "gradeSlug": "8-sinif",
+  "partNo": "p02",
+  "partNumber": 2,
+  "title": "Ayetin delaleti ve 1338 Ankara'da zındıka tehlikesi; bürhanın Türkçe beyanı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Lemalar/tabiat-risalesi/outputs/8-sinif/SveC_8sinif_tabiat-risalesi-p02-ayetin-delaleti-ve-1338-ankarada-zindika-tehlikesi-burhanin-turkce-beyani.txt",
+  "sourceRevision": "581f14da4f6dc3e77abc88a25b6a9f36a1ebae304824dd4a3671ac1a5c7c5eb8",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Verilen ayette Allah hakkında nasıl bir hüküm bildiriliyor?",
+          "answer": "Allah’ın varlığı ve birliği konusunda şüpheye yer olmadığı bildiriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu hükmün çok açık olduğu hangi ifadeyle anlatılıyor?",
+          "answer": "Bu gerçeğin, apaçık belli olacak kadar açık olduğu belirtiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Müellif, Ankara’da hangi tehlikeli fikrin yayılmaya çalıştığını fark ediyor?",
+          "answer": "İnancı bozmayı ve insanları zehirlemeyi amaçlayan dinsizlik düşüncesinin gizlice yayıldığını görüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu düşünceyi görünce en çok hangi konuda endişe ediyor?",
+          "answer": "Bunun iman esaslarına zarar vereceğinden korkuyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu tehlikeye karşı dayandığı kaynak nedir?",
+          "answer": "Kur’an’dan aldığı güçlü delildir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İlk olarak yazılan eser hangi dilde hazırlanmıştır?",
+          "answer": "Arapça hazırlanmıştır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "O ilk yazının beklenen etkiyi göstermemesinin iki sebebi nedir?",
+          "answer": "Arapça bilenlerin az olması ve önem vererek okuyanların da çok az bulunmasıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bunun üzerine nasıl bir yol izlemeye karar veriyor?",
+          "answer": "Delili Türkçe olarak da açıklamaya karar veriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu Türkçe anlatımın ayrıntılı değil de daha kısa tutulmasının sebebi nedir?",
+          "answer": "Delilin bazı bölümleri başka risalelerde daha geniş şekilde açıklanmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre başka risalelerdeki deliller bu bölümle nasıl bir ilişki içindedir?",
+          "answer": "Onlar burada bir araya gelmiş parçalar gibi görülüyor ve bu delili destekliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S1Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Ayetteki soru tarzı neyi kuvvetli şekilde reddetmek için kullanılıyor?",
+          "answer": "Allah hakkında şüphe bulunabileceği düşüncesini reddetmek için kullanılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Ayette Allah’ın hangi iki temel yönüne dikkat çekiliyor?",
+          "answer": "Varlığına ve tek oluşuna dikkat çekiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "1338 yılında yaşanan askerî başarının ardından toplumda nasıl bir hava bulunduğu anlatılıyor?",
+          "answer": "Müminler arasında güçlü ve sevinçli bir düşünce ortamı olduğu anlatılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Buna rağmen hangi olumsuz hareketin çalıştığı söyleniyor?",
+          "answer": "Bozguncu bir dinsizlik akımının araya girip zarar vermeye çalıştığı söyleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Müellif bu akımı hangi benzetmeyle anlatıyor?",
+          "answer": "Büyük ve korkutucu bir ejderhaya benzetiyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Müellifin yazdığı delilin amacı nedir?",
+          "answer": "O zararlı düşünceyi etkisiz hale getirmek ve iman hakikatini savunmaktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "İlk yazılan Arapça risalenin anlatım biçimi nasıldı?",
+          "answer": "Kısa ve özlü bir biçimde yazılmıştı.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Beklenen fayda tam görülmeyince hangi sonuç ortaya çıkıyor?",
+          "answer": "Dinsizlik fikri daha da yayılıyor ve güç kazanıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Mecbur kaldım” anlamına gelen ifade, müellifin hangi ihtiyacını gösterir?",
+          "answer": "İnsanlara daha anlaşılır şekilde ulaşma ihtiyacını gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Parçalar hâlindeki farklı delillerin bir araya getirilmesi neyi sağlar?",
+          "answer": "Daha toplu ve kuvvetli bir ispat ortaya çıkarır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Ayetin verdiği ana mesaj bir cümleyle nasıl söylenebilir?",
+          "answer": "Kâinatı yaratan Allah’ın varlığı ve birliği açık bir gerçektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde anlatıma başlamadan önce neden bir uyarı yapılıyor?",
+          "answer": "Konunun hangi şartlarda yazıldığını ve neden önemli olduğunu göstermek için uyarı yapılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Ankara’da görülen zararlı düşüncenin hedefi neydi?",
+          "answer": "İman sahiplerinin düşünce dünyasına girip onu bozmak ve zehirlemekti.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Müellif, ayetin hangi yönünden yardım aldığını söylüyor?",
+          "answer": "Ayetin Allah’ın varlığını ve birliğini açıkça bildiren yönünden yardım aldığını söylüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Yazılan delilin kaynağı olarak ne gösteriliyor?",
+          "answer": "Kur’an’ın hikmetli rehberliği gösteriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Arapça yazılmış metnin etkisinin sınırlı kalması hangi eğitimle ilgili sorunu düşündürür?",
+          "answer": "İnsanların önemli bir kısmının Arapça anlayamamasını düşündürür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre sadece dil meselesi mi sorun olmuştur, yoksa başka bir eksik daha var mıdır?",
+          "answer": "Başka bir eksik daha vardır; esere ciddi şekilde ilgi gösterenler de azdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Türkçe açıklamanın “bir derece” yapılacağının söylenmesi neyi gösterir?",
+          "answer": "Bütün ayrıntıların burada verilmeyeceğini, özlü bir anlatım olacağını gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Başka risalelerde dağınık halde bulunan delillerin burada birleşmesi nasıl anlaşılmalıdır?",
+          "answer": "Daha önce ayrı anlatılan ispatların burada tek bir delilin parçaları gibi toplandığı anlaşılmalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün genel amacı bilgi vermekten öte hangi hizmeti taşır?",
+          "answer": "İmanı koruma ve zihinleri şüpheden kurtarma hizmeti taşır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Ayette gökleri ve yeri yaratanın zikredilmesi, Allah hakkında hangi sonuca götürür?",
+          "answer": "Böyle büyük bir yaratmanın sahibi hakkında şüphe etmenin yersiz olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde “inkârı reddeden soru” kullanılmasının amacı nedir?",
+          "answer": "Şüpheyi kabul etmeyip hakikati güçlü şekilde vurgulamaktır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Müellifin Ankara’da gördüğü fikir açık mı, yoksa gizli yöntemlerle mi ilerliyor?",
+          "answer": "Gizli ve kurnaz yollarla ilerliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu fikrin üç olumsuz etkisi nasıl özetlenebilir?",
+          "answer": "İçeri sızmak, düzeni bozmak ve insanları zehirlemek istemektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Müellifin kalbinde beliren korku, hangi değerin saldırı altında olduğunu düşündürüyor?",
+          "answer": "İmanın temel esaslarının saldırı altında olduğunu düşündürüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Yazılan Arapça risale nerede bastırılmıştır?",
+          "answer": "Ankara’da Yeni Gün Matbaası’nda bastırılmıştır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Arapça metnin yeterince etkili olmaması, delilin zayıf olduğunu mu gösterir?",
+          "answer": "Hayır, delilin zayıf olduğunu değil, yeterince anlaşılmadığını ve ilgi görmediğini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Dinsizlik düşüncesinin sonradan güç kazanması, ilk uyarının doğruluğu hakkında ne gösterir?",
+          "answer": "İlk endişenin yerinde ve haklı olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Türkçe açıklama yapma kararı, muhataplara karşı nasıl bir sorumluluk anlayışını gösterir?",
+          "answer": "İnsanların anlayacağı dilde hakikati anlatma sorumluluğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadaki anlatımın sonunda okuyucuya verilmek istenen temel güven nedir?",
+          "answer": "Allah’ın varlığı ve birliği konusunda güçlü delillerin bulunduğu güvenidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Ayetin merkezindeki mesele nedir?",
+          "answer": "Allah’ın varlığı ve birliği konusunda şüphenin reddedilmesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Müellif, bu ayetin işaret ettiği açıklığı hangi seviyede görüyor?",
+          "answer": "Çok açık ve kendiliğinden fark edilecek bir seviyede görüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Ankara’ya gittiği yılda toplumda hem olumlu hem olumsuz hangi iki durum birlikte bulunuyor?",
+          "answer": "Bir yanda askerî zaferin verdiği imanlı bir canlılık, öte yanda bozguncu bir dinsizlik çalışması bulunuyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Zararlı fikir niçin özellikle tehlikeli görülüyor?",
+          "answer": "Çünkü inançlı insanların içine girip onları içten bozmak istiyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Müellifin hazırladığı delilin hedefi savunma mı, saldırı mı, yoksa her ikisi mi?",
+          "answer": "Asıl olarak imanı savunmak ve zararlı fikri dağıtmaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Arapça yazılmış delilin yaygın fayda vermemesinden hangi ders çıkarılabilir?",
+          "answer": "Hakikatin güçlü olması yetmez; insanların anlayacağı şekilde sunulması da gerekir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Türkçe anlatımın gerekli hale gelmesi hangi gelişmeye bağlanıyor?",
+          "answer": "Dinsizlik düşüncesinin büyüyüp kuvvetlenmesine bağlanıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "tabiat-risalesi:p02:8-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre bütün ayrıntılar bu bölümde veriliyor mu?",
+          "answer": "Hayır, bazı kısımlar özet halinde bırakılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Daha önce farklı yerlerde geçen delillerin burada toplanması okuyucuya ne kolaylığı sağlar?",
+          "answer": "Konuyu bir bütün halinde görmesini kolaylaştırır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçanın duygu yönü ağır basan tarafı nedir?",
+          "answer": "İman için kaygı duyma ve onu korumak için gayret gösterme tarafıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Ayetteki anlatım, Allah’ın varlığı konusunda nasıl bir zihinsel tutum ister?",
+          "answer": "Tereddüt etmeden kabul etmeyi ister.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Göklerin ve yerin yaratıcısından söz edilmesi, hangi delil türüne örnek sayılabilir?",
+          "answer": "Yaratılmışlara bakarak Yaratanı tanıma deliline örnek sayılabilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Müellifin Ankara’daki gözlemi sadece siyasî bir durum mu anlatır, yoksa inançla ilgili bir mücadeleyi mi gösterir?",
+          "answer": "İnançla ilgili bir mücadeleyi gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metindeki bozguncu fikir niçin “zehirleme” ile anlatılmış olabilir?",
+          "answer": "Çünkü insanın inancını yavaş yavaş bozup zarar verdiği düşünülüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Müellifin Kur’an’dan yardım istemesi neyi gösterir?",
+          "answer": "Çözümü vahyin rehberliğinde aradığını gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İlk risalenin kısa ve toplu yazılması, anlaşılmasını nasıl etkilemiş olabilir?",
+          "answer": "Bazı okuyucular için takip etmeyi zorlaştırmış olabilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Arapça bilen az olunca hangi ihtiyaç ortaya çıkmıştır?",
+          "answer": "Delilin halkın daha kolay anlayacağı dilde anlatılması ihtiyacı ortaya çıkmıştır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Türkçe yazma kararının arkasındaki temel sebep düşüncenin zayıflaması mı, güçlenmesi mi?",
+          "answer": "Güçlenmesidir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "“Bazı parçalar başka risalelerde açıklandı” denmesi, bu bölüm için nasıl bir yöntem izlendiğini gösterir?",
+          "answer": "Tekrarı azaltan ve özlü anlatımı tercih eden bir yöntem izlendiğini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "tabiat-risalesi:p02:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçaya göre sağlam delillerin bir araya gelmesi neye hizmet eder?",
+          "answer": "İmanı desteklemeye ve şüpheli fikirleri çürütmeye hizmet eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}
