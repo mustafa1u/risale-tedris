@@ -8,6 +8,8 @@ import {
   createGlobalSearchState
 } from "./searchState.js";
 
+const SEARCH_HISTORY_SNAPSHOT_KEY = "rissorSearchSnapshotV1";
+
 function asSearchParams(input) {
   if (input instanceof URLSearchParams) {
     return new URLSearchParams(input);
@@ -81,8 +83,53 @@ export function replaceSearchUrlState(state, {
     : "/";
   const hash = typeof locationImpl.hash === "string" ? locationImpl.hash : "";
   const nextUrl = `${pathname}?${serializeSearchUrlState(state)}${hash}`;
-  historyImpl.replaceState(historyImpl.state ?? null, "", nextUrl);
+  const currentHistoryState = historyImpl.state ?? null;
+  let nextHistoryState = currentHistoryState;
+  if (currentHistoryState && typeof currentHistoryState === "object" && SEARCH_HISTORY_SNAPSHOT_KEY in currentHistoryState) {
+    nextHistoryState = { ...currentHistoryState };
+    delete nextHistoryState[SEARCH_HISTORY_SNAPSHOT_KEY];
+  }
+  historyImpl.replaceState(nextHistoryState, "", nextUrl);
   return nextUrl;
+}
+
+export function writeSearchHistorySnapshot(state, snapshot, {
+  historyImpl = globalThis.history,
+  locationImpl = globalThis.location
+} = {}) {
+  if (typeof historyImpl?.replaceState !== "function" || !locationImpl || !Array.isArray(snapshot?.results)) {
+    return null;
+  }
+
+  const value = {
+    signature: serializeSearchUrlState(state),
+    results: snapshot.results,
+    total: Number.isInteger(snapshot.total) && snapshot.total >= 0 ? snapshot.total : snapshot.results.length,
+    scrollY: Number.isFinite(snapshot.scrollY) && snapshot.scrollY >= 0 ? snapshot.scrollY : 0
+  };
+  const currentHistoryState = historyImpl.state && typeof historyImpl.state === "object"
+    ? historyImpl.state
+    : {};
+  const nextHistoryState = { ...currentHistoryState, [SEARCH_HISTORY_SNAPSHOT_KEY]: value };
+  const pathname = typeof locationImpl.pathname === "string" && locationImpl.pathname ? locationImpl.pathname : "/";
+  const search = typeof locationImpl.search === "string" ? locationImpl.search : "";
+  const hash = typeof locationImpl.hash === "string" ? locationImpl.hash : "";
+  historyImpl.replaceState(nextHistoryState, "", `${pathname}${search}${hash}`);
+  return { results: value.results, total: value.total, scrollY: value.scrollY };
+}
+
+export function readSearchHistorySnapshot(state, { historyImpl = globalThis.history } = {}) {
+  const value = historyImpl?.state?.[SEARCH_HISTORY_SNAPSHOT_KEY];
+  if (
+    !value ||
+    value.signature !== serializeSearchUrlState(state) ||
+    !Array.isArray(value.results) ||
+    !Number.isInteger(value.total) ||
+    !Number.isFinite(value.scrollY)
+  ) {
+    return null;
+  }
+  return { results: value.results, total: value.total, scrollY: value.scrollY };
 }
 
 export function parseSearchUrlState(input, {

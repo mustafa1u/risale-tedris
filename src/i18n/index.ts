@@ -191,6 +191,7 @@ type UiDictionary = {
       loading: string;
       progress: (params: { ready: number; total: number }) => string;
       provisional: (params: { ready: number; total: number }) => string;
+      restored: string;
       ready: string;
       partialFailure: (params: { books: string }) => string;
       bookFailure: (params: { bookTitle: string }) => string;
@@ -582,6 +583,7 @@ export const ui = {
         loading: "Metin dizini hazırlanıyor…",
         progress: ({ ready, total }) => `${ready}/${total} kitap hazır`,
         provisional: ({ ready, total }) => `Sonuçlar geçici: ${ready}/${total} kitap hazır.`,
+        restored: "Önceki arama sonuçları geri yüklendi.",
         ready: "Tüm seçili kitaplar aramaya hazır.",
         partialFailure: ({ books }) => `Bazı sonuçlar eksik olabilir. Yüklenemeyen kitaplar: ${books}`,
         bookFailure: ({ bookTitle }) => `${bookTitle} metin dizini yüklenemedi.`
@@ -992,6 +994,7 @@ export const ui = {
         loading: "Preparing text index…",
         progress: ({ ready, total }) => `${ready}/${total} books ready`,
         provisional: ({ ready, total }) => `Results are provisional: ${ready}/${total} books ready.`,
+        restored: "Previous search results were restored.",
         ready: "All selected books are ready to search.",
         partialFailure: ({ books }) => `Some results may be missing. Books not loaded: ${books}`,
         bookFailure: ({ bookTitle }) => `The text index for ${bookTitle} could not be loaded.`

@@ -5,8 +5,10 @@ import { describe, it } from "node:test";
 import { createBookSearchState, createGlobalSearchState } from "./searchState.js";
 import {
   parseSearchUrlState,
+  readSearchHistorySnapshot,
   replaceSearchUrlState,
-  serializeSearchUrlState
+  serializeSearchUrlState,
+  writeSearchHistorySnapshot
 } from "./searchUrlState.js";
 
 const availableBookSlugs = ["ayetul-kubra", "meyve-risalesi", "tabiat-risalesi"];
@@ -102,5 +104,26 @@ describe("search URL state", () => {
       "",
       "/library/?q=iman+nur&context=global&books=meyve-risalesi&mode=all&scope=text%2Ctitle%2CpartNo&distance=5#results"
     ]]);
+  });
+
+  it("round-trips an exact-state result and scroll snapshot without losing unrelated history state", () => {
+    const state = { ...createGlobalSearchState(availableBookSlugs), query: "iman" };
+    const historyImpl = {
+      state: { astro: { index: 2 } },
+      replaceState(nextState, _title, nextUrl) {
+        this.state = nextState;
+        this.url = nextUrl;
+      }
+    };
+    const results = [{ bookSlug: "meyve-risalesi", partNo: "p55", title: "İman", matchedFields: ["text"] }];
+
+    writeSearchHistorySnapshot(state, { results, total: 7, scrollY: 420 }, {
+      historyImpl,
+      locationImpl: { pathname: "/", search: `?${serializeSearchUrlState(state)}`, hash: "" }
+    });
+
+    assert.deepEqual(historyImpl.state.astro, { index: 2 });
+    assert.deepEqual(readSearchHistorySnapshot(state, { historyImpl }), { results, total: 7, scrollY: 420 });
+    assert.equal(readSearchHistorySnapshot({ ...state, query: "rahmet" }, { historyImpl }), null);
   });
 });

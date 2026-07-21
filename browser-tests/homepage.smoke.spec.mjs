@@ -185,12 +185,13 @@ test("keeps live search state in one replaceable URL and restores it on refresh"
     /\?q=iman\+nur&context=global&books=ayetul-kubra%2Ckucuk-sozler%2Cmeyve-risalesi%2Ctabiat-risalesi&mode=exact&scope=text%2Ctitle&distance=5$/
   );
   expect(await page.evaluate(() => history.length)).toBe(initialHistoryLength);
+  await expect(page.locator("[data-search-result-count]")).toBeVisible({ timeout: 20_000 });
 
   await page.reload();
   await expect(page.locator("[data-global-search-input]")).toHaveValue("iman nur");
   await expect(page.getByRole("radio", { name: "Tam ifade" })).toBeChecked();
   await expect(page.getByRole("checkbox", { name: "Parça numaraları" })).not.toBeChecked();
-  await expect(page.locator('[data-search-status="ready"]')).toBeVisible({ timeout: 20_000 });
+  await expect(page.locator('[data-search-status="restored"]')).toBeVisible({ timeout: 20_000 });
 });
 
 test("restores homepage search through result navigation Back and Forward", async ({ page }) => {
@@ -212,6 +213,55 @@ test("restores homepage search through result navigation Back and Forward", asyn
   await expect(page).toHaveURL(/\/books\/[a-z0-9-]+\/parts\/p\d+\/$/);
   await page.goBack();
   await expect(page.locator("[data-global-search-input]")).toHaveValue("iman");
+});
+
+test("keeps live result and scroll state on Back without a second worker", async ({ page }) => {
+  await page.addInitScript(() => {
+    const NativeWorker = window.Worker;
+    window.Worker = class SearchCountingWorker extends NativeWorker {
+      constructor(...args) {
+        super(...args);
+        const count = Number(sessionStorage.getItem("__searchWorkerCount") ?? "0") + 1;
+        sessionStorage.setItem("__searchWorkerCount", String(count));
+      }
+    };
+  });
+  await page.goto("/");
+  await page.locator("[data-global-search-trigger]").click();
+  await page.locator("[data-global-search-input]").fill("iman");
+  const resultLink = page.locator("[data-search-result-link]").first();
+  await expect(resultLink).toBeVisible({ timeout: 20_000 });
+  await page.evaluate(() => {
+    window.scrollTo(0, 420);
+  });
+  const expectedScroll = await page.evaluate(() => window.scrollY);
+  expect(expectedScroll).toBeGreaterThan(0);
+
+  await resultLink.click();
+  await page.goBack();
+  await expect(page.locator("[data-search-result-link]").first()).toBeVisible({ timeout: 20_000 });
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBe(expectedScroll);
+  expect(await page.evaluate(() => sessionStorage.getItem("__searchWorkerCount"))).toBe("1");
+  expect(await page.evaluate(() => Boolean(history.state?.rissorSearchSnapshotV1))).toBe(true);
+});
+
+test("stores only panel expansion in session storage", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("[data-global-search-trigger]").click();
+  await page.reload();
+  await expect(page.locator("[data-global-search-input]")).toBeVisible();
+
+  await page.getByRole("button", { name: "Aramayı kapat" }).click();
+  await page.reload();
+  await expect(page.locator("[data-global-search-input]")).toHaveCount(0);
+
+  const stored = await page.evaluate(() => ({
+    session: Object.fromEntries(Object.entries(sessionStorage)),
+    local: Object.fromEntries(Object.entries(localStorage))
+  }));
+  expect(stored.session["rissor:search:expanded:global"]).toBe("0");
+  expect(JSON.stringify(stored.session)).not.toContain("query");
+  expect(JSON.stringify(stored.local)).not.toContain("search");
 });
 
 test.describe("without search JavaScript", () => {

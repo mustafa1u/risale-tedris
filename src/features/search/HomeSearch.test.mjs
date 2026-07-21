@@ -39,6 +39,8 @@ describe("homepage search island source contract", () => {
     assert.match(source, /setStatus\("provisional"\)/);
     assert.match(source, /onBookToggle=.*updateBookSelection/);
     assert.match(source, /replaceSearchUrlState/);
+    assert.match(source, /readSearchExpandedState/);
+    assert.match(source, /writeSearchExpandedState/);
     assert.doesNotMatch(source, /pushState/);
     assert.match(source, /data-global-search-input/);
     assert.match(source, /data-search-result-count/);

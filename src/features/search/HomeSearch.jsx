@@ -5,6 +5,10 @@ import { localizedPath } from "@/i18n/routing";
 import SearchControls, { serializeBooleanRows } from "./SearchControls.jsx";
 import { assertGlobalSearchManifestV1 } from "./searchContracts.js";
 import { createSearchQueryScheduler } from "./searchQueryScheduler.js";
+import {
+  readSearchExpandedState,
+  writeSearchExpandedState
+} from "./searchPresentationState.js";
 import { createSearchShardLoader } from "./searchShardLoader.js";
 import {
   canToggleSearchBook,
@@ -15,12 +19,15 @@ import {
 } from "./searchState.js";
 import {
   parseSearchUrlState,
+  readSearchHistorySnapshot,
   replaceSearchUrlState,
-  serializeSearchUrlState
+  serializeSearchUrlState,
+  writeSearchHistorySnapshot
 } from "./searchUrlState.js";
 import { createSearchWorkerClient } from "./searchWorkerClient.js";
 
 const MAX_RESULTS = 50;
+const PRESENTATION_CONTEXT = "global";
 
 function createInitialGlobalSearchState(availableBookSlugs) {
   try {
@@ -65,11 +72,16 @@ function SearchIcon() {
 export default function HomeSearch({ locale, manifestUrl, books }) {
   const text = getUi(locale);
   const [state, dispatch] = useReducer(searchReducer, books.map((book) => book.slug), createInitialGlobalSearchState);
-  const [open, setOpen] = useState(() => Boolean(state.query));
-  const [status, setStatus] = useState("idle");
+  const historySnapshotRef = useRef(undefined);
+  if (historySnapshotRef.current === undefined) {
+    historySnapshotRef.current = readSearchHistorySnapshot(state);
+  }
+  const initialHistorySnapshot = historySnapshotRef.current;
+  const [open, setOpen] = useState(() => Boolean(state.query) || readSearchExpandedState(PRESENTATION_CONTEXT));
+  const [status, setStatus] = useState(() => initialHistorySnapshot ? "restored" : "idle");
   const [readiness, setReadiness] = useState(null);
-  const [results, setResults] = useState([]);
-  const [total, setTotal] = useState(0);
+  const [results, setResults] = useState(() => initialHistorySnapshot?.results ?? []);
+  const [total, setTotal] = useState(() => initialHistorySnapshot?.total ?? 0);
   const [errorMessage, setErrorMessage] = useState("");
   const [booleanRows, setBooleanRows] = useState([
     { operator: "AND", term: "" },
@@ -84,7 +96,7 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
   const manifestBooksRef = useRef(null);
   const loadingPromiseRef = useRef(null);
   const executeRef = useRef(null);
-  const initialUrlIntentRef = useRef(Boolean(state.query));
+  const initialUrlIntentRef = useRef(Boolean(state.query) && !initialHistorySnapshot);
   const schedulerRef = useRef(null);
 
   if (schedulerRef.current === null) {
@@ -98,7 +110,10 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
   }, [state]);
 
   useEffect(() => {
-    const closeForMenu = () => setOpen(false);
+    const closeForMenu = () => {
+      setOpen(false);
+      writeSearchExpandedState(PRESENTATION_CONTEXT, false);
+    };
     document.addEventListener("rissor:menu-open", closeForMenu);
     return () => {
       document.removeEventListener("rissor:menu-open", closeForMenu);
@@ -114,6 +129,12 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     return () => cancelAnimationFrame(frame);
   }, [open]);
 
+  useEffect(() => {
+    if (!initialHistorySnapshot?.scrollY) return;
+    const frame = requestAnimationFrame(() => globalThis.scrollTo?.(0, initialHistorySnapshot.scrollY));
+    return () => cancelAnimationFrame(frame);
+  }, []);
+
   async function executeSearch(nextState) {
     if (!readyRef.current || !workerClientRef.current) return;
     if (nextState.query.trim() === "") {
@@ -125,6 +146,11 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
       const response = await workerClientRef.current.search(toWorkerRequest(nextState));
       setResults(response.results);
       setTotal(response.total);
+      writeSearchHistorySnapshot(nextState, {
+        results: response.results,
+        total: response.total,
+        scrollY: globalThis.scrollY ?? 0
+      });
     } catch (error) {
       if (error?.code === "SUPERSEDED") return;
       setStatus("error");
@@ -138,7 +164,10 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     stateRef.current = nextState;
     dispatch(action);
     replaceSearchUrlState(nextState);
-    if (!readyRef.current) return nextState;
+    if (!readyRef.current) {
+      void ensureResources().catch(() => {});
+      return nextState;
+    }
     if (timing === "debounced") {
       schedulerRef.current.schedule(nextState);
     } else {
@@ -155,6 +184,8 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     replaceSearchUrlState(nextState);
     if (nextState !== previousState && readyRef.current) {
       void syncSelectedBooks(nextState);
+    } else if (nextState !== previousState) {
+      void ensureResources().catch(() => {});
     }
     return nextState;
   }
@@ -176,7 +207,11 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     dispatch({ type: "set-mode", mode: "boolean" });
     dispatch({ type: "set-query", query });
     replaceSearchUrlState(nextState);
-    if (readyRef.current) schedulerRef.current.schedule(nextState);
+    if (readyRef.current) {
+      schedulerRef.current.schedule(nextState);
+    } else {
+      void ensureResources().catch(() => {});
+    }
   }
 
   function addBooleanRow() {
@@ -291,11 +326,13 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
   function openSearch() {
     document.dispatchEvent(new CustomEvent("rissor:search-open"));
     setOpen(true);
+    writeSearchExpandedState(PRESENTATION_CONTEXT, true);
     void ensureResources().catch(() => {});
   }
 
   function closeSearch({ restoreFocus = true } = {}) {
     setOpen(false);
+    writeSearchExpandedState(PRESENTATION_CONTEXT, false);
     if (restoreFocus) requestAnimationFrame(() => triggerRef.current?.focus());
   }
 
@@ -322,6 +359,14 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     }
   }
 
+  function captureSearchHistorySnapshot() {
+    writeSearchHistorySnapshot(stateRef.current, {
+      results,
+      total,
+      scrollY: globalThis.scrollY ?? 0
+    });
+  }
+
   function bookSearchHref(result) {
     const bookState = transferSearchContext(state, {
       context: "book",
@@ -339,6 +384,8 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     ? (readiness ? text.search.status.progress({ ready: readyCount, total: readiness.selectedBookCount }) : text.search.status.loading)
     : status === "provisional"
       ? text.search.status.provisional({ ready: readyCount, total: readiness?.selectedBookCount ?? state.selectedBookSlugs.length })
+    : status === "restored"
+      ? text.search.status.restored
     : status === "ready"
       ? text.search.status.ready
       : status === "partial"
@@ -439,13 +486,19 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
                           class="search-result__link"
                           href={localizedPath(locale, `/books/${result.bookSlug}/parts/${result.partNo}/`)}
                           data-search-result-link
+                          onClick={captureSearchHistorySnapshot}
                         >
                           <span class="search-result__book">{result.bookTitle}</span>
                           <span class="search-result__part">{result.partNo.toUpperCase()}</span>
                           <strong>{result.title}</strong>
                           {result.matchedFields.includes("text") ? <small>{text.search.results.fromText}</small> : null}
                         </a>
-                        <a class="button-muted" href={bookSearchHref(result)} data-search-within-book>
+                        <a
+                          class="button-muted"
+                          href={bookSearchHref(result)}
+                          data-search-within-book
+                          onClick={captureSearchHistorySnapshot}
+                        >
                           {text.search.actions.searchWithinBook}
                         </a>
                       </div>
