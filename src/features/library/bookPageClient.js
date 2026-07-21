@@ -28,6 +28,85 @@ export function getPartFilterResult(rows, filters) {
   };
 }
 
+function partRowData(row) {
+  return {
+    partNo: row.getAttribute("data-part-no") ?? "",
+    searchText: row.getAttribute("data-search") ?? "",
+    gradeSlugs: (row.getAttribute("data-grades") ?? "").split(" ").filter(Boolean)
+  };
+}
+
+export function createPartRowPresenter(root = globalThis.document) {
+  const partList = root?.querySelector?.("[data-part-list]");
+  const status = root?.querySelector?.("[data-filter-status]");
+  const emptyState = root?.querySelector?.("[data-filter-empty]");
+  const originalRows = Array.from(root?.querySelectorAll?.("[data-part-row]") ?? []);
+  const rowsByPartNo = new Map(
+    originalRows
+      .map((row) => [row.getAttribute("data-part-no") ?? "", row])
+      .filter(([partNo]) => partNo.length > 0)
+  );
+
+  function updateStatus(visibleCount) {
+    if (status) {
+      status.textContent =
+        status
+          .getAttribute(`data-count-${visibleCount === 1 ? "one" : "many"}`)
+          ?.replace("{count}", String(visibleCount)) ?? String(visibleCount);
+    }
+    if (emptyState) {
+      emptyState.hidden = visibleCount > 0;
+    }
+    return {
+      visibleCount,
+      hasNoResults: visibleCount === 0
+    };
+  }
+
+  function presentOrderedPartNos(orderedPartNos) {
+    const orderedRows = [];
+    const visibleRows = new Set();
+    for (const partNo of orderedPartNos ?? []) {
+      const row = rowsByPartNo.get(partNo);
+      if (row && !visibleRows.has(row)) {
+        visibleRows.add(row);
+        orderedRows.push(row);
+      }
+    }
+
+    for (const row of orderedRows) {
+      row.toggleAttribute("hidden", false);
+      partList?.append?.(row);
+    }
+    for (const row of originalRows) {
+      if (visibleRows.has(row)) continue;
+      row.toggleAttribute("hidden", true);
+      partList?.append?.(row);
+    }
+
+    return updateStatus(orderedRows.length);
+  }
+
+  function presentMetadata(filters) {
+    const metadata = originalRows.map(partRowData);
+    const result = getPartFilterResult(metadata, filters);
+    const orderedPartNos = metadata
+      .filter((_, index) => result.matches[index])
+      .map((row) => row.partNo);
+    return presentOrderedPartNos(orderedPartNos);
+  }
+
+  function reset() {
+    return presentOrderedPartNos(originalRows.map((row) => row.getAttribute("data-part-no") ?? ""));
+  }
+
+  return {
+    presentMetadata,
+    presentOrderedPartNos,
+    reset
+  };
+}
+
 export function initPartFilters(root = globalThis.document) {
   const toolbar = root?.querySelector?.("[data-part-toolbar]");
   if (!toolbar) {
@@ -36,37 +115,12 @@ export function initPartFilters(root = globalThis.document) {
 
   const searchInput = toolbar.querySelector("[data-part-search]");
   const gradeFilter = toolbar.querySelector("[data-grade-filter]");
-  const status = root.querySelector("[data-filter-status]");
-  const emptyState = root.querySelector("[data-filter-empty]");
-  const rows = Array.from(root.querySelectorAll("[data-part-row]"));
+  const presenter = createPartRowPresenter(root);
 
   const applyFilters = () => {
     const searchValue = searchInput instanceof HTMLInputElement ? searchInput.value : "";
     const gradeValue = gradeFilter instanceof HTMLSelectElement ? gradeFilter.value : "";
-    const result = getPartFilterResult(
-      rows.map((row) => ({
-        searchText: row.getAttribute("data-search") ?? "",
-        gradeSlugs: (row.getAttribute("data-grades") ?? "").split(" ").filter(Boolean)
-      })),
-      { searchValue, gradeValue }
-    );
-
-    rows.forEach((row, index) => {
-      const isVisible = result.matches[index];
-
-      row.toggleAttribute("hidden", !isVisible);
-    });
-
-    if (status) {
-      status.textContent =
-        status
-          .getAttribute(`data-count-${result.visibleCount === 1 ? "one" : "many"}`)
-          ?.replace("{count}", String(result.visibleCount)) ?? String(result.visibleCount);
-    }
-
-    if (emptyState instanceof HTMLElement) {
-      emptyState.hidden = !result.hasNoResults;
-    }
+    presenter.presentMetadata({ searchValue, gradeValue });
   };
 
   searchInput?.addEventListener("input", applyFilters);
