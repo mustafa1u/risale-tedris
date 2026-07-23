@@ -5,15 +5,29 @@ import { describe, it } from "node:test";
 const sourcePath = new URL("./BaseLayout.astro", import.meta.url);
 
 describe("BaseLayout markup contract", () => {
-  it("keeps the brand before a native, focusable grid-menu trigger", async () => {
+  it("keeps the brand before desktop navigation, search, and the native compact-menu trigger", async () => {
     const source = await readFile(sourcePath, "utf8");
     const brandIndex = source.indexOf('<a class="brand"');
+    const desktopNavigationIndex = source.indexOf("data-desktop-navigation");
+    const searchIndex = source.indexOf("data-home-search-host");
     const menuIndex = source.indexOf('<details class="site-menu" data-site-menu>');
 
     assert.equal(brandIndex >= 0, true);
-    assert.equal(menuIndex > brandIndex, true);
+    assert.equal(desktopNavigationIndex > brandIndex, true);
+    assert.equal(searchIndex > desktopNavigationIndex, true);
+    assert.equal(menuIndex > searchIndex, true);
+    assert.match(source, /class="site-primary-nav"/);
     assert.match(source, /<summary class="site-menu__toggle" data-site-menu-trigger>/);
     assert.match(source, /<span class="site-menu__icon" aria-hidden="true">/);
+  });
+
+  it("derives both navigation presentations from one localized item model with current-page state", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /const navigationItems = NAV_ITEMS\.map\(\(item\) =>/);
+    assert.equal(source.match(/navigationItems\.map\(\(item\) =>/g)?.length, 2);
+    assert.equal(source.match(/aria-current=\{item\.isCurrent \? "page" : undefined\}/g)?.length, 2);
+    assert.match(source, /currentPath\.startsWith\(href\)/);
   });
 
   it("inserts the optional homepage search island immediately before the native menu", async () => {
@@ -41,7 +55,7 @@ describe("BaseLayout markup contract", () => {
     assert.doesNotMatch(source, /\{LOCALES\.map/);
   });
 
-  it("renders theme selection in the menu and keeps its label synchronized", async () => {
+  it("renders theme selection in both navigation presentations and keeps its label synchronized", async () => {
     const source = await readFile(sourcePath, "utf8");
 
     assert.match(source, /themes: text\.nav\.themes\(\{ theme: text\.themes\.names\[ACTIVE_THEME\] \}\)/);

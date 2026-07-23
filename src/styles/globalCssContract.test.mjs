@@ -33,6 +33,23 @@ function assertBlockIncludes(source, selector, snippets) {
 }
 
 describe("global UX CSS contract", () => {
+  it("switches between compact and desktop primary navigation at 60rem", async () => {
+    const source = await readCssSource();
+
+    assertBlockIncludes(source, ".site-primary-nav", ["display: none;"]);
+    assertBlockIncludes(source, ".site-primary-nav a", ["min-height: 48px;", "white-space: nowrap;"]);
+    assert.notEqual(source.indexOf(".site-primary-nav a:focus-visible"), -1);
+    assert.notEqual(source.indexOf('.site-primary-nav a[aria-current="page"]'), -1);
+    assertBlockIncludes(source, '.site-menu__links a[aria-current="page"]', [
+      "color: var(--accent-strong);",
+      "font-weight: 700;"
+    ]);
+    assert.match(
+      source,
+      /@media \(min-width: 60rem\) \{[\s\S]*?\.site-primary-nav\s*\{[\s\S]*?display:\s*flex;[\s\S]*?\.site-menu\s*\{[\s\S]*?display:\s*none;/
+    );
+  });
+
   it("styles the Phase 6 UX surfaces and controls explicitly", async () => {
     const source = await readCssSource();
     const requiredSelectors = [
@@ -213,6 +230,18 @@ describe("global UX CSS contract", () => {
     assert.match(
       source,
       /@media \(max-width: 640px\) \{[\s\S]*h1\s*\{[\s\S]*font-size:\s*1\.45rem;[\s\S]*line-height:\s*1\.18;[\s\S]*word-break:\s*break-word;[\s\S]*\}/
+    );
+  });
+
+  it("keeps the narrow hero image visually associated with its actions", async () => {
+    const source = await readCssSource();
+    const authoritativeLandingStyles = source.slice(
+      source.indexOf("/* Keep the public landing layout authoritative over legacy component rules. */")
+    );
+
+    assert.match(
+      authoritativeLandingStyles,
+      /@media \(max-width: 640px\) \{[\s\S]*?\.home-hero__inner\s*\{[^}]*row-gap:\s*20px;[^}]*\}[\s\S]*?\.home-hero__books\s*\{[^}]*transform:\s*translate\(8%, 0\) scale\(0\.76\);[^}]*transform-origin:\s*center top;[^}]*\}/
     );
   });
 

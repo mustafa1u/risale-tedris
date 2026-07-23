@@ -1,13 +1,76 @@
 import { expect, test } from "@playwright/test";
 
-test("opens the homepage and focuses the grid-menu trigger", async ({ page }) => {
+test("switches primary navigation at the exact desktop boundary", async ({ page }) => {
+  await page.setViewportSize({ width: 960, height: 900 });
   await page.goto("/");
 
+  const desktopNavigation = page.locator("[data-desktop-navigation]");
+  const compactMenu = page.locator("[data-site-menu]");
   const menuTrigger = page.locator("[data-site-menu-trigger]");
+
+  await expect(desktopNavigation).toBeVisible();
+  await expect(desktopNavigation.locator("a")).toHaveCount(3);
+  await expect(compactMenu).toBeHidden();
+  await desktopNavigation.locator("a").first().focus();
+  await expect(desktopNavigation.locator("a").first()).toBeFocused();
+  await expect
+    .poll(() => desktopNavigation.locator("a").first().evaluate((link) => getComputedStyle(link).outlineStyle))
+    .toBe("solid");
+
+  await page.setViewportSize({ width: 959, height: 900 });
+  await expect(desktopNavigation).toBeHidden();
+  await expect(compactMenu).toBeVisible();
   await expect(menuTrigger).toBeVisible();
   await menuTrigger.focus();
   await expect(menuTrigger).toBeFocused();
   await expect(menuTrigger).toContainText("Menü");
+});
+
+test("marks the current primary section in both navigation presentations", async ({ page }) => {
+  await page.setViewportSize({ width: 960, height: 900 });
+  await page.goto("/books/ayetul-kubra/");
+
+  await expect(page.locator('[data-desktop-navigation] a[aria-current="page"]')).toHaveAttribute("href", "/books/");
+
+  await page.setViewportSize({ width: 959, height: 900 });
+  await page.locator("[data-site-menu-trigger]").click();
+  await expect(page.locator('[data-site-menu] a[aria-current="page"]')).toHaveAttribute("href", "/books/");
+});
+
+test("keeps the collection image close to the mobile hero actions", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 900 });
+  await page.goto("/");
+
+  for (const width of [320, 390, 640]) {
+    await page.setViewportSize({ width, height: 900 });
+
+    const measurements = await page.evaluate(() => {
+      const actions = document.querySelector(".home-actions")?.getBoundingClientRect();
+      const image = document.querySelector(".home-hero__books img")?.getBoundingClientRect();
+
+      if (!actions || !image) {
+        throw new Error("Homepage hero actions or collection image are missing");
+      }
+
+      return {
+        gap: Math.round(image.top - actions.bottom),
+        clientWidth: document.documentElement.clientWidth,
+        scrollWidth: document.documentElement.scrollWidth,
+      };
+    });
+
+    expect(measurements.scrollWidth).toBe(measurements.clientWidth);
+    if (width === 390) {
+      expect(measurements.gap).toBeGreaterThanOrEqual(0);
+      expect(measurements.gap).toBeLessThanOrEqual(96);
+    }
+  }
+
+  await page.setViewportSize({ width: 641, height: 900 });
+  const desktopColumns = await page
+    .locator(".home-hero__inner")
+    .evaluate((hero) => getComputedStyle(hero).gridTemplateColumns.trim().split(/\s+/));
+  expect(desktopColumns).toHaveLength(2);
 });
 
 test("opens homepage search by pointer and keyboard with input focus", async ({ page }) => {
@@ -30,6 +93,7 @@ test("opens homepage search by pointer and keyboard with input focus", async ({ 
 });
 
 test("keeps search state while coordinating mutual exclusion with the grid menu", async ({ page }) => {
+  await page.setViewportSize({ width: 959, height: 900 });
   await page.goto("/");
   const trigger = page.locator("[data-global-search-trigger]");
   const input = page.locator("[data-global-search-input]");
@@ -268,13 +332,17 @@ test.describe("without search JavaScript", () => {
   test.use({ javaScriptEnabled: false });
 
   test("preserves the homepage identity, primary actions, and native menu navigation", async ({ page }) => {
+    await page.setViewportSize({ width: 960, height: 900 });
     await page.goto("/");
 
     await expect(page.locator(".brand img")).toBeVisible();
     await expect(page.locator(".home-hero h1")).toBeVisible();
-    await expect(page.getByRole("link", { name: "Kitaplar", exact: true })).toBeVisible();
-    await expect(page.getByRole("link", { name: "Ders Akışı", exact: true })).toBeVisible();
+    await expect(page.locator(".home-actions").getByRole("link", { name: "Kitaplar", exact: true })).toBeVisible();
+    await expect(page.locator(".home-actions").getByRole("link", { name: "Ders Akışı", exact: true })).toBeVisible();
+    await expect(page.locator("[data-desktop-navigation]")).toBeVisible();
+    await expect(page.locator("[data-desktop-navigation] a")).toHaveCount(3);
 
+    await page.setViewportSize({ width: 959, height: 900 });
     const menu = page.locator("[data-site-menu]");
     await page.locator("[data-site-menu-trigger]").click();
     await expect(menu).toHaveAttribute("open", "");

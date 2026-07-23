@@ -49,6 +49,15 @@ const navLabels = {
   lessonFlow: text.nav.lessonFlow,
   themes: text.nav.themes({ theme: text.themes.names[ACTIVE_THEME] })
 };
+const navigationItems = NAV_ITEMS.map((item) => {
+  const href = localizedPath(locale, item.path);
+
+  return {
+    ...item,
+    href,
+    isCurrent: currentPath === href || currentPath.startsWith(href)
+  };
+});
 ---
 
 <!doctype html>
@@ -163,6 +172,17 @@ const navLabels = {
             />
           </a>
           <div class="site-header__controls">
+            <nav
+              class="site-primary-nav"
+              aria-label={text.layout.primaryNavigation}
+              data-desktop-navigation
+            >
+              {navigationItems.map((item) => (
+                <a href={item.href} aria-current={item.isCurrent ? "page" : undefined}>
+                  <span data-theme-nav-link={item.id === "themes" ? "true" : undefined}>{navLabels[item.id]}</span>
+                </a>
+              ))}
+            </nav>
             {globalSearch ? (
               <div
                 class="home-search-host"
@@ -193,8 +213,8 @@ const navLabels = {
               </summary>
               <div class="site-menu__panel">
                 <nav class="site-menu__links" aria-label={text.layout.primaryNavigation}>
-                  {NAV_ITEMS.map((item) => (
-                    <a href={localizedPath(locale, item.path)}>
+                  {navigationItems.map((item) => (
+                    <a href={item.href} aria-current={item.isCurrent ? "page" : undefined}>
                       <span aria-hidden="true">→</span>
                       <span data-theme-nav-link={item.id === "themes" ? "true" : undefined}>{navLabels[item.id]}</span>
                     </a>
