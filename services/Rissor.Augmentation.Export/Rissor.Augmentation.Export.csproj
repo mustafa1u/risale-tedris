@@ -4,14 +4,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <QAGeneratorLibProject Condition="'$(QAGeneratorLibProject)' == '' and '$(QAGENERATOR_LIB_PROJECT)' != ''">$(QAGENERATOR_LIB_PROJECT)</QAGeneratorLibProject>
-    <QAGeneratorLibProject Condition="'$(QAGeneratorLibProject)' == ''">$(UserProfile)\source\repos\QAGeneratorLib\QAGeneratorLib.csproj</QAGeneratorLibProject>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\Rissor.Augmentation.Core\Rissor.Augmentation.Core.csproj" />
-    <ProjectReference Include="$(QAGeneratorLibProject)" Condition="Exists('$(QAGeneratorLibProject)')" />
+    <ProjectReference Include="$(QAGeneratorLibProject)" Condition="'$(QAGeneratorLibProject)' != '' and Exists('$(QAGeneratorLibProject)')" />
+    <PackageReference Include="QAGeneratorLib" Version="4.1.13" Condition="'$(QAGeneratorLibProject)' == ''" />
   </ItemGroup>
-  <Target Name="RequireQAGeneratorLib" BeforeTargets="PrepareForBuild" Condition="!Exists('$(QAGeneratorLibProject)')">
-    <Error Text="QAGeneratorLib project was not found at '$(QAGeneratorLibProject)'. Set QAGENERATOR_LIB_PROJECT or QAGeneratorLibProject." />
+  <Target Name="RequireQAGeneratorLibSourceOverride" BeforeTargets="PrepareForBuild" Condition="'$(QAGeneratorLibProject)' != '' and !Exists('$(QAGeneratorLibProject)')">
+    <Error Text="The QAGeneratorLib source override was not found at '$(QAGeneratorLibProject)'. Correct QAGENERATOR_LIB_PROJECT or unset it to use the repository-local package." />
   </Target>
 </Project>
-

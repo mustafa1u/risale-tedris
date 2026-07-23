@@ -1,13 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <QAGeneratorLibProject Condition="'$(QAGeneratorLibProject)' == ''">C:\Users\musta\source\repos\QAGeneratorLib\QAGeneratorLib.csproj</QAGeneratorLibProject>
+    <QAGeneratorLibProject Condition="'$(QAGeneratorLibProject)' == '' and '$(QAGENERATOR_LIB_PROJECT)' != ''">$(QAGENERATOR_LIB_PROJECT)</QAGeneratorLibProject>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="$(QAGeneratorLibProject)" />
+    <ProjectReference Include="$(QAGeneratorLibProject)" Condition="'$(QAGeneratorLibProject)' != '' and Exists('$(QAGeneratorLibProject)')" />
+    <PackageReference Include="QAGeneratorLib" Version="4.1.13" Condition="'$(QAGeneratorLibProject)' == ''" />
   </ItemGroup>
+  <Target Name="RequireQAGeneratorLibSourceOverride" BeforeTargets="PrepareForBuild" Condition="'$(QAGeneratorLibProject)' != '' and !Exists('$(QAGeneratorLibProject)')">
+    <Error Text="The QAGeneratorLib source override was not found at '$(QAGeneratorLibProject)'. Correct QAGENERATOR_LIB_PROJECT or unset it to use the repository-local package." />
+  </Target>
 </Project>
