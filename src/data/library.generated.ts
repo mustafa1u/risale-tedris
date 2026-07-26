@@ -3,14 +3,14 @@ import type { LibraryBook, LibraryIndex, LibraryManifest } from "@/types/library
 type BookModule = { book: LibraryBook };
 
 export const libraryIndex = {
-  "generatedAt": "2026-07-13T17:36:31.987Z",
+  "generatedAt": "2026-07-23T20:58:05.714Z",
   "stats": {
     "bookCount": 4,
     "partCount": 321,
     "studyDeckCount": 1605,
-    "docxCount": 3210,
-    "pdfNormalCount": 3210,
-    "pdfMobileCount": 3210,
+    "docxCount": 0,
+    "pdfNormalCount": 0,
+    "pdfMobileCount": 0,
     "missingPdfNormalCount": 0,
     "missingPdfMobileCount": 0
   },
@@ -19,43 +19,7 @@ export const libraryIndex = {
       "slug": "ayetul-kubra",
       "title": "Ayetül Kübra",
       "sourcePath": "assets/ayetul-kubra",
-      "grades": [
-        {
-          "slug": "2-sinif",
-          "label": "2. Sinif",
-          "docxCount": 232,
-          "pdfNormalCount": 232,
-          "pdfMobileCount": 232
-        },
-        {
-          "slug": "5-sinif",
-          "label": "5. Sinif",
-          "docxCount": 232,
-          "pdfNormalCount": 232,
-          "pdfMobileCount": 232
-        },
-        {
-          "slug": "8-sinif",
-          "label": "8. Sinif",
-          "docxCount": 232,
-          "pdfNormalCount": 232,
-          "pdfMobileCount": 232
-        },
-        {
-          "slug": "11-sinif",
-          "label": "11. Sinif",
-          "docxCount": 232,
-          "pdfNormalCount": 232,
-          "pdfMobileCount": 232
-        },
-        {
-          "slug": "lisans",
-          "label": "Lisans",
-          "docxCount": 232,
-          "pdfNormalCount": 232,
-          "pdfMobileCount": 232
-        }
-      ],
+      "grades": [],
       "partCount": 116,
       "studyDeckCount": 580,
       "partRoutes": [
@@ -5991,43 +5955,7 @@ export const libraryIndex = {
       "slug": "kucuk-sozler",
       "title": "Küçük Sözler",
       "sourcePath": "assets/kucuk-sozler",
-      "grades": [
-        {
-          "slug": "2-sinif",
-          "label": "2. Sinif",
-          "docxCount": 134,
-          "pdfNormalCount": 134,
-          "pdfMobileCount": 134
-        },
-        {
-          "slug": "5-sinif",
-          "label": "5. Sinif",
-          "docxCount": 134,
-          "pdfNormalCount": 134,
-          "pdfMobileCount": 134
-        },
-        {
-          "slug": "8-sinif",
-          "label": "8. Sinif",
-          "docxCount": 134,
-          "pdfNormalCount": 134,
-          "pdfMobileCount": 134
-        },
-        {
-          "slug": "11-sinif",
-          "label": "11. Sinif",
-          "docxCount": 134,
-          "pdfNormalCount": 134,
-          "pdfMobileCount": 134
-        },
-        {
-          "slug": "lisans",
-          "label": "Lisans",
-          "docxCount": 134,
-          "pdfNormalCount": 134,
-          "pdfMobileCount": 134
-        }
-      ],
+      "grades": [],
       "partCount": 67,
       "studyDeckCount": 335,
       "partRoutes": [
@@ -9464,43 +9392,7 @@ export const libraryIndex = {
       "slug": "meyve-risalesi",
       "title": "Meyve Risalesi",
       "sourcePath": "assets/meyve-risalesi",
-      "grades": [
-        {
-          "slug": "2-sinif",
-          "label": "2. Sinif",
-          "docxCount": 212,
-          "pdfNormalCount": 212,
-          "pdfMobileCount": 212
-        },
-        {
-          "slug": "5-sinif",
-          "label": "5. Sinif",
-          "docxCount": 212,
-          "pdfNormalCount": 212,
-          "pdfMobileCount": 212
-        },
-        {
-          "slug": "8-sinif",
-          "label": "8. Sinif",
-          "docxCount": 212,
-          "pdfNormalCount": 212,
-          "pdfMobileCount": 212
-        },
-        {
-          "slug": "11-sinif",
-          "label": "11. Sinif",
-          "docxCount": 212,
-          "pdfNormalCount": 212,
-          "pdfMobileCount": 212
-        },
-        {
-          "slug": "lisans",
-          "label": "Lisans",
-          "docxCount": 212,
-          "pdfNormalCount": 212,
-          "pdfMobileCount": 212
-        }
-      ],
+      "grades": [],
       "partCount": 106,
       "studyDeckCount": 530,
       "partRoutes": [
@@ -14926,43 +14818,7 @@ export const libraryIndex = {
       "slug": "tabiat-risalesi",
       "title": "Tabiat Risalesi",
       "sourcePath": "assets/tabiat-risalesi",
-      "grades": [
-        {
-          "slug": "2-sinif",
-          "label": "2. Sinif",
-          "docxCount": 64,
-          "pdfNormalCount": 64,
-          "pdfMobileCount": 64
-        },
-        {
-          "slug": "5-sinif",
-          "label": "5. Sinif",
-          "docxCount": 64,
-          "pdfNormalCount": 64,
-          "pdfMobileCount": 64
-        },
-        {
-          "slug": "8-sinif",
-          "label": "8. Sinif",
-          "docxCount": 64,
-          "pdfNormalCount": 64,
-          "pdfMobileCount": 64
-        },
-        {
-          "slug": "11-sinif",
-          "label": "11. Sinif",
-          "docxCount": 64,
-          "pdfNormalCount": 64,
-          "pdfMobileCount": 64
-        },
-        {
-          "slug": "lisans",
-          "label": "Lisans",
-          "docxCount": 64,
-          "pdfNormalCount": 64,
-          "pdfMobileCount": 64
-        }
-      ],
+      "grades": [],
       "partCount": 32,
       "studyDeckCount": 160,
       "partRoutes": [

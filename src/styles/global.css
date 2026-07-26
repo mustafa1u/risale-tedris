@@ -119,11 +119,11 @@ select {
   font: inherit;
 }
 
-.site-shell {
+/* .site-shell {
   min-height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
-}
+} */
 
 .site-header {
   border-bottom: 1px solid var(--border);
@@ -133,7 +133,8 @@ select {
 .site-header__inner,
 .page-band__inner,
 .site-footer__inner {
-  width: min(1180px, calc(100% - 32px));
+  /*width: min(1180px, calc(100% - 32px));*/
+  width: calc(100% - 50px);
   margin: 0 auto;
 }
 
@@ -287,12 +288,18 @@ select {
   display: inline-flex;
   align-items: center;
   gap: 9px;
-  padding: 8px 4px;
+  padding: 8px 16px;
   border: 0;
   color: var(--text);
   background: transparent;
   cursor: pointer;
   font-weight: 700;
+  border: 1px solid #ddd;
+  border-radius: 50px;
+}
+
+@media (max-width: 60rem) {
+  .home-search__trigger {border: none;}
 }
 
 .home-search__trigger svg,
@@ -831,6 +838,14 @@ body:has(.home-search[data-open="true"]) {
     display: none;
   }
 }
+.navbar {
+    display: flex;
+}
+@media (max-width: 60rem) {
+  .navbar {
+    display: none !important;
+  }
+}
 
 .home-hero {
   min-height: 500px;
@@ -843,8 +858,7 @@ body:has(.home-search[data-open="true"]) {
 .home-hero__inner {
   grid-template-columns: minmax(0, 1.05fr) minmax(360px, 0.95fr);
   gap: 42px;
-  padding-top: 56px;
-  padding-bottom: 56px;
+  padding: 50px 72px 50px;
 }
 
 .home-hero__copy {
@@ -898,6 +912,22 @@ body:has(.home-search[data-open="true"]) {
   align-items: center;
   justify-content: center;
   transform: translate(3%, 8%);
+  background-color: #f3eeec;
+}
+
+
+
+@media (max-width: 60rem) {
+  .home-search {
+    position: static;
+    transform: none;
+    margin-left: auto;
+  }
+}
+
+.home-search svg {
+  width: 32px;
+  height: 32px;
 }
 
 .home-hero__books img {
@@ -905,6 +935,7 @@ body:has(.home-search[data-open="true"]) {
   height: auto;
   display: block;
   object-fit: contain;
+   mix-blend-mode: multiply;
 }
 
 .library-page,
@@ -1055,6 +1086,7 @@ body:has(.home-search[data-open="true"]) {
     overflow: hidden;
     clip: rect(0 0 0 0);
     clip-path: inset(50%);
+    
   }
 
   .home-search__bar {
@@ -2901,4 +2933,133 @@ h3 {
   .home-actions .button-secondary {
     width: auto;
   }
+}
+
+
+/*****/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    padding: 0 35px;
+    background: #fff;
+}
+
+.nav-item {
+    position: relative;
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    color: #111;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    height: 80px;
+}
+.nav-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.nav-caret {
+    width: 6px;
+    height: 10px;
+    transition: transform 0.2s ease;
+    
+    /* Soldan sağa bakan oku aşağı çevirir */
+    transform: rotate(-90deg);
+}
+
+.dropdown:hover .nav-caret {
+    /* Hover'da yukarı çevir */
+    transform: rotate(90deg);
+}
+
+.arrow {
+    font-size: 17px;
+    line-height: 1;
+    transition: transform 0.2s ease;
+}
+
+/* Dropdown */
+
+.dropdown-menu {
+    position: absolute;
+    top: calc(100% + 0px);
+    left: -15px;
+
+    width: 437px;
+    padding: 28px 30px;
+
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 10px;
+
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.08);
+
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+
+    transition:
+        opacity 0.2s ease,
+        transform 0.2s ease,
+        visibility 0.2s ease;
+
+    z-index: 100;
+}
+
+/* Menü açılır */
+.dropdown:hover .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+/* Okun dönüşü */
+.dropdown:hover .arrow {
+    transform: rotate(180deg);
+}
+
+/* Alt menü linkleri */
+
+.dropdown-menu a {
+    display: block;
+    padding: 17px 14px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #111;
+}
+
+.dropdown-menu a:hover {
+    background: #f8f8f8;
+}
+
+.dropdown-menu strong {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.dropdown-menu span {
+    display: block;
+    color: #666;
+    font-size: 15px;
+    line-height: 1.5;
 }

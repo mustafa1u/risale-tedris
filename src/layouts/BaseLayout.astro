@@ -165,14 +165,14 @@ const navigationItems = NAV_ITEMS.map((item) => {
           <a class="brand" href={localizedPath(locale, "/")} aria-label={siteTitle}>
             <img
               class="brand__logo"
-              src="data:image/png;base64,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"
+              src="assets/images/rt.png"
               alt=""
               width="225"
               height="47"
             />
           </a>
-          <div class="site-header__controls">
-            <nav
+          
+            <!--<nav
               class="site-primary-nav"
               aria-label={text.layout.primaryNavigation}
               data-desktop-navigation
@@ -182,7 +182,59 @@ const navigationItems = NAV_ITEMS.map((item) => {
                   <span data-theme-nav-link={item.id === "themes" ? "true" : undefined}>{navLabels[item.id]}</span>
                 </a>
               ))}
-            </nav>
+            </nav>-->
+            <nav class="navbar">
+    <div class="nav-item dropdown">
+        <a href="#" class="nav-link">
+            Kitaplar
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.687 7.875" class="nav-caret" aria-hidden="true" >
+            <path d="M635.621,375.374a0.7,0.7,0,0,0-.147.017,1.31,1.31,0,0,0-.14.041,0.625,0.625,0,0,0-.129.065,0.7,0.7,0,0,0-.123.1l-3.176,3.176a0.932,0.932,0,0,0-.164.252,0.7,0.7,0,0,0-.059.281,0.737,0.737,0,0,0,.059.287,0.767,0.767,0,0,0,.164.247l3.176,3.175a0.734,0.734,0,0,0,.252.17,0.763,0.763,0,0,0,.281.053,0.819,0.819,0,0,0,.287-0.053,0.617,0.617,0,0,0,.246-0.17,0.752,0.752,0,0,0,.164-0.246,0.7,0.7,0,0,0,0-.562,0.752,0.752,0,0,0-.164-0.246l-2.648-2.649,2.648-2.66a0.752,0.752,0,0,0,.164-0.246,0.7,0.7,0,0,0,0-.563,0.774,0.774,0,0,0-.164-0.246,0.855,0.855,0,0,0-.117-0.1,0.488,0.488,0,0,0-.129-0.065c-0.047-.015-0.094-.029-0.141-0.041a0.609,0.609,0,0,0-.14-0.017h0Z"
+            transform="translate(-631.688 -375.375)"></path></svg>
+        </a>
+
+        <div class="dropdown-menu">
+            <a href="#">
+                <strong>Ayetül Kübra</strong>
+                <span>116 parça 2. sınıf seviyesi 5. sınıf seviyesi 8. sınıf seviyesi 11. sınıf seviyesi Lise sonrası seviye</span>
+            </a>
+
+            <a href="#">
+                <strong>Küçük Sözler</strong>
+                <span>67 parça 2. sınıf seviyesi 5. sınıf seviyesi 8. sınıf seviyesi 11. sınıf seviyesi Lise sonrası seviye</span>
+            </a>
+
+            <a href="#">
+                <strong>Meyve Risalesi</strong>
+                <span>106 parça 2.sınıf seviyesi 5.sınıf seviyesi 8.sınıf seviyesi 11.sınıf seviyesi Lise sonrası seviye</span>
+            </a>
+            <a href="#">
+                <strong>Tabiat Risalesi</strong>
+                <span>32 parça 2. sınıf seviyesi 5. sınıf seviyesi 8. sınıf seviyesi 11. sınıf seviyesi Lise sonrası seviye</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="nav-item ">
+        <a href="#" class="nav-link">
+            Küçük Sözler
+          
+        </a>
+
+     
+    </div>
+
+    <div class="nav-item ">
+        <a href="#" class="nav-link">
+            Meyve Risalesi
+          
+        </a>
+
+       
+    </div>
+
+ 
+    
+</nav>
             {globalSearch ? (
               <div
                 class="home-search-host"
