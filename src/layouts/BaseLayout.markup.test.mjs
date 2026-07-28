@@ -8,7 +8,7 @@ describe("BaseLayout markup contract", () => {
   it("keeps the brand before desktop navigation, search, and the native compact-menu trigger", async () => {
     const source = await readFile(sourcePath, "utf8");
     const brandIndex = source.indexOf('<a class="brand"');
-    const desktopNavigationIndex = source.indexOf("data-desktop-navigation");
+    const desktopNavigationIndex = source.indexOf('<nav class="navbar">');
     const searchIndex = source.indexOf("data-home-search-host");
     const menuIndex = source.indexOf('<details class="site-menu" data-site-menu>');
 
@@ -16,18 +16,35 @@ describe("BaseLayout markup contract", () => {
     assert.equal(desktopNavigationIndex > brandIndex, true);
     assert.equal(searchIndex > desktopNavigationIndex, true);
     assert.equal(menuIndex > searchIndex, true);
-    assert.match(source, /class="site-primary-nav"/);
+    assert.match(source, /<div class="site-header__controls">/);
     assert.match(source, /<summary class="site-menu__toggle" data-site-menu-trigger>/);
     assert.match(source, /<span class="site-menu__icon" aria-hidden="true">/);
   });
 
-  it("derives both navigation presentations from one localized item model with current-page state", async () => {
+  it("uses Astro's resolved brand-logo URL on both top-level and nested pages", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /import rtLogo from "@\/assets\/site\/rt\.png";/);
+    assert.match(source, /src=\{rtLogo\.src\}/);
+    assert.doesNotMatch(source, /src="assets\/images\/rt\.png"/);
+  });
+
+  it("keeps the books dropdown and restores the other desktop items from the localized navigation model", async () => {
     const source = await readFile(sourcePath, "utf8");
 
     assert.match(source, /const navigationItems = NAV_ITEMS\.map\(\(item\) =>/);
-    assert.equal(source.match(/navigationItems\.map\(\(item\) =>/g)?.length, 2);
+    assert.match(source, /navigationItems\.filter\(\(item\) => item\.id !== "books"\)\.map\(\(item\) =>/);
+    assert.equal(source.match(/navigationItems\.map\(\(item\) =>/g)?.length, 1);
     assert.equal(source.match(/aria-current=\{item\.isCurrent \? "page" : undefined\}/g)?.length, 2);
     assert.match(source, /currentPath\.startsWith\(href\)/);
+  });
+
+  it("links every desktop books-dropdown item to its localized book page", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    for (const slug of ["ayetul-kubra", "kucuk-sozler", "meyve-risalesi", "tabiat-risalesi"]) {
+      assert.match(source, new RegExp(`href=\\{localizedPath\\(locale, "/books/${slug}/"\\)\\}`));
+    }
   });
 
   it("inserts the optional homepage search island immediately before the native menu", async () => {

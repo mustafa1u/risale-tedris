@@ -233,7 +233,7 @@ describe("global UX CSS contract", () => {
     );
   });
 
-  it("keeps the narrow hero image visually associated with its actions", async () => {
+  it("keeps the hero image one heading-letter away from the copy and left-anchors it when stacked", async () => {
     const source = await readCssSource();
     const authoritativeLandingStyles = source.slice(
       source.indexOf("/* Keep the public landing layout authoritative over legacy component rules. */")
@@ -241,7 +241,11 @@ describe("global UX CSS contract", () => {
 
     assert.match(
       authoritativeLandingStyles,
-      /@media \(max-width: 640px\) \{[\s\S]*?\.home-hero__inner\s*\{[^}]*row-gap:\s*20px;[^}]*\}[\s\S]*?\.home-hero__books\s*\{[^}]*transform:\s*translate\(8%, 0\) scale\(0\.76\);[^}]*transform-origin:\s*center top;[^}]*\}/
+      /\.home-hero__inner\s*\{[^}]*column-gap:\s*clamp\(1\.6rem, 2\.9vw, 2\.75rem\);[^}]*\}[\s\S]*?\.home-hero__books\s*\{[^}]*transform:\s*translate\(0, 8%\);[^}]*\}/
+    );
+    assert.match(
+      authoritativeLandingStyles,
+      /@media \(max-width: 640px\) \{[\s\S]*?\.home-hero__inner\s*\{[^}]*row-gap:\s*20px;[^}]*\}[\s\S]*?\.home-hero__books\s*\{[^}]*justify-self:\s*start;[^}]*transform:\s*translateX\(clamp\(1\.4rem, 7vw, 1\.925rem\)\) scale\(0\.76\);[^}]*transform-origin:\s*left top;[^}]*\}/
     );
   });
 

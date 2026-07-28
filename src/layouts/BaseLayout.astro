@@ -3,6 +3,7 @@ import { NAV_ITEMS } from "@/config/navigation";
 import { ACTIVE_THEME, THEMES, type ThemeName } from "@/config/themes";
 import { DEFAULT_LOCALE, getUi, ui, type Locale } from "@/i18n";
 import { localizedPath } from "@/i18n/routing";
+import rtLogo from "@/assets/site/rt.png";
 import "@/styles/global.css";
 import type { LibrarySearchBookReference } from "@/types/library";
 
@@ -165,24 +166,13 @@ const navigationItems = NAV_ITEMS.map((item) => {
           <a class="brand" href={localizedPath(locale, "/")} aria-label={siteTitle}>
             <img
               class="brand__logo"
-              src="assets/images/rt.png"
+              src={rtLogo.src}
               alt=""
               width="225"
               height="47"
             />
           </a>
-          
-            <!--<nav
-              class="site-primary-nav"
-              aria-label={text.layout.primaryNavigation}
-              data-desktop-navigation
-            >
-              {navigationItems.map((item) => (
-                <a href={item.href} aria-current={item.isCurrent ? "page" : undefined}>
-                  <span data-theme-nav-link={item.id === "themes" ? "true" : undefined}>{navLabels[item.id]}</span>
-                </a>
-              ))}
-            </nav>-->
+          <div class="site-header__controls">
             <nav class="navbar">
     <div class="nav-item dropdown">
         <a href="#" class="nav-link">
@@ -193,47 +183,40 @@ const navigationItems = NAV_ITEMS.map((item) => {
         </a>
 
         <div class="dropdown-menu">
-            <a href="#">
+            <a href={localizedPath(locale, "/books/ayetul-kubra/")}>
                 <strong>Ayetül Kübra</strong>
                 <span>116 parça 2. sınıf seviyesi 5. sınıf seviyesi 8. sınıf seviyesi 11. sınıf seviyesi Lise sonrası seviye</span>
             </a>
 
-            <a href="#">
+            <a href={localizedPath(locale, "/books/kucuk-sozler/")}>
                 <strong>Küçük Sözler</strong>
                 <span>67 parça 2. sınıf seviyesi 5. sınıf seviyesi 8. sınıf seviyesi 11. sınıf seviyesi Lise sonrası seviye</span>
             </a>
 
-            <a href="#">
+            <a href={localizedPath(locale, "/books/meyve-risalesi/")}>
                 <strong>Meyve Risalesi</strong>
                 <span>106 parça 2.sınıf seviyesi 5.sınıf seviyesi 8.sınıf seviyesi 11.sınıf seviyesi Lise sonrası seviye</span>
             </a>
-            <a href="#">
+            <a href={localizedPath(locale, "/books/tabiat-risalesi/")}>
                 <strong>Tabiat Risalesi</strong>
                 <span>32 parça 2. sınıf seviyesi 5. sınıf seviyesi 8. sınıf seviyesi 11. sınıf seviyesi Lise sonrası seviye</span>
             </a>
         </div>
     </div>
 
-    <div class="nav-item ">
-        <a href="#" class="nav-link">
-            Küçük Sözler
-          
+    {navigationItems.filter((item) => item.id !== "books").map((item) => (
+      <div class="nav-item">
+        <a
+          href={item.href}
+          class="nav-link"
+          aria-current={item.isCurrent ? "page" : undefined}
+        >
+          <span data-theme-nav-link={item.id === "themes" ? "true" : undefined}>
+            {navLabels[item.id]}
+          </span>
         </a>
-
-     
-    </div>
-
-    <div class="nav-item ">
-        <a href="#" class="nav-link">
-            Meyve Risalesi
-          
-        </a>
-
-       
-    </div>
-
- 
-    
+      </div>
+    ))}
 </nav>
             {globalSearch ? (
               <div

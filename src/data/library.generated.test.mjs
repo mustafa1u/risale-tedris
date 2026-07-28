@@ -70,6 +70,23 @@ describe("generated library data split", () => {
     }
   });
 
+  it("keeps the generated download catalog populated", async () => {
+    const index = parseGeneratedIndex(await readGeneratedIndexSource());
+
+    assert.ok(index.stats.docxCount > 0, "Expected generated Word downloads");
+    assert.equal(index.stats.pdfNormalCount, index.stats.docxCount);
+    assert.equal(index.stats.pdfMobileCount, index.stats.docxCount);
+
+    for (const book of index.books) {
+      assert.ok(book.grades.length > 0, `Expected download grades for ${book.slug}`);
+      assert.equal(
+        book.grades.every((grade) => grade.docxCount > 0),
+        true,
+        `Expected Word downloads in every grade for ${book.slug}`
+      );
+    }
+  });
+
   it("keeps lightweight study shell metadata in the generated index", async () => {
     const index = parseGeneratedIndex(await readGeneratedIndexSource());
     const deck = index.books.find((book) => book.slug === "meyve-risalesi")?.studyDeckRoutes.find(
