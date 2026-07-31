@@ -1,5 +1,4 @@
 ---
-import { getPartCapabilityItems } from "@/features/library/libraryBook.js";
 import { getUi, type Locale } from "@/i18n";
 import { getGradeShortLabel } from "@/i18n/libraryLabels";
 import { localizedPath } from "@/i18n/routing";
@@ -17,27 +16,13 @@ type Props = {
 
 const { book, searchReference, availableBookSlugs, locale } = Astro.props as Props;
 const text = getUi(locale);
-const getCapabilityLabel = (item: { key: string; count?: number }) => {
-  switch (item.key) {
-    case "text":
-      return text.book.capabilities.text;
-    case "gradeLevels":
-      return text.book.capabilities.gradeLevels({ count: item.count ?? 0 });
-    case "flashcards":
-      return text.book.capabilities.flashcards;
-    case "questionSheets":
-      return text.book.capabilities.questionSheets;
-    default:
-      return item.key;
-  }
-};
 ---
 
 <BaseLayout title={book.title} description={text.book.description({ title: book.title })} locale={locale}>
   <section class="page-band">
     <div class="page-band__inner">
       <nav class="breadcrumb" aria-label={text.common.breadcrumb}>
-        <a href={localizedPath(locale, "/")}>{text.nav.books}</a>
+        <a href={localizedPath(locale, "/books/")}>{text.nav.books}</a>
         <span>/</span>
         <span>{book.title}</span>
       </nav>
@@ -112,7 +97,6 @@ const getCapabilityLabel = (item: { key: string; count?: number }) => {
         {book.parts.map((part) => {
           const gradeSlugs = Object.keys(part.downloads).join(" ");
           const partPath = `/books/${book.slug}/parts/${part.partNo}/`;
-          const capabilityItems = getPartCapabilityItems(part);
 
           return (
             <article
@@ -127,15 +111,7 @@ const getCapabilityLabel = (item: { key: string; count?: number }) => {
                 <a class="part-row__title" href={localizedPath(locale, partPath)}>
                   {part.title}
                 </a>
-                <ul class="meta-list part-row__capabilities" aria-label={text.book.capabilitiesLabel({ partTitle: part.title })}>
-                  {capabilityItems.map((item) => (
-                    <li class="pill">{getCapabilityLabel(item)}</li>
-                  ))}
-                </ul>
               </div>
-              <a class="button-secondary" href={localizedPath(locale, partPath)}>
-                {text.actions.read}
-              </a>
             </article>
           );
         })}

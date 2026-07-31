@@ -10,8 +10,8 @@ export const BOOK_GROUPS = [
   {
     id: "kucuk-kitaplar",
     labels: {
-      tr: "Küçük Kitaplar",
-      en: "Small Books"
+      tr: "Küçük Boy Risaleler",
+      en: "Small-Format Risales"
     },
     slugs: [
       "ayetul-kubra",

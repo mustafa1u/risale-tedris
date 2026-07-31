@@ -69,7 +69,7 @@ describe("BaseLayout markup contract", () => {
     ]) {
       assert.match(bookGroups, new RegExp(`"${slug}"`));
     }
-    assert.match(bookGroups, /tr: "Küçük Kitaplar"/);
+    assert.match(bookGroups, /tr: "Küçük Boy Risaleler"/);
     assert.match(bookGroups, /tr: "Sözler"/);
     assert.match(source, /const bookNavigationGroups = groupBooksBySlug\(libraryIndex\.books, locale\);/);
     assert.match(source, /bookNavigationGroups\.map\(\(group\) =>/);

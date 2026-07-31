@@ -2,7 +2,6 @@
 import { groupBooksBySlug } from "@/config/bookGroups";
 import { libraryIndex } from "@/data/library.generated";
 import { getUi, type Locale } from "@/i18n";
-import { getGradeLabel } from "@/i18n/libraryLabels";
 import { localizedPath } from "@/i18n/routing";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 
@@ -40,19 +39,16 @@ const nextBooksLabel = locale === "tr" ? "Sonraki kitaplar" : "Next books";
               <div class="book-shelf__viewport" data-book-shelf-viewport tabindex="0">
                 <div class="book-shelf__track">
                   {group.books.map((book) => (
-                    <article class="book-card">
-                      <div class="book-card__header">
-                        <div>
-                          <h3 class="book-card__title">{book.title}</h3>
-                          <ul class="meta-list" aria-label={text.library.bookSummaryAria({ bookTitle: book.title })}>
-                            <li class="pill">{text.library.partCount({ count: book.partCount })}</li>
-                            {book.grades.map((grade) => (
-                              <li class="pill">{getGradeLabel(locale, grade.slug, grade.label)}</li>
-                            ))}
-                          </ul>
-                        </div>
-                        <a class="button" href={localizedPath(locale, `/books/${book.slug}/`)}>{text.actions.open}</a>
-                      </div>
+                    <article class="book-card" data-book-slug={book.slug}>
+                      <a
+                        class="book-card__cover"
+                        href={localizedPath(locale, `/books/${book.slug}/`)}
+                        aria-label={`${book.title}: ${text.actions.open}`}
+                      >
+                        <span class="book-card__ornament" aria-hidden="true">❦</span>
+                        <h3 class="book-card__title">{book.title}</h3>
+                        <span class="book-card__ornament book-card__ornament--bottom" aria-hidden="true">❦</span>
+                      </a>
                     </article>
                   ))}
                 </div>

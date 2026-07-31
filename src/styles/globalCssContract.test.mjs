@@ -33,6 +33,16 @@ function assertBlockIncludes(source, selector, snippets) {
 }
 
 describe("global UX CSS contract", () => {
+  it("bundles the Barla display font for deployed book covers", async () => {
+    const source = await readCssSource();
+
+    assertBlockIncludes(source, '@font-face', [
+      'font-family: "Barla © 001 Liva Nur";',
+      'src: url("../assets/fonts/barla-001-liva-nur.ttf") format("truetype");',
+      "font-display: swap;"
+    ]);
+  });
+
   it("caps shared page content at the expanded 1320px width", async () => {
     const source = await readCssSource();
 
@@ -90,9 +100,31 @@ describe("global UX CSS contract", () => {
       "list-style: none;"
     ]);
     assertBlockIncludes(source, ".home-hero__feature-labels li", [
+      "border: 0;",
       "border-radius: 999px;",
+      "cursor: default;",
       "font-size: 0.82rem;",
       "font-weight: 700;"
+    ]);
+  });
+
+  it("distinguishes actions, information labels, and selectable filters", async () => {
+    const source = await readCssSource();
+
+    assert.match(
+      source,
+      /\n\.button-secondary\s*\{[^}]*border-color:\s*var\(--accent\);[^}]*border-width:\s*2px;[^}]*cursor:\s*pointer;/s
+    );
+    assertBlockIncludes(source, ".button,\n.button-secondary,\nbutton.button-muted,\na.button-muted", [
+      "box-shadow:",
+      "transition:"
+    ]);
+    assertBlockIncludes(source, ".pill", ["border: 0;", "cursor: default;"]);
+    assertBlockIncludes(source, ".home-grade-chip", ["border: 0;", "cursor: default;"]);
+    assertBlockIncludes(source, ".search-chip input", [
+      "position: static;",
+      "width: 1rem;",
+      "accent-color: var(--accent);"
     ]);
   });
 
@@ -124,7 +156,6 @@ describe("global UX CSS contract", () => {
       ".home-mixed-age-note",
       ".home-flow-detail",
       ".guidance-panel",
-      ".part-row__capabilities .pill",
       ".download-panel__note",
       ".download-group__summary",
       ".download-group__summary-arrow",
@@ -218,7 +249,7 @@ describe("global UX CSS contract", () => {
       "align-items: start;",
       "gap: 2px;",
       "border-radius: 8px;",
-      "background: var(--surface);"
+      "background: var(--surface-muted);"
     ]);
     assertBlockIncludes(source, ".home-grade-chip__level", ["font-weight: 760;"]);
     assertBlockIncludes(source, ".home-grade-chip__range", ["color: var(--text-muted);"]);
@@ -265,11 +296,37 @@ describe("global UX CSS contract", () => {
     assertBlockIncludes(source, ".part-row__title", ["overflow-wrap: break-word;"]);
   });
 
-  it("keeps short homepage book actions on one line", async () => {
+  it("renders library books as distinct, accessible cover cards", async () => {
     const source = await readCssSource();
 
-    assertBlockIncludes(source, ".book-card__header > div", ["min-width: 0;"]);
-    assertBlockIncludes(source, ".book-card__header .button", ["flex: 0 0 auto;", "white-space: nowrap;"]);
+    assertBlockIncludes(source, "@font-face", [
+      'font-family: "Barla © 001 Liva Nur";',
+      'src: url("../assets/fonts/barla-001-liva-nur.ttf") format("truetype");',
+      "font-weight: 400;",
+      "font-display: swap;"
+    ]);
+    assertBlockIncludes(source, ".book-card[data-book-slug]", [
+      "aspect-ratio: 204 / 300;",
+      "border: 2px solid var(--book-cover-metal);",
+      "transition: transform 180ms ease"
+    ]);
+    assertBlockIncludes(source, ".book-card .book-card__cover", [
+      "grid-template-rows: 1fr auto 1fr;",
+      "color: var(--book-cover-metal);",
+      "text-decoration: none;"
+    ]);
+    assertBlockIncludes(source, ".book-card .book-card__title", [
+      'font-family: "Barla © 001 Liva Nur", "Lucida Blackletter", "Palatino Linotype", Georgia, serif;',
+      "font-size: 7.32rem;",
+      "font-weight: 400;",
+      "text-align: center;"
+    ]);
+    for (const slug of [
+      "ayetul-kubra", "kucuk-sozler", "meyve-risalesi", "tabiat-risalesi",
+      "11-soz", "13-soz", "18-soz", "24-soz", "31-soz", "32-soz", "33-soz"
+    ]) {
+      assert.match(source, new RegExp(`\\.book-card\\[data-book-slug="${slug}"\\]`));
+    }
   });
 
   it("supports grouped, horizontally sliding book shelves", async () => {

@@ -83,16 +83,31 @@ describe("UX page accessibility markup", () => {
     assert.match(source, /data-book-shelf-previous/);
     assert.match(source, /data-book-shelf-next/);
     assert.match(source, /viewport\.scrollBy/);
-    assert.match(source, /getGradeLabel/);
+    assert.match(source, /class="book-card" data-book-slug={book\.slug}/);
+    assert.match(source, /class="book-card__cover"/);
+    assert.match(source, /aria-label={`\$\{book\.title\}: \$\{text\.actions\.open\}`}/);
+    assert.doesNotMatch(source, /book\.grades\.map/);
+    assert.doesNotMatch(source, /text\.library\.partCount/);
     assert.match(source, /localizedPath\(locale, `\/books\/\$\{book\.slug\}\/`\)/);
   });
 
-  it("labels book guidance and part capability summaries", async () => {
+  it("labels book guidance", async () => {
     const source = await readPage("book");
 
     assert.match(source, /<section class="guidance-panel" aria-labelledby="book-guide-heading">/);
     assert.match(source, /<h2 id="book-guide-heading">/);
-    assert.match(source, /class="meta-list part-row__capabilities" aria-label={text\.book\.capabilitiesLabel/);
+  });
+
+  it("routes library breadcrumbs to the dedicated books page", async () => {
+    for (const pageName of ["book", "part"]) {
+      const source = await readPage(pageName);
+
+      assert.match(
+        source,
+        /<a href={localizedPath\(locale, "\/books\/"\)}>{text\.nav\.books}<\/a>/,
+        `Expected the Kitaplar breadcrumb in ${pageName} to point to /books/`
+      );
+    }
   });
 
   it("uses school-range labels for the book filter while keeping grade slugs stable", async () => {
@@ -128,13 +143,13 @@ describe("UX page accessibility markup", () => {
     assert.doesNotMatch(source, /data-book-search-host[^>]+part\.text/s);
   });
 
-  it("preserves stable row identifiers, canonical links, capability badges, and result counts", async () => {
+  it("keeps each part row compact with one canonical link", async () => {
     const source = await readPage("book");
 
     assert.match(source, /data-part-no={part\.partNo}/);
     assert.match(source, /href={localizedPath\(locale, partPath\)}/);
-    assert.equal(countSnippet(source, 'href={localizedPath(locale, partPath)}'), 2);
-    assert.match(source, /class="meta-list part-row__capabilities"/);
+    assert.equal(countSnippet(source, 'href={localizedPath(locale, partPath)}'), 1);
+    assert.doesNotMatch(source, /part-row__capabilities|getPartCapabilityItems|text\.actions\.read/);
     assert.match(source, /data-filter-status/);
     assert.match(source, /text\.book\.resultCount\({ count: book\.parts\.length }\)/);
   });

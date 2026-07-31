@@ -291,6 +291,7 @@ type UiDictionary = {
   };
   augmentation: {
     launch: string;
+    launchHelp: string;
     dialogTitle: string;
     intro: string;
     bookLabel: string;
@@ -703,6 +704,7 @@ export const ui = {
     },
     augmentation: {
       launch: "Bu Parçayı Artır",
+      launchHelp: "Bu metni diğer risale metinleriyle birleştirip daha büyük bir ders metni hazırlayın.",
       dialogTitle: "Parçalardan Kişisel Çalışma Oluştur",
       intro: "Açık parça korunur. Aynı kitaptan veya başka kitaplardan istediğiniz parçaları ekleyip sıralayın.",
       bookLabel: "Kitap",
@@ -1126,6 +1128,7 @@ export const ui = {
     },
     augmentation: {
       launch: "Augment This Part",
+      launchHelp: "Combine this text with other Risale texts to prepare a larger lesson text.",
       dialogTitle: "Create a Personal Part Collection",
       intro: "The open part remains selected. Add and order any parts from this or another book.",
       bookLabel: "Book",

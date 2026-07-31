@@ -289,6 +289,7 @@ export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, 
   return (
     <div class="augmentation-launcher">
       <button class="button" type="button" onClick={open}>{labels.launch}</button>
+      <p class="augmentation-launcher__help">{labels.launchHelp}</p>
       <dialog class="augmentation-dialog" ref={dialogRef} aria-labelledby="augmentation-dialog-title" onCancel={cancelDialog}>
         <div class="augmentation-dialog__panel">
           <header class="augmentation-dialog__head">
