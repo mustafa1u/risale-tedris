@@ -1,0 +1,785 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:2-sinif:p31",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "2-sinif",
+  "partNo": "p31",
+  "partNumber": 31,
+  "title": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/2-sinif/SveC_2sinif_33-soz-p31-20-pencere-cicekler-kuslar-bulutlar-ve-kamer.txt",
+  "sourceRevision": "35727360f1fcd81cedc3c887668d3f371f6be8dfc6ebdead2f7ada203f22da4d",
+  "setCount": 6,
+  "questionCount": 67,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçekler ve meyveler hangi yönleriyle dikkat çekiyor?",
+          "answer": "Renkleri, kokuları, tatları, güzellikleri ve üzerlerindeki ince süsleriyle dikkat çekiyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Çiçekler ve meyveler neye benzetiliyor?",
+          "answer": "Bir ikram sofrasını tanıtan haberciye ve davete çağıran çağrıya benzetiliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Çiçekler ve meyvelerde niçin farklı renkler, kokular ve tatlar vardır?",
+          "answer": "Her çeşide ayrı ayrı ikramı ve rahmeti bildirmek için vardır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşların sesleri bize neyi düşündürür?",
+          "answer": "Onların boşuna ötmediğini, hikmetle konuşturulduğunu düşündürür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Kuşlar sesleriyle ne yapar?",
+          "answer": "Birbirlerine duygularını ve istediklerini anlatırlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Yağmur sesi niçin boş bir ses sayılmaz?",
+          "answer": "Çünkü yağmur canlılara fayda getirir ve anlamlı bir görev yapar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Şimşek ve gök gürlemesi nasıl anlatılıyor?",
+          "answer": "Boş gürültü değil, mânâlı ve hikmetli işler olarak anlatılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bulutlardan gelen yağmur damlaları kimlere ulaştırılır?",
+          "answer": "Yeryüzündeki canlılara ulaştırılır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Yağmurun gelişi hangi güzel habere benzetiliyor?",
+          "answer": "Muhtaç olanlara gelen sevinçli bir müjdeye benzetiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Gökte özellikle hangisine dikkat edilmesi isteniyor?",
+          "answer": "Ay’a dikkat edilmesi isteniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Ay’ın hareketi neyi gösterir?",
+          "answer": "Güç ve hikmet sahibi olan Allah’ın emriyle hareket ettiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada önce bakmamız istenen varlıklar hangileridir?",
+          "answer": "Çiçekler ve meyvelerdir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Çiçeklerin ve meyvelerin güzel halleri kimin ikramını haber verir?",
+          "answer": "Cömert ve merhametli olan Allah’ın ikramını haber verir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Meyvelerin tatlı olması ve çiçeklerin güzel kokması ne için verilmiş gibi anlatılıyor?",
+          "answer": "İnsanlara ve canlılara nimeti tanıtmak ve sevdirmek için verilmiş gibi anlatılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşların cıvıltısı sadece ses midir, yoksa bir anlam taşır mı?",
+          "answer": "Bir anlam taşır; aralarında haberleşmeye benzer.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Kuşların birbirine bir şeyler anlatması bize onların sesleri hakkında ne öğretir?",
+          "answer": "Seslerinin gelişigüzel olmadığını öğretir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bulutların içinden çıkan yağmur nasıl bir fayda taşır?",
+          "answer": "Canlıların su ihtiyacını karşılar ve hayatlarına destek olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Yağmur damlaları parçada neye benzetiliyor?",
+          "answer": "Hayat veren suya benzetiliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Gök gürlemesi ve şimşek neden anlamsız sayılmıyor?",
+          "answer": "Çünkü yağmurla birlikte faydalı ve hikmetli bir işin parçası olarak gösteriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Yağmur, ihtiyaç içinde olan canlılara sanki ne söylüyor gibi anlatılıyor?",
+          "answer": "Sevinin, yardım geliyor gibi anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Gökte sayısız gök cismi varken özellikle hangisi seçiliyor?",
+          "answer": "Ay seçiliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Ay’ın yeryüzüyle ilgili önemli faydaları olduğu söylenince bundan ne anlarız?",
+          "answer": "Ay’ın boşuna hareket etmediğini anlarız.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçek ve meyvelerde görülen güzellikler kime işaret eder?",
+          "answer": "Nimet veren ve merhamet eden Allah’a işaret eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Çiçekler ve meyveler neden bir tanıtıcı gibi gösteriliyor?",
+          "answer": "Çünkü Allah’ın nimetlerini görünür hâle getiriyorlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Her tür için ayrı renk, ayrı koku ve ayrı tat bulunması neyi gösterir?",
+          "answer": "İnce bir düzen ve özel bir ikram olduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşların ötüşü hangi kesin sonuca delil sayılıyor?",
+          "answer": "Onların bilerek ve hikmetle konuşturulduğuna delil sayılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Kuşların seslerinde insanı şaşırtan yön nedir?",
+          "answer": "Birbirlerine duygularını ve niyetlerini aktarabilmeleridir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Yağmurun sesi neden mânâlı kabul ediliyor?",
+          "answer": "Çünkü ardından canlılara yararlı su geliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bulutların boşlukta böyle işler yapması neyi düşündürür?",
+          "answer": "Bunun büyük bir kudret ve hikmetle olduğunu düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Yeryüzündeki canlılar yağmura karşı nasıl gösteriliyor?",
+          "answer": "Yağmura ihtiyaç duyan ve onu bekleyen canlılar olarak gösteriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Yağmurun gelişi hangi duyguyu uyandıran bir haber gibidir?",
+          "answer": "Sevinç veren bir haber gibidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Ay’ın hareketi kendi kendine mi anlatılıyor, yoksa bir emre bağlı mı gösteriliyor?",
+          "answer": "Bir emre bağlı gösteriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Ay için neden özel olarak dikkat et deniliyor olabilir?",
+          "answer": "Çünkü onun hareketinde önemli hikmetler ve faydalar vardır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçekler ve meyveler bize sadece güzel görünmek için mi vardır, yoksa başka bir şeyi de bildirir mi?",
+          "answer": "Sadece güzel görünmek için değil, Allah’ın nimetini de bildirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Çiçek ve meyvelerin çeşit çeşit olması neyin işareti sayılır?",
+          "answer": "Zengin bir ikramın ve ince bir düzenin işareti sayılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Sofra benzetmesi çiçekler ve meyveler için neden kullanılmış olabilir?",
+          "answer": "Çünkü onlar ikramı hatırlatır ve nimet sahibini düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşların cıvıldaması nasıl bir delil olarak anlatılıyor?",
+          "answer": "Onların hikmetli şekilde konuşturulduğunu gösteren bir delil olarak anlatılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Kuşlar sesleriyle sadece gürültü mü çıkarır?",
+          "answer": "Hayır, birbirlerine bir şeyler anlatırlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Yağmur sesi ve gök gürlemesi hakkında hangi yanlış düşünce reddediliyor?",
+          "answer": "Bunların boş ve anlamsız olduğu düşüncesi reddediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Yağmurun canlılara verilmesi Allah’ın hangi yönünü hatırlatır?",
+          "answer": "Merhametini ve ikramını hatırlatır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bulutlardan gelen suyun canlılara ulaşması niçin önemlidir?",
+          "answer": "Çünkü canlılar suya muhtaçtır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Yağmurun “müjde” gibi anlatılması hangi sonucu gösterir?",
+          "answer": "Yağmurun sevinç veren ve faydalı bir nimet olduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Gökyüzünde dikkatle bakılması istenen gök cismi hangisidir?",
+          "answer": "Ay’dır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Ay’ın hareketinden hangi iki özellik anlaşılır?",
+          "answer": "Güç ve hikmet anlaşılır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçeklerin ve meyvelerin güzel kokması ve tatlı olması neyi anlatan bir işaret gibidir?",
+          "answer": "Güzel bir ikramı anlatan işaret gibidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Çiçek ve meyveler neden davet çağrısına benzetilmiş olabilir?",
+          "answer": "Çünkü insanı nimeti vereni düşünmeye çağırır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Farklı canlı türlerine uygun farklı özellikler verilmesi neyi gösterir?",
+          "answer": "Her birine özel bir rahmet ve düzen olduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşların ses çıkarışı parçada nasıl değerlendiriliyor?",
+          "answer": "Bilinçli ve hikmetli bir bildirme gibi değerlendiriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Kuşların birbirine sesle duygu aktarması neden önemlidir?",
+          "answer": "Çünkü seslerinin amaçlı olduğunu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bulutlar yağmurla yeryüzüne ne ulaştırır?",
+          "answer": "Hayat için gerekli suyu ulaştırır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Şimşek ve gök gürlemesinin boş olmadığı nasıl anlaşılıyor?",
+          "answer": "Faydalı yağmurla birlikte anlamlı bir göreve bağlı olduklarından anlaşılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Yağmurun gelişi bekleyen canlılar için nasıl bir haber sayılır?",
+          "answer": "Sevinçli ve umut veren bir haber sayılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Gökte çok sayıda cisim olduğu hâlde Ay’a bak denmesi neyi gösterir?",
+          "answer": "Ay’da da önemli deliller bulunduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Ay’ın düzenli hareketi kimin emrini hatırlatır?",
+          "answer": "Allah’ın emrini hatırlatır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu metinde anlatılan varlıklar bize hangi dersi verir?",
+          "answer": "Her şeyin Allah’ın bilgisi, hikmeti ve merhametiyle iş gördüğü dersini verir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçekler ve meyveler hangi güzel özellikleriyle anılıyor?",
+          "answer": "Güzellikleri, tatları, kokuları, renkleri ve ince süsleriyle anılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu güzel özellikler neyin tanıtımı gibi gösteriliyor?",
+          "answer": "Rahmetli bir ikramın tanıtımı gibi gösteriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Çeşit çeşit tat, renk ve koku bulunması rastgele mi anlatılıyor?",
+          "answer": "Hayır, özel bir hikmetle verilmiş gibi anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşların konuşur gibi ötmesi neye delil kabul ediliyor?",
+          "answer": "Onların bir hikmetle seslendirilmesine delil kabul ediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Kuşlar o seslerle aralarında ne kuruyor?",
+          "answer": "Duygu ve isteklerini bildiren bir anlaşma kuruyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bulutlardan gelen sesler neden önemsiz sayılmıyor?",
+          "answer": "Çünkü büyük bir nimetin habercisi oluyorlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "O büyük nimet nedir?",
+          "answer": "Yağmurdur.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Yağmur yeryüzündeki hangi varlıklara yöneliktir?",
+          "answer": "İhtiyaç sahibi canlılara yöneliktir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Yağmurun “geliyoruz” gibi düşünülmesi neyi hissettirir?",
+          "answer": "Rahmetin yaklaştığını hissettirir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada göğe bakınca özellikle nereyi incelememiz isteniyor?",
+          "answer": "Ay’ı incelememiz isteniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Ay’ın hareketinin hikmetli olması ne anlama gelir?",
+          "answer": "Onun boşuna değil, faydalı bir düzen içinde hareket ettiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Çiçeklerden Ay’a kadar verilen örneklerin ortak mesajı nedir?",
+          "answer": "Hepsi Allah’ın kudretini, hikmetini ve nimetini gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

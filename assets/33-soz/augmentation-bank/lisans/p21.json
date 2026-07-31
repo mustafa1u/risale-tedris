@@ -1,0 +1,806 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:lisans:p21",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "lisans",
+  "partNo": "p21",
+  "partNumber": 21,
+  "title": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/lisans/SveC_lisans_33-soz-p21-16-pencere-vahdetin-toplu-gosterilisi-ve-munkire-meydan-okuma.txt",
+  "sourceRevision": "d009e937f572f5e393983c538a8efedd22638381727314c92d588e8cf0c18c96",
+  "setCount": 6,
+  "questionCount": 68,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada yeryüzündeki canlıların ve diğer varlıkların hangi dört yönü özellikle öne çıkarılmaktadır?",
+          "answer": "Hikmetle yetiştirilmeleri, inayetle süslenmeleri, rahmetle lütfa mazhar kılınmaları ve şefkatle rızıklandırılmaları öne çıkarılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu özellikler, tek tek varlıklar açısından neye delil sayılmaktadır?",
+          "answer": "Her birinin, hikmet sahibi, cömert, merhametli ve rızık veren bir Yaratıcının varlığına ve birliğine işaret ettiği ifade edilmektedir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde sadece tek tek varlıklara değil, yeryüzünün bütününe de bakılması isteniyor. Bütüne bakıldığında hangi genel düzenler görülmektedir?",
+          "answer": "Her tarafa yayılmış bir hikmet, bütün eserleri kuşatan bir inayet, yeryüzündeki varlıkları saran bir rahmet ve canlıların umumuna ulaşan bir rızık düzeni görülmektedir.",
+          "wordCount": 23,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde hikmet, inayet, rahmet ve rızık arasında nasıl bir ilişki kurulmaktadır?",
+          "answer": "Bunlar birbirinden kopuk değil; biri diğerini içinde taşıyan ve daha geniş bir manaya açılan iç içe halkalar gibi sunulmaktadır.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Yedi rengin birleşip ışığı meydana getirmesi örneği neyi açıklamak için kullanılmaktadır?",
+          "answer": "Ayrı ayrı görünen bazı tecellilerin bir araya gelince tek bir kaynağı açıkça gösterdiğini anlatmak için kullanılmaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Işığın güneşi göstermesi benzetmesinden hareketle, yeryüzündeki bu tecelliler neyi açıkça göstermektedir?",
+          "answer": "Bunların hepsi, bir olan ve mutlak şekilde hikmet, kerem, rahmet ve rızık sahibi olan Allah’ın birliğini ve rububiyetinin mükemmelliğini göstermektedir.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p21:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre bu kadar kapsamlı bir terbiyeyi tesadüfle açıklamaya çalışmanın temel problemi nedir?",
+          "answer": "Çünkü böylesi düzenli, anlamlı ve kuşatıcı bir işleyiş, başıboş bir rastlantıyla bağdaşmaz.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Kuvvetin veya tabiatın bu işleri açıklamakta yetersiz görülmesinin sebebi nedir?",
+          "answer": "Çünkü bunlar şuurlu, bilen, gören, işiten ve her şeyi ölçüyle idare eden bir fail gibi davranamaz.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Esbaba bu fiilleri vermek niçin makul görülmemektedir?",
+          "answer": "Çünkü sebepler aciz, cansız ve bilgisizdir; bu yüzden böylesine hikmetli ve kapsamlı işleri kendi başlarına yapmaları düşünülemez.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde “tabiat” ismini Allah’a vermenin neden büyük bir yanlış olduğu söylenmektedir?",
+          "answer": "Çünkü bu, sonsuz kemal sahibi olan ilahî fiilleri, son derece eksik ve yetersiz bir kavramla açıklamaya kalkışmak olur.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın ana mesajı nedir?",
+          "answer": "Yeryüzünde görülen düzen, merhamet, güzellik ve rızıklandırma; Allah’ın varlığını, birliğini ve kusursuz terbiyesini parlak biçimde göstermektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada yeryüzündeki bütün mahlukatın ortak olarak taşıdığı hangi ilahî tecellilerden söz edilmektedir?",
+          "answer": "Eğitim ve idarede hikmet, süslemede inayet, lütufta rahmet ve geçimde şefkatli rızık verme tecellilerinden söz edilmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Her bir mahlukun bu tecellilerle anılması, hangi inanç esasına kapı açmaktadır?",
+          "answer": "Allah’ın varlığını zorunlu olarak kabul etmeye ve O’nun birliğini anlamaya kapı açmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p21:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Yeryüzünün tamamında görülen genel hikmet nasıl bir anlam taşımaktadır?",
+          "answer": "Her şeyin belli bir maksat, ölçü ve irade ile düzenlendiğini göstermektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Umumi inayetin, umumi hikmetle birlikte anılması neyi düşündürür?",
+          "answer": "Düzenin sadece kuru bir plan olmadığını; aynı zamanda fayda, uygunluk ve özen taşıdığını düşündürür.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Geniş rahmet, önceki iki unsurla birlikte ele alındığında nasıl bir tablo ortaya çıkar?",
+          "answer": "Varlıkların sadece var edilmediği, aynı zamanda kuşatıcı bir merhamet altında korunduğu ve ihtiyaçlarının gözetildiği bir tablo ortaya çıkar.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Genel iaşe ve rızık verme niçin bu zincirin son halkası gibi sunulmaktadır?",
+          "answer": "Çünkü hikmet, inayet ve rahmetin canlı hayatındaki somut sonucu olarak beslenme ve geçim temin edilmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada verilen ışık benzetmesinin mantığı nedir?",
+          "answer": "Çeşitli görünümlerin gerçekte tek bir kaynağa dayanmasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu benzetmeye göre, yeryüzünde farklı biçimlerde görünen ilahî fiillerin ortak kaynağı nedir?",
+          "answer": "Hepsi, tek olan ve her bakımdan mükemmel olan Allah’ın fiilleridir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p21:lisans:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Tesadüf, kör kuvvet, sağır tabiat ve cahil sebeplerin birlikte sayılması hangi noktayı kuvvetlendirmektedir?",
+          "answer": "İlahi fiilleri açıklamak için öne sürülen tabiatçı ve sebeplere dayalı yorumların hiçbirinin yeterli olmadığını kuvvetlendirmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada Allah için zikredilen bazı yüce sıfatlar, karşı tarafta ileri sürülen açıklamalardan hangi yönüyle ayrılmaktadır?",
+          "answer": "Allah için sonsuz kudret, ilim, işitme ve görme gibi kemal sıfatları vurgulanırken; diğer açıklamalar acizlik, bilgisizlik ve şuursuzlukla nitelenmektedir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümlelerde hakikatin güneşe benzetilmesi neyi anlatmaktadır?",
+          "answer": "Bu delilin çok açık olduğunu, inkâr edilse bile gerçekte ortadan kaldırılamayacağını anlatmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p21:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın ilk bölümünde canlı ve cansız varlıklar üzerinde görülen terbiyenin niteliği nasıl tasvir edilmektedir?",
+          "answer": "Son derece ölçülü, yerli yerinde, lütufkâr, merhametli ve ihtiyaçları karşılayan bir yönetim olarak tasvir edilmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Tek tek mahlukatın bu şekilde ele alınması, Allah’ın hangi isimlerini düşündürmektedir?",
+          "answer": "Hikmet sahibi, ikram eden, merhametli ve rızık veren oluşunu düşündürmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metin neden yalnız bireysel örneklerle yetinmeyip yeryüzünün bütününü de nazara vermektedir?",
+          "answer": "Çünkü genel tablo, tek tek örneklerden daha büyük ölçekte bir birlik ve düzen delili sunmaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Umumi inayetin varlığı nasıl anlaşılmaktadır?",
+          "answer": "Varlıkların sadece meydana gelmesiyle değil, aynı zamanda faydalı, uygun ve özenli biçimde düzenlenmesiyle anlaşılmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Umumi rahmet neyi gösterir?",
+          "answer": "Yeryüzündeki varlıkların geniş bir merhamet kuşatması altında bulunduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Umumi rızık ve iaşe, ilahî rububiyet hakkında hangi sonuca götürür?",
+          "answer": "Rabliğin sadece yaratmakla kalmadığını, yaşatıp beslemeyi de üstlendiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Renkler ve ışık örneği ile yeryüzündeki ilahî fiiller arasında nasıl bir benzerlik kurulmaktadır?",
+          "answer": "Nasıl farklı renkler tek bir aydınlığı meydana getiriyorsa, farklı ilahî tecelliler de tek bir Rabbin varlığını ve birliğini göstermektedir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada rububiyetin kemali ifadesiyle ne anlatılmaktadır?",
+          "answer": "Allah’ın idaresinin eksiksiz, kuşatıcı ve en yüksek derecede mükemmel olduğu anlatılmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre tabiat kavramını yaratıcı güç gibi kullanmak niçin hatalıdır?",
+          "answer": "Çünkü tabiat, ilahî fiillerin gerektirdiği aşkın kudret ve ilim yerine geçemeyecek sınırlı bir isimlendirmedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün pasajdan çıkarılabilecek en kapsamlı hüküm nedir?",
+          "answer": "Yeryüzündeki genel düzen ve canlıların ihtiyaçlarının karşılanması, Allah’ın birliğini ve mutlak kemal sahibi oluşunu açık biçimde ispat etmektedir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde mahlukatın eğitilmesi, süslenmesi, lütfa eriştirilmesi ve beslenmesi hangi bakımdan önemlidir?",
+          "answer": "Bunlar, varlıkların sahipsiz olmadığını ve her birinin bilinçli bir ilahî idare altında bulunduğunu göstermesi bakımından önemlidir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Her bir mahlukun tek başına bir delil olması ile yeryüzünün tamamının delil olması arasında nasıl bir fark vardır?",
+          "answer": "İlki bireysel işaretler sunar; ikincisi ise çok daha geniş ve kuvvetli bir toplu şahitlik ortaya koyar.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Yeryüzünde görülen umumi hikmetin “irade”yi göstermesi ne demektir?",
+          "answer": "Olayların zorunlu ve başıboş değil, seçilerek ve amaç gözetilerek meydana geldiği anlamına gelir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İnayet, hikmeti nasıl tamamlayan bir unsur olarak sunulmaktadır?",
+          "answer": "Hikmet düzen ve uygunluğu gösterirken, inayet buna ilave olarak özen, ikram ve fayda yönünü tamamlamaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Rahmetin, inayet ve hikmeti de içine alan daha geniş bir tecelli olarak görülmesi neyi ifade eder?",
+          "answer": "Allah’ın yalnız düzen kurmadığını ve özen göstermediğini, aynı zamanda varlıkları merhametle kuşattığını ifade eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Genel rızıklandırma neden “kerimane” bir tarz olarak nitelenmektedir?",
+          "answer": "Çünkü ihtiyaçların karşılanması sıradan bir dağıtım değil, cömertçe ve ihsan duygusu taşıyan bir ikram olarak görülmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Işığın güneşe delil olması örneği, imanî bakımdan nasıl bir öğretim yöntemi sunmaktadır?",
+          "answer": "Görünen etkilerden görünmeyen fakat kesin olan kaynağa gitmeyi öğreten bir delillendirme yöntemi sunmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu yöntemle varılan sonuç nedir?",
+          "answer": "Hikmet, inayet, rahmet ve rızık gibi tecellilerden hareketle Allah’ın birliğine ve kusursuz Rabliğine ulaşılmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p21:lisans:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde inkârcıya yönelik sert hitabın arkasındaki asıl hedef nedir?",
+          "answer": "Hakikatin apaçık oluşuna rağmen onu görmezden gelmenin ciddiyetini hissettirmektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Tesadüf ve sebeplerin reddedilmesinde hangi ölçü esas alınmaktadır?",
+          "answer": "Görülen işlerin son derece düzenli, anlamlı ve kapsamlı olması esas alınmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada karşılaştırılan iki yaklaşım nedir?",
+          "answer": "Bir yanda ilahî kudret ve kemal sıfatlarıyla açıklama, diğer yanda şuursuz tabiat ve yetersiz sebeplerle açıklama yaklaşımıdır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Son soruların peş peşe gelmesi okuyucuda nasıl bir etki oluşturur?",
+          "answer": "İnkârın savunulamaz olduğunu hissettirir ve insanı iç muhasebeye sevk eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada yeryüzündeki bütün mahlukat üzerinde görülen işlemlerin ortak vasfı nedir?",
+          "answer": "Hepsinin son derece hikmetli, lütuflu, merhametli ve ihtiyaç gözeten bir tarzda gerçekleşmesidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ortak vasıf, ilahî birliğe nasıl delil olmaktadır?",
+          "answer": "Farklı varlıklarda aynı karakterde bir yönetim görülmesi, bunların tek bir kudretin eseri olduğunu göstermektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde umumi hikmetten sonra neden umumi inayet, sonra rahmet ve ardından rızık zikredilmektedir?",
+          "answer": "Çünkü parça, daha genel bir düzen anlayışından canlıların hayatına kadar inen iç içe bir ilahî tecelli sıralaması kurmaktadır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "“Birden nazara al” çağrısı, okurdan nasıl bir bakış istemektedir?",
+          "answer": "Parçaları ayrı ayrı değil, birbirini tamamlayan bütüncül bir manzara halinde değerlendirmesini istemektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Renklerin birleşmesi örneği, parçalı gözlem ile bütüncül gözlem arasında nasıl bir fark gösterir?",
+          "answer": "Tek tek renkler ayrı görünse de birlikte ışığı meydana getirir; aynı şekilde ayrı tecelliler birlikte tek kaynağı daha açık gösterir.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Parçaya göre bu bütüncül gözlem sonunda hangi iki temel sonuç öne çıkmaktadır?",
+          "answer": "Allah’ın birliği ve rububiyetinin mükemmelliği öne çıkmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "“Büyük mikyas” ifadesinin işaret ettiği mana nedir?",
+          "answer": "Delilin sadece dar bir alanda değil, bütün yeryüzü çapında görülmesidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İnkârcıya sorulan “bunu nasıl açıklarsın?” tarzındaki sorular hangi yönden eleştireldir?",
+          "answer": "Karşı görüşün sağlam bir açıklama üretemediğini ortaya koyduğu için eleştireldir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metin, tesadüfü neden yetersiz bir açıklama olarak görmektedir?",
+          "answer": "Çünkü rastlantı, böylesine düzenli, merhametli ve sürekli bir işleyişin arkasındaki maksadı açıklayamaz.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "“Kör kuvvet” ve “sağır tabiat” gibi nitelemelerle hangi mesaj verilmektedir?",
+          "answer": "Şuurdan yoksun şeylerin, anlamlı ve amaçlı fiillerin gerçek faili olamayacağı mesajı verilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Allah’ın yüceliği ile tabiatın eksikliği arasındaki zıtlık niçin vurgulanmaktadır?",
+          "answer": "İlahî fiilleri eksik sebeplere vermenin ne kadar büyük bir mantık hatası olduğunu göstermek için vurgulanmaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda hakikatin örtülemeyeceği fikri nasıl temellendirilmektedir?",
+          "answer": "Delilin aşırı derecede açık ve parlak olduğu, bu yüzden gafletle gizlenmek istense de gerçekte söndürülemeyeceği söylenerek temellendirilmektedir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın başında mahlukat hakkında arka arkaya sıralanan fiiller, yeryüzündeki hayatı nasıl bir çerçevede sunmaktadır?",
+          "answer": "Hayatı, rastgele işleyen bir süreç değil; eğitim, süsleme, lütuf ve besleme boyutları olan bilinçli bir ilahî tasarruf çerçevesinde sunmaktadır.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu çerçeve, Allah’ın hangi yönlerini özellikle öne çıkarmaktadır?",
+          "answer": "Hikmetini, keremini, rahmetini ve rızık vericiliğini öne çıkarmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Tek tek varlıkların şahitliği ile “yeryüzünün mecmuu”nun şahitliği arasında delil gücü bakımından nasıl bir ilişki vardır?",
+          "answer": "Toplu şahitlik, tek tek örneklerin verdiği manayı daha geniş, daha parlak ve daha güçlü hale getirmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Kasıt ve iradenin açıkça görülmesi, tabiatçı açıklamaları hangi noktadan zora sokmaktadır?",
+          "answer": "Çünkü tabiatçı açıklamalar bilinçli tercih ve hedefe yönelişi gerçek anlamda izah edemez.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Hikmetin içinde inayet, inayetin içinde rahmet, rahmetin içinde rızık görülmesi neyi anlatır?",
+          "answer": "İlahî fiillerin birbirini destekleyen ve aynı kaynaktan gelen katmanlı bir düzen içinde olduğunu anlatır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metindeki güneş ve ışık misali hangi tür akıl yürütmeye örnektir?",
+          "answer": "Görünen eser ve belirtilerden görünmeyen fakat zorunlu olan sebebe ulaşma akıl yürütmesine örnektir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu akıl yürütme ile Allah hakkında hangi hükme varılmaktadır?",
+          "answer": "O’nun varlığının zorunlu olduğu, bir olduğu ve rububiyetinin kusursuz bulunduğu hükmüne varılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p21:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada inkârcıya yöneltilen alternatifler arasında hangileri reddedilmektedir?",
+          "answer": "Tesadüf, kör kuvvet, sağır tabiat ve aciz-cahil sebepler reddedilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu alternatiflerin ortak eksiği nedir?",
+          "answer": "Şuur, kudret, ilim ve kuşatıcı idareden yoksun olmalarıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Allah için sayılan yüce vasıflar ile tabiat için kullanılan eksiklik bildiren ifadeler arasındaki karşıtlık nasıl bir öğretici işlev görmektedir?",
+          "answer": "Doğru açıklama ile yanlış açıklama arasındaki farkı keskinleştirerek zihinde netlik oluşturmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "“Bu hakikati hangi kuvvetle söndürebilirsin?” anlamındaki sorgulama neyi ima eder?",
+          "answer": "Hakikatin insanın inkârıyla yok olmayacağını, delilin kendi kuvvetiyle ayakta durduğunu ima eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p21:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajdan hareketle bir müminin tabiat ve sebepler karşısında nasıl bir bakış geliştirmesi beklenir?",
+          "answer": "Sebepleri bağımsız güçler gibi değil, Allah’ın hikmetli ve merhametli icraatına perde olan vasıtalar olarak görmesi beklenir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

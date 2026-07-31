@@ -1,0 +1,677 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "31-soz:lisans:p01",
+  "bookSlug": "31-soz",
+  "bookTitle": "31. Söz",
+  "bookOrder": 8,
+  "gradeSlug": "lisans",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/31-soz/outputs/lisans/SveC_lisans_31-soz-p01-otuzbirinci-soz-mirac-i-nebeviyeye-dair-ihtar-ve-ayetler.txt",
+  "sourceRevision": "f71b3c3205b2069a371b520450629b58255b1f9450958c9406ae843478c458ef",
+  "setCount": 6,
+  "questionCount": 57,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p01:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümün başındaki uyarıda Mi'rac meselesi, iman esasları bakımından nasıl bir yerde gösteriliyor?",
+          "answer": "Mi'rac, doğrudan ilk temel değil; iman esaslarının kabulünden sonra anlaşılan ve onlardan ışık alan bir netice olarak gösteriliyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde, hangi kimselerle Mi'rac hakkında doğrudan tartışmanın uygun olmadığı belirtiliyor?",
+          "answer": "Allah’ı, peygamberliği, melekleri ve semavî âlemi kabul etmeyenlerle bu meseleye doğrudan girilmesinin uygun olmadığı ifade ediliyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Böyle kimseler için önce yapılması gereken iş nedir?",
+          "answer": "Önce imanın temel esaslarını ortaya koyup ispat etmek gerekir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p01:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu bahisde asıl muhatap olarak kim seçiliyor?",
+          "answer": "Mi'racı aklına uzak görüp şüpheye düşen mü’min esas muhatap alınıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde zaman zaman başka hangi kesimin de dikkate alınacağı söyleniyor?",
+          "answer": "Dinî hakikatleri inkâr eden kimse de bazen dinleyici makamında hesaba katılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Daha önce Mi'rac hakikatinin nasıl ele alındığı bildiriliyor?",
+          "answer": "Önceki bahislerde bu hakikatin sadece bazı parıltıları ve işaretleri zikredildiği söyleniyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu defa niçin ayrı bir bahis halinde ele alındığı belirtiliyor?",
+          "answer": "O dağınık işaretleri bir araya getirip meselenin aslını topluca göstermek ve Peygamber Efendimizin yüksek kemalatını daha bütünlüklü yansıtmak için ele alındığı belirtiliyor.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu giriş kısmında anlatımın dayanağı olarak neye sığınıldığı görülüyor?",
+          "answer": "İlâhî yardıma dayanıldığı ve muvaffakiyetin Allah’tan beklendiği görülüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Verilen ayetler topluluğunda Mi'racla ilgili olarak hangi genel çerçeve sezdiriliyor?",
+          "answer": "Gece yolculuğu, vahiy, yüksek dereceli müşahade ve büyük ilâhî ayetlerin görülmesi gibi bir çerçeve sezdiriliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin sonunda, ilk büyük ayetteki bir zamir üzerinden ne yapılacağı söyleniyor?",
+          "answer": "O zamirdeki belâgat inceliğine dayanan iki işaretin meseleyle ilgisi açıklanacak deniliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p01:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Girişte Mi'racın, iman esaslarıyla ilişkisi nasıl kuruluyor?",
+          "answer": "Mi'racın, iman esaslarından bağımsız bir başlangıç konusu değil; onların kabulü üzerine yükselen bir hakikat olduğu anlatılıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Mi'racın “iman nurlarından yardım alan bir nur” sayılması neyi düşündürür?",
+          "answer": "Bu ifade, Mi'racın ancak iman zemini üzerinde sağlıklı anlaşılabileceğini düşündürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde neden inkârcı kimselere Mi'racı doğrudan ispat yoluna gidilmediği açıklanıyor?",
+          "answer": "Çünkü onlar meselenin dayandığı ana inançları kabul etmedikleri için, sonuç hükmündeki bir hakikati öncelemeleri uygun görülmüyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Şüphe yaşayan mü’mine hitap edilmesi, bu kısmın amacını nasıl gösterir?",
+          "answer": "Amaç, inanç sahibi olup zihninde tereddüt yaşayan kişiyi ikna ve tatmin etmektir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde daha önce değinilen “parıltılar”ın şimdi “aslıyla birleştirilmesi” ne anlama gelir?",
+          "answer": "Parça parça ele alınmış işaretlerin bu defa düzenli ve esaslı bir bütün haline getirileceği anlamına gelir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Peygamber Efendimizin kemalatına “ayna olmak” ifadesi burada hangi maksada işaret eder?",
+          "answer": "Onun üstün manevi makamlarını ve güzelliklerini daha açık biçimde yansıtma maksadına işaret eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Ayetlerin peş peşe verilmesi, bahsin kurulacağı zemine dair ne gösterir?",
+          "answer": "Anlatımın kişisel kanaat üzerine değil, vahiy merkezli bir zemine dayandırılacağını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bu ayetlerde öne çıkan tema, sadece fizikî bir yolculuk mudur?",
+          "answer": "Hayır; vahiy, yakınlık, müşahade ve büyük ilâhî delillerin görülmesi de öne çıkarılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Son cümlede sadece bir zamirden hareketle iki işaret çıkarılacağının söylenmesi, metnin yorum tarzı hakkında ne anlatır?",
+          "answer": "Metnin, Kur’an lafızlarındaki inceliklerden anlam devşiren dikkatli ve belâgat merkezli bir yorum tarzı izlediğini anlatır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p01:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Giriş bölümünde Mi'racın hangi tür insan için anlaşılması daha mümkün görülüyor?",
+          "answer": "İman esaslarını kabul eden, fakat bu meselede zihni karışan mü’min için anlaşılması daha mümkün görülüyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Allah’ı ve peygamberliği kabul etmeyen biriyle Mi'racı konuşmanın uygun görülmemesi, mantık bakımından hangi sebebe dayanır?",
+          "answer": "Çünkü kişi, sonuca varmadan önce o sonucun dayandığı öncülleri kabul etmelidir; burada bu öncüller eksiktir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde semavâtın varlığını inkâr edenlerden söz edilmesi, Mi'rac bahsinin hangi yönünü öne çıkarır?",
+          "answer": "Mi'racın, sadece ahlâkî değil aynı zamanda gaybî ve kozmik yönleri bulunan bir mesele olduğunu öne çıkarır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu bahisde “mülhid”in bazen dinleyici makamında düşünülmesi nasıl bir anlatım yöntemi doğurur?",
+          "answer": "Hem mü’mine güven veren hem de dışarıdan gelebilecek itirazları hesaba katan bir anlatım yöntemi doğurur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "“İhvanların ısrarı” ifadesi, bu eserin ortaya çıkış sebebi hakkında ne bildirir?",
+          "answer": "Yakın çevrenin ve talep sahiplerinin isteğinin bu müstakil izahı hazırlamada etkili olduğunu bildirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Burada Mi'rac hakikatinin “lem’aları” ile “aslı” arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Önceden verilen kısa işaretlerin, şimdi asıl hakikatin etrafında toplanıp tamamlanacağı ilişkisi kuruluyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Verilen ayetler içinde gece yolculuğundan sonra vahiy ve müşahadeye geçilmesi, Mi'racın kapsamı hakkında ne düşündürür?",
+          "answer": "Mi'racın yalnız bir yer değiştirme değil; ilâhî bildirim ve yüksek hakikatlerin görülmesiyle ilgili kapsamlı bir hadise olduğunu düşündürür.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Kalbin gördüğünü yalanlamaması ve bakışın şaşmaması anlamını taşıyan ifadeler, genel olarak neyi vurgular?",
+          "answer": "Yaşanan tecrübenin vehim değil, sağlam ve güvenilir bir idrak olduğunu vurgular.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Son cümlede belâgat kuralına dayalı iki işaretin meseleye bağlanacak olması, okuyucudan nasıl bir dikkat bekler?",
+          "answer": "Okuyucudan hem lafza hem manaya dikkat eden, ince nükteleri takip eden bir zihnî dikkat bekler.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p01:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda Mi'racın doğrudan inançsızlara ispat edilmemesi, dinî meselelerin sunuluşunda hangi sırayı esas alır?",
+          "answer": "Önce temel iman hakikatlerini yerleştirip sonra onların neticelerini ele alma sırasını esas alır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre Mi'racı konuşabilmek için en az hangi inanç zemini bulunmalıdır?",
+          "answer": "Allah’a, peygambere, meleklere ve gayb âlemine dair temel kabul bulunmalıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Asıl muhatabın “vesveseye düşen mü’min” olması, anlatımın tonunu nasıl etkiler?",
+          "answer": "Sert bir münazaradan çok açıklayıcı, teskin edici ve ikna edici bir tona yöneltir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde geçen “beyan edeceğiz” ifadesi, ele alış tarzı hakkında ne gösterir?",
+          "answer": "Meselenin sistemli biçimde açıklanacağı ve okuyucunun adım adım götürüleceği izlenimini verir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Daha önce farklı yerlerde bulunan işaretlerin burada toplanması, okuyucuya ne fayda sağlar?",
+          "answer": "Dağınık bilgileri bütün halinde görmesini ve konuyu daha derli toplu kavramasını sağlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Peygamberimizin kemalatına ayna tutulması sözü, Mi'racın sadece olay yönüyle değil hangi yönüyle de ele alınacağını gösterir?",
+          "answer": "Onun manevi makamı, fazileti ve risaletindeki üstünlük yönüyle de ele alınacağını gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Ayetler arasında vahyin öğretilmesi, yüksek ufuk, yakınlık ve büyük ayetlerin görülmesi gibi unsurların yer alması, hadisenin hangi tarafını büyütür?",
+          "answer": "Olayın ilâhî, semavî ve fevkalâde tarafını büyütür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "“Kul” anlamını taşıyan ifade, Mi'rac anlatılırken Peygamber Efendimizin hangi vasfını öne çıkarır?",
+          "answer": "Onun ubudiyetini ve Allah’a tam bağlı kul oluşunu öne çıkarır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Ayetlerin sonunda büyük Rabbanî işaretlerin görülmesinden söz edilmesi, Mi'racın amacına dair hangi ipucunu verir?",
+          "answer": "Bunun, sıradan bir yolculuktan ziyade ilâhî delilleri gösteren bir tecelli ve eğitim olduğunu düşündürür.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin son cümlesinde sadece belirli bir kelimeye yoğunlaşılması, Kur’an tefsirinde nasıl bir hassasiyet bulunduğunu gösterir?",
+          "answer": "Tek bir kelimenin hatta zamirin bile derin anlamlar taşıdığı kabul edilerek çok dikkatli bir çözümleme yapıldığını gösterir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p01:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda Mi'rac, dinin hangi katmanına bağlı bir mesele olarak tanıtılıyor?",
+          "answer": "İnancın temel taşlarından sonra gelen, onlara bağlı bir iman hakikati olarak tanıtılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İman esaslarını reddedenlere Mi'racın anlatılmaması, “önce temel sonra sonuç” ilkesinin hangi örneğidir?",
+          "answer": "Sonuç hükmündeki bir meseleyi, dayandığı asıllar kurulmadan işlememek gerektiğinin örneğidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Burada muhatap alınan mü’minin problemi inkâr mıdır, yoksa zihin karışıklığı mıdır?",
+          "answer": "Esas problem inkâr değil; akla uzak görme ve bundan doğan tereddüttür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Mülhidin bazen dinleyici olarak hesaba katılması, metne nasıl bir ikinci boyut kazandırır?",
+          "answer": "Sadece iç eğitime değil, muhtemel itirazlara cevap verme boyutuna da açar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Önceki bahislerde yer alan işaretlerin şimdi bir araya getirilmesi niçin önemli olabilir?",
+          "answer": "Çünkü parçalı anlatımın eksik bıraktığı bütünlüğü tamamlar ve hakikati daha açık hale getirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Allah’tan yardım istenmesi, ilmî açıklama ile manevî edep arasında nasıl bir bağ kurar?",
+          "answer": "Bilginin sadece zihnî çaba ile değil, İlâhî tevfik ve edep içinde sunulması gerektiği bağını kurar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Ayetlerdeki sıralama, Mi'racın hem hareket hem de idrak yönü bulunduğunu nasıl hissettirir?",
+          "answer": "Önce gece yolculuğuna, sonra vahye, yakınlığa ve müşahedeye işaret edilerek hem seyir hem idrak yönü hissettirilir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Kalbin gördüğünü doğrulaması anlamındaki vurgu, bu tecrübenin hangi niteliğini öne çıkarır?",
+          "answer": "İç idrakin sağlamlığını ve yaşanan hakikatin güvenilirliğini öne çıkarır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Gözün sınırı aşmaması anlamındaki vurgu, peygamberî tecrübenin hangi özelliğini gösterir?",
+          "answer": "Ölçülü, doğru ve ilâhî terbiyeye uygun bir müşahade olduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Son cümlede iki işaretin meseleyle ilgili olduğunun söylenmesi, sonraki açıklamaların nasıl bir yöntem izleyeceğine işaret eder?",
+          "answer": "Metin, ayet içindeki ince anlam noktalarından hareket ederek Mi'racı açıklayan tahlilci bir yöntem izleyeceğine işaret eder.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p01:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Girişte Mi'racın iman esaslarından sonra gelen bir netice sayılması, onun ispat yolunda nasıl bir öncelik sırası bulunduğunu gösterir?",
+          "answer": "Önce temel iman hakikatleri kabul edilip açıklanmalı, Mi'rac meselesi bundan sonra ele alınmalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Hangi inkâr türleri Mi'racı anlamaya engel olarak sıralanıyor?",
+          "answer": "Allah’ı tanımamak, peygamberliği kabul etmemek, melekleri reddetmek ve semavî âlemi inkâr etmek engel olarak sıralanıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu bölümün hedeflediği mü’min tipi nasıl tarif edilebilir?",
+          "answer": "İnançlı olmakla beraber Mi'rac konusunda aklında uzaklık ve tereddüt hissi bulunan mü’min diye tarif edilebilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metnin zaman zaman inkârcıyı da göz önünde bulundurması, savunma yönünden ne sağlar?",
+          "answer": "Olası itirazlara peşinen temas etme ve açıklamayı daha sağlam kurma imkânı sağlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Mi'rac hakikatinin önceki yerlerde dağınık, burada ise toplu işleneceği belirtilirken ne amaçlanıyor?",
+          "answer": "Hakikatin parçalarını birleştirip daha tam, daha esaslı ve daha parlak bir görünüm kazandırmak amaçlanıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Peygamber Efendimizin kemalatının cemaline ayna olmak sözü, okuyucuda nasıl bir beklenti oluşturur?",
+          "answer": "Sadece bilgi verilmeyeceği, aynı zamanda onun yüksek makamının hayranlık uyandıracak şekilde gösterileceği beklentisini oluşturur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Ayetlerde büyük ilâhî işaretlerin görülmesinden bahsedilmesi, Mi'racın sonuçlarından biri olarak neyi düşündürür?",
+          "answer": "Peygamber Efendimize yüksek hakikatlerin gösterildiğini ve bu yolculuğun öğretici bir yön taşıdığını düşündürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metnin sonunda tek bir zamirin meseleyle irtibatlı görülmesi, Kur’an’daki ifade inceliği hakkında hangi anlayışı yansıtır?",
+          "answer": "Kur’an’daki en küçük görünen dil unsurunun bile derin manalar taşıdığı anlayışını yansıtır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p01:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajın bütünü göz önüne alındığında, ana hedef bir olayı nakletmekten çok neyi gerçekleştirmektir?",
+          "answer": "Mi'racı doğru inanç zemini üzerine oturtup şüpheleri giderecek şekilde anlamlandırmayı gerçekleştirmektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

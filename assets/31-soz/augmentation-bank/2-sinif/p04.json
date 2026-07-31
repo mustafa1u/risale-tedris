@@ -1,0 +1,751 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "31-soz:2-sinif:p04",
+  "bookSlug": "31-soz",
+  "bookTitle": "31. Söz",
+  "bookOrder": 8,
+  "gradeSlug": "2-sinif",
+  "partNo": "p04",
+  "partNumber": 4,
+  "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/31-soz/outputs/2-sinif/SveC_2sinif_31-soz-p04-birinci-esas-miracin-sirr-i-luzumu-ikinci-temsil.txt",
+  "sourceRevision": "b352a30f5a39d7d181bc22f5552aa3b473adc239be8eac9d2cdd5448c9700bc0",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde Allah’ın kullarıyla konuşmasının kaç türlü olduğu anlatılıyor?",
+          "answer": "İki türlü olduğu anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki konuşma tarzından biri nasıl bir özelliktedir?",
+          "answer": "Biri özel ve sınırlıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Öteki konuşma tarzı nasıl anlatılır?",
+          "answer": "Öteki daha geniş ve umumîdir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Mi'rac, Peygamber Efendimizin velayeti için nasıl bir makam olarak gösteriliyor?",
+          "answer": "Çok yüksek ve hepsinden üstün bir makam olarak gösteriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Mi'racda Allah ile görüşme hangi genişlikte anlatılıyor?",
+          "answer": "Bütün kâinatın Rabbi olarak bir görüşme şeklinde anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci temsilde ilk kişi güneşten nasıl faydalanıyor?",
+          "answer": "Elindeki ayna kadar faydalanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İlk kişinin aldığı ışık neden sınırlı kalıyor?",
+          "answer": "Çünkü aynası küçük ve gücü kadardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci kişi güneşi görmek için ne yapıyor?",
+          "answer": "Doğrudan güneşe yöneliyor ve yüksek yere çıkıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci kişinin gördüğü şey, ilk kişiye göre nasıldır?",
+          "answer": "Daha açık, daha geniş ve daha güçlüdür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metindeki güneş örneği bize neyi düşündürüyor?",
+          "answer": "Allah’ın yakınlığının kullarda aynı şekilde görünmediğini düşündürüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Verilen örnekte kâinatın sahibi için nasıl bir benzetme yapılıyor?",
+          "answer": "Her şeyin sahibi ve yöneticisi olduğu anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre iltifat ve sohbet her zaman aynı derecede mi olur?",
+          "answer": "Hayır, farklı derecelerde olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Mi'rac, sıradan bir manevi yakınlıktan nasıl ayrılıyor?",
+          "answer": "Daha kapsamlı ve daha yüce olmasıyla ayrılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Mi'racda Peygamber Efendimiz kimin huzuruna kabul ediliyor?",
+          "answer": "Bütün varlıkların Rabbi olan Allah’ın huzuruna kabul ediliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Ayna örneğinde ışığın kaynağı nedir?",
+          "answer": "Güneştir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Aynayı kullanan kişi güneşle nasıl bir bağ kurmuş oluyor?",
+          "answer": "Dolaylı ve küçük bir bağ kurmuş oluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Doğrudan güneşe çıkan kişi neyi daha iyi anlıyor?",
+          "answer": "Güneşin büyüklüğünü ve geniş etkisini daha iyi anlıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Sonra evine pencere açması neyi gösteriyor?",
+          "answer": "Işıktan daha çok ve sürekli faydalanmayı gösteriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İlk kişi neden ikinci kişi gibi konuşamaz?",
+          "answer": "Çünkü gördüğü şey yalnız yansıma kadardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu temsil, Mi'racın hangi yönünü açıklıyor?",
+          "answer": "Mi'racın çok yüksek ve doğrudan bir yakınlık olduğunu açıklıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde Allah’ın kullarıyla olan hitabında hangi iki özellik karşılaştırılıyor?",
+          "answer": "Özel olanla genel olan karşılaştırılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Mi'rac, velayet içinde nasıl bir görünüşe sahip deniliyor?",
+          "answer": "Yüksek ve kuşatıcı bir görünüşe sahip deniliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Mi'racda olan münacat sadece bir kişiyi mi ilgilendiriyor, yoksa daha geniş mi?",
+          "answer": "Daha geniştir, bütün varlıklarla ilgilidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci temsilde ayna neyi sınırlandırıyor?",
+          "answer": "Alınan ışığı sınırlandırıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Küçük aynayla alınan ışık neden tam güneş gibi olmaz?",
+          "answer": "Çünkü yansıma, aynanın ölçüsüne göredir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Güneşe doğrudan yönelen kişi önce ne yapıyor?",
+          "answer": "Güneşin büyüklüğünü seyrediyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Yüksek dağa çıkması hangi anlamı güçlendiriyor?",
+          "answer": "Daha geniş bir görüşe ulaşmayı güçlendiriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Sonra evine geniş açıklıklar yapması neye benzer?",
+          "answer": "Nurdan devamlı yararlanmaya benzer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre ilk kişi ile ikinci kişi arasındaki en büyük fark nedir?",
+          "answer": "Birinin dolaylı, diğerinin doğrudan faydalanmasıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S3Q4",
+            "31-soz:p04:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Buradan Mi'rac hakkında hangi sonuç çıkarılır?",
+          "answer": "Mi'rac, çok yüksek ve geniş bir ilahî yakınlıktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde anlatılan ilk ana fikir nedir?",
+          "answer": "Allah’ın hitabının iki türlü olabildiğidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bunlardan biri neden daha sınırlı sayılır?",
+          "answer": "Çünkü kişiye özel ve dar çerçevededir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Diğer hitap türü neden daha büyük sayılır?",
+          "answer": "Çünkü daha genel ve kapsayıcıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Mi'rac, Peygamber Efendimizin hangi yönüyle bağlantılı anlatılıyor?",
+          "answer": "Velayetinin üstünlüğüyle bağlantılı anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Mi'racdaki görüşme ve yakınlık hangi isimle genişletiliyor?",
+          "answer": "Bütün kâinatın Rabbi oluşuyla genişletiliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci temsilde ayna sahibi ışığı nereye taşıyor?",
+          "answer": "Kendi küçük yerine taşıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu taşıma bize nasıl bir faydayı anlatıyor?",
+          "answer": "Az ve ölçülü bir faydayı anlatıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Güneşe doğrudan çıkan kişi neyi perdesiz görmüş oluyor?",
+          "answer": "Güneşi daha açık şekilde görmüş oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Eve açılan pencereler neyi kolaylaştırıyor?",
+          "answer": "Işığın sürekli gelmesini kolaylaştırıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde ikinci yol niçin daha üstün görünür?",
+          "answer": "Çünkü daha doğrudan, daha geniş ve daha güçlüdür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre Allah’ın kullarıyla muamelesi tek biçim midir?",
+          "answer": "Hayır, iki biçimdir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Özel olan görüşme nasıl bir alana benzer?",
+          "answer": "Dar bir alana benzer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Genel olan görüşme nasıl bir alana benzer?",
+          "answer": "Geniş ve kuşatıcı bir alana benzer.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Mi'rac, diğer velayetlere göre hangi üstünlüğe sahiptir?",
+          "answer": "Hepsinden daha kapsamlı ve daha yücedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Mi'racdaki şeref, Allah’ın hangi yönleriyle ilgilidir?",
+          "answer": "Bütün varlıkların Rabbi ve yaratıcısı olmasıyla ilgilidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Ayna örneğinde kişi güneşi kendisi mi görüyor, yansımasını mı?",
+          "answer": "Yansımasını görüyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Yansıma ile yetinmek neden eksik kalır?",
+          "answer": "Çünkü güneşin tamamını göstermez.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Doğrudan karşıya geçen kişi neyi daha çok fark eder?",
+          "answer": "Güneşin heybetini ve yaygın ışığını daha çok fark eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Küçük yere gelen ışık ile dünyayı aydınlatan ışık aynı genişlikte midir?",
+          "answer": "Hayır, aynı genişlikte değildir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu fark, Mi'rac için neyi öğretir?",
+          "answer": "Mi'racın dar değil, çok geniş bir yakınlık olduğunu öğretir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde geçen iki tarz konuşmadan biri kişiye özel ise, diğeri nasıldır?",
+          "answer": "Herkesi ilgilendiren geniş bir tarzdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Mi'rac, Peygamber Efendimizin manevi yolculuğunda nasıl bir derece sayılıyor?",
+          "answer": "Çok yüce bir derece sayılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu derece neden çok büyük gösteriliyor?",
+          "answer": "Çünkü bütün kâinatla ilgili bir yakınlık anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci temsilde ayna tutan kişinin elde ettiği şey tam kaynak mıdır?",
+          "answer": "Hayır, kaynağın yansımasıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Yansımanın sınırlı olması neye bağlıdır?",
+          "answer": "Aynanın ölçüsüne bağlıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Güneşe doğrudan yönelen kişi hangi bakımdan daha ileridedir?",
+          "answer": "Görüşü ve faydalanması daha geniştir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Yüksek yere çıkmak örnekte neyi artırıyor?",
+          "answer": "Görmeyi ve anlamayı artırıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Geri dönüp açıklıklar açması neyi gösteriyor?",
+          "answer": "Nurla daha devamlı bağ kurmayı gösteriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p04:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "İlk kişi ile ikinci kişi arasındaki farkı bir kelimeyle nasıl söyleyebiliriz?",
+          "answer": "Biri dolaylı, biri doğrudandır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p04:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin ana mesajı Mi'rac hakkında bize ne söyler?",
+          "answer": "Mi'racın çok üstün, geniş ve özel bir ilahî görüşme olduğunu söyler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

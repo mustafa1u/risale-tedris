@@ -1,0 +1,825 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:lisans:p19",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "lisans",
+  "partNo": "p19",
+  "partNumber": 19,
+  "title": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/lisans/SveC_lisans_32-soz-p19-2-mevkif-1-maksad-birinci-sual-ve-semavat-arzdan-tevhid-deliline-giris.txt",
+  "sourceRevision": "67274a265d09d26bad37d08ceff6d1e4a2b71fd441830d86d0aa06d607b8e6c9",
+  "setCount": 6,
+  "questionCount": 69,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümün başında hangi temel inanç esası öne çıkarılmaktadır?",
+          "answer": "Allah’ın birliği ve hiçbir şeye muhtaç olmayışı öne çıkarılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu mevkıfın yapısı hakkında ne bilgi verilmektedir?",
+          "answer": "Üç ana maksat üzerine kurulduğu bildirilmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İlk soruyu ortaya atan taraf nasıl tasvir edilmektedir?",
+          "answer": "Sapkın düşünceyi temsil eden ve ortak koşma fikrine yer arayan bir vekil gibi sunulmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu kişinin önceki iddiasından niçin geri adım attığı belirtilmektedir?",
+          "answer": "Varlıklar içinde inancını destekleyecek gerçek bir pay ve dayanak bulamadığı için geri çekildiği anlatılmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p19:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Buna rağmen hangi yolla şüphe uyandırmak istemektedir?",
+          "answer": "Doğrudan ispat getiremeyince, birlik inancına dair kurcalayıcı sorularla vesvese vermeye çalışmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p19:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İlk sorunun özünde hangi mesele bulunmaktadır?",
+          "answer": "Sonsuz kudret sahibi tek bir Yaratıcı’nın hangi delillerle bilindiği ve neden başka faillerin bu işe ortak olamayacağı sorulmaktadır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Cevapta, varlıkların genel olarak neye delil olduğu söylenmektedir?",
+          "answer": "Bütün varlıkların ve onların en küçükten en büyüğe kadar her unsurunun Allah’ın varlığına ve birliğine işaret ettiği ifade edilmektedir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an’ın burada özellikle hangi tür delilleri öne çıkardığı belirtilmektedir?",
+          "answer": "İnsanların kolayca görebileceği açık ve yaygın delilleri öne çıkardığı belirtilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Göklerin ve yerin yaratılışı niçin güçlü bir delil sayılmaktadır?",
+          "answer": "Çünkü şuurlu insan bunlara bakınca zorunlu olarak bir Yaratıcı’yı kabul etmeye yönelir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde, en küçük varlıktan göklere kadar uzanan çizginin amacı nedir?",
+          "answer": "Kâinatın her seviyesinde birlik mührünün bulunduğunu göstermek ve ortaklık düşüncesini dışlamaktır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu parçada neden özellikle “başka ellerin karışması” kabul edilmemektedir?",
+          "answer": "Çünkü her şeyi kuşatan mutlak kudret varken ayrıca ikinci bir fail varsaymaya ihtiyaç kalmamaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Buradan çıkarılacak ana sonuç nedir?",
+          "answer": "Kâinat, tek bir ilahî kudretin eseri olarak görülmekte; şirk ise delilsiz ve temelsiz bir iddia sayılmaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci mevkıfın girişinde verilen ayetler hangi iki sıfatı öne çıkarmaktadır?",
+          "answer": "Allah’ın tek oluşu ve her şeyin O’na muhtaç olduğu hakikati öne çıkarılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İlk maksat içinde karşımıza çıkan itirazcı neyi başaramadığını itiraf etmektedir?",
+          "answer": "Varlık âleminde kendi iddiasını destekleyecek bir pay veya kanıt ortaya koyamadığını kabul etmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "İtirazcı, başarısız olduktan sonra hangi alana yönelmektedir?",
+          "answer": "Birlik inancını çürütmekten çok, o inanç hakkında şüphe doğurmaya yönelmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p19:lisans:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Onun sorduğu ilk soru hangi iki başlıkta toplanabilir?",
+          "answer": "Birincisi tek Yaratıcı’nın nasıl ispat edildiği, ikincisi de niçin başka ortakların kabul edilmediğidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p19:lisans:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Verilen cevapta, sadece büyük varlıklar mı delil gösterilmektedir?",
+          "answer": "Hayır, hem çok büyük yapılar hem de en küçük parçalar delil olarak gösterilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an’dan örnek verilen deliller hangi alanlara dikkat çekmektedir?",
+          "answer": "Göklerin ve yerin yaratılışına, ayrıca insanlar arasındaki dil ve renk farklılıklarına dikkat çekmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "İnsanların dil ve renk bakımından farklı olması burada niçin önemlidir?",
+          "answer": "Bu çeşitlilik, bilinçli bir düzenleme ve hikmet bulunduğunu göstermesi bakımından önemlidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde “zîşuur” kimse için nasıl bir sonuç zorunlu görülmektedir?",
+          "answer": "Düşünen insanın, kâinattaki yaratılıştan hareketle Yaratıcı’yı kabul etmesi gerektiği söylenmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Birinci Mevkıf’a yapılan gönderme bu bölümde ne işe yarıyor?",
+          "answer": "Önceden küçük varlıklardan yıldızlara kadar gösterilen birlik delillerini burada yeniden hatırlatıp tamamlayıcı bir çerçeve kuruyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Kur’an’ın göklerden zerrelere kadar uzanan işaretinin şirkle ilişkisi nedir?",
+          "answer": "Bu işaret, her kademede ortaklık düşüncesini dışarıda bırakan bir düzen bulunduğunu anlatmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Buradaki akıl yürütme daha çok gözleme mi, yoksa kör taklide mi dayanmaktadır?",
+          "answer": "Gözleme, düşünmeye ve varlıklardaki delilleri fark etmeye dayanmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın ana fikrini bir cümleyle nasıl özetlersin?",
+          "answer": "Kâinatın tamamı, akıl sahibi insan için Allah’ın varlığına ve birliğine açık deliller sunmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci mevkıfta ele alınan ilk tartışma hangi inanç problemine yöneliktir?",
+          "answer": "Tevhid ile şirk arasındaki temel ayrımı açıklamaya yöneliktir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Metindeki muhalif kişi neden “vekil” gibi sunulmuş olabilir?",
+          "answer": "Kendi başına sağlam bir hakikati değil, yanlış bir görüşü savunmaya çalışan temsilci konumunda olduğu için böyle sunulmuştur.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu kişinin “bir hisse çıkaramadım” anlamındaki itirafı neyi gösterir?",
+          "answer": "Varlık düzeni içinde çok ilahlılığı destekleyen somut bir işaret bulamadığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p19:lisans:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Buna rağmen soru sorması nasıl bir psikolojiyi yansıtır?",
+          "answer": "Delil getiremeyince zihin bulandırma ve tereddüt üretme tavrını yansıtır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p19:lisans:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Cevabın başında önce hangi kaynak ve dayanak hatırlatılmaktadır?",
+          "answer": "Daha önce kesin şekilde ispatlandığı belirtilen deliller ve bütün varlıkların şahitliği hatırlatılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Varlıkların her birinin delil sayılması ne anlama gelir?",
+          "answer": "Her şeyin, kendi yapısı ve düzeniyle tek bir Zorunlu Varlık’a işaret etmesi anlamına gelir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Kâinattaki “silsileler”in birlik için delil olması nasıl anlaşılmalıdır?",
+          "answer": "Varlıkların birbirine bağlı, düzenli ve uyumlu oluşu tek merkezli bir yönetimi göstermektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an’ın “en açık delilleri” özellikle zikretmesi muhatap açısından ne sağlar?",
+          "answer": "Herkesin anlayabileceği seviyede ikna edici ve görünür örnekler sunar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Göklerin ve yerin yaratılışının apaçık bir delil sayılması hangi düşünceye dayanır?",
+          "answer": "Böylesine kapsamlı ve düzenli bir yaratılışın sahipsiz veya çok ortaklı olamayacağı düşüncesine dayanır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre, şuurlu insanın bu delil karşısındaki tavrı ne olmalıdır?",
+          "answer": "İster istemez Yaratıcı’yı tasdik etmelidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "“Yıldızlardan başlayıp zerrelere kadar” ifadesi hangi öğretim yöntemini düşündürür?",
+          "answer": "Büyükten küçüğe veya küçükten büyüğe giderek aynı hakikati her seviyede gösteren bütüncül bir yöntemi düşündürür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan hareketle şirk iddiasının zayıflığı nasıl ifade edilebilir?",
+          "answer": "Çünkü kâinatın hiçbir noktasında onu destekleyecek gerçek bir dayanak görünmemektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu metinde ilk soru etrafında hangi taraflar karşı karşıya getirilmektedir?",
+          "answer": "Tevhid ehli ile şirk ve dalalet adına konuşan itirazcı taraf karşı karşıya getirilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İtirazcının kendi görüşü için delil bulamaması neden önemlidir?",
+          "answer": "Çünkü bu, savunduğu düşüncenin varlık düzeniyle uyuşmadığını göstermektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Yine de soru sorması hangi yöntemi ortaya koyar?",
+          "answer": "Doğrudan ispat yerine kuşku üretmeye dayalı bir yöntemi ortaya koyar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p19:lisans:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Cevapta varlıkların tamamı için kullanılan ortak işlev nedir?",
+          "answer": "Hepsinin ilahî varlığa ve birliğe işaret eden birer belge gibi değerlendirilmesidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Yalnız tek tek nesneler değil, kâinattaki bağlantılar da neden delil kabul edilmektedir?",
+          "answer": "Çünkü düzenli bağlar ve zincirleme ilişkiler tesadüfî değil, tek bir idarenin eseri olduğunu düşündürür.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an’ın gökler ve yer üzerinden delil getirmesi muhataba nasıl hitap eder?",
+          "answer": "Her insanın görebileceği büyük ve açık yaratılış tabloları üzerinden hitap eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İnsanların dilleri ve renkleri arasındaki farklılık niçin ayet olarak gösterilmektedir?",
+          "answer": "Çeşitlilik içinde düzen ve hikmet bulunduğunu gösterdiği için ayet sayılmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde “mecbur kalmak” anlamı taşıyan ifade neyi anlatır?",
+          "answer": "Akıl sahibi kişinin bu deliller karşısında Yaratıcı’yı kabul etmekten kaçamayacağını anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Birinci Mevkıf’taki anlatımın burada yeniden anılması neyi pekiştirir?",
+          "answer": "En küçük parçadan en büyük gök cisimlerine kadar aynı tevhid mührünün bulunduğunu pekiştirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Şirkin “kovulması” ifadesi mecaz olarak ne anlama gelir?",
+          "answer": "Varlık düzeninin hiçbir alanında ortaklık düşüncesine yer bırakmaması anlamına gelir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda ulaşılması beklenen inanç sonucu nedir?",
+          "answer": "Tek yaratıcıya iman etmek ve başka güçlere ilahlık payı vermemektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "“Üç maksat” ifadesi bu metnin anlatımı hakkında ne düşündürür?",
+          "answer": "Konunun düzenli ve aşamalı biçimde ele alınacağını düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İlk maksat başlamadan önce karşı tarafın durumu nasıl özetlenmektedir?",
+          "answer": "Şirk lehine bir alan bulamamış, fakat soru yoluyla rahatsızlık vermek isteyen biri olarak özetlenmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu kişinin iddiasını sürdürememesinin temel sebebi nedir?",
+          "answer": "Mevcudat içinde ortak koşmayı doğrulayacak bir dayanak bulamamasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p19:lisans:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İlk soruda “sonsuz kudret” vurgusunun yapılması niçin önemlidir?",
+          "answer": "Çünkü tartışma, tek bir ilahî kudretin yeterliliği ve başka kudretlere ihtiyaç olup olmadığı etrafında dönmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Cevapta bütün zerreler ve yıldızlar neden birlikte anılmaktadır?",
+          "answer": "En küçük ile en büyük arasında aynı ilahî delilin görüldüğünü göstermek için birlikte anılmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "“Parlak delil” anlamındaki anlatım burada neyi ifade eder?",
+          "answer": "Allah’ın varlığını ve kudretini açıkça gösteren güçlü işaretleri ifade eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Kâinattaki bütün düzenli diziler neden birlik lehine okunmaktadır?",
+          "answer": "Çünkü çoklu ve çatışmalı fail fikrine değil, tek bir düzenleyici fikrine daha uygun düşmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an’ın delilleri “herkesin nazarına açık” şekilde sunması eğitim açısından ne sağlar?",
+          "answer": "İnancı soyut tartışmadan çıkarıp gözlenebilir işaretlerle anlaşılır hale getirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Göklerin ve yerin yaratılışına bakarak Allah’ı kabul etmek neden “zarurî” görülmektedir?",
+          "answer": "Çünkü bu kadar kapsamlı ve ölçülü yaratılış, aklı sahibine kendiliğinden bir Yaratıcı’yı düşündürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Burada tevhid delillerinin kapsamı hangi sınırlar arasında çizilmektedir?",
+          "answer": "Zerreden yıldızlara ve yerden göklere kadar bütün varlık alanını kuşatmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçayı okuyan bir öğrencinin kavraması gereken ana ders nedir?",
+          "answer": "Kâinatı dikkatle okuyanın, Allah’ın birliğini gösteren işaretleri her düzeyde görebileceğidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci mevkıfın başındaki ayetler metnin ana konusunu nasıl çerçeveler?",
+          "answer": "Tek ilah inancını ve Allah’ın mutlak yeterliliğini merkeze alarak çerçeveler.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İlk maksat içinde sözü geçen muhalif, kendi görüşünü niçin doğrudan savunamamaktadır?",
+          "answer": "Çünkü varlıklar içinde bu görüşü doğrulayacak somut bir delil bulamamaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Muhalifin buna rağmen soru sorması hangi amacı taşır?",
+          "answer": "İnananların zihnine tereddüt düşürmek ve kesinliği zayıflatmak amacını taşır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p19:lisans:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Soruda geçen “başka eller” ifadesi neyi temsil eder?",
+          "answer": "Yaratma ve yönetmede Allah’tan başka güçlerin pay sahibi olduğu iddiasını temsil eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Cevabın ilk kısmında önce hangi genel hüküm verilmektedir?",
+          "answer": "Bütün varlıkların Allah’ın varlığına, mutlak kudretine ve birliğine delil olduğu hükmü verilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu hükmü desteklemek için Kur’an hangi gözle görünür alanlara yönlendirir?",
+          "answer": "Kâinatın büyük yaratılış sahnelerine ve insanlar arasındaki belirgin farklılıklara yönlendirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İnsan çeşitliliğinin delil sayılması hangi manayı taşır?",
+          "answer": "Farklılıkların rastgele değil, bilgi ve hikmetle takdir edildiği manasını taşır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Şuurlu insanın zorunlu olarak tasdike yönelmesi neye bağlıdır?",
+          "answer": "Önündeki açık yaratılış delillerini dürüstçe değerlendirmesine bağlıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Önceki mevkıfta zerreden yıldıza çıkılması ile burada gökten zerreye inilmesi arasında nasıl bir ilişki vardır?",
+          "answer": "İkisi de farklı yönlerden ilerlese de aynı tevhid hakikatini bütün kâinata yayılmış biçimde göstermektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Şirkin her seviyede reddedilmesi ne tür bir bütünlük ortaya koyar?",
+          "answer": "İnanç ile kâinat düzeni arasında tam bir uyum bulunduğunu ortaya koyar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p19:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölümün mesajını kısa ve açık biçimde nasıl ifade edersin?",
+          "answer": "Kâinatın her tarafı, Allah’ın tek ve mutlak Yaratıcı olduğunu bildiren işaretlerle doludur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:lisans:p49",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "lisans",
+  "partNo": "p49",
+  "partNumber": 49,
+  "title": "30. Pencere: hudûs delili",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/lisans/SveC_lisans_33-soz-p49-30-pencere-hudus-delili.txt",
+  "sourceRevision": "908ec545f8bdfbeeb3095e526ad6278810030c4aec4a56f541a8237e780379fe",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p49:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Hudûs delilinde mütekellimîn âlem hakkında hangi temel tesbiti yapıyor?",
+          "answer": "Âlemin değişen bir varlık olduğunu, değişen her şeyin de sonradan meydana geldiğini söylüyorlar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu görüşten hareketle kâinat hakkında hangi sonuca ulaşılıyor?",
+          "answer": "Sonradan meydana gelen bu âlemin bir yapıcısı ve var edicisi bulunduğu neticesine varılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p49:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde kâinatın sonradan yaratıldığı hangi gözleme dayanarak açıklanıyor?",
+          "answer": "Zaman içinde sürekli yenilenme görülmesine; dönem dönem bir düzenin gidip yerine yenisinin gelmesine dayanarak açıklanıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Mevsimlerin değişimi burada nasıl bir delil olarak kullanılıyor?",
+          "answer": "Her mevsimde âdeta yeni bir âlem sergilenmesi, kudret sahibi bir Yaratıcının tekrar tekrar yaratmasına işaret sayılıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bahar için neden “yenilenen küçük bir kâinat” gibi bir anlam çıkarılabilir?",
+          "answer": "Çünkü baharda göz önünde çok geniş bir diriliş, tazelenme ve yeniden ortaya çıkış görülüyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre bu yenilenmelerin “hiçten” olması neyi vurgular?",
+          "answer": "Varlıkların kendi kendine değil, doğrudan kudret sahibi bir Fail tarafından yokluktan var edildiğini gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Art arda gelen bu âlemlerin zamanla ilişkisi nasıl tasvir ediliyor?",
+          "answer": "Sanki peş peşe dizilip zaman akışı üzerinde gösterilen sahneler gibi anlatılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Sürekli yeni âlemler yaratan Zât hakkında asıl hüküm nedir?",
+          "answer": "Bu yenileyen kudretin mevcut büyük âlemi de yaratanın kendisi olduğu belirtiliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Yeryüzünün misafirhane olarak nitelenmesi neyi anlatır?",
+          "answer": "Yeryüzünün gelip geçen canlılara ve topluluklara geçici bir konak yeri olarak hazırlandığını anlatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçanın ana fikri nedir?",
+          "answer": "Kâinattaki sürekli değişim ve yenilenme, ezelî kudret sahibi tek bir Yaratıcının varlığına açık bir delildir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p49:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Hudûs bahsinde “değişme” ile “sonradan olma” arasında nasıl bir bağ kuruluyor?",
+          "answer": "Değişen şeyin sabit ve ezelî olamayacağı, bu yüzden sonradan meydana gelmiş sayılacağı ifade ediliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Sonradan meydana gelmiş bir şey için neden bir muhdis kabul ediliyor?",
+          "answer": "Çünkü kendi kendine varlık kazanması makul görülmeyip onu ortaya çıkaran bir fail gerektiği kabul ediliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde sadece genel kâinata değil, hangi zaman ölçeklerine de dikkat çekiliyor?",
+          "answer": "Asra, seneye, mevsime hatta güne kadar inen bir yenilenme düzenine dikkat çekiliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Her gün veya her mevsimde yeni bir yaratılıştan söz edilmesi neyi güçlendiriyor?",
+          "answer": "Yaratmanın uzak bir geçmişte kalmış tek seferlik değil, devam eden bir fiil olduğunu gösteriyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Ehl-i şuurun bu yaratılışları görmesi neden özellikle zikredilmiş olabilir?",
+          "answer": "Çünkü akıl ve idrak sahipleri bu değişimlerden ibret alıp Yaratıcıyı tanımaya yönelsin diye.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde eski âlemin alınması, yenisinin getirilmesi hangi ilahî sıfata işaret eder?",
+          "answer": "Sonsuz kudret ve sürekli tasarruf sahibi olmaya işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bahar manzaralarının kudret mucizeleri sayılmasının sebebi nedir?",
+          "answer": "Çok sayıda canlının ve düzenin yeniden ortaya çıkması, olağan bir dönüşümden öte yaratıcı bir fiil göstermesidir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "“Âlem içinde âlemler yaratmak” ifadesinden ne anlaşılır?",
+          "answer": "Büyük kâinatın içinde de durmadan yenilenen çok sayıda canlılık ve düzen sahnesi bulunduğu anlaşılır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Yeryüzünün büyük misafirlere hazırlanmış yer sayılması insanı hangi düşünceye sevk eder?",
+          "answer": "Dünya hayatının kalıcı değil geçici olduğu ve canlıların burada bir süre ağırlanıp sonra ayrıldığı düşüncesine sevk eder.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçaya göre hudûs delilinin insana verdiği en temel ders nedir?",
+          "answer": "Göz önündeki yenilenmeleri dikkatle okuyanın, kâinatın sahipsiz olmadığını anlayacağıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p49:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Mütekellimînin hudûs delilini birkaç adım halinde özetler misin?",
+          "answer": "Önce âlemin değiştiği söyleniyor; sonra değişenin sonradan olduğu kabul ediliyor; ardından sonradan olanın bir var edicisi bulunduğu sonucuna ulaşılıyor.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Metindeki “biz de deriz” ifadesi nasıl bir işlev görüyor?",
+          "answer": "Klasik delilin kabul edildiğini, ardından bunun gözleme dayalı bir açıklamayla desteklendiğini gösteriyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Kâinatın hâdis oluşuna dair verilen örnekler neden farklı zaman dilimlerinden seçilmiş olabilir?",
+          "answer": "Yenilenmenin istisna değil sürekli ve çok katmanlı olduğunu göstermek için.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre her sene ortaya çıkan yeni düzenler neyin delilidir?",
+          "answer": "Celâl sahibi kudretli bir Yaratıcının yeni yaratışlarının delilidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "“Gözümüzün önünde gelip giden kâinatlar” sözü nasıl anlaşılmalıdır?",
+          "answer": "Özellikle tabiattaki büyük dönüşümlerin, insanın bizzat müşahede edebildiği yaratılış sahneleri olduğu anlaşılmalıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu parçaya göre görülen değişim, tesadüften çok hangi hakikate işaret eder?",
+          "answer": "Bilinçli, kudretli ve iradeli bir yaratmaya işaret eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Sürekli yenileme fiili ile ilk yaratma arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Devamlı yenileyen kudretin başlangıçta da aynı âlemi yaratmış olduğu söyleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Rûy-i zemin için misafirhane benzetmesi hangi yönüyle anlamlıdır?",
+          "answer": "Çünkü üzerinde kalanlar sürekli değişir, gelen gider; mekân ise geçici ikamete uygun şekilde hazırlanmıştır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu pasajda gözlem ile aklî çıkarım nasıl birleşiyor?",
+          "answer": "Önce mevsimsel ve dönemsel değişimler gözleniyor, ardından bunlardan bir Yaratıcının varlığına aklî hüküm çıkarılıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın sonunda ulaşılan inanç esası nedir?",
+          "answer": "Dünyayı ve onda sürekli yenilenen hayat tablolarını yaratan tek bir Kadîr-i Zülcelâl bulunduğu esasıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p49:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Hudûs delili metinde hangi kavrama dayanarak başlatılıyor?",
+          "answer": "Âlemin sürekli başkalaşan bir yapıda olduğu düşüncesine dayanarak başlatılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Değişmenin görülmesi, kâinatın ezelî olmadığını nasıl düşündürür?",
+          "answer": "Çünkü ezelî olanın gelip gitme ve yenilenme gibi sonradanlık belirtileri taşımaması beklenir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Metin, yalnız bir defalık yaratmadan mı söz ediyor, yoksa süreklilikten mi?",
+          "answer": "Sürekliliği vurguluyor; yaratmanın devam ettiğini anlatıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "“Her asırda, her senede, her mevsimde” şeklindeki sıralama neyi kuvvetlendirir?",
+          "answer": "Yaratmanın farklı ölçülerde tekrarlandığını ve her seviyede gözlenebildiğini kuvvetlendirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Her gün yeni bir yaratıştan söz edilmesi, insanın dikkatini nereye çevirir?",
+          "answer": "Uzak geçmişe değil, her gün önünde gerçekleşen ilahî tasarrufa çevirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Baharlardaki ortaya çıkış ve kayboluş niçin kudret mucizesi kabul ediliyor?",
+          "answer": "Çünkü çok geniş çaplı canlılık düzeni düzenli biçimde beliriyor, sonra çekiliyor ve bu büyük bir kudreti gösteriyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metindeki zincirleme tasvir zaman hakkında nasıl bir anlayış sunuyor?",
+          "answer": "Zamanın, ardı ardına sergilenen yaratılış tablolarının taşındığı bir akış gibi düşünüldüğünü sunuyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Sürekli değişen âlemleri yaratanla mevcut âlemi yaratanın aynı olması neden mantıklıdır?",
+          "answer": "Çünkü aynı türden büyük yaratma fiillerini devamlı yapanın, bu genel âlemi de yapmış olması tabiî bir sonuçtur.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Dünyanın misafirhane oluşu insan hayatının hangi yönünü hatırlatır?",
+          "answer": "Fânilik ve geçicilik yönünü hatırlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajdan çıkarılabilecek tevhid dersi nedir?",
+          "answer": "Kâinattaki devamlı yenilenme tek bir Yaratıcının hâkimiyetini gösterir; varlıklar başıboş değildir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p49:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Mütekellimîn hudûs delilinde âlemi hangi iki nitelik üzerinden değerlendiriyor?",
+          "answer": "Değişiyor olması ve bu yüzden sonradan meydana gelmiş bulunması üzerinden değerlendiriyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Sonradan meydana gelen her şey için niçin bir mucid gerektiği düşünülüyor?",
+          "answer": "Çünkü varlık kazanması kendinden açıklanamayacağı için onu ortaya koyan bir sebep aranıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Metin kâinatın yenilenmesini hangi örnek düzen içinde sunuyor?",
+          "answer": "Asırdan seneye, mevsimden güne uzanan tekrarlı bir yenilenme düzeni içinde sunuyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Her mevsimde yeni bir âlemden söz etmek, tabiata bakışı nasıl değiştirir?",
+          "answer": "Tabiatı sıradan bir döngü değil, tekrar tekrar gerçekleşen yaratılış tecellisi olarak görmeye yöneltir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Burada “ehl-i şuur” ifadesiyle kimler kastediliyor olabilir?",
+          "answer": "Düşünebilen, fark edebilen ve ibret alabilen bilinç sahipleri kastediliyor olabilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Hiçten yaratmanın özellikle belirtilmesi hangi yanlış düşünceyi reddeder?",
+          "answer": "Varlıkların kendi başına ya da yalnız mevcut maddelerin oyunu ile ortaya çıktığı düşüncesini reddeder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bir âlemin alınması, yerine diğerinin getirilmesi nasıl bir tasarruf anlayışı gösterir?",
+          "answer": "Her an hükmeden, değiştiren ve yenileyen aktif bir ilahî idare anlayışı gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Baharın kudret delili olması ile bütün âlemin yaratılması arasında nasıl bir bağ kuruluyor?",
+          "answer": "Küçük ölçekte tekrar edilen büyük yaratışlar, bütün âlemi yaratan kudretin aynı olduğunu düşündürüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Yeryüzünün konuklara ayrılmış yer gibi tasarlanması, canlıların dünyadaki durumunu nasıl açıklar?",
+          "answer": "Kalıcı malik değil, bir süre kalıp ayrılan yolcular gibi olduklarını açıklar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Pasajın bütününe bakıldığında hangi imanî sonuç öne çıkıyor?",
+          "answer": "Kâinatın değişimi ve yenilenmesi, kadîm kudret sahibi bir Yaratıcının varlığını ve fiilini açıkça göstermektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p49:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Hudûs kelâmî delili bu pasajda en kısa şekilde hangi hükme bağlanıyor?",
+          "answer": "Değişen âlemin sonradan yaratıldığı ve bu yüzden bir Yaratıcıya muhtaç olduğu hükmüne bağlanıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Kâinatta görülen yenilenmeler niçin önemli bir gözlem sayılıyor?",
+          "answer": "Çünkü varlığın sabit ve kendi kendine duran bir yapı değil, sürekli tazelenen bir yaratılış sahası olduğunu gösteriyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde “bir âlem gider, biri gelir” fikri neyi anlatmak için kullanılmıştır?",
+          "answer": "Eski düzenlerin çekilip yerlerine yenilerinin gelmesiyle devam eden ilahî tasarrufu anlatmak için kullanılmıştır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Günlük, mevsimlik ve yıllık değişimler birlikte düşünülünce nasıl bir sonuç çıkar?",
+          "answer": "Yaratmanın tek seferlik değil, sürekli ve kat kat tecelli eden bir hakikat olduğu sonucu çıkar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Baharların özel olarak anılması hangi yönüyle anlamlıdır?",
+          "answer": "Çünkü baharda çok sayıda varlık birden canlanır ve bu, yaratma kudretini açıkça gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu yaratılışların bilinç sahiplerine gösterilmesi hangi hikmete işaret eder?",
+          "answer": "İnsanların ibret alıp Yaratıcıyı tanımasına ve gafletten uyanmasına işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre her vakit yeni âlemler meydana getiren Zât için hangi daha geniş hüküm veriliyor?",
+          "answer": "Böyle bir Zâtın içinde bulunduğumuz büyük âlemi de yaratmış olduğu söyleniyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Dünya ve yeryüzü neden misafir ağırlayan bir mekâna benzetiliyor?",
+          "answer": "Çünkü üzerinde bulunanlar devamlı değişiyor; gelenler kısa süre kalıp yerlerini başkalarına bırakıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu pasajda gözle görülen olaylardan görünmeyen hakikate nasıl geçiliyor?",
+          "answer": "Dış dünyadaki sürekli değişim ve tazelenmeden, bunları yapan kudret sahibi Yaratıcının varlığına geçiliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p49:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Son cümledeki misafirhane benzetmesi ahiret düşüncesiyle nasıl uyumludur?",
+          "answer": "Dünyanın geçici bir konak yeri olduğunu hissettirdiği için insanı kalıcı yurdun başka olduğu fikrine hazırlar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

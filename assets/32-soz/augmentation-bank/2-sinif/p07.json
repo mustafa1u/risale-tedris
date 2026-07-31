@@ -1,0 +1,1102 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:2-sinif:p07",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "2-sinif",
+  "partNo": "p07",
+  "partNumber": 7,
+  "title": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/2-sinif/SveC_2sinif_32-soz-p07-1-mevkif-hasiye-i-beden-tertibi-teneffus-kanin-tasfiyesi-ve-hararet-i-gariziye.txt",
+  "sourceRevision": "c140b4531dafd0cfa301bcfc78a3a4e110744552081de1018dafa5ebd2b0597e",
+  "setCount": 6,
+  "questionCount": 86,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Havada kaç çeşit madde bulunduğu anlatılıyor?",
+          "answer": "İki çeşit madde bulunduğu anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki maddeden birinin adı nedir?",
+          "answer": "Azottur.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Diğer madde ne yapınca kana dokunmuş oluyor?",
+          "answer": "Nefesin içinde gelince kana ulaşıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Kana karışıp onu kirleten şey hangisidir?",
+          "answer": "Karbondur.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "O madde karbonla karşılaşınca ne yapıyor?",
+          "answer": "Onu kendine çekip birleşiyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu birleşmeden sonra ortaya nasıl bir sonuç çıkıyor?",
+          "answer": "Yeni bir madde meydana geliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu olay beden için iki fayda sağlıyor. Bunlar nelerdir?",
+          "answer": "Vücudun sıcaklığını sağlıyor ve kanı temizliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İki maddenin birbirine güçlü şekilde yönelmesi kime verilen bir kanunla oluyor?",
+          "answer": "Allah’ın koyduğu kanunla oluyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İki şey birleşince neden sıcaklık ortaya çıkıyor?",
+          "answer": "Çünkü birleşme sırasında bir çeşit yanma gibi bir durum oluyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Birleşmeden önce zerrelerin durumu nasıldır?",
+          "answer": "Her birinin ayrı hareketi vardır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Birleştikten sonra hareketlerde nasıl bir değişiklik olur?",
+          "answer": "İkisi tek hareket gibi olur, biri açıkta kalır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Açıkta kalan hareket neye dönüşür?",
+          "answer": "Isıya dönüşür.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S1Q11"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Nefes içeri girince vücutta hangi iki işi yapıyor?",
+          "answer": "Hayat için gerekli sıvıyı temizliyor, yaşam ateşini de canlandırıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Nefes dışarı çıkınca ağızda neye vesile oluyor?",
+          "answer": "Sözlerin çıkmasına vesile oluyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S1Q15",
+          "sourceQuestionId": "S1Q15",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 15,
+          "question": "Bu anlatımın sonunda neye dikkat çekiliyor?",
+          "answer": "Allah’ın sanatının insanı hayrette bıraktığına dikkat çekiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada havada bulunan unsurların sayısı kaçtır?",
+          "answer": "İkidir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Anlatılan olayda nefes niçin önemlidir?",
+          "answer": "Çünkü nefes, bir maddeyi kana ulaştırır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Kana ulaşan bu madde, kandaki hangi şeyi kendine alıyor?",
+          "answer": "Karbonu alıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Karbon neden alınmaktadır?",
+          "answer": "Çünkü kanı kirletmektedir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İki unsur bir araya gelince yalnız kan mı etkileniyor, yoksa sıcaklık da mı oluşuyor?",
+          "answer": "Sıcaklık da oluşuyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada bu yakınlığa bilimde ne dendiği belirtiliyor?",
+          "answer": "Kimyevî bir çekim denildiği belirtiliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bu çekim kendi kendine başıboş bir iş gibi mi anlatılıyor, yoksa ölçülü bir kanunla mı?",
+          "answer": "Ölçülü bir kanunla anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Birleşmeden önce kaç hareket varmış gibi düşünülüyor?",
+          "answer": "İki hareket varmış gibi düşünülüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Birleşmeden sonra bu iki hareketin durumu ne oluyor?",
+          "answer": "Tek harekete iniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Eksilen hareket boşa gitiyor mu?",
+          "answer": "Hayır, ısıya dönüşüyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "“Hareket ısı doğurur” sözüne göre hangi sonuç destekleniyor?",
+          "answer": "Isının bu birleşmeyle oluştuğu sonucu destekleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu olay kan için nasıl bir iyilik oluyor?",
+          "answer": "Kan temizlenmiş oluyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Bu olay bedenin doğal sıcaklığı için nasıl bir fayda sağlıyor?",
+          "answer": "Bedenin sıcaklığını devam ettiriyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "İçeri alınan nefes, hayat için iki yönden nasıl hizmet ediyor?",
+          "answer": "Hem temizliğe yardım ediyor hem de canlılığı güçlendiriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S2Q12",
+            "32-soz:p07:2-sinif:S2Q13"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S2Q15",
+          "sourceQuestionId": "S2Q15",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 15,
+          "question": "Dışarı verilen nefesin insan için güzel sonucu nedir?",
+          "answer": "Konuşmaya yardımcı olmasıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Havadaki iki unsurdan adı açıkça verilenler nelerdir?",
+          "answer": "Azot ve müvellidü’l-humuzadır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Müvellidü’l-humuza kana neyin içinde ulaşıyor?",
+          "answer": "Nefesin içinde ulaşıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Kana ulaştığında ilk yaptığı iş nedir?",
+          "answer": "Karbonu kendine çekmektir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Karbonun özelliği parçada nasıl anlatılıyor?",
+          "answer": "Kanı kirleten bir şey olarak anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İki unsur birleşince sadece karışmış mı oluyor, yoksa değişime de uğruyor mu?",
+          "answer": "Değişime de uğruyor, başka bir madde oluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu değişimin bedende görülen ilk sonucu nedir?",
+          "answer": "Sıcaklık oluşmasıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci önemli sonucu nedir?",
+          "answer": "Kanın arınmasıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu birleşmenin sebebi olarak ne gösteriliyor?",
+          "answer": "Allah’ın koyduğu kuvvetli bir bağ gösteriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Zerrelerin önce ayrı ayrı hareket etmesi bize neyi düşündürür?",
+          "answer": "Her birinin kendi hareketi olduğunu düşündürür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Sonra tek hareket haline gelmeleri neyi gösterir?",
+          "answer": "Birbirine bağlanıp birlikte hareket ettiklerini gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Artan hareketin ısıya dönmesi hangi genel kuralla uyumludur?",
+          "answer": "Hareketin sıcaklık meydana getirmesi kuralıyla uyumludur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Dışarı çıkan nefes ağızda neyin ortaya çıkmasına yardım eder?",
+          "answer": "Kelimelerin çıkmasına yardım eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada bedenimize fayda veren olay nerede başlıyor?",
+          "answer": "Nefesin içeri girmesiyle başlıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Nefesle gelen unsur kana varınca kandaki hangi maddeyi buluyor?",
+          "answer": "Karbonu buluyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu buluşmada karbonun durumu ne oluyor?",
+          "answer": "Çekilip alınmış oluyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Böylece kanın durumu nasıl değişiyor?",
+          "answer": "Daha temiz hale geliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu olay yalnız temizlik işi midir?",
+          "answer": "Hayır, aynı zamanda ısı da sağlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Isının çıkması neyin sonucu olarak anlatılıyor?",
+          "answer": "Birleşmenin sonucu olarak anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Birleşmeden önce zerrelerin kaçar hareketi var gibi düşünülüyor?",
+          "answer": "Her birinin ayrı hareketi var gibi düşünülüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Birleşmeden sonra kaç hareket kalıyor?",
+          "answer": "Bir hareket kalıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Kalan öteki hareket ne oluyor?",
+          "answer": "Isı haline geliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Böylece bedenin hangi özelliği korunmuş oluyor?",
+          "answer": "Doğal sıcaklığı korunmuş oluyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Nefesin içeri girince yaptığı temizlik, beden için neden önemlidir?",
+          "answer": "Çünkü kanın temiz kalmasına yardım eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Nefesin içeri girince yaptığı ikinci iş neden önemlidir?",
+          "answer": "Çünkü canlılık için gerekli sıcaklığı destekler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Nefes dışarı verilirken insan hangi nimeti kullanır?",
+          "answer": "Konuşma nimetini kullanır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "Ağızdan çıkan sözler neyin delili gibi sunuluyor?",
+          "answer": "İlâhî kudretin bir delili gibi sunuluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S4Q13"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde hava içinde yaratılan kaç ana unsurdan söz ediliyor?",
+          "answer": "İki ana unsurdan söz ediliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu unsurlardan biri kana ulaştığında hangi zararlı şeyi bırakmıyor?",
+          "answer": "Karbonu bırakmıyor, kendine alıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Karbonun alınması kan için ne anlama gelir?",
+          "answer": "Temizlenmesi anlamına gelir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İki unsurun birleşmesi rastgele bir şey gibi mi gösteriliyor?",
+          "answer": "Hayır, düzenli bir kanunla oluyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bilim dilinde bu güçlü yakınlığa nasıl bakıldığı söyleniyor?",
+          "answer": "Güçlü bir kimyevî bağ gibi bakıldığı söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İki unsur yakın olunca neden birleşiyorlar?",
+          "answer": "Çünkü aralarında konulmuş bir çekim vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada birleşme için hangi benzer olay hatırlatılıyor?",
+          "answer": "Yanma gibi bir olay hatırlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Yanma gibi olunca ortaya ne çıkar?",
+          "answer": "Isı çıkar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Zerreler birleşince iki ayrı varlık nasıl davranmaya başlar?",
+          "answer": "Tek bir şey gibi davranmaya başlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Tekleşmeden sonra kullanılmayan hareket neye çevrilir?",
+          "answer": "Hararete çevrilir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu anlatım bedenin içindeki hangi ısının sebebini açıklıyor?",
+          "answer": "Doğal beden ısısının sebebini açıklıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Nefes almak sadece hava doldurmak mıdır?",
+          "answer": "Hayır, temizleme ve ısı sağlama işidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "İçeri giren nefes hangi iki hayat işine yardım ediyor?",
+          "answer": "Temizliğe ve canlılığın sürmesine yardım ediyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S5Q12"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Dışarı çıkan nefes sayesinde insan ne yapabiliyor?",
+          "answer": "Kelimeler söyleyebiliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S5Q15",
+          "sourceQuestionId": "S5Q15",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 15,
+          "question": "Bu düzen bize neyi öğretir?",
+          "answer": "Allah’ın her şeyi hikmetle yarattığını öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada anlatılan olay daha çok bedenin hangi işiyle ilgilidir?",
+          "answer": "Nefes alma işiyle ilgilidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Havadaki unsurlardan hangisinin adı diğerine göre daha tanıdık olarak geçiyor?",
+          "answer": "Azotun adı geçiyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Diğer unsur kana ulaşmak için hangi yoldan geliyor?",
+          "answer": "Nefes yoluyla geliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Kana ulaşınca ilk olarak hangi kirletici maddeyle ilgileniyor?",
+          "answer": "Karbonla ilgileniyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu ilgilenme sonunda ikisi ne yapıyor?",
+          "answer": "Birleşiyorlar.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu birleşme sonunda sadece yeni madde mi oluşuyor?",
+          "answer": "Hayır, ayrıca sıcaklık da oluşuyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Kan neden daha temiz oluyor?",
+          "answer": "Çünkü kirletici karbon ondan alınmış oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre iki unsurun birleşmesi hangi ilâhî düzene bağlıdır?",
+          "answer": "Allah’ın koyduğu kanuna bağlıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Zerrelerin birleşmeden önceki hali ile sonraki hali arasındaki fark nedir?",
+          "answer": "Önce ayrı hareket ederler, sonra birlikte hareket ederler.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bir hareketin ısıya dönüşmesi hangi düşünceyi güçlendirir?",
+          "answer": "Bedendeki sıcaklığın sebepli ve düzenli olduğunu güçlendirir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Böylece vücudun hangi ihtiyacı karşılanmış olur?",
+          "answer": "Isınma ihtiyacı karşılanmış olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Nefes içeri girince hayat için hangi iki hizmeti yapıyor?",
+          "answer": "Temizliyor ve canlandırıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S6Q6",
+            "32-soz:p07:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Nefes dışarı çıkınca ağızdan çıkan güzel şey nedir?",
+          "answer": "Kelimelerdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Konuşmanın da bir nimet olması bize neyi düşündürür?",
+          "answer": "Allah’ın büyük nimetlerini düşündürür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p07:2-sinif:S6Q13"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p07:2-sinif:S6Q15",
+          "sourceQuestionId": "S6Q15",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 15,
+          "question": "Parçanın sonundaki ifade, akılların ne durumda kaldığını anlatıyor?",
+          "answer": "Allah’ın sanatına şaşıp hayran kaldığını anlatıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

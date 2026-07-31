@@ -1,0 +1,963 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:lisans:p29",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "lisans",
+  "partNo": "p29",
+  "partNumber": 29,
+  "title": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/lisans/SveC_lisans_32-soz-p29-2-mevkif-2-maksad-hikayelerin-kinaye-ve-temsil-olusu.txt",
+  "sourceRevision": "f4e8d75fcba0a7f54c9b1fa509195b4e14417f681bec41987eaeb175ee226332",
+  "setCount": 6,
+  "questionCount": 83,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Belâgat ilminde bir söz hangi durumda kinayeli ifade sayılır?",
+          "answer": "Bir sözün doğrudan anlamı asıl maksat olmayıp başka bir manayı düşündürmeye yarıyorsa kinayeli ifade olur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Kinayeli bir sözde doğruluk veya yanlışlık hangi manaya göre değerlendirilir?",
+          "answer": "Hüküm, asıl kelime anlamına göre değil, işaret edilen maksada göre verilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İşaret edilen mana doğruysa, dış görünüşteki lafzın durumu ne olursa olsun sonuç ne olur?",
+          "answer": "Söz doğru kabul edilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İşaret edilen mana yanlışsa, görünen lafız gerçek hayatta uygun olsa bile hüküm ne olur?",
+          "answer": "Yine söz yanlış sayılır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metindeki örnekte uzunluk hangi şey üzerinden dolaylı biçimde anlatılmaktadır?",
+          "answer": "Bir kimsenin boyunun uzunluğu, başka bir eşya üzerinden üstü kapalı şekilde anlatılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu örnekte niçin eşyanın gerçekten bulunup bulunmaması belirleyici değildir?",
+          "answer": "Çünkü amaç o eşyanın kendisini haber vermek değil, kişi hakkında dolaylı bir nitelik bildirmektir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Hangi eserlerde geçen hikâyelerin bu kinaye türünden olduğu belirtilmektedir?",
+          "answer": "Bazı Sözlerde yer alan temsili hikâyelerin bu gruba girdiği ifade edilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu hikâyelerde güvenilir ve gerçeğe uygun olan taraf hangisidir?",
+          "answer": "Hikâyelerin sonunda ulaştırdığı hakikatler güvenilir ve gerçeğe uygundur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Hikâyelerin görünen anlatım tarafı nasıl bir işleve sahiptir?",
+          "answer": "O kısım, hakikati göstermeye yarayan bir temsil ve bakışı yaklaştıran bir araç vazifesi görür.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Hikâyelerin ayrıntılarının farklı şekillerde kurulmuş olması neden hakikate zarar vermez?",
+          "answer": "Çünkü esas hedef olayların dış kalıbı değil, onların işaret ettiği manadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre bu temsillerin kurulmasındaki eğitim amacı nedir?",
+          "answer": "İnsanlara hakikati daha kolay anlatmak ve umumun anlayışına yaklaştırmaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "“Hâl dili”nin “söz dili”ne çevrilmesi ne demektir?",
+          "answer": "Varlıkların duruşuyla anlattığı mana, insanlar daha iyi kavrasın diye konuşuyormuş gibi sunulmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Manevî bir şahsiyetin maddî bir kişi gibi gösterilmesi hangi öğretim yöntemine hizmet eder?",
+          "answer": "Soyut bir manayı somutlaştırarak zihinde daha açık hâle getirme yöntemine hizmet eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Kinayeli anlatımda lafzın asıl anlamı hangi görevle kullanılır?",
+          "answer": "Başka bir manaya geçiş sağlayan bir vasıta olarak kullanılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Böyle bir anlatımda sıdk ve kizb meselesi neden doğrudan kelimelerin ilk anlamına bağlanmaz?",
+          "answer": "Çünkü maksat kelimelerin ilk manasını haber vermek değil, onunla başka bir anlamı anlatmaktır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde verilen örnek, belâgat açısından neyi ispatlamak için kullanılmıştır?",
+          "answer": "Bir sözün doğruluğunun bazen zahirî ifade değil, dolaylı hedeflenen mana üzerinden değerlendirildiğini göstermek için kullanılmıştır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bir kişinin ilgili vasfı taşıması hâlinde, örnek cümledeki eşyalara ihtiyaç kalmamasının sebebi nedir?",
+          "answer": "Çünkü o eşya yalnızca işaret unsurudur; asıl ölçü kişide bulunması hedeflenen özelliktir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bir kişinin ilgili vasfı yoksa, dış unsurların doğru olması niçin sözü kurtarmaz?",
+          "answer": "Çünkü sözün hedefi o dış unsurları bildirmek değil, kişi hakkında bir nitelik göstermektir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre bazı hikâyeler hangi edebî bölüm içinde değerlendirilmelidir?",
+          "answer": "Kinayeli anlatım çerçevesinde değerlendirilmelidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bu hikâyelerin sonunda verilen hakikatler hakkında nasıl bir niteleme yapılmaktadır?",
+          "answer": "Onların sağlam, doğru ve vakıaya uygun olduğu belirtilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Hikâyelerin “dürbün” gibi sunulması neyi anlatır?",
+          "answer": "Uzak veya derin bir hakikati daha görünür ve anlaşılır kılma işlevini anlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Buradan hareketle temsili hikâyelerin temel değeri nerede toplanır?",
+          "answer": "Hakikati yaklaştırma ve zihne taşıma gücünde toplanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre hikâye biçiminde anlatımın doğruluğa zarar vermemesinin iki temel sebebi nedir?",
+          "answer": "Birincisi, asıl doğrunun işaret edilen manada olması; ikincisi de anlatımın temsil amaçlı kurulmasıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "“Lisan-ı hâl”in dönüştürülmesiyle ne tür bir kolaylık sağlanır?",
+          "answer": "Sessizce işleyen manalar, insanların anlayacağı açık bir anlatıma çevrilmiş olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Manevî şahsiyetin maddî kişi şeklinde gösterilmesi soyut düşünceye nasıl katkı sağlar?",
+          "answer": "Soyut olanı canlandırır, anlaşılmasını ve hatırda tutulmasını kolaylaştırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Bu pasajdan, dinî hakikatlerin öğretiminde nasıl bir yöntem çıktığı söylenebilir?",
+          "answer": "Hakikati bozmayacak şekilde temsil ve benzetmeden yararlanma yöntemi çıktığı söylenebilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Parçanın bütünü göz önüne alındığında savunulan esas nedir?",
+          "answer": "Temsili anlatım, maksat doğru olduğu sürece hakikate aykırı değil; bilakis onu öğretmede faydalı bir yoldur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde “kinaye”nin temel özelliği nasıl anlaşılmaktadır?",
+          "answer": "Söz, görünen anlamının ötesinde asıl hedeflenen başka bir manaya yöneltmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Kinayeli sözlerde neden iki ayrı mana düzeyi bulunduğu söylenebilir?",
+          "answer": "Çünkü biri zahirî lafız manası, diğeri de anlatılmak istenen dolaylı manadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu iki mana düzeyinden hangisi yargının merkezindedir?",
+          "answer": "Dolaylı olarak kastedilen mana yargının merkezindedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metindeki örnek, sözün görünüşü ile amacı arasındaki farkı nasıl göstermektedir?",
+          "answer": "Dışta bir eşya anlatılıyor gibi görünürken, gerçekte kişinin bir niteliği hedef alınmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Örnekte anlatılan eşyanın olmaması niçin sözün doğru olmasına engel sayılmamıştır?",
+          "answer": "Çünkü haber verilen şey eşyanın kendisi değil, kişinin vasfıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Aynı örnekte eşyanın bulunması niçin tek başına yeterli görülmemiştir?",
+          "answer": "Çünkü maksadın gerçekleşmesi için kişinin hedeflenen özelliğe sahip olması gerekir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metin, bazı hikâyelerin hakikatle ilişkisini nasıl kurmaktadır?",
+          "answer": "Hikâyelerin dış yapısından çok, götürdüğü sonuçtaki mana üzerinden ilişki kurmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu hikâyelerde “sondaki hakikatler” niçin özellikle öne çıkarılmaktadır?",
+          "answer": "Çünkü doğruluk ölçüsü o son hakikatlerde yer alan kinayeli manaya bağlıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Hikâyelerin görünürdeki kısmına “temsil” denmesi neyi ifade eder?",
+          "answer": "O kısmın doğrudan tarihî veya maddî olay aktarımı değil, öğretici örnekleme olduğunu ifade eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre temsilin değişik biçimlerde kurulabilmesi neden problem değildir?",
+          "answer": "Çünkü temsilin kıymeti ayrıntısında değil, ulaştırdığı hakikattedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Umuma anlatım kaygısı, metindeki hangi iki dönüştürme ile sağlanmaktadır?",
+          "answer": "Hâl dilinin söz diline çevrilmesi ve manevî şahsiyetin maddî kişi gibi sunulması ile sağlanmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu iki dönüştürmenin ortak amacı nedir?",
+          "answer": "Soyut ve derin manaları geniş kitlelerin kolay kavrayacağı hâle getirmektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p29:lisans:S3Q11"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Parçada temsili hikâyelere yöneltilebilecek “hayalîlik” itirazına nasıl cevap verilmektedir?",
+          "answer": "Esas doğruluk, kelimelerin dış kabuğunda değil, onların taşıdığı işaret manasında olduğu söylenerek cevap verilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Bu pasajdan çıkarılacak genel sonuç nedir?",
+          "answer": "Hikâye ve temsil, hakikati gölgelemek için değil, onu açıklığa kavuşturmak için kullanılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bir ifadenin kinayeli sayılması için doğrudan manasının metindeki rolü nedir?",
+          "answer": "Doğrudan mana, asıl hedefe götüren yardımcı bir basamak rolündedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre bir sözün doğru kabul edilmesi hangi şarta bağlanmıştır?",
+          "answer": "Kastedilen dolaylı mananın doğru olmasına bağlanmıştır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bir sözün yanlış kabul edilmesi hangi durumda gerçekleşir?",
+          "answer": "İşaret ettiği esas mana doğru değilse gerçekleşir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Verilen örnekte beden özelliği ile eşya arasında nasıl bir anlatım ilişkisi kurulmuştur?",
+          "answer": "Kişinin fizikî niteliği, ona bağlı bir eşya zikredilerek dolaylı biçimde anlatılmıştır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu örnekten, belâgatta “maksat” unsurunun önemine dair ne anlaşılır?",
+          "answer": "Hükmü belirleyen şey, kelimelerin yüzeyi değil, anlatımın niyet ettiği manadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metin, bazı hikâyeleri niçin kinaye başlığı altında değerlendirmektedir?",
+          "answer": "Çünkü onların dış anlatımı başka, asıl ulaştırdığı mana başkadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Hikâyelerin sonundaki hakikatlerin “vakıaya uygun” sayılması neyi gösterir?",
+          "answer": "Temsili anlatımın gerçeğe aykırı olmadığı, bilakis gerçeği işaret ettiği gösterilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Aslî mana için kullanılan “temsilî araç” niteliği, okuyucuya nasıl bir bakış kazandırır?",
+          "answer": "Okuyucuya dış şekilden iç manaya geçme alışkanlığı kazandırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "“Nasıl olursa olsun” ifadesiyle anlatılmak istenen temel nokta nedir?",
+          "answer": "Temsilin ayrıntı biçimi ne olursa olsun, hedef hakikat sağlamsa değerini korur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre hikâyelerin temsil oluşu, onların hangi öğretici yönünü öne çıkarır?",
+          "answer": "Anlamı sadeleştirip yakınlaştıran öğretici yönünü öne çıkarır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Hâl dilinin söz dili şeklinde sunulması, özellikle hangi tür okuyucular için faydalıdır?",
+          "answer": "Derin manaları doğrudan kavramakta zorlanabilecek geniş okuyucu kitlesi için faydalıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Manevî kişiliğin maddî kişi şeklinde gösterilmesi hangi zihinsel ihtiyaca cevap verir?",
+          "answer": "Soyutu somutlaştırma ihtiyacına cevap verir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Parçada savunulan yöntemin dinî ve ahlâkî eğitim açısından faydası nedir?",
+          "answer": "Hakikati bozmadan anlaşılır kıldığı için kalbe ve zihne daha kolay yerleştirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "Bu bölümün özünü tek cümleyle nasıl ifade edersin?",
+          "answer": "Temsili hikâyelerde esas doğruluk, görünürdeki hikâye yapısında değil, onun taşıdığı hakikattedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Belâgat açısından kinayeli söz ile doğrudan haber veren söz arasındaki temel fark nedir?",
+          "answer": "Kinayeli sözde kelimeler asıl hedefi dolaylı yoldan gösterir; doğrudan haberde ise maksat ilk mananın kendisidir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre kinayeli sözde niçin zahirî anlam tek başına ölçü olamaz?",
+          "answer": "Çünkü o anlam sadece düşünmeyi başka yöne sevk eden bir araçtır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Doğruluğun kinayeli manaya bağlanması, anlatımın hangi yönünü öne çıkarır?",
+          "answer": "Maksadını ve işaret ettiği hakikati öne çıkarır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Verilen misalde bir kimsenin niteliği nasıl dolaylı biçimde anlaşılmaktadır?",
+          "answer": "Ona ait gösterilen bir unsur üzerinden kişinin özelliği sezdirilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Misalde amaçlanan nitelik mevcutsa, dış unsurun eksikliği neden problem olmaz?",
+          "answer": "Çünkü asıl anlatılan, dış unsur değil o niteliktir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Amaçlanan nitelik yoksa, dış unsurun uygunluğu neden yeterli olmaz?",
+          "answer": "Çünkü doğru sayılacak olan, gizli maksatla örtüşen manadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bazı Sözlerdeki hikâyelerin bu açıklamaya dahil edilmesi neyi savunur?",
+          "answer": "O hikâyelerin zahirine takılmadan işaret ettiği manaya bakılması gerektiğini savunur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Hikâyelerin sonlarında yer alan hakikatler niçin merkezî konumdadır?",
+          "answer": "Çünkü temsillerin doğruluğu ve değeri oralarda toplanmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde hikâyelerin “dürbün” gibi görülmesi, okuyucuya ne söyler?",
+          "answer": "Hikâyenin kendisine değil, onun gösterdiği hakikate odaklanmasını söyler.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Temsilin anlatım biçiminin değişebilir olması hangi sonucu doğurur?",
+          "answer": "Aynı hakikatin farklı örneklerle anlatılabileceği sonucunu doğurur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Hâl dilinin söz diline aktarılması, cansız veya soyut görünen manalara nasıl etki eder?",
+          "answer": "Onları konuşur ve anlaşılır hâle getirerek zihinde canlandırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Şahs-ı manevînin maddî bir şahıs gibi sunulması hangi edebî kolaylığı sağlar?",
+          "answer": "Topluca ve soyut bir manayı tek bir kişide toplayıp daha açık göstermeyi sağlar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Bu pasaj, temsil ile hakikat arasında nasıl bir ilişki kurmaktadır?",
+          "answer": "Temsili, hakikatin yerine geçen bir kurgu değil, ona baktıran bir pencere olarak kurmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Bölümden çıkarılabilecek ana ders nedir?",
+          "answer": "Dinî hakikatleri öğretirken temsil kullanmak meşrudur; yeter ki hedeflenen mana sahih ve doğru olsun.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki açıklamaya göre kinayeli anlatımın kurulmasında temel unsur nedir?",
+          "answer": "Sözün açık anlamının, başka bir manayı düşündürmek için kullanılmasıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Kinayeli sözlerde neden zahirî anlam ikinci planda kalır?",
+          "answer": "Çünkü karar verdiren esas unsur, o anlamın götürdüğü gizli maksattır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Sözün doğruluğu ile yalancılığı hangi noktada düğümlenmektedir?",
+          "answer": "Kastedilen mananın gerçekle uyuşup uyuşmamasında düğümlenmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metindeki örnek niçin belâgat dersi bakımından öğreticidir?",
+          "answer": "Çünkü görünürdeki ifade ile gerçek maksat arasındaki farkı somut biçimde göstermektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Örnekteki anlatım, insana ne tür bir okuma dikkati kazandırır?",
+          "answer": "Lafzın arkasındaki amacı arama dikkati kazandırır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre bazı temsili hikâyelerde asıl korunması gereken şey nedir?",
+          "answer": "Hikâyenin taşıdığı hakikat ve verdiği manadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu hikâyelerin doğru ve vakıaya uygun sayılması hangi yönlerine bakılarak yapılır?",
+          "answer": "Sonunda işaret ettikleri hakikatlere bakılarak yapılır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Hikâyelerin asıl manalarının temsilî bir araç oluşu, onları nasıl konumlandırır?",
+          "answer": "Hakikatin kendisi değil, onu gösteren öğretici bir vasıta olarak konumlandırır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "“Hikâye” kelimesinin burada yanıltıcı olmaması için hangi ayrım önemlidir?",
+          "answer": "Dış anlatı ile hedeflenen mana arasındaki ayrımın fark edilmesi önemlidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre temsilin hakka zarar vermemesi hangi prensibe dayanır?",
+          "answer": "Temsilin, doğru manayı açıklama amacıyla kullanılmasına dayanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Hâl dilinin söz dili suretinde gösterilmesi ne tür bir pedagojik yöntemdir?",
+          "answer": "Sessiz hakikatleri konuşan örneklere çevirerek öğretme yöntemidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Manevî topluluk veya mana niçin maddî tek şahıs gibi tasvir edilebilir?",
+          "answer": "Çünkü böylece dağınık veya soyut mana tek bir örnekte toplanıp daha kolay anlaşılır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Bu pasajda temsile yapılan vurgu, okuyucudan nasıl bir tavır istemektedir?",
+          "answer": "Zahirde takılı kalmayan, manaya nüfuz eden dikkatli bir okuma tavrı istemektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p29:lisans:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Metnin bütününden hareketle temsili hikâyelerin dinî anlatımdaki yeri nasıl özetlenir?",
+          "answer": "Onlar, sahih manaları halka kolay ulaştıran meşru ve faydalı anlatım vasıtalarıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

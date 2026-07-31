@@ -1,0 +1,1007 @@
+---
+import flashcardPhoto from "@/assets/nasil-oluyor/renkli-bilgi-kartlari.jpeg";
+import type { Locale } from "@/i18n";
+import { localizedPath } from "@/i18n/routing";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const { locale } = Astro.props as { locale: Locale };
+
+const videoPlaceholders = {
+  opening:
+    "Kullanılacak kesit: Farklı yaşlardaki talebelerin aynı ders ortamında göründüğü açılış görüntüsü.",
+  classroom:
+    "Kullanılacak kesit: Bilgi kartı çalışan, soru kâğıdı dolduran talebeleri ve aralarında dolaşan öğreticiyi gösteren sınıf görüntüsü.",
+  practice:
+    "Kullanılacak kesit: Kartların dağıtılması, toplanması, soru kâğıtlarına geçiş ve öğreticinin talebelerle ilgilenmesini gösteren uygulama görüntüsü.",
+  sets:
+    "Kullanılacak kesit: Aynı parçaya ait farklı soru setlerini ve yan yana çalışan talebeleri gösteren yakın plan.",
+  final:
+    "Kullanılacak kesit: Dönem sonu tekrarını, final soru kâğıtlarını ve puan veya ödül uygulamasını gösteren kapanış görüntüsü."
+};
+---
+
+<BaseLayout
+  title="Nasıl Oluyor?"
+  description="Farklı yaşlardaki talebelerin aynı Risale-i Nur dersinde seviyelerine uygun materyallerle nasıl birlikte çalıştığını anlatan sistem."
+  locale={locale}
+>
+  <main class="how-page">
+    <header class="how-intro">
+      <div class="page-band__inner how-intro__inner">
+        <h1>Nasıl Oluyor?</h1>
+        <p class="lede">
+          Farklı yaşları aynı derste buluşturan sistemin, ihtiyaçtan uygulamaya uzanan hikâyesi.
+        </p>
+        <nav class="how-intro__nav" aria-label="Bu sayfadaki bölümler">
+          <a href="#ihtiyac">İhtiyaç</a>
+          <a href="#sistem">Sistem</a>
+          <a href="#uygulama">Uygulama</a>
+          <a href="#sonuc">Sonuç</a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="page-band__inner how-story">
+      <section class="how-section how-section--opening" id="ihtiyac" aria-labelledby="how-step-1">
+        <div class="how-section__copy">
+          <p class="how-section__number">01</p>
+          <h2 id="how-step-1">Her seviyeye aynı ders olur mu?</h2>
+          <blockquote class="narration">
+            <p>
+              Bir ders düşünün…<br />
+              Aynı sınıfta hem küçük yaşta talebeler var, hem büyükler.<br />
+              Kimisi yeni başlamış, kimisi yıllardır okuyor.<br />
+              Ve hepsine aynı anda, aynı dersten verimli bir şekilde nasıl ders yaptırırsınız?
+            </p>
+          </blockquote>
+          <p class="screen-statement">Her seviyeye aynı ders olur mu?</p>
+          <blockquote class="narration">
+            <p>
+              Çoğu kişi şunu düşünür:<br />
+              "Böyle bir ders ya çok basit olmalı ya da çok karışık."<br />
+              Yani ya küçükler anlayacak diye ders hafifletilir…<br />
+              ya da büyükler için hazırlanır, küçükler zorlanır.
+            </p>
+            <p>Ama ya bu düşünce baştan eksikse?</p>
+          </blockquote>
+        </div>
+        <aside class="video-placeholder" aria-label="Eklenecek video için yer tutucu">
+          <span class="video-placeholder__play" aria-hidden="true"></span>
+          <p>{videoPlaceholders.opening}</p>
+        </aside>
+      </section>
+
+      <section class="how-section how-section--split" aria-labelledby="how-step-2">
+        <div class="how-section__copy">
+          <p class="how-section__number">02</p>
+          <h2 id="how-step-2">Yanlış kabulü değiştirmek</h2>
+          <blockquote class="narration">
+            <p>
+              Eğitimde genelde şu varsayım yapılır:<br />
+              "İyi bir ders, herkes için tek tip olmalıdır."<br />
+              Oysa bazı dersler var ki, asıl mesele tek tip olmak değil…<br />
+              iyi ayrıştırılmış olmaktır.
+            </p>
+          </blockquote>
+          <p class="screen-statement">Tek tip ders = her zaman iyi ders mi?</p>
+          <blockquote class="narration">
+            <p>İşte bu sitede anlattığımız sistem, tam da o yanlış varsayımı kırıyor.</p>
+          </blockquote>
+        </div>
+        <div class="comparison" aria-label="Tek tip ders ile seviyeye göre ayrıştırılmış ders karşılaştırması">
+          <article>
+            <span class="comparison__mark" aria-hidden="true">×</span>
+            <h3>Tek tip ders</h3>
+            <p>Tek ders, tek soru, herkes için aynı çalışma.</p>
+          </article>
+          <article>
+            <span class="comparison__mark" aria-hidden="true">✓</span>
+            <h3>İyi ayrıştırılmış ders</h3>
+            <p>Aynı metin, yaşa ve seviyeye göre farklı çalışma.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="how-section" aria-labelledby="how-step-3">
+        <div class="how-section__copy">
+          <p class="how-section__number">03</p>
+          <h2 id="how-step-3">Her ders için yeniden hazırlık yükü</h2>
+          <blockquote class="narration">
+            <p>Bir dersi yöneten kişi her seferinde şunları düşünmek zorunda kalıyor:</p>
+            <ul class="question-cloud">
+              <li>Ne soracağım?</li>
+              <li>Hangi seviyeye ne uygun?</li>
+              <li>Küçükler ne yapacak?</li>
+              <li>Büyükler sıkılacak mı?</li>
+              <li>Yeni gelen talebe nasıl uyum sağlayacak?</li>
+            </ul>
+            <p>Bu sadece talebe için değil, dersi veren için de büyük bir yük.</p>
+            <p>
+              Ve işin en zor kısmı şu:<br />
+              Birçok risale tek derste bitmeyecek kadar büyük.<br />
+              Ama dersin verimli olabilmesi için, o gün işlenen parçaya özel sorular gerekiyor.
+            </p>
+          </blockquote>
+        </div>
+      </section>
+
+      <section class="how-section how-section--accent" id="sistem" aria-labelledby="how-step-4">
+        <div class="how-section__copy">
+          <p class="how-section__number">04</p>
+          <h2 id="how-step-4">Hazır, özelleştirilebilir ve sınıfa göre</h2>
+          <blockquote class="narration">
+            <p>
+              Bu yüzden, sınıflara göre tasnif edilmiş bir sistem hazırlanmış:<br />
+              Risale-i Nur soru bankası, soru-cevap kâğıtları, ezber için bilgi kartları<br />
+              ve bunları isteğe göre özelleştirebilen bir bilgisayar programı.
+            </p>
+          </blockquote>
+          <ul class="label-row" aria-label="Sistemin temel özellikleri">
+            <li>Hazır</li>
+            <li>Özelleştirilebilir</li>
+            <li>Sınıfa göre</li>
+          </ul>
+          <blockquote class="narration">
+            <p>
+              Yani amaç sadece soru vermek değil.<br />
+              Amaç, dersi yöneten kişiyi her derste sıfırdan hazırlık yapma yükünden kurtarmak.
+            </p>
+          </blockquote>
+        </div>
+      </section>
+
+      <section class="how-section how-section--split" aria-labelledby="how-step-5">
+        <div class="how-section__copy">
+          <p class="how-section__number">05</p>
+          <h2 id="how-step-5">Sistem üç işi aynı anda çözüyor</h2>
+          <blockquote class="narration">
+            <p>Sistem üç temel şeyi aynı anda çözüyor:</p>
+            <ol class="solution-list">
+              <li>Dersi kolay yönetilebilir hale getiriyor</li>
+              <li>Talebeye seviyesine uygun materyal veriyor</li>
+              <li>Okunan risaleye gerçekten odaklanmayı sağlıyor</li>
+            </ol>
+            <p>
+              Çünkü sorular öyle hazırlanmış ki, genel kültürle geçiştirilemiyor.<br />
+              Talebenin o risaleyi gerçekten okuyup düşünmesi gerekiyor.
+            </p>
+          </blockquote>
+        </div>
+        <aside class="video-placeholder" aria-label="Eklenecek video için yer tutucu">
+          <span class="video-placeholder__play" aria-hidden="true"></span>
+          <p>{videoPlaceholders.classroom}</p>
+        </aside>
+      </section>
+
+      <section class="how-section" aria-labelledby="how-step-6">
+        <div class="how-section__copy">
+          <p class="how-section__number">06</p>
+          <h2 id="how-step-6">Bu sorular neden farklı?</h2>
+          <blockquote class="narration">
+            <p>
+              Mesela soru kâğıdında cevabın tamamı verilmez.<br />
+              Sadece ilk birkaç kelime ipucu olarak yazılır.
+            </p>
+          </blockquote>
+          <div class="question-demo">
+            <article>
+              <p class="question-demo__label">Soru kâğıdı</p>
+              <p>İkinci meyve, insanın hayatının hangi yönüne bakan bir fayda olarak anlatılıyor?</p>
+              <small>7 kelime · İpucu: "Hayat-ı…"</small>
+            </article>
+            <article>
+              <p class="question-demo__label">Cevap anahtarı</p>
+              <p>Tam cevap, kontrol sırasında öğreticinin önünde yer alır.</p>
+              <small>Öğrenme + kontrol</small>
+            </article>
+          </div>
+          <blockquote class="narration">
+            <p>
+              Bu şu anlama gelir:<br />
+              Talebe ezber yapmış olsa bile, konuyu gerçekten anlamadan ilerleyemez.
+            </p>
+            <p>
+              Cevap anahtarında ise tam cevap vardır.<br />
+              Yani sistem, hem öğrenmeyi hem kontrolü aynı anda sağlar.
+            </p>
+          </blockquote>
+        </div>
+      </section>
+
+      <section class="how-section how-section--split how-section--photo" aria-labelledby="how-step-7">
+        <div class="how-section__copy">
+          <p class="how-section__number">07</p>
+          <h2 id="how-step-7">İki farklı öğrenme yolu</h2>
+          <div class="learning-paths">
+            <article>
+              <p class="learning-paths__label">A</p>
+              <h3>Soru kâğıtları</h3>
+              <blockquote class="narration">
+                <p>Ana hikâye şu: Risalenin her parçasına mahsus sorular hazırlanıyor.</p>
+                <p>
+                  Her risale küçük parçalara ayrılıyor.<br />
+                  Böylece bir derslik bölüm için ayrı soru seti hazırlanabiliyor.
+                </p>
+              </blockquote>
+            </article>
+            <article>
+              <p class="learning-paths__label">B</p>
+              <h3>Bilgi kartları</h3>
+              <blockquote class="narration">
+                <p>
+                  Ama sistem sadece soru kâğıtlarından ibaret değil.<br />
+                  Bir de bilgi kartları var.
+                </p>
+                <p>
+                  Bu kartlar, ezber yapmak isteyen öğrenci için ayrı bir yol açıyor.<br />
+                  Soruyu görüp cevabı tahmin etmeye çalışıyor, sonra arka yüzde kontrol ediyor.
+                </p>
+              </blockquote>
+            </article>
+          </div>
+          <blockquote class="narration">
+            <p>Böylece aynı sistem içinde farklı öğrenme tarzlarına yer açılıyor.</p>
+          </blockquote>
+        </div>
+        <figure class="flashcard-photo">
+          <div class="flashcard-photo__frame">
+            <img
+              src={flashcardPhoto.src}
+              width={flashcardPhoto.width}
+              height={flashcardPhoto.height}
+              alt="Üç farklı renkte hazırlanmış soru ve bilgi kartı setleri"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <figcaption>Farklı seviyeler için renklerle ayrılmış bilgi kartları.</figcaption>
+        </figure>
+      </section>
+
+      <section class="how-section" id="uygulama" aria-labelledby="how-step-8">
+        <div class="how-section__copy">
+          <p class="how-section__number">08</p>
+          <h2 id="how-step-8">Bir ders nasıl uygulanıyor?</h2>
+          <ol class="process" aria-label="Tavsiye edilen ders uygulaması">
+            <li><span>01</span><strong>Bilgi kartlarını dağıt</strong></li>
+            <li><span>02</span><strong>20 dakika çalış</strong></li>
+            <li><span>03</span><strong>Kartları topla</strong></li>
+            <li><span>04</span><strong>Soru kâğıtlarını dağıt</strong></li>
+            <li><span>05</span><strong>40 dakika – 1 saat çalış</strong></li>
+            <li><span>06</span><strong>Öğretici dolaşır ve yardımcı olur</strong></li>
+          </ol>
+          <blockquote class="narration">
+            <p>Tavsiye edilen kullanım oldukça pratik:</p>
+            <ul class="narration-list">
+              <li>Önce bilgi kartlarıyla kısa bir ezber veya hazırlık yapılır.</li>
+              <li>Sonra kartlar toplanır.</li>
+              <li>Ardından soru kâğıtları dağıtılır ve risale açık şekilde çalışılır.</li>
+              <li>Öğretici sınıfta dolaşır, anlamadıkları yerlerde yardımcı olur.</li>
+            </ul>
+            <p>
+              Yani ders, pasif bir dinleme değil; aktif bir okuma ve düşünme sürecine dönüşür.
+            </p>
+          </blockquote>
+        </div>
+        <aside class="video-placeholder video-placeholder--wide" aria-label="Eklenecek video için yer tutucu">
+          <span class="video-placeholder__play" aria-hidden="true"></span>
+          <p>{videoPlaceholders.practice}</p>
+        </aside>
+      </section>
+
+      <section class="how-section how-section--split" aria-labelledby="how-step-9">
+        <div class="how-section__copy">
+          <p class="how-section__number">09</p>
+          <h2 id="how-step-9">Kopya ve karışıklık nasıl önleniyor?</h2>
+          <blockquote class="narration">
+            <p>Peki aynı sınıfta birden fazla öğrenci olunca ne oluyor?</p>
+            <p>
+              Burada kritik bir detay var:<br />
+              Aynı parça için hazırlanmış 6 farklı soru seti bulunuyor.<br />
+              Sorular sadece yer değiştirmiş değil; gerçekten farklı.
+            </p>
+          </blockquote>
+          <p class="screen-statement">6 farklı set — gerçek farklılık</p>
+          <blockquote class="narration">
+            <p>Böylece:</p>
+            <ul class="check-list">
+              <li>Kopya çekmek zorlaşıyor</li>
+              <li>Öğretici her öğrenciyle birebir ilgilenebiliyor</li>
+              <li>Her bir talebenin ne kadar öğrendiği daha net görülüyor</li>
+            </ul>
+          </blockquote>
+        </div>
+        <aside class="video-placeholder" aria-label="Eklenecek video için yer tutucu">
+          <span class="video-placeholder__play" aria-hidden="true"></span>
+          <p>{videoPlaceholders.sets}</p>
+        </aside>
+      </section>
+
+      <section class="how-section how-section--accent" aria-labelledby="how-step-10">
+        <div class="how-section__copy">
+          <p class="how-section__number">10</p>
+          <h2 id="how-step-10">Farklı yaşlar için tek sistem</h2>
+          <ul class="grade-row" aria-label="Örnek sınıf seviyeleri">
+            <li>2. sınıf</li>
+            <li>5. sınıf</li>
+            <li>8. sınıf</li>
+            <li>11. sınıf</li>
+          </ul>
+          <blockquote class="narration">
+            <p>
+              Bu sistemin belki de en dikkat çekici tarafı şu:<br />
+              Aynı ders ortamında farklı yaş grupları birlikte ilerleyebiliyor.
+            </p>
+            <p>
+              Küçük yaş için ayrı, büyük yaş için ayrı materyal var.<br />
+              İstenirse aynı risale, farklı seviyelerde çalışılabiliyor.
+            </p>
+            <p>
+              Bu da "en küçük yaşın anlayacağı kadar basit metin seçelim" zorunluluğunu ortadan kaldırıyor.<br />
+              Herkes seviyesine göre sistemin içinde kalabiliyor.
+            </p>
+          </blockquote>
+        </div>
+      </section>
+
+      <section class="how-section" aria-labelledby="how-step-11">
+        <div class="how-section__copy">
+          <p class="how-section__number">11</p>
+          <h2 id="how-step-11">Program neden önemli?</h2>
+          <blockquote class="narration">
+            <p>Bu materyallerin önemli bir kısmı bir bilgisayar programıyla hazırlanıyor.<br />Program sayesinde:</p>
+            <ul class="feature-grid">
+              <li>Dosya isimleri düzenlenebiliyor</li>
+              <li>Sayfa ayarları değiştirilebiliyor</li>
+              <li>Renk teması seçilebiliyor</li>
+              <li>Ön izleme görülebiliyor</li>
+              <li>İstenilen sayıda kart üretilebiliyor</li>
+            </ul>
+            <p>
+              Yani sistem sabit değil.<br />
+              Kullanıcının ihtiyacına göre şekillenebiliyor.
+            </p>
+          </blockquote>
+        </div>
+      </section>
+
+      <section class="how-section how-section--split" aria-labelledby="how-step-12">
+        <div class="how-section__copy">
+          <p class="how-section__number">12</p>
+          <h2 id="how-step-12">Puan ve ödülle uzun vadeli teşvik</h2>
+          <div class="reward-motif" aria-hidden="true">
+            <span>★</span><span>★</span><span>★</span><span>＋</span><span>Ödül</span>
+          </div>
+          <blockquote class="narration">
+            <p>
+              Bir de teşvik tarafı var.<br />
+              Puan ve ödül sistemi devreye girdiğinde, öğrencinin motivasyonu sadece o gün için değil, dönem boyunca canlı kalabiliyor.
+            </p>
+            <p>
+              En önemlisi, ödül sadece ilk üçe değil; puana orantılı şekilde veriliyor.<br />
+              Böylece daha zayıf olan öğrenciler de tamamen vazgeçmiyor.
+            </p>
+          </blockquote>
+        </div>
+      </section>
+
+      <section class="how-section" id="sonuc" aria-labelledby="how-step-13">
+        <div class="how-section__copy">
+          <p class="how-section__number">13</p>
+          <h2 id="how-step-13">Bütün süreci birleştiren final</h2>
+          <blockquote class="narration">
+            <p>
+              Ve sonunda tüm sistem bir final noktasına bağlanıyor:<br />
+              Dönem içinde okunan bütün risalelerden soru sorulabiliyor.
+            </p>
+            <p>
+              Böylece öğrenci sadece tek bir parçayı değil, bütün süreci tekrar etmiş oluyor.<br />
+              Bu da öğrenmeyi kalıcı hale getiriyor.
+            </p>
+          </blockquote>
+        </div>
+        <aside class="video-placeholder video-placeholder--wide" aria-label="Eklenecek video için yer tutucu">
+          <span class="video-placeholder__play" aria-hidden="true"></span>
+          <p>{videoPlaceholders.final}</p>
+        </aside>
+      </section>
+
+      <section class="how-section how-section--closing" aria-labelledby="how-step-14">
+        <div class="how-section__copy">
+          <p class="how-section__number">14</p>
+          <h2 id="how-step-14">Dersi yaşayan bir öğrenme sistemine dönüştürmek</h2>
+          <blockquote class="narration">
+            <p>
+              Başta görünen sorun şuydu:<br />
+              "Farklı yaşlardaki talebelere aynı derste nasıl verimli ders yapılır?"
+            </p>
+            <p>
+              Cevap ise şu oldu:<br />
+              Hazır ama özelleştirilebilir bir sistem kurarak…<br />
+              risaleyi parçalara ayırarak…<br />
+              soru kâğıtlarıyla düşünmeyi zorunlu hale getirerek…<br />
+              bilgi kartlarıyla ezbere de alan açarak…<br />
+              ve yazılım desteğiyle bunu düzenli hale getirerek.
+            </p>
+            <p class="narration__final">
+              Yani mesele sadece soru hazırlamak değil.<br />
+              Mesele, dersi bir yük olmaktan çıkarıp, yaşayan bir öğrenme sistemine dönüştürmek.
+            </p>
+          </blockquote>
+          <p class="closing-line">
+            <span>Hazırla.</span>
+            <span>Uygula.</span>
+            <span>Takip et.</span>
+            <span>Geliştir.</span>
+          </p>
+          <a class="button" href={localizedPath(locale, "/books/")}>Materyalleri incele</a>
+        </div>
+      </section>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .how-page {
+    overflow: clip;
+  }
+
+  .how-intro {
+    padding: clamp(52px, 8vw, 96px) 0 44px;
+    color: #fff;
+    background:
+      radial-gradient(circle at 82% 18%, rgba(255, 255, 255, 0.18), transparent 28%),
+      linear-gradient(130deg, var(--accent-strong), var(--accent));
+  }
+
+  .how-intro__inner {
+    display: grid;
+    gap: 14px;
+  }
+
+  .how-intro .eyebrow,
+  .how-intro .lede {
+    color: inherit;
+  }
+
+  .how-intro h1 {
+    max-width: 760px;
+    margin: 0;
+    font-size: clamp(2.6rem, 7vw, 5.5rem);
+    line-height: 0.98;
+    letter-spacing: -0.045em;
+  }
+
+  .how-intro .lede {
+    max-width: 720px;
+    font-size: clamp(1.06rem, 2vw, 1.28rem);
+  }
+
+  .how-intro__nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 14px;
+  }
+
+  .how-intro__nav a {
+    padding: 8px 13px;
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.42);
+    border-radius: 999px;
+    text-decoration: none;
+  }
+
+  .how-intro__nav a:hover,
+  .how-intro__nav a:focus-visible {
+    background: rgba(255, 255, 255, 0.14);
+  }
+
+  .how-story {
+    display: grid;
+    gap: 24px;
+    padding-top: clamp(28px, 5vw, 58px);
+    padding-bottom: clamp(48px, 8vw, 96px);
+  }
+
+  .how-section {
+    position: relative;
+    display: grid;
+    gap: clamp(24px, 5vw, 56px);
+    padding: clamp(26px, 5vw, 54px);
+    border: 1px solid var(--border);
+    border-radius: 26px;
+    background: var(--surface);
+    box-shadow: var(--shadow);
+    scroll-margin-top: 96px;
+  }
+
+  .how-section--split {
+    align-items: center;
+  }
+
+  .how-section--accent {
+    color: var(--accent-text);
+    border-color: transparent;
+    background:
+      linear-gradient(145deg, color-mix(in srgb, var(--accent-strong) 94%, black), var(--accent));
+  }
+
+  .how-section--accent .how-section__number,
+  .how-section--accent .narration {
+    color: inherit;
+  }
+
+  .how-section__copy {
+    min-width: 0;
+  }
+
+  .how-section__number {
+    margin: 0 0 10px;
+    color: var(--accent);
+    font-size: 0.82rem;
+    font-weight: 800;
+    letter-spacing: 0.16em;
+  }
+
+  .how-section h2 {
+    max-width: 780px;
+    margin: 0 0 24px;
+    font-size: clamp(1.75rem, 4vw, 3rem);
+    line-height: 1.08;
+    letter-spacing: -0.025em;
+  }
+
+  .how-section h3 {
+    margin: 0;
+    font-size: 1.08rem;
+  }
+
+  .narration {
+    display: grid;
+    gap: 18px;
+    max-width: 780px;
+    margin: 0;
+    padding: 0;
+    color: var(--text);
+    border: 0;
+    font-size: clamp(1rem, 1.45vw, 1.14rem);
+    line-height: 1.76;
+  }
+
+  .narration p {
+    margin: 0;
+  }
+
+  .narration__final {
+    font-size: clamp(1.18rem, 2vw, 1.5rem);
+    font-weight: 750;
+  }
+
+  .screen-statement {
+    width: fit-content;
+    margin: 24px 0;
+    padding: 10px 16px;
+    color: var(--accent-text);
+    border-radius: 10px;
+    background: var(--accent);
+    font-weight: 800;
+    letter-spacing: 0.01em;
+  }
+
+  .video-placeholder {
+    display: grid;
+    min-height: 280px;
+    place-content: center;
+    gap: 20px;
+    padding: 30px;
+    color: var(--text-muted);
+    border: 2px dashed color-mix(in srgb, var(--accent) 42%, var(--border));
+    border-radius: 22px;
+    background:
+      linear-gradient(135deg, transparent 48%, color-mix(in srgb, var(--accent) 8%, transparent) 48% 52%, transparent 52%),
+      var(--surface-muted);
+    text-align: center;
+  }
+
+  .video-placeholder--wide {
+    min-height: 230px;
+  }
+
+  .video-placeholder__play {
+    width: 64px;
+    height: 64px;
+    margin: 0 auto;
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+  }
+
+  .video-placeholder__play::after {
+    display: block;
+    width: 0;
+    height: 0;
+    margin: 18px 0 0 24px;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    border-left: 18px solid var(--accent);
+    content: "";
+  }
+
+  .video-placeholder p {
+    max-width: 430px;
+    margin: 0;
+    font-size: 0.94rem;
+    line-height: 1.55;
+  }
+
+  .comparison,
+  .question-demo,
+  .learning-paths {
+    display: grid;
+    gap: 12px;
+  }
+
+  .comparison article,
+  .question-demo article,
+  .learning-paths article {
+    padding: 20px;
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    background: var(--surface-muted);
+  }
+
+  .comparison article:last-child {
+    border-color: color-mix(in srgb, var(--ok) 55%, var(--border));
+    background: color-mix(in srgb, var(--ok) 10%, var(--surface));
+  }
+
+  .comparison__mark {
+    display: grid;
+    width: 36px;
+    height: 36px;
+    place-items: center;
+    margin-bottom: 14px;
+    color: var(--accent-text);
+    border-radius: 50%;
+    background: var(--warn);
+    font-weight: 900;
+  }
+
+  .comparison article:last-child .comparison__mark {
+    background: var(--ok);
+  }
+
+  .comparison p,
+  .question-demo p {
+    margin-bottom: 0;
+    color: var(--text-muted);
+    line-height: 1.55;
+  }
+
+  .question-cloud,
+  .label-row,
+  .grade-row,
+  .feature-grid,
+  .check-list,
+  .narration-list {
+    padding: 0;
+    list-style: none;
+  }
+
+  .question-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 2px 0;
+  }
+
+  .question-cloud li {
+    padding: 9px 13px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: var(--surface-muted);
+    font-size: 0.96rem;
+    font-weight: 700;
+  }
+
+  .label-row,
+  .grade-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 24px 0;
+  }
+
+  .label-row li,
+  .grade-row li {
+    padding: 10px 15px;
+    border: 1px solid currentColor;
+    border-radius: 999px;
+    font-weight: 800;
+  }
+
+  .solution-list {
+    display: grid;
+    gap: 10px;
+    margin: 4px 0;
+    padding: 0;
+    counter-reset: solutions;
+    list-style: none;
+  }
+
+  .solution-list li {
+    display: grid;
+    grid-template-columns: 38px 1fr;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 14px;
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    background: var(--surface-muted);
+    counter-increment: solutions;
+  }
+
+  .solution-list li::before {
+    display: grid;
+    width: 34px;
+    height: 34px;
+    place-items: center;
+    color: var(--accent-text);
+    border-radius: 10px;
+    background: var(--accent);
+    content: counter(solutions);
+    font-weight: 800;
+  }
+
+  .question-demo {
+    margin: 24px 0;
+  }
+
+  .question-demo article:first-child {
+    border-left: 5px solid var(--accent);
+  }
+
+  .question-demo article:last-child {
+    border-left: 5px solid var(--ok);
+  }
+
+  .question-demo__label {
+    margin-top: 0;
+    color: var(--text) !important;
+    font-weight: 800;
+  }
+
+  .question-demo small {
+    display: block;
+    margin-top: 14px;
+    color: var(--accent-strong);
+    font-weight: 800;
+  }
+
+  .learning-paths {
+    margin-bottom: 22px;
+  }
+
+  .learning-paths__label {
+    display: grid;
+    width: 34px;
+    height: 34px;
+    place-items: center;
+    margin: 0 0 10px;
+    color: var(--accent-text);
+    border-radius: 10px;
+    background: var(--accent);
+    font-weight: 900;
+  }
+
+  .learning-paths .narration {
+    margin-top: 14px;
+    font-size: 1rem;
+  }
+
+  .flashcard-photo {
+    margin: 0;
+  }
+
+  .flashcard-photo__frame {
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    border-radius: 22px;
+    background: #f0f0ec;
+    box-shadow: var(--shadow);
+  }
+
+  .flashcard-photo img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 56.25%;
+    max-width: none;
+    height: auto;
+    transform: translate(-50%, -50%) rotate(-90deg);
+  }
+
+  .flashcard-photo figcaption {
+    margin-top: 10px;
+    color: var(--text-muted);
+    font-size: 0.88rem;
+    line-height: 1.5;
+  }
+
+  .process {
+    display: grid;
+    gap: 1px;
+    margin: 28px 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    background: var(--border);
+    list-style: none;
+  }
+
+  .process li {
+    display: grid;
+    grid-template-columns: 44px 1fr;
+    align-items: center;
+    gap: 14px;
+    padding: 15px 18px;
+    background: var(--surface-muted);
+  }
+
+  .process span {
+    color: var(--accent);
+    font-size: 0.78rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+  }
+
+  .narration-list,
+  .check-list {
+    display: grid;
+    gap: 10px;
+    margin: 2px 0;
+  }
+
+  .narration-list li,
+  .check-list li {
+    position: relative;
+    padding-left: 28px;
+  }
+
+  .narration-list li::before,
+  .check-list li::before {
+    position: absolute;
+    top: 0;
+    left: 2px;
+    color: var(--ok);
+    content: "✓";
+    font-weight: 900;
+  }
+
+  .grade-row li {
+    min-width: 108px;
+    text-align: center;
+  }
+
+  .feature-grid {
+    display: grid;
+    gap: 10px;
+    margin: 2px 0;
+  }
+
+  .feature-grid li {
+    padding: 13px 15px 13px 46px;
+    border: 1px solid var(--border);
+    border-radius: 13px;
+    background: var(--surface-muted);
+  }
+
+  .feature-grid li::before {
+    position: absolute;
+    margin-left: -30px;
+    color: var(--accent);
+    content: "◆";
+    font-size: 0.78rem;
+  }
+
+  .reward-motif {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin: 0 0 24px;
+  }
+
+  .reward-motif span {
+    display: grid;
+    min-width: 42px;
+    height: 42px;
+    place-items: center;
+    padding: 0 12px;
+    color: #7b5d00;
+    border: 1px solid #e5ca69;
+    border-radius: 999px;
+    background: #fff4bf;
+    font-weight: 900;
+  }
+
+  .how-section--closing {
+    color: #fff;
+    border-color: transparent;
+    background:
+      radial-gradient(circle at 88% 12%, rgba(255, 255, 255, 0.16), transparent 25%),
+      linear-gradient(135deg, #132f34, var(--accent-strong));
+  }
+
+  .how-section--closing .how-section__number,
+  .how-section--closing .narration {
+    color: inherit;
+  }
+
+  .closing-line {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 30px 0;
+  }
+
+  .closing-line span {
+    padding: 9px 13px;
+    border: 1px solid rgba(255, 255, 255, 0.36);
+    border-radius: 999px;
+    font-weight: 800;
+  }
+
+  .how-section--closing .button {
+    color: var(--accent-strong);
+    background: #fff;
+    border-color: #fff;
+  }
+
+  @media (min-width: 760px) {
+    .how-section--split,
+    .how-section--opening,
+    .how-section--photo {
+      grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+    }
+
+    .comparison,
+    .question-demo,
+    .learning-paths,
+    .feature-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .process {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 759px) {
+    .how-intro__nav {
+      display: none;
+    }
+
+    .how-section {
+      border-radius: 20px;
+    }
+
+    .video-placeholder {
+      min-height: 230px;
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .how-intro__nav a,
+    .how-section,
+    .button {
+      transition: border-color 160ms ease, background-color 160ms ease, transform 160ms ease;
+    }
+
+    .how-section:hover {
+      transform: translateY(-2px);
+    }
+  }
+</style>

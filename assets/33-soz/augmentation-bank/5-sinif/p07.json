@@ -1,0 +1,728 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:5-sinif:p07",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "5-sinif",
+  "partNo": "p07",
+  "partNumber": 7,
+  "title": "5. pencere: def'î ve âni icad",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/5-sinif/SveC_5sinif_33-soz-p07-5-pencere-defi-ve-ani-icad.txt",
+  "sourceRevision": "c1241a5f6eaafea99948454b7258f82888e3730c6dfcab5552dbd8edceac74f6",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada özellikle canlı varlıkların ortaya çıkışı için hangi hız anlatılıyor?",
+          "answer": "Çok kısa sürede ve birden ortaya çıkmaları anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Normalde bir şey bir anda ve tek maddeden çıksa nasıl olması beklenirdi?",
+          "answer": "Sade, biçimsiz ve sanat bakımından zayıf olması beklenirdi.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Fakat canlılarda bunun yerine nasıl bir durum görüldüğü söyleniyor?",
+          "answer": "Çok düzenli, ince işlenmiş ve ustalık isteyen bir yaratılış görülüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p07:5-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Parçada bu varlıkların oluşumunda hangi tür özelliklerin bulunduğu belirtiliyor?",
+          "answer": "Güzel şekil, ince süs, farklı araçlar gerektiren yapı ve çok yönlü bir düzen bulunduğu belirtiliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bir anda meydana gelen bu sanatlı yapı neye delil sayılıyor?",
+          "answer": "Hikmet sahibi bir Yaratıcının varlığına delil sayılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu delil sadece yaratmanın varlığını mı gösteriyor, yoksa başka bir şeyi de mi bildiriyor?",
+          "answer": "Aynı zamanda Rabliğin birliğini de bildiriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p07:5-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Parçaya göre bu kadar güçlü ve hikmetli işi göstermek hangi sıfatları akla getiriyor?",
+          "answer": "Sınırsız güç ve sınırsız hikmet sıfatlarını akla getiriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde, bu yaratılışı açıklamak için hangi yanlış yol eleştiriliyor?",
+          "answer": "Tabiatı asıl yapan gibi görmek eleştiriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Tabiata böyle bir görev vermek neden yanlış kabul ediliyor?",
+          "answer": "Çünkü tabiat güçsüz, şuursuz ve kendi başına bu kadar sanatlı işi yapamaz.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın ana fikri nedir?",
+          "answer": "Canlıların bir anda ama çok sanatlı yaratılması, her şeye gücü yeten ve hikmet sahibi tek Allah’ı gösterir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada eşyadan çok hangi grup üzerinde duruluyor?",
+          "answer": "Daha çok canlılar üzerinde duruluyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Canlıların ortaya çıkışı ile onların yapısındaki incelik arasında nasıl bir karşılaştırma yapılıyor?",
+          "answer": "Çok hızlı meydana gelmelerine rağmen çok ince ve özenli yapılara sahip oldukları söyleniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bir şeyin kısa sürede oluşmasıyla ayrıntılı işçilik arasında nasıl bir zıtlık kuruluyor?",
+          "answer": "Hızlı oluşan bir şeyin basit olması beklenirken, tam tersine çok sanatlı olduğu gösteriliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Parçada “çok zaman ister” denecek işlerin nasıl gerçekleştiği anlatılıyor?",
+          "answer": "Sanki bir anda gerçekleşiyormuş gibi anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu durum, sebeplerin gücü hakkında bize ne düşündürür?",
+          "answer": "Sebeplerin tek başına yeterli olmadığını düşündürür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p07:5-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre bu düzenli ve sanatlı yaratılışın arkasında nasıl bir Yaratıcı vardır?",
+          "answer": "Çok kudretli ve çok hikmetli bir Yaratıcı vardır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada inkârcıya yöneltilen itirazın özü nedir?",
+          "answer": "Böyle büyük işleri şuursuz tabiata bağlamasının akla uygun olmadığıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bir şeye sadece isim vermek, onun hakikatini değiştirir mi? Parçaya göre açıklayınız.",
+          "answer": "Değiştirmez; ilâhî yaratmayı “tabiat” diye adlandırmak gerçeği değiştirmez.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde tabiata dayanan açıklama neden “çok büyük yanlış” olarak görülüyor?",
+          "answer": "Çünkü asıl yaratıcıyı görmeyip yaratılan düzeni yanlış yere vermek oluyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan çıkarılacak imanî ders nedir?",
+          "answer": "Yaratılmışlardaki ince sanat, Allah’ın varlığını, birliğini, kudretini ve hikmetini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada görülen ilk önemli gözlem nedir?",
+          "answer": "Varlıkların, özellikle canlıların, çok hızlı şekilde meydana gelmesidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İkinci önemli gözlem nedir?",
+          "answer": "Bu varlıkların sıradan değil, çok güzel ve ustalıklı yapılmış olmasıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Basit bir maddeden çıkan şeyin nasıl olması beklenir deniyor?",
+          "answer": "Karışık olmayan, sade ve gösterişsiz olması beklenir deniyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Gerçekte görülen sonuç bu beklentiye uyuyor mu?",
+          "answer": "Hayır, uymuyor; çok ince sanatlı bir sonuç görülüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p07:5-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu uyumsuzluk neyi düşündürmek için kullanılıyor?",
+          "answer": "İşin arkasında üstün ilim, kudret ve hikmet bulunduğunu düşündürmek için kullanılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p07:5-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada geçen düşünceye göre her bir canlı tek başına neyi gösterir?",
+          "answer": "Hikmet sahibi bir Yaratıcının varlığını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bütün canlılar birlikte düşünüldüğünde ne ortaya çıkar?",
+          "answer": "Allah’ın birliğini çok parlak biçimde gösteren büyük bir delil ortaya çıkar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde tabiata hangi özellikler verilmediği özellikle hissettiriliyor?",
+          "answer": "Güç, ilim, irade ve gerçek yaratma yetkisi verilmediği hissettiriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada inkâr eden kişiye neden sert bir dille hitap ediliyor?",
+          "answer": "Açık delile rağmen gerçeği kabul etmemesinin büyük bir yanlış olduğu vurgulanıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün bize öğrettiği en temel sonuç nedir?",
+          "answer": "Hızlı ama kusursuz yaratılış, kendi kendine olamaz; bunu ancak Allah yapar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçaya göre canlıların yaratılışında hem çabukluk hem de hangi başka özellik birlikte bulunuyor?",
+          "answer": "Büyük bir ustalık ve güzellik birlikte bulunuyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bir anda olan bir şeyde normalde eksik olması beklenen hangi yönler burada fazlasıyla bulunuyor?",
+          "answer": "İnce işçilik, süs, düzen ve özen fazlasıyla bulunuyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde geçen düşünceye göre sanatlı bir yapının varlığı neyi gösterir?",
+          "answer": "Onu yapanın bilgili ve becerikli olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Buradan hareketle canlıların yaratıcısı hakkında hangi sonuca varılıyor?",
+          "answer": "Sonsuz kudret ve hikmet sahibi olduğu sonucuna varılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p07:5-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Parçada “tek bir maddeden çıkma” ile “çok yönlü yapı” arasında nasıl bir anlam kuruluyor?",
+          "answer": "Kaynak basit görünse de sonuç çok zengin ve karmaşık bir sanat taşıyor deniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bu kadar ince yaratılışı tabiata vermek neden mantıklı bulunmuyor?",
+          "answer": "Çünkü tabiat bilinçli bir usta gibi plan yapamaz ve sanat ortaya koyamaz.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde yalnızca var olma değil, hangi ilâhî birlik de vurgulanıyor?",
+          "answer": "Rabliğin tek elde olması vurgulanıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada insanı düşündürmek için hangi yol kullanılıyor: sadece bilgi verme mi, yoksa soru sorup uyandırma mı?",
+          "answer": "Soru sorup uyandırma yolu kullanılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu sorulu anlatımın amacı nedir?",
+          "answer": "Yanlış düşüncenin zayıflığını fark ettirip doğru sonuca yöneltmektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p07:5-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın kısa özeti nasıl söylenebilir?",
+          "answer": "Canlıların ani ama kusursuz yaratılması, tabiata değil Allah’ın kudret ve hikmetine delildir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada “görüyoruz ki” denilerek hangi tür anlatım kullanılıyor?",
+          "answer": "Gözlem ve açık delile dayanan bir anlatım kullanılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Hangi varlıkların yaratılışı daha dikkat çekici örnek olarak sunuluyor?",
+          "answer": "Özellikle canlı varlıkların yaratılışı sunuluyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bir anda meydana gelmek ile emek isteyen güzellik arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Böyle bir güzelliğin normalde uzun çalışma istemesine rağmen bir anda verildiği söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde canlıların yapısı için sadece dış görünüş mü anlatılıyor, yoksa daha fazlası mı var?",
+          "answer": "Daha fazlası var; düzen, incelik, araç gerektirir gibi görünen yönler de anlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu anlatım, yaratmanın rastgele olmadığını nasıl hissettiriyor?",
+          "answer": "Her şeyin ölçülü ve özenli olması rastgeleliği ortadan kaldırıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p07:5-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada her bir varlığın tek başına taşıdığı anlam nedir?",
+          "answer": "Her biri Allah’ın varlığına işaret eden bir delildir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Hepsi birlikte ele alınınca hangi daha büyük anlam ortaya çıkıyor?",
+          "answer": "Allah’ın birliğini ve eşsiz kudretini gösteren daha büyük bir tablo ortaya çıkıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre “tabiat” kelimesini kullanmak hangi tehlikeli yanlışa dönüşebilir?",
+          "answer": "Allah’ın eserlerini sanki tabiat yapıyormuş gibi göstermeye dönüşebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Neden sadece isim değiştirmekle mesele çözülmüş olmuyor?",
+          "answer": "Çünkü adı değişse de gerçek yapan değişmez; yaratıcı yine Allah’tır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p07:5-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümde öğrencinin kalbinde hangi düşüncenin yerleşmesi istenir?",
+          "answer": "Kâinattaki sanatın Allah’tan geldiğini görme ve O’nun birliğini kabul etme düşüncesi istenir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda varlıkların ortaya çıkışı hakkında hangi şaşırtıcı özellik öne çıkarılıyor?",
+          "answer": "Çok kısa sürede ortaya çıkmaları öne çıkarılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Böyle hızlı oluşan şeylerin aslında nasıl olması beklenir?",
+          "answer": "Basit ve fazla incelik taşımayan şeyler olması beklenir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Parçaya göre gerçek hayatta bunun tam tersi olan hangi durum var?",
+          "answer": "Çok ince, güzel ve sanatlı varlıklar ortaya çıkıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu varlıklarda görülen sanat, sıradan bir oluşumdan neden farklıdır?",
+          "answer": "Çünkü büyük ustalık, dikkat ve düzen gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Metin, bu sanatı gören kişiyi hangi sonuca ulaştırmak istiyor?",
+          "answer": "Her şeyi bilen ve her şeye gücü yeten bir Yaratıcıyı kabul etmeye ulaştırmak istiyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p07:5-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Yaratılıştaki bu özellikler Allah’ın hangi iki temel sıfatını açıkça hatırlatıyor?",
+          "answer": "Kudretini ve hikmetini hatırlatıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada tabiatın bu işleri yapamayacağı hangi yönüyle sezdiriliyor?",
+          "answer": "Şuursuz ve aciz oluşuyla sezdiriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İnkâr edenin yaptığı yanlış, sadece bir açıklama yanlışı mı; yoksa inanç bakımından da önemli mi?",
+          "answer": "İnanç bakımından da önemlidir; çünkü yaratmayı Allah’tan başkasına vermiş olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada neden “birçok imkânsızı bir arada kabul etmek” anlamına gelen ağır bir eleştiri vardır?",
+          "answer": "Çünkü bu kadar kusursuz yaratılışı tabiata bağlamak akla ve gerçeğe aykırı pek çok yanlışı birlikte kabul etmektir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p07:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçayı bir cümlede özetlesen nasıl söylersin?",
+          "answer": "Ani fakat kusursuz yaratılış, tek ve sonsuz kudret sahibi Allah’ın eseri olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

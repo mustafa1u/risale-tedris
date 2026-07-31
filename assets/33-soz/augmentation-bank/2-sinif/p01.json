@@ -1,0 +1,468 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:2-sinif:p01",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "2-sinif",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/2-sinif/SveC_2sinif_33-soz-p01-otuzucuncu-soz-otuzuc-pencere-sual-ve-icmali-cevap.txt",
+  "sourceRevision": "a233d981b6b839f2af98de4a903cc17642b5571d6cc2d50c1cc9a6e7b8c86509",
+  "setCount": 6,
+  "questionCount": 38,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde hangi iki büyük şeyin Allah’ı göstermesinden söz ediliyor?",
+          "answer": "İnsan ve kâinat.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Soruyu soranlar, cevapların nasıl anlatılmasını istiyor?",
+          "answer": "Kısa ve toplu bir şekilde.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İnkar edenlerin ileri gitmesi nasıl bir istek doğuruyor?",
+          "answer": "Daha açık cevap verme isteği doğuruyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Verilen cevapta önce nereye bakılması söyleniyor?",
+          "answer": "Daha önce yazılan otuz üç söze.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "O sözler neye benzetiliyor?",
+          "answer": "Büyük bir hakikat denizinden gelen küçük damlalara.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Şimdilik ne yapılacağı söyleniyor?",
+          "answer": "O büyük denizden küçük bir işaret verileceği söyleniyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu bölümün ana fikri nedir?",
+          "answer": "Allah’ın birliği ve varlığına dair delillerin bulunduğunu göstermektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Başta geçen soru, daha çok hangi konuda açıklama istemektedir?",
+          "answer": "Allah’ın varlığı, birliği ve Rabbimizin sıfatları hakkında.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Delil olarak gösterilen iki alan hangileridir?",
+          "answer": "Küçük âlem olan insan ve büyük âlem olan kâinat.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Soruda şikâyet edilen kimlerdir?",
+          "answer": "İnkar edenler.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Soruyu soranlar, sadece kısa bir sözle yetinmek istemiyor; ne bekliyorlar?",
+          "answer": "Delilleri anlatan açıklama bekliyorlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "“Hepsine bakabilirsiniz” denilerek neye yönlendirme yapılıyor?",
+          "answer": "Önceki sözlerde cevapların bulunabileceğine yönlendirme yapılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bu parçada anlatım uzun mu tutuluyor, kısa mı?",
+          "answer": "Kısa tutuluyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde insanlar hangi hakikati anlamak için açıklama istiyor?",
+          "answer": "Allah’ın tek ilah olduğunu ve her şeyin Rabbi olduğunu anlamak için.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan burada nasıl bir yönüyle ele alınıyor?",
+          "answer": "Küçük bir âlem gibi.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Kâinat burada nasıl bir yönüyle ele alınıyor?",
+          "answer": "Büyük bir âlem gibi.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Soruyu soranlara göre neden cevap vermek gerekiyor?",
+          "answer": "Çünkü inkâr edenler çok ileri konuşuyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Cevap veren kişi, hemen hepsini uzun uzun mu anlatıyor?",
+          "answer": "Hayır, şimdilik kısa bir işaret veriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Buradan, hakikatleri anlamak için ne yapmak gerektiği çıkar?",
+          "answer": "Delillere dikkatle bakmak gerektiği çıkar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu kısımda istenen açıklama ayrıntılı mı, özet mi?",
+          "answer": "Özet bir açıklama.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Açıklama istenirken Allah hakkında hangi iki temel konu öne çıkıyor?",
+          "answer": "Varlığı ve birliği.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Delillerin görüleceği iki yerden biri insan ise, diğeri nedir?",
+          "answer": "Kâinat.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İnkar edenlerin sözü, sadece bir cümle söylemenin yetmediğini nasıl gösteriyor?",
+          "answer": "Çünkü onlar daha güçlü açıklama istiyor gibi davranıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "“Bir damla” benzetmesi neyi anlatır?",
+          "answer": "Büyük hakikatlerin küçük bir kısmının anlatıldığını.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu parçanın sonunda nasıl bir anlatıma geçileceği bildiriliyor?",
+          "answer": "İşaret ederek kısa bir anlatıma geçileceği bildiriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde geçen soru, hangi konuda delil istemektedir?",
+          "answer": "Allah’ın tek oluşunu ve Rabbimizin özelliklerini gösteren deliller konusunda.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan ve kâinat burada ne görev görür?",
+          "answer": "Allah’ı tanıtan işaretler olurlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Soruyu soranların isteği neden ortaya çıkıyor?",
+          "answer": "İnkar edenlerin taşkın sözleri yüzünden.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Cevap veren kişi, hazır cevapların bulunduğunu nerede söylüyor?",
+          "answer": "Daha önce yazılmış otuz üç sözde.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "O sözlerin asıl hakikate göre yeri nasıl anlatılıyor?",
+          "answer": "Büyük bir kaynaktan gelen küçük parçalar gibi.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Şimdiki anlatımın amacı bütün konuyu bitirmek midir?",
+          "answer": "Hayır, sadece kısa bir başlangıç yapmaktır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu bölümden, hakikatin çok geniş mi yoksa dar mı olduğu anlaşılır?",
+          "answer": "Çok geniş olduğu anlaşılır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda anlatılmak istenen büyük konu nedir?",
+          "answer": "Allah’ın varlığını ve birliğini gösteren deliller.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu deliller hangi iki yerde düşünülerek bulunabilir?",
+          "answer": "İnsanda ve kâinatta.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Açıklama isteyenler, anlatımın nasıl olmasını istiyor?",
+          "answer": "Kısa ama açıklayıcı olmasını istiyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Sorudaki yakınma, inkâr edenlerin hangi hâlini gösteriyor?",
+          "answer": "Çok ileri gidip itiraz etmelerini gösteriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Neden sadece küçük bir işaretle yetinileceği söyleniyor?",
+          "answer": "Çünkü konu çok geniş ve şimdilik kısa anlatım yapılacak.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu parçaya göre bir öğrenci ne yaparsa fayda görür?",
+          "answer": "Önceki açıklamalara bakarsa fayda görür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

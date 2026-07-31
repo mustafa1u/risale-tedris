@@ -1,0 +1,922 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:2-sinif:p51",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "2-sinif",
+  "partNo": "p51",
+  "partNumber": 51,
+  "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/2-sinif/SveC_2sinif_33-soz-p51-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-tek-seyden-murekkeb-cisimlere-kadar-imkan-icindeki-tahsis.txt",
+  "sourceRevision": "39a6a31276fb94bd67cc94fcaf0178e5a2b9c8f30672e7cfa9032c426fea8712",
+  "setCount": 6,
+  "questionCount": 71,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, bir şeyin varlığında ve özelliklerinde neden çok fazla ihtimal olduğu söyleniyor?",
+          "answer": "Çünkü bir şeyin farklı şekillerde var olması ve farklı özellikler alması düşünülebilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Buna rağmen her şey nasıl görünür?",
+          "answer": "Düzenli ve belli bir ölçü içinde görünür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu düzenli oluş, neyin varlığını gösterir?",
+          "answer": "Seçen, isteyen ve hikmetle yaratan bir Yaratıcıyı gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bir şey tek başına bırakılmayıp başka bir yapının parçası olunca ne artar?",
+          "answer": "İhtimaller daha da artar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İhtimaller artınca o şeye ne verildiği anlatılıyor?",
+          "answer": "İçinde bulunduğu yere uygun özel bir yer ve görev verilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "O özel yer ve görev neyi gösterir?",
+          "answer": "Her şeyi bilen ve düzenleyen birinin idaresini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde asker örneği niçin verilmiştir?",
+          "answer": "Bir parçanın, bağlı olduğu her toplulukta ayrı görevi olduğunu anlatmak için verilmiştir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Asker örneğinde kişi hangi yapılarda görevli gösteriliyor?",
+          "answer": "Küçük gruptan büyük orduya kadar birçok toplulukta görevli gösteriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Gözdeki küçük bir parçanın da sadece kendisi için değil, daha büyük yapılar için de görevi var mıdır?",
+          "answer": "Evet, gözde, başta ve bedende görevleri vardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Çok küçük bir parça görevinde şaşarsa ne olur?",
+          "answer": "Bedenin sağlığı ve düzeni bozulur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu anlatılanların ana fikri nedir?",
+          "answer": "Her şey yerli yerinde ve hikmetle düzenlendiği için bunlar Allah’ın varlığını ve ilmini gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S1Q3",
+            "33-soz:p51:2-sinif:S1Q6"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, bir şeyin birçok yol arasından tek bir düzenli yola girmesi neyi düşündürür?",
+          "answer": "Kendi kendine olmadığını düşündürür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bir şeyin özelliklerinin de belli ölçüyle verilmesi neye işaret eder?",
+          "answer": "Bilerek ve isteyerek verildiğine işaret eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bir şeyin hâlleri zamanla değişse bile bu değişim nasıl olur?",
+          "answer": "Yine belirli ve ölçülü olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde bu ölçülü verme işi hangi üç manayla anlatılıyor?",
+          "answer": "Seçme, tercih etme ve yaratma ile anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bir parça daha büyük bir cismin içinde yer alınca neden mesele daha açık hâle gelir?",
+          "answer": "Çünkü alabileceği yerler çoğalır ama ona tek uygun yer verilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bu tek uygun yerin verilmesi boşuna mıdır, yoksa faydalı mıdır?",
+          "answer": "Faydalıdır; önemli işler ve yararlar içindir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Sonra o büyük cisim de başka bir yapının parçası olunca ne olur?",
+          "answer": "İhtimaller daha da çoğalır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Buna rağmen tek bir uygun durumun verilmesi neyi ispatlar?",
+          "answer": "Hikmet sahibi bir düzenleyicinin varlığını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki asker benzetmesi bize ne öğretir?",
+          "answer": "Bir kişinin farklı topluluklarda farklı görevleri olabileceğini öğretir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Hücre örneğiyle hangi düşünce güçleniyor?",
+          "answer": "Çok küçük bir parçanın bile birçok yerde uygun görevi bulunduğu düşüncesi güçleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Hücre yanlış iş görse bunun sonucu ne olur?",
+          "answer": "Düzen bozulur, beden zarar görür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "O hâlde bütün bu örneklerden hangi sonuca varırız?",
+          "answer": "Her şeyi hikmetle yerleştiren Allah vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S2Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde “çok ihtimal” denince hangi alanlardan söz ediliyor?",
+          "answer": "Varlık, özellikler ve ne kadar süre kalacağı gibi alanlardan söz ediliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kadar çok ihtimal içinden seçilmiş gibi görünen şey nasıldır?",
+          "answer": "Düzenli, belli ve uygun hâldedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bir şeyin böyle uygun olması rastgele olabilir mi?",
+          "answer": "Hayır, rastgele olmaz.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Neden rastgele olamaz?",
+          "answer": "Çünkü sayısız seçenek içinden faydalı ve düzenli olan seçilmiştir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Tek başındaki bir şey, birleşik bir yapının parçası olunca ne kazanır?",
+          "answer": "Yeni görevler ve yeni ilişkiler kazanır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu yeni ilişkiler neyi artırır?",
+          "answer": "Bulunabileceği durumların sayısını artırır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Ama yine de ona belirli bir yer verilmesi ne demektir?",
+          "answer": "Onu bilen birinin onu doğru yere koyması demektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde geçen kumanda eden bilgili kişi düşüncesi neyi anlatır?",
+          "answer": "Her şeyin emir ve ilimle yönlendirildiğini anlatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Asker örneğinde aynı kişi neden birçok topluluk içinde anılıyor?",
+          "answer": "Her seviyede ayrı görevi ve bağlılığı olduğunu göstermek için anılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Gözdeki küçük parça hangi daha büyük bütünlerle bağlantılıdır?",
+          "answer": "Gözle, başla ve bütün bedenle bağlantılıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Küçük bir yanlışlık neden büyük sonuç doğurur?",
+          "answer": "Çünkü küçük parça bütün beden düzeniyle bağlantılıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölüm bize Allah hakkında hangi iki özelliği düşündürüyor?",
+          "answer": "Her şeyi bilen ve hikmetle düzenleyen olduğunu düşündürüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S3Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre bir şeyin önünde neden pek çok yol varmış gibi düşünülür?",
+          "answer": "Çünkü başka türlü var olabilir, başka türlü özellik alabilir ve başka türlü durumda bulunabilirdi.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Peki gerçekte bu şey nasıl bir yol izler?",
+          "answer": "Ölçülü ve düzenli bir yol izler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu ölçülü yol, o şeyin kendi başına seçimi midir?",
+          "answer": "Hayır, onu seçen bir irade vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde irade ile birlikte hangi mana daha geçiyor?",
+          "answer": "Tercih etme manası da geçiyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bir şey başka bir cismin parçası yapılınca niçin imkânlar çoğalıyor?",
+          "answer": "Çünkü o yapının içinde pek çok şekilde yer alabilirdi.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Yine de tek bir yer ve durum verilmesi neyi belli eder?",
+          "answer": "Bilgili ve hikmetli bir düzen kurulduğunu belli eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Verilen bu durumun sonucu nedir?",
+          "answer": "Önemli faydalar ve görevler ortaya çıkar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde “birbiri içinde” anlatılan yapılaşma neyi gösteriyor?",
+          "answer": "Küçük parçaların daha büyük bütünlere bağlı olduğunu gösteriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Asker benzetmesinde anlatılmak istenen temel düşünce nedir?",
+          "answer": "Bir parçanın her toplulukta uygun bir hizmeti olmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Gözdeki hücre örneği neden önemlidir?",
+          "answer": "Çok küçük bir şeyin bile ince bir düzenle yerleştirildiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "O küçücük parça azıcık şaşarsa ne bozulur?",
+          "answer": "Sağlık ve bedenin idaresi bozulur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S4Q10"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçaların hepsine uygun yer vermek kimin işi olabilir?",
+          "answer": "Her şeyi yaratan ve düzenleyen Allah’ın işi olabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S4Q6"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde her şeyin varlığı ve özellikleri için nasıl bir durum anlatılıyor?",
+          "answer": "Birçok ihtimal arasından seçilmiş bir durum anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Seçilmiş gibi duran bu durumun en belirgin özelliği nedir?",
+          "answer": "Düzenli ve hikmetli olmasıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bir şeyin özelliklerinin özel biçimde verilmesi bize ne söyler?",
+          "answer": "Onun bilinçli olarak takdir edildiğini söyler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bir şeyin değişen hâllerinin bile ölçülü olması neyi gösterir?",
+          "answer": "Değişimin de kontrol altında olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Tek bir şey daha büyük bir bedenin parçası olunca sadece yeri mi olur, görevi de olur mu?",
+          "answer": "Görevi de olur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre bu görevler önemsiz midir?",
+          "answer": "Hayır, önemli ve faydalıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Parçadan bütüne doğru gidildikçe delil neden kuvvetlenir?",
+          "answer": "Çünkü her aşamada yeni düzen ve yeni uygunluk görülür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Askerin farklı birliklerde görevli olması hangi düşünceye örnektir?",
+          "answer": "Bir şeyin birçok seviyede ayrı düzenli görevi olmasına örnektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Gözdeki hücrenin bedendeki düzenle bağı var mıdır?",
+          "answer": "Evet, vardır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bağ kopsa veya şaşsa ne ortaya çıkar?",
+          "answer": "Bozukluk ortaya çıkar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "O zaman küçücük bir varlığın doğru yerde olması neden önemlidir?",
+          "answer": "Çünkü bütün düzen onunla da bağlantılıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bölümün vermek istediği büyük ders nedir?",
+          "answer": "Kâinattaki düzenin Allah’ın ilim ve hikmetiyle olduğunu anlamaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S5Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metin, bir şeyin birçok seçenek içinden belli bir hâlde bulunmasını nasıl değerlendiriyor?",
+          "answer": "Bu durumu bilinçli bir seçme olarak değerlendiriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Sadece varlığı değil, hangi yönleri de seçilmiş gibi anlatılıyor?",
+          "answer": "Özellikleri ve devam ettiği süre de seçilmiş gibi anlatılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu seçili düzenin arkasında nasıl bir yaratma vardır?",
+          "answer": "Hikmetli bir yaratma vardır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bir şey tek hâlinden çıkarılıp birleşik bir yapıya katılınca ne çoğalır?",
+          "answer": "Bulunabileceği şekiller çoğalır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Çok seçenek varken bir tanesinin verilmesi neyi gösterir?",
+          "answer": "Tercih eden bir kudreti gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu verilen durumun bir amacı var mıdır?",
+          "answer": "Evet, görev ve fayda içindir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde neden küçükten büyüğe doğru parçalar ve yapılar anlatılıyor?",
+          "answer": "Düzenin her seviyede görüldüğünü göstermek için anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Asker örneğinde aynı kişi neden birçok birliğin içinde düşünülüyor?",
+          "answer": "Her birinde ayrı bir görevi olduğunu anlamamız için düşünülüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Gözdeki çok küçük yapı yalnız göze mi bağlıdır?",
+          "answer": "Hayır, başa ve bütün bedene de bağlıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu küçük yapı yanlış yerde olsa veya görevini bozsa ne olur?",
+          "answer": "Bedenin düzeni ve sağlığı zarar görür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu ince uyum bize hangi ismi hatırlatır: başıboşluk mu, hikmet mi?",
+          "answer": "Hikmeti hatırlatır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p51:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Sonuç olarak metin, kâinattaki yerli yerinde oluşla neyi anlatmak istiyor?",
+          "answer": "Allah’ın varlığını, ilmini ve düzenleyiciliğini anlatmak istiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p51:2-sinif:S6Q11"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:5-sinif:p78",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "5-sinif",
+  "partNo": "p78",
+  "partNumber": 78,
+  "title": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/5-sinif/SveC_5sinif_32-soz-p78-4-nukte-genclige-bahara-ve-dunyaya-muhabbet.txt",
+  "sourceRevision": "4536747a07655d832ff434510f20337f6a37b2a73c8c401f7d1cbb17b040f39a",
+  "setCount": 6,
+  "questionCount": 57,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Gençlik Allah’ın nimeti olarak sevilirse bu nimet en çok hangi yolda kullanılır?",
+          "answer": "İbadet yolunda kullanılır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Böyle kullanan bir kimse yaşlanınca gençlik için niçin çok üzülmez?",
+          "answer": "Çünkü gençliğinde yaptığı iyiliklerin kalıcı sevabını bulur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Gafletle yaşanan gençlik sonunda insanı hangi pişmanlığa götürür?",
+          "answer": "Gençliğin geçmesine yanıp yakınmaya götürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Baharı ve benzeri güzel mevsimleri doğru şekilde sevmek neye bakarak olur?",
+          "answer": "Allah’ın sanatını görüp düşünerek olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bahar bitince bu bakış açısıyla seyir zevki neden bitmez?",
+          "answer": "Çünkü insan onun anlamını hayalinde ve hatırasında yeniden düşünebilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Dünyayı Allah adına sevmek, dünyadaki varlıklara bakışı nasıl değiştirir?",
+          "answer": "Onları korkutucu şeyler gibi değil, yakın ve tanıdık şeyler gibi gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Dünyayı ahirete hazırlık yeri olarak seven kişi ondan nasıl fayda alır?",
+          "answer": "Her şeyden ahirete yarayacak kazanç çıkarır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu anlayışla yaşayan kimse dünya sıkıntıları ve yok oluş karşısında nasıl olur?",
+          "answer": "Daha huzurlu olur, çok sarsılmaz.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Dünyayı gafletle seven kişinin sevgisi sonunda nasıl bir hâl alır?",
+          "answer": "Sıkıcı, bunaltıcı ve boşa giden bir sevgiye dönüşür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada gençlik, bahar ve dünya için ortak olarak verilen güzel ölçü nedir?",
+          "answer": "Hepsini Allah’ın verdiği nimet ve sanat olarak sevmektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S1Q1",
+            "32-soz:p78:5-sinif:S1Q4",
+            "32-soz:p78:5-sinif:S1Q6"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde gençliğin yanlış kullanılmasına örnek olarak hangi kötü yol gösteriliyor?",
+          "answer": "Eğlence ve taşkınlık içinde tüketmek gösteriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Gençliğini ibadetle değerlendiren kişi ihtiyarlıkta hangi iki güzel şeyi düşünür?",
+          "answer": "Daha çok ibadet imkânı bulduğunu ve Allah’ın merhametine daha layık olmayı umduğunu düşünür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Kısa süren gençlik keyfine kapılanlar uzun zamanda hangi sözü söyleyecek hâle gelir?",
+          "answer": "Gençliğin gittiğine üzülüp hayıflanır hâle gelir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Baharın süsünü sevmek, eğer doğru niyetle olursa insan asıl neyi seyretmiş olur?",
+          "answer": "Allah’ın sanatının güzelliğini seyretmiş olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre hayal ve zaman, baharın güzelliği için nasıl bir görev görür?",
+          "answer": "O güzelliği hatırda canlı tutar ve yeniler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Böyle bir bahar sevgisi niçin acı veren geçici bir sevgi olmaz?",
+          "answer": "Çünkü yalnız gelip geçen şekle değil, kalıcı anlamlara bağlanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Dünyayı Allah için seven kişi dünyayı özellikle hangi yönüyle sever?",
+          "answer": "Ahirete ekin yeri olması yönüyle sever.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu şekilde seven kişi dünyadaki her şeyde ne arar?",
+          "answer": "Ahirete fayda verecek bir meyve ve kazanç arar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Dünyayı gaflet ehli gibi sevmenin sonucu neden ağırdır?",
+          "answer": "Çünkü insanı bunaltır, ezer ve sonunda elinde kalıcı bir şey bırakmaz.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Gençlik nimeti doğru sevilirse insan onu hangi kötü şeyde boğmaz?",
+          "answer": "Günah ve sefahat içinde boğmaz.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Gençlikte yapılan ibadetler neden değerli sayılıyor?",
+          "answer": "Çünkü geçici gençlikten kalıcı meyveler kazandırıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İhtiyarlıkta gençliğin zararlı taşkınlıklarından kurtulmak insana ne sağlar?",
+          "answer": "Daha huzurlu ve olgun bir hâl sağlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Baharı Allah’ın sanatını görmek için seven kişi bahar geçince neden boşluğa düşmez?",
+          "answer": "Çünkü gördüğü güzelliklerin manasını düşünmeye devam eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bahar sevgisinin lezzetli ve safalı olması hangi sebebe bağlanıyor?",
+          "answer": "Güzelliğin arkasındaki ilahî sanatı fark etmeye bağlanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Dünyayı Allah’ın adıyla sevmek, insanın dünyadaki kalışını nasıl geçirtebilir?",
+          "answer": "Rahat ve sakin geçirtir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Böyle bir insan için musibetlerin çok korkutucu olmamasının sebebi nedir?",
+          "answer": "Dünyaya sadece geçici yer diye bakıp ondan ahiret kazancı çıkarmasıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Dünyanın yok olup gitmesi bu bakışa sahip kişiyi neden fazla sıkmaz?",
+          "answer": "Çünkü kalıcı olanın ahiret olduğunu bilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre aynı şeyler bazen faydalı, bazen zararlı olabilir. Bunu belirleyen en önemli fark nedir?",
+          "answer": "Onları hangi niyetle sevdiğimizdir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Gençliğe sevgi, Allah’ın verdiği bir hediye olarak olursa insanın davranışında ne değişir?",
+          "answer": "Gücünü ibadet ve hayırlı işlerde kullanır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Böyle yaşayan biri yaşlandığında gençliği kayıp değil, daha çok ne olarak görür?",
+          "answer": "Meyve vermiş bir dönem olarak görür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Gaflet ehlinin gençliğe bakışı ile doğru bakış arasındaki en büyük fark nedir?",
+          "answer": "Biri kısa zevki arar, diğeri kalıcı sevabı arar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Baharın sona ermesi niçin her zaman üzücü olmak zorunda değildir?",
+          "answer": "Çünkü insan onun verdiği anlamları düşünerek sevinci sürdürebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Baharı seyretmenin devam etmesinde insanın hangi iki yönü yardımcı oluyor?",
+          "answer": "Hayali ve zaman içindeki hatırlaması yardımcı oluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Dünyayı doğru sevmek, onu nasıl bir yere benzeten bir anlayış doğurur?",
+          "answer": "Geçici kalınan bir misafirhane gibi görme anlayışı doğurur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Dünyayı ahiret için sevmek, insanın eşyaya bakışında nasıl bir kazanç sağlar?",
+          "answer": "Eşyada faydalı dersler ve manevi kazançlar görmesini sağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Musibetlerin insanı çok sarsmaması, dünyaya hangi gözle bakmakla ilgilidir?",
+          "answer": "Onu son durak değil, geçici bir imtihan yeri gibi görmekle ilgilidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Gafletle sevilen dünya neden neticesiz sayılıyor?",
+          "answer": "Çünkü sonunda kalıcı fayda bırakmıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan çıkan derse göre mümin bir çocuk gençliğini nasıl değerlendirmelidir?",
+          "answer": "Günahlardan sakınıp ibadetle ve faydalı işlerle değerlendirmelidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre gençliği sevmek tek başına kötü değildir. Güzel olması hangi şarta bağlıdır?",
+          "answer": "Onu Allah’ın nimeti bilip doğru yerde kullanmaya bağlıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Gençliğin kalıcı meyveleri sözüyle ne anlatılıyor?",
+          "answer": "Genç yaşta yapılan ibadet ve iyiliklerin sevabı anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İhtiyarlıkta daha çok ibadete yönelme düşüncesi kişiye nasıl bir umut verir?",
+          "answer": "Allah’ın rahmetine yaklaşma umudu verir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Baharın güzelliğine sevgi duyarken hangi noktaya dikkat edilirse bu sevgi doğru olur?",
+          "answer": "Güzelliğin sahibini ve sanatını düşünmeye dikkat edilirse doğru olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bahar geçse de onun güzelliğinin tazelenmesi hangi yolla olur?",
+          "answer": "Hatırlama ve hayalde canlandırma yoluyla olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Dünyayı Allah namına seven kimse için dünya varlıkları neden daha yakın görünür?",
+          "answer": "Çünkü onları başıboş değil, hikmetli ve faydalı görür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Ahirete sermaye toplamak sözü bu parçada neyi anlatıyor?",
+          "answer": "Dünyadaki şeyleri sevap ve hayır kazancına çevirmeyi anlatıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Dünyayı yanlış sevmenin insana verdiği üç kötü sonuçtan biri nedir?",
+          "answer": "Sıkıntı vermesi, ezmesi veya boğucu olmasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın tamamına göre sevgi nasıl olursa insanı yormaz, güzelleştirir?",
+          "answer": "Allah için ve doğru ölçüyle olursa insanı yormaz, güzelleştirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Gençlik Allah’ın nimeti bilinirse insan gençlik gücünü hangi işe harcamaz?",
+          "answer": "Günahkâr eğlenceye harcamaz.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Gençlikteki ibadetlerin yaşlılıkta insana dönüp gelen faydası nedir?",
+          "answer": "Kalıcı sevap ve iç huzuru olarak geri gelir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde gençliği boş yaşayanların sonradan üzülmesi hangi sebebe dayanıyor?",
+          "answer": "Geçici zevkin bitip elden çıkmasına dayanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Baharı sevmek, eğer ilahî sanatı görmek içinse, bu sevgi neden geçici kalmaz?",
+          "answer": "Çünkü mevsim geçse bile anlamı kalpte ve zihinde yaşamaya devam eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bahar sevgisinin acılı olmaktan çıkıp tatlı olmasını sağlayan şey nedir?",
+          "answer": "Onu yalnız dış görünüşüyle değil, verdiği manayla sevmektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Dünyayı Allah için seven biri, dünyanın korkutucu yönleri karşısında nasıl bir tutum kazanır?",
+          "answer": "Daha sakin ve güvenli bir tutum kazanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Dünyayı ahiretin tarlası gibi görmek insanı hangi konuda kazançlı yapar?",
+          "answer": "Yaptığı işlerden ahiret için fayda toplama konusunda kazançlı yapar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Dünyanın geçici olması, doğru seven kişiyi neden bunalıma sokmaz?",
+          "answer": "Çünkü asıl kalıcı hayatın ahiret olduğunu düşünür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Gafletle dünya sevgisinin boğucu olması hangi yanlışlıktan kaynaklanır?",
+          "answer": "Dünyayı tek amaç ve son yer sanma yanlışlığından kaynaklanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p78:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metindeki üç sevgi konusu olan gençlik, bahar ve dünya için ortak sonuç cümlesi nasıl söylenebilir?",
+          "answer": "Allah için sevilirse fayda verir, yanlış niyetle sevilirse üzüntü verir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p78:5-sinif:S6Q1",
+            "32-soz:p78:5-sinif:S6Q4",
+            "32-soz:p78:5-sinif:S6Q6"
+          ]
+        }
+      ]
+    }
+  ]
+}

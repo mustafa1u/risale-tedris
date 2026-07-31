@@ -16,10 +16,17 @@ const TARGET_BOOKS = new Set([
   "ayetul-kubra",
   "kucuk-sozler",
   "meyve-risalesi",
-  "tabiat-risalesi"
+  "tabiat-risalesi",
+  "11-soz",
+  "13-soz",
+  "18-soz",
+  "24-soz",
+  "31-soz",
+  "32-soz",
+  "33-soz"
 ]);
 const SOURCE_FILE_PATTERN =
-  /^SveC_(2sinif|5sinif|8sinif|11sinif|lisans)_(ayetul-kubra|kucuk-sozler|meyve-risalesi|tabiat-risalesi)-(p\d+)-.*\.txt$/i;
+  /^SveC_(2sinif|5sinif|8sinif|11sinif|lisans)_([a-z0-9]+(?:-[a-z0-9]+)*)-(p\d+)-.*\.txt$/i;
 const GRADE_SLUGS = new Map([
   ["2sinif", "2-sinif"],
   ["5sinif", "5-sinif"],

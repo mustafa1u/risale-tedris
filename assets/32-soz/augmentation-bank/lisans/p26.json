@@ -1,0 +1,854 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:lisans:p26",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "lisans",
+  "partNo": "p26",
+  "partNumber": 26,
+  "title": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/lisans/SveC_lisans_32-soz-p26-2-mevkif-2-maksad-2-temsil-cinar-agaci-misaliyle-ehadiyet.txt",
+  "sourceRevision": "d2e55b855e3212a316f97bc20b1a330902b0cf8b12d699ba862d022915cfd679",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci temsilde kâinatı açıklamak için hangi somut örnek seçiliyor ve bu seçimin amacı nedir?",
+          "answer": "Büyük bir çınar ağacı örnek alınıyor; amaç, kâinattaki ilahî birliğin tecellisini daha anlaşılır bir misalle göstermektir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ağaç örneğinde meyve ve çekirdeklerin çokluğu neyi düşündürmek için zikrediliyor?",
+          "answer": "Pek çok şeyin aynı anda, düzenli ve kusursuz biçimde meydana gelmesinin tek bir ilahî tasarrufa dayandığını düşündürmek için anılıyor.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre ağacın aslı, kökü ve gövdesinde bulunan ilahî yönlendirme nasıl bir işleve sahiptir?",
+          "answer": "Ağacın oluşumuna dair düzenin merkezi gibidir; dallara, meyvelere ve çekirdeklere eksiksiz şekilde tesir eden bir sevk ve idare vazifesi görür.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Her dalın ucunda, her meyvenin içinde ve her çekirdeğin yanında aynı ilahî yönelişin bulunması neyi gösterir?",
+          "answer": "Uzaklık ve çokluk, bu tasarrufu bölmez; aynı idare hepsine birlikte erişir ve birini yaparken diğerini aksatmaz.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde bu etkinin ışık, sıcaklık veya hava gibi yayılıp dağılmadığı neden özellikle belirtiliyor?",
+          "answer": "Çünkü öyle olsaydı geçtiği yerlerde iz ve değişim görülmesi beklenirdi; oysa bu tesirde böyle maddî bir dağılma emaresi yoktur.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Buradan hareketle, söz konusu ilahî emrin her yerde bulunma tarzı hakkında hangi sonuca varılıyor?",
+          "answer": "Parçalara ayrılmadan ve yayılmadan, her bir şeyin yanında hazır olduğu ifade ediliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p26:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "“Hem her birinin yanında bulunur, hem hiçbir yerde bulunmaz” anlamındaki ifade nasıl anlaşılmalıdır?",
+          "answer": "Bu, maddî varlıklar gibi bir mekâna sıkışmayan; fakat tesiriyle her şeye doğrudan ulaşan bir tasarrufu anlatır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p26:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Meyveler ve çekirdekler sayısınca göz ve kulak varmış gibi denilmesi hangi hakikati açıklamak içindir?",
+          "answer": "Ağacın her parçasının o ilahî düzenin algılama ve icra noktası gibi çalıştığını, yani her şeyin merkezden haberdar şekilde yönetildiğini anlatmak içindir.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Uzun vasıtaların perde değil de telefon hattı gibi kolaylaştırıcı sayılması neyi vurgular?",
+          "answer": "Sebepler ve ara bağlantılar, ilahî idareyi engellemez; aksine emrin yerine ulaşmasını kolaylaştıran araçlar gibi düşünülmelidir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "“En uzak olanın en yakın gibi olması” hangi teolojik sonuca hizmet eder?",
+          "answer": "Allah’ın irade ve kudretinin mesafe engeline takılmadığını, uzaklık farkı olmaksızın her şeye tasarruf ettiğini gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Son paragrafta görülen bu durumdan Allah hakkında hangi inanç sonucu çıkarılıyor?",
+          "answer": "Allah’ın kudret ve iradesiyle yaratılış ağacının bütün parçalarını ve zerrelerini birlikte idare etmesinin kesinliğe yakın bir açıklıkla anlaşılması gerekir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p26:lisans:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu temsil, ehadiyet sırrını kavramada öğrencinin zihnine hangi temel dersi verir?",
+          "answer": "Tek olan ilahî iradenin, çok sayıdaki varlık ve işi karışıklık olmadan aynı anda kuşatabileceğini öğretir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada kâinat neden bir ağaca benzetiliyor?",
+          "answer": "Çünkü ağaç, çok sayıda parçası bulunan fakat tek bir merkezden düzenlenen bir bütün olduğu için kâinatın işleyişine uygun bir örnek oluyor.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Çınar ağacının “küçük bir kâinat örneği” sayılması ne anlama gelir?",
+          "answer": "Kâinatta görülen düzen, çokluk ve birlik ilişkisi bu ağaç üzerinde daha dar ölçekte gözlemlenebildiği için böyle denir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Ağacın çok sayıdaki meyvesi ve çekirdeği aynı anda sanatlı biçimde ortaya çıkarken hangi hakikat öne çıkarılıyor?",
+          "answer": "Çokluğun arkasında dağınık sebepler değil, birleştirici ve yönlendirici tek bir ilahî irade bulunduğu öne çıkarılıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "“Hayat düğümü” olarak anılan merkezî yapı, örnekte hangi görevi üstlenir?",
+          "answer": "Ağacın iç düzeninin odak noktası gibi durur ve oluşum kanunlarının her tarafa işlemesine vesile olur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre bu merkezî yönlendirme, ağacın hangi kısımlarına kadar uzanır?",
+          "answer": "Dalların uçlarına, meyvelerin içine ve çekirdeklerin yanına kadar ulaşır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bir şeyin başka bir şeye engel olmadan yapılması burada neden önemlidir?",
+          "answer": "Çünkü bu durum, çok sayıdaki işin tek bir iradeyle karışmadan yürütülebileceğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Eğer bu tesir maddî yayılmayla olsaydı nasıl bir sonuç beklenirdi?",
+          "answer": "Aradaki yerlerde iz, etki veya bazı değişim işaretleri görünürdü.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "O izlerin görünmemesi neye delil sayılıyor?",
+          "answer": "Bu yönetimin maddî dağılma yoluyla değil, doğrudan ve parçalanmadan gerçekleştiğine delil sayılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p26:lisans:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Her parçanın o emrî kanunun duygularına merkez olması nasıl yorumlanmalıdır?",
+          "answer": "Ağacın her unsurunun ilahî düzene açık, onun sevkine uygun ve onunla bağlantılı şekilde iş gördüğü anlaşılmalıdır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Telefon benzetmesi, sebeplerle ilahî tasarruf arasındaki ilişkiyi nasıl açıklar?",
+          "answer": "Sebeplerin bağımsız yapanlar olmadığını; yalnızca iradenin etkisini ulaştırmada birer vasıta gibi düşünülebileceğini açıklar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu temsil üzerinden Allah’ın iradesinin bir cilvesi için nasıl bir hükme varılıyor?",
+          "answer": "Tek bir tecelliyle milyonlarca yerde ve işte doğrudan etkili olabildiği sonucuna varılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümledeki “yakîn” vurgusu neyi ifade eder?",
+          "answer": "Bu hakikatin sadece ihtimal veya tahmin olarak değil, gözlemden kuvvet alan sağlam bir iman konusu olarak görülmesi gerektiğini ifade eder.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p26:lisans:S2Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci temsilin ana konusu tek cümleyle nasıl özetlenebilir?",
+          "answer": "Ağaç misali üzerinden, tek ilahî iradenin çok sayıdaki varlığı aynı anda idare edebilmesi anlatılır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Çınar ağacının muhteşem ve büyük oluşu niçin özellikle önemlidir?",
+          "answer": "Çünkü örnek ne kadar kapsamlı olursa, kâinat çapındaki ilahî tasarrufu zihne yaklaştırması da o kadar güçlü olur.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Ağacın çok sayıda meyve ve çekirdeği bulunması hangi kavramla ilişkilidir: dağınıklık mı, birlik içinde idare mi?",
+          "answer": "Birlik içinde idare ile ilişkilidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre ağacın kuruluş kanunlarının bir merkezde toplanması neyi gösterir?",
+          "answer": "İşleyişin başıboş olmadığını, tek bir emir ve iradeye bağlı olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Her meyvenin ve çekirdeğin yanında aynı yönlendirmenin bulunması, ilahî bilginin mi yoksa ilahî aczin mi işaretidir?",
+          "answer": "İlâhî bilginin ve kudretin kuşatıcılığına işarettir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada neden maddî hareket ve yayılma anlayışı reddediliyor?",
+          "answer": "Çünkü ilahî tasarrufun cisimler gibi yer değiştirerek ve aralarda iz bırakarak işlemediği anlatılmak isteniyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "“Bizzat yanında bulunmak” ifadesi burada maddî yakınlık mı, doğrudan tasarruf mu bildirir?",
+          "answer": "Doğrudan tasarruf bildirir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p26:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Aynı hakikatin hem tek hem çok işlerle ilgili görünmesi nasıl mümkün gösteriliyor?",
+          "answer": "Tek olan ilahî tecellinin, bölünmeden her bir şeyle ayrı ayrı ilgilenebildiği örnekle açıklanıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Uzun vasıtaların engel olmaması, insanın alışık olduğu hangi düşünceyi düzeltir?",
+          "answer": "Mesafe arttıkça etkinin zayıflayacağı şeklindeki maddî düşünceyi düzeltir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "En uzaktaki şeyin en yakın gibi olması, ilahî sıfatlardan özellikle hangilerine işaret eder?",
+          "answer": "İrade ve kudretin sınırsızlığına işaret eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Sonuç bölümünde “şecere-i hilkat” ifadesiyle ne kastediliyor?",
+          "answer": "Bütün yaratılmış düzenin, parçalarıyla birlikte tek bir bütün halinde ilahî tasarruf altında olması kastediliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajı okuyan bir öğrencinin şirk iddiasına karşı çıkarabileceği temel cevap nedir?",
+          "answer": "Çokluk ve sebepler, bağımsız güçlere delil değildir; hepsi tek ilahî iradenin hükmü altında işleyen vasıtalardır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde verilen ağaç temsili hangi itiraza cevap vermeye uygundur?",
+          "answer": "Tek olan Allah’ın aynı anda sayısız işi nasıl yapabildiği yönündeki itiraza cevap vermeye uygundur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Ağacın meyvelerinin ve çekirdeklerinin birlikte yaratılması hangi noktayı ispatlamak için kullanılıyor?",
+          "answer": "Birden çok işin, tek bir merkezî yönetim altında düzen içinde gerçekleşebileceğini göstermek için kullanılıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Ağaçtaki düzenin kaynağı olarak gösterilen “irade cilvesi” neyi anlatır?",
+          "answer": "Allah’ın dilemesi ve emriyle işleyen, ağacın bütün oluşumuna yön veren ilahî sevki anlatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu ilahî sevkin her dalın ucunda ve her çekirdeğin yanında olması hangi anlamı taşır?",
+          "answer": "Her varlığın ayrı ayrı gözetildiğini ve hiçbirinin ihmal edilmediğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Metin, bu yönetimin “parçalanmadan” işlediğini hangi delille destekliyor?",
+          "answer": "Aradaki uzun mesafelerde maddî etki izi görülmemesini buna delil gösteriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Maddî dağılım olmayıp doğrudan hazır oluş bulunması, Allah’ın hangi sıfatını anlamayı kolaylaştırır?",
+          "answer": "Her şeye yakın ve her şey üzerinde etkili oluşunu anlamayı kolaylaştırır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Meyve ve çekirdek sayısınca göz ve kulak varmış gibi tasvir edilmesi mecazen ne ifade eder?",
+          "answer": "Tek bir emrin, çok sayıda noktayı aynı anda kuşatacak kadar kapsamlı işlediğini ifade eder.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Vasıtaların telefon teli gibi görülmesi, sebeplerin konumunu nasıl belirler?",
+          "answer": "Sebeplerin bağımsız fail olmadığını, sadece ilahî tasarrufu kolaylaştıran görünür bağlantılar olduğunu belirler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "“En uzak, en yakın gibidir” cümlesi insan aklındaki hangi sınırlı ölçüyü aşmayı hedefler?",
+          "answer": "İlâhî fiilleri insanın mekân ve mesafe ölçüsüyle değerlendirme alışkanlığını aşmayı hedefler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Son paragrafta niçin “gözle görülür derecede” bir kesinlikten söz ediliyor?",
+          "answer": "Çünkü ağaç örneği, soyut bir iddiadan ziyade gözlemle desteklenen bir hakikate dönüştürülüyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Buradaki temsil, kudret ile irade arasındaki ilişkiyi nasıl gösterir?",
+          "answer": "İrade yönlendirici merkez olarak görünür; kudret de o yönlendirmeyi bütün parçalarda eksiksiz uygular.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajın ana mesajı iman eğitimi açısından nasıl ifade edilebilir?",
+          "answer": "Allah’ın birliği, kâinattaki çokluğu açıklamaya engel değil; bilakis çokluk içindeki düzen, o birliğin kuvvetli bir delilidir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada çınar ağacı seçilerek hangi büyük mesele öğrenciye yaklaştırılıyor?",
+          "answer": "Allah’ın ehadiyet sırrı, yani tek oluşuyla beraber her şeye doğrudan hükmetmesi meselesi yaklaştırılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Ağacın sayıca çok meyve ve çekirdeğe sahip olması, ilahî fiiller hakkında nasıl bir düşünce kazandırır?",
+          "answer": "Çok sayıda işin birbiriyle çatışmadan aynı anda yapılabileceğini düşündürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Ağacın kök ve gövdesindeki merkezî yapı, düzenin kaynağı olarak nasıl işlev görür?",
+          "answer": "Ağacın bütün oluşum esaslarını taşıyan bir odak gibi çalışır ve bütün kısımlara yön verir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre bu yöneliş, hiçbir şeyi eksik bırakmadan nasıl bir sonuç doğurur?",
+          "answer": "Her dal, meyve ve çekirdek kendi payına düşen yaratılışı tam olarak alır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Birbirine engel olmama vurgusu, çokluk içindeki ilahî tasarruf için neden önemlidir?",
+          "answer": "Çünkü aynı anda yapılan sayısız işin karışmaması, tek kudretin sınırsızlığını daha açık gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bu yönetimin hava veya ışık gibi dağılmaması neyi reddeder?",
+          "answer": "İlâhî tasarrufun maddî sebeplerin tabi olduğu yayılma ve bölünme kurallarıyla açıklanmasını reddeder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Aradaki mesafelerde iz bırakmaması, bu fiilin mahiyeti hakkında ne söyler?",
+          "answer": "Bu fiilin fizikî aktarım değil, doğrudan ilahî emir ve iradeyle gerçekleştiğini söyler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Her parçanın o emrî kanuna merkez gibi olması, yaratılışta nasıl bir bağlantı düzeni olduğunu gösterir?",
+          "answer": "Her unsurun merkeze açık ve onunla irtibatlı olduğu bir bütünlük düzeni bulunduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Telefon teli benzetmesiyle “uzun vasıta” hakkında hangi yanlış anlayış düzeltiliyor?",
+          "answer": "Aracılar çoğaldıkça işin zorlaşacağı düşüncesi düzeltiliyor; burada aracılar zorluk değil kolaylık vesilesi oluyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "“En uzak, en yakın gibidir” ifadesini kendi cümlelerinle açıklarsan ne dersin?",
+          "answer": "Allah’ın tasarrufunda mesafe farkı yoktur; uzak görünen şeyler de yakın olanlar kadar doğrudan idare edilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Son cümlede geçen “şuhud derecesinde yakin” ne tür bir kesinliği anlatır?",
+          "answer": "Sadece teorik bir kanaati değil, delili açık ve güçlü olduğu için sarsılması zor bir imanî kesinliği anlatır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajdan, Allah’ın kâinatı yönetmesi konusunda hangi genel hüküm çıkar?",
+          "answer": "Bütün varlıklar ve zerreler, tek bir ilahî irade ve kudretin kuşatıcı yönetimi altındadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci temsilin girişinde neden “her ağaç kâinatın hakikatlerine örnek olabilir” deniyor?",
+          "answer": "Çünkü ağaçta görülen birlik, düzen, çoğalma ve merkezden idare gibi özellikler kâinatın genel yapısını anlamaya yardımcı olur.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Odanın önündeki çınarın örnek verilmesi anlatımı nasıl etkiler?",
+          "answer": "Soyut meseleyi göz önünde bulunan somut bir örnekle anlaşılır ve canlı hale getirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "On binlerce meyve ve çok daha fazla çekirdekten söz edilmesi hangi düşünceyi güçlendirir?",
+          "answer": "Sayıca çok olan işlerin tek bir sanat ve düzen içinde birlikte yürütüldüğü düşüncesini güçlendirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Ağacın içinde bulunan merkezî ilahî emir, sadece genel çerçeveyi mi belirler, yoksa tek tek parçalara da ulaşır mı?",
+          "answer": "Tek tek parçalara da ulaşır; her dal, meyve ve çekirdekle doğrudan ilgilidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Hiçbirinin payının eksik bırakılmaması ilahî fiillerin hangi yönünü gösterir?",
+          "answer": "Kuşatıcılığını, titizliğini ve noksansızlığını gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Maddî yayılma kabul edilseydi niçin iz aranırdı?",
+          "answer": "Çünkü cisimsel veya fizikî tesirler geçtikleri yerlerde bir belirti bırakır; bu durumda da ara alanlarda etkiler görünmeliydi.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İz görülmemesi ile “doğrudan hazır oluş” arasında nasıl bir bağ kuruluyor?",
+          "answer": "İz yoksa maddî dolaşım yoktur; öyleyse tesir, bölünmeden ve yer kaplamadan doğrudan gerçekleşiyor demektir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p26:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Metindeki göze ve kulağa benzer tasvirler, ağacın her parçası için ne anlatır?",
+          "answer": "Her parçanın ilahî emrin işleyişine açık bir temas noktası gibi olduğunu anlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Vasıtaların perde değil kolaylaştırıcı olması, sebeplere bakışı nasıl düzenler?",
+          "answer": "Sebepleri asıl yapan güç sanmaktan alıkoyar; onları yalnızca görünürde hizmet eden araçlar olarak konumlandırır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "En uzakla en yakının eşit hale gelmesi, insanın hangi aczini ortaya koyar?",
+          "answer": "İnsanın kendi sınırlı tecrübesini ilahî kudrete ölçü yapma yanlışını ortaya koyar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Sonuç kısmında niçin “tek bir cüz’î tecelli”den hareketle daha büyük bir sonuca gidiliyor?",
+          "answer": "Küçük ölçekte görülen bir ilahî yönelişin, büyük ölçekteki tasarrufu anlamaya sağlam bir kapı açtığı gösterilmek isteniyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p26:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu temsil, tevhid inancını akla yaklaştırmak için hangi yöntemi kullanıyor?",
+          "answer": "Gözle görülen bir düzen örneğinden hareketle, Allah’ın birliğini ve her şeye aynı anda hükmedişini aklî biçimde temellendiriyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

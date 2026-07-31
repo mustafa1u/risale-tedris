@@ -1,7 +1,12 @@
 export const SEARCH_SCHEMA_VERSION = 1;
 export const SEARCH_WORKER_PROTOCOL_VERSION = 1;
 
-export const SEARCH_MODES = Object.freeze(["all", "exact", "boolean", "wildcard", "proximity"]);
+export const SEARCH_LEVELS = Object.freeze(["basic", "advanced"]);
+export const SEARCH_MODES_BY_LEVEL = Object.freeze({
+  basic: Object.freeze(["all", "exact"]),
+  advanced: Object.freeze(["boolean", "proximity"])
+});
+export const SEARCH_MODES = Object.freeze(Object.values(SEARCH_MODES_BY_LEVEL).flat());
 export const SEARCH_SCOPES = Object.freeze(["text", "title", "partNo"]);
 export const SEARCH_CONTEXTS = Object.freeze(["global", "book"]);
 export const SEARCH_PROXIMITY_DISTANCES = Object.freeze([3, 5, 10, 20]);

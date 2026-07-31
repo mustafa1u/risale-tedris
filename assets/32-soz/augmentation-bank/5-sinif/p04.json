@@ -1,0 +1,705 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:5-sinif:p04",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "5-sinif",
+  "partNo": "p04",
+  "partNumber": 4,
+  "title": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/5-sinif/SveC_5sinif_32-soz-p04-1-mevkif-kureyvat-i-hamra-ile-munazara.txt",
+  "sourceRevision": "7786e6943a81b94be3f1e5caf5df0d841369b614435379a1049f7a13e2d1e581",
+  "setCount": 6,
+  "questionCount": 59,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Şerik davasını savunan kişi, zerreden ümidini kesince bu defa neye yöneliyor?",
+          "answer": "Kandaki kırmızı kan taneciğine yöneliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kişi kırmızı kan taneciğine kendisi hakkında hangi iddiayı söylüyor?",
+          "answer": "Onun sahibi ve yöneticisi olduğunu ileri sürüyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p04:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Kırmızı kan taneciği, tek başına olmadığını anlatmak için önce neyi hatırlatıyor?",
+          "answer": "Aynı görevde bulunan diğer kan tanecikleriyle birlikte bir düzen içinde çalıştığını söylüyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Kırmızı kan taneciğine göre, ona gerçekten sahip olduğunu söyleyen birinin önce başka hangi şeylere gücü yetmelidir?",
+          "answer": "Bütün benzer kan taneciklerini ve onların çalıştığı beden hücrelerini de yönetebilmelidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Parçada bu iş için sadece kuvvet yetiyor mu, yoksa başka şeyler de gerekiyor mu?",
+          "answer": "Yalnız kuvvet yetmez; ince bir hikmet ve büyük bir kudret de gerekir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Kırmızı kan taneciği, tabiat ve sebeplerin ona niçin karışamayacağını nasıl açıklıyor?",
+          "answer": "Çünkü ondaki düzen çok kusursuzdur; böyle bir işe ancak her şeyi bilen, gören, işiten ve yapan bir Zât hükmedebilir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Kırmızı kan taneciği, karşısındaki kişinin sözlerini nasıl görüyor?",
+          "answer": "Onları karışık ve değersiz buluyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Kırmızı kan taneciği, niçin uzun uzun cevap vermek istemediğini söylüyor?",
+          "answer": "Görevi çok önemli ve düzeni çok hassas olduğu için vakti olmadığını söylüyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölümde anlatılan ana fikir nedir?",
+          "answer": "Bedendeki küçücük bir varlık bile başıboş değildir; hepsi Allah’ın ilmi ve kudretiyle görev yapar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Parçadan çıkarıma göre, bir tek kan taneciğine gerçek anlamda hükmetmek neden çok zordur?",
+          "answer": "Çünkü o tanecik tek başına değil, bütün beden düzeniyle bağlantılıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada geçen vekil, başarısız olduktan sonra yeni olarak hangi varlıkta delil arıyor?",
+          "answer": "Kandaki kırmızı yuvarlak tanecikte arıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu taneciğe hangi düşünce adına konuşuyor?",
+          "answer": "Sebepler, tabiat ve felsefe adına konuşuyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p04:5-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Kırmızı kan taneciği kendisini nasıl bir topluluğun parçası gibi gösteriyor?",
+          "answer": "Düzenli bir kan ordusunun bir ferdi gibi gösteriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu benzetme, taneciklerin çalışması hakkında bize ne düşündürür?",
+          "answer": "Hepsinin belli bir emir ve düzen altında birlikte hareket ettiğini düşündürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Kırmızı kan taneciği, bedenin içinde dolaştıkları yerler için ne anlatıyor?",
+          "answer": "Hikmetli bir şekilde beden hücrelerinde görevlendirildiklerini anlatıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Karşısındaki kişinin iddiasının anlam taşıması için hangi şartı öne sürüyor?",
+          "answer": "Bütün benzerlerini ve hizmet ettikleri hücreleri yönetebilecek ilim ve kudreti göstermesini istiyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada “zerre kadar karışamazsın” denmesinin sebebi nedir?",
+          "answer": "Çünkü oradaki işleyiş çok hassas ve düzgün olduğu için kör ve şuursuz sebepler etkili olamaz.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Kırmızı kan taneciğine göre, böyle bir düzene hükmedecek olanın hangi özellikleri olmalıdır?",
+          "answer": "Her şeyi gören, işiten, bilen ve yapabilen biri olmalıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Taneciğin sonunda karşısındaki kişiyi susturması neyi gösterir?",
+          "answer": "İddianın boş ve dayanaksız olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan Allah’ın hangi sıfatlarını anlamaya yardımcı bir işaret çıkar?",
+          "answer": "İlim, kudret, hikmet ve her şeyi kuşatan hâkimiyet sıfatlarını düşündürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Şeriklerin sözcüsü, ilk denemeden sonuç alamayınca hangi canlı yapı parçasına yöneliyor?",
+          "answer": "Kırmızı kan taneciğine yöneliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Kırmızı kan taneciği kendisi için “yalnız değilim” derken neyi vurguluyor?",
+          "answer": "Tek başına başıboş olmadığını, benzerleriyle birlikte çalıştığını vurguluyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Kırmızı kan taneciği, yönetim iddiasında bulunan kişiden nasıl bir delil istiyor?",
+          "answer": "Bütün benzerlerine ve hizmet alanlarına hükmedebildiğini göstermesini istiyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Neden sadece bir taneciğe sahip olduğunu söylemek yeterli görülmüyor?",
+          "answer": "Çünkü o tanecik, başka tanecikler ve beden hücreleriyle bağlantılı bir görev yapıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada tabiat ve kuvvet için kullanılan olumsuz nitelikler bize ne anlatır?",
+          "answer": "Şuursuz ve cansız şeylerin böyle ince işleri yapamayacağını anlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Kırmızı kan taneciğinin düzeni için hangi özellik öne çıkarılıyor?",
+          "answer": "Çok kusursuz ve şaşmaz bir düzen öne çıkarılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu düzenden hareketle nasıl bir sonuç çıkarılıyor?",
+          "answer": "Böyle bir düzenin sahibi, sonsuz bilgi ve kudret sahibi olmalıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Kırmızı kan taneciğinin “vaktim yok” demesi, onun nasıl bir durumda olduğunu gösterir?",
+          "answer": "Boş sözlerle uğraşmayacak kadar önemli bir görev içinde olduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın bütünü, şirk düşüncesine karşı nasıl bir cevap veriyor?",
+          "answer": "En küçük canlı parçasının bile Allah’tan başkasına verilemeyeceğini göstererek cevap veriyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde konuşan kırmızı varlık, bedenin neresinde bulunuyor?",
+          "answer": "Kanda bulunuyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Karşısındaki kişi ona hangi iki şeyi kendisi için iddia ediyor?",
+          "answer": "Rablik ve sahiplik iddia ediyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p04:5-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kırmızı kan taneciği, kendisindeki iz ve görev birliğini hangi toplulukla bağlantılı anlatıyor?",
+          "answer": "Kan içindeki bütün benzerleriyle bağlantılı anlatıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Taneciğin sözlerine göre, benzerlerine sahip olmak neden önemlidir?",
+          "answer": "Çünkü hepsi aynı düzen ve görev içinde birlikte çalışır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Beden hücrelerinden söz edilmesi, konunun sadece kanla sınırlı olmadığını nasıl gösterir?",
+          "answer": "Kan taneciklerinin bedenin başka bölümlerine hizmet ettiğini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Kırmızı kan taneciği, karşısındaki kişinin elindeki tabiat ve kuvvet için neden yetersiz diyor?",
+          "answer": "Çünkü onlar işitmeyen, görmeyen ve şuursuz şeylerdir; ince düzeni kuramazlar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada geçen mükemmel düzen, hangi düşünceyi çürütmek için kullanılıyor?",
+          "answer": "Her şeyin sebeplerle veya kendi kendine olduğu düşüncesini çürütmek için kullanılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Taneciğin “ancak böyle bir Zât hükmedebilir” sözü, nasıl bir inancı destekler?",
+          "answer": "Allah’ın tek hâkim olduğu inancını destekler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Taneciğin karşısındaki kişiyi kovması neyin işaretidir?",
+          "answer": "O iddianın ciddiye alınacak bir tarafı olmadığının işaretidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçayı bir cümleyle özetlesen nasıl söylersin?",
+          "answer": "Kandaki küçücük bir varlık bile Allah’ın emriyle düzenli çalışır; sebepler ona sahip çıkamaz.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Şerik adına konuşan kişi, yeni bir destek bulmak için bu bölümde hangi varlığa sesleniyor?",
+          "answer": "Kandaki kırmızı kan taneciğine sesleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Konuşmasına hangi bakış açısından başlıyor?",
+          "answer": "Sebepler ve tabiat anlayışıyla başlıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p04:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Kırmızı kan taneciği, önce kendi dışındaki hangi iki alanı gündeme getiriyor?",
+          "answer": "Kendi benzerlerini ve beden hücrelerini gündeme getiriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu iki alanın anılması, kırmızı kan taneciği hakkında neyi gösterir?",
+          "answer": "Onun geniş bir görev ağı içinde çalıştığını gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Parçada “ince hikmet” denmesi, yapılan işlerin nasıl olduğunu anlatır?",
+          "answer": "Çok ölçülü, dikkatli ve amaçlı olduğunu anlatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "“Büyük kudret” ifadesi neye ihtiyaç olduğunu gösterir?",
+          "answer": "Böyle işleri yapabilmek için çok güçlü bir kudret gerektiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Kırmızı kan taneciğine göre, şuursuz sebepler neden gerçek sahip olamaz?",
+          "answer": "Çünkü sahiplik için bilgi, işitme, görme ve yapma gücü gerekir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Kırmızı kan taneciğinin önemli görevi ile kusursuz düzeni arasında nasıl bir ilişki var?",
+          "answer": "Görevi önemli olduğu için düzeninin de çok düzgün olması gerekir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu parçadan, bedendeki küçük varlıklar hakkında hangi anlayış yanlış çıkar?",
+          "answer": "Onların rastgele ve sahipsiz çalıştığı anlayışı yanlış çıkar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Müslüman bir öğrenci bu parçadan hangi iman dersini alabilir?",
+          "answer": "Allah’ın birliğini ve her şeyi hikmetle yönettiğini daha iyi anlayabilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada anlatılan tartışmada, iddia sahibi kişi önceki başarısızlıktan sonra hangi örneğe gidiyor?",
+          "answer": "Kırmızı kan taneciği örneğine gidiyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Kırmızı kan taneciği, kendi durumunu anlatırken birlik işareti olarak neyi öne çıkarıyor?",
+          "answer": "Ortak görev, ortak düzen ve aynı topluluğa bağlı olmayı öne çıkarıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Taneciğin “bütün benzerlerime sahip ol” demesi neyi ispatlamak içindir?",
+          "answer": "Tek bir parçanın bile bütünden kopuk olmadığını ispatlamak içindir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Beden hücrelerinin anılması, kırmızı kan taneciklerinin ne yaptığını düşündürür?",
+          "answer": "Onların beden içinde belli yerlere hizmet ettiğini düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Karşı tarafın sersem, sağır ve kör gibi sıfatlarla anılması neyi anlatır?",
+          "answer": "Şuursuz sebeplerin bilinçli işler yapamayacağını anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Kırmızı kan taneciğine göre, kendilerindeki düzeni kim yönetebilir?",
+          "answer": "Her şeyi bilen, gören, işiten ve yapan bir Zât yönetebilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Taneciğin sözlerinden, düzen ile bilgi arasında nasıl bir bağ kuruluyor?",
+          "answer": "Düzen ne kadar mükemmelse, onu kuran bilgiyi de o kadar büyük gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Karşısındaki kişiye “sus” demesi nasıl bir hüküm bildirir?",
+          "answer": "İddiasının geçersiz olduğuna dair kesin bir hüküm bildirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölümde asıl hedef alınan yanlış düşünce nedir?",
+          "answer": "Allah’a ortak koşan ve sebepleri gerçek etkili sanan düşüncedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p04:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın sonunda okuyucuda oluşması beklenen ana kanaat nedir?",
+          "answer": "En küçük canlı parçalarının bile Allah’ın hikmeti ve kudretiyle çalıştığı kanaatidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

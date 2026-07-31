@@ -1,0 +1,842 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "31-soz:11-sinif:p21",
+  "bookSlug": "31-soz",
+  "bookTitle": "31. Söz",
+  "bookOrder": 8,
+  "gradeSlug": "11-sinif",
+  "partNo": "p21",
+  "partNumber": 21,
+  "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/31-soz/outputs/11-sinif/SveC_11sinif_31-soz-p21-ikinci-esas-hakikat-i-mirac-imkanin-emsallerle-teyidi-ve-vukuunun-kabulu.txt",
+  "sourceRevision": "d5db4fd6e57080375e00f36130262da1b4bd318fa8ef5641034066f7df1e5287",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümün başında dile getirilen temel tereddüt nedir?",
+          "answer": "Sadece bir şeyin mümkün olmasının, onun gerçekten gerçekleştiğini kabul etmek için yeterli olup olmadığı sorulmakta; ayrıca buna benzer örnekler istenmektedir.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen cevaba göre benzer örneklerin az mı çok mu olduğu nasıl ifade edilmektedir?",
+          "answer": "Son derece çok olduğu, hatta saymakla bitmeyecek kadar fazla bulunduğu belirtilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p21:11-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Görme ile ilgili verilen örnek, insanın hangi türden hızlı bir yükselişine işaret eder?",
+          "answer": "İnsanın bakışıyla çok uzak gök cisimlerine âdeta bir anda ulaşabilmesine işaret eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Akıl sahibi insan için verilen misal, düşüncenin hangi özelliğini öne çıkarır?",
+          "answer": "Zihnin, ilim ve kâinat bilgisi aracılığıyla çok uzak yerlere kısa sürede varabilmesini öne çıkarır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Namazla ilgili örnek, müminin manevi hayatı açısından neyi göstermektedir?",
+          "answer": "Namazda kalbin ve fikrin yükselerek kulun manevi olarak Allah’ın huzuruna yöneldiğini göstermektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Kalp ehli ve olgun veliler hakkında verilen örneklerde hangi ortak nokta vardır?",
+          "answer": "Her ikisinde de manevi yolculuğun normal maddi ölçülerden farklı şekilde gerçekleşebildiği anlatılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bazı büyük zatlarla ilgili aktarılan haberler, hangi iddiayı desteklemek için kullanılmıştır?",
+          "answer": "Manevi yükselişin çok kısa zaman içinde çok yüksek makamlara ulaşabileceğini desteklemek için kullanılmıştır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Meleklerle ilgili verilen misal, Mi'rac’ın kabulüne nasıl katkı sağlar?",
+          "answer": "Nurlu varlıkların çok kısa sürede yüksek ve aşağı âlemler arasında gidip gelebildiğini göstererek böyle bir yükselişin akıldan uzak olmadığını destekler.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Cennet ehlinin kısa zamanda yükselmesi örneği, hangi sonuca zemin hazırlar?",
+          "answer": "Ahiret düzeninde ve ilahi kudret dairesinde kısa zamanda büyük mesafelerin aşılmasının mümkün ve makul olduğuna zemin hazırlar.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde Hz. Peygamber’in konumu hangi yönlerden diğerlerinden üstün gösterilmektedir?",
+          "answer": "Velilerin en üstünü, müminlerin önderi, cennet ehlinin başı ve melekler katında makbul bir zat olarak gösterilmektedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu üstün konum ile Mi'rac arasında nasıl bir uygunluk kurulmaktadır?",
+          "answer": "Böylesine yüksek makamdaki bir zat için, makamına uygun özel bir yükseliş yolunun bulunmasının hikmete uygun olduğu söylenmektedir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda Mi'rac hakkında hangi üç hüküm birlikte verilmektedir?",
+          "answer": "Bunun hikmetli olduğu, akla uygun bulunduğu ve şüphesiz gerçekleşmiş olduğu ifade edilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, “emsali olmayan şey kabul edilmez” tarzındaki itiraza nasıl karşılık verilmektedir?",
+          "answer": "Böyle bir olayın benzerlerinin bulunduğu, dolayısıyla tek başına imkânla yetinilmediği; örneklerle kabulünün güçlendirildiği söylenmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Göz örneği ile akıl örneği arasında nasıl bir benzerlik vardır?",
+          "answer": "İkisi de insanın maddi bedeniyle gitmeden, çok uzak alanlara kısa sürede ulaşabildiğini göstermektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Göz örneği ile akıl örneği arasında nasıl bir fark vardır?",
+          "answer": "Birinde görme duyusunun süratli kavrayışı, diğerinde düşüncenin ve ilmin zihnî yolculuğu öne çıkarılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Namaz örneğinde geçen manevi yükseliş, fiziksel bir hareketten çok neyi anlatır?",
+          "answer": "Kulun ibadet içinde kalben ve fikren yücelmesini anlatır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Velilerin manevi yolculuğu ile namazdaki yükseliş arasında hangi ortak yön bulunur?",
+          "answer": "İkisi de insanın sadece maddeyle sınırlı olmadığını, ruh ve kalp yönüyle yüksek derecelere yönelebileceğini gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Büyük veli zatlardan söz edilmesi, delillendirme bakımından nasıl bir rol oynar?",
+          "answer": "Manevi tecrübenin yalnız teorik bir ihtimal değil, güvenilir zatların bildirdiği bir hakikat olduğunu destekler.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Meleklerin hareketi neden özellikle anlamlı bir örnek sayılabilir?",
+          "answer": "Çünkü onlar nurani varlıklardır ve kısa zamanda büyük mesafeleri aşabilmeleri, hızlı geçişlerin ilahi düzen içinde mümkün olduğunu gösterir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Cennet ehliyle ilgili örnek, dünya şartlarıyla ahiret şartlarının aynı olmadığını nasıl hissettirir?",
+          "answer": "Ahirette zaman ve mesafe ile ilgili durumların dünyadaki alışılmış ölçülerden farklı işlediğini düşündürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki örnekler daha çok hangi ana fikri ispat etmeye yöneliktir?",
+          "answer": "Olağanüstü gibi görünen bir yükselişin, benzer misaller sebebiyle kabul edilebilir olduğunu göstermeye yöneliktir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Hz. Peygamber’in müminler, veliler, cennet ehli ve meleklerle ilişkisinde nasıl bir merkezî konum verilmektedir?",
+          "answer": "Hepsinin içinde en seçkin ve önder bir mevkie sahip olduğu vurgulanmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "“Makamına uygun bir Mi'rac” ifadesinden ne anlaşılmalıdır?",
+          "answer": "Onun yüce derecesine yaraşır, sıradan olmayan, özel ve üstün bir ilahi yükseliş anlaşılmalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün örneklerin ardından varılan kesin sonuç nedir?",
+          "answer": "Mi'rac’ın hem aklen kabul edilebilir olduğu hem de gerçekten meydana geldiği sonucuna varılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda cevap verilen soru, imkân ile gerçekleşme arasındaki hangi ilişkiyi sorgular?",
+          "answer": "Bir olayın sadece mümkün olmasının, onun fiilen meydana geldiğini kabul etmeye yetip yetmeyeceğini sorgular.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Cevabın ilk adımı olarak ne yapılmaktadır?",
+          "answer": "Önce, buna benzer olayların çokça bulunduğu söylenerek itirazın dayanağı zayıflatılmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İnsanın bakışıyla uzak gezegenlere ulaşması örneği gerçek bir beden yolculuğunu mu, başka bir şeyi mi anlatır?",
+          "answer": "Gerçek beden yolculuğunu değil, görmenin süratli erişimini anlatır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Kozmoğrafya bilgisine dayanarak zihnin yıldızların ötesine gitmesi neyi gösterir?",
+          "answer": "İnsan aklının kısa sürede çok geniş alanları kavrayabildiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Namazdaki fiiller ve rükünler üzerine düşünerek yükselme örneği, ibadetin hangi boyutunu öne çıkarır?",
+          "answer": "İbadetin yalnız dış hareketlerden ibaret olmayıp derin bir manevi yön taşıdığını öne çıkarır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Seyr ü sülûk ifadesi bu parçada hangi anlam çevresinde kullanılmaktadır?",
+          "answer": "Manevi eğitim ve kalbî ilerleyiş yoluyla yüksek derecelere ulaşma anlamında kullanılmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bazı velilerin çok kısa zamanda yüksek makamlara çıktığına dair haberler, nasıl bir anlayışı destekler?",
+          "answer": "Ruhani yükselişte zamanın maddi ölçülerle sınırlı olmadığını destekler.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Meleklerin iniş ve çıkışına değinilmesi, varlık türleri bakımından nasıl bir genişlik sağlar?",
+          "answer": "Sadece insan değil, farklı yaratılmış varlıklarda da hızlı geçişlerin bulunduğunu göstererek örnek alanını genişletir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Cennet ehlinin kısa sürede cennete ulaşması, ilahi ikram ve kudret açısından neyi düşündürür?",
+          "answer": "Allah’ın dilediğinde kullarına süratli ve kolay geçişler nasip edebileceğini düşündürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada verilen örnekler bir araya getirildiğinde hangi mantık kurulmaktadır?",
+          "answer": "Benzerleri birçok derecede görülen bir hakikatin, en yüce zat hakkında daha yüksek şekilde bulunmasının tabiî olduğu mantığı kurulmaktadır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Hz. Peygamber için kullanılan yüce sıfatlar, Mi'rac’ın neden özel olması gerektiğini nasıl açıklar?",
+          "answer": "Çünkü bu sıfatlar onun diğerlerinden üstün bir makama sahip olduğunu, bu sebeple yükselişinin de eşsiz ve yüksek olmasının uygun olduğunu gösterir.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümledeki kesinlik tonu, Mi'rac hakkında nasıl bir inanç tavrı ortaya koyar?",
+          "answer": "Tereddütsüz, sağlam ve kesin bir kabul tavrı ortaya koyar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki itiraz, olayın hangi yönüne odaklanmaktadır: kudret açısından mümkün oluşuna mı, örneğinin bulunup bulunmamasına mı?",
+          "answer": "Daha çok, örneğinin bulunup bulunmamasına ve bu yüzden gerçekleşmiş sayılıp sayılamayacağına odaklanmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta örnekler hangi alanlardan seçilmektedir?",
+          "answer": "Görme, düşünme, ibadet, velayet, meleklerin hareketi ve ahiret hayatı gibi farklı alanlardan seçilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Farklı alanlardan örnek verilmesinin amacı ne olabilir?",
+          "answer": "Konunun sadece tek bir sahaya ait olmayıp pek çok düzeyde benzerlerinin bulunduğunu göstermek olabilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Görme örneği insanın hangi imkânına dayanır?",
+          "answer": "Duyu yoluyla uzakları süratle algılama imkânına dayanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Akıl örneği, ilim ile zihinsel yolculuk arasında nasıl bir bağ kurar?",
+          "answer": "İlim sayesinde aklın çok uzak ve geniş alanları kısa zamanda kavrayabildiğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Namaz örneği neden özellikle bir mümin için güçlü bir delil sayılabilir?",
+          "answer": "Çünkü mümin, namazda Rabbine yönelmenin manevi yakınlığını yaşayabildiği için bu yükselişi kendi ibadet tecrübesiyle anlayabilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Velilerin örneği ile meleklerin örneği arasında varlık bakımından nasıl bir fark vardır?",
+          "answer": "Veliler insan türünden olup manevi eğitimle yükselir; melekler ise baştan nurani yaratılmış varlıklardır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İnsanlardan, meleklerden ve cennet ehlinden örnekler verilmesi neyi gösterir?",
+          "answer": "Hızlı yükseliş ve geçişlerin farklı varlık mertebelerinde görülebildiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Parçaya göre Hz. Peygamber’in Mi'rac’ı sıradan bir keramet gibi mi, yoksa daha kapsamlı bir hadise gibi mi düşünülmelidir?",
+          "answer": "Daha kapsamlı, daha yüce ve makamına uygun özel bir hadise olarak düşünülmelidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "“Bütün evliyaların sultanı” ifadesi, kıyas yaparken nasıl bir sonuç doğurur?",
+          "answer": "Velilerde görülen manevi yükselişin en üstün derecesinin onda bulunmasının daha uygun olacağı sonucunu doğurur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde “hikmet” ile “makullük” arasında nasıl bir ilişki kurulmaktadır?",
+          "answer": "Bir olayın ilahi düzende yerli yerinde olması, onun akla da uygun görünmesini sağlamaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajdan hareketle, Mi'rac’ı inkâr yerine kabule götüren temel dayanak nedir?",
+          "answer": "Benzer örneklerin çokluğu ve Hz. Peygamber’in üstün makamı sebebiyle böyle bir olayın uygun, anlaşılır ve gerçekleşmiş kabul edilmesidir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada dile getirilen şüpheci yaklaşım hangi iki basamaklı itirazdan oluşur?",
+          "answer": "Önce “mümkün olabilir” denir; ardından “ama her mümkün olan gerçekleşmez” denilerek örnek talep edilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen cevapta neden doğrudan tek bir örnekle yetinilmeyip çok sayıda misal sıralanmaktadır?",
+          "answer": "Çünkü amaç, olayın benzerinin sadece bir yerde değil birçok derecede bulunduğunu göstererek kabulü güçlendirmektir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Görme ve akıl örnekleri, insanın maddi sınırlarını aşmadan hangi genişliğe sahip olduğunu gösterir?",
+          "answer": "Algı ve düşünce bakımından çok uzak âlemlere kısa sürede ulaşabilecek bir genişliğe sahip olduğunu gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Namazın bir çeşit Mi'rac olarak sunulması, ibadetin insan üzerindeki hangi etkisini vurgular?",
+          "answer": "İbadetin insanı maneven yükseltip Allah’a yönelten bir vasıta olduğunu vurgular.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Kırk günde yüksek manevi dairelerden geçebilen veliler örneği neyi anlatır?",
+          "answer": "Manevi ilerleyişin insan için mümkün olduğunu ve belli bir eğitimle yüksek derecelere çıkılabildiğini anlatır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bir dakikada ruhani yükseliş yaşandığına dair haberler, önceki örneğe ne ekler?",
+          "answer": "Sadece uzun süreçte değil, bazı durumlarda çok kısa zamanda da böyle bir yükselişin yaşanabileceğini ekler.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Meleklerin hareketi ile velilerin yükselişi birlikte düşünülünce nasıl bir sonuç çıkar?",
+          "answer": "Hem insanî hem nurani düzeyde süratli geçişlerin var olduğu, dolayısıyla Mi'rac’ın yabancı bir durum olmadığı sonucu çıkar.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Cennet ehlinin mahşerden cennete çabuk ulaşması hangi açıdan dikkat çekicidir?",
+          "answer": "Çok büyük bir geçişin ilahi kudretle kısa zamanda gerçekleşebileceğini göstermesi açısından dikkat çekicidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metin, Hz. Peygamber’in makamını neden ayrıca vurgulama ihtiyacı duyar?",
+          "answer": "Çünkü onun üstün makamı, kendisine has ve en yüksek derecede bir Mi'rac’ın uygunluğunu temellendirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajda kurulan kıyas, “başkalarında olan bir şey onda da olur” demekten öte ne söyler?",
+          "answer": "Başkalarında sınırlı şekilde görülen bir hakikatin, en üstün zat olan onda daha mükemmel şekilde bulunmasının beklenmesi gerektiğini söyler.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "“Şüphesiz gerçekleşmiştir” sonucuna varılırken sadece aklî ihtimal mi esas alınmıştır?",
+          "answer": "Hayır, aklî ihtimale ek olarak çok sayıda benzer örnek ve makam uygunluğu da esas alınmıştır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın ana mesajı tek cümleyle nasıl özetlenebilir?",
+          "answer": "Mi'rac, benzerleri çeşitli derecelerde görülen, Hz. Peygamber’in yüce makamına uygun, hikmetli ve kesin bir hakikattir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde ele alınan itiraz, kabul için hangi şartın eksik görüldüğünü ileri sürmektedir?",
+          "answer": "Sadece mümkün olmanın yetmeyeceği, benzer örnekler olmadan gerçekleşmiş saymanın eksik kalacağı ileri sürülmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta ilk olarak verilen hüküm nedir?",
+          "answer": "Benzer örneklerin son derece çok olduğu hükmüdür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "“Her gören” için verilen örnek, insan tecrübesinden hareketle nasıl bir kolaylığı anlatır?",
+          "answer": "İnsanın bakışıyla çok uzak gök cisimlerini kısa anda zihninde ve görüşünde hazır edebilmesini anlatır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "“Her akıl sahibi” için verilen örnek, bilgi ile sürat arasında nasıl bir bağ kurar?",
+          "answer": "Bilginin, zihni çok uzak âlemlere gecikmeden ulaştırabildiğini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "“Her iman sahibi” ifadesiyle başlayan namaz örneğinde, inanan kişinin hangi yönü öne çıkarılmaktadır?",
+          "answer": "İbadet içinde düşüncesini ve ruhunu yüceltebilen manevi yönü öne çıkarılmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Kalp sahibi olgun veliler hakkında verilen örnekler, maneviyat eğitimine nasıl bakmaktadır?",
+          "answer": "Maneviyat eğitimini, insanı yüksek makamlara taşıyan gerçek bir yol olarak görmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Büyük velilerden nakledilen haberlerin “sadık” diye nitelenmesi neden önemlidir?",
+          "answer": "Bu aktarımların güvenilir kabul edildiğini ve delil değerinin artırıldığını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Meleklerin kısa zamanda gidip gelmesi ile cennet ehlinin süratli yükselişi birlikte neyi ispatlamaya hizmet eder?",
+          "answer": "İlahi âlemlerde kısa zaman içinde büyük geçişlerin mümkün olduğunu ispatlamaya hizmet eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Hz. Peygamber’in “müminlerin imamı” olarak anılması, Mi'rac’la nasıl ilişkilendirilebilir?",
+          "answer": "Müminlerin önderi olan zatın, onlara örnek olacak en yüksek manevi yakınlığa sahip bulunmasının uygunluğunu düşündürür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "“Meleklerin makbulü” olarak tanıtılması, onun Mi'rac’ı için ne ima eder?",
+          "answer": "Semavi âlemlerle ilişkisi yüksek olan böyle bir zatın o âlemlere yönelik özel bir yolculuğunun uygun olduğunu ima eder.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Parçanın muhakemesinde “hikmet”, “makullük” ve “vuku” nasıl sıralanmaktadır?",
+          "answer": "Önce böyle bir olayın hikmete uygun olduğu, sonra akla yatkın bulunduğu, ardından da gerçekten meydana geldiği söylenmektedir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p21:11-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasaj öğrencinin zihnindeki şüpheyi gidermek için en çok hangi yöntemi kullanır?",
+          "answer": "Çeşitli alanlardan benzer örnekler getirip kıyas yoluyla ikna etme yöntemini kullanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

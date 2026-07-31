@@ -1,5 +1,5 @@
 ---
-import kulliyatImage from "@/assets/home/rahle-boy-kulliyat-2.webp";
+import kulliyatImage from "../../assets/home/rnk-kulliyat.png";
 import { SEARCH_ENABLED } from "@/config/features.js";
 import { libraryIndex } from "@/data/library.generated";
 import { getHomepageCtas } from "@/features/library/libraryHome.js";
@@ -24,9 +24,14 @@ const globalSearch = SEARCH_ENABLED
       <div class="home-hero__copy">
         <p class="eyebrow">{text.home.hero.eyebrow}</p>
         <h1>{text.home.hero.heading}</h1>
-        <p class="lede">{text.home.hero.lede}</p>
+        {text.home.hero.lede ? <p class="lede">{text.home.hero.lede}</p> : null}
+        <ul class="home-hero__feature-labels" aria-label={text.home.hero.lede || text.home.hero.heading}>
+          {text.home.hero.featureLabels.map((label) => (
+            <li>{label}</li>
+          ))}
+        </ul>
         <div class="home-actions">
-          <a class="button" href={localizedPath(locale, homeCtas.booksHref)}>{text.home.hero.primaryCta}</a>
+          <a class="button" href={localizedPath(locale, homeCtas.howItWorksHref)}>{text.home.hero.primaryCta}</a>
           <a class="button-secondary" href={localizedPath(locale, homeCtas.lessonFlowHref)}>{text.home.hero.secondaryCta}</a>
         </div>
       </div>

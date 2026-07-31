@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:lisans:p20",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "lisans",
+  "partNo": "p20",
+  "partNumber": 20,
+  "title": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/lisans/SveC_lisans_33-soz-p20-16-pencere-hikmet-inayet-rahmet-ve-rizik-zinciri.txt",
+  "sourceRevision": "6624b926949e04f404d5ceaafba750144c749334b30ca0ad5709b7f9fdeba4c9",
+  "setCount": 6,
+  "questionCount": 56,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p20:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Mevsimlerin değişmesiyle yeryüzünde canlıların ve varlıkların yenilenmesinde görülen düzen, ilk olarak hangi hakikate işaret eder?",
+          "answer": "Her şeyi kuşatan bir hikmetin varlığına işaret eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde, hikmetin tek başına düşünülemeyeceği hangi ilkeye bağlanır?",
+          "answer": "Bir sıfatın, kendisini taşıyan bir zata dayanması gerektiği ilkesine bağlanır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Genel hikmetten sonra zikredilen dikkat çekici süsleme ve güzellikler neyi gösterir?",
+          "answer": "Kapsayıcı bir ilgi, gözetme ve lütuf bulunduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu kuşatıcı ilgi ve lütuf, hangi vasfa sahip bir yaratıcıyı düşündürür?",
+          "answer": "İkram sahibi, cömert bir yaratıcıyı düşündürür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p20:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Lütuf ve ihsanın bütün canlılara yayılması, hangi daha geniş manayı ortaya koyar?",
+          "answer": "Geniş ve kuşatıcı bir merhameti ortaya koyar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu geniş merhamet, hangi isim ve sıfatlara sahip bir Rabbi gösterir?",
+          "answer": "Rahman ve Rahîm olan bir Rabbi gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p20:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Rızka muhtaç canlıların uygun ve eksiksiz biçimde beslenmesi, hangi iki özelliği gösterir?",
+          "answer": "Terbiye eden bir sahiplenmeyi ve şefkatli bir yönetimi gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu terbiye ve idareden hangi ilahî sıfata ulaşılır?",
+          "answer": "Cömertçe rızık veren bir Rezzak’a ulaşılır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p20:lisans:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki delil zinciri hangi sırayla ilerler?",
+          "answer": "Hikmetten inayete, inayetten rahmete, rahmetten de rızıklandırmaya doğru ilerler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada anlatılan ana düşünce nedir?",
+          "answer": "Yeryüzündeki düzen, güzellik, merhamet ve rızık verme hâllerinin; tek, hikmet sahibi, merhametli ve rızık verici olan Allah’ı gösterdiğidir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p20:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Yeryüzünde her mevsim yeniden görülen yaratma ve idare faaliyetleri, nasıl bir düzen anlayışını ortaya koyar?",
+          "answer": "Gelişigüzel olmayan, maksatlı ve kuşatıcı bir düzen anlayışını ortaya koyar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre böyle bir düzenin varlığı, neden doğrudan bir hikmet sahibini gösterir?",
+          "answer": "Çünkü hikmet denilen nitelik, kendi başına durmaz; onu taşıyan bir fail gerektirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Hikmet perdesi içinde görülen olağanüstü güzelleştirme ve süsleme nasıl yorumlanır?",
+          "answer": "Varlıkların başıboş bırakılmadığını, özel bir ilgiyle ele alındığını gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu özel ilginin faili için kullanılan temel nitelik nedir?",
+          "answer": "Kerem ve inayet sahibi olmasıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p20:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Umuma yayılan iyilik ve ikramlar hangi üst kavram altında toplanır?",
+          "answer": "Geniş kapsamlı rahmet altında toplanır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Rahmetten rızka geçişte canlıların hangi özelliği özellikle öne çıkarılır?",
+          "answer": "Hepsinin yaşamak için rızka muhtaç oluşu öne çıkarılır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Canlıların ihtiyaçlarına uygun biçimde beslenmesi, sadece güç değil ayrıca neyi gösterir?",
+          "answer": "Şefkatli bir terbiye ve bilinçli bir yönetimi gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada rızık verme işi neden sıradan bir dağıtım gibi sunulmaz?",
+          "answer": "Çünkü ihtiyaçlara uygun, tam ve yerli yerinde bir şekilde gerçekleştiği için bilinçli bir rububiyetin eseri olarak sunulur.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bu pasajda Allah’ın hangi isimleri özellikle öne çıkarılmaktadır?",
+          "answer": "Hakîm, Kerîm, Rahmân, Rahîm ve Rezzak isimleri öne çıkarılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p20:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde yeryüzündeki yenilenmenin yalnız yaratma ile değil, hangi ikinci unsurla birlikte ele alındığı görülür?",
+          "answer": "Yaratmanın yanında idare ve düzenleme ile birlikte ele alındığı görülür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Yaratma ve idaredeki düzenin “apaçık” kabul edilmesi, delilin hangi yönünü güçlendirir?",
+          "answer": "Delilin açık, doğrudan ve inkârı zor bir nitelikte olduğunu güçlendirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Hikmetten sonra gelen “tezyinat” ifadesi, varlıklarda sadece var olmanın ötesinde ne bulunduğunu anlatır?",
+          "answer": "Sadece var edilme değil, güzel ve sanatlı şekilde donatılma bulunduğunu anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Güzellik ve süslemenin inayete delil sayılması, yaratılışta hangi manayı öne çıkarır?",
+          "answer": "İncelik, özen ve özel gözetim manasını öne çıkarır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İhsan ve lütfun herkese ulaşması, merhametin hangi niteliğini vurgular?",
+          "answer": "Sınır tanımayan, geniş ve kapsayıcı oluşunu vurgular.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Rahmetin ardından canlıların beslenmesine dikkat çekilmesi, merhametin hangi somut yönünü gösterir?",
+          "answer": "Merhametin fiilî olarak ihtiyaçları karşılamaya dönüştüğünü gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "“Lâyık ve mükemmel tarzda” beslenme ifadesinden hangi çıkarım yapılabilir?",
+          "answer": "Rızkın rastgele değil, her canlıya uygun ve eksiksiz biçimde verildiği çıkarımı yapılabilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada geçen terbiye ve rububiyet arasında nasıl bir ilişki kurulmaktadır?",
+          "answer": "Terbiye, rububiyetin canlılar üzerindeki düzenleyici ve geliştirici tecellisi olarak sunulmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre yeryüzüne dikkatle bakan biri, ilahî fiillerde en az hangi dört temel vasfı görmelidir?",
+          "answer": "Hikmet, inayet, rahmet ve rızık verme vasıflarını görmelidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p20:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Mevsimsel yenilenme örneği üzerinden yeryüzünde hangi genel ilahî işleyiş gösterilmektedir?",
+          "answer": "Sürekli yaratma, düzenleme ve ihtiyaçları karşılama şeklindeki ilahî işleyiş gösterilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Parçada hikmetin ardından süsleme ve güzelliklerin zikredilmesi, varlıkların hangi yönünü öne çıkarır?",
+          "answer": "Yalnız fayda değil, estetik ve incelik taşıyan bir yaratılış yönünü öne çıkarır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İlahî inayetin “tam” olarak nitelenmesi neyi anlatır?",
+          "answer": "İlginin eksik ve parçalı değil, kuşatıcı ve eksiksiz olduğunu anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Umuma yayılan ikramların rahmete delil olması, Allah’ın kullarıyla ilişkisinde hangi ahlâkî boyutu gösterir?",
+          "answer": "Şefkat ve esirgeme boyutunu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Canlıların uygun şekilde doyurulması neden sadece “vermek” değil aynı zamanda “terbiye etmek” sayılır?",
+          "answer": "Çünkü ihtiyaç zamanını, miktarı ve uygunluğu gözeten bir bakım ve yönlendirme içerir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre rızık verme fiili hangi ilahî isme özellikle kapı açar?",
+          "answer": "Rezzak ismine kapı açar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Hikmet, inayet, rahmet ve rızıklandırma arasındaki ilişki nasıl anlaşılmalıdır?",
+          "answer": "Bunlar birbirinden kopuk değil, aynı ilahî idarenin iç içe geçmiş tecellileri olarak anlaşılmalıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu pasajda deliller daha çok insanın hangi gözlem alanına yöneliktir?",
+          "answer": "Yeryüzündeki canlılar ve onların yaşayışı üzerindeki gözlem alanına yöneliktir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın verdiği en temel iman dersi nedir?",
+          "answer": "Kâinattaki düzen ve şefkat tecellilerinin Allah’ın varlığına ve birliğine kuvvetli delil olduğudur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p20:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada “icad” ve “tedbir” kelimelerinin birlikte kullanılması neyi düşündürür?",
+          "answer": "Varlıkların hem yaratıldığını hem de sonrasında düzenli biçimde sevk ve idare edildiğini düşündürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Yeryüzünde tekrar eden düzenin hikmete delil olması, olayların hangi ihtimali dışarıda bıraktığını gösterir?",
+          "answer": "Olayların başıboşluk ve anlamsızlık ihtimalini dışarıda bıraktığını gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Hikmetten sonra gelen olağanüstü süsleme, yaratılışta hangi inceliği fark ettirir?",
+          "answer": "Faydanın yanında zarafet ve sanat bulunduğunu fark ettirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İnayetin bir yaratıcıyı göstermesi, varlıklarla ilgili nasıl bir ilişkiye işaret eder?",
+          "answer": "Yakından gözeten, değer veren ve ihsan eden bir ilişkiye işaret eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Rahmetin “geniş” olarak tanıtılması, nimetlerin hangi kapsamını anlatır?",
+          "answer": "Belli bir gruba değil, genel olarak bütün canlılara yöneldiğini anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Beslenme ve geçim imkânlarının “uygun” ve “mükemmel” biçimde verilmesi, ilahî fiillerde hangi iki özelliği birleştirir?",
+          "answer": "Şefkat ile düzenli terbiyeyi birleştirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Rububiyetin şefkatkârane sunulması, ilahî yönetimi nasıl bir idare olarak tanımlar?",
+          "answer": "Sert ve ilgisiz değil, koruyucu ve merhametli bir idare olarak tanımlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Parçadaki delil yürütmede gözlemden inanca geçiş nasıl kurulmaktadır?",
+          "answer": "Görülen düzen ve nimetlerden, bunların sahibi olan hikmetli ve merhametli bir Rabbe ulaşılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin bu bölümünü tek cümleyle özetlemek gerekse nasıl özetlenir?",
+          "answer": "Yeryüzündeki düzen, güzellik, merhamet ve rızık verme; her şeyi hikmetle yöneten tek bir Rabbin açık eserleridir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p20:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Mevsimden mevsime yenilenen mahlûkat üzerinden hangi sürekli ilahî faaliyet okunmaktadır?",
+          "answer": "Sürekli devam eden yaratma ve yönetme faaliyeti okunmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu faaliyetlerdeki düzen neden hikmetin varlığını zorunlu kılar?",
+          "answer": "Çünkü yerli yerinde ve düzenli işler, bilinçli ve amaçlı bir tasarrufu gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Hikmetin bir Hakîm’i göstermesi, sıfat-zat ilişkisi bakımından ne ifade eder?",
+          "answer": "Niteliklerin sahipsiz olmayacağını, her sıfatın bir zata dayandığını ifade eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Hikmet perdesi altında görülen süsleme ve güzellikler, ilahî fiillerin hangi yönünü hissettirir?",
+          "answer": "İnce sanat, özen ve ikram yönünü hissettirir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İnayetin ardından gelen umumi ihsan ve iltifatlar hangi daha kapsamlı hakikate çıkar?",
+          "answer": "Kapsamlı bir rahmet hakikatine çıkar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Rahmetten sonra özellikle rızık meselesinin öne alınmasının sebebi ne olabilir?",
+          "answer": "Çünkü canlıların hayatını doğrudan sürdüren en açık ihtiyaçlardan biri rızıktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Canlıların ihtiyaçlarına göre beslenmesi, ilahî rububiyet hakkında hangi sonuca götürür?",
+          "answer": "Her canlıyı bilen, ona uygun şekilde bakan ve yöneten bir rububiyet sonucuna götürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "“Terbiyekârane” ve “şefkatkârane” ifadeleri birlikte düşünüldüğünde nasıl bir ilahî tasarruf ortaya çıkar?",
+          "answer": "Hem geliştirici hem de merhametle kuşatan bir ilahî tasarruf ortaya çıkar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu pasajda kullanılan delil yöntemi daha çok aklî mi, hissî mi, yoksa her ikisi midir?",
+          "answer": "Her ikisidir; görülen olaylardan hareket eder ve aklî sonuca ulaştırır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p20:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metindeki bütün basamaklar sonunda hangi imanî hükme varılır?",
+          "answer": "Hikmet, inayet, rahmet ve rızık verme tecellileriyle tanınan Allah’ın varlığı, birliği ve kerem sahibi rububiyeti kabul edilir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

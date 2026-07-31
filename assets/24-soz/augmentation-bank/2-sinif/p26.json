@@ -1,0 +1,947 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:2-sinif:p26",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "2-sinif",
+  "partNo": "p26",
+  "partNumber": 26,
+  "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/2-sinif/SveC_2sinif_24-soz-p26-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevab-rivayetlerinde-mumkin-ve-harika-fertler.txt",
+  "sourceRevision": "2a3de7ef42bbbf5c62ab0d858634cdf7a4ff991b71f6babc376beebf8f98df74",
+  "setCount": 6,
+  "questionCount": 77,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İnsanların yaptığı işlerde bazen nasıl özel kişiler çıkabilir?",
+          "answer": "Çok ileri giden, sıra dışı kişiler çıkabilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İyilikte çok öne çıkan kişiler ne olur?",
+          "answer": "Örnek ve övülen kişiler olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Kötülükte öne çıkan kişiler ne olur?",
+          "answer": "Kötü örnek olur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu özel kişiler her zaman açıkça belli olur mu?",
+          "answer": "Hayır, çoğu zaman gizli kalabilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Başka insanlar böyle kişileri görünce ne yapmaya çalışabilir?",
+          "answer": "Onlar gibi olmaya çalışabilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bir iş için söylenen büyük sonuçlar her zaman ve herkeste aynı şekilde olur mu?",
+          "answer": "Olmaz, bazen olur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bunun sebebi nedir?",
+          "answer": "Çünkü kabul için bazı şartlar vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İki rekât namaz hakkında verilen örnek neyi anlatır?",
+          "answer": "Bazen çok büyük sevap olabileceğini anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Gıybetle ilgili verilen örnekten hangi ders çıkarılır?",
+          "answer": "Gıybet çok zararlı bir kötülüktür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Güzel söz hakkında verilen örnek neyi teşvik eder?",
+          "answer": "İyi ve tatlı söz söylemeyi teşvik eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Neden böyle güçlü örnekler verilir?",
+          "answer": "İyiliğe istek artsın, kötülükten kaçınılsın diye.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S1Q8",
+            "24-soz:p26:2-sinif:S1Q9",
+            "24-soz:p26:2-sinif:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Dünya ölçüsü ile ahiret nimetleri tam anlaşılabilir mi?",
+          "answer": "Hayır, tam anlaşılamaz.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Niçin ahiret sevabını aklımız bazen zor kavrar?",
+          "answer": "Çünkü dünya bakışı dar kalır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S1Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, insan topluluklarında ve insan işlerinde bazen nasıl kimselerden söz ediliyor?",
+          "answer": "Çok farklı ve dikkat çeken kimselerden söz ediliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İyi tarafta çok ilerlemiş biri insanlar için nasıl bir örnek olur?",
+          "answer": "Güzel bir örnek olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Kötü tarafta ilerlemiş biri insanlar için nasıl bir örnek olur?",
+          "answer": "Sakınılacak kötü bir örnek olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu kişiler neden herkesin gözü önünde olmayabilir?",
+          "answer": "Gizli kalabilirler.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanlar böyle üstün bir kişiyi düşününce içlerinde ne doğabilir?",
+          "answer": "Ona benzemek isteği doğabilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bir amelin çok büyük karşılık vermesi ne anlamda mümkündür?",
+          "answer": "Bazı durumlarda böyle olabilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Her ibadetin sonucu neden hep aynı olmaz?",
+          "answer": "Çünkü şartlara göre değişir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İki rekât namazın büyük bir ibadete denk sayılması bize ne öğretir?",
+          "answer": "Küçük görünen bir ibadet bazen çok kıymetli olabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Gıybetin öldürmeye benzetilmesi hangi düşünceyi verir?",
+          "answer": "Gıybetin ağır bir günah olabileceğini verir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Güzel bir sözün büyük sadakaya benzetilmesi neyi gösterir?",
+          "answer": "Güzel sözün de sevap kazandırdığını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu anlatımın amacı korkutmak mı, yönlendirmek mi?",
+          "answer": "Yönlendirmektir; hayra çağırıp şerden uzaklaştırmaktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S2Q8",
+            "24-soz:p26:2-sinif:S2Q9",
+            "24-soz:p26:2-sinif:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Ahiret işleri neden dünya ölçüsüyle tam tartılamaz?",
+          "answer": "Çünkü ahiret daha büyük ve başkadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Sevap ahirete baktığı için bizim bakışımız neden yetersiz kalır?",
+          "answer": "Çünkü dünyaya alışmış aklımız dar kalır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S2Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İnsanların yaptığı ameller arasında bazen neden çok dikkat çeken kişiler olabilir?",
+          "answer": "Çünkü bazıları çok ileri gider.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Çok kötü olan böyle kişiler başkalarına ne verir?",
+          "answer": "Üzücü ve kötü örnek verir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu özel kişiler açık seçik bilinmeyince insanlar onlar hakkında nasıl düşünebilir?",
+          "answer": "Hayallerinde büyük bir örnek gibi düşünebilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Her insanın böyle yüksek bir dereceye ulaşması kesin midir?",
+          "answer": "Kesin değildir, ama mümkün olabilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metindeki ana düşünceye göre her amel ne yapabilir?",
+          "answer": "Büyük bir sonuç verebilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İki rekât namaz örneği niçin verilmiştir?",
+          "answer": "Az bir ibadetin bazen çok sevap getirebileceğini göstermek için.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu büyük karşılıkların sürekli olmamasının sebebi nedir?",
+          "answer": "Her zaman gerekli şartların bulunmamasıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Gıybet hakkında verilen benzetme gıybetin hangi yönünü anlatır?",
+          "answer": "Çok zarar veren bir yönünü anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Güzel sözün büyük sadaka gibi sayılması çocuklara hangi alışkanlığı öğretir?",
+          "answer": "Güzel konuşma alışkanlığını öğretir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "İnsanları iyiliğe yöneltmek için nasıl bir anlatım kullanılmıştır?",
+          "answer": "Heveslendiren ve uyaran bir anlatım kullanılmıştır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Ahiretin sevabı neden dünyadaki şeylerle tam kıyaslanamaz?",
+          "answer": "Çünkü ahiretin değeri çok büyüktür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Metne göre aklımızın zorlanması, sevabın yanlış olmasından mı kaynaklanır?",
+          "answer": "Hayır, bizim dar düşünmemizden kaynaklanır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S3Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde geçen sıra dışı insanlar sadece kötü mü olabilir, sadece iyi mi olabilir?",
+          "answer": "Hem çok iyi hem çok kötü olabilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Çok iyi olanlar için nasıl bir değerlendirme yapılıyor?",
+          "answer": "Onlar övünülecek kimselerdir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Çok kötü olanlar için nasıl bir değerlendirme yapılıyor?",
+          "answer": "Onlar uğursuz ve kötü kimselerdir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu kimselerin gizli kalması başkalarında nasıl bir etki yapabilir?",
+          "answer": "İnsanlar o dereceye çıkmayı isteyebilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bir amelin büyük sonuca ulaşması imkânsız mı, mümkün mü gösteriliyor?",
+          "answer": "Mümkün gösteriliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İki rekât namaz örneğinde neyin değeri anlatılıyor?",
+          "answer": "Vaktinde yapılan ibadetin değeri anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre neden “her zaman olur” denmiyor?",
+          "answer": "Çünkü her zaman aynı şartlar yoktur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Gıybetin çok ağır gösterilmesi neyi önlemek içindir?",
+          "answer": "İnsanları gıybetten uzak tutmak içindir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Güzel sözün çok değerli sayılması neyi artırmak içindir?",
+          "answer": "İyi söz söyleme isteğini artırmak içindir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Metindeki bu örnekler insanın kalbinde hangi iki duyguyu uyandırır?",
+          "answer": "İyiliğe istek, kötülüğe karşı kaçınma.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Ahiret nimetleri dünya terazisiyle neden ölçülemez?",
+          "answer": "Çünkü dünya ölçüsü küçük kalır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Sevaplar bize neden bazen çok büyük görünür?",
+          "answer": "Çünkü biz onları dünya gözüyle düşünürüz.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S4Q11"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Bu parçanın kısa ana fikri nedir?",
+          "answer": "Bazı ameller, uygun şartlarda çok büyük sevap getirebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "İnsanlar arasında bazen alışılmışın dışında kişiler bulunur mu?",
+          "answer": "Evet, bulunur.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kişiler iyilikte yükselirse insanlar onlara nasıl bakar?",
+          "answer": "Güzel ve değerli bir örnek gibi bakar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Kötülükte yükselirse insanlar onlara nasıl bakmalıdır?",
+          "answer": "Sakınılacak bir örnek gibi bakmalıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Böyle kişilerin saklı kalması neyi mümkün kılar?",
+          "answer": "Herkesin o seviyeye çıkmayı düşünmesini mümkün kılar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre her iyi işten büyük bir sonuç çıkması nasıl değerlendirilir?",
+          "answer": "Olabilir bir durum olarak değerlendirilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İki rekât namazın büyük bir ibadete denk olabilmesi hangi düşünceyi güçlendirir?",
+          "answer": "Az görülen bir amelin de çok değerli olabileceği düşüncesini.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Kabul şartları olunca sonuç niçin değişebilir?",
+          "answer": "Çünkü şart olursa sevap artar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Gıybetin ağır bir kötülük sayılması hangi davranışı düzeltmek ister?",
+          "answer": "İnsanların arkadan kötü konuşmasını düzeltmek ister.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Güzel sözün büyük sadaka gibi görülmesi hangi güzel huyu öğretir?",
+          "answer": "Nazik ve hayırlı konuşmayı öğretir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Büyük sevap haberleri niçin verilir?",
+          "answer": "İnsanları hayra koşturmak için verilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Kötü sonuç bildiren sözler niçin söylenir?",
+          "answer": "İnsanları şerden soğutmak için söylenir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Ahirete ait sevapları anlamakta niçin zorlanıyoruz?",
+          "answer": "Çünkü düşüncemiz dünya ile sınırlı kalıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Metne göre sorun sevapların büyüklüğünde mi, bizim anlamamızda mı?",
+          "answer": "Bizim anlamamızdadır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S5Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İnsan işlerinde bazen herkesten farklı kişiler çıkması neyi gösterir?",
+          "answer": "Bazı insanların çok ileri gidebildiğini gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İyilikte çok ilerleyen kişi toplum için nasıl bir değer taşır?",
+          "answer": "Sevinç veren bir değer taşır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Kötülükte çok ilerleyen kişi toplum için nasıl bir zarar taşır?",
+          "answer": "Kötü örnek olarak zarar taşır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu seçkin kişilerin tam belli olmaması neden önemlidir?",
+          "answer": "Çünkü herkes o dereceye ulaşmayı umabilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre bir amelin çok büyük sevap getirmesi kesin bir kural mı, bir ihtimal mi?",
+          "answer": "Bir ihtimaldir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İki rekât namaz örneği ile hangi kapı açılıyor?",
+          "answer": "Az bir amelden çok sevap kazanma kapısı açılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Şartlar bulunmazsa aynı büyük sonuç neden her zaman görülmez?",
+          "answer": "Çünkü kabul ve uygunluk eksik olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Gıybetin çok tehlikeli gösterilmesi hangi duyguyu uyandırmak içindir?",
+          "answer": "Gıybetten korkup uzak durma duygusunu.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Güzel sözün büyük sadakaya benzetilmesi hangi davranışı güzelleştirir?",
+          "answer": "İnsanların diliyle iyilik yapmasını güzelleştirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metindeki örnekler daha çok hangi eğitime hizmet eder?",
+          "answer": "Ahlâk ve ibadet eğitimine hizmet eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Dünya ile ahiret arasında ölçü farkı olduğu nasıl anlatılıyor?",
+          "answer": "Dünyanın büyüğü bile ahirette küçük kalabilir diye anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Sevapları anlayamamak onların yanlış olduğunu mu gösterir?",
+          "answer": "Hayır, bizim ölçümüzün dar olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p26:2-sinif:S6Q11"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p26:2-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Bu parçadan alınacak en önemli ders nedir?",
+          "answer": "Küçük görünen iyi işler, Allah’ın izniyle çok büyük sevap getirebilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

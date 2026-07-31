@@ -1,0 +1,716 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:8-sinif:p02",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "8-sinif",
+  "partNo": "p02",
+  "partNumber": 2,
+  "title": "1. Mevkıf: zerre ile münazara",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/8-sinif/SveC_8sinif_32-soz-p02-1-mevkif-zerre-ile-munazara.txt",
+  "sourceRevision": "a26624b8bcecc27e406aeac32b4a58ae21311cbf91b55794edf7f6a55550b489",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada ortaya konan hayalî kişi, önce hangi varlığa yöneliyor?",
+          "answer": "En küçük varlıklardan biri olan zerreye yöneliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kişinin zerreden istediği temel şey nedir?",
+          "answer": "Onu yöneten ve gerçekten sahip olan taraf gibi görünmek istiyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p02:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Zerrenin verdiği cevapta ilk olarak hangi şart öne sürülüyor?",
+          "answer": "Kendi yaptığı çok sayıdaki görevi yaptıracak ilim ve güce sahip olunması gerektiği söyleniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Zerre, sadece kendisi üzerinde söz söylemenin neden yeterli olmadığını nasıl anlatıyor?",
+          "answer": "Çünkü kendi benzerleriyle birlikte çalıştığını, bu yüzden hepsine birden hükmedemeyenin tek bir zerreyi de yönetemeyeceğini bildiriyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Zerrenin kandaki kırmızı hücreyi örnek vermesinin sebebi nedir?",
+          "answer": "Parça olduğu daha büyük yapılarda da düzenli bir görev içinde bulunduğunu göstermek içindir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Zerreye göre onun işine karışacak birinin hangi özelliklere sahip olması gerekir?",
+          "answer": "Sınırsız hikmet ve her şeyi kuşatan bir bilgi sahibi olması gerekir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde tabiat ve tesadüf niçin yetersiz görülüyor?",
+          "answer": "Şuursuz ve güçsüz oldukları için böylesine düzenli işleri yönetemeyecekleri belirtiliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Haşiyede hareket eden varlıkların birliğe delil oluşu nasıl açıklanıyor?",
+          "answer": "Dolaştıkları yerleri tek sahibin adına tutup onun mülkü içinde gösterdikleri anlatılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Haşiyede yerinde duran varlıklar birlik konusunda neyi gösteriyor?",
+          "answer": "Bulundukları yerin tek yaratıcıya ait bir işaret taşıdığını gösteriyorlar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "“Bütün yıldızları elinde tutmayan, bir tek zerreye Rab olamaz” düşüncesi neyi öğretir?",
+          "answer": "Kâinatın parçaları birbirine bağlı olduğu için gerçek hâkimiyetin ancak her şeye birden sahip olana ait olduğunu öğretir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada kurulan konuşmanın amacı nedir?",
+          "answer": "Ortak koşulan şeylerin aslında hiçbir varlığı gerçek anlamda yönetemeyeceğini göstermek.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Hayalî iddiacı ile zerre arasındaki konuşmada zerre kendisini nasıl bir varlık olarak tanıtıyor?",
+          "answer": "Pek çok iş yapan, farklı yapılara girip çalışan görevli bir unsur olarak tanıtıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Zerrenin benzerleriyle birlikte dolaşmasından çıkarılan sonuç nedir?",
+          "answer": "Onları birlikte sevk eden tek bir irade bulunması gerektiği sonucudur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Zerre, kendi düzenine müdahale edilirse ne olacağını neden söylüyor?",
+          "answer": "Mevcut işleyişin çok hassas olduğunu, bilinçsiz bir karışmanın düzeni bozacağını anlatmak için söylüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Zerrenin karşı tarafa “müdahale bile edemezsin” demesinin sebebi nedir?",
+          "answer": "Çünkü oradaki işleyiş son derece ölçülü ve kusursuzdur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metindeki ifadelerden, küçük bir varlıktan büyük bir sonuca nasıl ulaşılıyor?",
+          "answer": "Küçük bir parçadaki düzen üzerinden bütün varlık âlemini yöneten üstün kudrete işaret ediliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Haşiyede meyve ve bitkilerin mühür gibi görülmesi ne anlama gelir?",
+          "answer": "Her birinin, bulundukları yerde tek yaratıcının eserini gösteren bir işaret sayılmasıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde kullanılan “hakikat ve hikmet dili” neyi temsil eder?",
+          "answer": "Varlıkların düzeniyle ortaya koyduğu doğruyu ve ilahî ölçüyü temsil eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "İddiacı kişinin camid, âciz ve kör diye nitelenmesi hangi fikri güçlendirir?",
+          "answer": "Şuursuz sebeplerin yaratma ve yönetme işini üstlenemeyeceği fikrini güçlendirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün ana fikri kısa olarak nasıl söylenebilir?",
+          "answer": "En küçük varlıktan en büyüğe kadar her şey tek bir Rabbin yönetimini göstermektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada geçen hayalî davacı neyi ispat etmeye çalışıyor?",
+          "answer": "Bir varlık üzerinde gerçek sahiplik ve rablik iddiasında bulunmaya çalışıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iddianın önce zerre üzerinde denenmesi neden önemlidir?",
+          "answer": "En küçük varlıkta bile bu iddianın geçersiz olduğu gösterilmek istenmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p02:8-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Zerre, üzerinde birçok görev bulunduğunu söyleyerek hangi noktayı vurgular?",
+          "answer": "Basit sanılan bir şeyin bile başıboş olmadığını vurgular.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Zerre, “benim gibi sayısız parçaları da yönetebiliyorsan” diyerek nasıl bir akıl yürütme yapıyor?",
+          "answer": "Tek bir parçayı yönetmenin, benzerlerinden kopuk düşünülemeyeceğini anlatıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Zerrenin daha büyük yapılara bağlı olduğunu söylemesi hangi ilişkiyi gösterir?",
+          "answer": "Parça ile bütün arasında sıkı bir bağ bulunduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre kusursuz işleyiş, neyin delili sayılmaktadır?",
+          "answer": "Sınırsız hikmet ve kuşatıcı ilim sahibi bir yöneticinin delili sayılmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Haşiyede hareket edenlerle hareket etmeyenlerin ortak yönü nedir?",
+          "answer": "İkisi de birliğe ve tek yaratıcıya işaret etmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Hareket eden varlıkların farklı yerlerde etkili olması neyi düşündürür?",
+          "answer": "Onların, her yere hükmeden tek bir sahibin emriyle iş gördüğünü düşündürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde tesadüf anlayışına hangi yönden karşı çıkılıyor?",
+          "answer": "Düzenli, ölçülü ve hikmetli işlerin rastgelelikle açıklanamayacağı yönünden karşı çıkılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan çıkarılacak imanî ders nedir?",
+          "answer": "En küçük şeyi bile yaratan ve yönetenin Allah olduğu, O’na ortak düşünülemeyeceğidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki konuşmada zerre, karşısındaki iddiacıyı hangi bakımdan yetersiz buluyor?",
+          "answer": "Bilgi, güç ve idare bakımından yetersiz buluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Zerre neden tek başına ele alınabilecek bağımsız bir varlık gibi sunulmuyor?",
+          "answer": "Çünkü başka parçalarla ve daha büyük yapılarla bağlantı içinde görev yapıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kırmızı kan hücresinin anılması metne ne kazandırıyor?",
+          "answer": "Zerrenin daha düzenli ve canlı sistemlerin içinde çalıştığını somutlaştırıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "“Parmak karıştıramaz” düşüncesiyle anlatılmak istenen nedir?",
+          "answer": "Şuursuz bir sebebin bu hassas düzene etkili olamayacağıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Haşiyeye göre bir bitki veya meyve bulunduğu yerde neyin işareti olur?",
+          "answer": "Onu yapan tek sanatkârın izinin işareti olur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Haşiyede “hareketiyle bütün eşyayı zabteder” düşüncesi nasıl anlaşılmalıdır?",
+          "answer": "Bir şeyin dolaşması, geçtiği yerlerin de aynı yaratıcıya ait düzen içinde bulunduğunu göstermesi şeklinde anlaşılmalıdır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metindeki delillendirme daha çok gözleme mi, hayale mi, yoksa emre mi dayanıyor?",
+          "answer": "Gözlenen düzen ve işleyişten çıkarılan akıl yürütmeye dayanıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İddiacının “tabiat lisanı” ile konuşması neyi temsil eder?",
+          "answer": "Olayları Allah’tan bağımsız sebeplerle açıklama anlayışını temsil eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Zerrenin cevabındaki sertlik neye dayanıyor?",
+          "answer": "Kendi görev düzeninin açık bir şekilde tek sahibi göstermesine dayanıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın sonunda okuyucuya verilmek istenen uyarı nedir?",
+          "answer": "Varlıkları sebeplere bağlayıp gerçek sahibi unutmanın yanlış olduğudur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde tartışma hangi iki bakış arasında geçiyor?",
+          "answer": "Sebepleri esas alan bakış ile hakikati ve ilahî hikmeti esas alan bakış arasında geçiyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Zerrenin çok sayıda görevi olduğunu söylemesi, onun hakkında hangi yanlış düşünceyi çürütür?",
+          "answer": "Önemsiz ve başıboş bir parça olduğu düşüncesini çürütür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Zerre, benzerleriyle birlikte gezip iş gördüğünü belirterek neyi göstermektedir?",
+          "answer": "Kendi başına değil, geniş bir düzenin parçası olarak çalıştığını göstermektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde geçen düzen ile ilim arasındaki bağ nedir?",
+          "answer": "Ne kadar ince düzen varsa, o kadar kuşatıcı bir bilginin gerektiği anlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Düzen ile kudret arasındaki bağ nasıl kuruluyor?",
+          "answer": "Sadece bilmek yetmez; o düzeni yürütmek için güçlü bir tasarruf da gerekir deniliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Haşiyede yıldızlardan zerrelere kadar uzanan örnekler niçin veriliyor?",
+          "answer": "Birlik delilinin sadece küçüklerde değil, her seviyedeki varlıkta görüldüğünü göstermek için veriliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Yerinde duran varlıkların da birliğe delil sayılması neyi öğretir?",
+          "answer": "Sadece hareket değil, duruş ve bulunuş şeklinin de ilahî düzen taşıdığını öğretir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "“Tek bir zerreye sahip olmak için her şeye hükmetmek gerekir” sonucu hangi düşünceye karşıdır?",
+          "answer": "Parçaları bağımsız sebeplerin yönettiği düşüncesine karşıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde neden şuursuzluk özellikle vurgulanıyor?",
+          "answer": "Çünkü bilinçsiz olanın amaçlı ve ölçülü işleri açıklayamayacağı gösterilmek isteniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün konusu bir cümleyle nasıl özetlenir?",
+          "answer": "En küçük varlığın bile hâli, Allah’ın birliğini ve ortağının olmadığını göstermektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Hayalî kişi, zerreye hangi iddiayla yaklaşıyor?",
+          "answer": "Onun üzerinde rablik ve gerçek sahiplik iddiasıyla yaklaşıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Zerre, böyle bir iddiayı kabul etmek için karşı taraftan ne tür bir yeterlilik istiyor?",
+          "answer": "Kendisini ve bağlı olduğu sayısız düzeni yönetecek ilim, hikmet ve kudret istiyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Zerrenin farklı yapılara girdiğini söylemesi hangi gerçeğe işaret eder?",
+          "answer": "Tek bir yerde değil, birçok görev alanında çalıştığı gerçeğine işaret eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu yüzden zerre üzerinde hüküm iddia etmek neden zorlaşır?",
+          "answer": "Çünkü onu anlamak ve yönetmek, bağlı bulunduğu geniş sistemi de yönetmeyi gerektirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p02:8-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre kusursuz işleyişe sahip varlıklar üzerinde gelişigüzel etki mümkün müdür?",
+          "answer": "Mümkün değildir; böyle bir karışma düzeni bozar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Haşiyede hareketli varlıklar hangi açıdan birlik delili sayılır?",
+          "answer": "Gittikleri her yerde aynı sahibin hâkimiyetini gösterdikleri açıdan birlik delili sayılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Hareketsiz varlıklar hangi açıdan mühür gibi görülür?",
+          "answer": "Bulundukları yerde tek yaratıcının eseri olduklarını bildirdikleri için mühür gibi görülür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada neden hem zerre hem de daha geniş âlem birlikte düşünülüyor?",
+          "answer": "Küçükle büyüğün aynı düzen içinde bağlı olduğunu göstermek için birlikte düşünülüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "İddiacının acizliği hangi noktada açıkça ortaya çıkıyor?",
+          "answer": "Ne tek bir zerreyi yönetebildiğini ne de onun görevlerine müdahale edebildiğini gösteren noktada ortaya çıkıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p02:8-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p02:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçayı okuyan bir öğrencinin alması gereken temel mesaj nedir?",
+          "answer": "Allah’ın yarattığı düzenin her şeyde görüldüğü ve O’ndan başka gerçek sahip bulunmadığı mesajıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

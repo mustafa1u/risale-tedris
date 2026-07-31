@@ -1,0 +1,920 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:2-sinif:p19",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "2-sinif",
+  "partNo": "p19",
+  "partNumber": 19,
+  "title": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/2-sinif/SveC_2sinif_33-soz-p19-15-pencere-husn-u-sanat-mizan-intizam-ve-israfsiz-yaratilis.txt",
+  "sourceRevision": "44650b7fbd379e9d0f08e59704d43ec71f845f5c3172600d465b845b8832f425",
+  "setCount": 6,
+  "questionCount": 78,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada, varlıkların yapılışında hangi iki güzel özellik birlikte anlatılıyor?",
+          "answer": "Ölçü ve düzen.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Her şeye aynı şekilde mi biçim verildiği bildiriliyor, yoksa kendi özelliğine göre mi?",
+          "answer": "Kendi özelliğine göre.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Varlıkların ortaya konuluşunda nasıl bir ustalık olduğu anlatılıyor?",
+          "answer": "Güzel ve ince bir sanat var.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Yapılışta yolun uzun ve dolaşık mı, yoksa kısa mı olduğu söyleniyor?",
+          "answer": "Kısa olduğu söyleniyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Şekil verilirken nasıl bir görünüş tercih edildiği anlatılıyor?",
+          "answer": "En güzel görünüş.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Varlıkların yapılışında ağır ve zor bir tarz mı, yoksa hafif bir tarz mı öne çıkıyor?",
+          "answer": "Hafif bir tarz öne çıkıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Kullanma bakımından nasıl bir kolaylık bulunduğu söyleniyor?",
+          "answer": "Kolay kullanılıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Kuşlar örnek verilirken, onların hangi yönüne dikkat çekiliyor?",
+          "answer": "Tüylerini rahatça kullanmalarına.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada gereksiz harcama var mı, yok mu?",
+          "answer": "Yok, israf yok.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "İsraf olmayınca bunun yanında hangi güzel özellik de bulunuyor?",
+          "answer": "Hikmet bulunuyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p19:2-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bütün bu özellikler çok sayıda ne gibi sayılıyor?",
+          "answer": "Delil gibi sayılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu deliller önce neyi gösteriyor?",
+          "answer": "Allah’ın varlığını gösteriyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p19:2-sinif:S1Q11"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Sonra Allah’ın hangi iki büyük sıfatına işaret ediyor?",
+          "answer": "Sonsuz güç ve sonsuz ilim.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p19:2-sinif:S1Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin ana fikri nedir?",
+          "answer": "Her şeyin güzel, ölçülü ve hikmetli yaratılması Allah’ı gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bir şeyin yapısının, onun neyine uygun verildiği anlatılıyor?",
+          "answer": "Kendi kabiliyetine uygun.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "“Mizan” sözü burada hangi basit anlama yakındır?",
+          "answer": "Ölçü.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "“İntizam” sözü burada hangi basit anlama yakındır?",
+          "answer": "Düzen.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Varlıkların hazırlanışında gelişigüzel değil de nasıl bir işçilik bulunduğu söyleniyor?",
+          "answer": "Güzel bir işçilik bulunduğu söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "En kısa yolun seçilmesi bize neyi düşündürür?",
+          "answer": "Boşuna uğraş olmadığını düşündürür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "En hafif tarzın seçilmesi hangi kolaylığı anlatır?",
+          "answer": "Rahatlık ve uygunluk.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Kullanımın kolay olması, yapılan işin nasıl olduğunu gösterir?",
+          "answer": "Çok iyi düşünüldüğünü gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Kuşların tüylerini rahatça kullanabilmesi neye örnek oluyor?",
+          "answer": "Kolaylıkla ve güzel düzenle yaratılmaya.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre güzel yaratılışla savurganlık birlikte mi, ayrı mı?",
+          "answer": "Ayrı; savurganlık yok.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Hikmetli ve ölçülü yaratılış, yapanın nasıl biri olduğunu gösterir?",
+          "answer": "Hikmet sahibi ve kudretli biri olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Metinde bu yapan için hangi özellik de özellikle anılıyor?",
+          "answer": "Her şeyi bilen olması.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Sonuç olarak eşyaya bakınca kalpte hangi inanç güçlenir?",
+          "answer": "Allah’a iman güçlenir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde varlıkların yaratılışı güzel mi, kusurlu mu anlatılıyor?",
+          "answer": "Güzel anlatılıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Her şeye biçim verilirken rastgelelik mi, ölçülülük mü var?",
+          "answer": "Ölçülülük var.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Düzenli olmak ile dağınık olmak arasında, parçada hangisi övülüyor?",
+          "answer": "Düzenli olmak övülüyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Yapılan işin sanatlı olması ne demektir?",
+          "answer": "Özenli ve güzel yapılması demektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "En kısa yolun seçilmesi işi zorlaştırır mı, kolaylaştırır mı?",
+          "answer": "Kolaylaştırır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "En güzel şekilde yaratılmak, varlıklarda hangi güzelliği gösterir?",
+          "answer": "Yaratılış güzelliğini gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "En hafif tarz ifadesi, canlılar için nasıl bir fayda düşündürür?",
+          "answer": "Rahat hareket etmeyi düşündürür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "En kolay kullanım sözü, yaratılan şeylerin neye uygun olduğunu anlatır?",
+          "answer": "Kullanılmaya uygun olduğunu anlatır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Kuş örneği niçin verilmiş olabilir?",
+          "answer": "Kolaylık ve uygun yaratılışı göstermek için.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Tüylerin rahat kullanılması, kuşlar için bir zorluk mu kolaylık mı gösterir?",
+          "answer": "Kolaylık gösterir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "İsraf olmadan yaratmak, yapanın nasıl davrandığını gösterir?",
+          "answer": "Boş yere iş yapmadığını gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu kadar çok düzen ve hikmet, tek başına eşyanın işi olabilir mi?",
+          "answer": "Hayır, olamaz.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Parçanın vardığı sonuç nedir?",
+          "answer": "Her şey Allah’ın varlığına, kudretine ve ilmine işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada anlatılan varlıklar şekil alırken neye göre hazırlanıyor?",
+          "answer": "Özelliklerine ve kabiliyetlerine göre.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu hazırlanışta ölçü bulunması bize neyi gösterir?",
+          "answer": "Her şeyin yerli yerinde olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Düzen bulunması bize neyi gösterir?",
+          "answer": "Karışıklık olmadığını gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Güzel sanatla düzenlemek sözü, yapanın nasıl bir ustalığı olduğunu anlatır?",
+          "answer": "Çok ince bir ustalığı olduğunu anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "En kısa yolun seçilmesi neden önemlidir?",
+          "answer": "Gereksiz dolambaç olmadığını gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "En güzel şeklin verilmesi hangi yönü öne çıkarır?",
+          "answer": "Güzelliği öne çıkarır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "En hafif tarzın verilmesi hangi iyiliği düşündürür?",
+          "answer": "Taşıma ve kullanma kolaylığını düşündürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Kullanım kolaylığı olunca bu, varlıkların ne için uygun yapıldığını gösterir?",
+          "answer": "Görevlerini rahat yapmaları için uygun yapıldığını gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Kuşların tüyleri üzerinden hangi düşünce öğretiliyor?",
+          "answer": "Allah’ın işleri kolay ve hikmetli yaptığı öğretiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada hikmet ile israfın ilişkisi nasıl kuruluyor?",
+          "answer": "Hikmet var, israf yok.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Her bir şeyin bu özellikleri, birer ne gibi kabul ediliyor?",
+          "answer": "Birer şahit gibi kabul ediliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu şahitlik önce hangi hakikate götürür?",
+          "answer": "Allah’ın var olduğuna götürür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p19:2-sinif:S4Q11"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Son olarak Allah’ın hangi iki yüce niteliği anılır?",
+          "answer": "Çok güçlü ve her şeyi bilen olması.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p19:2-sinif:S4Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde yaratılan her şey için ortak olarak hangi uygunluk söyleniyor?",
+          "answer": "Kendi yapısına uygun yaratıldığı söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Ölçülü olmak ile taşkın olmak arasında hangisi anlatılıyor?",
+          "answer": "Ölçülü olmak anlatılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Düzenli yaratılış, bize hangi güzel sıfatı hatırlatır?",
+          "answer": "Hikmeti hatırlatır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Sanatlı yaratılış neyin açık bir işaretidir?",
+          "answer": "Usta bir yaratıcının işaretidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Kısa yolun seçilmesi, işte nasıl bir mükemmellik gösterir?",
+          "answer": "Akıllıca bir mükemmellik gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Güzel suret verilmesi, varlıklarda hangi yönün göze çarptığını anlatır?",
+          "answer": "Güzelliğin göze çarptığını anlatır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Hafiflik, canlılar için nasıl bir rahatlık sağlar?",
+          "answer": "Kolay hareket etme rahatlığı sağlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Kullanış kolaylığı olunca, bu yapılan işin nasıl planlandığını gösterir?",
+          "answer": "Çok uygun planlandığını gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Kuşların tüyleri, parçadaki hangi düşünceyi somutlaştırır?",
+          "answer": "Yaratılıştaki kolaylığı somutlaştırır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "İsrafın olmaması hangi güzel ahlâkî anlamı da düşündürür?",
+          "answer": "Boşuna iş yapılmadığını düşündürür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Hikmetli yaratılış çoklukla ne kadar delil sunar?",
+          "answer": "Eşya sayısınca delil sunar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu delillerin gösterdiği sanatkâr nasıl biridir?",
+          "answer": "Hikmet sahibi bir yaratıcıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p19:2-sinif:S5Q11"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Parçada işaret edilen ilahî sıfatlar nelerdir?",
+          "answer": "Mutlak kudret ve mutlak ilimdir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda en çok hangi konu üzerinde duruluyor?",
+          "answer": "Her şeyin güzel ve hikmetli yaratılması üzerinde duruluyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Varlıkların biçimi verilirken, onların gücüne ve yapısına uygunluk var mı?",
+          "answer": "Evet, uygunluk var.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "“Kemal-i mizan” ifadesi çocuk diliyle ne demektir?",
+          "answer": "Tam ölçü demektir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "“İntizam” ifadesi çocuk diliyle ne demektir?",
+          "answer": "Düzen demektir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Güzel sanatla düzenlenmek, yapılan işin basit değil nasıl olduğunu anlatır?",
+          "answer": "İnce ve güzel olduğunu anlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "En kısa yolun kullanılması, gereksiz fazlalık bulunduğunu mu yoksa bulunmadığını mı gösterir?",
+          "answer": "Bulunmadığını gösterir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "En hafif tarz, yaratılanlarda hangi kolaylığı anlatır?",
+          "answer": "Taşıma ve kullanma kolaylığını anlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "En kolay kullanım sözüne parçada hangi canlıdan örnek veriliyor?",
+          "answer": "Kuştan örnek veriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Kuşlarda özellikle hangi şey örnek yapılıyor?",
+          "answer": "Tüyleri örnek yapılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Tüylerin rahat kullanılması neyin işaretidir?",
+          "answer": "Güzel ve kolay yaratılışın işaretidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "İsrafsız yaratılış ile hikmetli yaratılış birlikte mi veriliyor?",
+          "answer": "Evet, birlikte veriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün bu özellikler Allah hakkında hangi temel gerçeği bildirir?",
+          "answer": "Allah’ın var olduğunu bildirir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p19:2-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Ayrıca Allah’ın hangi iki büyük özelliğini bildirir?",
+          "answer": "Her şeye gücü yettiğini ve her şeyi bildiğini bildirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p19:2-sinif:S6Q12"
+          ]
+        }
+      ]
+    }
+  ]
+}

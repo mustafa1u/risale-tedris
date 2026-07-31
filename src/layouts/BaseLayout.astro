@@ -1,6 +1,8 @@
 ---
 import { NAV_ITEMS } from "@/config/navigation";
+import { groupBooksBySlug } from "@/config/bookGroups";
 import { ACTIVE_THEME, THEMES, type ThemeName } from "@/config/themes";
+import { libraryIndex } from "@/data/library.generated";
 import { DEFAULT_LOCALE, getUi, ui, type Locale } from "@/i18n";
 import { localizedPath } from "@/i18n/routing";
 import rtLogo from "@/assets/site/rt.png";
@@ -47,6 +49,7 @@ const themeRuntimeConfig = {
 };
 const navLabels = {
   books: text.nav.books,
+  howItWorks: text.nav.howItWorks,
   lessonFlow: text.nav.lessonFlow,
   themes: text.nav.themes({ theme: text.themes.names[ACTIVE_THEME] })
 };
@@ -59,6 +62,13 @@ const navigationItems = NAV_ITEMS.map((item) => {
     isCurrent: currentPath === href || currentPath.startsWith(href)
   };
 });
+const themeNavigationItem = navigationItems.find((item) => item.id === "themes");
+const bookNavigationGroups = groupBooksBySlug(libraryIndex.books, locale);
+const compactNavigationItems = navigationItems.map((item) => ({
+  ...item,
+  label: navLabels[item.id],
+  themeLink: item.id === "themes"
+}));
 ---
 
 <!doctype html>
@@ -175,45 +185,48 @@ const navigationItems = NAV_ITEMS.map((item) => {
           <div class="site-header__controls">
             <nav class="navbar">
     <div class="nav-item dropdown">
-        <a href="#" class="nav-link">
+        <a
+          href={localizedPath(locale, "/books/")}
+          class="nav-link"
+          aria-current={currentPath.startsWith(localizedPath(locale, "/books/")) ? "page" : undefined}
+        >
             Kitaplar
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.687 7.875" class="nav-caret" aria-hidden="true" >
             <path d="M635.621,375.374a0.7,0.7,0,0,0-.147.017,1.31,1.31,0,0,0-.14.041,0.625,0.625,0,0,0-.129.065,0.7,0.7,0,0,0-.123.1l-3.176,3.176a0.932,0.932,0,0,0-.164.252,0.7,0.7,0,0,0-.059.281,0.737,0.737,0,0,0,.059.287,0.767,0.767,0,0,0,.164.247l3.176,3.175a0.734,0.734,0,0,0,.252.17,0.763,0.763,0,0,0,.281.053,0.819,0.819,0,0,0,.287-0.053,0.617,0.617,0,0,0,.246-0.17,0.752,0.752,0,0,0,.164-0.246,0.7,0.7,0,0,0,0-.562,0.752,0.752,0,0,0-.164-0.246l-2.648-2.649,2.648-2.66a0.752,0.752,0,0,0,.164-0.246,0.7,0.7,0,0,0,0-.563,0.774,0.774,0,0,0-.164-0.246,0.855,0.855,0,0,0-.117-0.1,0.488,0.488,0,0,0-.129-0.065c-0.047-.015-0.094-.029-0.141-0.041a0.609,0.609,0,0,0-.14-0.017h0Z"
             transform="translate(-631.688 -375.375)"></path></svg>
         </a>
 
-        <div class="dropdown-menu">
-            <a href={localizedPath(locale, "/books/ayetul-kubra/")}>
-                <strong>Ayetül Kübra</strong>
-                <span>116 parça 2. sınıf seviyesi 5. sınıf seviyesi 8. sınıf seviyesi 11. sınıf seviyesi Lise sonrası seviye</span>
-            </a>
-
-            <a href={localizedPath(locale, "/books/kucuk-sozler/")}>
-                <strong>Küçük Sözler</strong>
-                <span>67 parça 2. sınıf seviyesi 5. sınıf seviyesi 8. sınıf seviyesi 11. sınıf seviyesi Lise sonrası seviye</span>
-            </a>
-
-            <a href={localizedPath(locale, "/books/meyve-risalesi/")}>
-                <strong>Meyve Risalesi</strong>
-                <span>106 parça 2.sınıf seviyesi 5.sınıf seviyesi 8.sınıf seviyesi 11.sınıf seviyesi Lise sonrası seviye</span>
-            </a>
-            <a href={localizedPath(locale, "/books/tabiat-risalesi/")}>
-                <strong>Tabiat Risalesi</strong>
-                <span>32 parça 2. sınıf seviyesi 5. sınıf seviyesi 8. sınıf seviyesi 11. sınıf seviyesi Lise sonrası seviye</span>
-            </a>
+        <div class="dropdown-menu" aria-label={text.nav.books}>
+          {bookNavigationGroups.map((group) => (
+            <div class="dropdown-group">
+              <a
+                class="dropdown-group__trigger"
+                href={`${localizedPath(locale, "/books/")}#${group.id}`}
+                aria-haspopup="true"
+              >
+                <strong>{group.label}</strong>
+                <span aria-hidden="true">›</span>
+              </a>
+              <div class="dropdown-submenu" aria-label={group.label}>
+                {group.books.map((book) => (
+                  <a href={localizedPath(locale, `/books/${book.slug}/`)}>
+                    <strong>{book.title}</strong>
+                  </a>
+                ))}
+              </div>
+            </div>
+          ))}
         </div>
     </div>
 
-    {navigationItems.filter((item) => item.id !== "books").map((item) => (
+    {navigationItems.filter((item) => item.id !== "books" && item.id !== "themes").map((item) => (
       <div class="nav-item">
         <a
           href={item.href}
           class="nav-link"
           aria-current={item.isCurrent ? "page" : undefined}
         >
-          <span data-theme-nav-link={item.id === "themes" ? "true" : undefined}>
-            {navLabels[item.id]}
-          </span>
+          <span>{navLabels[item.id]}</span>
         </a>
       </div>
     ))}
@@ -241,6 +254,26 @@ const navigationItems = NAV_ITEMS.map((item) => {
                 </button>
               </div>
             ) : null}
+            {themeNavigationItem ? (
+              <a
+                class="theme-nav-control"
+                href={themeNavigationItem.href}
+                aria-current={themeNavigationItem.isCurrent ? "page" : undefined}
+                aria-label={text.nav.theme}
+              >
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                  <circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="2"></circle>
+                  <path
+                    d="M12 2v3m0 14v3M4.93 4.93l2.12 2.12m9.9 9.9 2.12 2.12M2 12h3m14 0h3M4.93 19.07l2.12-2.12m9.9-9.9 2.12-2.12"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-width="2"
+                  ></path>
+                </svg>
+                <span class="theme-nav-control__label">{text.nav.theme}</span>
+              </a>
+            ) : null}
             <details class="site-menu" data-site-menu>
               <summary class="site-menu__toggle" data-site-menu-trigger>
                 <span>{text.layout.menu}</span>
@@ -248,10 +281,10 @@ const navigationItems = NAV_ITEMS.map((item) => {
               </summary>
               <div class="site-menu__panel">
                 <nav class="site-menu__links" aria-label={text.layout.primaryNavigation}>
-                  {navigationItems.map((item) => (
+                  {compactNavigationItems.map((item) => (
                     <a href={item.href} aria-current={item.isCurrent ? "page" : undefined}>
                       <span aria-hidden="true">→</span>
-                      <span data-theme-nav-link={item.id === "themes" ? "true" : undefined}>{navLabels[item.id]}</span>
+                      <span data-theme-nav-link={item.themeLink ? "true" : undefined}>{item.label}</span>
                     </a>
                   ))}
                 </nav>

@@ -1,0 +1,550 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:2-sinif:p32",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "2-sinif",
+  "partNo": "p32",
+  "partNumber": 32,
+  "title": "20. Pencere: netice, ihtar ve tesbih",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/2-sinif/SveC_2sinif_33-soz-p32-20-pencere-netice-ihtar-ve-tesbih.txt",
+  "sourceRevision": "7abd4fa81aeef3fb45a70e38c695abb7a1d95edf02194f7551871074cd406e32",
+  "setCount": 6,
+  "questionCount": 45,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde sayılan büyük şeyler, neye benzetiliyor?",
+          "answer": "Bir pencereye benzetiliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu pencere, bize önce hangi büyük hakikati gösteriyor?",
+          "answer": "Allah’ın bir olduğunu gösteriyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p32:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu pencere, Allah hakkında başka hangi iki büyük şeyi bildiriyor?",
+          "answer": "Gücünün tam olduğunu ve saltanatının çok büyük olduğunu bildiriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p32:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde hangi iki şeyin sesi ve ışığı örnek veriliyor?",
+          "answer": "Gök gürültüsünün sesi ve güneşin ışığı.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Gök gürültüsünün sesi susturulabilirse ne deniyor?",
+          "answer": "O zaman Allah’ı unutabileceğini söylüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Güneşin ışığı söndürülebilirse ne deniyor?",
+          "answer": "O zaman Allah’ı unutabileceğini söylüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu sözlerle aslında ne anlatılmak isteniyor?",
+          "answer": "Allah’ı unutmanın yanlış olduğu anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p32:2-sinif:S1Q5",
+            "33-soz:p32:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "“Aklını başına al” sözüyle nasıl bir uyarı yapılıyor?",
+          "answer": "Düşünüp gerçeği fark etmesi isteniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Son satırda gökler, yer ve içindekiler ne yapıyor?",
+          "answer": "Allah’ı tesbih ediyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün ana fikri nedir?",
+          "answer": "Kâinattaki büyük şeyler Allah’ın varlığını, birliğini ve kudretini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde gaflet içindeki kişiye nasıl sesleniliyor?",
+          "answer": "Uyarı ile sesleniliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İnsan bu açık delilleri görünce ne yapmalı?",
+          "answer": "Allah’ı unutmamalı ve düşünmeli.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Son kısımda sadece insanlar mı tesbih ediyor?",
+          "answer": "Hayır, gökler, yer ve içindekiler de tesbih ediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölüm insana hangi güzel davranışı öğretir?",
+          "answer": "Allah’ı hatırlamayı ve O’nu tesbih etmeyi öğretir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu geniş deliller topluca neyi bildiriyor?",
+          "answer": "Allah’ın birliğini ve büyük gücünü bildiriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "“Pencere” sözü burada gerçek pencere mi, yoksa anlamaya yardım eden bir benzetme mi?",
+          "answer": "Benzetme.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu benzetme neyi kolaylaştırıyor?",
+          "answer": "Allah’ın varlığını ve birliğini anlamayı kolaylaştırıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Güneşin ışığı için nasıl bir özellik öne çıkarılıyor?",
+          "answer": "Çok açık ve parlak olması.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Gök gürültüsünün sesi için nasıl bir özellik öne çıkarılıyor?",
+          "answer": "Güçlü ve dikkat çekici olması.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "“Aklını başına al” denince çocuktan nasıl bir tutum beklenir?",
+          "answer": "Dikkatli düşünüp doğruyu kabul etmesi beklenir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Son cümlede tesbih edenler arasında neler var?",
+          "answer": "Yedi gök, yer ve onların içindekiler var.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kadar çok şeyin birlikte anlatılması neyi gösterir?",
+          "answer": "Delillerin çok olduğunu gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu deliller Allah’ın hangi inancını kuvvetlendirir?",
+          "answer": "Tevhid inancını kuvvetlendirir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kudretin “kemal” ile anılması ne demektir?",
+          "answer": "Allah’ın gücünün eksiksiz olması demektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Saltanatın “azamet” ile anılması ne demektir?",
+          "answer": "Allah’ın hükmünün çok yüce olması demektir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Metindeki sert uyarı kime yöneliktir?",
+          "answer": "Dalgın ve gerçeği fark etmeyen kişiye yöneliktir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İnsan neden Allah’ı unutmamalıdır?",
+          "answer": "Çünkü etrafındaki açık deliller O’nu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre insan neyi susturamaz ve söndüremez?",
+          "answer": "Gök gürültüsünün sesini ve güneşin ışığını.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bunun sonucunda insan hangi sonuca varmalıdır?",
+          "answer": "Allah’ın unutulmaması gerektiği sonucuna varmalıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Son duada geçen tesbih neyi anlatır?",
+          "answer": "Her şeyin Allah’ı övdüğünü anlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde kâinattaki büyük şeyler tek tek değil, nasıl bir etkiyle anlatılıyor?",
+          "answer": "Birlikte güçlü bir delil olarak anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu güçlü delil hangi iki inancı destekliyor?",
+          "answer": "Allah’ın varlığı ve birliği inancını destekliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Allah’ın kudreti için metinde nasıl bir büyüklük anlatılıyor?",
+          "answer": "Çok tam ve büyük olduğu anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Allah’ın saltanatı için nasıl bir yücelik anlatılıyor?",
+          "answer": "Çok görkemli olduğu anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Metin, Allah’ı unutmayı doğru mu yanlış mı gösteriyor?",
+          "answer": "Yanlış gösteriyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İnsana verilen kısa öğüt nedir?",
+          "answer": "Kendine gelmesi ve düşünmesi.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Son bölümde sadece yeryüzü mü Allah’ı tesbih ediyor?",
+          "answer": "Hayır, gökler de tesbih ediyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçayı okuyan bir çocuk hangi sözü kalbinde tutabilir?",
+          "answer": "Her şey Allah’ı gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kadar geniş anlatımın açtığı pencere neyi görmemize yardım ediyor?",
+          "answer": "Allah’ın birliğini ve kudretini görmemize yardım ediyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde Allah’ın saltanatı için nasıl bir büyüklük bildiriliyor?",
+          "answer": "Çok yüce ve heybetli olduğu bildiriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Güneşin ışığı nasıl bir delil gibi sunuluyor?",
+          "answer": "Çok açık bir delil gibi sunuluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "“Aklını başına al” sözü, kalp ve akıl için nasıl bir çağrıdır?",
+          "answer": "Uyanma ve doğruyu anlama çağrısıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Son cümlede Allah’ı ananlar yalnız insanlar değilse kimler de var?",
+          "answer": "Gökler, yer ve içindekiler de var.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölümde her şeyin tesbih etmesi bize ne öğretir?",
+          "answer": "Allah’ı anmanın çok güzel ve doğru olduğunu öğretir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p32:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın en kısa özeti ne olabilir?",
+          "answer": "Her şey Allah’ı gösterir ve O’nu över.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

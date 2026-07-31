@@ -1,0 +1,877 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:lisans:p11",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "lisans",
+  "partNo": "p11",
+  "partNumber": 11,
+  "title": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/lisans/SveC_lisans_24-soz-p11-yirmidorduncu-soz-ikinci-dal-nubuvvet-ve-velayet-farki.txt",
+  "sourceRevision": "3e559f2d9126c83a5e99f68a4b3f780d8c30ecfc54342ba7a90246e51826a7a7",
+  "setCount": 6,
+  "questionCount": 65,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde Güneş’in çiçek, katre ve reşhaya yönelişinde kaç ana yol bulunduğu belirtilir?",
+          "answer": "İki ana yol bulunduğu belirtilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki yoldan ilk olanın temel özelliği nedir?",
+          "answer": "Arada perde ve vasıta olmadan, doğrudan bir yöneliş ve feyiz verme söz konusudur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İlk yol hangi manevî mesleği temsil eder?",
+          "answer": "Peygamberlik yolunu temsil eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci yolda araya giren unsur nedir?",
+          "answer": "Araya perdeler ve vasıtalar girer; kabiliyetler de tecelliyi farklı gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci yol hangi manevî çizgiye benzetilir?",
+          "answer": "Velayet yoluna benzetilir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Zühre, Katre ve Reşha birinci yolda kendileri hakkında nasıl bir iddiada bulunabilir?",
+          "answer": "Küllî ve umumî bir güneşin aynası olduklarını söyleyebilirler.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Aynı varlıklar ikinci yolda neden böyle geniş bir ifade kullanamaz?",
+          "answer": "Çünkü gördükleri tecelli daralmış, kayıtlanmış ve kendi kabiliyetlerine göre şekillenmiştir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci yolda bu varlıkların söyleyebileceği daha sınırlı ifade nedir?",
+          "answer": "Ancak kendilerine özel görünen yahut türlerine yansıyan güneşin aynası olduklarını söyleyebilirler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Sınırlı tecelli içinde kalan birinin güneşin evrensel etkilerini doğrudan o gördüğü şekle vermesi neden mümkün değildir?",
+          "answer": "Çünkü dar bir görünüm içinde, güneşin bütün âleme bakan büyük işlerini kalbî müşahede ile kavrayamaz.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Böyle bir isnat yine de hangi tarzda yapılabilir?",
+          "answer": "Akıl ve iman yoluyla, bir teslimiyet içinde yapılabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde bu tür bir kabul neden tam görmeye dayalı sayılmaz?",
+          "answer": "Çünkü doğrudan yaşanan bir müşahedeye değil, zihnî ve imanî kabule dayanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "İmanla kabul edilen hüküm ile görülen durum arasında nasıl bir gerilim doğabilir?",
+          "answer": "Kişinin inandığı şey, gördüğü sınırlı tabloyla çatışabilir; bu yüzden inanmak zorlaşabilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S1Q10"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Güneş’in çeşitli aynalara yönelişi hangi iki tarz altında toplanır?",
+          "answer": "Biri doğrudan ve perdesiz, diğeri vasıtalı ve perdeli tarz altında toplanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Doğrudan olan tarzda aracıların bulunmaması neyi gösterir?",
+          "answer": "Hakikatin daha saf ve engellenmemiş şekilde alınmasını gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Vasılalı tarzda aynaların ve mazharların kabiliyeti ne yapar?",
+          "answer": "Gelen tecelliye kendi durumlarına göre bir şekil ve renk katar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kabiliyetin tecelliye renk katması, hakikatin algılanışını nasıl etkiler?",
+          "answer": "Hakikatin aslı tam görünmez; kişi onu kendi sınırları içinde tanır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci yolda olanların “umumî güneş” ile ilişki kurabilmesi ne anlama gelir?",
+          "answer": "Daha kuşatıcı, daha geniş ve daha mutlak bir tecelliyi tanıyabildiklerini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci yolda kalanların güneşi daha dar tanımasının sebebi nedir?",
+          "answer": "Güneş onlara şahıs, tür veya cins seviyesinde sınırlı bir görünüşle yansır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde “kayıtlı güneş” fikri neye işaret eder?",
+          "answer": "Hakikatin mutlak hali değil, belli sınırlar içinde görünmüş bir tecellisine işaret eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Yeryüzünü aydınlatma ve canlıları etkileme gibi büyük işler neden bu sınırlı görünüme kalben bağlanamaz?",
+          "answer": "Çünkü kişi, o geniş icraatları kendi dar müşahedesi içinde göremez.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Böyle bir durumda akıl ile kalbî şahitlik arasında nasıl bir fark ortaya çıkar?",
+          "answer": "Akıl kabul edebilir; fakat kalb doğrudan gördüğü gibi tasdik etmede zorlanabilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Üç temsilî varlığın bu büyük etkileri güneşe nispet etmesi hangi türden bir bilgidir?",
+          "answer": "Daha çok aklî bir bilgidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu bilgi neden şuhudî sayılmaz?",
+          "answer": "Çünkü bizzat açık bir müşahadeden değil, çıkarım ve teslimiyetten gelir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S2Q10"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada çiçek, katre ve reşhanın hepsine yönelik feyzin iki yolla geldiği söylenirken hangi ortak nokta vurgulanır?",
+          "answer": "Hepsinin aynı hakikatten pay aldığı, fakat bunu aynı açıklıkta alamadığı vurgulanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Perdesiz yolun temsil ettiği manevî makam neden daha doğrudan kabul edilir?",
+          "answer": "Çünkü araya giren engeller yoktur ve tecelli aslına daha yakın alınır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Perdeli yolda tecellinin değişik görünmesi hangi unsura bağlanır?",
+          "answer": "Alıcının aynalığına ve kabiliyetine bağlanır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci yolda bir kişinin “kendi güneşi” demesi neyi gösterir?",
+          "answer": "Hakikati bütünlüğüyle değil, kendisine yansıdığı ölçüde bildiğini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "“Bütün âleme bakan güneşi görememek” ifadesi düşünce bakımından ne anlama gelir?",
+          "answer": "Kişinin sınırlı tecrübe sebebiyle küllî hakikati tam kavrayamaması anlamına gelir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Dar bir çerçevede görülen tecelli neden mutlak olanın bütün sonuçlarını taşıyamaz?",
+          "answer": "Çünkü sınırlı görünüm, mutlak kudret ve kapsamı tam göstermez.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Yeryüzünü ısıtma ve canlıları harekete geçirme gibi örnekler hangi amacı taşır?",
+          "answer": "Güneşin geniş tesirlerini göstererek, dar algının bu büyüklüğü kuşatamadığını anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Böyle geniş etkileri sınırlı görünen güneşe nispet etmek hangi şartla mümkün olur?",
+          "answer": "Akıl yürütme ve imanla, yani teslimî bir kabulle mümkün olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre bu kabul neden kolay değildir?",
+          "answer": "Çünkü kişinin gördüğü tablo dar, kabul etmesi gereken mana ise çok geniştir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Şuhudî bilgi ile aklî-imanî bilgi arasındaki temel fark nedir?",
+          "answer": "Biri doğrudan görmeye dayanır, diğeri ise delil ve kabule dayanır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Üç temsilî unsurun bazen inanç hükmü ile gözlem arasında sıkışması neyi gösterir?",
+          "answer": "Sınırlı tecrübenin, geniş hakikati benimsemeyi zorlaştırabileceğini gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S3Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde geçen iki yol arasındaki ilk büyük fark nedir?",
+          "answer": "Birinde doğrudanlık, diğerinde aracılık bulunmasıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Aracısız yolun hakikati daha açık göstermesinin sebebi nedir?",
+          "answer": "Çünkü tecelliyi sınırlayan ek unsurlar devreye girmez.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Aracılı yolda ayna ve mazharların rolü nedir?",
+          "answer": "Hakikati kendi özelliklerine göre yansıtıp farklılaştırmalarıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu farklılaştırma sonucunda aynı hakikat herkeste aynı şekilde mi görünür?",
+          "answer": "Hayır, herkesin istidadına göre değişik görünür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İlk yoldaki varlıkların kendilerini umumî güneşle ilişkilendirebilmesi nasıl bir idrak seviyesine işaret eder?",
+          "answer": "Daha geniş ve kapsamlı bir idrak seviyesine işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci yoldaki varlıkların kendi güneşlerinden söz etmesi ne tür bir sınırlılıktır?",
+          "answer": "Şahsî veya türsel çerçeveye kapanmış bir algı sınırlılığıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Güneşin büyük icraatları neden dar bir görünüm içinde tam müşahede edilemez?",
+          "answer": "Çünkü o görünüm, güneşin küllî faaliyetlerini göstermeye yetmez.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Buna rağmen bu büyük işleri o görünen güneşe vermek nasıl mümkün olabilir?",
+          "answer": "Delil ve teslimiyetle, yani zihnî ve imanî bir kabul ile mümkün olabilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S4Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada “teveccüh ve ifaza” ile anlatılan şey nedir?",
+          "answer": "Güneşin muhataplarına yönelip onlara feyiz vermesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yönelişin birinci biçimi nasıl tanımlanır?",
+          "answer": "Asıl olarak, doğrudan ve perdesiz gerçekleşen biçim olarak tanımlanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Birinci biçimin nübüvvetle ilişkilendirilmesi neyi ima eder?",
+          "answer": "Peygamberlik yolunun hakikate daha vasıtasız bir açıklık sunduğunu ima eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci biçimde tecellinin farklı görünmesinin nedeni nedir?",
+          "answer": "Araya giren perdelerle birlikte alıcının kabiliyetinin etkili olmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Velayet yolunun bu ikinci biçimle temsil edilmesi hangi manaya gelir?",
+          "answer": "Hakikatin yine alındığını, fakat daha çok istidat ve vasıtalar üzerinden algılandığını gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Zühre, Katre ve Reşha ilk tarzda kendileri için nasıl bir ayna olma durumu söyler?",
+          "answer": "Hepsi, küllî güneşin aynası olduklarını söyleyebilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Aynı söz neden ikinci tarzda uygun düşmez?",
+          "answer": "Çünkü onların bilgisi, mutlak hakikate değil, sınırlandırılmış bir yansımaya dayanır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Türe veya şahsa mahsus tecelli ile mutlak tecelli arasındaki fark nedir?",
+          "answer": "İlki dar ve kayıtlıdır, ikincisi ise sınırsız ve umumîdir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde sayılan büyük kozmik etkiler hangi düşünceyi desteklemek için kullanılır?",
+          "answer": "Hakikatin küllî boyutunun, dar görünen bir tecelliye doğrudan yüklenemeyeceği düşüncesini desteklemek için kullanılır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "O halde kişi bu geniş etkileri nasıl kabul edebilir?",
+          "answer": "Mantıkî değerlendirme ve imanla kabul edebilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Neden bu kabul, görerek bilmek seviyesinde değildir?",
+          "answer": "Çünkü kişi bunu açık iç müşahade ile değil, düşünerek ve inanarak benimser.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "“İmanî hükmün kevnî müşahadeyle çatışması” ifadesi ne anlatır?",
+          "answer": "İnançla kabul edilen hakikatin, görünen sınırlı manzara sebebiyle zihinde zorlanma oluşturmasını anlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S5Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Hedef pasajda üç örnek varlığın karşısına çıkan iki yol, bilgi ve idrak bakımından nasıl ayrılır?",
+          "answer": "Biri doğrudan görmeye daha yakın, diğeri ise vasıtalar sebebiyle dolaylı idrake daha yakındır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Doğrudan yolun berzahsız oluşu hangi sonucu doğurur?",
+          "answer": "Hakikatin daha saf ve aracısız biçimde alınmasını sağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Dolaylı yolda berzahların bulunması tecelliyi nasıl etkiler?",
+          "answer": "Tecelliyi sınırlar, renklendirir ve parçalayıcı bir görünüm ortaya çıkarır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metne göre kabiliyet farkı neden önemlidir?",
+          "answer": "Çünkü alınan hakikatin şekli, genişliği ve görünüşü buna göre değişir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci yol için söylenen “umum güneşin aynası olmak” ifadesi neyi sembolize eder?",
+          "answer": "Küllî hakikatle daha kapsamlı bir irtibat kurmayı sembolize eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci yol için söylenen daha sınırlı ayna oluş neyi sembolize eder?",
+          "answer": "Hakikatin yalnız belli bir görünüşünü fark etmeyi sembolize eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Mutlak güneş ile kayıtlı güneş ayrımı neden yapılır?",
+          "answer": "Asıl hakikat ile ona sınırlı biçimde yansıyan görünüşü ayırt etmek için yapılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Kayıtlı görünüm içinde kalan kişi, güneşin azametli fiillerini neden zor kavrar?",
+          "answer": "Çünkü gördüğü çerçeve küçük, kabul etmesi gereken tesir ise çok büyüktür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Buna rağmen bu büyük fiilleri güneşe isnat etmek hangi bilgi yollarına dayanır?",
+          "answer": "Akla, imana ve teslimiyete dayanır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu isnadın şuhudî olmaması ne demektir?",
+          "answer": "Bizzat görünerek bilinmemesi, daha çok çıkarım ve tasdik yoluyla kabul edilmesi demektir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Metindeki üç temsilî varlığın bazen güçlükle inanması neyin sonucudur?",
+          "answer": "İnançla ulaşılan hükmün, sınırlı gözlemle tam örtüşmemesinin sonucudur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:lisans:S6Q10"
+          ]
+        }
+      ]
+    }
+  ]
+}

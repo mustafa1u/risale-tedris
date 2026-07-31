@@ -1,0 +1,921 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "31-soz:2-sinif:p23",
+  "bookSlug": "31-soz",
+  "bookTitle": "31. Söz",
+  "bookOrder": 8,
+  "gradeSlug": "2-sinif",
+  "partNo": "p23",
+  "partNumber": 23,
+  "title": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/31-soz/outputs/2-sinif/SveC_2sinif_31-soz-p23-ucuncu-esas-birinci-temsil-sultan-sarayi-temsili.txt",
+  "sourceRevision": "dd81b9dc75d6389b47f2f53a9cb0fc564331c932b682301a72374cf6e97b1f01",
+  "setCount": 6,
+  "questionCount": 71,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatılan ilk örnek kimden başlıyor?",
+          "answer": "Çok güçlü ve zengin bir hükümdardan başlıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu hükümdarın elinde hangi değerli şeyler vardır?",
+          "answer": "Hazineleri ve çok kıymetli süsleri vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu hükümdarın başka hangi güzel özellikleri anlatılıyor?",
+          "answer": "Sanatta, bilgide ve hünerde çok ileri olduğu anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Güzel ve üstün özellik sahibi biri niçin bunları görmek ve göstermek ister?",
+          "answer": "Kendi güzelliğinin ve üstünlüğünün bilinmesini ister.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Hükümdar bu maksatla ne yapmayı ister?",
+          "answer": "Büyük ve görkemli bir saray kurmak ister.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Sarayın içi nasıl hazırlanır?",
+          "answer": "Güzel süslerle, ince sanatlarla ve düzenli bölümlerle hazırlanır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Sarayda insanlar için neler hazırlanır?",
+          "answer": "Çeşit çeşit nimetler ve uygun sofralar hazırlanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Hükümdar insanları saraya niçin çağırır?",
+          "answer": "Onlara sahip olduğu güzellikleri ve üstünlükleri göstermek için çağırır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Sarayda seçilen özel görevli ne yapar?",
+          "answer": "Alt yerlerden üst yerlere çıkarılır ve birçok yeri gezdirilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu özel kişiye hangi şeyler gösterilir?",
+          "answer": "Sanat düzenekleri, yapılan işlerin yerleri ve özel bölümler gösterilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Sonunda bu kişiye ne görev verilir?",
+          "answer": "Gelenlere sarayın sahibini, saraydaki işaretleri ve gezi kurallarını anlatma görevi verilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu görevli görünmeyen hükümdar hakkında neyi öğretir?",
+          "answer": "Ona karşı nasıl saygılı davranılacağını öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Birinci temsildeki hükümdar nasıl bir kişidir?",
+          "answer": "Güçlü, bilgili, zengin ve sanatkâr bir kişidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Hükümdarın saray yaptırmasının sebebi nedir?",
+          "answer": "Kendi zenginliğini, sanatını ve büyüklüğünü göstermek istemesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Sarayın büyük ve gösterişli olması neyi anlatır?",
+          "answer": "Hükümdarın ihtişamını ve kudretini anlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Sarayın odalara ve bölümlere ayrılması neyi gösterir?",
+          "answer": "Her şeyin planlı ve düzenli yapıldığını gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Saray neden güzel süslerle donatılır?",
+          "answer": "Sahip olduğu ince sanatlar görülsün diye donatılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Her topluluk için ayrı sofra hazırlanması neyi gösterir?",
+          "answer": "Herkesin durumuna uygun ikram yapıldığını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Hükümdar neden herkesi kendi özel yerine kadar çıkarmıyor da bir kişiyi seçiyor?",
+          "answer": "O kişi sonra başkalarına rehberlik etsin diye seçiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Yukarı katlara çıkarılan kişi sadece gezi için mi çağrılıyor?",
+          "answer": "Hayır, öğrenip başkalarına anlatması için çağrılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bu kişinin insanlara anlatacağı şeylerden biri nedir?",
+          "answer": "Saraydaki işaretlerin ne manaya geldiğidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Saraya gelenlere hangi davranışlar da öğretiliyor?",
+          "answer": "Giriş ve gezme adabı ile saygı kuralları öğretiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu örnekte özel görevlinin işi sadece bakmak mıdır?",
+          "answer": "Hayır, görmek, öğrenmek ve haber vermektir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S2Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki örnekte hükümdarın çokluğu anlatılan üç şey nedir?",
+          "answer": "Hazinesi, sanatı ve bilgisi çoktur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Güzel ve olgun olan şeylerin sevilmesi burada nasıl bir sonuca bağlanıyor?",
+          "answer": "Böyle olan kişinin kendi güzelliğini ortaya koymak istemesine bağlanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Hükümdarın açmak istediği yer nasıl bir yerdir?",
+          "answer": "İnsanların gelip görebileceği bir sergi yeri gibidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "O sergi yerinde insanlar hangi yönleri fark etsin istenir?",
+          "answer": "Güç, zenginlik, sanat ve bilgi yönlerini fark etsin istenir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Hükümdar kendi üstünlüğünü kaç yoldan seyretmek ister?",
+          "answer": "İki yoldan seyretmek ister.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu iki yoldan biri nedir?",
+          "answer": "Kendisi doğrudan bakar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Diğer yol nedir?",
+          "answer": "Başkalarının bakışıyla da görür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Hükümdarın yaptırdığı sarayda sadece süs mü vardır?",
+          "answer": "Hayır, düzen, hikmet ve ince işçilik de vardır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İnsanların davet edilmesi sadece yemek için midir?",
+          "answer": "Hayır, görmeleri ve anlamaları için de davet edilirler.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Özel görevli yukarı çıkarılırken niçin çeşitli yerlerden geçiriliyor?",
+          "answer": "Sarayın işleyişini öğrensin diye geçiriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Bu görevlinin halka karşı vazifesi nedir?",
+          "answer": "Sarayın sahibini ve saraydaki anlamları halka anlatmaktır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu anlatımda rehberlik neden önemlidir?",
+          "answer": "Çünkü herkes sarayın manasını kendi başına tam anlayamayabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S3Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatılan saray kime ait bir yer olarak düşünülüyor?",
+          "answer": "Büyük bir hükümdarın yeri olarak düşünülüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Hükümdarın çok çeşitli hazineleri olması neyi hissettirir?",
+          "answer": "Çok zengin olduğunu hissettirir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Hükümdarın farklı ilim ve sanatlara sahip olması onun hangi yönünü gösterir?",
+          "answer": "Çok maharetli ve bilgili olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Hükümdarın bir gösteri yeri kurmak istemesi normal mi gösteriliyor?",
+          "answer": "Evet, güzel şeylerini göstermesi doğal gösteriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Sarayın hazırlanışında hangi iki özellik birlikte öne çıkıyor?",
+          "answer": "Güzellik ve düzen birlikte öne çıkıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Sofraların farklı kişilere uygun hazırlanması hangi düşünceyi anlatır?",
+          "answer": "Herkese uygun ikram yapıldığını anlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İnsanların saraya çağrılması hükümdarın hangi isteğine bağlıdır?",
+          "answer": "Kendi üstünlüklerini tanıtma isteğine bağlıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Seçilen yardımcı niçin kat kat gezdiriliyor?",
+          "answer": "Daha çok şey görüp öğrenmesi için gezdiriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Yardımcı sarayın hangi taraflarını öğreniyor?",
+          "answer": "İç düzenini, sanatlarını ve işaretlerini öğreniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Sonra bu yardımcı ne olarak gönderiliyor?",
+          "answer": "Rehber olarak gönderiliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Rehber insanlara sadece bina hakkında mı bilgi verir?",
+          "answer": "Hayır, davranış kurallarını da öğretir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S4Q10"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Görünmeyen hükümdarın isteklerine uygun davranmayı öğretmek neden önemlidir?",
+          "answer": "Çünkü saygılı ve doğru şekilde hareket etmek gerekir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S4Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Birinci temsildeki kişi sıradan biri midir?",
+          "answer": "Hayır, çok yüksek özelliklere sahip bir hükümdardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Hükümdarın hazineleri ve sanatları niçin anılıyor?",
+          "answer": "Onun ne kadar büyük nimet ve hüner sahibi olduğunu göstermek için anılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Hükümdar neden bir sergi gibi yer açmak istiyor?",
+          "answer": "İçindeki değerlerin görülmesini istediği için açmak istiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu yerde insanlar hükümdarın hangi taraflarını tanır?",
+          "answer": "Saltanatını, zenginliğini, sanatını ve bilgisini tanır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Hükümdar kendi güzelliğini yalnız kendi bakışıyla mı görmek istiyor?",
+          "answer": "Hayır, başkalarının bakışıyla da görmek istiyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Büyük sarayın yapılması bu isteğin ardından mı geliyor?",
+          "answer": "Evet, bu hikmete bağlı olarak saray yapılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Sarayın içinde neden çok ince düzenlemeler yapılıyor?",
+          "answer": "Hükümdarın bilgi ve sanatının incelikleri görünsün diye yapılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Ziyafetin genel olması ne demektir?",
+          "answer": "Çok kişiyi kapsayan bir davet olması demektir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bir kişinin özel yardımcı yapılması ona nasıl bir ayrı görev verir?",
+          "answer": "Onu öğrenen ve başkalarına anlatan kişi yapar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu yardımcı en sonunda kimin huzuruna çıkarılıyor?",
+          "answer": "Hükümdarın özel huzuruna çıkarılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Yardımcıya sarayın gerçek yüzü niçin anlatılıyor?",
+          "answer": "Doğru şekilde rehberlik etsin diye anlatılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Rehberin saraya gelenlere öğreteceği son önemli şey nedir?",
+          "answer": "Uygun saygı ve karşılama usulüdür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S5Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki örnek hangi büyük düşünceyi anlatmak için kurulmuştur?",
+          "answer": "Güzellik ve üstünlük sahibinin bunları tanıtmasını anlatmak için kurulmuştur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Örnekteki hükümdarın dikkat çeken dört yönü nelerdir?",
+          "answer": "Gücü, zenginliği, sanatı ve bilgisi dikkat çeker.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Hükümdar neden insanlar baksın diye bir yer hazırlar?",
+          "answer": "Kendi sahip oldukları bilinsin ve görülsün diye hazırlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Sarayın çok geniş ve görkemli olması hangi sonuca uygundur?",
+          "answer": "Büyük bir sahibin eserine uygun olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Sarayın içinin süslü olması neyi göstermeye yarar?",
+          "answer": "İnce işçiliği ve güzel sanatı göstermeye yarar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Saraydaki yemek ikramı neyi tamamlar?",
+          "answer": "Misafirlerin ağırlanmasını ve davetin büyüklüğünü tamamlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Hükümdarın seçtiği kişi neden herkesten farklı bir yere konur?",
+          "answer": "O, özel olarak eğitilip görev alacağı için farklı konur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu kişi sarayın alt ve üst bölümlerini görerek ne kazanır?",
+          "answer": "Sarayın düzenini ve manasını öğrenir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Hükümdarın özel huzuruna çıkması bu kişi için ne ifade eder?",
+          "answer": "Büyük bir yakınlık ve şeref ifade eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu kişinin halka anlatacağı şeylerden ikisi nedir?",
+          "answer": "Sarayın sahibini tanıtmak ve işaretlerin anlamını açıklamaktır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Sarayı gezenlere neden adab öğretiliyor?",
+          "answer": "Doğru ve saygılı şekilde davranmaları için öğretiliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p23:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu örnekte rehber seçilmesi bize neyi düşündürür?",
+          "answer": "Önemli hakikatlerin insanlara bir öğretici ile bildirildiğini düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p23:2-sinif:S6Q10"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,831 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:lisans:p30",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "lisans",
+  "partNo": "p30",
+  "partNumber": 30,
+  "title": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/lisans/SveC_lisans_33-soz-p30-20-pencere-ziya-ruzgar-sular-ve-taslar.txt",
+  "sourceRevision": "09cfee716a24acc73e19c420a08cd0330ceb47603bcb3fc338dd4a32fb5f12d9",
+  "setCount": 6,
+  "questionCount": 71,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada önce küçük ayrıntılar, sonra büyük unsurlar hakkında hangi ortak hüküm ortaya konuyor?",
+          "answer": "Hem ayrıntılarda hem de büyük varlıklarda görünen düzenin rastgele değil, hikmet ve sanatla meydana geldiği belirtiliyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Işığın yeryüzündeki temel görevi nasıl açıklanıyor?",
+          "answer": "Yeryüzündeki İlâhî eserleri gösteren, duyuran ve sergileyen bir vasıta olduğu ifade ediliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Işığın bu görevinden hangi sonuç çıkarılıyor?",
+          "answer": "Onun kendi başına işlemediği, hikmet sahibi bir Yaratıcı tarafından görevlendirildiği sonucu çıkarılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p30:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Rüzgârların hareketi parçada hangi bakımdan anlamlı görülüyor?",
+          "answer": "Çok sayıda faydalı işte çalışmaları sebebiyle, hareketlerinin bilinçsiz değil vazifeli olduğu anlaşılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Rüzgârların dalgalanması neyin işareti sayılıyor?",
+          "answer": "İlâhî emri çabuk yerine getirmeye yönelen bir hizmetin belirtisi sayılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Kaynakların, derelerin ve nehirlerin ortaya çıkışı neden tesadüfe verilmez?",
+          "answer": "Çünkü doğurdukları rahmetli faydalar, ihtiyaçlara uygun biçimde depolanmaları ve ölçülü şekilde gönderilmeleri bunu reddediyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Suların dağlarda biriktirilmesi hangi kavramla ilişkilendiriliyor?",
+          "answer": "İhtiyaca göre ayarlanmış bir ölçü ile ilişkilendiriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Suların akıp kaynaması nasıl yorumlanıyor?",
+          "answer": "Hikmet sahibi Rabbin emrine canlı ve istekli bir itaat olarak yorumlanıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Taşlar, kıymetli taşlar ve madenlerde hangi iki yön özellikle delil olarak sunuluyor?",
+          "answer": "Süslenmiş yapıları ve faydalı özellikleri delil olarak öne çıkarılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Madenlerin hazırlanışında hangi canlı gruplarının ihtiyaçlarına uygunluk vurgulanıyor?",
+          "answer": "İnsanların hayatî ihtiyaçlarına ve hayvanların gereksinimlerine uygunluk vurgulanıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Parçanın genel anlatımında tabiat unsurları nasıl bir işlev görüyor?",
+          "answer": "Her biri Yaratıcının hikmetini, tedbirini ve rububiyetini gösteren birer delil gibi sunuluyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan çıkarılabilecek ana fikir nedir?",
+          "answer": "Kâinattaki büyük unsurların görünüşte karmaşık halleri bile düzenli, amaçlı ve İlâhî idare altında işler.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, büyük unsurların dışarıdan dağınık görünmesine rağmen aslında ne taşıdığı söyleniyor?",
+          "answer": "Görünüşte karışık dursalar da içlerinde düzenli bir hikmet ve sanat bulunduğu söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Işığın parlaması sadece fizikî bir olay olarak mı ele alınıyor, yoksa başka bir manaya mı bağlanıyor?",
+          "answer": "Daha derin bir manaya bağlanıyor; İlâhî sanatların görünür hale gelmesine hizmet ettiği anlatılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "“Âlem çarşısı” benzetmesiyle hangi düşünce kuvvetlendiriliyor?",
+          "answer": "Dünyadaki varlıkların sergilenen sanat eserleri gibi olduğu düşüncesi kuvvetlendiriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Rüzgârların pek çok görev yaptığına dair ifade, hangi aklî sonuca götürüyor?",
+          "answer": "Bu kadar çok iş gören bir şeyin başıboş olamayacağı ve bilinçli bir sevk ile çalıştığı sonucuna götürüyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Rüzgârlarla ilgili “kullanılma” ve “yönlendirilme” vurgusu neyi reddeder?",
+          "answer": "Kendi kendine ve gayesiz işleyiş anlayışını reddeder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Suların yerden ve dağlardan çıkışı hangi delillerle anlamlı hale getiriliyor?",
+          "answer": "Ortaya koydukları faydalar, ihtiyaçlara göre saklanmaları ve ölçülü biçimde ulaştırılmalarıyla anlamlı hale getiriliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Dağlarda su birikiminin zikredilmesi hangi düşünceyi destekler?",
+          "answer": "Tabiatta önceden gözetilmiş bir plan ve hazırlık bulunduğu düşüncesini destekler.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Taşlar ve madenlerdeki düzen sadece güzelliğe mi dayandırılıyor?",
+          "answer": "Hayır, güzelliğin yanında fayda, ihtiyaçlara uygunluk ve hayatla ilişkili yararlar da öne çıkarılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Cansız görünen unsurların insan ve hayvan ihtiyaçlarına uygun hazırlanması neyi gösterir?",
+          "answer": "Bunların hikmet sahibi bir kudret tarafından özel olarak düzenlendiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Metindeki örnekler arasında ışık, rüzgâr, su ve madenler hangi ortak çerçevede birleştiriliyor?",
+          "answer": "Hepsi İlâhî hikmet, tedbir ve tasarrufun işaretleri olarak birleştiriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Parçadaki anlatım daha çok gözlemden mi, soyut iddiadan mı hareket ediyor?",
+          "answer": "Daha çok gözlemden hareket ediyor; görülen faydalar ve düzen üzerinden sonuca varılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada “küçükte görülen hikmet” ile “büyükte görülen hikmet” arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Küçük ayrıntılarda görülen mükemmelliğin, büyük unsurlarda da başka ölçekte bulunduğu gösteriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Işığın yeryüzündeki varlıkları göstermesi neden önemli bir delil sayılıyor?",
+          "answer": "Çünkü bu görev, onun belli bir maksada hizmet ettiğini ve vazifeli olduğunu düşündürüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Işığın sanat eserlerini göstermesi, Yaratıcı hakkında hangi sıfatı özellikle düşündürür?",
+          "answer": "Hikmet sahibi oluşunu özellikle düşündürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Rüzgârların çok yönlü faydaları onların hangi özelliğini ortaya koyar?",
+          "answer": "Gelişigüzel değil, belirli işlere sevk edilen hizmetkâr varlıklar gibi işlediklerini ortaya koyar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Rüzgârların hızlı hareketine verilen anlam nedir?",
+          "answer": "İlâhî buyruğu gecikmeden yerine getirmeye çalışma manası veriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Sular için geçen “rahmet eserleri” ifadesi, onların hangi yönüne işaret eder?",
+          "answer": "Canlılara hayat ve fayda sağlayan yönüne işaret eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Nehir ve kaynakların ölçülü gönderilmesi hangi temel anlayışı destekler?",
+          "answer": "Kâinatta amaçlı ve dengeli bir idare bulunduğu anlayışını destekler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Taşlar ve madenler sadece tabiatın ham maddesi olarak mı görülüyor?",
+          "answer": "Hayır, aynı zamanda düzenlenmiş, süslenmiş ve fayda için hazırlanmış varlıklar olarak görülüyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Madenlerdeki özelliklerin insan hayatına uygun olması hangi tür bir çıkarıma yol açar?",
+          "answer": "Önceden bilen ve ihtiyaçları gözeten bir düzenleyicinin varlığı çıkarımına yol açar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada en çok kullanılan akıl yürütme yolu hangisidir?",
+          "answer": "Fayda, düzen ve uygunluktan hareketle maksatlı yaratılışa ulaşma yoludur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "“Tesadüf” düşüncesi bu bölümde hangi örneklerle zayıflatılıyor?",
+          "answer": "Işığın görevi, rüzgârların hizmeti, suların ölçülü akışı ve madenlerin faydalı özellikleriyle zayıflatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın imanî mesajı bir cümleyle nasıl özetlenebilir?",
+          "answer": "Kâinattaki büyük unsurlar da küçük ayrıntılar gibi Allah’ın hikmetli tasarrufunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin girişinde büyük varlıkların görünüşte karışık sayılmasına karşı hangi itiraz yapılır?",
+          "answer": "Bu görünüşün aldatıcı olduğu, aslında onların da hikmet ve sanatla düzenlendiği söylenir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Işığın yaptığı hizmetlerden hareketle ona nasıl bir konum veriliyor?",
+          "answer": "İlâhî eserleri görünür kılan bir görevli konumu veriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Işığın varlıkları sergilemesi, evrenin nasıl okunmasına yol açar?",
+          "answer": "Evrenin manasız bir alan değil, sergilenen sanatların bulunduğu bir mekân gibi okunmasına yol açar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Rüzgârların pek çok işle meşgul olması, onların hareketini nasıl anlamlandırır?",
+          "answer": "Hareketlerini sırf fiziksel bir savrulma değil, görev icrası olarak anlamlandırır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Rüzgârların süratli oluşu hangi manevî anlama bağlanıyor?",
+          "answer": "Emri yerine getirmede çeviklik ve itaat anlamına bağlanıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Çeşme, dere ve ırmaklar için hangi üç nokta tesadüfü geçersiz kılıyor?",
+          "answer": "Ortaya çıkan faydalar, suyun ihtiyaçlara göre saklanması ve belirli ölçüyle sevk edilmesi tesadüfü geçersiz kılıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Dağlarda suyun tutulması hangi açıdan hikmet göstergesi kabul ediliyor?",
+          "answer": "Sonradan gerekli olacak ihtiyaçlar düşünülerek hazırlanmış olması açısından hikmet göstergesi kabul ediliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Suların “emre uyma” şeklinde yorumlanması, parçanın genel üslubu hakkında ne gösterir?",
+          "answer": "Tabiat olaylarını kuru madde hareketi değil, İlâhî iradeye bağlı hizmetler olarak ele aldığını gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Taşlar ve madenlerin düzenlenmiş oluşu hangi alanlara fayda sağlamak üzere anılıyor?",
+          "answer": "Yaşamla ilgili yararlara, insanın gerekli ihtiyaçlarına ve hayvanların ihtiyaçlarına fayda sağlamak üzere anılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Madenlerin hem süslü hem yararlı oluşu birlikte neyi gösterir?",
+          "answer": "Hem estetik hem fayda yönünden bilinçli bir düzenleme bulunduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Bu bölümde “bak” hitabının tekrarlanması hangi öğretim yöntemine benzer?",
+          "answer": "Öğrenciyi gözleme sevk eden, delili doğrudan eşyada aratan bir öğretim yöntemine benzer.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin okuyucuda oluşturmak istediği temel sonuç nedir?",
+          "answer": "Tabiatın başıboş değil, Allah’ın hikmetli idaresi altında olduğuna ikna olmaktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parça, cüz’î ayrıntılarla küllî unsurlar arasında nasıl bir benzerlik kuruyor?",
+          "answer": "Her iki alanda da düzen, güzellik ve hikmetin açıkça görüldüğünü belirtiyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Işığın hizmeti üzerinden hangi düşünceye ulaşılıyor?",
+          "answer": "Işığın kendi kendine değil, hikmet sahibi bir yaratıcı tarafından görevlendirildiği düşüncesine ulaşılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Işığın yaptığı iş, yeryüzündeki varlıkların hangi yönünü öne çıkarıyor?",
+          "answer": "Sanat eseri gibi görülebilen yönünü öne çıkarıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Rüzgârların çeşitli faydalar taşıması, onlar hakkında nasıl bir hükme temel oluyor?",
+          "answer": "Çok önemli görevlere memur edildikleri hükmüne temel oluyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Rüzgârların dalgalanmasına yüklenen anlam nedir?",
+          "answer": "Bu hareket, İlâhî emri yerine getirmeye yönelmiş hızlı bir faaliyet olarak görülüyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Su kaynaklarının ortaya çıkışı hangi iki ölçüyle ilişkilendiriliyor?",
+          "answer": "İhtiyaca göre belirlenmiş ölçü ve hikmete dayalı düzen ile ilişkilendiriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Suların faydaları niçin “rahmet” kapsamında değerlendiriliyor?",
+          "answer": "Çünkü canlılara yarar sağlıyor, hayatı destekliyor ve ihtiyaçları karşılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Taşlar, cevherler ve madenler için geçen düzenleme ve süsleme ifadeleri neyi anlatır?",
+          "answer": "Bunların özensiz oluşmadığını, planlı biçimde hazırlanıp biçim verildiğini anlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Madenlerin özellikleriyle insan ve hayvan ihtiyaçları arasındaki uyum neyi ispatlamaya yöneliktir?",
+          "answer": "Yaratılışta önceden gözetilmiş hikmet ve tedbir bulunduğunu ispatlamaya yöneliktir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada cansız gibi görülen unsurların seçilmesi niçin dikkat çekicidir?",
+          "answer": "Çünkü şuursuz kabul edilen şeylerde bile yüksek bir düzen ve amaç bulunduğu gösteriliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu bölümdeki deliller daha çok hangi üç kavram etrafında toplanır?",
+          "answer": "Hikmet, fayda ve düzen kavramları etrafında toplanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Üniversite seviyesinde bir okur bu parçadan hangi düşünme alışkanlığını kazanmalıdır?",
+          "answer": "Eşyaya yüzeysel değil, sebep-sonuç, amaç ve hikmet bağı kurarak bakma alışkanlığını kazanmalıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın ilk cümlesi, büyük unsurlar hakkındaki yanlış kanaati nasıl düzeltir?",
+          "answer": "Onların karışık ve rastgele sanılmasının doğru olmadığını, aslında sanat ve hikmetle şekillendiğini bildirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Işık niçin sıradan bir tabiat olayı gibi bırakılmıyor?",
+          "answer": "Çünkü yaptığı işler, onun anlamlı bir görev üstlendiğini gösteriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Işığın yeryüzündeki İlâhî eserleri göstermesi, insanın bakışını nasıl değiştirir?",
+          "answer": "Varlıkları sadece madde olarak değil, yaratılış delilleri olarak görmesini sağlar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Rüzgârların görevli olduğu düşüncesi hangi gözleme dayanır?",
+          "answer": "Birçok faydalı işte çalışmaları ve önemli hizmetler görmeleri gözlemine dayanır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Rüzgârın hareketi neden “başıboşluk” değil de “vazife” olarak okunuyor?",
+          "answer": "Çünkü etkileri düzenli, yararlı ve maksatlı sonuçlar doğuruyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Suların kaynayıp akması hakkında hangi iki yön birlikte ele alınıyor?",
+          "answer": "Hem faydalı sonuçları hem de ihtiyaçlara uygun şekilde depolanıp gönderilmeleri birlikte ele alınıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Dağlarda suyun saklanması hangi bakımdan dikkat çekici bulunuyor?",
+          "answer": "Sonraki ihtiyaçlar için hazır tutulması bakımından dikkat çekici bulunuyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Suların hareketine heyecanlı itaat anlamı verilmesi neyi ima eder?",
+          "answer": "Kâinattaki işleyişin Yaratıcının emri doğrultusunda sürdüğünü ima eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Taşlar ve madenler hakkında zikredilen “faydalı nitelikler” niçin önemlidir?",
+          "answer": "Çünkü bu nitelikler, onların gelişigüzel değil ihtiyaçlara uygun biçimde hazırlandığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Madenlerin insan ve hayvan hayatına uygun hazırlanması hangi ilâhî sıfatları düşündürür?",
+          "answer": "Hikmet, tedbir ve düzenleyici kudret sıfatlarını düşündürür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Parçada verilen örnekler arasında nasıl bir ilerleyiş vardır?",
+          "answer": "Işık, rüzgâr, su ve madenler üzerinden büyük tabiat unsurlarının her birinde aynı hikmet çizgisi gösterilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p30:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün parçanın verdiği en kapsamlı mesaj nedir?",
+          "answer": "Kâinattaki büyük unsurların işleri de tesadüfle açıklanamaz; hepsi Allah’ın hikmetli tasarrufuna işaret eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

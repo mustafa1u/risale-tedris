@@ -1,0 +1,854 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:2-sinif:p34",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "2-sinif",
+  "partNo": "p34",
+  "partNumber": 34,
+  "title": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/2-sinif/SveC_2sinif_24-soz-p34-yirmidorduncu-soz-dorduncu-dal-1-2-ve-3-nevi-amele.txt",
+  "sourceRevision": "dfbb778373527fdb3755931dfede055c929c859f22f63b1c9c94839170fa8ca0",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İlk gruptaki çalışanlar para alıyor mu?",
+          "answer": "Hayır, para almıyorlar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ilk gruptakiler yaptıkları işte ne hissediyorlar?",
+          "answer": "Tatlı bir sevinç ve istek duyuyorlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İlk gruptakiler efendilerine bağlı olmayı nasıl görüyorlar?",
+          "answer": "Büyük bir onur sayıyorlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu gruptakiler neden maaşa ihtiyaç duymuyor?",
+          "answer": "Çünkü yaptıkları işten içten bir mutluluk alıyorlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p34:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci gruptaki sıradan hizmetçiler niçin çalıştıklarını biliyor mu?",
+          "answer": "Hayır, tam olarak bilmiyorlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci gruptakilere çalışmalarına karşı ne veriliyor?",
+          "answer": "Kendilerine uygun küçük bir karşılık veriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci gruptakiler yaptıkları işlerin büyük faydalarını biliyor mu?",
+          "answer": "Hayır, bunu bilmiyorlar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu hizmetçilerin bazısı işleri hakkında ne zannediyor?",
+          "answer": "Sadece kendi aldıkları karşılık için çalıştıklarını sanıyorlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p34:2-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Üçüncü grupta kimlerden söz ediliyor?",
+          "answer": "Hayvanlardan söz ediliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu hayvanlara ücret olarak ne veriliyor?",
+          "answer": "Yem veriliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p34:2-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Hayvanlar niçin çalışırken hoşnut oluyor?",
+          "answer": "Çünkü yeteneklerine uygun iş yapınca içlerinde bir rahatlık ve sevinç oluyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Parçada anlatılan üç grubu kısaca ayıran fark nedir?",
+          "answer": "Birincisi sevgi ve şerefle çalışır, ikincisi çok şeyi bilmeden çalışır, üçüncüsü ise yaratılışına uygun işte lezzet bulur.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Birinci türdeki çalışanların işi yapma sebebi daha çok nedir?",
+          "answer": "Efendilerinin emrine bağlı olmalarıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İlk gruptakilerin sevinci ne ile artıyor?",
+          "answer": "Efendilerinin güzelce anılmasıyla artıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "İlk gruptakiler işleri kimin adına yapınca manevi tat alıyor?",
+          "answer": "Efendilerinin adına yapınca.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci gruptakiler çalıştırılırken kendi bilgileriyle mi, yoksa onları çalıştıranın bilgisiyle mi yönlendiriliyor?",
+          "answer": "Onları çalıştıranın bilgisiyle yönlendiriliyorlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci gruptaki kişiler işlerinin büyük sonuçlarını anlayabiliyor mu?",
+          "answer": "Hayır, anlayamıyorlar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci gruptakilere verilen karşılık büyük mü, küçük mü?",
+          "answer": "Küçük.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü gruptaki canlılar hangi çeşit işlerde kullanılıyor?",
+          "answer": "Kendilerine uygun bazı işlerde.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bir yetenek işe dönüşünce canlıda nasıl bir durum olur?",
+          "answer": "Açılır, rahatlar ve hoş bir duygu verir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre hareket etmenin tadı nereden geliyor?",
+          "answer": "İçteki kabiliyetin çalışmasından geliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü gruptakilerin kazancı hangi iki şeydir?",
+          "answer": "Yem ve manevi hoşluk.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Hangi grup, çalışmasının anlamını pek bilmez?",
+          "answer": "İkinci grup.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Hangi grup, yaptığı işin içinde doğrudan tat bulur?",
+          "answer": "Birinci ve üçüncü grup.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İlk sınıftaki kişiler için ücret yerine öne çıkan şey nedir?",
+          "answer": "İçten gelen sevinçtir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu ilk sınıf, bağlı oldukları kimseyle ilişkisini nasıl değerlendiriyor?",
+          "answer": "Onu bir şeref sayıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İlk sınıfın iş yaparken baktığı şey sadece para mıdır?",
+          "answer": "Hayır, asıl olarak manevi memnuniyettir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci sınıfta anlatılan hizmetçiler bilgili mi, yoksa işi tam anlamayan kişiler mi?",
+          "answer": "İşi tam anlamayan kişilerdir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu ikinci sınıf neden işin büyük amaçlarını fark etmiyor?",
+          "answer": "Çünkü onları çalıştıranın yüksek planını bilmiyorlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci sınıfın eline geçen karşılık nasıl bir karşılıktır?",
+          "answer": "Az miktarda bir karşılıktır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü sınıfın üyeleri insan mı, hayvan mı?",
+          "answer": "Hayvan.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Hayvanlar için uygun işe koşulmak neden güzel bir durumdur?",
+          "answer": "Çünkü kabiliyetleri ortaya çıkar ve bundan hoşlanırlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde, bütün canlı hareketlerindeki tat hangi sırra bağlanıyor?",
+          "answer": "Gücün ve yeteneğin işe dönüşmesine bağlanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü sınıf çok para mı ister, yoksa az şeyle yetinir mi?",
+          "answer": "Az şeyle yetinir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Birinci ve ikinci sınıf arasında en açık fark nedir?",
+          "answer": "Birincisi işten şevk alır, ikincisi ise çoğu zaman neden çalıştığını bilmez.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Üçüncü sınıfın aldığı manevi tat neye uygundur?",
+          "answer": "Kendi yaratılışındaki yeteneğe uygundur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İlk grupta bulunanlar iş yaparken gönülsüz mü, istekli mi davranıyor?",
+          "answer": "İstekli davranıyorlar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İlk gruptakilerin hoşuna giden şeylerden biri de bağlı oldukları kişinin övülmesi midir?",
+          "answer": "Evet, bu da onları sevindirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İlk grupta makam ve para niçin öne çıkmıyor?",
+          "answer": "Çünkü onlar manevi yakınlık ve hizmet sevincini yeterli buluyorlar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci gruptaki hizmetçiler kendi başlarına işin sebebini çözüyor mu?",
+          "answer": "Hayır, çözemiyorlar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Onları işe koyan kişi onları rastgele mi, yoksa bilgiyle mi çalıştırıyor?",
+          "answer": "Bilgiyle çalıştırıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p34:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci gruptaki bazı kişiler neyi yanlış düşünüyor?",
+          "answer": "İşin sadece kendi küçük kazançları için olduğunu sanıyorlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü grupta anlatılan varlıklar ne ile geçiniyor?",
+          "answer": "Yem ile geçiniyorlar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu varlıkların çalışması onlara neden yük gibi gelmiyor?",
+          "answer": "Çünkü yapılarına uygun olduğu için onlara hoş gelir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p34:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde kabiliyet çalışınca ne yapmış gibi oluyor?",
+          "answer": "Sanki açılıp nefes almış gibi oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü gruptakilerin maaşı nedir?",
+          "answer": "Yiyecekleri ve içten aldıkları lezzettir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Hangi grup işin büyük hedeflerini bilmeden çalışır?",
+          "answer": "İkinci grup.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Hangi grup, şeref duygusunu özellikle öne çıkarır?",
+          "answer": "Birinci grup.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada ilk olarak anlatılan sınıfın en belirgin özelliği nedir?",
+          "answer": "İşi severek yapmalarıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu sınıf, bağlı oldukları kişiye yakınlığı nasıl görüyor?",
+          "answer": "Çok değerli görüyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İlk sınıfın sevinci dışarıdan verilen paradan mı, içten gelen duygudan mı geliyor?",
+          "answer": "İçten gelen duygudan geliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci sınıfın insanları yaptıkları işin asıl nedenini biliyor mu?",
+          "answer": "Hayır, bilmiyorlar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci sınıfa verilen karşılık onların durumuna uygun mu?",
+          "answer": "Evet, uygun bir küçük karşılıktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci sınıfın yanıldığı nokta nedir?",
+          "answer": "İşin sadece kendi ücretlerinden ibaret olduğunu sanmalarıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü sınıfta çalışanlar hangi canlı türündendir?",
+          "answer": "Hayvan türündendir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Hayvanların uygun iş yapınca hoşnut olması neyi gösterir?",
+          "answer": "İçlerinde bir yetenek bulunduğunu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre çalışma sırasında duyulan tat yalnız insanlara mı aittir?",
+          "answer": "Hayır, hayvanlarda da vardır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü sınıfın aldığı iki karşılık nedir?",
+          "answer": "Yem ve manevi tat.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Birinci sınıf ile üçüncü sınıfın ortak yönü nedir?",
+          "answer": "İkisi de yaptıkları işte bir hoşluk bulur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "İkinci sınıf ile diğer iki sınıfın farkı nedir?",
+          "answer": "İkinci sınıf işin manasını pek bilmez, diğerlerinde ise işten doğan bir tat vardır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İlk bölümde anlatılan çalışanların cebine para girmese de onları mutlu eden şey nedir?",
+          "answer": "Hizmetin kendisinden aldıkları manevi sevinçtir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İlk bölümdeki kişiler, bağlı oldukları zata ait olmayı küçük mü yoksa değerli mi görüyor?",
+          "answer": "Değerli görüyorlar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu kişiler işi kendi adlarına mı, bağlı oldukları zatın hesabına mı yapınca lezzet alıyor?",
+          "answer": "Bağlı oldukları zatın hesabına yapınca.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p34:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci bölümdeki sıradan hizmetçiler neden çalıştıklarının tamamını anlayabiliyor mu?",
+          "answer": "Hayır, anlayamıyorlar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Onları çalıştıran kişinin işi yürütmesi düşüncesizce mi, yoksa bilgiyle midir?",
+          "answer": "Bilgiyle.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p34:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci bölümdeki bazı hizmetçiler işin hedefini nasıl daraltıyor?",
+          "answer": "Sadece kendi küçük paylarına indiriyorlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü bölümde sözü edilen canlılar için verilen temel ihtiyaç nedir?",
+          "answer": "Yemdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Yetenek işe dönüşünce niçin mutluluk olur?",
+          "answer": "Çünkü içteki güç ortaya çıkar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre canlılardaki hareket ve çalışma tadı neyle ilgilidir?",
+          "answer": "Kabiliyetin kullanılmasına bağlıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü bölümdeki canlılar neden fazla ücret istemez?",
+          "answer": "Çünkü yemleri ve içten duydukları tat onlara yeter.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "İlk bölümde şeref, ikinci bölümde bilgisizlik, üçüncü bölümde ise hangi özellik öne çıkıyor?",
+          "answer": "Yaratılışa uygun çalışmanın verdiği hoşluk öne çıkıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p34:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu üç bölüm birlikte düşünülünce çalışanların hepsi aynı şekilde mi anlatılıyor?",
+          "answer": "Hayır, her biri ayrı hâl ve anlayışla anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

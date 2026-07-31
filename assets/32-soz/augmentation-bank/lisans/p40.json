@@ -1,0 +1,877 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:lisans:p40",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "lisans",
+  "partNo": "p40",
+  "partNumber": 40,
+  "title": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/lisans/SveC_lisans_32-soz-p40-2-mevkif-3-maksad-4-remiz-rahmette-lezzet-ve-suunatin-izahi.txt",
+  "sourceRevision": "df232b8e2e1797c055e629a9938214859415599c9cf713f519ba75fb28fc6193",
+  "setCount": 6,
+  "questionCount": 73,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümün ana fikrinde, bir şeyin güzelliği ve lezzeti daha çok hangi yönden değerlendiriliyor?",
+          "answer": "Benzerleriyle veya zıtlarıyla kıyasından çok, tesir ettiği ve kendisinden nasiplenen varlıklar üzerinden değerlendiriliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Cömertlik örneğiyle hangi hakikat açıklanıyor?",
+          "answer": "Veren kimsenin asıl sevincinin, başkalarını geçmesinden değil, ikram ettiği kişilerin memnuniyetinden doğduğu anlatılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Merhamet sahibi bir kimsenin sevinci neye bağlanıyor?",
+          "answer": "Şefkat gösterdiği varlıkların rahatına, huzuruna ve iyilik görmesine bağlanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Anne misali bu düşünceyi nasıl kuvvetlendiriyor?",
+          "answer": "Annenin evladının iyiliği için çok büyük fedakârlığı göze alması, şefkatte alınan manevî hazzın ne kadar güçlü olduğunu gösteriyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Tavuk ve civciv örneği hangi sonuca delil oluyor?",
+          "answer": "Şefkatten doğan iç kuvvetin, normalde beklenmeyen cesur davranışlara yol açabileceğine delil oluyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde yüksek sıfatlardaki gerçek güzellik, saadet ve kemalin neye bakmadığı özellikle vurgulanıyor?",
+          "answer": "Eşlere, rakiplere ve zıtlara bakmadığı vurgulanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Buna karşılık bu yüksek sıfatların yöneldiği taraf nedir?",
+          "answer": "Kendi tecelli ettiği varlıklar ve ilgili olduğu neticeler tarafıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu kaideden hareketle ilahî rahmetin güzelliği nasıl açıklanıyor?",
+          "answer": "Rahmetin güzelliğinin, rahmete kavuşanların mutluluğu ve nimetlerden faydalanması üzerinden anlaşıldığı açıklanıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Özellikle hangi yurt, rahmetin en geniş şekilde görüleceği yer olarak öne çıkarılıyor?",
+          "answer": "Kalıcı ahiret yurdu, özellikle de cennet öne çıkarılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Rahmete mazhar olanların sevinciyle bağlantılı olarak, Allah hakkında hangi tür manaların bulunduğu belirtiliyor?",
+          "answer": "O’na layık, çok yüce, tertemiz ve beşerî eksikliklerden uzak sevme ve muhabbet manalarının bulunduğu belirtiliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde bazı ifadelerin doğrudan kullanılmamasının sebebi nedir?",
+          "answer": "Şer’î izin açısından uygun görülmediği için ihtiyatla yaklaşılması gerektiği belirtiliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Buna rağmen bu manalar hakkında hangi temel hüküm veriliyor?",
+          "answer": "Bunların, insanlar arasında görülen sevgi, neşe ve memnuniyet türlerinden son derece daha yüce ve arınmış olduğu bildiriliyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S1Q11"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Son cümlede gelecek temsiller için nasıl bir işlev yükleniyor?",
+          "answer": "O yüce manalara az da olsa yaklaşabilmek için birer bakış aracı ve açıklayıcı örnek görevi yüklüyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S1Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında, lezzet ve güzellik konusunda iki bakış yolu karşılaştırılıyor. Bunlar nelerdir?",
+          "answer": "Biri benzer ve zıtlarla kıyas etme yolu, diğeri ise eserin veya sıfatın ortaya çıktığı kişilerdeki tesirine bakma yoludur.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bölüme göre hangisi daha belirleyicidir?",
+          "answer": "Tesir ettiği kimselerde doğurduğu sonuçlara bakmak daha belirleyicidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Cömert bir kimsenin memnuniyeti neden üstünlük duygusundan daha kuvvetli kabul ediliyor?",
+          "answer": "Çünkü başkalarına ulaştırdığı nimetin onların gönlünde doğurduğu sevinç, daha derin ve daha gerçek bir haz meydana getiriyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Şefkat örneğinde “hakikî lezzet” neyle ölçülüyor?",
+          "answer": "Korunan ve gözetilen canlıların rahat ve huzur derecesiyle ölçülüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Anne örneği insan psikolojisi bakımından neyi gösterir?",
+          "answer": "Sevginin ve merhametin, insanı kendi menfaatini geri plana itmeye kadar götürebileceğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde verilen hayvan örneği hangi insanî duyguyu desteklemek için kullanılmıştır?",
+          "answer": "Koruma içgüdüsüyle birleşen şefkatin ne kadar etkili olduğunu desteklemek için kullanılmıştır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Buradan ilahî isim ve sıfatlara geçiş nasıl yapılıyor?",
+          "answer": "İnsanlarda görülen sınırlı cömertlik ve şefkatten hareketle, mutlak rahmet sahibinin tecellilerinin daha yüce sonuçlar doğuracağına geçiliyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Rahmetin güzelliği neden rahmete erişenlerin durumuyla bağlantılı kuruluyor?",
+          "answer": "Çünkü merhametin kemali, en açık şekilde fayda görenlerin saadetinde görünür hale gelir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Cennetin özellikle anılması neyi düşündürür?",
+          "answer": "Rahmetin geçici değil, sürekli ve sınırsız boyutunu düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde Allah’a nisbet edilen manalar neden doğrudan sıradan duygular gibi ele alınmıyor?",
+          "answer": "Çünkü bu manalar yaratılmışlardaki duygularla aynı seviyede değildir; çok daha yüce ve tenzih edilmesi gereken bir mahiyete sahiptir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "İnsanlarda görülen sevgi ve sevinç ile burada işaret edilen ulvî manalar arasında nasıl bir ilişki kuruluyor?",
+          "answer": "İnsanlardaki duygular, ancak çok zayıf bir işaret ve uzak bir gölge gibi kabul ediliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "“Temsillerin dürbünü” ifadesi, anlatım yöntemi bakımından neyi gösterir?",
+          "answer": "Soyut ve yüksek hakikatlerin, benzetmeler yardımıyla kavratılmak istendiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada anlatılmak istenen temel prensibi bir cümleyle özetleyiniz.",
+          "answer": "Gerçek güzellik ve sevinç, kıyas üstünlüğünde değil, iyiliğin ulaştığı kimselerde ortaya çıkan fayda ve memnuniyette görünür.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Cömertlik örneği ile merhamet örneği arasında ortak nokta nedir?",
+          "answer": "İkisinde de sahibinin mutluluğu, başkalarının fayda görmesi ve sevinmesi üzerinden açıklanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Cömert kişi açısından başkalarını sevindirmek neden önemlidir?",
+          "answer": "Çünkü onun iç huzuru ve hoşnutluğu, verdiği nimetin karşı tarafta oluşturduğu memnuniyetle artar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Şefkat sahibinin sevinci neden daha “hakikî” kabul ediliyor?",
+          "answer": "Çünkü doğrudan bir canlıyı rahatlatma ve koruma neticesine bağlıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Anne örneğindeki fedakârlık neyi ispat eder?",
+          "answer": "Şefkatin sadece bir his değil, insanı büyük fedakârlıklara yönelten güçlü bir kaynak olduğunu ispat eder.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metin, yüksek sıfatların kemalini hangi ölçüye göre anlamamızı istiyor?",
+          "answer": "O sıfatların tecelli ettiği yerlerde doğan sonuçlara göre anlamamızı istiyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu ölçü Allah’ın rahmeti için uygulanınca nasıl bir sonuç çıkıyor?",
+          "answer": "Rahmete kavuşanların özellikle ebedî mutluluk içindeki halleri, rahmetin yüceliğini gösteriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "“Ona layık tarzda” denilmesi neden önemlidir?",
+          "answer": "Allah hakkında düşünülürken beşerî duyguların aynı şekilde O’na aktarılmaması gerektiğini hatırlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde anılan kudsî manalar hangi iki özelliği birlikte taşır?",
+          "answer": "Hem çok yüce ve temizdir, hem de yaratılmışlardaki eksik ve sınırlı duygulara benzemez.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu manaların insanlar arasındaki sevgi ve neşeden üstün olduğu nasıl ifade ediliyor?",
+          "answer": "Derece bakımından sonsuz denecek kadar daha yüksek, daha pak ve daha ulvî oldukları belirtiliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Parçanın sonundaki yönlendirme, okuyucudan nasıl bir tavır bekliyor?",
+          "answer": "Benzetmeleri dikkatle takip ederek, doğrudan kavranması zor olan hakikatlere dolaylı yoldan yaklaşmasını bekliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadaki anlatım daha çok bilgi verme mi, yoksa zihni hazırlama amacı mı taşıyor?",
+          "answer": "Daha çok zihni hazırlama amacı taşıyor; çünkü ardından gelecek örneklerle konunun daha iyi görülmesi hedefleniyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde bir sıfatın güzelliğini anlamada “nisbî” olanla “hakikî” olan arasında nasıl bir fark kuruluyor?",
+          "answer": "Nisbî olan, başkalarıyla kıyas üzerinden oluşur; hakikî olan ise o sıfatın doğurduğu fayda ve mutlulukta ortaya çıkar.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Cömert insanın aldığı sevinç hangi iki şey arasında kıyaslanıyor?",
+          "answer": "Başkalarına üstün gelmekten doğan göreli haz ile, ikram edilenlerin sevincinden gelen daha derin haz arasında kıyaslanıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre hangisi daha değerlidir?",
+          "answer": "İkram edilenlerin memnuniyetinden doğan haz daha değerlidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Şefkat örneğinde rahat ettirilen varlıkların durumu neden önemlidir?",
+          "answer": "Çünkü merhametin lezzeti, onların huzur bulması ölçüsünde belirginleşir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Anne ve tavuk örnekleri birlikte düşünüldüğünde hangi ortak mesaj çıkar?",
+          "answer": "Şefkat, sahibini tehlikeyi göze alacak kadar güçlü bir himaye duygusuna sevk eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "“Yüksek sıfatlar” denince burada hangi tür nitelikler kastediliyor?",
+          "answer": "Cömertlik, şefkat, merhamet gibi değerli ve yüce nitelikler kastediliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Bu niteliklerin kemalinin rakiplerle ilgisiz olması ne anlama gelir?",
+          "answer": "Bunların asıl değerinin yarış ve üstünlükten değil, doğrudan fayda üretmelerinden geldiği anlamına gelir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde ilahî rahmetin yöneldiği yer olarak kimler öne çıkıyor?",
+          "answer": "Merhamet görenler, özellikle de ebedî nimetlere kavuşanlar öne çıkıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Cennetteki nimetlerin zikredilmesi, rahmet hakkında hangi sonucu destekler?",
+          "answer": "Rahmetin çok geniş, sürekli ve en üst düzeyde mutluluk verici olduğunu destekler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Allah’a nisbet edilen sevme ve muhabbet manaları neden “şuunat” çerçevesinde anılıyor?",
+          "answer": "Çünkü bunlar insan duygularıyla aynı kalıpta düşünülemez; Allah’a uygun, yüce ve tenzih edilmiş manalar olarak ele alınır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre bu ulvî manaları tam ifade etmede neden çekingen davranılıyor?",
+          "answer": "İnsan dili ve sıradan kavramlar yetersiz kaldığı, ayrıca dinî edebe dikkat edilmesi gerektiği için çekingen davranılıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S4Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan, Allah’ın rahmeti ile kulların saadeti arasında nasıl bir bağ kurulduğu anlaşılır?",
+          "answer": "Kulların özellikle ebedî saadeti, ilahî rahmetin tecelli ve güzelliğini gösteren bir ayna gibi sunuluyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S4Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada, bir niteliğin hoşluğu hangi alanda daha açık görünür?",
+          "answer": "O niteliğin etkisi altında kalanlarda ve onlara sağladığı sonuçlarda daha açık görünür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Cömertlik misali üzerinden, veren kişinin en büyük hazzı neye bağlanıyor?",
+          "answer": "Verdiği kimselerin sevinmesine, rahatlamasına ve memnun kalmasına bağlanıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Şefkat sahibinin lezzeti neden dolaylı değil doğrudan kabul edilebilir?",
+          "answer": "Çünkü koruduğu varlıkların iyiliği onun gönlünde hemen karşılık bulur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Anne örneği hangi duygunun fedakârlık doğurduğunu gösteriyor?",
+          "answer": "Şefkat duygusunun fedakârlık doğurduğunu gösteriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Metindeki hayvan örneği, akıl dışı bir cesaret mi yoksa güçlü bir duygu mu vurgular?",
+          "answer": "Güçlü bir duygunun ortaya çıkardığı cesareti vurgular.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Parçada insandaki bu örneklerin ardından hangi büyük sonuca varılıyor?",
+          "answer": "En yüce hayat ve merhamet sahibi olan Allah’ın rahmetinde çok daha yüksek ve kutsî manalar bulunduğu sonucuna varılıyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Rahmetin güzelliği hangi topluluk üzerinden daha belirgin hale geliyor?",
+          "answer": "Rahmete erişenler, özellikle de ebedî mutluluğa erenler üzerinden daha belirgin hale geliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Cennetteki saadetin anılması, dünya hayatıyla ilgili hangi zımnî farkı da düşündürür?",
+          "answer": "Dünyadaki nimetlerin sınırlı ve geçici, ahiretteki rahmet tecellilerinin ise daha tam ve kalıcı olduğunu düşündürür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde geçen kutsî manalar için neden sıradan duygusal kelimeler yeterli görülmüyor?",
+          "answer": "Çünkü onlar eksiklikten uzak, çok yüce ve insan tecrübesini aşan bir seviyededir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "İnsanlar arasında hissedilen sevgi ve neşe bu yüce manalara göre nasıl bir yerde durur?",
+          "answer": "Çok aşağı derecede, sınırlı ve ancak uzaktan işaret eden bir örnek seviyesinde durur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "“Çok yerlerde ispat edilmiş” denilmesi, metnin hangi yönünü gösterir?",
+          "answer": "Bu düşüncenin tek başına bırakılmadığını, başka delil ve açıklamalarla da desteklendiğini gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bölümün sonunda verilecek temsillere yönlendirme yapılması pedagojik olarak ne sağlar?",
+          "answer": "Soyut meseleyi öğrencinin zihninde daha anlaşılır ve somut hale getirmeyi sağlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda güzellik ve lezzet anlayışı daha çok içe dönük mü, dışa yansıyan sonuçlara dönük mü ele alınıyor?",
+          "answer": "Dışa yansıyan sonuçlara dönük ele alınıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Cömertlikte kişinin hoşnutluğu hangi yanlış ölçüyle karıştırılmamalıdır?",
+          "answer": "Sadece başkalarından üstün olma duygusuyla karıştırılmamalıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Cömert kişinin gerçek mutluluğunu ortaya çıkaran şey nedir?",
+          "answer": "İkram görenlerin sevinç ve huzur yaşamasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Şefkat örneğinde lezzet ile merhamet edilenlerin durumu arasında nasıl bir bağ kuruluyor?",
+          "answer": "Onların rahat ve emniyet içinde olması arttıkça, şefkat sahibinin iç memnuniyetinin de arttığı gösteriliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Anne ve yavru koruyan hayvan örnekleri, merhametin hangi özelliğini açığa çıkarıyor?",
+          "answer": "Merhametin koruyucu, fedakâr ve cesaret verici yönünü açığa çıkarıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metin, yüksek niteliklerin değerini anlamada neden kıyas yerine tezahüre yöneliyor?",
+          "answer": "Çünkü asıl kemal, başkalarıyla yarışta değil, ortaya çıkan hayırlı neticelerde görülür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu prensip ilahî rahmete tatbik edildiğinde nasıl bir kavrayış ortaya çıkıyor?",
+          "answer": "Allah’ın rahmetinin güzelliğinin, rahmete kavuşanların mutluluk ve nimet içinde bulunmalarıyla daha iyi anlaşıldığı kavrayışı ortaya çıkıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p40:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Rahmete mazhar olanlar içinde özellikle kimlerin anılması dikkat çekicidir?",
+          "answer": "Ebedî mutluluk yurdunda sınırsız rahmet görenlerin anılması dikkat çekicidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Allah hakkında kullanılan sevme ve muhabbet içerikli ifadelerde neden “layık bir tarz” kaydı konuyor?",
+          "answer": "Teşbih ve eksik insanî çağrışımlardan sakınmak için bu kayıt konuyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde geçen kutsî şuunatın başlıca vasıfları nelerdir?",
+          "answer": "Yüce, pak, kutsal ve yaratılmışlara benzemekten uzak olmalarıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "İnsanlarda hissedilen aşk, ferah ve memnuniyet neden burada ölçü olarak yeterli değildir?",
+          "answer": "Çünkü onlar sınırlıdır; ilahî tarafa bakan manalar ise onlardan çok daha üstün ve arındırılmıştır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p40:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın son cümlesi okuyucuya nasıl bir yöntem öneriyor?",
+          "answer": "Zor anlaşılan bu ulvî hakikatleri, ileride verilecek benzetmeler yardımıyla temaşa etme yöntemi öneriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:lisans:p10",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "lisans",
+  "partNo": "p10",
+  "partNumber": 10,
+  "title": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/lisans/SveC_lisans_24-soz-p10-yirmidorduncu-soz-ikinci-dal-tecellinin-uc-tarzi.txt",
+  "sourceRevision": "cae92e703d60c76e6fc5fc33dc689b85e5a29fbcf597cbfb0c8441c4733a7e30",
+  "setCount": 6,
+  "questionCount": 70,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada güneşin çiçeklerle ilgili ilk yansıma türü kaç kısma ayrılmaktadır?",
+          "answer": "Üç ayrı kısma ayrılmaktadır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu üç kısmın kapsam bakımından sıralanışı nasıldır?",
+          "answer": "Biri genel olarak bütün çiçeklere yöneliktir, biri türlere göre farklılaşır, biri de her bir çiçeğin şahsına göre olur.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Çiçeklerin renkleri bu temsilde neye bağlanmaktadır?",
+          "answer": "Güneş ışığındaki renklerin çiçeklerde farklı biçimde görünmesine bağlanmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu anlayışa göre çiçeklerin güneşle ilişkisi nasıl açıklanır?",
+          "answer": "Çiçekler, güneşten bir iz ve yansıma taşıyan aynalar gibi düşünülür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci yansıma tarzında güneşin ışığı önce nereye ulaşmaktadır?",
+          "answer": "Önce aya ve gezegenlere ulaşmaktadır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Ay, aldığı bu ışığı nasıl bir konumda taşımaktadır?",
+          "answer": "Güneşten gelen ışığın aslı değil, ona bağlı ve ondan alınmış bir parlaklık olarak taşımaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Ayın bu aldığı ışık daha sonra hangi varlıklara farklı derecelerde aktarılmaktadır?",
+          "answer": "Denizlere, havaya, parlak toprağa; daha özel olarak da kabarcıklara, saydam parçalara ve hava zerrelerine aktarılmaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Üçüncü yansıma tarzının ikinci tarzdan belirgin farkı nedir?",
+          "answer": "Üçüncü tarzda aradaki gölgeli bir aktarım öne çıkmaz; daha saf ve doğrudan bir yansıma söz konusudur.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Üçüncü tarzda hangi şeyler ayna vazifesi görmektedir?",
+          "answer": "Hava, deniz yüzeyleri, su damlaları, hava zerreleri ve kar taneleri gibi parlak yapılar ayna gibi kabul edilmektedir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu son tarzda her bir küçük parçaya ne verilmektedir?",
+          "answer": "Her birine güneşten küçük ve şahsî bir görüntü düşmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Parçanın bu bölümünde genel tecelli ile cüz’î tecelli arasındaki fark nasıl anlaşılır?",
+          "answer": "Genel tecelli birçok şeye birlikte yönelirken, cüz’î tecelli tek tek varlıkların özel durumuna göre görünür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Buradaki örneklerin ana fikri nedir?",
+          "answer": "Aynı kaynaktan gelen feyiz ve yansımanın, alıcıların yapısına göre farklı şekillerde ortaya çıkmasıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde birinci tecelli tarzı hangi varlık grubu üzerinden anlatılmaktadır?",
+          "answer": "Çiçekler üzerinden anlatılmaktadır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Çiçeklerle ilgili ilk tecellinin “küllî” oluşu neyi ifade eder?",
+          "answer": "Belli bir çiçeğe değil, hepsine birden yönelen genel bir verişi ifade eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "“Has” olan yansıma çiçeklerde neye göre değişmektedir?",
+          "answer": "Her türün kendine mahsus yapısına göre değişmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "“Cüz’î” olan yansıma hangi ölçüye göre belirlenmektedir?",
+          "answer": "Her bir çiçeğin kendi şahsî özelliğine göre belirlenmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Temsilde çiçeklerin renkli görünüşü neyin sonucu olarak ele alınır?",
+          "answer": "Güneşten gelen ışığın farklı şekillerde yansıyıp dönüşmesinin sonucu olarak ele alınır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci tecelli tarzında ayın görevi nedir?",
+          "answer": "Güneşten aldığı ışığı kendi durumuna göre başkalarına yansıtmaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Ayın ardından bu yansımanın ulaştığı daha büyük alanlar hangileridir?",
+          "answer": "Deniz, hava ve parlak toprak gibi geniş yüzeylerdir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Aynı ışığın daha küçük ölçekte ulaştığı örnekler nelerdir?",
+          "answer": "Deniz köpükleri, saydam toprak parçaları ve hava içindeki küçük zerrelerdir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Üçüncü tecellide “gölgesiz” denilmesi neyi düşündürür?",
+          "answer": "Araya başka bir vasıtanın belirleyici biçimde girmediğini, yansımanın daha saf olduğunu düşündürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü tecellide güneşin küçük örnekleri hangi şeylerde görünmektedir?",
+          "answer": "Damlalarda, kabarcıklarda, hava serpintilerinde ve karın küçük billurlarında görünmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre aynı güneş neden farklı varlıklarda farklı tarzlarda görünmektedir?",
+          "answer": "Çünkü yansımanın şekli, yansıdığı yerin durumuna ve yapısına göre değişmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölümden çıkarılabilecek ana yorum nedir?",
+          "answer": "Hakikat bir olsa da onun görünüşü muhatapların kabiliyetine ve vasıtasına göre çeşitlenebilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S2Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada güneşten gelen feyzin ilk örneğinde hangi iki yön birlikte vurgulanır?",
+          "answer": "Hem genel bir yayılış hem de tek tek varlıklara göre özelleşen bir görünüş vurgulanır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Çiçeklerin hepsine birden yönelen tecelli ile tek tek çiçeklere özel olan tecelli arasında nasıl bir ilişki vardır?",
+          "answer": "Aynı kaynağın biri topluca, diğeri bireysel düzeyde görünmesidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Çiçeklerin birer ayna sayılması neyi anlatmak içindir?",
+          "answer": "Onların kendi başına ışık üretmediğini, gelen nuru yansıttığını anlatmak içindir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci tecelli örneğinde ay neden merkezî bir ara konumda yer almaktadır?",
+          "answer": "Çünkü aldığı ışığı doğrudan sahip olduğu bir şey olarak değil, güneşten alıp başkalarına ulaştıran bir vasıta olarak göstermektedir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Ayın ardından gelen yansıtma aşamalarında hem geniş hem küçük ölçekli örneklerin verilmesi neyi gösterir?",
+          "answer": "Işığın büyük yüzeylerden çok küçük parçalara kadar farklı derecelerde dağıldığını gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncü tecelli örneğinde hava ve deniz yüzeylerinin özellikle zikredilmesi neye işaret eder?",
+          "answer": "Saf ve parlak yüzeylerin doğrudan yansımaya elverişli olduğuna işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü örnekte her bir damlaya ve kabarcığa küçük bir görüntü verilmesi hangi anlayışı destekler?",
+          "answer": "Büyük bir kaynağın küçük aynalarda da kendine uygun ölçüde görünebileceği anlayışını destekler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci ve üçüncü tecelli tarzları arasında aracılık bakımından nasıl bir fark vardır?",
+          "answer": "İkinci tarzda ay gibi bir ara taşıyıcı öne çıkarken, üçüncüde daha doğrudan ve saf bir yansıma öne çıkar.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Parçaya göre yansımanın niteliği sadece kaynağa mı bağlıdır?",
+          "answer": "Hayır, yansımanın göründüğü yerin özelliği de belirleyicidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümdeki anlatım, hakikatin tek biçimde algılanmadığını nasıl göstermektedir?",
+          "answer": "Aynı güneşin değişik aynalarda başka başka tarzlarda görünmesiyle bunu göstermektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S3Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde geçen üç tecelli tarzı birlikte düşünüldüğünde hangi kavram daha iyi anlaşılır?",
+          "answer": "Birlik içinde çeşitlilik kavramı daha iyi anlaşılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın bütününden hangi ders çıkarılabilir?",
+          "answer": "İlâhî feyiz tek kaynaktan gelse de, muhatapların durumu sebebiyle farklı seviyelerde ve farklı suretlerde görünür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S3Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İlk tecelli tarzında anlatılan üçlü ayrımın ölçüsü nedir?",
+          "answer": "Kapsamın genişten özele doğru daralmasıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bütün çiçekleri kuşatan tecelli ile bir türe mahsus tecelli arasında ne fark vardır?",
+          "answer": "İlki ortak ve genel, ikincisi ise belirli bir cinse veya türe uygun özel bir görünüş taşır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Her bir çiçeğin şahsına göre olan yansıma neden ayrıca zikredilmiştir?",
+          "answer": "Çünkü aynı tür içinde bile fertlerin ayrı ayrı payları ve özellikleri bulunduğunu göstermek içindir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Çiçeklerin renklerinin güneşle irtibatlandırılması hangi fikri kuvvetlendirir?",
+          "answer": "Görülen güzelliklerin asıl kaynağının daha yüksek bir nur olduğunu kuvvetlendirir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Ayın aldığı payı denizlere ve havaya aktarması nasıl bir düzeni gösterir?",
+          "answer": "Kaynaktan alınan nimetin farklı mertebelerle başkalarına ulaşmasını gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Neden önce büyük yüzeyler, sonra küçük parçalar anılmaktadır?",
+          "answer": "Yansımanın geniş alanlardan tek tek küçük unsurlara kadar indiğini göstermek için anılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Üçüncü tecellide “safi” oluşun önemi nedir?",
+          "answer": "Yansımanın karışmadan ve daha berrak bir şekilde ortaya çıkmasını ifade eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Karın küçük billurları gibi örneklerin verilmesi neyi anlatır?",
+          "answer": "Çok küçük ve geçici görünen şeylerin bile yansıma almaya uygun olabileceğini anlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci ve üçüncü tecellilerde ortak olan nokta nedir?",
+          "answer": "Her ikisinde de güneşten gelen nurun başka varlıklarda görünür hâle gelmesidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Bu ortaklığa rağmen temel ayrım nedir?",
+          "answer": "Birinde ara bir taşıyıcının gölgesi belirgindir, diğerinde daha doğrudan bir akis vardır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S4Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın ana düşüncesi bir cümleyle nasıl özetlenebilir?",
+          "answer": "Tek bir nur, farklı aynalarda onların durumuna göre çeşitli suretlerde görünür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki ilk örnekte tecellinin üç derecede ele alınması neyi öğretir?",
+          "answer": "Aynı etkinin umumi, türsel ve bireysel düzeylerde farklı biçimde gerçekleşebileceğini öğretir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Çiçeklerin güneşin aynaları sayılması onların hangi özelliğini öne çıkarır?",
+          "answer": "Kendilerinde görülen güzelliğin başkasından gelen bir yansıma oluşunu öne çıkarır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci örnekte ayın ışığı alıp yansıtması hangi ilişki biçimine benzer?",
+          "answer": "Kaynaktan alan ve sonra onu başkasına ulaştıran bir vasıta ilişkisine benzer.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Ayın ardından deniz, hava ve parlak toprağın zikredilmesi neden anlamlıdır?",
+          "answer": "Çünkü bunlar ışığı kabul edip yansıtabilen geniş alanlar olarak düşünülmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Küçük kabarcıkların ve zerrelerin de ayrıca anılması hangi inceliği gösterir?",
+          "answer": "Büyüklerin yanında küçüklerin de nasipsiz kalmadığını gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Su damlaları ve hava serpintileri gibi örneklerin ortak yanı nedir?",
+          "answer": "Her biri küçük ama parlak bir yansıtıcı olmaya elverişlidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu üç tecelli tarzı birlikte, muhatapların farkını nasıl görünür kılar?",
+          "answer": "Aynı kaynağın, alıcıların yapısına göre başka başka biçimlerde göründüğünü görünür kılar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Parçadan hareketle her varlık güneşten aynı şekilde mi yararlanmaktadır?",
+          "answer": "Hayır, yararlanma biçimi ve derecesi bulunduğu konuma göre değişmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "İkinci tecellide ayın nuru neden bağımsız bir kaynak gibi sunulmaz?",
+          "answer": "Çünkü onun parlaklığı kendi zatından değil, aldığı ışıktan doğmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Üçüncü tecellide her bir parçaya küçük bir timsal verilmesi neyi ima eder?",
+          "answer": "Büyük hakikatin küçük aynalarda da onlara uygun ölçüde belirebildiğini ima eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu anlatımın sonraki manevî yorumlara hazırlık sağlayan yönü nedir?",
+          "answer": "Hakikatin tek olmasına rağmen tecelli ve idrak bakımından çokluk gösterebileceğini zihinlere yerleştirmesidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S5Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada güneşin çiçeklere yönelik ilk yansıması hangi üç başlık altında toplanır?",
+          "answer": "Umumi olan, türe göre özel olan ve fertlere göre tekil olan yansımalar altında toplanır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Türlere göre farklılaşan yansımanın ayrıca belirtilmesi niçin önemlidir?",
+          "answer": "Çünkü her türün aynı genel kaynaktan kendine uygun bir pay aldığını gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Ferdî yansıma anlayışı bize çiçekler hakkında ne söyler?",
+          "answer": "Her birinin ayrı bir kabulle ve ayrı bir görünüşle nasiplendiğini söyler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Çiçeklerdeki renklerin güneş ışığıyla açıklanması, sebep-sonuç bakımından ne ifade eder?",
+          "answer": "Görünen çeşitliliğin arkasında tek bir asıl kaynağın bulunduğunu ifade eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci tecelli örneğinde güneşten sonraki ilk alıcı hangisidir?",
+          "answer": "Aydır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Ayın konumu neden güneşle aynı seviyede değildir?",
+          "answer": "Çünkü ışığı kendinden üretmez; onu alıp yansıtır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Ayın ışığının büyük alanlara yayılmasıyla küçük parçalara ulaşması arasında nasıl bir derece farkı vardır?",
+          "answer": "Önce daha kapsamlı ve yaygın, sonra daha dar ve tek tek unsurlara yönelik bir aktarım vardır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Üçüncü tecellide hava ve deniz yüzeylerinin ayna olarak anılması neyi destekler?",
+          "answer": "Berraklık arttıkça doğrudan yansımanın daha açık görülebileceği fikrini destekler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Küçük damla ve kabarcıklarda görülen akis neden önemlidir?",
+          "answer": "Çünkü küçüklük, yansıma almaya engel değildir; her biri kendi ölçüsünce pay alabilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Metindeki üç örnek, yansımanın tek tip olmadığını hangi yönlerden ortaya koyar?",
+          "answer": "Kapsam, aracılık ve berraklık yönlerinden farklılaştığını ortaya koyar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu farklılıkların asıl kaynağı güneşin değişmesi midir?",
+          "answer": "Hayır, esas olarak yansımanın yöneldiği yerlerin durumunun değişmesidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p10:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün bu kısmın özlü sonucu nedir?",
+          "answer": "Tek olan nur, muhatapların kabiliyeti ve konumuna göre çeşitli mertebelerde görünür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p10:lisans:S6Q11"
+          ]
+        }
+      ]
+    }
+  ]
+}

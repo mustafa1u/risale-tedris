@@ -30,6 +30,7 @@ export function getHomepageStats(library) {
 export function getHomepageCtas() {
   return {
     booksHref: "/books/",
+    howItWorksHref: "/nasil-oluyor/",
     lessonFlowHref: "/lesson-flow/"
   };
 }

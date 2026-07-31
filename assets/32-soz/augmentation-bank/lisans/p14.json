@@ -1,0 +1,682 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:lisans:p14",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "lisans",
+  "partNo": "p14",
+  "partNumber": 14,
+  "title": "1. Mevkıf: güneşin şehadeti",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/lisans/SveC_lisans_32-soz-p14-1-mevkif-gunesin-sehadeti.txt",
+  "sourceRevision": "ea124e0d82a1d647cc67090d3701abd51bcaa8f50192850a8e1d0f7d0b986520",
+  "setCount": 6,
+  "questionCount": 56,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p14:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Müddeî, yeryüzünde yer bulamayınca niçin güneşe yöneliyor?",
+          "answer": "Güneşin büyüklüğünden cesaret alıp orada bir gedik açabileceğini ve böylece yeri de kendi hesabına bağlayabileceğini sanıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Müddeî güneşe hangi bakış açısıyla hitap ediyor?",
+          "answer": "Şirki esas alan, sapmış felsefenin diliyle konuşuyor ve güneşi bağımsız bir hâkim gibi göstermeye çalışıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Güneş, kendisi hakkında nasıl bir konum tarif ediyor?",
+          "answer": "Kendi başına malik bir varlık değil; emredilen bir görevli ve sahibinin mülkünde hizmet eden bir unsur olduğunu bildiriyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Güneşin, bir sineğe hatta onun küçük bir parçasına bile gerçek anlamda sahip olamayacağını söylemesinin sebebi nedir?",
+          "answer": "Çünkü en küçük canlıda bile güneşin yapamayacağı, kudret alanını aşan ince ve hayret verici sanatlar bulunduğunu ifade ediyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Müddeî, güneşin bağımsız olmadığını öğrenince bu defa nasıl bir iddia ileri sürüyor?",
+          "answer": "Madem hizmetkâr durumundasın, öyleyse sebepler adına bana ait olmalısın diyerek onu yine kendi tarafına çekmeye çalışıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Güneş bu ikinci iddiaya hangi ölçüyle cevap veriyor?",
+          "answer": "Ancak bütün benzer yıldızları yaratan, göklere hikmetle yerleştiren, haşmetle döndüren ve güzellikle süsleyen zata ait olabileceğini söylüyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p14:lisans:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu bölümde güneşin verdiği cevaplar hangi ana fikri güçlendiriyor?",
+          "answer": "Kâinattaki büyük varlıkların bile kendi başlarına tasarruf sahibi olmadığını ve gerçek sahipliğin tek ilahî kudrete ait olduğunu gösteriyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Güneşin kendini “hizmet eden” olarak tanıtması, metindeki rububiyet anlayışı açısından ne anlatır?",
+          "answer": "Rububiyetin mahlûklara değil, onları sevk ve idare eden tek Rabbe mahsus olduğunu anlatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajda büyüklük ile sahiplik arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Sırf büyük olmak sahip olmayı gerektirmez; asıl ölçü, bütün düzeni kuran ve her şeyi kuşatan kudrettir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p14:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Güneşe yönelen müddeînin içinden geçirdiği ilk plan nedir?",
+          "answer": "Güneşin büyüklüğünde kendine bir açık kapı bulup oradan etkisini genişletmeyi tasarlıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Müddeî güneşi nasıl tanımlayarak onu aldatmaya çalışıyor?",
+          "answer": "Onu kendi başına hükmeden, iradesi kendinden olan bir sultan gibi göstermeye uğraşıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Güneş bu tanımlamayı nasıl reddediyor?",
+          "answer": "Bu düşünceyi kesin biçimde geri çevirip kendi başına malik olmadığını, yalnızca vazifeli bir memur olduğunu belirtiyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p14:lisans:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Güneşin “en küçük canlıya bile sahip değilim” demesi neyi ispat için kullanılmıştır?",
+          "answer": "Kudret ve mülkiyetin zahirî büyüklükle değil, canlılardaki ince yaratılışı yapabilmekle anlaşılacağını göstermek için kullanılmıştır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Müddeînin ikinci sözünde “sebepler adına sahiplenme” düşüncesi neyi yansıtıyor?",
+          "answer": "Hakiki fail yerine vasıtaları öne çıkaran bozuk bir düşünceyi yansıtıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Güneşin son cevabında sayılan işler hangi tür bir kudreti gerekli kılar?",
+          "answer": "Tek tek değil topluca yaratmaya, düzenlemeye ve yönetmeye gücü yeten kapsamlı ve sınırsız bir kudreti gerekli kılar.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p14:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Güneşin yıldızlarla ilgili verdiği örnek, niçin meseleyi sadece güneşten ibaret bırakmıyor?",
+          "answer": "Çünkü gerçek sahipliğin anlaşılması için güneşin benzerleriyle birlikte ele alınması ve bütün gök düzeninin dikkate alınması gerekiyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p14:lisans:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölümde “hikmet”, “haşmet” ve “zînet” vurguları neyi destekliyor?",
+          "answer": "Kâinatta rastgelelik değil, bilinçli düzen, güç ve sanat bulunduğunu destekliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Pasajın bütününden çıkarılacak en temel sonuç nedir?",
+          "answer": "Sebeplerin ve büyük varlıkların bağımsız güç sahibi olmadığı, hepsinin Allah’ın emri altında bulunduğudur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p14:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Güneşe yönelttiği ilk hitapta hangi inanç çizgisine yaklaşmaktadır?",
+          "answer": "Ateşi veya güneşi merkeze alan sapkın bir anlayışa yaklaşmakta ve güneşi ilahlaştırmaya çalışmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Güneşin “görevli” olduğunu söylemesi, yaratılmışlık bakımından ne ifade eder?",
+          "answer": "Kendi kendine var ve serbest olmadığını, emre bağlı bir mahlûk olduğunu ifade eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Güneş niçin özellikle canlıdaki ince sanatlara dikkat çekiyor?",
+          "answer": "Kendisinin ısı ve ışık vermesine rağmen hayatın ve organlardaki hassas düzenin asıl kaynağı olamayacağını göstermek için dikkat çekiyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Güneşin cevaplarında tevazu ile birlikte hangi düşünce öne çıkıyor?",
+          "answer": "Her nimetin ve her sanatın gerçek sahibinin Allah olduğu düşüncesi öne çıkıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Müddeînin ikinci denemesi, ilk reddedişten sonra hangi mantık hatasına düştüğünü gösterir?",
+          "answer": "Bağımsız olamayan bir şeyi, bu defa sebepler adına sahiplenebileceğini sanarak yine asılsız bir sonuca gidiyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p14:lisans:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Güneşin kendisini kime nispet edebileceğini söylerken verdiği ölçü nedir?",
+          "answer": "Ancak gökteki büyük düzeni kuran, yıldızları yaratan ve hepsini yerli yerince sevk eden zata ait olabileceğini söylüyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu bölümde küçük ile büyük arasında kurulan karşılaştırma neyi öğretir?",
+          "answer": "Allah’ın sanatının hem en küçük canlıda hem de en büyük gök cisminde aynı hâkimiyetle göründüğünü öğretir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki tartışma, insanın sebeplere bakışını nasıl düzeltmeyi amaçlar?",
+          "answer": "Sebepleri gerçek malik ve fail sanmak yerine, onları ilahî emrin hizmetkârı olarak görmeyi öğretir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p14:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Müddeî güneşi neden uygun bir hedef gibi görüyor?",
+          "answer": "Onun çok büyük oluşunu, içine sızılabilecek bir alan varmış gibi değerlendiriyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Güneşe hitabında kullandığı sözlerin temel amacı nedir?",
+          "answer": "Güneşi bağımsız göstermek ve böylece ilahî otoriteden kopuk bir güç merkezi gibi sunmaktır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Güneşin verdiği ilk cevapta en keskin vurgu hangisidir?",
+          "answer": "Kendi başına sahiplik iddiasının kesin olarak reddedilmesidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Güneşin kendini bir mekânda hizmet eden unsur gibi tanıtması neyi ima eder?",
+          "answer": "Varlığının ve işleyişinin başka bir iradeye bağlı olduğunu ima eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Sineğin organlarıyla ilgili verilen örnek ne tür bir delil sayılır?",
+          "answer": "Küçük bir varlıktaki sanat üzerinden büyük bir varlığın yetersizliğini gösteren karşılaştırmalı bir delildir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Müddeînin “hizmetkârsan benim ol” tarzındaki sözü neden geçersiz kalıyor?",
+          "answer": "Çünkü hizmet etmek, sebeplere ait olmayı değil, hakiki sahibin emrine bağlı olmayı gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Güneşin son cümlesinde tarif edilen zatın hangi fiilleri öne çıkarılıyor?",
+          "answer": "Yıldızları yaratması, yerleştirmesi, hareket ettirmesi ve onlara süslü bir düzen vermesi öne çıkarılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu fiillerin birlikte anılması niçin önemlidir?",
+          "answer": "Sadece var etmek değil, devamlı düzenlemek ve yönetmenin de aynı tek kudrete ait olduğunu gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p14:lisans:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Pasajda “sebepler” anlayışı hangi yönden eleştirilmektedir?",
+          "answer": "Sebeplere gerçek sahiplik ve tesir vermesi yönünden eleştirilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bölümün sonunda okuyucuya verilmek istenen imanî ders nedir?",
+          "answer": "Kâinattaki her büyük kuvvetin Allah’ın emri altında bir görevli olduğu ve ulûhiyetin hiçbir mahlûka verilemeyeceğidir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p14:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Müddeînin güneş hakkındaki ilk beklentisi nasıl özetlenebilir?",
+          "answer": "Güneşte bir açıklık bulup kendi iddiasına dayanak çıkarma beklentisidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Güneşe yöneltilen övgü dolu sözler gerçekte neye hizmet ediyor?",
+          "answer": "Güneşi olduğundan farklı gösterip onu bağımsız bir güç gibi kabul ettirmeye hizmet ediyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Güneş niçin bu övgüyü kabul etmiyor?",
+          "answer": "Çünkü kendisinin hükmeden efendi değil, emredilen bir vazifeli olduğunu biliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "En küçük canlı parçasına bile malik olamamak, güneşin sınırları hakkında ne gösterir?",
+          "answer": "Onun etkisinin sınırlı olduğunu, yaratma ve sahiplik makamının ona ait olmadığını gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Güneşin canlıdaki sanatları kendi “dükkânında” bulunmayan şeyler olarak göstermesi ne anlatır?",
+          "answer": "Canlılardaki ince yapının güneşin tabiatından çıkmadığını ve başka bir ilme-kudrete dayandığını anlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Müddeî neden ilk reddedişten sonra yöntem değiştiriyor?",
+          "answer": "Bağımsızlık iddiası tutmayınca bu kez sebepler adına sahiplenme yolunu deniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p14:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Güneşin ikinci cevabında aidiyet nasıl tanımlanıyor?",
+          "answer": "Aidiyet, ancak bütün yüksek yıldızları var eden ve onları tam düzen içinde yöneten zata bağlanıyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu aidiyet tanımı, tevhid düşüncesini nasıl pekiştiriyor?",
+          "answer": "Kısmi ve parçalı güç odaklarını reddedip bütün kozmik düzeni tek yaratıcıya nispet ederek tevhidi kuvvetlendiriyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p14:lisans:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Pasajdaki muhakeme tarzı daha çok hangi yöntemle ilerliyor?",
+          "answer": "İddiayı sınayıp yetersizliğini ortaya koyan aklî ve karşılaştırmalı bir muhakemeyle ilerliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bir öğrenci bu parçadan düşünce hataları konusunda hangi uyarıyı alabilir?",
+          "answer": "Görünürde etkili olan bir sebebi, hakiki sahip ve yaratıcı sanma hatasına düşmemesi gerektiği uyarısını alabilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p14:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Yerde başarısız olan müddeînin güneşe gitmesi, onun psikolojisi hakkında ne gösteriyor?",
+          "answer": "Vazgeçmeyen fakat hakka yönelmeyen, sürekli yeni bir dayanak arayan inatçı bir tavır gösteriyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Müddeî güneşi hangi sıfatlarla kandırmaya çalışıyor?",
+          "answer": "Onu kendi kendine yeten, kendi üzerinde hüküm sahibi bir yönetici gibi sunmaya çalışıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Güneş bu sıfatlara karşı kendini nasıl konumlandırıyor?",
+          "answer": "Kendini ilah değil, emre bağlı bir memur ve ilahî mülkte hizmet eden bir araç olarak konumlandırıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Güneşin sinek örneğini vermesi, hangi yanlış ölçüyü yıkıyor?",
+          "answer": "“Büyük olan mutlaka daha üstün yaratıcı güce sahiptir” şeklindeki yanlış ölçüyü yıkıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Güneşe göre küçük bir canlıdaki sanat neden önemlidir?",
+          "answer": "Çünkü gerçek kudret, en ince yapıları da kusursuzca var edip idare edebilmeyi gerektirir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Müddeînin ikinci aşamada sebepler adına konuşması, düşüncesindeki hangi sapmayı açığa çıkarır?",
+          "answer": "Hakiki faili bırakıp aracılara bağımsız değer verme sapmasını açığa çıkarır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Güneşin son cevabında geçen kozmik düzen unsurları nelerdir?",
+          "answer": "Yüksek yıldızların yaratılması, gökte yerlerine konulması, döndürülmesi ve süslenmiş bir nizam içinde tutulmasıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu düzen unsurlarından hareketle güneş hangi sonuca ulaştırıyor?",
+          "answer": "Böyle kapsamlı işleri yapabilen bir zata bağlı olmayan hiçbir varlığın gerçek sahiplik iddia edemeyeceği sonucuna ulaştırıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p14:lisans:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada geçen hitapların sertliği neyi yansıtıyor?",
+          "answer": "Tevhid konusunda tavizin olmadığını ve bâtıl sahiplik iddialarının kesin şekilde reddedildiğini yansıtıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p14:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajın bütününü tek cümleyle özetlersen nasıl özetlersin?",
+          "answer": "Güneş dahil bütün büyük varlıklar, bağımsız efendiler değil; her şeyi kuşatan tek Rabbin emrindeki hizmetkârlardır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

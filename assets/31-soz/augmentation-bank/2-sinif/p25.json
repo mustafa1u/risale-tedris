@@ -1,0 +1,1134 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "31-soz:2-sinif:p25",
+  "bookSlug": "31-soz",
+  "bookTitle": "31. Söz",
+  "bookOrder": 8,
+  "gradeSlug": "2-sinif",
+  "partNo": "p25",
+  "partNumber": 25,
+  "title": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/31-soz/outputs/2-sinif/SveC_2sinif_31-soz-p25-ucuncu-esas-ikinci-temsil-kainat-kitabi-ve-munkire-gecis.txt",
+  "sourceRevision": "4d10f71632eebb60a54e56446bf7f61c6f015c975d48e886c91fce5211083b01",
+  "setCount": 6,
+  "questionCount": 90,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci örnekte, çok bilgili bir kişinin yazdığı eser nasıl bir eser olarak anlatılıyor?",
+          "answer": "Çok derin anlamları olan, çok değerli bir eser olarak anlatılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu değerli eserin boş ve faydasız kalmaması için ne yapılması gerekir?",
+          "answer": "İnsanlara öğretilmesi gerekir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Eseri yazan kişi, neden onu başkalarına açıklamak ister?",
+          "answer": "İçindeki güzellikler ve değerler bilinsin diye ister.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu eseri herkese aynı ölçüde mi anlatır?",
+          "answer": "Hayır, herkesin anlayışına göre anlatır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Eserin tamamını öğreteceği kişi nasıl biri olmalıdır?",
+          "answer": "Çok iyi anlayan, geniş kavrayışlı ve seçkin biri olmalıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu örneğe göre kâinat neye benzetiliyor?",
+          "answer": "Anlamlarla dolu büyük bir kitaba benzetiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Kâinatta olan varlıklar neyi bildirir?",
+          "answer": "Allah’ın güzel isimlerini, sıfatlarını ve mükemmelliğini bildirir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre böyle büyük anlam taşıyan bir “kitap” neden sessiz bırakılmaz?",
+          "answer": "Çünkü çok önemli manalar taşır; bilinmeden bırakılması uygun olmaz.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu büyük kitabı yazan, insanlara onu nasıl bildirir?",
+          "answer": "Her grubun kabiliyetine göre bir kısmını anlattırır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Kâinat kitabının tamamı en çok kime öğretilir?",
+          "answer": "En geniş bakışlı ve en üstün kabiliyetli bir kişiye öğretilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu kişiye verilen eğitim neden yüksek bir yolculukla olur?",
+          "answer": "Çünkü kitabın bütün büyük gerçeklerini görmek için yukarı doğru ilerlemesi gerekir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu yolculuk nereden nereye kadar uzanır?",
+          "answer": "Çokluk âleminin en sonundan, birlik dairesinin yüksek tarafına kadar uzanır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S1Q11"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Bu anlatım, Mi’rac hakkında bize neyi göstermektedir?",
+          "answer": "Mi’racın yüce bir hikmeti olduğunu göstermektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S1Q11"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Metnin sonunda kalpte nasıl bir değişme başlıyor?",
+          "answer": "İnanmaya yönelme başlıyor, ama tam anlama henüz olmuyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S1Q15",
+          "sourceQuestionId": "S1Q15",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 15,
+          "question": "Kalpte kaç önemli zorluk kaldığı söyleniyor?",
+          "answer": "Üç zorluk kaldığı söyleniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci temsilde anlatılan yazılı şey, sıradan bir yazı mı, yoksa çok özel bir eser mi?",
+          "answer": "Çok özel ve olağanüstü bir eser.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "O eserin her bölümünde az mı, çok mu mana bulunduğu anlatılıyor?",
+          "answer": "Çok mana bulunduğu anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu manalar en çok neye işaret eder?",
+          "answer": "Yazanın manevi üstünlüklerine işaret eder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Böyle bir eser neden gizli tutulmaz?",
+          "answer": "Değerli olduğu için anlaşılması istenir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Eserin öğretilmesi, yazanın hangi isteğine hizmet eder?",
+          "answer": "Güzelliğinin ve üstünlüğünün görünmesine hizmet eder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Eseri öğretecek kişi, baştan sona kadar mı ilerletilir?",
+          "answer": "Evet, baştan sona kadar ilerletilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci temsilde Allah’ın kâinatı niçin yazdığı anlatılıyor?",
+          "answer": "Kendi kemalini, güzelliğini ve isimlerinin hakikatlerini göstermek için.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bütün varlıklar ne yapıyor gibi gösteriliyor?",
+          "answer": "Allah’ın kemalini, isimlerini ve sıfatlarını anlatıyor gibi gösteriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bir kitabın manası bilinmezse, metne göre ne olur?",
+          "answer": "Değeri düşer, sanki boş kalmış gibi olur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Çok büyük manalar taşıyan kâinat kitabı için hangi sonuç çıkarılıyor?",
+          "answer": "Mutlaka tanıtılacağı sonucu çıkarılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "İnsanlara anlatım yapılırken neye dikkat edilir?",
+          "answer": "Herkesin yeteneğine ve anlayışına dikkat edilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "En kapsamlı ders kime verilir?",
+          "answer": "En genel bakışlı ve en yüksek şuurlu kişiye verilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Bu kapsamlı ders için nasıl bir gezdirme gerekir?",
+          "answer": "Yüksek ve aşamalı bir manevi gezdirme gerekir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S2Q12"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Bu gezdirme, aşağıdan yukarıya doğru hangi düşünceyi anlatır?",
+          "answer": "Mi’racın yükseliş yönünü anlatır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S2Q13"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S2Q15",
+          "sourceQuestionId": "S2Q15",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 15,
+          "question": "Son kısımda kalbin sözü, inkâr mı gösteriyor, yoksa yaklaşan bir kabul mü?",
+          "answer": "Yaklaşan bir kabul gösteriyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci örnekteki kitabın en önemli özelliği nedir?",
+          "answer": "Çok yoğun ve derin anlamlar taşımasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Kitaptaki gerçeklerin yönü kime dönüktür?",
+          "answer": "Onu yazanın manevi mükemmelliğine dönüktür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Böyle bir kitabın ders verilmesi niçin önemlidir?",
+          "answer": "Boş sanılmaması ve faydasının ortaya çıkması için önemlidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Ders verilince hangi iki şey ortaya çıkar?",
+          "answer": "Gizli üstünlükler açığa çıkar ve manevi güzellik görünür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Eseri öğreten kişi, öğrencisini ne kadar ilerletir?",
+          "answer": "İlk kısımdan son kısma kadar ilerletir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu örneğin benzeri olarak kâinat nasıl sunuluyor?",
+          "answer": "Allah’ın yazdığı büyük bir eser gibi sunuluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Kâinattaki her şey sadece kendini mi gösterir, yoksa daha büyük hakikatleri mi bildirir?",
+          "answer": "Daha büyük hakikatleri bildirir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre kâinattaki varlıklar Allah hakkında neleri haber verir?",
+          "answer": "Kemalini, isimlerini ve sıfatlarını haber verir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Kâinat kitabının anlaşılması neden gereklidir?",
+          "answer": "Çünkü çok büyük manalar taşıdığı için bilinmesi gerekir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Her insan bu kitaptan aynı miktarda mı öğrenir?",
+          "answer": "Hayır, herkes gücüne göre öğrenir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "En geniş dersin verileceği kişi hangi özellikleri taşır?",
+          "answer": "Geniş bakışlı, çok şuurlu ve üstün kabiliyetli olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu kişiye bütünü öğretmek için nasıl bir yol izlenir?",
+          "answer": "Yüksek bir manevi yolculuk yaptırılır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S3Q11"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Yolculuğun başlangıcı hangi taraftadır?",
+          "answer": "Çokluğun bulunduğu alt taraftadır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S3Q12"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Yolculuğun sonu hangi tarafa varır?",
+          "answer": "Birliğin en yüksek tarafına varır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S3Q12"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S3Q15",
+          "sourceQuestionId": "S3Q15",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 15,
+          "question": "Bu temsil, Mi’racın hangi yönünü anlamaya yardım eder?",
+          "answer": "Hikmetli ve yüce yönünü anlamaya yardım eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S3Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci temsilde anlatılan kişi, yazdığı eseri niçin kapalı bırakmaz?",
+          "answer": "Çünkü eserin manalarının bilinmesini ister.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Eser bilinirse hangi fayda olur?",
+          "answer": "Değeri anlaşılır ve güzelliği ortaya çıkar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Eseri açıklayacak kişi nasıl bir görev yapar?",
+          "answer": "İnsanlara eserin manalarını öğretir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu öğretme işi gelişigüzel mi olur?",
+          "answer": "Hayır, düzenli ve baştan sona doğru olur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu örneğin asıl anlattığı büyük hakikat nedir?",
+          "answer": "Kâinatın Allah’ın hikmetli eseri olduğudur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Kâinatın yazılışında hangi amaçlar vardır?",
+          "answer": "Allah’ın kemalini, cemalini ve isimlerinin hakikatlerini göstermek.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Varlıkların çok farklı yönlerden bir şeyler anlatması neyi gösterir?",
+          "answer": "Kâinatın anlamlı ve hikmetli olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Manası bilinmeyen bir kitap için nasıl bir eksiklik olur?",
+          "answer": "Sessiz kalmış gibi olur, maksadı anlaşılmaz.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Kâinat kitabı için böyle bir eksiklik düşünülebilir mi?",
+          "answer": "Hayır, düşünülemez.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu yüzden kitabı yazan ne yapacaktır?",
+          "answer": "Onu mutlaka tanıtacaktır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "İnsan topluluklarına açıklama yapılırken hangi ölçü kullanılır?",
+          "answer": "İstidat ve anlama gücü ölçüsü kullanılır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Herkesten daha kapsamlı ders alan kişi neden seçkindir?",
+          "answer": "Çünkü anlayışı ve kabiliyeti daha geniştir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S4Q11"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Metne göre bu büyük ders için sadece bilgi yeterli mi, yoksa yolculuk da gerekir mi?",
+          "answer": "Yolculuk da gerekir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S4Q12"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "Bu yolculuk neyin bir işareti olarak anlatılıyor?",
+          "answer": "Mi’racın hikmetine işaret olarak anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S4Q13"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S4Q15",
+          "sourceQuestionId": "S4Q15",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 15,
+          "question": "Son bölümde kalp ne söylüyor?",
+          "answer": "İnanmaya yaklaştığını, ama bazı şeyleri tam anlamadığını söylüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci temsilin başındaki kitap, küçük anlamlı bir kitap mı, yoksa çok zengin anlamlı bir kitap mı?",
+          "answer": "Çok zengin anlamlı bir kitaptır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kitapta yer alan anlamlar kimin üstünlüklerini gösterir?",
+          "answer": "Yazanın manevi üstünlüklerini gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Yazanın bu kitabı okutması hangi yanlışlığı önler?",
+          "answer": "Eserin boş ve faydasız sanılmasını önler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kitap öğretilince yazan için nasıl bir sonuç olur?",
+          "answer": "Memnun olur ve başkalarına da sevdirmiş olur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Kitabın tamamını anlatacak öğretim nasıl ilerler?",
+          "answer": "İlk bölümden son bölüme kadar ilerler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Benzer şekilde kâinatın yazarı kimdir?",
+          "answer": "Nakkaş-ı Ezelî olan Allah’tır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Kâinatın yazılmasının sebepleri arasında hangi üç şey sayılıyor?",
+          "answer": "Kemal, cemal ve isimlerin hakikatleri.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bütün varlıklar bu yazılmış büyük eser içinde ne yapar?",
+          "answer": "Allah’ı tanıtan işaretler verir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Böyle bir eserin anlaşılmadan kalması neden uygun değildir?",
+          "answer": "Çünkü her parçasında çok büyük manalar vardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Kâinat kitabını bildirme işi tek biçimde mi yapılır?",
+          "answer": "Hayır, farklı seviyelere göre yapılır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Kime daha geniş bir ders verilir?",
+          "answer": "En kapsamlı anlayışı olan kişiye verilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu geniş ders için neden yükselme gerekir?",
+          "answer": "Büyük hakikatlerin tamamını görmek için gerekir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S5Q11"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Yolculuğun alt ucu neyi temsil eder?",
+          "answer": "Çokluk tabakalarını temsil eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S5Q12"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Yolculuğun üst ucu neyi temsil eder?",
+          "answer": "Ehadiyet dairesini temsil eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S5Q12"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S5Q15",
+          "sourceQuestionId": "S5Q15",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 15,
+          "question": "Bütün bu anlatımın sonucu olarak Mi’rac hakkında hangi düşünce doğar?",
+          "answer": "Çok hikmetli ve yüce bir olay olduğu düşüncesi doğar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S5Q1"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki ikinci örnek, önce en çok neyi anlatıyor: bir bina mı, bir kitap mı?",
+          "answer": "Bir kitabı anlatıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kitabın içi sade mi, yoksa kat kat manalarla dolu mu?",
+          "answer": "Kat kat manalarla dolu.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Kitaptaki bu manalar, yazanın hangi yönünü gösterir?",
+          "answer": "Manevi güzelliğini ve üstünlüğünü gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Eseri gizli tutmak neden doğru olmaz?",
+          "answer": "Çünkü böylesi değerli bir şeyin bilinmesi gerekir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Eseri açıklamak, insanlar için hangi faydayı sağlar?",
+          "answer": "Manaları öğrenmelerini sağlar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Eseri açıklamak, yazan için hangi faydayı sağlar?",
+          "answer": "Güzelliğinin görülmesini sağlar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Sonra bu örnek hangi büyük varlığa uygulanıyor?",
+          "answer": "Kâinata uygulanıyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Kâinat, Allah’ın nelerini göstermektedir?",
+          "answer": "Kemalini, isimlerini ve sıfatlarını göstermektedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre kâinat niçin önemli bir kitap gibidir?",
+          "answer": "Çünkü içinde çok büyük anlamlar vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu büyük kitabın manaları insanlara hiç anlatılmayabilir mi?",
+          "answer": "Hayır, anlatılması gerekir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Anlatımda herkes aynı seviyede mi kabul edilir?",
+          "answer": "Hayır, herkes kendi gücüne göre ele alınır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "En özel ders alan kişi hangi bakımdan öne çıkar?",
+          "answer": "Anlayışı, şuuru ve kabiliyeti bakımından öne çıkar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S6Q11"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Bu kişiye verilen yolculuk, düz bir anlatım mı, yoksa aşamalı bir yükseliş mi?",
+          "answer": "Aşamalı bir yükseliştir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S6Q12"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Bu yükselişin bir ucu nerede başlar?",
+          "answer": "Kesret tarafının son noktasında başlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S6Q13"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p25:2-sinif:S6Q15",
+          "sourceQuestionId": "S6Q15",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 15,
+          "question": "Bu yükselişin öbür ucu nereye varır ve neyi düşündürür?",
+          "answer": "Ehadiyet tarafına varır ve Mi’racın hikmetini düşündürür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p25:2-sinif:S6Q13"
+          ]
+        }
+      ]
+    }
+  ]
+}

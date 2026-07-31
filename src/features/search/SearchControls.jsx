@@ -1,5 +1,6 @@
 import {
-  SEARCH_MODES,
+  SEARCH_LEVELS,
+  SEARCH_MODES_BY_LEVEL,
   SEARCH_PROXIMITY_DISTANCES,
   SEARCH_SCOPES
 } from "./searchContracts.js";
@@ -38,6 +39,8 @@ export default function SearchControls({
   onBooleanRowAdd,
   onBooleanRowRemove
 }) {
+  const activeLevel = SEARCH_MODES_BY_LEVEL.basic.includes(state.mode) ? "basic" : "advanced";
+  const visibleModes = SEARCH_MODES_BY_LEVEL[activeLevel];
   const modeExamples = text.search.help.examples[state.mode] ?? [];
   const selectedCount = state.selectedBookSlugs.length;
 
@@ -45,9 +48,27 @@ export default function SearchControls({
     <>
       <div class="home-search__options">
         <fieldset class="search-option-group">
+          <legend>{text.search.levels.label}</legend>
+          <div class="search-chip-list">
+            {SEARCH_LEVELS.map((level) => (
+              <label class={activeLevel === level ? "search-chip is-active" : "search-chip"}>
+                <input
+                  type="radio"
+                  name={`${controlName}-search-level`}
+                  value={level}
+                  checked={activeLevel === level}
+                  onChange={() => onModeChange(SEARCH_MODES_BY_LEVEL[level][0])}
+                />
+                <span>{text.search.levels[level]}</span>
+              </label>
+            ))}
+          </div>
+        </fieldset>
+
+        <fieldset class="search-option-group">
           <legend>{text.search.modes.label}</legend>
           <div class="search-chip-list">
-            {SEARCH_MODES.map((mode) => (
+            {visibleModes.map((mode) => (
               <label class={state.mode === mode ? "search-chip is-active" : "search-chip"}>
                 <input
                   type="radio"
@@ -193,6 +214,12 @@ export default function SearchControls({
         <details class="search-help">
           <summary>{text.search.help.label}</summary>
           <p>{text.search.help[state.mode]}</p>
+          <p>{text.search.help.wildcard}</p>
+          <ul>
+            {text.search.help.examples.wildcard.map((example) => (
+              <li>{example}</li>
+            ))}
+          </ul>
         </details>
       </div>
     </>

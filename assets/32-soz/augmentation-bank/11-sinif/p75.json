@@ -1,0 +1,604 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:11-sinif:p75",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "11-sinif",
+  "partNo": "p75",
+  "partNumber": 75,
+  "title": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/11-sinif/SveC_11sinif_32-soz-p75-4-nukte-muhabbetlerin-dunya-ve-ahiret-neticelerine-giris.txt",
+  "sourceRevision": "6d59b752a64bf2802806fc436292431ef66ceef83fb82254e48f696b29fee053",
+  "setCount": 6,
+  "questionCount": 50,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde sorulan ana mesele nedir?",
+          "answer": "İnsanların çeşitli şeylere duyduğu sevginin, eğer Kur’an’ın gösterdiği ölçüde olursa, dünyada ve âhirette ne sonuç vereceği sorulmaktadır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen cevapta neden bütün sonuçların ayrıntılı biçimde anlatılmadığı belirtiliyor?",
+          "answer": "Çünkü bunun geniş şekilde açıklanması için çok hacimli bir eser gerektiği ifade ediliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p75:11-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Cevapta neticeler hangi iki başlık altında ele alınıyor?",
+          "answer": "Önce dünyada hemen görülen sonuçlara, ardından âhirette ortaya çıkacak sonuçlara değiniliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p75:11-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Gaflet ve dünya hesabına olan sevgilerin dünya hayatındaki genel sonucu nasıl özetleniyor?",
+          "answer": "Böyle sevgilerin acı ve yükü fazla, sevinci ve rahatlığı ise azdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde şefkat, muhabbet ve lezzetin olumsuz tarzdaki sonuçları hangi sebeplere bağlanıyor?",
+          "answer": "Şefkat güçsüzlük sebebiyle ıstıraba, sevgi ayrılık sebebiyle yanışa, tat alma ise geçicilik sebebiyle acıya dönüşür.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Allah rızası için olmayan sevgilerin âhiretteki durumu nasıl açıklanıyor?",
+          "answer": "Böyle sevgiler ya hiçbir fayda vermez ya da harama karışmışsa azaba sebep olur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Peygamberlere ve velilere sevginin hangi durumda faydasız kalabileceğine nasıl örnek veriliyor?",
+          "answer": "Ölçüsüz ve yanlış inançla kurulan sevginin, bazı toplulukların Hz. İsa’ya ve Hz. Ali’ye yaklaşımında olduğu gibi boşa çıkabileceği söyleniyor.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Sevgiler Kur’an’ın yönlendirdiği şekilde ve Allah adına olursa nasıl bir sonuç doğurur?",
+          "answer": "Hem dünya hayatında hem de âhirette güzel ve hayırlı neticeler verir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Lezzetli yiyeceklere ve hoş meyvelere sevginin doğru olduğunda dünyadaki faydası nedir?",
+          "answer": "Böyle sevgi acıya dönüşmeyen bir nimet olur ve aynı zamanda şükürle birleşmiş bir tat verir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde sayılan sevgi alanları arasında hangi örnekler yer alıyor?",
+          "answer": "Yeme içme, kişinin kendi nefsi, eşi, anne babası, çocukları, dostları, veliler, peygamberler, güzel varlıklar, bahar ve dünya örnek olarak anılıyor.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Cevabın başlangıcındaki “özetle işaret edilecek” ifadesi anlatımın hangi yönünü gösterir?",
+          "answer": "Konunun ayrıntıya girmeden kısa ve toplu şekilde ele alınacağını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p75:11-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Nefis hesabına bağlı sevgiler neden problemli kabul ediliyor?",
+          "answer": "Çünkü insanı kalıcı faydaya değil, sıkıntı ve geçici hazlara götürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde ayrılığın sevgi üzerindeki etkisi nasıl anlatılıyor?",
+          "answer": "Yanlış zeminde kurulan sevgi, ayrılık yüzünden insana acı veren bir hâl alır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Geçicilik, lezzeti nasıl etkileyen bir unsur olarak gösteriliyor?",
+          "answer": "Sürekli olmayan tat, sonunda insana zehir gibi dokunan bir acı bırakır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "“Harama girmiş ise” kaydı bize neyi düşündürür?",
+          "answer": "Yanlış sevgi sadece boş kalmakla kalmaz, sınırı aşarsa günah ve ceza sebebi de olabilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Metindeki soru-cevap kısmında neden peygamberler ve veliler sevgisi ayrıca gündeme getiriliyor?",
+          "answer": "Çünkü çoğu kişi böyle bir sevginin her durumda faydalı olacağını zannedebilir; metin ise bunun niyete ve ölçüye bağlı olduğunu hatırlatıyor.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Hıristiyanlardaki teslis anlayışı ile bazı aşırı grupların Hz. Ali hakkındaki tutumu hangi noktada örnek gösteriliyor?",
+          "answer": "Sevginin doğru ölçüden çıkıp yanlış inanca dönüşmesi halinde fayda vermeyeceğini göstermek için.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Doğru niyetle yiyeceklere duyulan sevginin “şükür” ile ilişkisi nedir?",
+          "answer": "Böyle sevgi nimeti vereni hatırlatır; insan sadece tad almaz, aynı zamanda nimete karşı hamd etmiş olur.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajın ana fikri tek cümleyle nasıl ifade edilebilir?",
+          "answer": "Sevginin değeri, neye yöneldiğinden çok hangi niyet ve ölçüyle yaşandığına bağlıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre aynı sevgi neden bazen faydalı, bazen zararlı olabilir?",
+          "answer": "Çünkü sevginin sonucu, onun Allah için mi yoksa nefis ve gaflet için mi taşındığına göre değişir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Dünya merkezli sevginin dünya hayatındaki sonucu ile âhiretteki sonucu arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Dünyada acı ve sıkıntı doğurur; âhirette de değer taşımadığı için ya boşa gider ya da cezaya döner.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde “az lezzet, çok elem” düşüncesi hangi sevgi türü için söyleniyor?",
+          "answer": "Gafletle ve sadece dünya menfaati için beslenen sevgiler için söyleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Şefkatin bile acı kaynağı hâline gelmesi neyi gösterir?",
+          "answer": "İyi görünen duyguların bile yanlış bakışla insana yük olabileceğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Peygamber ve veli sevgisinde esas ölçü nedir?",
+          "answer": "Bu sevginin ilahî rıza merkezli ve Kur’an’ın çizdiği sınırlar içinde olmasıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre sevginin Allah adına olması insana hangi iki alanda fayda sağlar?",
+          "answer": "Hem bu dünyada huzur ve doğru tat verir hem de âhirette yararlı olur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Yiyeceğe duyulan sevgi üzerinden verilmek istenen temel ders nedir?",
+          "answer": "Helal ve doğru niyetle yaşanan zevk, insanı gaflete değil nimeti bilmeye ve şükre götürebilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajın başındaki soru, sevgiyi yalnız duygu olarak mı ele alıyor, yoksa sonuçlarıyla mı?",
+          "answer": "Sonuçlarıyla ele alıyor; sevginin kişiye ne kazandıracağını soruyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde önce hangi zaman dilimine ait sonuçların anlatılacağı bildiriliyor?",
+          "answer": "İlk olarak bu dünyada hemen görülen sonuçların anlatılacağı belirtiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Gaflet ehlinin sevgilerinde “çok” olan şeyler nelerdir?",
+          "answer": "Bela, acı ve sıkıntı çoktur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Aynı sevgilerde “az” olan şeyler nelerdir?",
+          "answer": "Zevk, tat ve rahatlık azdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Sevginin faydasız kalmasına dair verilen örnekler hangi konuda uyarı yapıyor?",
+          "answer": "Kutsal şahsiyetlere duyulan sevginin bile yanlış inanç ve aşırılıkla bozulabileceği konusunda uyarı yapıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an’ın gösterdiği tarz ifadesi sevgi konusunda neyi ima eder?",
+          "answer": "Sevginin başıboş değil, vahyin belirlediği ölçü ve denge içinde olması gerektiğini ima eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Allah adına olan sevginin dünyaya ait sonucu nasıl tanıtılıyor?",
+          "answer": "Güzel ve temiz bir netice verdiği, kişiye nimet tadı ve iç huzuru kazandırdığı söyleniyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Taamlara ve meyvelere sevgi örneği neden özellikle uygun bir örnektir?",
+          "answer": "Çünkü günlük hayatta sık yaşanan bir sevgi türü üzerinden, doğru niyetin sıradan bir nimeti bile ibadet şuuru ile ilişkilendirdiği gösteriliyor.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde sevginin hangi türleri karşılaştırılıyor?",
+          "answer": "Bir tarafta gafletle ve nefis için olan sevgi, diğer tarafta Kur’an’ın öğrettiği şekilde Allah için olan sevgi karşılaştırılıyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Nefis için yaşanan sevgilerin ortak özelliği nedir?",
+          "answer": "Kısa süreli tat verse de sonunda acı, yorgunluk ve kayıp duygusu bırakmasıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Şefkatin musibete dönüşmesi hangi insanî duruma bağlanıyor?",
+          "answer": "İnsanın güçsüz oluşuna bağlanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Sevginin yakıcı bir acı hâline gelmesi hangi olayla ilişkilendiriliyor?",
+          "answer": "Ayrılıkla ilişkilendiriliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Zevkin acı veren bir hâl almasının temel sebebi nedir?",
+          "answer": "Kalıcı olmayıp sona ermesidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Ahirette faydasız kalma ifadesi, her sevginin otomatik olarak değerli olmadığını nasıl gösterir?",
+          "answer": "Duygunun kendisi yetmez; doğru niyet ve meşru sınır olmazsa sevgi ibadet değeri kazanmaz.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Metindeki örnekler, yanlış sevginin sadece sıradan konularda değil hangi alanda da görülebileceğini gösteriyor?",
+          "answer": "Din büyüklerine yönelik sevgide de görülebileceğini gösteriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Doğru sevginin yiyecekler üzerinden anlatılan sonucu nedir?",
+          "answer": "Kişi nimetten suçluluk ve acı duymadan faydalanır; bu tat aynı zamanda şükür anlamı taşır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde sevgiye dair sorunun kapsamı dar mı, geniş mi tutulmuştur?",
+          "answer": "Geniş tutulmuştur; kişiden aileye, dostlardan tabiata ve dünyaya kadar birçok sevgi alanını içine alır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Cevap neden aşamalı bir düzen içinde sunuluyor?",
+          "answer": "Konu çok geniş olduğu için önce dünya, sonra âhiret sonuçları şeklinde daha anlaşılır bir sıra kuruluyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Ehl-i gaflet tarzındaki sevgilerin sorunlu yönü sadece âhiretle mi ilgilidir?",
+          "answer": "Hayır; dünyada da insana çok dert ve az huzur getirdiği belirtilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde dünyadaki yanlış sevginin üç ayrı sonucu hangi örneklerle anlatılıyor?",
+          "answer": "Merhametin acıya dönmesi, sevginin ayrılıkla yara açması ve zevkin geçicilik yüzünden acı bırakmasıyla anlatılıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Metindeki ara soru neden gerekli görülmüş olabilir?",
+          "answer": "Çünkü bazıları peygamber ve veli sevgisinin niyet yanlış olsa bile faydalı olacağını düşünebilir; bu yanlış anlamayı düzeltmek için sorulmuştur.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Verilen örnekler, sevginin hangi tehlikesine dikkat çeker?",
+          "answer": "Sevgide aşırılığın ve ölçüsüzlüğün insanı doğru yoldan çıkarabilmesine dikkat çeker.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Sevginin “Rahman namına” olması ne anlama gelir?",
+          "answer": "Sevginin Allah’ın verdiği nimetleri O’nun rızasını gözeterek sevmek ve nimetin kaynağını unutmamak anlamına gelir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p75:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Doğru niyetle lezzetli şeyleri sevmenin iki yönlü faydası nedir?",
+          "answer": "Bir yandan insan nimetten hoş biçimde yararlanır, diğer yandan bu tat onu şükre sevk eder.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

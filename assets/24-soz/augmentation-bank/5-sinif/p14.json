@@ -1,0 +1,872 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:5-sinif:p14",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "5-sinif",
+  "partNo": "p14",
+  "partNumber": 14,
+  "title": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/5-sinif/SveC_5sinif_24-soz-p14-yirmidorduncu-soz-ikinci-dal-katre-ve-resha-misalleriyle-kemal-yollari.txt",
+  "sourceRevision": "6b91dff5368c394dab120eb562c91ecd8a941a364352f4d3af52142ec6f3e2d7",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Katre gibi düşünülen kişiye, sadece düşünce ve felsefe ile yükselince vardığı yerde neyin eksik olduğu söyleniyor?",
+          "answer": "Orada kendi başına gerçek ışık ve canlılık bulunmadığı anlatılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu yolun boşa gitmiş gibi görünmesinin sebebi nedir?",
+          "answer": "Çünkü ulaşılan yer, asıl kaynağı göstermiyor; yalnız başına tam hakikate ulaştırmıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Katre yolundaki kişinin hangi sıkıntılardan kurtulması gerektiği bildiriliyor?",
+          "answer": "Ümitsizlikten, yalnızlık duygusundan, kötü etkilerden ve korkudan kurtulması gerektiği bildiriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu sıkıntılardan çıkmak için ilk olarak neden uzaklaşması isteniyor?",
+          "answer": "Tabiatı her şeyin aslı sayan karanlık bakıştan uzaklaşması isteniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Sonra hangi yöne yönelmesi öğütleniyor?",
+          "answer": "Hakikatin gerçek nuruna yönelmesi öğütleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Gece görülen ışıklarla ilgili nasıl bir inanç isteniyor?",
+          "answer": "Onların asıl ve bağımsız ışık olmadığını, gündüzdeki büyük kaynaktan gelen yansımalar olduğunu kesin olarak kabul etmesi isteniyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu şartları yerine getirince ne kazanacağı söyleniyor?",
+          "answer": "Olgunluğa erişeceği ve zayıf görünen yeri bırakıp daha yüce hakikati bulacağı söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S1Q4",
+            "24-soz:p14:5-sinif:S1Q5",
+            "24-soz:p14:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Buna rağmen neden hakikati tamamen açık ve perdesiz göremiyor?",
+          "answer": "Çünkü aklı, felsefesi, alışkanlıkları ve bilgisi araya perde koyuyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Reşha gibi olan üçüncü kişinin en belirgin iki özelliği nedir?",
+          "answer": "Fakir oluşu ve renksiz, sade oluşudur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Reşha’nın çabuk yükselmesinin sebebi neye bağlanıyor?",
+          "answer": "Benliğini bırakıp sevgi ve nurla hafifleşmesine bağlanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Reşha gibi olan kişi, hangi durumda olursa olsun ne bulabilir?",
+          "answer": "Doğrudan doğruya hakikate bakan temiz bir pencere bulabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Reşha yolunda olan kişi neden büyük işleri gerçek kaynağa vermekte zorlanmaz?",
+          "answer": "Çünkü aradaki yansımaları asıl zannetmez; doğrudan kaynağa baktığı için tereddüt etmez.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Katre yolunu tutan kimse hangi araçlarla yükselmiş olarak anlatılıyor?",
+          "answer": "Düşüncesini bir alet gibi kullanarak ve felsefeye dayanarak yükselmiş olarak anlatılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Vardığı yerde onu şaşırtan gerçek nedir?",
+          "answer": "Ulaştığı şeyin kendi içinde aydınlık ve hayat sahibi olmaması onu şaşırtıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu durum, sadece akla dayanan çabanın hangi sınırını gösteriyor?",
+          "answer": "Sadece aklın, tek başına bütün hakikati kavramaya yetmediğini gösteriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Katre misalindeki kişi karanlıktan kurtulmak için neyi bırakmalıdır?",
+          "answer": "Tabiatı son merci gibi gören anlayışı bırakmalıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Katre misalindeki kişi hangi gerçeği kesin bir şekilde kabul etmelidir?",
+          "answer": "Görülen dolaylı ışıkların asıl kaynaktan geldiğini kesin bir şekilde kabul etmelidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bu kabulden sonra önüne nasıl bir hakikat açılır?",
+          "answer": "Sınırlı ve sönük olan yerine görkemli ve asıl olan hakikat açılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Fakat niçin yine de tam bir saflıkla göremez?",
+          "answer": "Çünkü zihnindeki alışkanlıklar ve kurduğu düşünce kalıpları görüşünü örtüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Reşha yolunda olan kişi neden daha hızlı ilerliyor?",
+          "answer": "Çünkü benlikten sıyrılıyor ve doğrudan kaynağa yöneliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Reşha’daki “buhar gibi yükselme” nasıl anlaşılmalıdır?",
+          "answer": "Maddî ağırlıklardan ve benlikten uzaklaşıp daha latif bir hâle gelmek olarak anlaşılmalıdır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Reşha’nın doğrudan ayna olması ona ne kazandırır?",
+          "answer": "Hakikati daha açık görme imkânı kazandırır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Reşha neden büyük ve şaşırtıcı işleri gerçek kaynağa vermekte tereddüt etmez?",
+          "answer": "Çünkü gördüğünün sadece bir yansıma değil, o yansımaların bağlı olduğu asıl kaynakla ilgili olduğunu anlar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Parçada yansımalar hakkında hangi önemli uyarı yapılıyor?",
+          "answer": "Görünen parıltıların asıl varlığın kendisi değil, onun tecellileri ve yansımaları olduğu belirtiliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Katre örneğinde, düşünce yoluyla yükselen kişinin vardığı yer nasıl tasvir ediliyor?",
+          "answer": "Kendi başına koyu ve cansız bir yer gibi tasvir ediliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu tasvir, o kişinin önceki emeği hakkında nasıl bir sonuç doğuruyor?",
+          "answer": "Emeğinin tek başına yeterli olmadığını ve beklediği faydayı vermediğini gösteriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Katre için sözü edilen “gece” neyi temsil eder?",
+          "answer": "Hakikatten uzak, karanlıkta bırakan bir anlayışı temsil eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Katre’nin doğru yola dönmesi için hangi iki adım birlikte isteniyor?",
+          "answer": "Yanlış bakışı terk etmesi ve gerçek nur kaynağına yönelip buna kesin inanması isteniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Katre yolunda “gölge ışıklar” ifadesi ne anlatır?",
+          "answer": "Asıl kaynaktan gelen fakat onun yerini tutmayan dolaylı aydınlığı anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu değişimden sonra Katre neyi bulmuş olur?",
+          "answer": "Daha güçlü, daha gerçek ve daha yüce olanı bulmuş olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Yine de önünde kalan engeller nelerdir?",
+          "answer": "Aklın perdeleri, felsefenin alışkanlıkları ve bilginin ördüğü engellerdir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Reşha’nın fakir ve renksiz olması niçin bir eksiklik değil de kolaylık sayılıyor?",
+          "answer": "Çünkü araya benlik ve karışık özellikler girmediği için doğrudan yönelmeye daha uygun oluyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Reşha’nın içindeki ağırlığın sevgi ateşiyle değişmesi neyi gösterir?",
+          "answer": "İç dünyanın arınmasını ve daha nuranî bir hâle gelmesini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Reşha’nın bulunduğu her basamakta bir pencere bulabilmesi ne demektir?",
+          "answer": "Hangi seviyede olursa olsun hakikate ulaşacak açık bir yol bulabilmesi demektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Reşha’yı şaşırtmayan üç şey hangileridir?",
+          "answer": "Aradaki perdelerin darlığı, kabiliyetlerin sınırlılığı ve aynaların küçüklüğüdür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Parçaya göre görülen parıltılar neden asıl kaynağın bütün büyüklüğünü gösteremez?",
+          "answer": "Çünkü onlar sadece birer yansıma ve görünüşten ibarettir; kaynağın tüm haşmetini taşıyamazlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Katre misaliyle anlatılan kişi hangi yönüyle “hakîm feylesof” diye niteleniyor?",
+          "answer": "Akıl yürütmeye ve felsefî düşünceye ağırlık verdiği için böyle niteleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Katre’nin ulaştığı yerde ışık ve hayat bulamaması, hangi yanılgıyı fark ettiriyor?",
+          "answer": "Aracı olan şeyi asıl kaynak sanmanın yanlışlığını fark ettiriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Katre’nin içine düştüğü ruh hâli hangi kelimelerle özetlenebilir?",
+          "answer": "Umutsuzluk, yalnızlık, rahatsızlık ve korku ile özetlenebilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Katre’ye önerilen yön değişikliği nedir?",
+          "answer": "Karanlık anlayıştan ayrılıp hakikatin kaynağına dönmesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Gece ışıklarının durumu nasıl açıklanıyor?",
+          "answer": "Onların bağımsız olmadığı, asıl ışığın gölgesi gibi olduğu açıklanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bu açıklamayı kabul eden kişi ne bakımdan olgunlaşır?",
+          "answer": "Görüşü düzelir ve daha doğru bir anlayışa ulaşır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Katre, olgunlaşsa bile niçin hâlâ perde arkasından görür?",
+          "answer": "Çünkü aklı ve felsefesi, alıştığı kalıplarla görüşünü sınırlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Reşha’nın benliğini bırakması ona ne kazandırır?",
+          "answer": "Hafiflik, yükseliş ve doğrudan yöneliş kazandırır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Reşha’nın nurla ilişki kurması hangi sonucu doğurur?",
+          "answer": "Hakikati daha temiz ve açık şekilde kavramasına vesile olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Reşha için “hangi mertebede olursa olsun” denmesi neyi gösterir?",
+          "answer": "Her seviyede doğrudan bakış imkânının açık olduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Reşha neden haşmetli sıfatları gerçek kaynağa rahatça nispet eder?",
+          "answer": "Çünkü gördüğü yansımaların arkasındaki asıl kudreti tanır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda yansımalarla ilgili verilen temel ders nedir?",
+          "answer": "Görünen parıltıları asıl varlığın kendisi sanmamak, onları yalnızca işaret ve yansıma olarak değerlendirmektir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Katre yoluna giren kişinin yükselirken kullandığı iki şey nedir?",
+          "answer": "Fikrî bakışı ve felsefî yöntemi kullanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Katre’nin vardığı yerde “çaba boşa gitti” denmesinin ana sebebi nedir?",
+          "answer": "Çünkü ulaştığı şey, ona asıl kaynağı tam olarak vermiyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Katre’nin kurtulmak istediği karanlığın bir sebebi de hangi duygudur?",
+          "answer": "Kimsesizlik duygusudur.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Katre’nin önündeki çıkış yolu sadece bilgi artırmak mıdır, yoksa yön değiştirmek midir?",
+          "answer": "Esas olan yön değiştirmektir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Hangi yön değişikliği istenmektedir?",
+          "answer": "Tabiat merkezli bakışı bırakıp gerçek nur kaynağına yönelmesi istenmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Katre’nin kesin olarak bilmesi gereken şey nedir?",
+          "answer": "Dolaylı ışıkların kendi başına değil, asıl kaynağa bağlı olduğudur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu bilgi Katre’ye ne kazandırır?",
+          "answer": "Daha yüce hakikati bulma ve olgunlaşma imkânı kazandırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Reşha’nın hızla yükselmesine yardımcı olan iç özellik nedir?",
+          "answer": "Benliğe sarılmaması ve sade oluşudur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Reşha’nın ışından tutunur gibi anlatılması neyi ifade eder?",
+          "answer": "Hakikate doğrudan bağlanmayı ifade eder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Reşha’nın gördüğü ile Katre’nin gördüğü arasında nasıl bir fark vardır?",
+          "answer": "Reşha daha doğrudan ve temiz görür; Katre ise perdeler arkasından görür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Reşha’yı hakikatten uzaklaştırmayan şey nedir?",
+          "answer": "Aradaki sınırlamalar ve küçük yansımalar onu yanıltmaz.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Neden yanıltmaz?",
+          "answer": "Çünkü onların asıl varlık değil, sadece tecelli ve akis olduğunu bilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S5Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Katre içine giren kişi hangi tür insanı temsil eder?",
+          "answer": "Akıl ve felsefeye çok güvenen kişiyi temsil eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kişinin ulaştığı yerde gördüğü eksiklikler nelerdir?",
+          "answer": "Orada ne kendi başına ışık ne de hayat vardır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bundan nasıl bir ders çıkarılabilir?",
+          "answer": "Aracı şeylere bakarak asıl hakikate tam ulaşılamayacağı dersi çıkarılabilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Katre’nin sıkıntıdan kurtulması için bırakması gereken “gece” nedir?",
+          "answer": "Tabiatı son açıklama gibi gören karanlık düşüncedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Katre’nin yönelmesi gereken “güneş” neyi temsil eder?",
+          "answer": "Hakikatin asıl ve aydınlatıcı kaynağını temsil eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Gece parıltılarının gölge sayılması ne anlama gelir?",
+          "answer": "Onların asıl ışığın yerine geçemeyecek ikinci derecede görüntüler olduğunu anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Katre bu gerçeği kabul ettikten sonra hangi nimete kavuşur?",
+          "answer": "Kemale ve daha büyük hakikati bulma nimetine kavuşur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p14:5-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Katre’nin görüşünü perdeleyen şeyler arasında hangileri sayılıyor?",
+          "answer": "Akıl, felsefe, alışkanlık ve ilimden gelen perdeler sayılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Reşha’nın fakir oluşu onu neden geride bırakmaz?",
+          "answer": "Çünkü sade ve bağımsız iddiasız olduğu için doğrudan yönelmeye daha elverişlidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Reşha’nın yükselirken geçirdiği değişim nasıl özetlenebilir?",
+          "answer": "Ağırlıktan arınıp nuranî bir hâle yönelmesi diye özetlenebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Reşha’nın hakikati görmesinde en büyük kolaylık nedir?",
+          "answer": "Doğrudan aynalık ettiği için temiz bir bakış yolu bulabilmesidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p14:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Parçada, aynalarda görünen şeylerin sınırı nasıl anlatılıyor?",
+          "answer": "Onların sadece bazı isim ve yansımaları gösterdiği, fakat bütün büyüklüğü tam gösteremediği anlatılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

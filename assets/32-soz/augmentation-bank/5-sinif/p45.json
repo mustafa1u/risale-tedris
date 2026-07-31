@@ -1,0 +1,939 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:5-sinif:p45",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "5-sinif",
+  "partNo": "p45",
+  "partNumber": 45,
+  "title": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/5-sinif/SveC_5sinif_32-soz-p45-2-mevkif-3-maksad-5-remiz-dunyanin-uc-yuzu-ve-makbul-tahkir.txt",
+  "sourceRevision": "0522c2b0f51bf32825801efc9627d9ccc53073f2bb4875c4413f7421127255e7",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde dünyaya bakışla ilgili kaç ayrı yön anlatılıyor?",
+          "answer": "Üç ayrı yön anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Dünyanın Allah’ın isimlerini gösteren yönü nasıl bir değere sahiptir?",
+          "answer": "Çok güzeldir ve sevilmeye layıktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Dünyanın ahiretle ilgili olan yönü ne işe yarar?",
+          "answer": "Ahiret için hazırlık yeri olur ve rahmetin tecellilerine bakar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanın istek ve heveslerine dönük olan dünya yüzü niçin kötü görülür?",
+          "answer": "Geçicidir, insanı oyalar, üzüntü verir ve aldatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Hadiste ve hak yolunda olanların sözlerinde kötülenen dünya hangi taraftır?",
+          "answer": "Hevese bakan üçüncü taraftır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an’ın kâinat ve varlıklardan güzel şekilde söz etmesi dünyanın hangi yönleriyle ilgilidir?",
+          "answer": "İlk iki yönüyledir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S1Q2",
+            "32-soz:p45:5-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Hak dostlarının sevdiği dünya, dünyanın hangi kısmıdır?",
+          "answer": "Allah’ın isimlerini gösteren ve ahirete bakan kısmıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S1Q2",
+            "32-soz:p45:5-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Dünyayı küçümseyen ilk grup bunu niçin yapar?",
+          "answer": "Allah’ı tanımaya, sevmeye ve ibadete engel olduğu için yapar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Ahiret ehli dünyayı hangi iki sebepten biriyle değersiz görebilir?",
+          "answer": "Ya ahiret ameline engel olduğu için ya da cennetin güzellikleri yanında çok küçük kaldığı için.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Dünyayı eline geçiremediği için kötüleyen kimsenin bu tavrının asıl sebebi nedir?",
+          "answer": "Dünyayı sevmesidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Dünyayı elde ettiği halde onun kalıcı olmamasına kızan kişi neden kötü söz söyler?",
+          "answer": "Kendini avutmak için söyler.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Makbul sayılan dünya tahkiri hangi iki kaynaktan doğar?",
+          "answer": "Ahiret sevgisinden ve Allah’ı tanıma sevgisinden doğar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Dalalet tarafının sorduğu itirazın özünde hangi şaşkınlık vardır?",
+          "answer": "Dünyanın bir yandan kötülenip öte yandan ilahî kemalleri gösteren bir yer gibi anlatılmasına şaşmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen cevapta bu karışıklığı gidermek için hangi temel açıklama yapılır?",
+          "answer": "Dünyanın tek yüzlü olmadığı, üç ayrı yönü bulunduğu açıklanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Birinci yön neden değerli kabul edilir?",
+          "answer": "Çünkü Allah’ın isimlerinin eserlerini gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu ilk yön için nefret mi, sevgi mi uygun görülür?",
+          "answer": "Sevgi uygun görülür.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci yönün ahiretle bağı nasıl kuruluyor?",
+          "answer": "Ahiretin ekim ve hazırlık alanı gibi gösteriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci yön hakkında küçümseme yerine hangi duygu uygun görülüyor?",
+          "answer": "Muhabbet uygun görülüyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Üçüncü yönün gafletle ilişkisi nedir?",
+          "answer": "İnsanı oyalayıp Allah’ı unutturabilecek bir perde olur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Üçüncü yönün kötü sayılmasında geçiciliğin nasıl bir payı vardır?",
+          "answer": "Kalıcı olmadığı için insana güven vermez ve aldatıcı olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an’ın varlıklardan övgüyle söz etmesi neyi gösterir?",
+          "answer": "Kötülenen şeyin dünyanın tamamı değil, sadece yanlış yüzü olduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Marifet ehlinin dünyayı küçümsemesi hangi bakımdan doğru kabul edilir?",
+          "answer": "Allah’a yaklaşmaya engel olana karşı olduğu için doğru kabul edilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Ahiret ehlinin dünyayı küçük görmesi hangi karşılaştırmaya dayanır?",
+          "answer": "Dünyayı cennetin güzellikleriyle karşılaştırmalarına dayanır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Sonuç olarak kabul gören dünya anlayışı nasıl özetlenebilir?",
+          "answer": "Allah’ı ve ahireti hatırlatan dünya sevilir, nefse ve gaflete bakan tarafı ise yerilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S2Q2"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde “dünya” tek çeşit bir şey gibi mi ele alınıyor, yoksa bölümlere ayrılarak mı anlatılıyor?",
+          "answer": "Bölümlere ayrılarak anlatılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Dünyanın Allah’ın isimlerine bakan tarafı insana neyi fark ettirir?",
+          "answer": "Yaratılıştaki ilahî güzellikleri ve hikmetleri fark ettirir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu taraf için neden “çirkin” denmez?",
+          "answer": "Çünkü güzel manalar taşır ve Rabbimizi tanımaya vesile olur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Ahirete bakan yön niçin önemli bir yön olarak gösterilir?",
+          "answer": "Çünkü insanın ebedî hayatı için hazırlık yeri olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İnsan heveslerine bakan yönün oyun ve aldanmayla ilişkisi nedir?",
+          "answer": "İnsan o tarafa kapılırsa boş isteklerle oyalanır ve aldanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Hadiste geçen kötüleme bütün dünya için söylenmiş olabilir mi?",
+          "answer": "Hayır, yalnız zararlı olan yüze bakar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Sahabeler ve Allah dostları dünyanın hangi kısmına değer vermiş olur?",
+          "answer": "Faydalı ve manalı olan ilk iki kısmına değer vermiş olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S3Q2",
+            "32-soz:p45:5-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Dünyayı küçümseyenlerden hangisi bunu Allah’a yakınlık için yapar?",
+          "answer": "Marifet ehli olan ilk grup yapar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Dünyayı küçümseyen ikinci grupta ahiret düşüncesi nasıl ağır basar?",
+          "answer": "Dünya onları ahiret işinden alıkoyduğu için veya cennet yanında çok zayıf göründüğü için ağır basar.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Üçüncü grubun dünya hakkındaki olumsuz sözü gerçekte hangi duygunun işaretidir?",
+          "answer": "İçinde dünya sevgisi bulunduğunun işaretidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Dördüncü grubun kızgınlığı neye yöneliktir?",
+          "answer": "Dünyanın elde tutulamayıp kayıp gitmesine yöneliktir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Metne göre en doğru küçümseme anlayışı hangisidir?",
+          "answer": "Nefisten değil, ahiret sevgisi ve Allah sevgisinden gelen küçümsemedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümün başında sorulan soruda dünya hakkında hangi iki zıt tavır yan yana getiriliyor?",
+          "answer": "Dünyanın kötülenmesi ile onun ilahî güzelliklere delil gösterilmesi yan yana getiriliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Cevabın ilk adımı olarak dünya hakkında hangi sayı veriliyor?",
+          "answer": "Dünyanın üç yüzü olduğu söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İlk yüz aynaya benzetilerek ne anlatılmak isteniyor?",
+          "answer": "Dünyanın Allah’ın isimlerini yansıttığı anlatılmak isteniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İlk yüz için “aşka layık” denmesi ne anlama gelir?",
+          "answer": "Çok güzel ve değerli olduğu anlamına gelir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci yüzün cennetle ilgisi nasıl kuruluyor?",
+          "answer": "Cennete götüren hazırlık ve ekim yeri gibi gösteriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Üçüncü yüz neden insana zarar verebilir?",
+          "answer": "Hevesleri kabartır, gaflete düşürür ve geçici şeylerle bağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Kötüleme sözlerinin bu üçüncü yüze ait olduğunu anlamak neden önemlidir?",
+          "answer": "Böylece dünyanın tamamını kötü sanma hatası önlenir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an’ın evreni değerli anlatmasıyla dünyanın kötülenmesi nasıl bağdaştırılıyor?",
+          "answer": "Kur’an faydalı iki yüze bakar, kötüleme ise zararlı yüze bakar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Dünyayı küçümseyen üçüncü kişinin sözünde gizli kalan duygu hangisidir?",
+          "answer": "Ulaşamadığı dünyaya karşı sevgisi vardır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Dördüncü kişi dünyayı elde ettiği halde neden ona kötü der?",
+          "answer": "Elinde tutamadığı için öfkelenir ve teselli arar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Hangi iki sınıfın dünya hakkındaki tavrı makbul görülür?",
+          "answer": "Marifet ehli ile ahiret ehlinin tavrı makbul görülür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu sonuca göre bir Müslüman dünyaya nasıl dengeli bakmalıdır?",
+          "answer": "Allah’ı ve ahireti hatırlatan yönünü sevmeli, nefsi aldatan yönünden sakınmalıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S4Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Dünyanın üç yüzünden hangileri güzel kabul ediliyor?",
+          "answer": "Birinci ve ikinci yüzleri güzel kabul ediliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci güzel yüzün temel özelliği nedir?",
+          "answer": "İlahi isimlerin izlerini göstermesidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci güzel yüzün temel özelliği nedir?",
+          "answer": "Ahiret için bir hazırlık ve ürün verme yeri olmasıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Üçüncü yüzün kötü sayılmasının bir sebebi de insanı hangi hale sürüklemesidir?",
+          "answer": "Gaflete sürüklemesidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Geçici olmak üçüncü yüzü neden değersizleştirir?",
+          "answer": "Çünkü kalıcı mutluluk vermez ve insanı boşa bağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Hakikat ehlinin nefret ettiği dünya, faydalı olan iki yüz mü yoksa zararlı olan yüz mü?",
+          "answer": "Zararlı olan yüzdür.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Dünyayı kötüleyenlerin kaç sınıf olduğu söyleniyor?",
+          "answer": "Dört sınıf olduğu söyleniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İlk iki sınıf neden olumlu değerlendiriliyor?",
+          "answer": "Sebepleri Allah’a yakınlık ve ahiret kaygısı olduğu için.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Son iki sınıfın küçümsemesi neden sağlam bir ölçü sayılmıyor?",
+          "answer": "Dünya sevgisinden kaynaklandığı için sağlam sayılmıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Eline geçmeyen şeyi kötüleyen kişi aslında neyi ele veriyor?",
+          "answer": "Ona karşı içinde istek bulunduğunu ele veriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Eline geçen ama kalan olmayan dünyaya kızan kişi hangi ruh haliyle konuşuyor?",
+          "answer": "Kırgınlık ve bağlanma haliyle konuşuyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Metnin sonunda hangi dua yapılır?",
+          "answer": "Allah’tan bizi makbul şekilde dünyaya bakanlardan eylemesi istenir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada asıl anlatılmak istenen konu nedir?",
+          "answer": "Dünyanın her yönünün aynı olmadığı ve doğru bakışın nasıl olması gerektiğidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Dünyanın ilk yüzü insana Allah hakkında nasıl bir fayda sağlar?",
+          "answer": "Allah’ın isimlerini ve sanatını anlamaya yardım eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Dünyanın ikinci yüzü mümini hangi büyük hedefe hazırlar?",
+          "answer": "Ahirete hazırlar.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Dünyanın üçüncü yüzü daha çok insanın hangi tarafına hitap eder?",
+          "answer": "Nefsine ve heveslerine hitap eder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu üçüncü yüzün aldatıcı sayılması neye bağlıdır?",
+          "answer": "Kalıcı olmayıp insanı yanlış bağlamasına bağlıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Kur’an’ın kâinattan güzel şekilde söz etmesi bize hangi ölçüyü öğretir?",
+          "answer": "Varlıkların Allah’ı gösteren ve ahirete hizmet eden tarafına güzel bakmayı öğretir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S6Q2",
+            "32-soz:p45:5-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Marifet ehli dünyanın hangi zararından dolayı onu küçük görür?",
+          "answer": "Allah’ı bilmeye, sevmeye ve ibadete engel olma zararından dolayı.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Ahiret ehli dünyayı neden cennetin yanında çok küçük görür?",
+          "answer": "Çünkü cennetin güzelliği yanında dünya çok sönük kalır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Dünyayı sevdiği halde ona kavuşamayan kişi nasıl bir tepki verir?",
+          "answer": "Onu kötüleyerek tepki verir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Dünyaya kavuşup da onu tutamayan kişi niçin olumsuz konuşur?",
+          "answer": "Elinden kayıp gittiği için öfkelenir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Metne göre kabul edilen küçümseme ile kabul edilmeyen küçümseme arasındaki ana fark nedir?",
+          "answer": "Biri Allah ve ahiret sevgisinden, diğeri dünya sevgisinden doğar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S6Q7",
+            "32-soz:p45:5-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p45:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bir öğrenci bu parçadan hangi kısa dersi çıkarabilir?",
+          "answer": "Dünya bütünüyle kötü değildir; insanı Allah’a yaklaştıran tarafı değerlidir, gaflete sürükleyen tarafı ise tehlikelidir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p45:5-sinif:S6Q1"
+          ]
+        }
+      ]
+    }
+  ]
+}

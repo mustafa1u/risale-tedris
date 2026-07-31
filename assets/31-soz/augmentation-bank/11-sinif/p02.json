@@ -1,0 +1,778 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "31-soz:11-sinif:p02",
+  "bookSlug": "31-soz",
+  "bookTitle": "31. Söz",
+  "bookOrder": 8,
+  "gradeSlug": "11-sinif",
+  "partNo": "p02",
+  "partNumber": 2,
+  "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/31-soz/outputs/11-sinif/SveC_11sinif_31-soz-p02-otuzbirinci-soz-mirac-i-nebeviyeye-dair-zamiri-ve-miracin-kulli-manasina-giris.txt",
+  "sourceRevision": "1aa025fcd3da6579b18559e1362d17dde9fff21dfbec60db4e10f85cfcfc476f",
+  "setCount": 6,
+  "questionCount": 62,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Kur’ân’da Mescid-i Haram’dan Mescid-i Aksa’ya olan yolculuk anlatıldıktan sonra gelen ilahî sıfatlar, Mi’racın hangi yönünü dikkatlere sunar?",
+          "answer": "Bu sıfatlar, olayın yalnız dar bir yolculuk olmadığını; görülen ve işitilen şeylerin çok geniş, kuşatıcı ve büyük hikmetler taşıdığını gösterir.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde geçen işaret zamirinin bağlanabileceği iki farklı merci kimlerdir?",
+          "answer": "Biri Allah Teâlâ, diğeri Resûlullah’tır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Zamir Peygamber Efendimiz’e bağlanırsa, kısa görünen bu yolculuk nasıl bir anlam kazanır?",
+          "answer": "Görünüşte sınırlı olan bu yolculuk, aslında çok kapsamlı bir yükseliş ve umumî bir seyir hâline gelir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu yoruma göre Mi’rac boyunca hangi tür hakikatlerle karşılaşılmış olur?",
+          "answer": "İlâhî kudretin delilleri ve Rabbin sanatındaki hayret verici tecelliler müşahede edilmiş olur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde Mi’racın ulaştığı son dereceyi anlatmak için hangi iki yüksek makam zikredilir?",
+          "answer": "En son sınır olarak Sidretü’l-Müntehâ ve ondan sonraki çok yakınlık makamı anılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Zamir Allah Teâlâ’ya bağlanırsa, Mescid-i Aksa’ya gönderilişte öne çıkan hikmet nedir?",
+          "answer": "Peygamberimizin diğer nebilerle buluşturulup onların din esaslarına tam varis olduğu gösterilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu ikinci yoruma göre bundan sonraki yolculukta ne gerçekleşir?",
+          "answer": "Allah Teâlâ, kulunu mülk ve melekût âleminde yüksek makamlara kadar gezdirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre Mi’rac yolculuğu şahıs olarak bir kula ait olsa da neden bütün kâinatla ilişkili görülür?",
+          "answer": "Çünkü o kulun yanında bütün varlık âlemini ilgilendiren büyük bir emanet vardır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu emanete ek olarak, beraberinde bulunan diğer iki büyük şey nasıl tanıtılır?",
+          "answer": "Biri âlemin görünüşünü değiştirecek bir nur, diğeri ebedî mutluluğun kapısını açacak bir anahtar olarak anlatılır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Allah Teâlâ’nın her şeyi işiten ve gören olarak tanıtılması, bu üç unsurun hangi özelliğini ortaya koyar?",
+          "answer": "Bunların etkisinin sadece bir kişiye değil, bütün kâinata ve tüm mahlûkata uzanan geniş hikmetler taşıdığını bildirir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metnin sonunda anlatılacak esasların sayısı kaçtır?",
+          "answer": "Dörttür.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada Mescid-i Haram’dan başlayan ilk safhanın ardından neden özel bir ifade üzerinde durulmaktadır?",
+          "answer": "Çünkü o ifade, Mi’racın son derece yüksek ufuklarına işaret eden derin bir mana taşır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre tek bir zamirden iki farklı mana çıkarılması neyi gösterir?",
+          "answer": "Kur’ân’ın kısa bir ifadeyle birden fazla hakikate kapı açtığını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Zamir Peygamber Efendimiz’e ait kabul edilince, onun yolculuğu yalnız kendi şahsına ait bir hareket olarak mı kalır?",
+          "answer": "Hayır, umumî mertebeleri içine alan büyük bir yükseliş olarak anlaşılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu anlayışta Peygamberimizin hangi iki duyusu özellikle öne çıkarılır?",
+          "answer": "Görmesi ve işitmesi öne çıkarılır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu görme ve işitme, sıradan olaylarla mı ilgilidir, yoksa daha kapsamlı hakikatlerle mi?",
+          "answer": "Çok daha kapsamlıdır; Rabbânî deliller ve ilâhî sanatın şaşırtıcı tecellileriyle ilgilidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Küçük gibi görünen bu yolculuğun büyük bir yolculuğun anahtarı sayılması ne anlatır?",
+          "answer": "Görünen kısmın sınırlı, hakikatinin ise çok geniş ve küllî olduğunu anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Zamir Allah’a ait kabul edilince, Mescid-i Aksa’nın bu anlatımdaki özel yeri nedir?",
+          "answer": "Orası peygamberlerin buluşma noktası olarak gösterilir ve Resûlullah’ın onlarla irtibatı vurgulanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Peygamber Efendimizin diğer peygamberlerle görüştürülmesi, onun hangi yönünü ortaya koyar?",
+          "answer": "Din esaslarında onların mirasını tam olarak taşıyan en kapsamlı varis olduğunu ortaya koyar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre beraberindeki nur nasıl bir etki meydana getirir?",
+          "answer": "Kâinatın rengini ve anlamını değiştirecek kadar geniş bir tesir meydana getirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Beraberindeki anahtar neyin açılmasına vesile olur?",
+          "answer": "Sonsuz mutluluğa götüren kapının açılmasına vesile olur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde Mi’racın başlangıç kısmı olarak hangi iki mübarek mekân arasındaki yolculuk hatırlatılır?",
+          "answer": "Mescid-i Haram ile Mescid-i Aksa arasındaki yolculuk hatırlatılır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu hatırlatmadan sonra gelen ilahî isimler neden önemlidir?",
+          "answer": "Çünkü Mi’racın derin manasını ve kapsamının genişliğini anlamaya yardımcı olur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Zamirin Peygamberimize dönmesi hâlinde, onun yükselişi hangi sınır noktalarına kadar uzanır?",
+          "answer": "Çok yüksek manevî derecelere, son sınır ve en ileri yakınlık makamlarına kadar uzanır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu yorumda Mi’racın “umumî” sayılması neye dayanır?",
+          "answer": "Sadece bir yer değişikliği değil, isimlerin küllî mertebelerinde delil ve sanat tecellilerini kuşatan bir seyir olmasına dayanır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Peygamberimizin bu yolculukta hem görmesi hem işitmesi neden özellikle anılır?",
+          "answer": "Çünkü Mi’rac sadece manzaraları seyretmek değil, ilâhî hitap ve hakikatlerle muhatap olmayı da içerir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Zamirin Allah’a dönmesi durumunda, yolculuğun başındaki gönderiliş hangi amaçla açıklanır?",
+          "answer": "İlâhî huzura kabul edilecek kulun bir vazife için hazırlanması ve peygamberlerle buluşturulması amacıyla açıklanır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu buluşturma, Resûlullah’ın dinler tarihindeki hangi konumunu gösterir?",
+          "answer": "Önceki peygamberlerin getirdiği esasları en tam şekilde devralan rehber olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "“Mülk ve melekût” ifadesi birlikte anılınca nasıl bir genişlik anlaşılır?",
+          "answer": "Hem görünen âlemi hem de onun ardındaki manevî ve gaybî yönleri içine alan büyük bir alan anlaşılır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Metne göre Mi’racın cüz’î görünmesiyle sonuçlarının küllî olması arasında nasıl bir ilişki vardır?",
+          "answer": "Yolculuk tek bir zata ait görünür; fakat taşıdığı vazife ve neticeler bütün varlık âlemine yayılır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Allah Teâlâ’nın işitmesi ve görmesi bu bağlamda niçin zikredilir?",
+          "answer": "Taşınan ilâhî vazifenin her tarafa bakan hikmetlerini ve hiçbir şeyin bu ilâhî kuşatıcılığın dışında kalmadığını göstermek için zikredilir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde Kur’ân’daki kısa bir ifadenin uzun açıklamalara kapı açmasının sebebi nedir?",
+          "answer": "Çünkü o kısa ifade, Mi’racın hem faili hem de manası hakkında derin işaretler taşır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Zamirin iki farklı kişiye dönebilmesi, metindeki anlatımı nasıl zenginleştirir?",
+          "answer": "Hem Peygamberimizin yaşadığı yükselişi, hem de Allah’ın kuluna olan iltifatını ayrı ayrı düşünmeye imkân verir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Peygamberimize nisbet edildiğinde Mi’racın en belirgin vasfı nedir?",
+          "answer": "Dar bir hareket olmaktan çıkıp çok geniş manevî dereceleri kapsayan bir yükseliş olmasıdır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu nisbetle anlatılan yolculukta hangi içerik öne çıkar?",
+          "answer": "İlâhî isimlerin yüksek mertebelerinde beliren ayetler ve sanat mucizeleri öne çıkar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Allah’a nisbet edilen yorumda, Mescid-i Aksa’nın peygamberlerle ilişkili oluşu hangi mesajı verir?",
+          "answer": "Resûlullah’ın nübüvvet zincirinden kopuk değil, onun merkezi ve tamamlayıcısı olduğunu bildirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "“Vazife ile görevlendirmek” ifadesi Mi’racın hangi yönünü gösterir?",
+          "answer": "Mi’racın sadece bir ikram değil, aynı zamanda sorumluluk ve tebliğ yönü bulunan bir hadise olduğunu gösterir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bir kulun bütün kâinatla ilgili emanet taşıması, onun şahsî makamı hakkında ne düşündürür?",
+          "answer": "O kulun, insanlık ve varlık âlemi adına büyük bir temsil vazifesi gördüğünü düşündürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Ebedî saadetin kapısını açan anahtar ifadesi hangi neticeye işaret eder?",
+          "answer": "Mi’racla bağlantılı hakikatlerin ahiret mutluluğuna ulaştıran yol göstericiliğine işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "“Her şeyi işiten ve gören” vasıfları burada neden tam uygun düşer?",
+          "answer": "Çünkü verilen mesajın ve emanetin kapsamı bütün varlıklara uzanır; bu da ilâhî kuşatıcılığı gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S4Q8"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Mi’racın başlangıcından söz edildikten sonra dikkat hangi kelime üzerindeki manaya çevrilir?",
+          "answer": "Tek bir işaret kelimesinin taşıdığı derin manaya çevrilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kelimenin iki farklı şekilde anlaşılması, Mi’racı değerlendirmede nasıl bir fayda sağlar?",
+          "answer": "Olayı hem Resûlullah’ın gördüğü yönüyle hem de Allah’ın sevk ve ikramı yönüyle anlamayı sağlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Resûlullah’a döndürülen manada, Mi’rac neden “cüz’î” görünmesine rağmen “küllî” kabul edilir?",
+          "answer": "Çünkü kısa bir yolculuğun içinde bütün isim mertebelerine bakan geniş bir seyir ve yükseliş vardır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu yoruma göre Peygamber Efendimiz yolculukta yalnız yol almış mı sayılır, yoksa ilâhî delillerle temas hâlinde midir?",
+          "answer": "İlâhî delillerle ve sanat harikalarıyla doğrudan temas hâlindedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Anahtar benzetmesi burada hangi işlevi anlatır?",
+          "answer": "Küçük görünen başlangıcın, çok büyük hakikatlere kapı açtığını anlatır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Allah’a döndürülen manada, Peygamberimizin önce peygamberlerle buluşturulması neden önemlidir?",
+          "answer": "Çünkü bu buluşma onun önceki nebilerin esaslarını toplayan ve sürdüren son rehber olduğunu gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "“Bir kul” denmesiyle “kâinata ait emanet” denmesi arasında nasıl bir anlam derinliği oluşur?",
+          "answer": "Kullukta tevazu korunurken, yüklenen görevin büyüklüğü de aynı anda gösterilmiş olur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki nurun cihanı etkilemesi, onun sadece şahsî aydınlanma olmadığını nasıl gösterir?",
+          "answer": "Çünkü etkisi bir kişinin iç dünyasıyla sınırlı kalmayıp bütün insanlığa ve varlık anlayışına yayılır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Anahtarın ebedî saadete açılması, Mi’racın dünya ile sınırlı olmadığını nasıl ortaya koyar?",
+          "answer": "Onun neticelerinin ahiret hayatına uzandığını ve sonsuz kurtuluşa rehberlik ettiğini ortaya koyar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Allah’ın sıfatlarının bu noktada anılması, emanetin hikmetleri hakkında hangi sonucu verdirir?",
+          "answer": "Bu hikmetlerin evrensel, kuşatıcı ve bütün mahlûkatı ilgilendiren bir genişliğe sahip olduğu sonucunu verdirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada anlatılan Mi’racın ilk görünen safhası hangi kutsal mekânlar arasında geçer?",
+          "answer": "Kâbe çevresindeki mukaddes mescid ile Kudüs’teki mübarek mescid arasında geçer.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu başlangıçtan sonra gelen ifade, Mi’racın son mertebeleriyle nasıl ilişkilendirilir?",
+          "answer": "O ifade, daha ileri ve yüksek Mi’rac ufuklarına işaret eden bir remiz olarak değerlendirilir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Zamirin Peygamber Efendimiz’e dönmesi durumunda, onun yolculuğu sadece mekânsal bir hareket midir?",
+          "answer": "Hayır, aynı zamanda manevî derecelerde yükseliş ve geniş hakikatleri temaşa etme yolculuğudur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu durumda Peygamberimiz hangi tür şeyleri idrak etmiş olur?",
+          "answer": "Rabbin delillerini ve ilâhî sanatın hayranlık veren yönlerini idrak etmiş olur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Küçük bir seferin büyük bir seyahatin anahtarı olması ne tür bir anlatım özelliği taşır?",
+          "answer": "Görünen ile hakikat arasındaki farkı gösteren derin bir anlatım özelliği taşır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Zamir Allah’a dönerse, Mi’racın başındaki sevk edilişin ardından hangi manevî buluşma öne çıkar?",
+          "answer": "Peygamberlerin toplandığı yerde onlarla bir araya gelme öne çıkar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Bu buluşmadan sonra gelen yükseliş, hangi iki âlem boyutunu içine alır?",
+          "answer": "Hâkimiyetin görünen ve görünmeyen yönlerini içine alır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p02:11-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre Mi’racın tek kişilik bir olay gibi görünmesine rağmen neden tüm insanlığı ilgilendirdiği söylenebilir?",
+          "answer": "Çünkü taşınan emanet, nur ve anahtar sadece o zata değil, bütün insanlığa ve kâinata yönelik sonuçlar taşır.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Emanet kavramı burada daha çok neyi temsil eder?",
+          "answer": "Büyük bir ilâhî vazife ve bütün varlıklarla ilgili sorumluluğu temsil eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Nur kavramı burada daha çok neyi temsil eder?",
+          "answer": "Hakikati aydınlatan hidayeti ve âleme yeni anlam kazandıran ilâhî ışığı temsil eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Anahtar kavramı burada daha çok neyi temsil eder?",
+          "answer": "Sonsuz kurtuluşun ve ebedî mutluluğun yolunu açan hakikati temsil eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p02:11-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan hareketle Mi’rac için nasıl bir genel hüküm verilebilir?",
+          "answer": "Mi’rac, hem Resûlullah’ın üstün makamını hem de onun getirdiği mesajın bütün kâinatı kuşatan rahmet ve hikmetini gösteren büyük bir hadisedir.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

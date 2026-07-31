@@ -1,0 +1,935 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:2-sinif:p16",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "2-sinif",
+  "partNo": "p16",
+  "partNumber": 16,
+  "title": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/2-sinif/SveC_2sinif_24-soz-p16-yirmidorduncu-soz-ucuncu-dal-giris-birinci-asil-ve-ikinci-asil.txt",
+  "sourceRevision": "de78ed0dbd36e91819ed083d443afae5baa06cfc974c8400c9336cbfc8634053",
+  "setCount": 6,
+  "questionCount": 77,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde bazı insanlar neden bazı hadisleri yanlış değerlendirmiş?",
+          "answer": "Güzel anlayamadıkları için.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Yanlış anlamada özellikle hangi iki konu geçiyor?",
+          "answer": "Kıyamet işaretleri ve ahir zaman olayları.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bazı kimseler bu hadislerin bir kısmı için hangi iki ağır söz söylemiş?",
+          "answer": "Zayıf demişler, uydurma da demişler.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İmanı zayıf, benliği kuvvetli olan bazıları nereye kadar gitmiş?",
+          "answer": "İnkâra kadar gitmiş.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde bu bölüm uzun uzun mu anlatılıyor, yoksa kısa esaslar mı veriliyor?",
+          "answer": "Kısa esaslar veriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Birinci esasa göre din ne gibidir?",
+          "answer": "Bir imtihan ve deneme gibidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu imtihan neyi ayırır?",
+          "answer": "Yüksek ruhlarla temiz ruhları ayırır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Gelecekte olacak şeyler nasıl anlatılmalıdır?",
+          "answer": "Ne tamamen kapalı olmalı ne de herkesi mecbur bırakacak kadar açık olmalı.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Neden herkesin zorunlu olarak inanacağı kadar açık olmamalı?",
+          "answer": "Çünkü o zaman imtihanın sırrı bozulur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde kömür ve elmas örneği neyi anlatmak için kullanılmış?",
+          "answer": "İnsanların kabiliyet farkını anlatmak için.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Kıyamet alametleriyle ilgili bazı konularda neden çok görüş ayrılığı olmuş?",
+          "answer": "Çünkü meseleler imtihan sırrına uygun biçimde kapalı bırakılmış.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Rivayetlerin farklı olması neye yol açmış?",
+          "answer": "Birbirinden değişik hükümler çıkmasına yol açmış.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "İkinci esasa göre İslam meselelerinin hepsi aynı derecede midir?",
+          "answer": "Hayır, dereceleri vardır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Her meselede çok güçlü ve kesin delil istenir mi?",
+          "answer": "Hayır, her meselede istenmez.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S1Q15",
+          "sourceQuestionId": "S1Q15",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 15,
+          "question": "İmanın temelinden olmayan yan meselelerde en azından nasıl davranmak gerekir?",
+          "answer": "Reddetmemek ve teslimiyetle karşılamak gerekir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında hangi sözlerin iyi anlaşılmadığı söyleniyor?",
+          "answer": "Bazı hadislerin.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu hadisler daha çok hangi konularla ilgilidir?",
+          "answer": "Kıyamet işaretleri, ahir zaman olayları ve bazı amellerin sevabı.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Benliğine kapılan bazı kişiler daha ileri gidip ne yapmış?",
+          "answer": "Kabul etmeyip inkâra yönelmiş.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Anlatan zat burada ayrıntıya gireceğini mi söylüyor?",
+          "answer": "Hayır, ayrıntıya girmeyeceğini söylüyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bunun yerine ne yapacağını bildiriyor?",
+          "answer": "On iki temel nokta anlatacağını bildiriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Birinci temel noktaya göre dinin imtihan olması neyi korur?",
+          "answer": "İnsanların seçme serbestisini korur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Kıyametle ilgili olaylar çok açık olsaydı insanlar nasıl bir durumda kalırdı?",
+          "answer": "İster istemez kabul etmek zorunda kalırlardı.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Böyle bir zorunluluk olursa hangi önemli şey bozulur?",
+          "answer": "Teklif ve imtihanın sonucu bozulur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Mehdi ve Süfyan gibi meselelerde farklı görüşler çıkması metne göre şaşılacak bir şey midir?",
+          "answer": "Hayır, bu durum normaldir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "İkinci temel noktaya göre dinî meselelerin hepsinde aynı seviyede kesinlik aranır mı?",
+          "answer": "Hayır, aranmaz.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bazı meselelerde insan ne ile yetinebilir?",
+          "answer": "Kuvvetli bir kanaat ile yetinebilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S2Q11"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Bazı meselelerde daha da az olarak ne yeterli görülür?",
+          "answer": "Kabul etmek ve reddetmemek yeterli görülür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S2Q12"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "İmanın temeli olmayan konularda istenen tavır nedir?",
+          "answer": "Hemen inkâra gitmemek ve teslimiyet göstermektir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde yanlış anlaşılan şeyler hangi kaynaktan geliyor?",
+          "answer": "Hadislerden geliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Hadislerde geçen hangi zaman dilimi özellikle anılıyor?",
+          "answer": "Ahir zaman.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bazı ameller hakkında hadislerde hangi yön de anlatılıyor?",
+          "answer": "Faziletleri ve sevapları.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İmanı güçsüz olan bazı kişiler hangi kötü sonuca varmış?",
+          "answer": "İnkâra sapmış.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Birinci asılda gelecekle ilgili haberlerin tamamen gizli kalması uygun mu görülüyor?",
+          "answer": "Hayır, uygun görülmüyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Aynı haberlerin ap açık olup mecbur bırakması uygun mu?",
+          "answer": "Hayır, o da uygun değil.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu orta yol neyi sağlar?",
+          "answer": "Akla yol açar ama insanın seçimini elinden almaz.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Neden herkesin aynı şekilde zorunlu inanması istenmiyor?",
+          "answer": "Çünkü imtihanın anlamı kaybolur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metindeki örneğe göre farklı yaratılışta olan insanlar nasıl birlikte anılıyor?",
+          "answer": "Biri çok kıymetli, biri değersiz madde gibi anılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Kıyamet alametleri hakkındaki rivayetlerde niçin farklılık bulunabilir?",
+          "answer": "Çünkü konu imtihan gereği tam açıklıkta değildir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "İkinci asılda İslam meseleleri için nasıl bir düzen olduğu söyleniyor?",
+          "answer": "Katmanları ve dereceleri olduğu söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Her yan konuda kesin bilgi şart koşmak doğru mudur?",
+          "answer": "Hayır, doğru değildir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre bazı hadisler anlaşılmadığında insanlar nasıl iki farklı yanlış yola düşebiliyor?",
+          "answer": "Kimi zayıf sayıyor, kimi de inkâr ediyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu bölümde uzun açıklama yerine ne sunuluyor?",
+          "answer": "Temel kurallar sunuluyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci asıl, dinin hangi yönünü öne çıkarıyor?",
+          "answer": "İmtihan yönünü öne çıkarıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İmtihan olunca geleceğe dair haberler nasıl bir dengede olmalı?",
+          "answer": "Biraz anlaşılır olmalı ama zorlayacak kadar açık olmamalı.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Herkes mecburen inanırsa hangi fark görünmez hale gelir?",
+          "answer": "İnsanların kabiliyet farkı görünmez hale gelir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Mehdi ve Süfyan gibi konulardaki ayrılıklar metne göre neyle ilgilidir?",
+          "answer": "İmtihan sırrıyla ilgilidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Rivayetlerin birbirinden farklı görünmesi bizi hemen inkâra götürmeli mi?",
+          "answer": "Hayır, götürmemeli.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "İkinci asıl, dinî konular arasında nasıl bir fark bulunduğunu söylüyor?",
+          "answer": "Hepsinin aynı derecede olmadığını söylüyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Hangi tür meselelerde kesin delil şart değildir?",
+          "answer": "İmanın esası olmayan yan meselelerde.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S4Q11"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Böyle meselelerde kişiden beklenen en doğru tavır nedir?",
+          "answer": "Teslim olmak ve redde sarılmamaktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S4Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada söz edilen hadisler hangi üç alana değiniyor?",
+          "answer": "Kıyamet işaretlerine, ahir zamana ve bazı işlerin sevabına değiniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Güzel anlaşılmayan hadisler yüzünden bazı ilim sahipleri ne demiş?",
+          "answer": "Bir kısmını güvenilir bulmamışlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İmanı zayıf olan bazıları bu konuda hangi aşırı davranışı göstermiş?",
+          "answer": "İnkâr etmişler.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Anlatımda önce ayrıntı mı veriliyor, ana kurallar mı?",
+          "answer": "Ana kurallar veriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci asılda din hangi iki kelimeyle anlatılıyor?",
+          "answer": "İmtihan ve deneme.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Gelecekte olacak olaylar neden tamamen açık seçik gösterilmez?",
+          "answer": "İnsan mecbur kalmasın diye.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "İhtiyarın elden alınmaması ne demektir?",
+          "answer": "Kişinin seçme hakkının kalması demektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Mecburî kabul olursa imtihan neden bozulur?",
+          "answer": "Çünkü herkes aynı görünür, gerçek tercih ortaya çıkmaz.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde geçen görüş ayrılıkları hangi örnek meselelerle anlatılıyor?",
+          "answer": "Mehdi ve Süfyan örnekleriyle.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "İkinci asıl, İslam meselelerinin tek çeşit olmadığını nasıl ifade ediyor?",
+          "answer": "Dereceleri olduğunu söyleyerek.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Bazı konularda kuvvetli bir kanaat yeterli olabilir mi?",
+          "answer": "Evet, olabilir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "İmanın temelinden olmayan konularda en azından ne yapılmamalıdır?",
+          "answer": "Hemen reddedilmemelidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde hangi sebeple bazı hadisler yanlış anlaşılmış oluyor?",
+          "answer": "Konular iyi kavranmadığı için.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Yanlış anlamanın sonunda bazı kişiler hangi hükmü vermiş?",
+          "answer": "Bazı rivayetleri uydurma saymış.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Daha ağır bir yanlış olarak bazıları ne yapmış?",
+          "answer": "İnkâra düşmüş.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu bölümde kaç temel nokta anlatılacağı söyleniyor?",
+          "answer": "On iki.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu parçada ilk kaç temel nokta anlatılıyor?",
+          "answer": "İlk iki temel nokta.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Birinci asıla göre din neden bir sınav gibidir?",
+          "answer": "Çünkü insanın içindeki hâli ortaya çıkarır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Gelecekteki olaylar için nasıl bir anlatım yolu seçilir?",
+          "answer": "Ne çok kapalı ne de zorlayacak kadar açık bir yol seçilir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu yol insanın hangi özelliğini korur?",
+          "answer": "Seçme özgürlüğünü korur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Çok açık kıyamet alameti görülse insanlar ne yapmak zorunda kalır?",
+          "answer": "İnanmak zorunda kalır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Böyle bir durumda sınavın hangi faydası kaybolur?",
+          "answer": "İnsanların farkını gösterme faydası kaybolur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Mehdi ve Süfyan meselelerinde niçin farklı sözler bulunabilir?",
+          "answer": "Çünkü konu sınav sırrı gereği tam kesin açıklıkta değildir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "İkinci asıla göre bütün İslam meseleleri için aynı güçte delil gerekir mi?",
+          "answer": "Hayır, gerekmez.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Hangi konular için kesin bilgi şart olmayabilir?",
+          "answer": "Yan meseleler ve zamana bağlı olaylar için.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S6Q12"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Bu gibi konularda en uygun kalp tavrı nedir?",
+          "answer": "Teslimiyetli olmak.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p16:2-sinif:S6Q13"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p16:2-sinif:S6Q15",
+          "sourceQuestionId": "S6Q15",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 15,
+          "question": "En kısa hâliyle bu parçanın bize öğrettiği şey nedir?",
+          "answer": "Bilmediğimiz konuda hemen inkâr etmemektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

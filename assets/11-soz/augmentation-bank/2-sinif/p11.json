@@ -1,0 +1,854 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "11-soz:2-sinif:p11",
+  "bookSlug": "11-soz",
+  "bookTitle": "11. Söz",
+  "bookOrder": 4,
+  "gradeSlug": "2-sinif",
+  "partNo": "p11",
+  "partNumber": 11,
+  "title": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/11-soz/outputs/2-sinif/SveC_2sinif_11-soz-p11-fuccar-ile-nefsin-ikazi-yanlis-sarfin-temsille-izahi-ve-nefsin-uyarilmasi.txt",
+  "sourceRevision": "c6876dd0d87c9fe3e01853ba3f637ea1252e23276d8666d126ecae2a4527bc9f",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde insanın verilen özellikleri ne için verilmemiş deniliyor?",
+          "answer": "Sadece dünya geçimini hayvan gibi kazanmak için verilmemiş deniliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Örnekte ilk hizmetçiye kaç altın veriliyor?",
+          "answer": "Yirmi altın veriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İlk hizmetçi o parayla ne yapıyor?",
+          "answer": "Güzel bir elbise alıyor ve giyiyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Diğer hizmetkâra ne kadar para veriliyor?",
+          "answer": "Bin altın veriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci hizmetkârın cebine parayla birlikte başka ne konuluyor?",
+          "answer": "Yazılı bir kâğıt konuluyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Akıllı bir insan, bin altının sadece bir elbise için verilmediğini neden anlar?",
+          "answer": "Çünkü daha az parayla zaten çok güzel bir elbise alınmıştır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci hizmetkârın yapması gereken önemli iş neydi?",
+          "answer": "Kâğıtta yazanı okuyup ona göre davranmaktı.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci hizmetkâr yanlış olarak ne yapıyor?",
+          "answer": "Bütün parayı tek elbiseye veriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Aldığı elbise nasıl bir elbise oluyor?",
+          "answer": "Çok kötü ve öbüründen daha aşağı oluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu yanlış davranış yüzünden ona ne oluyor?",
+          "answer": "Azarlanıyor ve ceza görüyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p11:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu örnekle insana hangi öğüt veriliyor?",
+          "answer": "Ömrünü ve yeteneklerini boş zevklere harcamaması öğütleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "İnsan böyle yaparsa hangi düşüş yaşanır?",
+          "answer": "Değeri yüksekken çok aşağı bir duruma düşer.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p11:2-sinif:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada insan ile hayvan arasında hangi konuda karşılaştırma yapılıyor?",
+          "answer": "Hayatını ne için kullandığı konusunda karşılaştırma yapılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Temsilde efendi, ilk hizmetçiden ne almasını istiyor?",
+          "answer": "Kendisine bir elbise almasını istiyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "İlk hizmetçi verilen işi iyi yapıyor mu?",
+          "answer": "Evet, iyi yapıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci hizmetkâr neden ticarete gönderiliyor gibi görünüyor?",
+          "answer": "Çünkü ona çok para veriliyor ve yazılı bir not konuluyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Yazılı kâğıdın olması bize neyi düşündürür?",
+          "answer": "Özel bir görev ve dikkatli davranma gerektiğini düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci hizmetkâr kime bakıp yanlış karar veriyor?",
+          "answer": "İlk hizmetçiye bakıp yanlış karar veriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Birinin yaptığı işi aynen kopyalamak burada neden yanlış oluyor?",
+          "answer": "Çünkü ikisine verilen para ve görev aynı değil.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci hizmetkâr parayı nasıl daha yanlış kullanmış oluyor?",
+          "answer": "Hem çok para harcıyor hem de kötü bir şey alıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada bu hizmetkâr için nasıl bir değerlendirme yapılıyor?",
+          "answer": "Çok akılsızca davrandığı söyleniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu temsilin sonunda nefse hangi çağrı yapılıyor?",
+          "answer": "Kendine gelmesi ve aklını kullanması söyleniyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Sermaye-i ömür sözü burada neyi anlatıyor?",
+          "answer": "İnsanın ömrünü ve elindeki imkânları anlatıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "En son cümlelerin ana fikri nedir?",
+          "answer": "İnsan, yüksek değerini aşağı istekler için harcamamalıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatımı kolaylaştırmak için ne kullanılıyor?",
+          "answer": "Bir örnek hikâye kullanılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Örnekte iki hizmetçinin aldığı para aynı mı?",
+          "answer": "Hayır, aynı değil.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İlkine az, ikincisine çok para verilmesi neyi gösteriyor?",
+          "answer": "İkinci hizmetin daha büyük bir iş için olduğunu gösteriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İlk hizmetçi kumaş konusunda nasıl seçim yapıyor?",
+          "answer": "En iyisini seçiyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci hizmetkârın cebindeki notu okumaması nasıl bir hata oluyor?",
+          "answer": "Kendisine verilen görevi anlamadan hareket etmiş oluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Düşünmeden başkasına bakarak iş yapmak neden zararlıdır?",
+          "answer": "Çünkü kendi görevini kaçırmaya sebep olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci hizmetkârın aldığı elbise, arkadaşınınkine göre nasıldır?",
+          "answer": "Çok daha kötüdür.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Çok para verip kötü şey almak bize neyi gösterir?",
+          "answer": "Nimeti yanlış kullandığını gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Temsildeki efendinin kızması hangi sebebe bağlıdır?",
+          "answer": "Verilen büyük imkânın yanlış harcanmasına bağlıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre insan ömrünü en çok nerelere harcamamalıdır?",
+          "answer": "Geçici dünya zevklerine ve maddî tatlara harcamamalıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "İnsan neden hayvandan daha aşağı düşebilir?",
+          "answer": "Çünkü yüksek özelliklerini yanlış yerde kullanırsa değerini kaybeder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölümden çıkarılacak güzel ders nedir?",
+          "answer": "Allah’ın verdiği ömür ve kabiliyetleri doğru ve faydalı işlerde kullanmaktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada insanın sahip olduğu imkânlar neye benzetiliyor?",
+          "answer": "Bir sermayeye benzetiliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İlk hizmetçiye verilen para hangi ihtiyaç için yeterli oluyor?",
+          "answer": "Tek elbise almak için yeterli oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci hizmetkâra çok para verilmesi, onun görevinin nasıl olduğunu gösterir?",
+          "answer": "Daha büyük ve önemli olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci hizmetkârın en başta yapması gereken şey neydi?",
+          "answer": "Cebindeki yazıyı okumaktı.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "O, doğru yolu bırakıp hangi yolu seçiyor?",
+          "answer": "Başkasına bakıp kendi kafasına göre davranıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p11:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bir görev verilince yazılı bilgiye dikkat etmek neden önemlidir?",
+          "answer": "Çünkü işin aslı orada anlatılır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada kötü kumaş seçmesi neyin işareti oluyor?",
+          "answer": "Düşüncesiz ve yanlış seçim yaptığının işareti oluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Ceza görmesinin nedeni para azlığı mı, yanlış davranış mı?",
+          "answer": "Yanlış davranışıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Son kısımda insanın hayatı için hangi uyarı yapılıyor?",
+          "answer": "Geçici şeyler uğruna hayatını tüketmemesi uyarısı yapılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Maddî lezzetler burada nasıl anlatılıyor?",
+          "answer": "Geçici ve düşük bir hedef gibi anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "İnsan, sermaye bakımından yüksek olduğu hâlde nasıl kaybeder?",
+          "answer": "Elindekileri değersiz işlere vererek kaybeder.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçaya göre akıllı insan nasıl davranır?",
+          "answer": "Ömrünü ve yeteneklerini yerinde kullanır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçanın başında insanın cihazlarının hangi iş için verilmediği söyleniyor?",
+          "answer": "Sadece dünya hayatını sürdürmek için verilmediği söyleniyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Örnekte geçen kişi, ilk hizmetçiye niçin para veriyor?",
+          "answer": "Bir elbise alması için veriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İlk hizmetçi verilen görevi nasıl yerine getiriyor?",
+          "answer": "Güzelce ve doğru şekilde yerine getiriyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci hizmetkâra verilen bin altın bize ne düşündürür?",
+          "answer": "Onun daha önemli bir işi olduğunu düşündürür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Cebe konulan yazı, görev hakkında nasıl bir ipucu verir?",
+          "answer": "Rastgele değil, planlı bir iş olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci hizmetkârın en büyük yanlışı hangisidir?",
+          "answer": "Kendine verilen yönlendirmeyi dikkate almamasıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "O, bütün parayı ne için harcıyor?",
+          "answer": "Bir tek elbise için harcıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p11:2-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Sonuçta aldığı şey kaliteli mi, kalitesiz mi?",
+          "answer": "Kalitesizdir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p11:2-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada “aklı başında olan” kimdir?",
+          "answer": "Verilen imkânın amacını anlayan kişidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu temsil insanın hayatına nasıl bağlanıyor?",
+          "answer": "İnsan da ömrünü küçük zevkler için harcamamalıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Hayvandan aşağı düşmek burada ne anlama gelir?",
+          "answer": "İnsanlık değerini kaybetmek anlamına gelir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan sonra bir çocuk kendine nasıl bir ders çıkarabilir?",
+          "answer": "Vaktini, aklını ve nimetleri boş şeylerde harcamamayı öğrenebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatılan örnek hikâyede kaç hizmetçi vardır?",
+          "answer": "İki hizmetçi vardır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İlk hizmetçi kaç altınla işini görüyor?",
+          "answer": "Yirmi altınla görüyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci hizmetçiye verilen para, ilkine göre nasıl?",
+          "answer": "Çok daha fazladır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci hizmetçiye sadece para değil, başka ne veriliyor?",
+          "answer": "Yazılı bir not veriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu notu okumamak neden ciddi bir yanlış olur?",
+          "answer": "Çünkü görevini anlamadan hareket etmiş olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci hizmetçi hangi konuda aldanıyor?",
+          "answer": "Kendi görevini, ötekinin göreviyle aynı sanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Verilen büyük parayı küçük bir işe harcamak neyi gösterir?",
+          "answer": "Değer bilmemeyi gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci hizmetçinin seçtiği elbise nasıl bir sonuç ortaya çıkarıyor?",
+          "answer": "Kötü bir sonuç ortaya çıkarıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu yüzden ona nasıl karşılık veriliyor?",
+          "answer": "Sert bir uyarı ve ceza ile karşılık veriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p11:2-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçada insanın ömrü ve yeteneği için hangi benzetme yapılıyor?",
+          "answer": "Birikim ve kıymetli mal gibi görülüyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "İnsan bunları sadece geçici tatlar için kullanırsa ne olur?",
+          "answer": "Çok aşağı bir duruma düşer.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p11:2-sinif:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p11:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçanın vermek istediği ana ders nedir?",
+          "answer": "İnsan, Allah’ın verdiği büyük nimetleri yüksek ve doğru amaçlar için kullanmalıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

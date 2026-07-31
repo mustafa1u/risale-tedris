@@ -4,6 +4,7 @@ import { describe, it } from "node:test";
 
 const pagePaths = {
   home: new URL("./HomePage.astro", import.meta.url),
+  howItWorks: new URL("./HowItWorksPage.astro", import.meta.url),
   library: new URL("./LibraryIndex.astro", import.meta.url),
   lessonFlow: new URL("./LessonFlowPage.astro", import.meta.url),
   book: new URL("./BookPage.astro", import.meta.url),
@@ -34,10 +35,27 @@ describe("UX page accessibility markup", () => {
     const source = await readPage("home");
 
     assert.match(source, /getHomepageCtas/);
-    assert.match(source, /homeCtas\.booksHref/);
+    assert.match(source, /homeCtas\.howItWorksHref/);
     assert.match(source, /homeCtas\.lessonFlowHref/);
+    assert.match(source, /<ul class="home-hero__feature-labels" aria-label={text\.home\.hero\.lede \|\| text\.home\.hero\.heading}>/);
+    assert.match(source, /text\.home\.hero\.featureLabels\.map\(\(label\) =>/);
     assert.match(source, /class="home-hero__books" aria-hidden="true"/);
     assert.doesNotMatch(source, /<article class="home-value-card">/);
+  });
+
+  it("keeps the how-it-works story structured and marks future video placements", async () => {
+    const source = await readPage("howItWorks");
+
+    assert.equal(countSnippet(source, 'class="how-section__number"'), 14);
+    assert.equal(countSnippet(source, '<aside class="video-placeholder'), 5);
+    assert.match(source, /import flashcardPhoto/);
+    assert.match(source, /class="flashcard-photo__frame"/);
+    assert.match(source, /rotate\(-90deg\)/);
+    assert.match(source, /Bir ders düşünün…/);
+    assert.match(source, /"İyi bir ders, herkes için tek tip olmalıdır\."/);
+    assert.match(source, /İşte bu sitede anlattığımız sistem, tam da o yanlış varsayımı kırıyor\./);
+    assert.doesNotMatch(source, /Video Senaryosu|[“”‘’]/);
+    assert.match(source, /Hazırla\.<\/span>/);
   });
 
   it("keeps mixed-age guidance and suggested steps on the lesson-flow page", async () => {
@@ -57,8 +75,14 @@ describe("UX page accessibility markup", () => {
   it("shows the available books on the dedicated library page", async () => {
     const source = await readPage("library");
 
-    assert.match(source, /libraryIndex\.books\.map/);
-    assert.match(source, /class="book-grid"/);
+    assert.match(source, /groupBooksBySlug\(libraryIndex\.books, locale\)/);
+    assert.match(source, /bookGroups\.map\(\(group\) =>/);
+    assert.match(source, /group\.books\.map\(\(book\) =>/);
+    assert.match(source, /class="book-shelves"/);
+    assert.match(source, /class="book-shelf__viewport" data-book-shelf-viewport tabindex="0"/);
+    assert.match(source, /data-book-shelf-previous/);
+    assert.match(source, /data-book-shelf-next/);
+    assert.match(source, /viewport\.scrollBy/);
     assert.match(source, /getGradeLabel/);
     assert.match(source, /localizedPath\(locale, `\/books\/\$\{book\.slug\}\/`\)/);
   });

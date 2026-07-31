@@ -1,0 +1,587 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:11-sinif:p01",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "11-sinif",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "1. Mevkıf: tevhid muhaveresine giriş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/11-sinif/SveC_11sinif_32-soz-p01-1-mevkif-tevhid-muhaveresine-giris.txt",
+  "sourceRevision": "c25178c3c5464ab9c13eedac81d6b621a4ba25a301f1a2896f3d17b7f96e7bef",
+  "setCount": 6,
+  "questionCount": 47,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatılan söz kaç ana kısımdan oluşmaktadır?",
+          "answer": "Üç ana kısımdan oluşmaktadır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu pasajda kâinattaki varlıkların hangi hakikate delil olduğu söylenmektedir?",
+          "answer": "Allah’ın birliğine delil oldukları ifade edilmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İlk mevkıfta ele alınan tevhid cümlesinin hangi parçasının manasının açıklanacağı belirtilmektedir?",
+          "answer": "Allah’ın ortağı bulunmadığını bildiren kısmın manasının açıklanacağı belirtilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu mana, okuyucunun daha kolay anlaması için hangi yöntemle anlatılacaktır?",
+          "answer": "Temsili bir konuşma ve farazî bir tartışma tarzıyla anlatılacaktır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu konuşmanın yazıya geçirilme sebebi olarak ne gösterilmektedir?",
+          "answer": "Hizmet eden kardeşlerin ve mescid arkadaşlarının isteği sebep gösterilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde, kimlerin vehmettiği ortaklar adına bir kişi tasavvur edilmektedir?",
+          "answer": "Şirk, küfür ve sapıklık içinde bulunan çeşitli grupların zannettiği ortaklar adına bir kişi tasavvur edilmektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Tasavvur edilen bu kişi neyi iddia etmektedir?",
+          "answer": "Kâinattaki bir şeye rab olmayı ve gerçek sahiplik iddiasında bulunmayı istemektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S1Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümün girişinde, bu sözün yapısı hakkında hangi kısa bilgi verilmektedir?",
+          "answer": "Sözün üç mevkıftan meydana geldiği bildirilmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Parantez içindeki açıklamada, bu metnin varlıkların şahitliğiyle ilgili ne yaptığı söylenmektedir?",
+          "answer": "Varlıkların Allah’ın birliğine işaret eden dillerinden birini açıklayıp yorumladığı söylenmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Ayetten alınan hakikatin bu metinde nasıl sunulduğu ifade edilmektedir?",
+          "answer": "Temsil kalıbı içinde sunulduğu ifade edilmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bir Ramazan gecesinde fark edilen şey, tevhid cümleleri hakkında neydi?",
+          "answer": "Her bir cümlede ayrı bir tevhid derecesi ve bir müjde bulunduğunun fark edildiği anlatılmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Bu derecelerden hepsi mi açıklanmaktadır, yoksa yalnız biri mi öne çıkarılmaktadır?",
+          "answer": "Yalnız bir tanesi öne çıkarılmakta ve açıklanmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Açıklanan kısım, hangi seviyedeki insanların anlayışına uygun olacak şekilde ele alınmaktadır?",
+          "answer": "Sade halkın anlayabileceği bir seviyede ele alınmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Lisan-ı hâlin lisan-ı kàl şeklinde sunulması ne anlama gelir?",
+          "answer": "Varlıkların sessizce gösterdiği manaların, sözlü bir konuşma gibi aktarılması anlamına gelir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Farazî olarak kurulan şahıs, varlıklar üzerinde hangi iki sıfatı kendine nisbet etmek istemektedir?",
+          "answer": "Rablik ve gerçek malik olma sıfatlarını kendine nisbet etmek istemektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajın ana konusu hangi inanç esasını öne çıkarmaktadır?",
+          "answer": "Tevhid, yani Allah’ın birliği esasını öne çıkarmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde geçen açıklamaya göre, kâinattaki varlıklar neye şehadet etmektedir?",
+          "answer": "Tek bir ilâh bulunduğuna şehadet etmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İlk mevkıfta geçen tevhid ifadesinin tüm cümleleri birden mi ele alınmaktadır?",
+          "answer": "Hayır, içlerinden yalnız bir bölümünün manası ele alınmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Özellikle açıklanacak bölüm, Allah hakkında hangi gerçeği bildirir?",
+          "answer": "O’nun hiçbir ortağı olmadığını bildirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu hakikatin anlatımında neden temsili konuşma yolu tercih edilmektedir?",
+          "answer": "Mananın daha anlaşılır olması ve herkesin kavrayabileceği bir biçimde sunulması için tercih edilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Bu metnin kaleme alınmasında çevredeki insanların nasıl bir etkisi olmuştur?",
+          "answer": "Yakınındaki kardeşlerin ve mescid arkadaşlarının talebi etkili olmuştur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Farazî şekilde kurgulanan kişi, hangi yanlış düşünceleri temsil etmektedir?",
+          "answer": "Tabiatçılık, sebeplere aşırı bağlanma, şirk, küfür ve dalalet gibi yanlış düşünceleri temsil etmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu kişinin kâinattan bir şeye rab olmak istemesi, metnin genel mesajı açısından neden önemlidir?",
+          "answer": "Çünkü bu iddia üzerinden Allah’tan başka gerçek rab ve malik olamayacağı gösterilmek istenmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S3Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajın başındaki bilgiye göre “Otuzikinci Söz” kaç bölüm üzerine kuruludur?",
+          "answer": "Üç bölüm üzerine kuruludur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Parantezli açıklamada bu metnin, daha önce işaret edilen birçok delilden hangisiyle ilişkili olduğu söylenmektedir?",
+          "answer": "Allah’ın birliğine şahitlik eden delillerden birincisiyle ilişkili olduğu söylenmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Burada zikredilen ayetin hangi tür hakikatlerinden birinin ele alındığı belirtilmektedir?",
+          "answer": "Ayetin çok sayıdaki manalarından bir hakikatin ele alındığı belirtilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Ramazan gecesinde söylenen tevhid ifadesinin her cümlesinde hangi iki unsur bulunduğu belirtilir?",
+          "answer": "Her cümlede bir tevhid mertebesi ve bir müjde bulunduğu belirtilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Açıklama yapılırken neden avamın anlayışı özellikle anılmaktadır?",
+          "answer": "Anlatımın herkesin kolay kavrayabileceği şekilde kurulacağını göstermek için anılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Yazıya geçirilen şey, doğrudan ilmî bir ispat mı yoksa kurgulu bir konuşma mıdır?",
+          "answer": "Kurgulu ve temsili bir konuşmadır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Şirk ve dalalet ehlinin vehmettiği ortaklar adına düşünülen kişi nasıl bir role sahiptir?",
+          "answer": "O, yanlış inançların sözcüsü gibi davranan farazî bir iddia sahibidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu iddia sahibi, varlık âleminden bir şey üzerinde ne kurmak istemektedir?",
+          "answer": "O şey üzerinde rablik ve gerçek sahiplik kurmak istemektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S4Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, bu sözün tamamının yapısı hakkında verilen ilk bilgi nedir?",
+          "answer": "Üç mevkıftan meydana geldiği bilgisidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Açıklama kısmında, bu metnin önceki bir bölüme nasıl bağlandığı belirtilmektedir?",
+          "answer": "Önceki bir kısmı açıklayan ek bir metin olduğu belirtilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Varlıkların çok sayıda dili olduğundan söz edilmesi, hangi ana düşünceyi desteklemektedir?",
+          "answer": "Kâinatın pek çok yönden Allah’ın birliğini gösterdiği düşüncesini desteklemektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Birinci mevkıfta geçen tevhid cümlesinin bütün bölümleri yerine neden tek bir kısım seçilmiştir?",
+          "answer": "Tek bir tevhid derecesini anlaşılır biçimde açıklamak için bir kısım seçilmiştir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Seçilen kısmın anlatımında kullanılan tartışma tarzı gerçek bir olay mıdır?",
+          "answer": "Hayır, varsayıma dayalı bir tartışma tarzıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bu varsayımsal anlatımın muhatabı olarak özellikle kimler düşünülmektedir?",
+          "answer": "Basit seviyedeki insanların da anlayabileceği geniş bir okuyucu kitlesi düşünülmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Metni yazma gerekçesi, anlatanın kendi isteği midir yoksa başkalarının talebi midir?",
+          "answer": "Başkalarının talebidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Farazî şahsın “hakikî malik” olma iddiası, inanç bakımından neyi sorgulatmak için kurulmuştur?",
+          "answer": "Allah’tan başkasına gerçek sahiplik verilip verilemeyeceğini sorgulatmak için kurulmuştur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda ele alınan bölümün adı nedir?",
+          "answer": "Birinci Mevkıf’tır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Girişte verilen bilgiye göre, önce söylenmiş olan tevhid cümlesi kaç ayrı cümleden oluşmaktadır?",
+          "answer": "On bir ayrı cümleden oluşmaktadır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Bu on bir cümlenin her biri için hangi iki özellikten söz edilmektedir?",
+          "answer": "Her birinde bir tevhid basamağı ve bir müjde bulunduğundan söz edilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Yalnızca açıklanan bölüm, Allah’ın zatı hakkında hangi olumsuzlamayı içerir?",
+          "answer": "O’na hiçbir ortağın nisbet edilemeyeceğini içerir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Temsili muhavere ve farazî münazara tercih edilmesi, anlatımın hangi yönünü güçlendirir?",
+          "answer": "Anlaşılmasını ve zihinde canlanmasını güçlendirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu konuşmanın yazılması kimlerin isteği üzerine gerçekleşmiştir?",
+          "answer": "Hizmet eden kardeşlerin ve mescid arkadaşlarının isteği üzerine gerçekleşmiştir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde geçen farazî kişi, tek bir sapmayı mı yoksa çeşitli sapmaları mı temsil etmektedir?",
+          "answer": "Çeşitli sapmaları temsil etmektedir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu kişi kâinattan bir şeye rab olmak isteyerek aslında hangi yanlış iddiayı ileri sürmektedir?",
+          "answer": "Allah’a ait olan hükümranlık ve sahipliği başkasına vermeye kalkışan yanlış bir iddiayı ileri sürmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:11-sinif:S6Q7"
+          ]
+        }
+      ]
+    }
+  ]
+}

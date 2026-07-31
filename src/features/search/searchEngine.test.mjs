@@ -78,6 +78,7 @@ describe("search field scopes and filters", () => {
     assert.deepEqual(search("hâtime", { scopes: ["title"] }).results.map((result) => result.partNo), ["p55"]);
     assert.deepEqual(search("P55", { scopes: ["partNo"] }).results.map((result) => result.partNo), ["p55"]);
     assert.equal(search("p5", { scopes: ["partNo"] }).total, 0);
+    assert.deepEqual(search("p5?", { scopes: ["partNo"] }).results.map((result) => result.partNo), ["p55"]);
   });
 
   it("excludes text-only matches when text scope is disabled", () => {
@@ -135,12 +136,21 @@ describe("advanced search modes", () => {
     ]);
   });
 
-  it("supports basic wildcard tokens in wildcard mode", () => {
-    assert.deepEqual(search("rah*", { mode: "wildcard" }).results.map((result) => result.partNo), ["p01", "p02"]);
-    assert.deepEqual(search("n?r", { mode: "wildcard" }).results.map((result) => `${result.bookSlug}:${result.partNo}`), [
+  it("applies wildcard tokens automatically in every mode", () => {
+    assert.deepEqual(search("rah*").results.map((result) => result.partNo), ["p01", "p02"]);
+    assert.deepEqual(search("n?r").results.map((result) => `${result.bookSlug}:${result.partNo}`), [
       "first-book:p01",
       "first-book:p02",
       "second-book:p01"
     ]);
+    assert.deepEqual(search("im* n?r", { mode: "exact" }).results.map((result) => result.partNo), ["p02"]);
+    assert.deepEqual(
+      search("im* AND NOT rah*", { mode: "boolean" }).results.map((result) => `${result.bookSlug}:${result.partNo}`),
+      ["second-book:p01"]
+    );
+    assert.deepEqual(
+      search("im* n?r", { mode: "proximity", proximityDistance: 1 }).results.map((result) => result.partNo),
+      ["p02"]
+    );
   });
 });

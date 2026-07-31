@@ -6,8 +6,11 @@ const HOMEPAGE_SMOKE_CHECKS = {
   tr: {
     routePath: "/",
     expectedText: [
-      "Risale-i Nur dersleri için hazır soru kağıtları ve bilgi kartları",
-      "Kitapları Gör",
+      "Risale-i Nur'dan Bir Dersi Her Yaşa Aynı Anda Nasıl Anlatırsınız?",
+      "Bu kadar farklı seviyeyi tek sistemde nasıl yönetiyorlar?",
+      "6 farklı soru seti",
+      "Otomatik hazırlama",
+      "Nasıl Oluyor?",
       "Örnek Ders Akışı",
       'href="#books"',
       'href="#lesson-flow"',
@@ -27,7 +30,7 @@ const HOMEPAGE_SMOKE_CHECKS = {
     routePath: "/en/",
     expectedText: [
       "Ready question sheets and flashcards for Risale lessons",
-      "View Books",
+      "How Does It Work?",
       "Example Lesson Flow",
       'href="#books"',
       'href="#lesson-flow"',

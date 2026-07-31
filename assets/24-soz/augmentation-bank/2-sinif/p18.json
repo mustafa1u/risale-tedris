@@ -1,0 +1,682 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:2-sinif:p18",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "2-sinif",
+  "partNo": "p18",
+  "partNumber": 18,
+  "title": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/2-sinif/SveC_2sinif_24-soz-p18-yirmidorduncu-soz-ucuncu-dal-yedinci-asil-temsil-ve-hadislerde-tesbihin-hakikat-zannedilmesi.txt",
+  "sourceRevision": "31490cc3dd7b8db8d9fa0ad970ab8738210f53fa97a2305749a4d00fd1a03832",
+  "setCount": 6,
+  "questionCount": 54,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Zaman geçince bazı benzetmeler ve örnekler nasıl yanlış anlaşılabiliyor?",
+          "answer": "Gerçek olmayan anlatımlar, sanki gözle görülen şeylermiş gibi sanılabiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde geçen iki görevli melek, hangi iki hayvan şekliyle anlatılmıştır?",
+          "answer": "Biri kara hayvanı gibi, biri deniz hayvanı gibi anlatılmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu iki meleği yanlış anlayanlar onları nasıl sanmıştır?",
+          "answer": "Onları çok büyük, gerçek bedenli hayvanlar sanmıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Peygamberimizin yanında duyulan güçlü ses neye bağlanmıştır?",
+          "answer": "Cehenneme kadar düşen bir şeyin sesi olarak bildirilmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu sözü duyan ama derin manayı kavrayamayan kişi ne yapabilir?",
+          "answer": "Yanlış düşünüp inkâra kayabilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bir süre sonra gelen haber neydi?",
+          "answer": "Tanınan bir münafığın öldüğü haberi geldi.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Ölen bu kişinin yaşı ne kadardı?",
+          "answer": "Yetmiş yaşındaydı.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu olayda o kişinin hayatı neye benzetilmiştir?",
+          "answer": "Kötülüğe ve inkâra doğru aşağı düşmeye benzetilmiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "O sesin tam o vakitte işittirilmesinin sebebi neydi?",
+          "answer": "Ölüm anına bir işaret olması içindi.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün ana dersi nedir?",
+          "answer": "Dinî sözleri hemen dış görünüşe göre anlamamak, derin manasını düşünmektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Yedinci asılda en çok hangi yanlış anlamaya dikkat çekiliyor?",
+          "answer": "Benzetmeli anlatımı olduğu gibi maddî sanma yanlışına dikkat çekiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bilgi cahil ellere geçince ne olabilir?",
+          "answer": "Mana bozulabilir ve hata ortaya çıkabilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Kara ve deniz canlılarına bakan iki melek hakkında hangi yanlış ortaya çıkmıştır?",
+          "answer": "Melekler yerine gerçek öküz ve balık var sanılmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Nebevî mecliste duyulan derin ses hemen nasıl açıklanmıştır?",
+          "answer": "Uzak bir düşüşün sesi gibi haber verilmiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Yalnız görünen söze bakmak niçin tehlikelidir?",
+          "answer": "Çünkü asıl mana kaçırılır ve kişi yanlışa düşer.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Sonradan gelen haber, ilk sözü anlamaya nasıl yardım etti?",
+          "answer": "O sesin bir münafığın ölümüne işaret olduğunu gösterdi.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Münafığın bütün ömrü hangi yönde geçmiş gibi anlatılmıştır?",
+          "answer": "Aşağıya, kötülüğe ve inkâra gidiş gibi anlatılmıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S2Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde teşbih ve temsil ne demek ister?",
+          "answer": "Bir şeyi daha iyi anlatmak için benzeterek söylemek demektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu benzetmeler zamanla nasıl bir hataya dönüşebiliyor?",
+          "answer": "İnsanlar onları sembol gibi değil, gerçek cisim gibi anlayabiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "“Sevr” ve “Hut” ile anlatılan varlıklar aslında neydi?",
+          "answer": "Onlar görevli meleklerdi.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu meleklerin görevi hangi alanlarla ilgiliydi?",
+          "answer": "Biri kara canlılarıyla, biri deniz canlılarıyla ilgiliydi.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Neden bazı kişiler burada yanılmıştır?",
+          "answer": "Sözün ince manasını bırakıp dış şekline takılmışlardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Duyulan büyük sesle ilgili haber kaç dakika sonra açıklığa kavuştu?",
+          "answer": "Yirmi dakika sonra.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "O anda bildirilen ölüm haberi kimin hakkındaydı?",
+          "answer": "Tanınmış bir münafığın hakkındaydı.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Yetmiş yıllık süre neyi anlatmak için kullanılmıştır?",
+          "answer": "O kişinin uzun zamandır kötü sona doğru gidişini anlatmak için kullanılmıştır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre doğru anlama yolu nedir?",
+          "answer": "Sözlerin mecazlı olabileceğini bilip hikmetini aramaktır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Yedinci asılda insanların düştüğü hata daha çok hangi konuda oluyor?",
+          "answer": "Anlatılan örnekleri gerçek madde sanma konusunda oluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İlmin zayıflayıp cehaletin artması neyi bozuyor?",
+          "answer": "Sözlerin doğru manasını bozuyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İki melek hangi görüntülerle tanıtıldığı için karıştırılmıştır?",
+          "answer": "Öküz ve balık benzeri görüntülerle tanıtıldığı için karıştırılmıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Burada asıl varlıklar hayvan mıydı, melek miydi?",
+          "answer": "Melekti.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Peygamberimizin yanındaki ses olayı bize neyi öğretir?",
+          "answer": "Her dinî sözün görünen yüzünden başka bir derin manası olabileceğini öğretir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bu sesi yanlış anlayan biri hangi kötü sonuca gidebilir?",
+          "answer": "İnanmak yerine inkâra yönelebilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Sonradan gelen haber ile ilk söz arasında nasıl bir bağ kuruldu?",
+          "answer": "Ölüm haberi, ilk sözün bir işaretli anlatım olduğunu gösterdi.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Münafığın cehennem taşı gibi anlatılması neyi gösterir?",
+          "answer": "Hayatının kötü inanç ve kötü gidişle geçtiğini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S4Q7"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada hangi tür anlatım çok kullanılıyor?",
+          "answer": "Benzetmeli ve işaretli anlatım kullanılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Benzetmeli anlatımı gerçek eşya gibi saymak neden yanlıştır?",
+          "answer": "Çünkü o zaman verilmek istenen mana kaybolur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Kara ve deniz canlılarına bakan melekler için kullanılan şekiller ne içindi?",
+          "answer": "Anlatmayı kolaylaştırmak içindi.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İnsanlar bu şekilleri nasıl yanlış değerlendirdi?",
+          "answer": "Sembol yerine gerçek hayvan sandılar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Peygamberimizin bildirdiği gürültü neyi haber veren bir işaret oldu?",
+          "answer": "Kötü bir kişinin ölümünü haber veren bir işaret oldu.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Ölüm haberi gelen kişi imanlı biri miydi, münafık mıydı?",
+          "answer": "Münafıktı.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "O kişinin yaşı ile taşın düşme süresi arasında nasıl bir ilişki kuruldu?",
+          "answer": "İkisi de yetmiş sayısıyla bağlandı.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu bağ neyi anlatmak için kurulmuştur?",
+          "answer": "Onun ömrünün manen kötü sona doğru aktığını anlatmak için kurulmuştur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu olayda Allah neyi gösterdi?",
+          "answer": "Bir sesle gizli manayı anlamaya yardım etti.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metne göre hadisleri anlamada en doğru tavır nedir?",
+          "answer": "Acele etmeden, derin manayı arayarak anlamaya çalışmaktır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Yedinci asılın kısa özeti nasıl söylenebilir?",
+          "answer": "Bazı dinî anlatımları kaba şekilde anlamak insanı hataya götürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Zamanın geçmesi, benzetmeli sözleri nasıl etkileyebilir?",
+          "answer": "Asıl ince manası unutulup sadece dış şekli kalabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "“Sevr” ve “Hut” örneğinde asıl mesele hayvanlar mıydı?",
+          "answer": "Hayır, meleklerle ilgili bir anlatımdı.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu örnek bize görünüş ile hakikatin her zaman aynı olmadığını nasıl gösteriyor?",
+          "answer": "Çünkü hayvan gibi söylenen şeyin gerçekte melek olduğu anlaşılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Nebevî huzurda işitilen ses hemen herkes tarafından kolayca anlaşılmış mıdır?",
+          "answer": "Hayır, derin manayı bilmeyen için zor olmuştur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu sesi açıklayan ikinci olay neydi?",
+          "answer": "Bir münafığın öldüğünün haber verilmesiydi.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "O kişinin yaşamı hangi manevi düşüşe benzetildi?",
+          "answer": "Aşağıya doğru yuvarlanmaya benzetildi.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p18:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu benzetme bize insanın ömrü hakkında ne düşündürür?",
+          "answer": "İnsan iyi olmazsa yıllarını kötüye kullanıp zarara gidebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Sesin o anda duyulması tesadüf mü, işaret mi olarak anlatılıyor?",
+          "answer": "İşaret olarak anlatılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p18:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın verdiği en önemli uyarı nedir?",
+          "answer": "Dinî haberleri anlamadan yalan saymak büyük bir yanlıştır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

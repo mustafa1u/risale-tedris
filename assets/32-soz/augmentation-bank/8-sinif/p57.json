@@ -1,0 +1,718 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:8-sinif:p57",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "8-sinif",
+  "partNo": "p57",
+  "partNumber": 57,
+  "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/8-sinif/SveC_8sinif_32-soz-p57-3-mevkif-2-nokta-2-mebhas-ehl-i-dalalet-vekilinin-iddiasi-ve-iki-yolun-takdimi.txt",
+  "sourceRevision": "10819100c3567c8a1181c044544d94e127c5812da385c85c54adf61f4f85b16f",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Dalalet tarafını savunan kişi, insanları hangi anlayışa çağırdığını söylüyor?",
+          "answer": "Dünya zevkini öne alan, âhireti önemsemeyen, Allah’ı tanımaktan uzak duran, sadece dünyaya bağlanan ve kendi gücüne güvenen bir yola çağırdığını söylüyor.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kişi, çoğu insanı bu yola sevk ettiğini hangi yardımla ifade ediyor?",
+          "answer": "Şeytanın desteğiyle bunu yaptığını ifade ediyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Kur’an adına verilen ilk uyarı, insana nasıl bir dikkat çağrısı yapıyor?",
+          "answer": "Aldanmayıp aklını kullanması ve sapmış tarafın sözlerine kapılmaması isteniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu sözlere uymanın insana getireceği zarar nasıl anlatılıyor?",
+          "answer": "Kaybın çok büyük olacağı, bunun insanın iç dünyasını sarsacak kadar ağır sonuçlar doğuracağı bildiriliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p57:8-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre insanın önünde kaç yol vardır ve bunlar genel olarak nasıl ayrılır?",
+          "answer": "İki yol vardır; biri mutsuzluğa götüren sapkınlık yolu, diğeri ise Kur’an’ın gösterdiği mutluluk yoludur.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Birinci yol hangi özelliğiyle tanıtılıyor?",
+          "answer": "Sonu kötü olan, insanı bedbaht eden bir yol olarak tanıtılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p57:8-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci yol hangi kaynakla ilişkilendiriliyor?",
+          "answer": "Hikmet sahibi olan Kur’an’ın tarif ettiği doğru ve mutlu yol ile ilişkilendiriliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p57:8-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu iki yol arasında daha önce ne yapıldığı belirtiliyor?",
+          "answer": "Aralarında birçok karşılaştırma yapıldığı, bunların görülüp anlaşılmış olduğu belirtiliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p57:8-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Burada neden yeniden karşılaştırma yapılacağı söyleniyor?",
+          "answer": "Konunun gereği olarak, önceki karşılaştırmalardan küçük bir kısmının tekrar ele alınacağı söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p57:8-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün ana mesajı nedir?",
+          "answer": "İnsan, aldatıcı sözlere değil Kur’an’ın gösterdiği doğru yola yönelmelidir; çünkü önünde iki ayrı hayat tercihi vardır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Dalalet ehlinin sözcüsü, dünya mutluluğunu nerede bulduğunu iddia ediyor?",
+          "answer": "Âhireti hesaba katmamakta, Allah’ı tanımamakta, dünyaya aşırı bağlanmakta, serbest yaşamayı istemekte ve kendine dayanmakta bulduğunu iddia ediyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iddiada “medeniyet” ve “sanat” ile ilgili nasıl bir bakış vardır?",
+          "answer": "İlerleme ve sanat güzelliğinin, dinî sorumluluktan uzak bir hayatla kazanılacağını sanan yanlış bir bakış vardır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu düşünceyi yaymaya çalışan kişinin tavrı, metinde nasıl değerlendirilir?",
+          "answer": "Elinde sağlam dayanak kalmayınca yine de insanları saptırmaya çalışan biri olarak gösterilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "“Aklını başına al” sözü, öğrenciye hangi davranışı öğütler?",
+          "answer": "Duyduğu her söze hemen kapılmamasını, doğruyu düşünerek seçmesini öğütler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Sapkın tarafı dinlemek niçin tehlikeli görülüyor?",
+          "answer": "Çünkü insanı çok büyük bir zarara ve içten sarsan bir yıkıma götürebilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde geçen iki yoldan biri niçin “şekavetli” kabul ediliyor?",
+          "answer": "İnsanı gerçek huzura değil, kötü sona ve mutsuzluğa götürdüğü için böyle kabul ediliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Kur’an’ın gösterdiği yol niçin “saadetli” kabul ediliyor?",
+          "answer": "Çünkü insana doğru istikamet verip gerçek mutluluğa yöneltiyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde “muvazene” yapılmasından ne anlaşılmalıdır?",
+          "answer": "İki yolun sonuçlarının karşılaştırılıp hangisinin doğru olduğunun gösterilmesi anlaşılmalıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Binde bir” ifadesi burada ne anlatmak için kullanılmıştır?",
+          "answer": "Yapılabilecek karşılaştırmaların çok fazla olduğunu, burada ise sadece çok küçük bir kısmının ele alınacağını anlatır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan çıkarılacak en önemli ders nedir?",
+          "answer": "Dünya hayatını tek hedef yapmak insanı aldatır; doğru ölçü, Kur’an’ın gösterdiği yoldur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Dalalet yanlısı kişi, kendi düşüncesine göre insanı en çok cezbeden şeyler olarak neleri sayıyor?",
+          "answer": "Dünya mutluluğu, hayatın tadı, medenî ilerleme, sanat gelişimi, dünya sevgisi, sınırsız serbestlik ve kendine güven gibi şeyleri sayıyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Âhireti düşünmemekle ilgili görüş, metinde olumlu mu olumsuz mu sunuluyor?",
+          "answer": "Olumsuz sunuluyor; bu, sapkın yolun bir parçası olarak gösteriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Allah’ı tanımamayı bir kazanç gibi görmek neden yanlış bir anlayıştır?",
+          "answer": "Çünkü metinde bu, insanı felakete götüren yolun temeli olarak sunuluyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Şeytanın yardımıyla insanları yönlendirdiğini söylemesi, bu yol hakkında ne hissettirir?",
+          "answer": "Yolun hayırlı değil, aldatıcı ve zararlı olduğunu hissettirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Kur’an adına yapılan cevapta insana nasıl hitap ediliyor?",
+          "answer": "Acınacak hâlde bir insan olduğu hatırlatılarak uyarıcı bir şekilde hitap ediliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Buradaki uyarının duygusal etkisi nasıldır?",
+          "answer": "Sert ama merhametli bir ikaz gibidir; insanı sarsıp uyandırmayı amaçlar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre seçim yapacak olan kimdir?",
+          "answer": "Yol ayrımında duran insanın kendisidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İki yoldan birini seçmenin önemi neden büyüktür?",
+          "answer": "Çünkü seçilen yol insanın mutluluğunu ya da bedbahtlığını belirler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Daha önce yapılan karşılaştırmalara değinilmesi neyi gösterir?",
+          "answer": "Bu meselenin geçici değil, üzerinde tekrar tekrar düşünülmesi gereken önemli bir konu olduğunu gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin bu kısmı daha çok bilgi vermeyi mi, yoksa tercih yaptırmayı mı hedefliyor?",
+          "answer": "Tercih yaptırmayı hedefliyor; insanı doğru yolu seçmeye çağırıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Sapkınlığı savunan kişinin konuşmaya başlaması hangi durumda oluyor?",
+          "answer": "Dayanacağı bir delil bulamayınca ve cevap veremez hâle gelince konuşuyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu durum, onun görüşleri hakkında nasıl bir ipucu verir?",
+          "answer": "Görüşlerinin sağlam temele dayanmadığını gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Onun sunduğu hayat anlayışında insan daha çok neye yaslanıyor?",
+          "answer": "Allah’a değil, kendi nefsine ve dünya isteklerine yaslanıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "“Hürriyet” burada nasıl bir anlamda kullanılıyor?",
+          "answer": "Sınırsız serbestlik ve başıboş yaşama isteği anlamında kullanılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Kur’an adına verilen cevapta niçin doğrudan “onu dinleme” deniliyor?",
+          "answer": "Çünkü o sözlerin insanı yanlış yola sürükleme gücü olduğu için açık bir uyarı yapılıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Dinlenmemesi istenen tarafın sözüne uymanın sonucu nasıl tasvir ediliyor?",
+          "answer": "İnsanın ruhunu, aklını ve kalbini ürpertecek kadar ağır bir kayıp doğuracağı söyleniyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde yol benzetmesi kullanılmasının amacı ne olabilir?",
+          "answer": "Hayatın bir tercih meselesi olduğunu ve her tercihin insanı başka bir sonuca götürdüğünü anlatmak olabilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Kur’an’ın gösterdiği yolun bir özelliği, yalnızca doğru olması mı, yoksa başka bir yönü de var mı?",
+          "answer": "Doğru olmasının yanında insana huzur ve mutluluk getiren bir yönü de var.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Parçanın sonunda “gör, anla” tarzı yönlendirme neyi amaçlar?",
+          "answer": "Okuyan kişinin sadece işitmekle kalmayıp düşünerek kavramasını amaçlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümde genç bir öğrenciye verilecek temel öğüt nedir?",
+          "answer": "Her parlak görünen söze kanmamalı, hayat yolunu Kur’an’ın ölçüsüne göre seçmelidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Dalalet temsilcisi, insanları etkilerken daha çok kalıcı hakikati mi, geçici dünya tarafını mı öne çıkarıyor?",
+          "answer": "Geçici dünya tarafını öne çıkarıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Hayatın lezzetini sadece dünyaya bağlamak nasıl bir eksikliktir?",
+          "answer": "İnsanın âhiret yönünü ve Allah ile bağını görmezden gelen eksik bir bakıştır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde “kendine güvenmek” neden eleştirilen anlayışlar arasında sayılıyor?",
+          "answer": "Çünkü insanın yalnız kendine dayanmasını doğru göstermeye çalışan sapkın düşüncenin parçası olarak sunuluyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an adına verilen cevapta insanın önce hangi yönü hedef alınıyor: bedeni mi, aklı mı?",
+          "answer": "Önce aklı hedef alınıyor; düşünmesi ve kendine gelmesi isteniyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "“Hasaret” kelimesi burada hangi anlam çerçevesinde kullanılmıştır?",
+          "answer": "Büyük kayıp, zarar ve pişmanlık doğuran sonuç anlamında kullanılmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre insan seçim yapmak zorunda mıdır?",
+          "answer": "Evet, çünkü önünde açıkça iki ayrı yol bulunduğu bildiriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Bu iki yol arasında tarafsız bir alan varmış gibi mi anlatılıyor, yoksa net bir ayrım mı var?",
+          "answer": "Net bir ayrım var; biri yanlış, biri doğru yol olarak sunuluyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Sapkın yolun insan için süslü gösterilmesi neye dayanıyor?",
+          "answer": "Dünya zevki, serbestlik ve görünürdeki ilerleme gibi cazip şeylere dayanıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Kur’an yolunun övülmesi sadece bir duygu ifadesi midir, yoksa önceki karşılaştırmalara da dayandırılıyor mu?",
+          "answer": "Önceki karşılaştırmalara da dayandırılıyor; yani sadece duygu değil, değerlendirme de var.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçaya göre gerçek akıllılık hangi tarafta yer almaktır?",
+          "answer": "Kur’an’ın gösterdiği mutlu ve doğru tarafta yer almaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Sapkın tarafın sözcüsü, dünya saadeti ile Allah’ı tanımamak arasında nasıl bir bağ kuruyor?",
+          "answer": "Dünya mutluluğunun, Allah’ı tanımadan da elde edilebileceğini hatta bununla bağlantılı olduğunu sanıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu düşüncede âhirete karşı nasıl bir tavır vardır?",
+          "answer": "Âhireti geri plana atan, hatta önemsemeyen bir tavır vardır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İnsanları bu yola yöneltmesinde hangi manevi düşman etkili gösteriliyor?",
+          "answer": "Şeytan etkili gösteriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Kur’an adına verilen cevapta kullanılan hitap, insana değer vermekle birlikte hangi gerçeği de hatırlatıyor?",
+          "answer": "Yanlış yola düşerse acınacak duruma gelebileceğini hatırlatıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "“Onu dinlersen” uyarısı, insanın hangi özelliğine işaret eder?",
+          "answer": "İnsanın duyduğu sözlerden etkilenebilen ve seçim yapabilen bir varlık olduğuna işaret eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Büyük zarar ifadesinin ruh, akıl ve kalple birlikte anılması neyi gösterir?",
+          "answer": "Yanlış yolun sadece bir alana değil, insanın bütün iç dünyasına zarar verdiğini gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İki yolun birinin dalalet ehline, diğerinin Kur’an’a bağlanması nasıl bir karşıtlık kuruyor?",
+          "answer": "Biri sapma ve mutsuzluk tarafını, diğeri hidayet ve saadet tarafını temsil eden açık bir karşıtlık kuruyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Daha önceki eserlerde bu konunun işlendiğinin söylenmesi okuyucuya ne kazandırır?",
+          "answer": "Meselenin ciddi, köklü ve delilli biçimde ele alındığını düşündürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu pasajda asıl amaç, dalalet tarafını tanıtmak mı, yoksa ona karşı korumak mıdır?",
+          "answer": "Ona karşı korumaktır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p57:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümden sonra karşılaştırma yapılacağının haber verilmesi, metnin akışı hakkında ne gösterir?",
+          "answer": "Önce temel uyarının yapıldığını, ardından iki yolun sonuçlarının açıklanacağını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

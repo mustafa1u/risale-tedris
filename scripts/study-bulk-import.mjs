@@ -13,12 +13,6 @@ import {
 const DEFAULT_SOURCE_ROOT =
   "C:\\Users\\musta\\OneDrive\\Belgeler\\Risale 10\\hazirlayici\\build\\divider_runs";
 const DEFAULT_ASSETS_ROOT = "assets";
-const BOOK_SLUGS = new Set([
-  "ayetul-kubra",
-  "kucuk-sozler",
-  "meyve-risalesi",
-  "tabiat-risalesi"
-]);
 const GRADE_FROM_SOURCE = new Map([
   ["2sinif", "2-sinif"],
   ["5sinif", "5-sinif"],
@@ -27,9 +21,9 @@ const GRADE_FROM_SOURCE = new Map([
   ["lisans", "lisans"]
 ]);
 const SOURCE_FILE_PATTERN =
-  /^SveC_(2sinif|5sinif|8sinif|11sinif|lisans)_(ayetul-kubra|kucuk-sozler|meyve-risalesi|tabiat-risalesi)-(p\d+)-.*\.txt$/i;
+  /^SveC_(2sinif|5sinif|8sinif|11sinif|lisans)_([a-z0-9]+(?:-[a-z0-9]+)*)-(p\d+)-.*\.txt$/i;
 const SELECTION_FILE_PATTERN =
-  /^SEL_(2sinif|5sinif|8sinif|11sinif|lisans)_(ayetul-kubra|kucuk-sozler|meyve-risalesi|tabiat-risalesi)-(p\d+)-.*\.json$/i;
+  /^SEL_(2sinif|5sinif|8sinif|11sinif|lisans)_([a-z0-9]+(?:-[a-z0-9]+)*)-(p\d+)-.*\.json$/i;
 const PRESELECTOR_PROJECT = join("scripts", "study-preselector", "StudyPreselector.csproj");
 const PRESELECTION_COUNT = 24;
 
@@ -74,6 +68,15 @@ async function listFilesRecursive(directory) {
   return files;
 }
 
+async function listDirectories(directory) {
+  if (!existsSync(directory)) {
+    return [];
+  }
+
+  const entries = await readdir(directory, { withFileTypes: true });
+  return entries.filter((entry) => entry.isDirectory()).map((entry) => entry.name);
+}
+
 function parseSourceFilePath(filePath) {
   const fileName = basename(filePath);
   const selectionMatch = fileName.match(SELECTION_FILE_PATTERN);
@@ -84,7 +87,7 @@ function parseSourceFilePath(filePath) {
 
   const [, sourceGrade, bookSlug, partNo] = match;
   const gradeSlug = GRADE_FROM_SOURCE.get(sourceGrade.toLowerCase());
-  if (!gradeSlug || !BOOK_SLUGS.has(bookSlug)) {
+  if (!gradeSlug) {
     return null;
   }
 
@@ -150,11 +153,12 @@ export async function planBulkStudyImports({
   assetsRoot = DEFAULT_ASSETS_ROOT
 } = {}) {
   const allFiles = await listFilesRecursive(sourceRoot);
+  const bookSlugs = new Set(await listDirectories(assetsRoot));
   const grouped = new Map();
 
   for (const filePath of allFiles) {
     const parsed = parseSourceFilePath(filePath);
-    if (!parsed) {
+    if (!parsed || !bookSlugs.has(parsed.bookSlug)) {
       continue;
     }
 
@@ -176,7 +180,7 @@ export async function planBulkStudyImports({
 
   const bookPartNos = new Map();
   const bookLabels = new Map();
-  for (const bookSlug of BOOK_SLUGS) {
+  for (const bookSlug of bookSlugs) {
     bookPartNos.set(bookSlug, await listAssetPartNos(assetsRoot, bookSlug));
     bookLabels.set(bookSlug, await readPartLabels(assetsRoot, bookSlug));
   }

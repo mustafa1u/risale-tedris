@@ -1,0 +1,848 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:lisans:p22",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "lisans",
+  "partNo": "p22",
+  "partNumber": 22,
+  "title": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/lisans/SveC_lisans_24-soz-p22-yirmidorduncu-soz-ucuncu-dal-yecuc-mecuc-ve-sedd-rivayetlerinin-tevili.txt",
+  "sourceRevision": "b86216215fd840972deccc699745c65feb9d758ddde552d9ed8b96743b325d81",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada Ye’cüc ve Me’cüc hakkında ayrıntılı açıklama niçin yapılmamıştır?",
+          "answer": "Çünkü bu konunun başka bir risalede daha geniş biçimde ele alındığı belirtilmiş, burada ise sadece kısa bir hatırlatma ile yetinilmiştir.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde geçmişte hangi toplulukların insan düzenini altüst ettiğine işaret edilmektedir?",
+          "answer": "Mançur ve Moğol adıyla bilinen bazı topluluklara işaret edilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Çin Seddi’nin yapılması hangi sebeple ilişkilendirilmektedir?",
+          "answer": "Bu yıkıcı toplulukların baskı ve saldırılarına karşı korunma ihtiyacıyla ilişkilendirilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Rivayetlere göre bu topluluklar kıyamete yakın hangi tarz bir düşünceyle yeniden etkili olacaktır?",
+          "answer": "Düzeni bozan, kargaşayı yaygınlaştıran bir anlayışla yeniden ortaya çıkacakları ifade edilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Geçmişteki zararları ile gelecekteki zararları arasında nasıl bir benzerlik kuruluyor?",
+          "answer": "Her iki dönemde de insan topluluklarının düzenini ve medenî yapısını sarsmaları bakımından benzerlik kuruluyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İnkârcıların bu meselede ileri sürdüğü temel itiraz nedir?",
+          "answer": "Böyle şaşırtıcı işler yapmış ve yapacak denilen toplulukların şimdi ortada görünmediğini söyleyerek rivayeti sorguluyorlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu itiraza cevap verirken hangi tabiat örneği kullanılmaktadır?",
+          "answer": "Belirli zamanlarda çok çoğalan çekirge benzetmesi kullanılmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p22:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Çekirge örneğiyle hangi düşünce açıklanmak isteniyor?",
+          "answer": "Bir topluluğun büyük kalabalık hâli ortadan kalksa da, onun özü az sayıda birey içinde gizli kalabilir ve zamanı gelince yeniden çoğalabilir düşüncesi açıklanıyor.",
+          "wordCount": 23,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "“Hakikatlerinin sınırlı fertlerde saklanması” ifadesi ne manaya gelir?",
+          "answer": "O topluluğun tamamen yok olmayıp izlerinin ve devamını sağlayacak unsurunun az sayıda insan içinde sürmesi manasına gelir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Yeniden ortaya çıkışın kendi başına değil de hangi şartla olduğu vurgulanıyor?",
+          "answer": "İlâhî izin ve takdir ile olacağı vurgulanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde “mevsimi gelince” denmesi neyi anlatır?",
+          "answer": "Her şeyin belirli bir vakit ve şart altında yeniden ortaya çıkabileceğini anlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Gelecekteki karışıklığın sebebi olarak aynı şeyin birebir geri gelmesi mi, yoksa farklı bir etken mi gösteriliyor?",
+          "answer": "Esas topluluk aynı kalmakla beraber onları harekete geçiren etkenin farklı bir biçimde ortaya çıkacağı belirtiliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde Ye’cüc ve Me’cüc meselesi hangi iki zaman dilimi üzerinden anlatılmaktadır?",
+          "answer": "Hem geçmişteki büyük yıkımlar hem de kıyamete yakın dönemde yaşanacak karışıklıklar üzerinden anlatılmaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Geçmişe dair verilen tarihî örnekler neyi desteklemek için kullanılıyor?",
+          "answer": "Rivayet edilen toplulukların tarihte benzer biçimde etkili olduklarını göstermek için kullanılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu toplulukların eski dönemdeki etkisi toplum hayatı açısından nasıl tasvir ediliyor?",
+          "answer": "İnsan topluluklarının düzenini bozup büyük karışıklıklara yol açan bir güç olarak tasvir ediliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kıyamete yakın zamandaki etkileri hangi alan üzerinde yoğunlaşacaktır?",
+          "answer": "İnsanlığın kurduğu medenî düzen üzerinde yıkıcı bir tesir meydana getirecekleri söylenmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Metindeki anlatıma göre bu yıkım sadece askerî bir saldırı şeklinde mi düşünülmelidir?",
+          "answer": "Hayır, düzensizlik ve anarşi fikriyle bağlantılı daha geniş bir bozulma olarak düşünülmelidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Şüphecilerin “Neredeler?” sorusu aslında hangi varsayıma dayanıyor?",
+          "answer": "Böyle büyük etkisi olacak bir topluluğun her zaman açıkça görünür olması gerektiği varsayımına dayanıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Verilen cevap bu varsayımı nasıl boşa çıkarıyor?",
+          "answer": "Bazı gerçeklerin bir süre gizli ve sınırlı hâlde kalıp uygun zamanda yeniden yayılabileceğini anlatarak boşa çıkarıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p22:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Çekirge benzetmesinde mevsim değişimi niçin önemlidir?",
+          "answer": "Çünkü görünür çoğalmanın sürekli değil, belirli dönemlerde gerçekleştiğini göstermektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Milliyetlerinin incelmesi ama kopmaması” düşüncesinden nasıl bir sonuç çıkarılır?",
+          "answer": "Topluluğun etkisi zayıflasa bile tamamen sona ermediği, devam eden bir çekirdeğin bulunduğu anlaşılır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Aynı topluluğun gelecekte tekrar sahneye çıkacağı belirtilirken hangi kayıt konuluyor?",
+          "answer": "Bunun Allah’ın izniyle ve zamanı geldiğinde olacağı kaydı konuluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "“Muharrikleri başka bir surette tezahür eder” sözü geleceğe dair nasıl bir uyarı taşır?",
+          "answer": "Gelecekteki hareketlerin eskiye benzese de aynı dış görünüş ve aynı yöntemle olmayabileceği uyarısını taşır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda yer alan ifade, gayb konusunda nasıl bir edep dersi verir?",
+          "answer": "Son bilgiyi yalnız Allah’ın bildiğini hatırlatarak insanın haddini bilmesini ve kesin konuşmamasını öğretir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajın ana fikri tek cümleyle nasıl ifade edilebilir?",
+          "answer": "Geçmişte yıkıcı rol oynamış bazı toplulukların izleri kaybolmuş görünse de, ilâhî takdirle ileride yeniden büyük karışıklıklara sebep olabilecekleri anlatılmaktadır.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde Ye’cüc ve Me’cüc doğrudan uzun uzun tarif edilmek yerine nasıl bir yöntem izleniyor?",
+          "answer": "Önceden yazılmış açıklamalara atıf yapılıp burada kısa, öz ve örnekli bir açıklama yapılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Geçmişteki örnekler neden özellikle sosyal düzeni bozan topluluklar üzerinden veriliyor?",
+          "answer": "Çünkü bu örnekler, kıyamete yakın zamanda beklenen büyük kargaşayı daha anlaşılır kılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Çin Seddi’ne yapılan gönderme, anlatımı nasıl güçlendiriyor?",
+          "answer": "Tehlikenin tarihî bakımdan somut ve ciddi olduğunu göstererek söylenenleri destekliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Rivayetlerde geleceğe dair nasıl bir toplumsal tehdit öne çıkarılıyor?",
+          "answer": "Medeniyeti sarsacak yaygın düzensizlik ve yıkıcılık öne çıkarılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Karşı tarafın itirazı daha çok bilgi eksikliğinden mi, yoksa gözle görünenle hüküm vermekten mi kaynaklanıyor?",
+          "answer": "Daha çok yalnız görünen duruma bakarak hüküm vermekten kaynaklanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Cevapta kullanılan benzetme hangi düşünme becerisini harekete geçiriyor?",
+          "answer": "Gözlenen bir tabiat olayından hareketle görünmeyen bir tarihî ve toplumsal gerçeği kavrama becerisini harekete geçiriyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Az sayıdaki fertlerde saklı kalma düşüncesi, toplulukların devamı hakkında ne söyler?",
+          "answer": "Büyük kitleler dağılmış olsa da, onları yeniden canlandırabilecek bir özün korunabileceğini söyler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "“Aynı fesadın yeniden başlaması” ifadesi ne tür bir sürekliliğe işaret eder?",
+          "answer": "Bozgunculuğun biçimi değişse bile mahiyet bakımından tekrar edebileceğine işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Geçmişteki “herc ü merc” ile gelecekteki “medeniyeti altüst etme” arasında nasıl bir ilişki vardır?",
+          "answer": "İkisi de büyük çaplı toplumsal sarsıntıyı anlatır; biri tarihî örnek, diğeri ise gelecek uyarısıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Gelecekteki hareketin itici gücünün farklı olması neyi düşündürür?",
+          "answer": "Eski topluluğun yeni şartlara uygun başka fikirler, araçlar veya sebeplerle harekete geçebileceğini düşündürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümlede gaybın Allah’a ait olduğunun söylenmesi, önceki açıklamaları nasıl sınırlar?",
+          "answer": "Açıklamaların kesinlik iddiası taşımadığını, nihai bilginin Allah katında olduğunu bildirerek onları ölçülü hâle getirir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu parçada hangi iki unsur birlikte ele alınıyor: tarihî olay mı, geleceğe dair rivayet mi?",
+          "answer": "İkisi birlikte ele alınıyor; tarihî örneklerden hareketle geleceğe dair rivayet açıklanıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Geçmişte insan topluluklarını sarsan gruplar hangi adlarla anılıyor?",
+          "answer": "Mançur ve Moğol isimleriyle anılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu grupların etkisi neden sıradan bir olay gibi değil de büyük bir sarsıntı gibi sunuluyor?",
+          "answer": "Çünkü insan topluluklarının düzenini kökten bozdukları ifade ediliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kıyamete yakın zamana dair anlatımda hangi fikir öne çıkıyor?",
+          "answer": "Anarşi ve bozgunculuk fikri öne çıkıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu bozgunculuğun hedefi bireylerden çok hangi yapı olarak gösteriliyor?",
+          "answer": "İnsanlığın ortak medenî düzeni hedef alınmış olarak gösteriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Şüphe duyanların sorusu hangi noktada düğümleniyor?",
+          "answer": "Böyle etkili olacak toplulukların şu anda neden görünmediği noktasında düğümleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Cevapta bu soruya doğrudan tarihî delil mi getiriliyor, yoksa temsilli bir açıklama mı yapılıyor?",
+          "answer": "Temsilli bir açıklama yapılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p22:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Çekirge misali görünürlük ve gizlilik hakkında ne öğretiyor?",
+          "answer": "Bazen çok belirgin olan bir şeyin başka zamanlarda geri planda ve sınırlı şekilde kalabileceğini öğretiyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Sınırlı fertlerde saklı kalma düşüncesi topluluğun tamamen yok olduğunu mu gösterir?",
+          "answer": "Hayır, tamamen yok olmadığını; çekirdek hâlinde devam ettiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu toplulukların yeniden çoğalması hangi iradeye bağlanıyor?",
+          "answer": "Allah’ın emrine ve iznine bağlanıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Aynı topluluğun döneceği söylenirken neden “harekete geçiricileri farklı olur” deniyor?",
+          "answer": "Çünkü gelecekteki olayların eski kalıpların aynısı olmayıp farklı sebepler ve araçlarla gelişebileceğine dikkat çekiliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu pasajdan hareketle görünürde kaybolmuş bir tehlike hakkında nasıl bir ders çıkarılabilir?",
+          "answer": "Bir tehlike ortadan kalkmış gibi görünse de, kökü bütünüyle kesilmemişse uygun şartlarda yeniden ortaya çıkabileceği anlaşılır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Ye’cüc ve Me’cüc meselesi anlatılırken neden kısa tutulmuş bir ifade tercih edilmiştir?",
+          "answer": "Çünkü ayrıntının başka bir yerde bulunduğu belirtilmiş, burada temel nokta hatırlatılmak istenmiştir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Geçmişteki yıkıcı toplulukların zikredilmesi neye hazırlık mahiyetindedir?",
+          "answer": "Kıyamete yakın dönemde benzer bir bozgunculuğun mümkün olduğunu anlamaya hazırlık mahiyetindedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Çin Seddi örneği, geçmişteki tehdidin niteliği hakkında ne gösterir?",
+          "answer": "Tehdidin geniş çaplı ve ciddi olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Gelecekte meydana geleceği söylenen karışıklık hangi düşünce iklimiyle bağlantılıdır?",
+          "answer": "Düzeni çözen ve kargaşayı besleyen bir anlayışla bağlantılıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Burada anlatılan yıkımın yalnız bir milletin sorunu olmadığı nasıl anlaşılıyor?",
+          "answer": "İnsan medeniyetinin tamamını sarsacağının söylenmesinden anlaşılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İtiraz edenlerin bakışı niçin eksik kalmaktadır?",
+          "answer": "Çünkü onlar bir hakikatin gizli şekilde devam edebileceğini hesaba katmadan sadece mevcut görünüşe bakıyorlar.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Çekirge benzetmesinde sayı çokluğu ile zaman ilişkisi nasıl kuruluyor?",
+          "answer": "Bazı dönemlerde aşırı çoğalma olurken başka dönemlerde bu yoğunluk görünmez hâle geliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Hakikatlerinin az fertte saklanması, biyolojik değil kavramsal olarak neyi anlatır?",
+          "answer": "Bir topluluğun kimliği, eğilimi veya bozguncu potansiyelinin küçük bir çekirdek içinde korunmasını anlatır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metin, gelecekteki tekrarın geçmişin basit bir kopyası olacağını mı söylüyor?",
+          "answer": "Hayır, özde benzer ama harekete geçirici sebepleri bakımından farklı bir görünüm taşıyacağını söylüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "“Mevsimi gelince” ifadesi sosyal olayları nasıl anlamamız gerektiğine işaret eder?",
+          "answer": "Sosyal olayların da belirli şartlar olgunlaştığında ortaya çıktığına işaret eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Aynı taifenin yeniden ortaya çıkması ifadesi, devamlılık fikrini hangi yönden vurgular?",
+          "answer": "Tarih sahnesinden çekilmiş gibi görünseler bile köklerinin büsbütün silinmediği yönünden vurgular.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Son kısımdaki Arapça ifade, insan bilgisinin sınırını nasıl çizer?",
+          "answer": "Gayb alanında kesin ve kuşatıcı bilginin yalnız Allah’a ait olduğunu bildirerek insan yorumunun sınırlı olduğunu gösterir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümdeki açıklamanın konusu hangi kıyamet alâmetleri etrafında dönmektedir?",
+          "answer": "Ye’cüc ve Me’cüc ile onlarla ilgili sed meselesi etrafında dönmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde ayrıntıya girmeden verilen temel bilgi nedir?",
+          "answer": "Geçmişte büyük yıkımlar yapmış toplulukların, kıyamete yakın zamanda yeniden bozguncu bir tarzda etkili olabilecekleri bilgisidir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Geçmişteki bu toplulukların insanlık üzerindeki tesiri nasıl özetlenebilir?",
+          "answer": "Toplumsal düzeni altüst eden, büyük sarsıntılar meydana getiren bir tesir olarak özetlenebilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Çin Seddi’nin anılması hangi tarihî gerçeğe işaret eder?",
+          "answer": "Bu toplulukların baskısının savunma amacıyla büyük tedbirler aldıracak kadar güçlü olduğuna işaret eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Geleceğe dair rivayetlerde bozulmanın hangi yönü özellikle öne çıkıyor?",
+          "answer": "Medenî hayatı çökertecek ölçüde kargaşa üretmesi özellikle öne çıkıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Şüphe edenlerin sorusu hangi mantıkla sorulmaktadır?",
+          "answer": "Böyle büyük rol biçilen bir topluluğun bugün açıkça seçilememesi sebebiyle bunun mümkün olmadığını düşünme mantığıyla sorulmaktadır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Verilen cevapta neden tabiatta görülen mevsimsel bir örneğe başvurulmuş olabilir?",
+          "answer": "Gizli kalma ve yeniden çoğalma fikrini herkesin anlayabileceği somut bir örnekle açıklamak için başvurulmuş olabilir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p22:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Çekirge örneğinde “hakikat” ile “kesret” arasında nasıl bir bağ kuruluyor?",
+          "answer": "Öz varlığın az sayıda sürmesi, uygun zamanda ise bunun çok büyük kalabalığa dönüşmesi arasında bağ kuruluyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu anlatıma göre bir topluluğun görünürde az olması neden yanıltıcı olabilir?",
+          "answer": "Çünkü az sayıdaki bireyler içinde daha sonra genişleyebilecek bir devamlılık saklı olabilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Yeniden zuhur edecek olanların geçmiştekilerle aynı sayılmasının sebebi nedir?",
+          "answer": "Bozguncu öz ve topluluk devamlılığının korunmuş kabul edilmesidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Muharriklerin başka surette görünmesi ifadesi çağlara göre neyin değişebileceğini düşündürür?",
+          "answer": "Olayları başlatan fikirlerin, şartların ve yöntemlerin çağlara göre değişebileceğini düşündürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p22:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda gayb bilgisinin Allah’a havale edilmesi, bu tür rivayetleri okurken nasıl bir denge kazandırır?",
+          "answer": "Hem rivayetleri bütünüyle inkâr etmemeyi hem de ayrıntılarda kesinlik iddiasına kapılmamayı sağlayan bir denge kazandırır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -18,6 +18,7 @@ describe("UI dictionary contract", () => {
     const requiredKeys = [
       "home:",
       "hero:",
+      "featureLabels:",
       "primaryCta:",
       "secondaryCta:",
       "gradeLine:",
@@ -49,6 +50,19 @@ describe("UI dictionary contract", () => {
     assert.doesNotMatch(source, /School grade ranges: 2nd-grade level/);
     assert.doesNotMatch(source, /Buradaki sınıf ifadeleri okul sınıflarına göre yaklaşık seviye aralığını gösterir/);
     assert.doesNotMatch(source, /These labels refer to regular school grade ranges/);
+    assert.match(source, /lede:\s*""/);
+    assert.doesNotMatch(source, /Bu kadar farklı seviyeyi tek sistemde nasıl yönetiyorlar\?/);
+    assert.match(source, /primaryCta:\s*"Nasıl Oluyor\?"/);
+    for (const label of [
+      "2. sınıf",
+      "5. sınıf",
+      "8. sınıf",
+      "11. Sınıf",
+      "6 farklı soru seti",
+      "Otomatik hazırlama"
+    ]) {
+      assert.equal(source.includes(`"${label}"`), true, `Expected Turkish hero label: ${label}`);
+    }
   });
 
   it("keeps the desktop editor note out of the homepage hero contract", async () => {
@@ -175,6 +189,7 @@ describe("UI dictionary contract", () => {
     const requiredKeys = [
       "triggers:",
       "placeholders:",
+      "levels:",
       "modes:",
       "scopes:",
       "books:",
@@ -199,6 +214,11 @@ describe("UI dictionary contract", () => {
     assert.match(source, /global:\s*"Search all books"/);
     assert.match(source, /all:\s*"Tüm kelimeler"/);
     assert.match(source, /all:\s*"All words"/);
+    assert.match(source, /basic:\s*"Basit"/);
+    assert.match(source, /advanced:\s*"Gelişmiş"/);
+    assert.match(source, /boolean:\s*"Mantıksal arama"/);
+    assert.match(source, /proximity:\s*"Yakınlık"/);
+    assert.doesNotMatch(source, /modes:\s*{[^}]*wildcard:/s);
     assert.match(source, /partNo:\s*"Parça numaraları"/);
     assert.match(source, /partNo:\s*"Part numbers"/);
     assert.match(source, /selectAll:\s*"Tümünü seç"/);

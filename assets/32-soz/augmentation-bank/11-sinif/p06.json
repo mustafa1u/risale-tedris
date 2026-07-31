@@ -1,0 +1,638 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:11-sinif:p06",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "11-sinif",
+  "partNo": "p06",
+  "partNumber": 6,
+  "title": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/11-sinif/SveC_11sinif_32-soz-p06-1-mevkif-hasiye-i-beden-tertibi-damarlar-ve-kanin-vazifeleri.txt",
+  "sourceRevision": "40926db84b57b65ebe2e40e935d7c96675ef16a96f6ce52a34884204e055b860",
+  "setCount": 6,
+  "questionCount": 52,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde insan bedeni genel olarak neye benzetilmiştir?",
+          "answer": "Düzenli işleyen büyük bir şehre benzetilmiştir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Damarların bir bölümü hangi haberleşme görevini üstlenmiş gibi anlatılır?",
+          "answer": "Uzak noktalar arasında bilgi taşıyan iletişim hatları gibi gösterilmiştir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Damarların diğer bölümü hangi işleve benzetilir?",
+          "answer": "Hayat için gerekli sıvıyı taşıyan su boruları gibi tasvir edilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p06:11-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Kanda kaç çeşit yuvarlak yapıdan söz edilir ve bunlar nelerdir?",
+          "answer": "İki çeşit anlatılır: kırmızı olanlar ve beyaz olanlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Kırmızı olanların temel görevi nedir?",
+          "answer": "Hücrelere besin ulaştırmaktır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p06:11-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu besin ulaştırma işi hangi benzetmeyle açıklanır?",
+          "answer": "Ticaret yapan ve erzak dağıtan görevlilere benzetilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p06:11-sinif:S1Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Beyaz olanların sayıca durumu kırmızılara göre nasıldır?",
+          "answer": "Daha az oldukları belirtilir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p06:11-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Beyaz olanların vazifesi nedir?",
+          "answer": "Hastalık ve zararlı etkilere karşı savunma yapmaktır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p06:11-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Savunmaya geçtiklerinde nasıl bir hareket tarzı sergiledikleri anlatılır?",
+          "answer": "Dönerek ve çok süratli biçimde harekete geçtikleri ifade edilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p06:11-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Kanın bütün olarak iki ana görevi nedir?",
+          "answer": "Hücrelerdeki yıpranmayı onarmak ve atıkları toplayıp bedeni temizlemektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Metinde iki çeşit damardan nasıl söz edilir?",
+          "answer": "Biri temiz kanı taşıyan, diğeri ise kirli kanı toplayan yol olarak anlatılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Kirli kanı taşıyan damarların getirdiği yer hangi işle bağlantılıdır?",
+          "answer": "Nefesle ilgili merkeze, yani solunumla bağlantılı yere götürmekle ilişkilidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p06:11-sinif:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Kırmızı kan hücrelerinin vazifesi ile beyaz kan hücrelerinin vazifesi arasındaki temel fark nedir?",
+          "answer": "Biri besleme ve ulaştırma işi görürken diğeri koruma ve savunma görevi yapar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Beyaz hücrelerin az sayıda olmasına rağmen önemli görülmesinin sebebi nedir?",
+          "answer": "Sayıları az olsa da bedenin güvenliğini sağlayan kritik bir görev üstlenmeleridir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Kanın hücrelerdeki bozulmayı düzeltmesi ne tür bir ihtiyacı karşılar?",
+          "answer": "Bedenin canlılığını ve düzenini sürdürme ihtiyacını karşılar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Kanın atıkları toplaması beden için neden önemlidir?",
+          "answer": "Biriken zararlı artıklar temizlenmezse düzen bozulur ve sağlık zarar görür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Temiz kanı taşıyan damarlarla kirli kanı taşıyan damarların ayrılması neyi gösterir?",
+          "answer": "İşlerin karışmadan, belirli bir düzen içinde yürütüldüğünü gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde kirli kanın nefesin geldiği yere götürülmesi hangi sürece işaret eder?",
+          "answer": "Solunumla bağlantılı bir temizlenme ve yenilenme sürecine işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Savunma sırasında beyaz hücrelerin hızlı ve farklı bir hâl alması hangi anlama gelir?",
+          "answer": "Tehlike anında özel bir görev düzenine girdiklerini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Damarların bir kısmının iletişim ağına benzetilmesi hangi yönlerini öne çıkarır?",
+          "answer": "Bilgi ve bağlantı sağlama yönlerini öne çıkarır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Damarların diğer kısmının borulara benzetilmesi hangi işlevi açıklar?",
+          "answer": "Yaşamak için gerekli sıvıların taşınmasını açıklar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p06:11-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Kırmızı kan hücrelerinin hücrelere besin götürmesi bedenin hangi yönü için gereklidir?",
+          "answer": "Beslenme, canlılık ve faaliyetlerin sürmesi için gereklidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Beyaz kan hücrelerinin düşmana karşı asker gibi anlatılması hangi kavramı vurgular?",
+          "answer": "Korunma ve müdafaa kavramını vurgular.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Kanın yıpranan yerleri düzeltmesi ile artık maddeleri toplaması arasında nasıl bir ilişki vardır?",
+          "answer": "Biri yapıyı onarır, diğeri yapıyı kirden arındırır; ikisi birlikte bedenin sağlığını korur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Temiz ve kirli kan için ayrı yollar bulunması hangi anlayışla açıklanabilir?",
+          "answer": "Karışıklığı önleyen, ölçülü ve hikmetli bir yönetim anlayışıyla açıklanabilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Beyaz hücrelerin sayıca az olması onların değersiz olduğunu mu gösterir? Metne göre açıklayınız.",
+          "answer": "Hayır; görevleri savunma olduğu için az olmaları değerlerini düşürmez, aksine seçkin bir vazife taşıdıklarını gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde beden neden dağınık bir yapı olarak değil de şehir gibi ele alınır?",
+          "answer": "Çünkü her bölümün belli görevi, bağlantısı ve düzenli çalışması vardır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Damarların iki farklı benzetmeyle anlatılması, beden içindeki görev dağılımı hakkında ne söyler?",
+          "answer": "Aynı sistem içinde farklı ihtiyaçlara cevap veren çok yönlü görevler bulunduğunu söyler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kırmızı hücreler beden için hangi hizmeti görür?",
+          "answer": "Hücrelerin ihtiyaç duyduğu gıdayı ulaştırır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Beyaz hücreler hangi durumda öne çıkar?",
+          "answer": "Hastalık veya zararlı etken ortaya çıktığında öne çıkar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Kanın genel görevlerinden biri onarım ise, diğeri hangi alandadır?",
+          "answer": "Temizlik ve artıkların uzaklaştırılması alanındadır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Temiz kanı getiren damarlar ile kirli kanı taşıyan damarlar arasında nasıl bir iş bölümü vardır?",
+          "answer": "Biri faydalı maddeleri ulaştırır, diğeri kullanılmayan ve kirlenen kısmı toplar.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Kirli kanın solunumla ilgili yere taşınması bize neyi düşündürür?",
+          "answer": "Beden sistemlerinin birbirinden kopuk değil, birbirini tamamlayan biçimde çalıştığını düşündürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Parçaların birbirine bağlı vazifeleri hangi büyük özelliği ispatlar?",
+          "answer": "Bedende yüksek bir düzen ve hikmet bulunduğunu ispatlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde insan bedeni için kullanılan şehir benzetmesi, organ ve yapılar arasındaki ilişkiyi nasıl açıklar?",
+          "answer": "Hepsinin tek merkezli bir düzende, birbirini tamamlayarak çalıştığını açıklar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Damarların iletişim araçlarına benzetilmesi, onların sadece sıvı taşımadığını düşündürür mü? Açıklayınız.",
+          "answer": "Evet; bu benzetme, beden içinde haber ve bağlantı sağlayan yönlerinin de bulunduğunu düşündürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Kırmızı kan hücrelerinin görevi neden “taşıma” kavramıyla özetlenebilir?",
+          "answer": "Çünkü onların işi gerekli gıdayı ilgili yerlere ulaştırmaktır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Beyaz kan hücrelerinin görevi neden “koruma” kavramıyla özetlenebilir?",
+          "answer": "Çünkü onlar bedene zarar veren durumlara karşı mücadele eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Kırmızı ve beyaz hücrelerin farklı görevleri olması neyi gösterir?",
+          "answer": "Beden içinde ihtisaslaşmış, yani özel vazifeli yapılar bulunduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Kanın tamir görevi hangi durumun varlığını ima eder?",
+          "answer": "Hücrelerde zamanla yıpranma ve bozulma olabildiğini ima eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Kanın enkazı toplaması ifadesi günlük hayatta hangi işe benzetilebilir?",
+          "answer": "Bir şehrin çöp ve atıklarını toplayan temizlik hizmetine benzetilebilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Temiz ve kirli kanın farklı yollardan taşınması neden önemlidir?",
+          "answer": "Böylece bedenin düzeni korunur ve görevler karışmadan yürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki anlatıma göre bedenin düzenli bir şehir gibi kurulmuş olması neye işaret eder?",
+          "answer": "Planlı, ölçülü ve maksatlı bir yaratılışa işaret eder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Damarların bir kısmı neden iletişim düzeneklerine benzetilmiş olabilir?",
+          "answer": "Bedenin içinde uzak noktalar arasında düzenli bağlantı sağladıkları için böyle benzetilmiş olabilir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Damarların diğer kısmının su borularına benzetilmesi hangi hayatî yönü öne çıkarır?",
+          "answer": "Kanın hayat taşıyan bir unsur olarak bedene dağıtılmasını öne çıkarır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p06:11-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Kırmızı hücrelerin hücrelere besin ulaştırması, onların beden içindeki hangi rolünü gösterir?",
+          "answer": "Yaşatıcı ve destekleyici rolünü gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Beyaz hücrelerin düşmana karşı koyması, onların hangi özelliğini öne çıkarır?",
+          "answer": "Koruyucu ve mücadeleci özelliğini öne çıkarır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Kanın iki ana görevinin hem onarım hem temizlik olması nasıl bir denge kurar?",
+          "answer": "Bir yandan bozulmayı düzeltir, diğer yandan biriken zararı uzaklaştırarak bütünlüğü korur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "İki çeşit damar anlatımı, bedenin işleyişinde hangi prensibi gösterir?",
+          "answer": "Düzenli ayırım ve yerli yerinde görev verme prensibini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Kirli kanın nefesle ilgili bölgeye götürülmesi hangi tamamlayıcı ilişkiyi gösterir?",
+          "answer": "Dolaşım ile solunumun birlikte çalıştığını gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metindeki örnekler sadece tıbbi bilgi değil, aynı zamanda hangi manevî sonuca çağırır?",
+          "answer": "Yaratılıştaki hikmeti fark edip Allah’ın kudretini düşünmeye çağırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p06:11-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajın tamamı bir cümleyle özetlenecek olsa nasıl özetlenir?",
+          "answer": "İnsan bedenindeki her unsur, görevli ve uyumlu bir sistem içinde yaratılmıştır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

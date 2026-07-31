@@ -1,4 +1,5 @@
 ---
+import { groupBooksBySlug } from "@/config/bookGroups";
 import { libraryIndex } from "@/data/library.generated";
 import { getUi, type Locale } from "@/i18n";
 import { getGradeLabel } from "@/i18n/libraryLabels";
@@ -7,6 +8,9 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 
 const { locale } = Astro.props as { locale: Locale };
 const text = getUi(locale);
+const bookGroups = groupBooksBySlug(libraryIndex.books, locale);
+const previousBooksLabel = locale === "tr" ? "Önceki kitaplar" : "Previous books";
+const nextBooksLabel = locale === "tr" ? "Sonraki kitaplar" : "Next books";
 ---
 
 <BaseLayout title={text.library.pageTitle} description={text.library.lede} locale={locale}>
@@ -23,25 +27,59 @@ const text = getUi(locale);
           {text.library.emptyManifestPrefix} <code>npm run manifest:generate</code> {text.library.emptyManifestSuffix}
         </div>
       ) : (
-        <div class="book-grid">
-          {libraryIndex.books.map((book) => (
-            <article class="book-card">
-              <div class="book-card__header">
-                <div>
-                  <h2 class="book-card__title">{book.title}</h2>
-                  <ul class="meta-list" aria-label={text.library.bookSummaryAria({ bookTitle: book.title })}>
-                    <li class="pill">{text.library.partCount({ count: book.partCount })}</li>
-                    {book.grades.map((grade) => (
-                      <li class="pill">{getGradeLabel(locale, grade.slug, grade.label)}</li>
-                    ))}
-                  </ul>
+        <div class="book-shelves">
+          {bookGroups.map((group) => (
+            <section class="book-shelf" id={group.id} aria-labelledby={`${group.id}-heading`} data-book-shelf>
+              <header class="book-shelf__header">
+                <h2 id={`${group.id}-heading`}>{group.label}</h2>
+                <div class="book-shelf__controls" aria-label={group.label}>
+                  <button type="button" data-book-shelf-previous aria-label={previousBooksLabel}>←</button>
+                  <button type="button" data-book-shelf-next aria-label={nextBooksLabel}>→</button>
                 </div>
-                <a class="button" href={localizedPath(locale, `/books/${book.slug}/`)}>{text.actions.open}</a>
+              </header>
+              <div class="book-shelf__viewport" data-book-shelf-viewport tabindex="0">
+                <div class="book-shelf__track">
+                  {group.books.map((book) => (
+                    <article class="book-card">
+                      <div class="book-card__header">
+                        <div>
+                          <h3 class="book-card__title">{book.title}</h3>
+                          <ul class="meta-list" aria-label={text.library.bookSummaryAria({ bookTitle: book.title })}>
+                            <li class="pill">{text.library.partCount({ count: book.partCount })}</li>
+                            {book.grades.map((grade) => (
+                              <li class="pill">{getGradeLabel(locale, grade.slug, grade.label)}</li>
+                            ))}
+                          </ul>
+                        </div>
+                        <a class="button" href={localizedPath(locale, `/books/${book.slug}/`)}>{text.actions.open}</a>
+                      </div>
+                    </article>
+                  ))}
+                </div>
               </div>
-            </article>
+            </section>
           ))}
         </div>
       )}
     </div>
   </section>
 </BaseLayout>
+
+<script>
+  document.querySelectorAll("[data-book-shelf]").forEach((shelf) => {
+    const viewport = shelf.querySelector("[data-book-shelf-viewport]");
+    if (!(viewport instanceof HTMLElement)) {
+      return;
+    }
+
+    const scroll = (direction: number) => {
+      viewport.scrollBy({
+        left: direction * Math.max(viewport.clientWidth * 0.82, 280),
+        behavior: "smooth"
+      });
+    };
+
+    shelf.querySelector("[data-book-shelf-previous]")?.addEventListener("click", () => scroll(-1));
+    shelf.querySelector("[data-book-shelf-next]")?.addEventListener("click", () => scroll(1));
+  });
+</script>

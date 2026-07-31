@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "11-soz:2-sinif:p12",
+  "bookSlug": "11-soz",
+  "bookTitle": "11. Söz",
+  "bookOrder": 4,
+  "gradeSlug": "2-sinif",
+  "partNo": "p12",
+  "partNumber": 12,
+  "title": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/11-soz/outputs/2-sinif/SveC_2sinif_11-soz-p12-hayatin-gayeleri-dokuz-emir-ilk-dort-emir.txt",
+  "sourceRevision": "ab31a85a02247c6186ff014d6d334117c9d34f8b67b549dae9557d2ce03b1400",
+  "setCount": 6,
+  "questionCount": 27,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İlk gayede insana verilen duygular ne için kullanılır?",
+          "answer": "Allah’ın verdiği nimetleri fark etmek ve şükretmek için.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci gayede insanın içindeki özellikler neye benzetiliyor?",
+          "answer": "Anahtara benzetiliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu anahtarlarla ne yapılır?",
+          "answer": "Allah’ın isimlerini tanımaya vesile olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p12:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü gayede insan hayatıyla neyi göstermelidir?",
+          "answer": "Allah’ın güzel sanatlarını ve ince eserlerini göstermelidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Dördüncü gayede insan neyi açıkça belli etmelidir?",
+          "answer": "Kulluğunu belli etmelidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci maddede nimetleri anlamaya yardım eden şey nedir?",
+          "answer": "İnsanın içindeki duygulardır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Nimetleri fark eden insanın yapması gereken güzel davranış nedir?",
+          "answer": "Şükretmektir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci maddede Allah’ı tanımaya yardımcı olan şey nedir?",
+          "answer": "İnsana verilen cihazlar ve özelliklerdir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü maddede insan, yaratılmışlar arasında nasıl bir iş yapar?",
+          "answer": "Allah’ın sanatını gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Dördüncü maddede insan kulluğunu hangi iki yolla bildirir?",
+          "answer": "Hâliyle ve diliyle bildirir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İlk dört gayeden biri olarak insan nimetlere karşı ne yapmalıdır?",
+          "answer": "Çokça şükretmelidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İlk dört gayeden biri olarak insan Allah’ı nasıl tanımaya çalışmalıdır?",
+          "answer": "Allah’ın isimleriyle tanımaya çalışmalıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "İlk dört gayeden biri olarak insanın hayatı başkalarına ne göstermelidir?",
+          "answer": "Allah’ın eserlerini göstermelidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İlk dört gayeden biri olarak insan Rabbi karşısında ne ilan etmelidir?",
+          "answer": "Kulluğunu ilan etmelidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci gayede insan nimetleri ne yapar gibi düşünülüyor?",
+          "answer": "Tartıp tanır gibi düşünülüyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Nimetleri tanımanın sonucu hangi güzel duyguya götürür?",
+          "answer": "Şükre götürür.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci gayede kalpte ve bedende bulunan özelliklerin görevi nedir?",
+          "answer": "Allah’ın isimlerini anlamaya yardımcı olmaktır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Üçüncü gayede insanın yaşamı bir gösterme işi yapıyorsa, neyi gösterir?",
+          "answer": "İlâhî sanatın güzelliğini gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Dördüncü gayeye göre insan sadece içinde mi kul olur, yoksa bunu belli de eder mi?",
+          "answer": "Belli de eder.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Dokuz gayenin ilkinde insan hangi nimetleri fark etmeye çalışır?",
+          "answer": "Allah’ın rahmetinden gelen nimetleri fark etmeye çalışır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci gayede “açmak” sözü neyi anlatır?",
+          "answer": "Allah’ın isimlerini anlamayı anlatır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Üçüncü gayede insanın güzel yaşaması niçin önemlidir?",
+          "answer": "Allah’ın sanatını göstermeye vesile olduğu için önemlidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Dördüncü gayede insanın dili ve hâli birlikte neyi anlatır?",
+          "answer": "Kul olduğunu anlatır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci gayenin sonunda insanın genel görevi ne olur?",
+          "answer": "Şükreden biri olur.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci gayede insan, Allah’ı doğrudan görmekle değil, ne ile tanımaya çalışır?",
+          "answer": "İsimleri ve verdiği özellikler ile tanımaya çalışır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Üçüncü gayede insanın üzerinde görülen güzellikler ve özellikler neyin işareti olur?",
+          "answer": "Allah’ın sanatının işareti olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p12:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Dördüncü gaye ibadetle nasıl ilişkilidir?",
+          "answer": "İbadet, kulluğu göstermenin bir yoludur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

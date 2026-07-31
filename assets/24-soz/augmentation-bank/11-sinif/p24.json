@@ -1,0 +1,732 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:11-sinif:p24",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "11-sinif",
+  "partNo": "p24",
+  "partNumber": 24,
+  "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/11-sinif/SveC_11sinif_24-soz-p24-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-surelerin-fazilet-rivayetlerine-itiraz-ve-sevabin-tezaufuyla-cevap.txt",
+  "sourceRevision": "c10c43836570866cb7639033d7b12f785382bcd692e2a41e82f09a6781845e50",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde, bazı kimseler hangi tür rivayetleri abartılı veya akla uzak görmektedir?",
+          "answer": "Amellerin sevabını ve bazı sûrelerin üstünlüğünü bildiren rivayetleri böyle görmektedirler.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu kimselerin özellikle dikkat çektiği sûreler hangileridir?",
+          "answer": "Fâtiha, İhlâs, Zilzâl, Kâfirûn ve Yâsîn sûreleri örnek verilmektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu itirazın temel gerekçesi nedir?",
+          "answer": "Kur’an’ın içinde bu sûreler zaten bulunduğu için, bir sûrenin bütün Kur’an kadar veya ona yakın fazilet taşımasının anlamsız olduğunu sanmaktadırlar.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde bu itiraza karşı sevap meselesi hangi ana düşünceyle açıklanıyor?",
+          "answer": "Kur’an harflerinin sevabının aynı ölçüde kalmadığı, Allah’ın lütfuyla kat kat artırıldığı düşüncesiyle açıklanıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Harflerin sevabı her zaman aynı mıdır, yoksa değişir mi?",
+          "answer": "Değişir; bazen az, bazen çok, bazen de çok daha fazla katlanır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Sevabın artmasına metinde hangi etkenler örnek gösteriliyor?",
+          "answer": "Okunan âyetin özelliği ve okunma zamanı gibi etkenler örnek gösteriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bazı gecelerde bir harfin sevabının çok yükselmesi hangi anlayışa bağlanmaktadır?",
+          "answer": "Mübarek vakitlerin bereketine ve ilahî ikrama bağlanmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre Kur’an’ın tamamı neden bazı sûrelerle tam denk sayılamaz?",
+          "answer": "Çünkü Kur’an’ın bütünü, sevabının katlanmasıyla birlikte çok geniş bir değere sahiptir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Buna rağmen bazı sûrelerle nasıl bir karşılaştırma yapılabileceği söyleniyor?",
+          "answer": "Harflerin temel sevabı esas alınırsa belli bir kıyas yapılabileceği ifade ediliyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu açıklamaya göre “bir sûre bütün Kur’an kadar sevap aldırır” sözü nasıl anlaşılmalıdır?",
+          "answer": "Bu, zahirde çelişki değil; sevabın katlanması ve belli bir ölçüye göre değerlendirilmesiyle anlaşılması gereken bir ifadedir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S1Q4"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde geçen örnek rivayetlerin ortak konusu nedir?",
+          "answer": "Bazı sûrelerin okunmasının çok büyük sevap kazandırmasıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Rivayetleri yanlış bulanların düşünce hatası metne göre hangi iki özellikle anlatılıyor?",
+          "answer": "İnsafsızlık ve dikkatsizlikle anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Cevap kısmında Kur’an harfleri için önce hangi temel esas konuluyor?",
+          "answer": "Her harfin başlı başına bir sevabı olduğu esası konuluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu temel sevap daha sonra nasıl bir sürece uğruyor?",
+          "answer": "Allah’ın fazlıyla çoğalıp bereketleniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre sevap artışı hep sınırlı bir miktarda mı kalır?",
+          "answer": "Hayır, çok farklı derecelerde yükselebilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Berat ve Kadir gibi özel gecelerin anılması neyi göstermektedir?",
+          "answer": "Zamanın faziletinin sevap miktarını etkileyebildiğini göstermektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "“Bir sûrenin sevabı çok yüksektir” ifadesi, metne göre Kur’an’ın değerini düşürür mü?",
+          "answer": "Hayır, aksine Kur’an’ın sevap bakımından ne kadar zengin olduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde “asıl sevap” ile “katlanmış sevap” arasında nasıl bir ayrım yapılıyor?",
+          "answer": "Temel değer ile ilahî lütufla artırılmış değer birbirinden ayrılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bu ayrım, sûrelerin faziletine dair rivayetleri anlamada niçin önemlidir?",
+          "answer": "Çünkü ancak bu ayrımla görünen çelişki çözülür ve rivayetler makul hale gelir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın ana mesajı bir cümleyle nasıl özetlenebilir?",
+          "answer": "Sûrelerin faziletine dair rivayetler, sevabın katlanması dikkate alınırsa abartı değil hikmetli bir hakikattir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde eleştirilen yaklaşım, dinî rivayetlere karşı nasıl bir tavır sergilemektedir?",
+          "answer": "Hemen inkâra yönelen ve derinliğine düşünmeyen bir tavır sergilemektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Fâtiha ve İhlâs gibi sûreler hakkında bildirilen büyük faziletler neyi gündeme getirmektedir?",
+          "answer": "Sevabın sadece sayı hesabıyla değil, ilahî lütufla da değerlendirilmesi gerektiğini gündeme getirmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Harf sevabının “sünbüllenmesi” benzetmesi neyi anlatır?",
+          "answer": "Küçük görünen bir amelin Allah katında çok büyük karşılık bulabileceğini anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde sevap artışının örneklerle kademeli verilmesi neyi hissettirmektedir?",
+          "answer": "Sevap çoğalmasının istisna değil, farklı dereceleri olan bir hakikat olduğunu hissettirmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Âyetü’l-Kürsî ve İhlâs sûresinin anılması hangi noktayı destekler?",
+          "answer": "Bazı bölümlerin sevap bakımından özel bir fazilete sahip olabildiği noktasını destekler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Kadir gecesine yapılan vurgu, ibadet hayatı açısından hangi sonuca götürür?",
+          "answer": "Mübarek zamanları değerlendirmek gerektiği sonucuna götürür.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metne göre Kur’an ile bazı sûreler arasındaki kıyas hangi durumda mümkün olabilir?",
+          "answer": "Sevabın çoğaltılmış hâli değil, temel ölçüsü dikkate alınırsa mümkün olabilir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Rivayetleri “manasız” görenlerin asıl gözden kaçırdığı nokta nedir?",
+          "answer": "Sevabın sabit değil, ilahî rahmetle artabilen bir gerçeklik olmasıdır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Bu parça öğrenciyi dinî metinleri anlamada nasıl bir yönteme çağırır?",
+          "answer": "Yüzeysel itiraz yerine dikkatli düşünmeye ve hikmeti araştırmaya çağırır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Metinden çıkarılacak ahlâkî ders nedir?",
+          "answer": "Allah’ın kelâmına hürmetle yaklaşmak ve sevabı küçük görmeyip samimiyetle ibadete sarılmaktır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde verilen örnek rivayetler hangi alanla ilgilidir?",
+          "answer": "Kur’an okumaya bağlı sevap ve bazı sûrelerin faziletiyle ilgilidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İtiraz edenler, bu rivayetlerde nasıl bir imkânsızlık görmektedir?",
+          "answer": "Bir parçanın, içinde bulunduğu bütün kadar faziletli gösterilmesini akla aykırı saymaktadırlar.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Metindeki cevapta ilk olarak hangi ölçü birimi öne çıkarılıyor?",
+          "answer": "Kur’an’ın harfleri üzerinden sevap hesabı öne çıkarılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Her harfin sevabı niçin aynı kalmamaktadır?",
+          "answer": "Çünkü ilahî ihsanla farklı oranlarda artırılmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Sevabın bazen çok yüksek sayılara ulaşması neyin göstergesidir?",
+          "answer": "Allah’ın rahmetinin genişliğinin ve ibadetin şartlara göre bereketlenmesinin göstergesidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Mübarek gecelerle ilgili örnekler, ibadetin yalnız fiille sınırlı olmadığını nasıl gösterir?",
+          "answer": "Zamanın da ibadetin değerini etkilediğini gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde Kur’an’ın tümünün bazı sûrelerle “muvazeneye gelmemesi” ne anlama gelir?",
+          "answer": "Bütünüyle Kur’an’ın, katlanmış sevap bakımından erişilmez bir üstünlüğe sahip olması demektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "“Asıl sevap” esas alındığında ne yapılabilmektedir?",
+          "answer": "Bazı sûrelerin bildirilen faziletleriyle ölçülü bir karşılaştırma kurulabilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu anlatımın amacı sadece matematiksel bir hesap yapmak mıdır?",
+          "answer": "Hayır, asıl amaç rivayetlerin hikmetini ve doğruluğunu göstermektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin savunduğu sonuca göre, bu rivayetlere nasıl yaklaşmak gerekir?",
+          "answer": "Onları aceleyle reddetmeden, sevabın manevi boyutunu dikkate alarak anlamaya çalışmak gerekir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada, amellerin sevabıyla ilgili rivayetlere yöneltilen eleştirinin özü nedir?",
+          "answer": "Bu rivayetlerin aşırı ve mantıksız bulunduğu iddia edilmektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Metin, bu eleştiriye cevap verirken sevabı hangi temel yapı üzerinden açıklıyor?",
+          "answer": "Harfler ve onların çoğalan karşılığı üzerinden açıklıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bir harfin sevabının kat kat artması, ilahiyat açısından neyi gösterir?",
+          "answer": "Sevabın yalnız insan hesabına göre değil, Allah’ın lütfuna göre verildiğini gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Sevabın artışında sadece metnin kendisi mi etkili, yoksa başka unsurlar da var mı?",
+          "answer": "Başka unsurlar da var; özellikle vakit ve özel zamanlar da etkilidir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Özel zamanların sevabı artırması, ibadet planlamasında nasıl bir bilinç kazandırır?",
+          "answer": "Kişiyi kıymetli vakitleri arayıp değerlendirmeye yöneltir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metindeki açıklamaya göre “Yâsîn on Kur’an kadar” gibi ifadeler nasıl anlaşılmalıdır?",
+          "answer": "Bunlar zahirî bir çelişki değil, sevabın katlanması çerçevesinde anlaşılması gereken fazilet bildirimleridir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Kur’an’ın bütünü ile bir sûrenin sevabı arasında doğrudan eşitlik kurulmamasının sebebi nedir?",
+          "answer": "Çünkü bütün Kur’an’ın toplam ve katlanmış sevabı çok daha geniş bir değere sahiptir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Buna rağmen niçin bazı sûreler için çok büyük sevap ifadeleri kullanılmaktadır?",
+          "answer": "Çünkü onların harfleri veya okunma hâlleri özel bereket taşımaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metnin üslûbundan, dinî ilimlerde nasıl bir düşünme tarzı önerildiği anlaşılır?",
+          "answer": "Hesaplı, dikkatli ve acele hüküm vermeyen bir düşünme tarzı önerildiği anlaşılır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan hareketle bir öğrenci Kur’an okumaya nasıl motive olabilir?",
+          "answer": "Az görünen bir okuyuşun bile büyük sevaplara vesile olabileceğini anlayarak daha istekli olabilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde hangi tür insanlar rivayetleri yanlış değerlendirmekle eleştiriliyor?",
+          "answer": "Adaletli düşünmeyen ve meselelere dikkatle bakmayan kişiler eleştiriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Parçaya göre sûre faziletleriyle ilgili rivayetler neden ilk bakışta zor anlaşılabilir?",
+          "answer": "Çünkü insanlar sevabı sabit ve dar bir ölçüyle düşünmektedirler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metin, sevabın artışını anlatırken nasıl bir manevi bakış açısı sunuyor?",
+          "answer": "Allah’ın kelâmındaki her harfin bereketlenebileceğini gösteren bir bakış açısı sunuyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Harf sevabının farklı derecelerde çoğalması, ibadetin değerini nasıl etkiler?",
+          "answer": "Küçük görülen bir ibadeti çok büyük karşılığa ulaştırabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Belli sûrelerin diğerlerine göre öne çıkarılması ne anlama gelir?",
+          "answer": "Bazı sûrelerin özel fazilet ve bereket taşıdığına işaret eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde mübarek gecelere yer verilmesi, Kur’an tilavetine hangi yönü kazandırır?",
+          "answer": "Kur’an okumayı zamanın kıymetiyle birlikte düşünme yönü kazandırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "“Kur’an bütünüyle karşılaştırılamaz” denirken hangi nokta korunmuş oluyor?",
+          "answer": "Kur’an’ın tamamının üstün ve kapsamlı değeri korunmuş oluyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "“Bazı sûrelerle karşılaştırma yapılabilir” denirken hangi şart aranıyor?",
+          "answer": "Sevabın çoğaltılmış tarafı değil, temel sevap ölçüsü esas alınıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p24:11-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu açıklamalar, rivayetlerde çelişki bulunduğu iddiasını nasıl etkiler?",
+          "answer": "Çelişki iddiasını zayıflatır; meseleye daha derin bakılması gerektiğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p24:11-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın vermek istediği genel eğitim mesajı nedir?",
+          "answer": "Dinî metinleri anlamada peşin hükümden kaçınmak ve Allah’ın rahmetinin genişliğini kavramaya çalışmaktır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

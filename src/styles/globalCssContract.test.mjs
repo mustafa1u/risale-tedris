@@ -33,6 +33,69 @@ function assertBlockIncludes(source, selector, snippets) {
 }
 
 describe("global UX CSS contract", () => {
+  it("caps shared page content at the expanded 1320px width", async () => {
+    const source = await readCssSource();
+
+    assertBlockIncludes(source, ".site-header__inner,\n.page-band__inner,\n.site-footer__inner", [
+      "width: min(1320px, calc(100% - 32px));",
+      "margin: 0 auto;"
+    ]);
+    assert.doesNotMatch(source, /1180px/);
+    assert.doesNotMatch(source, /width:\s*calc\(100% - 50px\);/);
+  });
+
+  it("collapses and then hides the separate theme settings control responsively", async () => {
+    const source = await readCssSource();
+
+    assertBlockIncludes(source, ".theme-nav-control", [
+      "min-height: 48px;",
+      "display: inline-flex;",
+      "gap: 9px;",
+      "border-radius: 50px;"
+    ]);
+    assert.match(
+      source,
+      /@media \(max-width: 72rem\) \{[\s\S]*?\.home-search__trigger span,[\s\S]*?\.theme-nav-control__label\s*\{[\s\S]*?clip-path:\s*inset\(50%\);/
+    );
+    assert.match(
+      source,
+      /@media \(max-width: 60rem\) \{[\s\S]*?\.theme-nav-control\s*\{[\s\S]*?display:\s*none;/
+    );
+  });
+
+  it("places the current desktop navigation marker at the header boundary", async () => {
+    const source = await readCssSource();
+
+    assert.match(
+      source,
+      /\.navbar\s*\{\s*height:\s*96px;\s*display:\s*flex;/
+    );
+    assertBlockIncludes(source, ".nav-link", [
+      "height: 96px;"
+    ]);
+    assertBlockIncludes(source, '.navbar .nav-link[aria-current="page"]', [
+      "color: var(--accent-strong);",
+      "box-shadow: inset 0 -3px 0 var(--accent);",
+      "text-decoration: none;"
+    ]);
+  });
+
+  it("renders the homepage feature summary as compact wrapping labels", async () => {
+    const source = await readCssSource();
+
+    assertBlockIncludes(source, ".home-hero__feature-labels", [
+      "display: flex;",
+      "flex-wrap: wrap;",
+      "gap: 8px;",
+      "list-style: none;"
+    ]);
+    assertBlockIncludes(source, ".home-hero__feature-labels li", [
+      "border-radius: 999px;",
+      "font-size: 0.82rem;",
+      "font-weight: 700;"
+    ]);
+  });
+
   it("switches between compact and desktop primary navigation at 60rem", async () => {
     const source = await readCssSource();
 
@@ -209,6 +272,33 @@ describe("global UX CSS contract", () => {
     assertBlockIncludes(source, ".book-card__header .button", ["flex: 0 0 auto;", "white-space: nowrap;"]);
   });
 
+  it("supports grouped, horizontally sliding book shelves", async () => {
+    const source = await readCssSource();
+
+    assertBlockIncludes(source, ".book-shelves", ["display: grid;", "gap: 42px;"]);
+    assertBlockIncludes(source, ".book-shelf__viewport", [
+      "overflow-x: auto;",
+      "scroll-snap-type: inline mandatory;"
+    ]);
+    assertBlockIncludes(source, ".book-shelf__track", [
+      "display: flex;",
+      "width: max-content;"
+    ]);
+    assertBlockIncludes(source, ".book-shelf .book-card", [
+      "flex: 0 0 auto;",
+      "scroll-snap-align: start;"
+    ]);
+    assertBlockIncludes(source, ".dropdown-submenu", [
+      "position: absolute;",
+      "opacity: 0;",
+      "visibility: hidden;"
+    ]);
+    assertBlockIncludes(source, ".dropdown-group:hover > .dropdown-submenu,\n.dropdown-group:focus-within > .dropdown-submenu", [
+      "opacity: 1;",
+      "visibility: visible;"
+    ]);
+  });
+
   it("lets longer school-range filter labels fit narrow toolbars", async () => {
     const source = await readCssSource();
 
@@ -241,7 +331,7 @@ describe("global UX CSS contract", () => {
 
     assert.match(
       authoritativeLandingStyles,
-      /\.home-hero__inner\s*\{[^}]*column-gap:\s*clamp\(1\.6rem, 2\.9vw, 2\.75rem\);[^}]*\}[\s\S]*?\.home-hero__books\s*\{[^}]*transform:\s*translate\(0, 8%\);[^}]*\}/
+      /\.home-hero__inner\s*\{[^}]*column-gap:\s*clamp\(1\.6rem, 2\.9vw, 2\.75rem\);[^}]*padding-inline:\s*0;[^}]*\}[\s\S]*?\.home-hero__books\s*\{[^}]*transform:\s*translate\(0, 8%\);[^}]*background-color:\s*var\(--surface-muted\);[^}]*\}/
     );
     assert.match(
       authoritativeLandingStyles,

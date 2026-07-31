@@ -1,0 +1,957 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:2-sinif:p55",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "2-sinif",
+  "partNo": "p55",
+  "partNumber": 55,
+  "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/2-sinif/SveC_2sinif_32-soz-p55-3-mevkif-2-nokta-1-mebhas-insanin-batini-sahifeleri-ve-kulli-aynalar.txt",
+  "sourceRevision": "29c4681eeaa88ec6150dc9d4500c995f875157daf0613b531d548bffea5ff139",
+  "setCount": 6,
+  "questionCount": 79,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İnsan hangi yönleriyle pek çok güzel İlâhî ismi gösterir?",
+          "answer": "Ruh, kalb, akıl, hayat ve ince duygularıyla gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde Cennet neye benzetiliyor?",
+          "answer": "Bir çiçeğe benzetiliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Huri topluluğu neye benzetiliyor?",
+          "answer": "O da bir çiçeğe benzetiliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Yeryüzü için hangi benzetme yapılıyor?",
+          "answer": "Bir çiçek gibi anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bahar için nasıl bir benzetme var?",
+          "answer": "Bahar da bir çiçek gibi gösteriliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Gökyüzü neye benzetiliyor?",
+          "answer": "Bir çiçeğe benzetiliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Yıldızlar gökyüzündeki bu benzetmede ne oluyor?",
+          "answer": "O çiçeğin süslü işlemeleri gibi oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Güneş hangi varlığa benzetiliyor?",
+          "answer": "Bir çiçeğe benzetiliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Güneş ışığındaki renkler neye benzetiliyor?",
+          "answer": "O çiçeğin boyalarına benzetiliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Âlem ile insan arasında nasıl bir benzerlik kuruluyor?",
+          "answer": "Âlem büyük bir insan gibi, insan da küçük bir âlem gibi anlatılıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Hangi topluluklar güzel birer kişi gibi düzenlenmiş gösteriliyor?",
+          "answer": "Huriler, ruhanîler, melekler, cinler ve insanlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu varlıklar neyi gösteren aynalar oluyor?",
+          "answer": "Allah’ın isimlerine, güzelliğine, mükemmelliğine, rahmetine ve sevgisine ayna oluyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S1Q11"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Bu varlıklar Allah’ın hangi yönlerine doğru şahit sayılıyor?",
+          "answer": "Güzelliğine, kemaline, rahmetine ve muhabbetine.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S1Q11"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Metnin sonundaki önemli sonuç nedir?",
+          "answer": "Gerçek kemal yalnız Allah’ın birliğinin dairesindedir; onun dışında sanılan kemal, gerçek kemal değildir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "İnsan sadece bedeniyle mi, yoksa başka yönleriyle de İlâhî isimleri gösterir?",
+          "answer": "Başka yönleriyle de gösterir; ruhu, kalbi ve aklıyla da gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "İnsanla ilgili örnek verilen isimlerden üç tanesi hangileridir?",
+          "answer": "Hayy, Kayyum ve Muhyî.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Cennet, bahar ve yeryüzünün ortak benzetmesi nedir?",
+          "answer": "Hepsi çiçek gibi anlatılır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Gökyüzü çiçek gibi düşünülünce yıldızlar onun hangi kısmına benzer?",
+          "answer": "Süslerine ve parlak işlemelerine benzer.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Güneşin içindeki renkler neyi anlamamıza yardım eder?",
+          "answer": "Güneşin de güzel ve süslü bir yaratılış taşıdığını anlamamıza yardım eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "“Âlem büyük insan, insan küçük âlem” sözü bize ne anlatır?",
+          "answer": "İnsanla kâinat arasında benzerlik bulunduğunu anlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Huriler, melekler, cinler ve insanlar nasıl yaratılmış olarak anlatılıyor?",
+          "answer": "Düzenli, ölçülü ve güzel şekilde yaratılmış olarak anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu toplulukların hem hepsi birlikte hem de her bir ferdi ne yapar?",
+          "answer": "Allah’ın isimlerini gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bir varlığın ayna olması ne demektir?",
+          "answer": "Allah’ın bazı güzel sıfatlarını yansıtması demektir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu varlıklar hangi dört manaya ayna oluyor?",
+          "answer": "Cemal, kemal, rahmet ve muhabbete.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Bu varlıklar aynı zamanda neyin işareti sayılıyor?",
+          "answer": "O güzellik ve mükemmelliğin delili ve belirtisi sayılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün bu mükemmelliklerin bulunduğu daire hangisidir?",
+          "answer": "Allah’ın birlik dairesidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Birlik dairesi dışında düşünülen mükemmellik için ne söyleniyor?",
+          "answer": "Onun gerçek mükemmellik olmadığı söyleniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S2Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metne göre insanın içinde Allah’ın isimlerini göstermeye yardım eden görünmeyen taraflar nelerdir?",
+          "answer": "Ruh, kalb, akıl ve ince duygularıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu anlatımda insanın hayatı ne yapıyor?",
+          "answer": "Güzel İlâhî isimleri göstermeye vesile oluyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Cennetin çiçeğe benzetilmesi onun hangi yönünü düşündürür?",
+          "answer": "Güzellik ve süs yönünü düşündürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Baharın çiçek gibi anlatılması bize neyi hissettirir?",
+          "answer": "Canlılık, güzellik ve yenilenmeyi hissettirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Yeryüzünün çiçek gibi söylenmesi neyi vurgular?",
+          "answer": "Onun da güzel ve sanatlı yaratıldığını vurgular.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Gökyüzündeki yıldızların süs gibi anlatılması neyi gösterir?",
+          "answer": "Sema’nın düzenli ve güzel bir eser olduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Güneşteki renklerin boya gibi düşünülmesi hangi özelliği öne çıkarır?",
+          "answer": "Güzellik ve sanat özelliğini öne çıkarır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Koca âlemin büyük insan gibi anlatılmasının amacı nedir?",
+          "answer": "Kâinatta da insan gibi düzen ve anlam bulunduğunu göstermektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İnsan neden küçük âlem gibi söyleniyor?",
+          "answer": "Çünkü onda da birçok özellik ve farklı yönler bir arada bulunuyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Hurilerden insanlara kadar sayılan toplulukların ortak görevi nedir?",
+          "answer": "Allah’ın isimlerini göstermektir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Bu varlıklar sadece isimleri mi gösteriyor, yoksa başka bir şeye daha delil oluyor mu?",
+          "answer": "Başka şeye de delil oluyor; Allah’ın cemaline, kemaline, rahmetine ve muhabbetine de işaret ediyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "“Doğru şahit” gibi anlatılmaları neyi bildirir?",
+          "answer": "Gösterdikleri hakikatin güvenilir olduğunu bildirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Son cümlede çocuklara verilebilecek ana ders nedir?",
+          "answer": "Gerçek güzellik ve mükemmellik Allah’tandır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde insanın hangi iç tarafları anılıyor?",
+          "answer": "Ruh, kalb ve akıl tarafları anılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan hangi yönüyle canlılıkla ilgili İlâhî isimleri okutur?",
+          "answer": "Hayatıyla ve içindeki latif duygularla okutur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Cennet ve huri topluluğu hangi ortak örnekle anlatılıyor?",
+          "answer": "İkisi de çiçek örneğiyle anlatılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Yeryüzü ve bahar arasında bu metinde hangi benzerlik kuruluyor?",
+          "answer": "İkisi de çiçek gibi gösteriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Sema neden çiçek gibi düşünülüyor?",
+          "answer": "Çünkü yıldızlarla süslü, güzel bir görüntü taşıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Yıldızlar sema için nasıl bir görev görüyor?",
+          "answer": "Süs ve nakış gibi bir görünüş veriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Güneşteki yedi renk neyi anlatmak için kullanılıyor?",
+          "answer": "Güneşin de sanatlı ve güzel yaratıldığını anlatmak için.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Âlem ile insan arasındaki ilişki nasıl kuruluyor?",
+          "answer": "Biri büyük, diğeri küçük örnek gibi kuruluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Hangi topluluklar tek tek güzel bir şahıs gibi kabul ediliyor?",
+          "answer": "Huriler, ruhanîler, melekler, cinler ve insanlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu varlıkların her biri niçin ayna sayılıyor?",
+          "answer": "Çünkü Allah’ın isimlerini ve güzel sıfatlarını yansıtıyorlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Onların şahitliği hangi konular üzerinedir?",
+          "answer": "Cemal, kemal, rahmet ve muhabbet üzerinedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Onlar aynı zamanda neyin belirtisi oluyor?",
+          "answer": "Allah’taki güzellik, mükemmellik, rahmet ve sevginin işareti oluyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S4Q11"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Metnin verdiği son hüküm nedir?",
+          "answer": "Allah’ın birliği dışında düşünülen üstünlük ve mükemmellik gerçek değildir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "İnsanın hangi manevi tarafları burada öne çıkarılıyor?",
+          "answer": "Ruhu, kalbi, aklı, hayatı ve latif yönleri.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu manevi taraflar neyi yapar?",
+          "answer": "Kutsal ve nurlu İlâhî isimleri gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Cennet için kullanılan benzetme basitçe nedir?",
+          "answer": "Çiçek benzetmesidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Huri topluluğu neden çiçek gibi anlatılmış olabilir?",
+          "answer": "Güzel ve zarif olduklarını anlatmak için.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Yeryüzü ve baharın çiçek gibi anlatılması ortak olarak neyi düşündürür?",
+          "answer": "İkisinin de güzel, canlı ve sanatlı olduğunu düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Sema çiçek olursa yıldızlar ne olur?",
+          "answer": "Onun parlak süsleri olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Güneş çiçek olursa renkleri ne olur?",
+          "answer": "Onun renkli boyaları olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "“Âlem büyük bir insan” sözü hangi fikri öğretir?",
+          "answer": "Kâinatın da anlamlı ve düzenli yaratıldığını öğretir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "“İnsan küçük bir âlem” sözü hangi fikri öğretir?",
+          "answer": "İnsanda da birçok özellik toplandığını öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Melekler, cinler ve insanlar neyi göstermek bakımından benzerdir?",
+          "answer": "Allah’ın isimlerini göstermek bakımından benzerdir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Her bir ferdin tek başına da görevli olması ne demektir?",
+          "answer": "Tek bir varlığın bile Allah’ı tanıtmaya yeterli işaretler taşıması demektir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu varlıkların ayna olmasıyla şahit olması arasında nasıl bir bağ vardır?",
+          "answer": "Yansıttıkları şeylere aynı zamanda delil de olurlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Metnin sonunda çocukça sade bir sonuç nasıl söylenebilir?",
+          "answer": "Gerçek güzellik ve iyilik Allah’a bağlıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İnsanın sadece dışı değil, hangi iç yönleri de önemlidir?",
+          "answer": "Ruhu, kalbi, aklı ve ince duyguları önemlidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iç yönler hangi tür isimleri bildirir?",
+          "answer": "Nurlu ve kutsal İlâhî isimleri bildirir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde art arda çiçeğe benzetilen dört şey hangileridir?",
+          "answer": "Cennet, huri topluluğu, yeryüzü ve bahar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Gökyüzünün de çiçek sayılması onun hangi yönünü öne çıkarır?",
+          "answer": "Güzellik ve süslülük yönünü öne çıkarır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Yıldızlar ile gökyüzü arasındaki ilişki nasıl anlatılır?",
+          "answer": "Yıldızlar, gökyüzünün parlak süsleri gibi anlatılır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Güneşin ışığındaki renkler bize neyi hatırlatır?",
+          "answer": "Sanatlı ve renkli bir yaratılışı hatırlatır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Âlem neden büyük insan gibi söylenmiştir?",
+          "answer": "Çok yönlü ve düzenli olduğu için.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İnsan neden küçük âlem gibi söylenmiştir?",
+          "answer": "Çünkü birçok özelliği kendi içinde taşır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Huriler, ruhanîler, melekler, cinler ve insanlar nasıl bir ortak özellik taşır?",
+          "answer": "Hepsi güzelce yaratılmış ve düzenlenmiş varlıklardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu varlıklar Allah’ın isimlerini nasıl gösterir?",
+          "answer": "Hem topluluk hâlinde hem tek tek gösterirler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Onların Allah’a ayna olması hangi dört manayı kapsar?",
+          "answer": "Güzellik, mükemmellik, rahmet ve sevgiyi kapsar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "“İşaret” ve “belirti” olmaları ne anlama gelir?",
+          "answer": "Allah’ın bu sıfatlarının varlığını haber vermeleri anlamına gelir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p55:2-sinif:S6Q11"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p55:2-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "Son cümle bize yanlış bir düşünceye karşı hangi uyarıyı yapar?",
+          "answer": "Allah’ın birliği dışında sanılan üstünlüğün gerçek olmadığını söyler.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

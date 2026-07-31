@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:lisans:p01",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "lisans",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/lisans/SveC_lisans_33-soz-p01-otuzucuncu-soz-otuzuc-pencere-sual-ve-icmali-cevap.txt",
+  "sourceRevision": "06e8938e855dd98eda678a78bba131967adcbc7a028124f8a2852997a866458c",
+  "setCount": 6,
+  "questionCount": 24,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başındaki soruda hangi üç ana alanın kısa şekilde açıklanması istenmektedir?",
+          "answer": "Allah’ın varlığının zorunluluğu, birliği ve Rab olarak taşıdığı sıfatlar ile fiillerine insan ve kâinatın nasıl delil olduğu kısaca açıklanmak istenmektedir.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu açıklama talebinin ortaya çıkış sebebi nedir?",
+          "answer": "İnkarcıların itirazlarını ileri seviyeye taşımaları ve yalnız genel bir kudret ifadesiyle yetinilmesini yeterli görmemeleridir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Verilen cevapta daha önce yazılmış sözler için nasıl bir benzetme yapılmaktadır?",
+          "answer": "O eserlerin, Kur’ânî hakikatlerin çok geniş bir kaynağından alınmış sınırlı paylar olduğu ifade edilmektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Şimdilik nasıl bir yol izleneceği bildirilmektedir?",
+          "answer": "Bütün mesele ayrıntılı biçimde ele alınmayacak, yalnız o büyük hakikatten kısa işaretler sunulacaktır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Başlangıçtaki talep, insan ve kâinatın hangi yönünün ortaya konmasını istemektedir?",
+          "answer": "Allah’ın varlığına, birliğine ve Rabbânî niteliklerine nasıl delalet ettiklerinin özetlenmesini istemektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Soruda yer alan şikâyet, tartışmanın hangi noktasında düğümlendiğini gösterir?",
+          "answer": "Muhatapların artık sadece genel bir inanç cümlesiyle ikna olmadığını, daha açık deliller talep ettiğini gösterir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Cevapta otuz üç sözün hakikatle ilişkisi nasıl tasvir edilmektedir?",
+          "answer": "Hepsi çok geniş bir ilahî hakikat denizinden alınmış sınırlı yansımalar olarak takdim edilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kısa işaretlerle yetinileceğinin belirtilmesi, anlatımın hangi özelliğini gösterir?",
+          "answer": "Meselenin özlü ve özet bir yöntemle sunulacağını gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin girişindeki soru, hangi inanç esaslarının delillerini istemektedir?",
+          "answer": "Allah’ın varlığı, birliği ve Rab olarak sahip olduğu niteliklerin delillerini istemektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu delillerin özellikle insan ve kâinattan istenmesi neyi gösterir?",
+          "answer": "Hakikatin hem iç dünyada hem dış âlemde görülebileceğini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Sorudaki itirazcı tavır karşısında cevap veren taraf nasıl bir yol önermektedir?",
+          "answer": "Daha önce yazılmış delillere bakılmasını, ayrıca burada da kısa bir özet sunulmasını önermektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Otuz üç sözün “damla” gibi gösterilmesi, ilahî hakikatler hakkında ne düşündürür?",
+          "answer": "Asıl hakikatlerin çok geniş olduğunu, anlatılanların ise onlardan sınırlı örnekler sunduğunu düşündürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S3Q3"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Girişteki soru, iki ayetin işaret ettiği hangi hakikatlerin açıklanmasını istemektedir?",
+          "answer": "İlâhî varlığın kesinliği, birliği ve Rabbânî sıfatlarla fiillerin delillerinin açıklanmasını istemektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Açıklamanın “kısa ve öz” istenmesi, metnin hangi yönünü belirler?",
+          "answer": "Delillerin ayrıntıya boğulmadan ana hatlarıyla verileceğini belirler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İnkârcıların ileri gitmesi, cevapta nasıl bir öğretici tavrı gerekli kılmıştır?",
+          "answer": "Sadece genel ifade değil, delile dayalı ve akla hitap eden bir açıklama tavrını gerekli kılmıştır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Önceki sözlerin büyük denizden damlalar olarak görülmesi, bilgi bakımından nasıl bir alçak gönüllülük taşır?",
+          "answer": "Anlatılanların hakikatin tamamı değil, ondan alınmış sınırlı numuneler olduğu kabulünü taşır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S4Q3"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başındaki soru yalnız Allah’ın varlığını mı, yoksa başka hususları da mı gündeme getiriyor?",
+          "answer": "Sadece varlığını değil, birliğini ve Rabbânî sıfatlarla fiillerini de gündeme getiriyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Delil istenen iki saha hangileridir?",
+          "answer": "İnsan ve kâinattır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Cevabın girişinde mevcut eserler için nasıl bir yönlendirme yapılmaktadır?",
+          "answer": "Daha önce yazılmış otuz üç sözün bu soruya cevap verecek delilleri taşıdığına yönlendirme yapılmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Buna rağmen burada yeniden kısa bir açıklama yapılması neyi gösterir?",
+          "answer": "Konunun öneminden dolayı özet bir hatırlatmanın faydalı görüldüğünü gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S5Q3"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p01:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İlk soruda istenen açıklama, hangi iki ayetin işaret ettiği hakikatler çerçevesindedir?",
+          "answer": "Allah’ın varlığı, birliği ve Rabbânî sıfatlarla fiillerinin delilleri çerçevesindedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan ile kâinatın birlikte anılması nasıl bir delil bütünlüğü kurar?",
+          "answer": "Biri iç dünyadan, diğeri dış dünyadan gelen iki yönlü bir delil bütünlüğü kurar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İnkârcıların “yalnız söz yetmez” tavrına karşı verilen cevap nasıl bir yöntem önerir?",
+          "answer": "Yazılmış delillere müracaat etmeyi ve ayrıca burada da kısa işaretlerle meseleyi göstermeyi önerir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p01:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Hakikat denizinden damla örneği, okuyucuya nasıl bir bakış kazandırır?",
+          "answer": "Anlatılanların çok büyük bir hakikat alanının küçük fakat gerçek örnekleri olduğunu düşündürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p01:lisans:S6Q3"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:lisans:p04",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "lisans",
+  "partNo": "p04",
+  "partNumber": 4,
+  "title": "2. pencere: sikke-i ehadiyet",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/lisans/SveC_lisans_33-soz-p04-2-pencere-sikke-i-ehadiyet.txt",
+  "sourceRevision": "03cafd2ad241bbd4a9be1c7e4b0cc25c9dd7c131ff82c8fda09700b50356dfbb",
+  "setCount": 6,
+  "questionCount": 31,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p04:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Pencere’de eşyanın başlangıç hâli nasıl tasvir ediliyor?",
+          "answer": "Varlıkların belirli bir şekil ve kimlik kazanmadan önce pek çok ihtimal arasında kararsız ve belirsiz durumda bulunduğu anlatılıyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu belirsizlik hâlinden sonra varlıklara hangi özellik verildiği söyleniyor?",
+          "answer": "Onlara birden düzenli, hikmetli ve ayırt edici bir kimlik kazandırıldığı ifade ediliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p04:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İnsan yüzü bu bölümde neden özel bir misal olarak seçiliyor?",
+          "answer": "Çünkü yüz, hem insanı başkalarından ayıran işaretleri taşır hem de dış ve iç yönleriyle hikmetli bir donanım sergiler.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Her bir yüzde bulunan ayırıcı özellikler neye delil sayılıyor?",
+          "answer": "Her yüzün, tek ve benzersiz bir yaratmanın işareti olduğuna delil sayılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bütün yüzler birlikte düşünüldüğünde hangi sonuca ulaşılır?",
+          "answer": "Hepsinin ortak düzeni ve damgası, bütün varlıkların tek bir Yaratıcıya ait olduğunu gösterir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci Pencere’de inkârcıya yöneltilen meydan okuma neyi sorguluyor?",
+          "answer": "Bu eşsiz ve taklit edilemez mühürlerin başka bir sebebe nasıl bağlanabileceğini sorguluyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p04:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Pencere’nin ana fikri hangi delil üzerinden kuruluyor?",
+          "answer": "Varlıkların kimlik kazanmasındaki düzen ve özellikle insan yüzündeki eşsizliğin birliğe delil olması üzerinden kuruluyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde “yüz”ün dikkat çekici görülmesinin bir sebebi nedir?",
+          "answer": "Her insanda ortak yapı korunurken her birine ayrı bir ayırt edici görünüş verilmesidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Yüzdeki dış ve iç duyuların hikmetle yerleştirilmiş olması neyi destekler?",
+          "answer": "Kör tesadüfle değil, bilinçli ve ölçülü bir yaratmayla karşı karşıya olunduğunu destekler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Tek tek yüzlerin gösterdiği şey ile bütün yüzlerin beraber gösterdiği şey arasında nasıl bir fark vardır?",
+          "answer": "Her bir yüz ayrı ayrı Yaratıcının varlığına işaret ederken, hepsinin toplamındaki ortak mühür O’nun birliğini daha geniş ölçekte gösterir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "“Taklit edilemez” vurgusu hangi düşünceyi güçlendirir?",
+          "answer": "Bu eserlerin sıradan sebeplerle açıklanamayacağını ve özgün bir ilahî tasarruf taşıdığını güçlendirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p04:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Pencere’de varlıkların belirli bir şahsiyet kazanması hangi niteliklerle anlatılıyor?",
+          "answer": "Düzenli, ölçülü ve hikmetli bir tarzda özel bir kimlik verilmesiyle anlatılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan yüzündeki farklılıkların çokluğu neden önemli bir delil kabul ediliyor?",
+          "answer": "Aynı tür içinde sayısız bireyin birbirinden ayrılması, ince bir ilim ve irade bulunduğunu gösterdiği için önemlidir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Küçük bir yüzde çok sayıda ayırıcı işaret bulunması hangi sonuca götürür?",
+          "answer": "Dar bir alanda büyük hikmet ve özel bir plan bulunduğu sonucuna götürür.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bütün yüzlerin toplamında görülen ortak damga ne anlama gelir?",
+          "answer": "Bu sanatın parçalı ve bağımsız ellerden değil, tek bir Hâlıktan geldiğini anlatır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci Pencere’deki delil daha çok hangi yönü öne çıkarır: kudret mi, hikmet mi, yoksa rahmet mi?",
+          "answer": "En belirgin şekilde hikmet ve bilinçli düzen yönünü öne çıkarır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p04:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Pencere’de “imkân çokluğu” ile “neticenin düzeni” arasında nasıl bir bağ kuruluyor?",
+          "answer": "Sayısız ihtimal içinden tek ve uygun bir sonucun çıkması, seçen ve belirleyen bir iradeye delil sayılıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan yüzünün her fertte ayrı oluşu hangi sıfatı düşündürür?",
+          "answer": "Her şeyi bilen ve her birine özel ölçü veren bir ilim ve hikmeti düşündürür.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Yüzün hem görünür hem görünmeyen yönleriyle donatılması neden önemlidir?",
+          "answer": "Çünkü sadece dış şeklin değil, işleyiş ve iç düzenin de maksatlı biçimde kurulduğunu gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci Pencere’deki delil yalnız insana mı bakıyor?",
+          "answer": "Hayır, insan yüzü örnek veriliyor; fakat bundan bütün varlıklardaki özel kimliklendirmeye geçiliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Toplu hâlde bütün yüzlerin ortaya koyduğu mühür ne bakımdan daha kapsamlıdır?",
+          "answer": "Tek tek örneklerden öte, türün tamamında aynı ilahî tasarrufun sürdüğünü göstermesi bakımından daha kapsamlıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p04:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Pencere’de eşyanın “şekilsiz” durumdan “belirli” duruma geçmesi hangi aklî soruyu doğurur?",
+          "answer": "Bu seçimin ve düzenlemenin kim tarafından yapıldığı sorusunu doğurur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan yüzünde yer alan ayırıcı işaretler niçin rastgeleliğe karşı delil kabul edilir?",
+          "answer": "Çünkü her birinde düzenli bir farklılık vardır ve bu, gelişi güzel oluşla bağdaşmaz.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Yüzlerin çokluğu delili zayıflatır mı, güçlendirir mi?\tNeden?",
+          "answer": "Güçlendirir; çünkü çok sayıda örnekte aynı hikmetli düzenin görülmesi delili pekiştirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci Pencere’de “mühür” benzetmesi ne anlatmak için kullanılıyor?",
+          "answer": "Eser üzerindeki özel işaretin sahibini tanıtmasını anlatmak için kullanılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Bu pencereye göre her bir yüz ayrı bir delil midir, yoksa ancak hepsi birlikte mi delil olur?",
+          "answer": "Her biri başlı başına delildir; hepsi birlikte ise daha büyük ve parlak bir delil olur.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p04:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "İkinci Pencere’de kimlik kazanma süreci niçin vahdete delil sayılıyor?",
+          "answer": "Çünkü sayısız ihtimal arasından her varlığa uygun ve özel bir suret verilmesi, tek elden çıkan bir idareyi gösteriyor.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İnsan yüzünde bulunan ayırt edici çizgiler sadece fizikî farklılık mı ifade eder?",
+          "answer": "Hayır, aynı zamanda hikmetli bir seçimi ve kişiye mahsus bir tanzimi ifade eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Yüzdeki duyuların yerli yerinde oluşu neyi düşündürür?",
+          "answer": "Gaye gözeten, bilen ve yanlış yapmayan bir düzenlemeyi düşündürür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bütün yüzlerin ortak bir damga taşıması hangi daha geniş sonuca kapı açar?",
+          "answer": "Sadece insanın değil, bütün varlıkların aynı ilahî sahiplik altında bulunduğu sonucuna kapı açar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p04:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci Pencere’de inkârcıya sorulan soru hangi yöntemi kullanıyor?",
+          "answer": "Ona alternatif açıklama getirmesini isteyerek iddiasının tutarsızlığını ortaya koyma yöntemini kullanıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

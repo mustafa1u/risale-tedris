@@ -1,0 +1,733 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:lisans:p35",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "lisans",
+  "partNo": "p35",
+  "partNumber": 35,
+  "title": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/lisans/SveC_lisans_24-soz-p35-yirmidorduncu-soz-dorduncu-dal-4-nevi-amele-ve-kainattaki-ubudiyete-tatbiki.txt",
+  "sourceRevision": "402e2e73ccedb0d969f1eaa414a9f590a1f90db923fab386aa997bc7ac54e8df",
+  "setCount": 6,
+  "questionCount": 59,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p35:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü tür işçilerin öteki gruplardan ayrılan en belirgin tarafı nedir?",
+          "answer": "Yaptıkları işin mahiyetini, gayesini, kimin hesabına yapıldığını ve genel düzen içindeki yerini bilmeleridir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu dördüncü grubun diğer çalışanlara karşı hangi görevi vardır?",
+          "answer": "Onlar yalnız çalışmaz; ayrıca başkalarını yönlendirip gözetirler.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Bu gruptaki kişilerin ücretleri neye göre değişir?",
+          "answer": "Konumlarına ve sorumluluk derecelerine göre farklılaşır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Temsilde anlatılan düzen, kâinata nasıl uygulanmaktadır?",
+          "answer": "Kâinat bir saray gibi düşünülür; orada farklı varlık türleri ilahî hikmetle çeşitli kulluk görevlerinde çalıştırılır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Rabb’in bu varlıkları görevlendirmesi hangi sebeple açıklanır?",
+          "answer": "Bir eksikliği gidermek için değil; kudret, izzet, azamet ve terbiye edicilikle ilgili hikmetlerin görünmesi için açıklanır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde özellikle hangi dört varlık grubu bu görev düzenine dahil edilir?",
+          "answer": "Melekler, hayvanlar, cansızlar ve bitkilerle birlikte insanlar dahil edilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu dört grubun görevleri birbirinin aynı mıdır?",
+          "answer": "Hayır; her birine farklı türde kulluk vazifeleri verilmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Parçada Allah’ın her şeyin yaratıcısı olduğunun vurgulanması, ihtiyaç meselesi bakımından neyi gösterir?",
+          "answer": "Hiçbir şeye muhtaç olmadığını, görevlendirmenin ihtiyaçtan değil hikmetten kaynaklandığını gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Dördüncü grup işçilerin “niçin” sorusuna cevap verebilmesi niçin önemlidir?",
+          "answer": "Çünkü bu, onların şuurlu, düzeni kavrayan ve daha üst seviyede sorumluluk taşıyan bir grup olduğunu gösterir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın ana fikri nedir?",
+          "answer": "Kâinattaki farklı varlıkların, ilahî hikmetle birbirinden farklı kulluk ve hizmet görevlerine sevk edildiğidir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p35:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü sınıfta yer alan çalışanlar hangi bilgileri açıkça kavramış durumdadır?",
+          "answer": "Ne yaptıklarını, hangi amaçla yaptıklarını, kimin için yaptıklarını, başkalarının niçin çalıştığını ve düzen sahibinin maksadını kavramışlardır.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu bilgi düzeyi onların görev alanını nasıl etkiler?",
+          "answer": "Onlara idare ve denetim vazifesi de kazandırır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu sınıftaki farklı maaşların sebebi olarak ne gösterilir?",
+          "answer": "Mertebe ve rütbe farkı gösterilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Temsilden hakikate geçildiğinde “saray” benzetmesi neyi ifade eder?",
+          "answer": "İçinde birçok varlığın belli bir düzene göre görev aldığı kâinatı ifade eder.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Dünya ve âhiretin Rabbi hakkında burada hangi iki yön özellikle hatırlatılır?",
+          "answer": "Yücelik sahibi oluşu ve güzellik sahibi kurucu oluşu hatırlatılır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre görevlendirme neden bir zorunluluk veya eksiklikten doğmaz?",
+          "answer": "Çünkü her şeyi yaratan zaten O’dur; dışarıdan bir desteğe ihtiyacı yoktur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Buna rağmen varlıkların çalıştırılması hangi çerçevede anlam kazanır?",
+          "answer": "Rububiyetin ve ilahî hikmetlerin ortaya çıkması çerçevesinde anlam kazanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde sayılan varlık grupları arasında ortak nokta nedir?",
+          "answer": "Hepsi Allah’ın emri altında bir kulluk görevi taşır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Cansızlar ve bitkilerin de bu düzene dahil edilmesi neyi düşündürür?",
+          "answer": "Kulluk anlayışının sadece insan ve hayvanla sınırlı olmadığını, tüm varlık âlemini kapsadığını düşündürür.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümden çıkarılabilecek temel sonuç nedir?",
+          "answer": "Kâinatta görülen faaliyetler başıboş değil; ilahî maksatlarla belirlenmiş farklı kulluk biçimleridir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p35:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü çeşit işçilerin bilgi bakımından üstünlüğü hangi alanları kapsar?",
+          "answer": "İşin kendisini, amacını, hizmet edilen makamı, diğer çalışanların rolünü ve genel hedefi kapsar.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu üstünlük onların çalışma düzenindeki yerini nasıl belirler?",
+          "answer": "Onları sadece uygulayıcı değil, gözetici ve yönetici konumuna çıkarır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde maaş ile derece arasında nasıl bir ilişki kurulur?",
+          "answer": "Sorumluluk ve seviye arttıkça karşılık da ona göre şekillenir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Kâinat içinde görev verilen varlıkların çeşitliliği neyi gösterir?",
+          "answer": "İlahî düzenin tek tip değil, çok yönlü ve kuşatıcı olduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "“İhtiyaç için değil” ifadesi hangi yanlış anlayışı önlemektedir?",
+          "answer": "Allah’ın başkalarının yardımına muhtaç olduğu zannını önlemektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre görevlendirmenin arkasında ne vardır?",
+          "answer": "İzzet, azamet, rububiyet ve hikmetle ilgili manalar vardır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Burada insanlar diğer varlıklardan tamamen kopuk mu ele alınır?",
+          "answer": "Hayır; insanlar da diğer varlık türleriyle birlikte ilahî vazife düzeni içinde anılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Melekler, hayvanlar, bitkiler ve cansızların birlikte sayılması nasıl bir bütünlük fikri verir?",
+          "answer": "Tüm âlemin tek bir Rabbin terbiyesi altında birleştiği fikrini verir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "“Ayrı ayrı kulluk görevleri” ifadesi varlıklar hakkında nasıl bir anlayış oluşturur?",
+          "answer": "Her varlığın yaratılışına uygun özel bir hizmet biçimi bulunduğu anlayışını oluşturur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajı bir cümleyle özetlemek gerekirse ne söylenebilir?",
+          "answer": "Allah, hiçbir şeye muhtaç olmaksızın, kâinattaki varlıkları farklı hikmetlere dayalı kulluk görevleriyle vazifelendirmiştir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p35:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü grup işçilerin sahip olduğu bilinç seviyesini nasıl tarif edebiliriz?",
+          "answer": "Onlar hem kendi görevlerini hem de bütün işleyişin gayesini anlayan şuurlu çalışanlardır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu grubun başkaları üzerindeki yetkisi hangi iki kelimeyle ifade edilir?",
+          "answer": "Yönetme ve denetleme.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Ücret bakımından hepsinin aynı seviyede olmaması neye bağlanır?",
+          "answer": "Mertebe farkına bağlanır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Temsilin asıl maksadı sosyal bir iş bölümü anlatmak mıdır, yoksa daha geniş bir hakikate kapı açmak mıdır?",
+          "answer": "Daha geniş bir hakikate, yani kâinattaki ilahî görevlendirmeye kapı açmaktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Rabbü’l-âlemîn’in varlıkları çalıştırması hakkında hangi kayıt özellikle konur?",
+          "answer": "Bunun ihtiyaçtan kaynaklanmadığı özellikle belirtilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bu kayıt konduktan sonra hangi olumlu gerekçe öne çıkarılır?",
+          "answer": "İlâhî yücelik ve terbiye edicilikle ilgili hikmetlerin tecellisi öne çıkarılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Kâinat burada nasıl bir mekan benzetmesiyle düşünülür?",
+          "answer": "Büyük bir saray gibi düşünülür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde geçen dört çeşit varlık topluluğunun ortak görevi hangi başlık altında toplanır?",
+          "answer": "Kulluk ve ibadet vazifesi altında toplanır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Parçaya göre farklı türde vazife verilmesi adaletsizlik mi, yoksa hikmetin gereği mi olarak sunulur?",
+          "answer": "Hikmetin gereği olarak sunulur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p35:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü sınıf çalışanların “ne için” ve “kimin için” çalıştığını bilmesi onlara nasıl bir vasıf kazandırır?",
+          "answer": "Şuurlu sorumluluk ve yüksek görev bilinci kazandırır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu sınıfın diğer işçilerle ilişkisi sadece eşit düzeyde bir çalışma mıdır?",
+          "answer": "Hayır; onlarda rehberlik ve gözetim görevi de vardır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Onların karşılıklarının farklı olması hangi ilkeye dayanır?",
+          "answer": "Herkese bulunduğu dereceye uygun bir karşılık verilmesi ilkesine dayanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Temsildeki hükümdar benzetmesinin hakikatteki karşılığı kimdir?",
+          "answer": "Göklerin, yerin, dünyanın ve âhiretin sahibi olan Allah’tır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Metinde yaratmanın Allah’a ait olduğunun hatırlatılması hangi inancı pekiştirir?",
+          "answer": "Allah’ın mutlak kudret sahibi olduğu ve hiç kimseye muhtaç olmadığı inancını pekiştirir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Buna göre varlıkların istihdam edilmesi neyin göstergesidir?",
+          "answer": "İlâhî hikmetin ve rububiyet düzeninin göstergesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Burada görev verilen kesimler yalnız canlılarla mı sınırlıdır?",
+          "answer": "Hayır; cansızlar ve bitkiler de bu görevlendirmeye dahildir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Her gruba farklı kulluk vazifesi verilmesi yaratılışla nasıl ilişkilendirilebilir?",
+          "answer": "Her varlığın yapısına ve konumuna uygun bir hizmet biçimi bulunduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölüm, kâinattaki düzeni tesadüfle açıklayan bir anlayışla bağdaşır mı?",
+          "answer": "Bağdaşmaz; çünkü metin düzeni bilinçli bir ilahî görevlendirmeye bağlar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Öğrenci gözüyle bu parçadan alınacak en önemli ders nedir?",
+          "answer": "Kâinatta hiçbir varlığın boş ve maksatsız olmadığı, herkesin yaratılışına uygun bir kulluk vazifesi taşıdığıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p35:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü tür işçilerin bilgisinin kapsamı yalnız kendi görevleriyle mi sınırlıdır?",
+          "answer": "Hayır; hem kendi görevlerini hem başkalarının işini hem de genel maksadı bilirler.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu geniş bilgi onların konumunu nasıl yükseltir?",
+          "answer": "Onları diğerlerine göre başta bulunan ve gözeten bir seviyeye çıkarır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metinde maaşların basamaklı olması hangi kavramla açıklanır?",
+          "answer": "Rütbe farkıyla açıklanır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Ardından yapılan benzetmede kâinatın bir saraya benzetilmesi neyi anlatır?",
+          "answer": "Tertipli, amaçlı ve sahibinin iradesiyle işleyen büyük bir düzeni anlatır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Varlıkların görevlendirilmesinde “ihtiyaç” neden reddedilir?",
+          "answer": "Çünkü bütün varlıkları var eden Allah’tır; yarattıklarına dayanma mecburiyeti yoktur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "O halde görevlendirme hangi esasa dayandırılır?",
+          "answer": "İlahî izzet, büyüklük, terbiyecilik ve hikmete dayandırılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada zikredilen varlık toplulukları kaç ana grupta toplanır?",
+          "answer": "Dört ana grupta toplanır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu dört grup hangileridir?",
+          "answer": "Melekler, hayvanlar, cansızlarla bitkiler ve insanlardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu grupların hepsi tek bir görev mi yapar, yoksa farklı görevler mi üstlenir?",
+          "answer": "Farklı görevler üstlenir; her birinin kulluğu ayrı şekildedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p35:lisans:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p35:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajın vermek istediği bakış açısı nedir?",
+          "answer": "Kâinatı, her unsurunun Allah’ın hikmetiyle vazifelendirildiği anlamlı bir ibadet alanı olarak görme bakış açısıdır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

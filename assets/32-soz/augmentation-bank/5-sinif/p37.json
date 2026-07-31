@@ -1,0 +1,819 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:5-sinif:p37",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "5-sinif",
+  "partNo": "p37",
+  "partNumber": 37,
+  "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/5-sinif/SveC_5sinif_32-soz-p37-2-mevkif-3-maksad-3-remiz-1-huccet.txt",
+  "sourceRevision": "b38793da5a119ef1e5a18018fde311c32f04127b9670e90354221ce75ed8d4e9",
+  "setCount": 6,
+  "questionCount": 65,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde kâinattaki bütün güzellik ve olgunlukların asıl olarak neyi gösterdiği anlatılıyor?",
+          "answer": "Hepsinin, yüce olan Allah’ın kusursuz kemaline ve güzelliğine işaret ettiği anlatılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre evrendeki güzellikler neden tam ve sonsuz sayılmaz?",
+          "answer": "Çünkü onlar asıl kemalin kendisi değil, onun zayıf bir yansımasıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İlk delilde saray örneği niçin verilmiştir?",
+          "answer": "Güzel ve düzenli bir eserin, onu yapan ustanın maharetini gösterdiğini anlatmak için verilmiştir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Saraydaki ustalıktan hareketle hangi sıra kuruluyor?",
+          "answer": "Eserden fiile, fiilden ustaya, ustadan isim ve sıfatlara, oradan da zatın kemaline gidiliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Kâinattaki mükemmel işler, yapan hakkında hangi sonuca götürür?",
+          "answer": "Onları yapanın kusursuz fiillere sahip olduğunu gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Fiillerin kusursuzluğu, isimler hakkında neyi gösterir?",
+          "answer": "O fiillere uygun isimlerin de mükemmel olduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İsimlerin mükemmel olması, neden sıfatların da mükemmel olmasını gerektirir?",
+          "answer": "Çünkü isimler sıfatlardan çıktığı için, sıfat eksik olursa isim de tam olmaz.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Sıfatların kemali, daha derinde neye delil sayılıyor?",
+          "answer": "Zata ait iş ve hallere, yani zati yönlerin kemaline delil sayılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu zincirin sonunda hangi büyük sonuca varılıyor?",
+          "answer": "Her şeyin, sahibinin zatında yüce ve gerçek bir kemal bulunduğunu gösterdiği sonucuna varılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metinde geçen “nisbî kemal” nasıl anlaşılmalıdır?",
+          "answer": "Başkalarıyla karşılaştırılınca görülen, asıl ve kalıcı olmayan üstünlük gibi anlaşılmalıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Gerçek ve zati kemal ispat edilince, karşılaştırmaya dayalı üstünlükler neden değersizleşir?",
+          "answer": "Çünkü asıl olan zatî kemalin yanında onlar çok sönük ve önemsiz kalır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu bölümün ana fikrini kısa bir cümleyle nasıl söylersin?",
+          "answer": "Kâinattaki her güzellik ve düzen, Allah’ın sonsuz kemalinin bir işaretidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü Remiz’in başında kâinattaki bütün kemaller için nasıl bir açıklama yapılıyor?",
+          "answer": "Onların, yüce bir Zat’ın kemal ve cemalini gösteren işaretler olduğu söyleniyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Evrendeki güzelliklerin “gölge” gibi görülmesi ne demektir?",
+          "answer": "Asıl kaynağın onlar olmadığı, asıl güzelliğin başka bir yerde bulunduğu demektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "İlk hüccette “saray” neyi temsil eder?",
+          "answer": "Düzenli ve sanatlı olan kâinatı temsil eder.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Güzel bir saraya bakan kişi neden ustayı düşünür?",
+          "answer": "Çünkü böyle bir eser, kendi kendine değil, bilgi ve beceri sahibi biriyle olur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre eserde görülen mükemmellik, önce hangi şeye bağlanır?",
+          "answer": "Onu ortaya çıkaran fiillerin mükemmelliğine bağlanır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Sonra bu fiiller kimi gösterir?",
+          "answer": "O fiilleri yapan mükemmel bir faili gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S2Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "“Müdebbir, musavvir, hakîm, rahîm” gibi adlar neyi anlatmak için kullanılmıştır?",
+          "answer": "Yapan Zat’ın işlerine uygun güzel isimlerinin bulunduğunu anlatmak için kullanılmıştır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İsimlerden sıfatlara geçiş nasıl açıklanıyor?",
+          "answer": "Güzel isimler, onları doğuran güzel sıfatların varlığını bildirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Sıfatlardan zatın kemaline ulaşılması bize ne öğretir?",
+          "answer": "Allah’ın sadece eserlerinin değil, zatına ait kemalinin de kusursuz olduğunu öğretir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Kâinatta görülen güzelliklerin çokluğu, perde benzetmesiyle nasıl anlatılıyor?",
+          "answer": "Asıl kemalin ışığı birçok perde içinden geçse de yine açıkça görülüyor diye anlatılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde kaç tane delilden kısaca söz edileceği bildiriliyor?",
+          "answer": "Beş delilden söz edileceği bildiriliyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci delil, günlük hayattan hangi örnekle başlıyor?",
+          "answer": "Güzel yapılmış ve süslenmiş bir yapı örneğiyle başlıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Güzel bir yapı, yapan kişinin hangi özelliğini hemen akla getirir?",
+          "answer": "Onun becerikli ve sanatkâr biri olduğunu akla getirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Yapılan işin iyi olması, yapanın sadece varlığını mı gösterir, yoksa niteliğini de mi gösterir?",
+          "answer": "Niteliğini de gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre eser ile fiil arasında nasıl bir bağ vardır?",
+          "answer": "Eserdeki güzellik, fiildeki güzellikten gelir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Fiilin güzelliği ile isimlerin güzelliği arasında nasıl bir ilişki kuruluyor?",
+          "answer": "Güzel işler, o işlere uygun güzel isimlerin kemalini gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Eğer sıfatlar eksik olsaydı, isimler için ne söylenirdi?",
+          "answer": "Onlar da tam ve mükemmel olamazdı.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Sıfatların kaynağı olarak metinde ne gösteriliyor?",
+          "answer": "Zata ait iç yönler ve şuunat gösteriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Zata ait kemalin ışığının kâinatta görünmesi bize ne anlatır?",
+          "answer": "Asıl kemalin çok yüce olduğunu, görünen güzelliklerin ise ondan geldiğini anlatır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Karşılaştırmaya bağlı üstünlüklerin sönük kalması hangi sebeptendir?",
+          "answer": "Gerçek ve özden gelen kemalin yanında zayıf kalmaları sebebiyledir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S3Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü Remiz’de evrendeki bütün güzellikler için ortak kaynak olarak ne gösteriliyor?",
+          "answer": "Tek bir yüce Zat’ın kemal ve cemali gösteriliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metin, kâinattaki güzelliklerin bağımsız olmadığını nasıl hissettiriyor?",
+          "answer": "Onların asıl kemalin sadece zayıf yansımaları olduğunu söyleyerek hissettiriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "“Saray-ı âlem” ifadesiyle ne kastediliyor?",
+          "answer": "Bütün evren kastediliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Evrenin düzenli ve sanatlı olması, hangi iki şeyi birlikte düşündürür?",
+          "answer": "Hem kusursuz işler bulunduğunu hem de onları yapanın mükemmel olduğunu düşündürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Metne göre “eser”den “isim”e nasıl gidilir?",
+          "answer": "Eserin güzelliği fiili, fiil de o fiile uygun isimleri gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "“Hakîm” ve “rahîm” gibi isimlerin anılması, yaratmada neyin bulunduğunu gösterir?",
+          "answer": "Hikmetin ve merhametin bulunduğunu gösterir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İsimlerin kusursuzluğu, sıfatların kusursuzluğuna neden işarettir?",
+          "answer": "Çünkü isimler, sıfatların dışa görünen yönleri gibidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Sıfatların arkasında yer alan “şuunat” için metinden nasıl bir anlam çıkarılabilir?",
+          "answer": "Zata ait derin ve asli yönler olarak anlaşılabilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Kâinatta görülen güzelliklerin çokluğu, Allah’ın kemali hakkında nasıl bir fikir verir?",
+          "answer": "Çok geniş ve çok yüksek bir kemale sahip olduğunu düşündürür.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Metin, asıl kemalin görünenlerden daha büyük olduğunu hangi yolla anlatıyor?",
+          "answer": "Görünenlerin, onun nurunun perdelerden geçmiş hali olduğunu söyleyerek anlatıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Bu parçaya göre sadece dış görünüşe bakıp kalmak yeterli olur mu?",
+          "answer": "Hayır, dıştaki eserden içteki manaya geçmek gerekir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S4Q5"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümün başında kâinattaki kemallerin hangi değeri taşıdığı belirtiliyor?",
+          "answer": "Onların, ilahî kemalin ayetleri ve işaretleri olduğu belirtiliyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Kâinatta gördüğümüz güzellikler neden “asıl” değil de “işaret” sayılıyor?",
+          "answer": "Çünkü kendileri sınırlıdır; asıl ve tam güzellik, onları verene aittir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bir ustanın yaptığı güzel işten onun kabiliyeti hakkında ne anlaşılır?",
+          "answer": "Çok yetenekli ve becerikli olduğu anlaşılır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Metindeki delile göre kabiliyetteki kemal, sonunda nereye bağlanır?",
+          "answer": "Ustanın zatındaki kemale bağlanır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Aynı düşünce kâinata uygulanınca hangi sonuç ortaya çıkar?",
+          "answer": "Evrenin mükemmelliği, onu yaratanın zatî kemalini gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde fiillerden sonra niçin isimler anılıyor?",
+          "answer": "Çünkü yapılan işler, yapanın hangi güzel isimlerle tanındığını gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "İsimlerin ardından sıfatların gelmesi hangi mantığa dayanır?",
+          "answer": "İsimlerin, sıfatlara dayalı olması mantığına dayanır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu sıralama bize Allah’ı tanımada nasıl bir yol öğretir?",
+          "answer": "Önce yaratılmışlara bakıp sonra onların sahibinin isim, sıfat ve kemalini düşünme yolunu öğretir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "“Perdelerden geçtiği halde yine görülüyor” düşüncesi neyi kuvvetlendirir?",
+          "answer": "İlâhî kemalin çok parlak ve açık olduğunu kuvvetlendirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Nisbî kemallerin sönük kalması, gerçek değerin nerede bulunduğunu gösterir?",
+          "answer": "Gerçek değerin başkalarıyla kıyaslanan şeylerde değil, zatî kemalde bulunduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Bu delil, “tesadüf” düşüncesine karşı nasıl bir cevap olur?",
+          "answer": "Bu kadar düzen ve güzelliğin bilinçli, hikmetli ve mükemmel bir fail olmadan olamayacağını gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Üçüncü Remiz’in temel mesajı nedir?",
+          "answer": "Evrendeki bütün güzelliklerin Allah’ın kemalinin yansımaları olduğunu bildirmesidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde neden “zayıf gölge” benzetmesi kullanılmış olabilir?",
+          "answer": "Kâinattaki güzelliklerin asıl kaynağa göre sınırlı ve eksik kaldığını anlatmak için kullanılmış olabilir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İlk hüccetteki örnek, bir esere bakınca neyi araştırmamız gerektiğini öğretiyor?",
+          "answer": "Onu yapanı ve yapanın özelliklerini araştırmamız gerektiğini öğretiyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Güzel bir eserden güzel fiillere ulaşmak nasıl mümkün oluyor?",
+          "answer": "Çünkü ortaya çıkan işin güzelliği, yapılan işin niteliğini gösteriyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Fiillerin kemali, failin hangi yönlerini düşündürür?",
+          "answer": "İsimlerini, sıfatlarını ve mükemmelliğini düşündürür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Metne göre isimlerin güzel olması tek başına yeterli midir?",
+          "answer": "Hayır, bunun arkasında güzel sıfatlar da bulunmalıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Sıfatlardan sonra şuunatın anılması neyi gösterir?",
+          "answer": "Kemalin yüzeyde kalmayıp daha derin bir zata dayandığını gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p37:5-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Kâinatta görülen hüsn, cemal ve kemal neden önemli bir delil sayılıyor?",
+          "answer": "Çünkü bunlar, görünmeyen ama varlığı açık olan ilahî kemale işaret ediyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölümde “kesinlik” duygusu hangi yolla veriliyor?",
+          "answer": "Adım adım delil kurularak ve her aşama birbirine bağlanarak veriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Nisbî üstünlüklerin önemini kaybetmesi, insanın bakışını nereye çevirmelidir?",
+          "answer": "Geçici kıyaslara değil, hakikî ve zatî kemale çevirmelidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p37:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu parçaya göre kâinatı incelemek, iman açısından nasıl bir fayda sağlar?",
+          "answer": "Allah’ın isimlerini, sıfatlarını ve yüce kemalini daha iyi anlamaya yardım eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

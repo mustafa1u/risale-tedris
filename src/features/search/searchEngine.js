@@ -86,14 +86,14 @@ function scoreRecord(analyzed, requirements, normalizedQuery, fieldCounts) {
   return SEARCH_SCORE_WEIGHTS.distributedAllWords;
 }
 
-function searchableFields(analyzed, scopes, normalizedQuery, canSearchWords, isPartNumberQuery) {
+function searchableFields(analyzed, scopes, normalizedQuery, canSearchWords, isPartNumberQuery, hasWildcard) {
   const fields = {};
   if (scopes.has("text") && canSearchWords) fields.text = analyzed.fields.text;
   if (scopes.has("title") && canSearchWords) fields.title = analyzed.fields.title;
   if (
     scopes.has("partNo") &&
     isPartNumberQuery &&
-    analyzed.fields.partNo.normalized === normalizedQuery
+    (hasWildcard || analyzed.fields.partNo.normalized === normalizedQuery)
   ) {
     fields.partNo = analyzed.fields.partNo;
   }
@@ -104,12 +104,14 @@ function matchingFields(fields, predicate) {
   return SEARCH_SCOPES.filter((field) => fields[field] && predicate(fields[field]));
 }
 
-function fieldHasAllTerms(field, requirements) {
-  return satisfies(termCounts(field.tokens), requirements);
-}
-
 function fieldHasPhrase(field, normalizedPhrase) {
   return field.normalized === normalizedPhrase || field.normalized.includes(normalizedPhrase);
+}
+
+function splitSearchTerms(value) {
+  return normalizeSearchText(value)
+    .match(/[\p{L}\p{N}*?]+/gu)
+    ?.filter((term) => /[\p{L}\p{N}]/u.test(term)) ?? [];
 }
 
 function wildcardToRegExp(term) {
@@ -126,6 +128,44 @@ function fieldHasWildcardTerms(field, wildcardTerms) {
     const pattern = wildcardToRegExp(term);
     return field.tokens.some((token) => pattern.test(token.value));
   });
+}
+
+function fieldHasPhraseTerms(field, terms) {
+  if (terms.length === 0 || terms.length > field.tokens.length) return false;
+  const patterns = terms.map(wildcardToRegExp);
+
+  return field.tokens.some((_, start) =>
+    patterns.every((pattern, offset) => pattern.test(field.tokens[start + offset]?.value ?? ""))
+  );
+}
+
+function fieldHasTermsWithinDistance(field, terms, distance) {
+  if (terms.length === 0) return false;
+  const positionsByTerm = terms.map((term) => {
+    const pattern = wildcardToRegExp(term);
+    return field.tokens
+      .filter((token) => pattern.test(token.value))
+      .map((token) => token.position);
+  });
+  if (positionsByTerm.some((positions) => positions.length === 0)) return false;
+
+  function hasNearbyAssignment(termIndex, usedPositions, minimum, maximum) {
+    if (termIndex === positionsByTerm.length) return maximum - minimum <= distance;
+
+    return positionsByTerm[termIndex].some((position) => {
+      if (usedPositions.has(position)) return false;
+      const nextMinimum = Math.min(minimum, position);
+      const nextMaximum = Math.max(maximum, position);
+      if (nextMaximum - nextMinimum > distance) return false;
+
+      usedPositions.add(position);
+      const matches = hasNearbyAssignment(termIndex + 1, usedPositions, nextMinimum, nextMaximum);
+      usedPositions.delete(position);
+      return matches;
+    });
+  }
+
+  return hasNearbyAssignment(0, new Set(), Infinity, -Infinity);
 }
 
 function tokenizeBooleanQuery(query) {
@@ -229,12 +269,13 @@ function evaluateBooleanNode(node, fields) {
   switch (node.type) {
     case "term": {
       const normalized = normalizeSearchText(node.value);
-      const terms = tokenizeSearchText(node.value);
+      const terms = splitSearchTerms(node.value);
       if (terms.length === 0) return { matches: false, fields: [] };
-      const requirements = termCounts(terms);
       const predicate = terms.length > 1
-        ? (field) => fieldHasPhrase(field, normalized)
-        : (field) => fieldHasAllTerms(field, requirements);
+        ? (field) => terms.some((term) => /[*?]/u.test(term))
+          ? fieldHasPhraseTerms(field, terms)
+          : fieldHasPhrase(field, normalized)
+        : (field) => fieldHasWildcardTerms(field, terms);
       const matchedFields = matchingFields(fields, predicate);
       return { matches: matchedFields.length > 0, fields: matchedFields };
     }
@@ -269,14 +310,13 @@ export function searchAnalyzedBooks(books, request) {
   const normalizedQuery = normalizeSearchText(request.query);
   const queryTokens = tokenizeSearchText(request.query);
   const requirements = termCounts(queryTokens);
-  const isEmptyQuery = queryTokens.length === 0;
-  const isPartNumberQuery = /^p\d+$/u.test(normalizedQuery);
-  const normalizedCharacterCount = [...normalizedQuery.replace(/\s/gu, "")].length;
+  const queryTerms = splitSearchTerms(request.query);
+  const hasWildcard = queryTerms.some((term) => /[*?]/u.test(term));
+  const isEmptyQuery = queryTerms.length === 0;
+  const isPartNumberQuery = /^p[\d*?]+$/u.test(normalizedQuery);
+  const normalizedCharacterCount = [...normalizedQuery.replace(/[\s*?]/gu, "")].length;
   const canSearchWords = normalizedCharacterCount >= 2;
   const booleanQuery = request.mode === "boolean" ? parseBooleanQuery(request.query) : null;
-  const wildcardTerms = request.mode === "wildcard"
-    ? normalizedQuery.split(/\s+/u).filter(Boolean)
-    : [];
   const candidates = [];
 
   for (const [bookIndex, book] of books.entries()) {
@@ -291,10 +331,12 @@ export function searchAnalyzedBooks(books, request) {
       }
       if (!canSearchWords && !(scopes.has("partNo") && isPartNumberQuery)) continue;
 
-      const fields = searchableFields(analyzed, scopes, normalizedQuery, canSearchWords, isPartNumberQuery);
+      const fields = searchableFields(analyzed, scopes, normalizedQuery, canSearchWords, isPartNumberQuery, hasWildcard);
 
       if (request.mode === "exact") {
-        const matchedFields = matchingFields(fields, (field) => fieldHasPhrase(field, normalizedQuery));
+        const matchedFields = matchingFields(fields, hasWildcard
+          ? (field) => fieldHasPhraseTerms(field, queryTerms)
+          : (field) => fieldHasPhrase(field, normalizedQuery));
         if (matchedFields.length === 0) continue;
         candidates.push({ bookIndex, result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.exactPhrase, matchedFields) });
         continue;
@@ -310,11 +352,18 @@ export function searchAnalyzedBooks(books, request) {
         continue;
       }
 
-      if (request.mode === "wildcard") {
-        const hasWildcard = /[*?]/u.test(normalizedQuery);
-        const matchedFields = matchingFields(fields, hasWildcard
-          ? (field) => fieldHasWildcardTerms(field, wildcardTerms)
-          : (field) => fieldHasAllTerms(field, requirements));
+      if (request.mode === "proximity") {
+        const matchedFields = matchingFields(
+          fields,
+          (field) => fieldHasTermsWithinDistance(field, queryTerms, request.proximityDistance)
+        );
+        if (matchedFields.length === 0) continue;
+        candidates.push({ bookIndex, result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.wildcardMatch, matchedFields) });
+        continue;
+      }
+
+      if (hasWildcard) {
+        const matchedFields = matchingFields(fields, (field) => fieldHasWildcardTerms(field, queryTerms));
         if (matchedFields.length === 0) continue;
         candidates.push({ bookIndex, result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.wildcardMatch, matchedFields) });
         continue;

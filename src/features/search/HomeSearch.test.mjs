@@ -20,11 +20,12 @@ describe("homepage search island source contract", () => {
     assert.doesNotMatch(source, /useEffect\(\(\) => \{\s*ensureResources\(\)/);
   });
 
-  it("renders all modes, all field scopes, book selection, status, actions, and cross-book result links", async () => {
+  it("renders grouped modes, all field scopes, book selection, status, actions, and cross-book result links", async () => {
     const source = await readFile(sourcePath, "utf8");
     const controlsSource = await readFile(controlsSourcePath, "utf8");
 
-    assert.match(controlsSource, /SEARCH_MODES\.map/);
+    assert.match(controlsSource, /SEARCH_LEVELS\.map/);
+    assert.match(controlsSource, /visibleModes\.map/);
     assert.match(controlsSource, /SEARCH_SCOPES\.map/);
     assert.match(controlsSource, /BOOLEAN_OPERATORS/);
     assert.match(source, /serializeBooleanRows/);

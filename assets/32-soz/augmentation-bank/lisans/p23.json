@@ -1,0 +1,852 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:lisans:p23",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "lisans",
+  "partNo": "p23",
+  "partNumber": 23,
+  "title": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/lisans/SveC_lisans_32-soz-p23-2-mevkif-1-maksad-esbabin-hakiki-tesirsizligi.txt",
+  "sourceRevision": "5686f28161afb95d1970a9873135c1931318e19ab6423c93297b4ce80701f505",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Dalalet ehlinin vekili, şirk için kâinatta hangi noktayı delil gibi göstermeye çalışıyor?",
+          "answer": "Varlıkların sebeplere bağlı görünmesini ve düzenin sebepler üzerinden işlemesini öne sürüyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen cevapta, şeylerin sebeplere bağlanmasının asıl hikmeti nasıl açıklanıyor?",
+          "answer": "Bunun İlâhî irade ve hikmet gereği olduğu, ayrıca İlâhî isimlerin görünmesine bir vesile kılındığı belirtiliyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p23:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Sebepler hakkında kesin olarak reddedilen husus nedir?",
+          "answer": "Yaratmayı bizzat meydana getiren gerçek bir güçlerinin bulunduğu düşüncesi reddediliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Sebepler arasında neden özellikle insan örnek veriliyor?",
+          "answer": "Çünkü sebepler içinde en değerli, seçme gücü en açık ve tasarruf alanı en geniş görünen odur.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İnsanın en açık iradeli fiilleri olarak hangi üç alan zikrediliyor?",
+          "answer": "Yeme, konuşma ve düşünme.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Yeme fiili üzerinden insanın etkisinin ne kadar sınırlı olduğu nasıl gösteriliyor?",
+          "answer": "İnsana sadece başlangıçta küçük bir hareket alanı verildiği, sonrasındaki beden içi düzenli işlemlerin onun elinde olmadığı gösteriliyor.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Konuşma örneği, insan kudretinin sınırlılığını hangi yönüyle ortaya koyuyor?",
+          "answer": "İnsan sadece sesi çıkaracak maddî hazırlığı yapıyor; sözün yayılması ve birçok kişiye ulaşması onun gücünü aşıyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Metne göre hayal ile ihtiyar arasındaki fark bu örnekte nasıl ima ediliyor?",
+          "answer": "Hayal çok geniş neticeleri tasavvur edebilir; fakat insan iradesi onları fiilen kuracak genişlikte değildir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İnsanın bile gerçek anlamda yaratıcı tasarrufu yoksa, bundan diğer sebepler hakkında hangi sonuç çıkarılıyor?",
+          "answer": "Cansızların, hayvanların, unsurların ve tabiatın yaratıcı etkisi bulunduğunu söylemek daha da geçersiz hale geliyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Sebeplerin hakikatte ne olduğu hangi benzetmelerle anlatılıyor?",
+          "answer": "Onların sadece bir örtü, bir taşıyıcı, bir sunucu gibi olduğu ifade ediliyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Hediye örneğiyle verilmek istenen temel düşünce nedir?",
+          "answer": "Hediye kabı, sargısı veya onu getiren görevli nasıl hükümdarın saltanat ortağı olmazsa, sebepler de İlâhî fiillerde ortak olamaz.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Son cümlede sebeplerin payına düşen tek alan nasıl tanımlanıyor?",
+          "answer": "Onlara sadece kulluk düzeni içinde bir hizmet görevi verildiği, rububiyetten payları olmadığı bildiriliyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Şirk iddiasını savunan taraf, sebeplerden nasıl bir sonuca ulaşmak istiyor?",
+          "answer": "Sebeplerin etkili göründüğünü söyleyip buradan ortaklık ihtimalini çıkarmaya çalışıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta, sebepler ile sonuçlar arasındaki bağın zorunlu olarak bağımsız etki anlamına gelmediği nasıl ortaya konuyor?",
+          "answer": "Bu bağın yaratılışta bir düzen ve hikmet gereği kurulduğu, fakat yaratmanın yine Allah’a ait olduğu söyleniyor.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p23:lisans:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre sebeplerin varlığı ile yaratma gücü arasında nasıl bir ayrım yapılıyor?",
+          "answer": "Sebepler görünürde ilişki noktasıdır; asıl var etme kudreti ise onlarda değildir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan misalinin seçilmesi, delili güçlendirmek bakımından neden uygundur?",
+          "answer": "Çünkü en çok irade sahibi görünen bir varlıkta bile yaratıcı tesir yoksa, daha aşağı derecedeki sebeplerde hiç olamaz.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Yeme fiilindeki süreç niçin “hikmetli bir silsile” olarak takdim ediliyor?",
+          "answer": "Çünkü çok sayıda aşama düzenli biçimde birbirine bağlıdır ve bu bütünlük insanın cüz’î müdahalesiyle açıklanamaz.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "İnsanın yemedeki katkısı hangi dar alana indirgeniyor?",
+          "answer": "Sadece çiğneme gibi ilk basamakta kalan sınırlı bir harekete.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Konuşmada tek bir sözün çok kişiye ulaşması hangi anlayışı çürütmek için kullanılıyor?",
+          "answer": "İnsanın, ortaya çıkan neticenin tamamını bizzat kurduğu zannını çürütmek için kullanılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Konuşma örneğinde sözün yayılması, insanın hangi sınırını gösteriyor?",
+          "answer": "İradesinin kısa, sonuçların ise çok geniş olduğunu gösteriyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“En güçlü sebep” olarak insanın acizliği, tabiat anlayışına nasıl bir cevap oluyor?",
+          "answer": "Tabiatın veya maddî unsurların bağımsız yapıcı güç sayılmasının tutarsızlığını gösteriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Sebeplerin “kap”, “örtü” ve “sunucu” gibi gösterilmesi neyi vurgular?",
+          "answer": "Onların yalnızca görünürde aracı olduklarını, işin sahibinin başkası olduğunu vurgular.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Hükümdar ve hediye benzetmesinde asıl fail kimdir?",
+          "answer": "Hediye sahibi olan hükümdardır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın ana hükmü, rububiyet açısından sebepler için nasıl özetlenebilir?",
+          "answer": "Sebeplerin İlâhî idareye ortaklığı yoktur; sadece emre bağlı hizmet vasıtalarıdır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Dalalet ehlinin vekilinin son itirazı hangi gözleme dayanıyor?",
+          "answer": "Kâinatta işlerin sebepler üzerinden yürüdüğü izlenimine dayanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Cevapta bu gözlemin tümden inkârı mı yapılıyor, yoksa farklı bir yorumu mu veriliyor?",
+          "answer": "Gözlem inkâr edilmiyor; fakat onun gerçek manası farklı açıklanıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p23:lisans:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Şeylerin sebeplere bağlanması, İlâhî isimlerle nasıl ilişkilendiriliyor?",
+          "answer": "Sebepler, isimlerin tecellisine zemin olan bir düzen unsuru olarak gösteriliyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde “hakikî tesir” denince ne kastediliyor?",
+          "answer": "Bir şeyi gerçekten varlığa çıkaran asli yapıcı güç kastediliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Neden insanın seçmeli fiilleri delil olarak öne çıkarılıyor?",
+          "answer": "Çünkü insanın en serbest görünen davranışlarında bile belirleyici yaratma gücü bulunmadığı gösterilmek isteniyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Yeme örneğinde insan ile beden içindeki süreçler arasında nasıl bir fark kuruluyor?",
+          "answer": "İnsan dışta küçük bir hareket yapıyor; içteki karmaşık ve düzenli işler onun kontrolü dışında gerçekleşiyor.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Konuşma örneğinde bir kelimenin çok kişiye ulaşması hangi açıdan dikkat çekicidir?",
+          "answer": "Başlangıçta küçük olan bir fiilin çok geniş sonuçlar vermesi, insan kudretinin bunları kuşatamadığını gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde düşünme fiilinin adı geçmesine rağmen ayrıntının yeme ve konuşmaya verilmesi neyi düşündürür?",
+          "answer": "Somut örneklerle insan iradesinin sınırını daha açık göstermek amaçlanmıştır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "“İhtiyarın eli kısa” anlamındaki yaklaşım, insan özgürlüğünü tamamen yok mu sayıyor?",
+          "answer": "Hayır, belli bir tercih alanı kabul ediyor; fakat yaratıcı kudret vermiyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "İnsan için geçerli olan bu sınırlılık, diğer varlıklar için neden daha kuvvetli bir delil olur?",
+          "answer": "Çünkü onların irade ve şuurları insandan daha düşük veya hiç yoktur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Sebeplerin hediye taşıyan görevliye benzetilmesi hangi yanlış anlayışı reddeder?",
+          "answer": "Aracının, nimetin gerçek sahibi ve vericisi sanılmasını reddeder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Bu parçadan çıkarılan tevhid dersi nedir?",
+          "answer": "Kâinattaki sebepler perde hükmündedir; yaratma ve yönetme yalnız Allah’a aittir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "İtiraz sahibi, sebeplerin varlığından hareketle hangi ihtimali canlı tutmak istiyor?",
+          "answer": "Sebeplerin gerçek etkisi varsa, Allah’a ortak sayılabilecekleri ihtimalini canlı tutmak istiyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Buna karşı ilk temel cevap nedir?",
+          "answer": "Sebeplerin kurulmuş olması, onların yaratıcı güç sahibi olduğunu göstermez.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p23:lisans:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İlâhî hikmetin sebepleri devreye koyması, metne göre neye hizmet eder?",
+          "answer": "Düzenin görünmesine ve İlâhî isimlerin farklı biçimlerde tecelli etmesine hizmet eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde insanın “en seçkin sebep” sayılması hangi akıl yürütmeye kapı açıyor?",
+          "answer": "İnsan bile yaratamazsa, ondan daha aşağı durumda olan sebepler hiç yaratamaz sonucuna kapı açıyor.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Yeme konusunda insanın yaptığı iş ile ortaya çıkan neticeler arasında nasıl bir orantısızlık vardır?",
+          "answer": "İnsanın katkısı çok küçüktür; neticeler ise çok geniş ve karmaşıktır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Bedenin beslenmesi ve hücrelerin yararlanması gibi aşamalar neden önemlidir?",
+          "answer": "Bunlar insanın doğrudan yönetemediği fakat kusursuz işleyen yaratılış faaliyetlerini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Konuşmada insanın görevi, metne göre hangi sınıra kadar uzanır?",
+          "answer": "Harflerin çıkış yerlerinde havayı sevk etmeye kadar uzanır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bir sözün birçok kulakta karşılık bulması, insan fiilinin hangi yönünün sınırlı olduğunu gösterir?",
+          "answer": "Fiilin tesir alanını ve sonuçlarını insanın bizzat kuramadığını gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Hayalin erişmesi ile iradenin erişememesi arasında nasıl bir fark kuruluyor?",
+          "answer": "Zihinde tasavvur etmek kolaydır; fakat onu yaratıcı biçimde gerçekleştirmek insanın kudretinde değildir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Sebeplerin sadece “zarf” ve “kılıf” olması ne demektir?",
+          "answer": "Onlar işin mahiyetini yapmaz; sadece onun görünürdeki çevresini ve sunuluşunu oluşturur.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Hediye benzetmesiyle sebeplere ortaklık vermek neden saçma sayılıyor?",
+          "answer": "Çünkü aracı unsurların, asıl ihsan sahibinin hükümranlığına ortak sayılması akla aykırıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Son hükümde sebeplerin dini ve varlık anlayışı bakımından konumu nasıl belirleniyor?",
+          "answer": "Rububiyette payları yoktur; sadece Allah’ın emri altında hizmet eden vasıtalardır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki tartışmada, sebepler üzerinden savunulan görüşün özeti nedir?",
+          "answer": "Varlıkların sebeplere bağlanması, sebeplere gerçek tesir verilip verilemeyeceği tartışmasına dönüştürülüyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Verilen cevap, bu iddiayı hangi ana prensiple karşılıyor?",
+          "answer": "Sebeplerin bağlantı unsuru olduğu, fakat yaratmanın onlara ait olmadığı prensibiyle karşılıyor.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p23:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Sebeplerin kurulmasının “meşiet” ile açıklanması neyi ifade eder?",
+          "answer": "Bunun tesadüf değil, Allah’ın dilemesiyle yerleştirilen bir düzen olduğunu ifade eder.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Esmânın görünmek istemesi ifadesi, sebeplere hangi işlevi yükler?",
+          "answer": "Sebepler, İlâhî tecellilerin farklı biçimlerde görünmesine vesile olur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İnsan neden örnekler içinde merkezî bir yere konuluyor?",
+          "answer": "Çünkü en fazla seçim gücü olan odur ve yine de gerçek yaratma ondan çıkmaz.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Yeme fiilinde insanın görevi ile yaratılış sistemi arasındaki fark nasıl özetlenir?",
+          "answer": "İnsan başlangıçtaki küçük hareketi yapar; kapsamlı iç işleyişi ise kuramaz.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Konuşma örneğinde tek bir ifadenin çoğalması neyi gösterir?",
+          "answer": "İnsan fiilinden doğan sonuçların genişliği ile insan kudretinin darlığı arasındaki farkı gösterir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Bu örneklerden hareketle “hakikî mutasarrıf” olmanın şartı hakkında ne anlaşılır?",
+          "answer": "Bütün süreci kuşatıp neticeleri var edebilmek gerekir; bu ise insanda ve sebeplerde yoktur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde tabiat ve unsurlar için neden olumsuz hüküm veriliyor?",
+          "answer": "Çünkü onlar insandan daha şuursuz ve daha sınırlıdır; bu yüzden yaratıcı olamazlar.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Sebeplerin nimetlere “sunucu” gibi gösterilmesi, kulluk açısından hangi edebi öğretir?",
+          "answer": "Nimeti sebepten değil, asıl verenden bilme terbiyesini öğretir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Padişah benzetmesinde araçlarla asıl makam arasındaki ilişki nasıl kuruluyor?",
+          "answer": "Araçlar sadece hizmet eder; yetki ve mülk sahibi olan asıl makamla ortaklıkları yoktur.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Parçanın sonunda şirk iddiasına verilen kesin cevap nedir?",
+          "answer": "Sebeplerin İlâhî rububiyete ortak olması imkânsızdır; onların payı sadece hizmette görünmektir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Ehl-i dalaletin vekili, sebeplerden hareketle hangi yanlış neticeye varmak istiyor?",
+          "answer": "Sebeplerin etkili görünmesini, yaratmada ortaklık ihtimaline delil yapmak istiyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Cevabın girişinde sebeplerin bağlanmış olması nasıl anlamlandırılıyor?",
+          "answer": "Bunun Allah’ın dilemesi ve hikmetiyle kurulmuş bir tertip olduğu söyleniyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p23:lisans:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Metne göre, sebeplerin bulunması ile onların “icad edici” olması arasında neden fark vardır?",
+          "answer": "Çünkü beraber görünmek, meydana getiren olmak demek değildir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "İnsan örneği, delilin hangi yöntemle kurulduğunu gösterir?",
+          "answer": "En güçlü adaydan başlayıp onun yetersizliğini göstererek diğerlerini daha kolay çürütme yöntemi kullanılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Yeme sürecinde insanın payı neden çok küçük kabul ediliyor?",
+          "answer": "Çünkü yalnız dıştaki basit harekete katılıyor; sonraki düzenli yaratılış faaliyetlerini o yapmıyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Hücrelerin beslenmesine kadar uzanan süreç, metinde hangi gerçeği hissettiriyor?",
+          "answer": "Küçük bir insan fiilinin ardında insanı aşan ince bir düzen bulunduğunu hissettiriyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Konuşma fiilinde insanın yaptığı şey ile sözün sonuçları arasındaki fark nedir?",
+          "answer": "İnsan sesi çıkaracak hareketi yapar; fakat sözün yayılması ve çoğalması onun işi değildir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bir kelimenin çok sayıda kişiye ulaşması niçin yaratma örneği sayılmıyor?",
+          "answer": "Çünkü insan sadece başlangıç sebebidir; neticenin kurulması onun doğrudan kudretiyle olmaz.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde diğer sebeplerin insanla kıyaslanması hangi mantığa dayanır?",
+          "answer": "Daha aşağı derecedeki varlıkların, üsttekinin yapamadığını yapamayacağı mantığına dayanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Sebeplerin “örtü” gibi gösterilmesi, Allah’ın fiilleriyle ilgili hangi inceliğe işaret eder?",
+          "answer": "Görünürde bazı vasıtalar bulunsa da asıl fiilin doğrudan Allah’a ait olduğuna işaret eder.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Hediye kabı ve getiren görevli benzetmesi, sebeplerin rolünü nasıl sınırlar?",
+          "answer": "Onları sadece taşıyıcı ve gösterici seviyesinde bırakır; mülk ve ikram sahibi yapmaz.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p23:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Bütün pasajın ana fikri bir cümleyle nasıl ifade edilebilir?",
+          "answer": "Sebepler yaratmanın sahibi değil, İlâhî kudretin önünde hizmet eden görünür vasıtalardır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

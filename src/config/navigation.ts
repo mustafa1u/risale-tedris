@@ -1,5 +1,6 @@
 export const NAV_ITEMS = [
   { id: "books", path: "/books/" },
+  { id: "howItWorks", path: "/nasil-oluyor/" },
   { id: "lessonFlow", path: "/lesson-flow/" },
   { id: "themes", path: "/themes/" }
 ] as const;

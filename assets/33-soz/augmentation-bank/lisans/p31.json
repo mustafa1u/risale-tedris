@@ -1,0 +1,710 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "33-soz:lisans:p31",
+  "bookSlug": "33-soz",
+  "bookTitle": "33. Söz",
+  "bookOrder": 10,
+  "gradeSlug": "lisans",
+  "partNo": "p31",
+  "partNumber": 31,
+  "title": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/33-soz/outputs/lisans/SveC_lisans_33-soz-p31-20-pencere-cicekler-kuslar-bulutlar-ve-kamer.txt",
+  "sourceRevision": "5c0d1c494a835a7bec2bf01b39b51c25ec65d3d30d2701f33b3e70d6d91e857a",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçek ve meyvelerin renk, koku, tat ve güzellik bakımından farklı verilmesi neye benzetilmektedir?",
+          "answer": "İlâhî ikramı tanıtan ve canlıları nimete çağıran birer tanıtım ve davet vesilesine benzetilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu benzetme, çiçek ve meyvelerin hangi sıfat sahibi bir yaratıcıya işaret ettiğini gösterir?",
+          "answer": "Cömert, merhametli ve nimet verici bir yaratıcıya delâlet eder.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "33-soz:p31:lisans:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Kuşların sesleri hangi iki yönüyle anlamlı kabul edilmektedir?",
+          "answer": "Hem kendiliklerinden değil bir yaratılışla konuşturulduklarını gösterir, hem de aralarında duygu ve maksat alışverişi yaptıklarını bildirir.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşların ötüşü neden sadece sıradan bir ses olarak görülmemektedir?",
+          "answer": "Çünkü o seslerde düzenli bir haberleşme, his paylaşımı ve niyet anlatımı vardır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Yağmur sesi ile gök gürültüsünün boş ve anlamsız sayılmamasının temel gerekçesi nedir?",
+          "answer": "Çünkü bulutlardan hayat kaynağı olan su çıkarılmakta ve bu su ihtiyaç içindeki canlılara ulaştırılmaktadır.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Metinde yağmurun canlılarla ilişkisi nasıl tasvir edilmektedir?",
+          "answer": "Rahmet taşıyan bir ikram gibi, susamış ve ona muhtaç canlılara ulaştırılan bir nimet olarak anlatılmaktadır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Yağmurun sesi ve gök gürültüsü hangi mesajı taşıyan bir ilan gibi yorumlanmaktadır?",
+          "answer": "Yaklaşan bir rahmet ve sevinç haberi veren bir müjde gibi görülmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bulutlarla ilgili bölümde sebep-sonuç ilişkisi nasıl kurulmuştur?",
+          "answer": "Madem bulutlardan faydalı ve hayat verici sonuçlar çıkıyor, öyleyse onların ses ve hareketleri de hikmetsiz değil, maksatlı kabul edilmektedir.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Gökte özellikle hangi varlığa dikkat çekilmekte ve neden?",
+          "answer": "Aya dikkat çekilmektedir; çünkü hareketinin kudret ve hikmet sahibi bir emre bağlı olduğu, yeryüzüyle ilgili önemli faydalarından anlaşılmaktadır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Metnin bütününde çiçek, kuş, bulut ve ay örnekleri ortak olarak neyi göstermektedir?",
+          "answer": "Kâinattaki varlıkların rastgele değil, anlamlı, hikmetli ve ilâhî bir idare altında bulunduğunu göstermektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:lisans:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçekler ve meyveler, nimetleri tanıtma bakımından nasıl bir görev üstlenmiş görünmektedir?",
+          "answer": "Her türe uygun biçimde ilâhî ikramı haber veren işaretler gibi sunulmuşlardır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Her türe ayrı özelliklerle sunulmaları hangi manayı güçlendirir?",
+          "answer": "Yaratmada kasıt, ölçü ve özel ilgi bulunduğu manasını güçlendirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Çiçek ve meyvelerdeki çeşitlilik, yalnız estetik bir durum olarak mı ele alınmaktadır?",
+          "answer": "Hayır; hem güzellik hem de nimet sahibini tanıtma yönüyle ele alınmaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşların çıkardığı seslerin kesin bir delil sayıldığı nokta nedir?",
+          "answer": "O seslerin bilinçsiz bir tesadüf değil, onları yaratanın konuşturmasıyla ortaya çıkmasıdır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Kuşların birbirleriyle ses yoluyla ilişki kurmaları hangi sonuca götürür?",
+          "answer": "Seslerinin manalı, düzenli ve belli bir maksada hizmet ettiğini gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Bulutlar bölümünde yağmur damlalarının niteliği nasıl anlaşılmaktadır?",
+          "answer": "Canlıların hayatını sürdüren çok kıymetli bir nimet olarak anlaşılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bulutların boşlukta böyle işler yapması hangi düşünceyi destekler?",
+          "answer": "Güç, hikmet ve rahmet sahibi bir terbiyecinin tasarrufunu destekler.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Gök gürültüsü ve şimşek neden sadece korkutucu tabiat olayları olarak bırakılmamıştır?",
+          "answer": "Çünkü metin onları, rahmetin gelişini haber veren anlamlı işaretler olarak yorumlamaktadır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Ayın hareketi hakkında ayrıntı verilmeden geçilmesinin sebebi nedir?",
+          "answer": "Ona dair hikmetlerin başka yerde açıklandığı belirtilerek burada kısa tutulmuştur.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçadan çıkarılabilecek ana fikir nedir?",
+          "answer": "Kâinattaki çeşitli varlıklar ve olaylar, Yaratıcı’nın kudretini, hikmetini ve merhametini farklı yönlerden gösteren delillerdir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçekler ve meyveler hangi yönleriyle ilâhî ikrama işaret eden deliller sayılmaktadır?",
+          "answer": "Güzellikleri, desenleri, kokuları, tatları ve renk çeşitlilikleriyle bu ikrama işaret etmektedirler.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Sofra benzetmesi, nimetlerle ilgili hangi anlayışı öne çıkarır?",
+          "answer": "Verilen şeylerin sahipsiz değil, ikram maksadıyla hazırlanmış nimetler olduğunu öne çıkarır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Kuşların sesleri üzerinde durulurken yalnız işitilen tarafa mı dikkat çekilmektedir?",
+          "answer": "Hayır; o seslerin taşıdığı anlam, duygu ve maksat aktarımına da dikkat çekilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşların iletişimi, onları konuşturan bir iradenin varlığına nasıl delil olur?",
+          "answer": "Çünkü düzenli anlam aktarımı, sırf rastlantıyla açıklanamayacak bilinçli bir yönlendirmeyi düşündürür.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Yağmurun oluşumu anlatılırken hangi iki unsur özellikle anlamsızlık iddiasını çürütmek için kullanılır?",
+          "answer": "Yağmur sesleri ile şimşek ve gök gürültüsünün faydalı sonuçlarla birlikte ortaya çıkması kullanılır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Yağmur damlalarının canlılara ulaştırılması nasıl bir merhamet tablosu meydana getirir?",
+          "answer": "İhtiyaç sahiplerine hayat veren bir rızkın şefkatle gönderilmesi tablosunu meydana getirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Metinde yağmurun sesine yüklenen anlam nedir?",
+          "answer": "Beklenen nimetin yaklaştığını haber veren sevindirici bir çağrı anlamı yüklenmiştir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Gökyüzünde çok sayıda cisim bulunduğu hâlde neden özellikle Ay seçilmektedir?",
+          "answer": "Çünkü Ayın hareketinde, yeryüzüyle ilişkili belirgin faydalar görüldüğü için o örnek üzerinden hikmet daha kolay fark edilmektedir.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Ayın hareketi hangi ilâhî vasfa bağlanmaktadır?",
+          "answer": "Gücü tam, hikmeti eksiksiz olan bir yaratıcıya bağlanmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçadaki örnekler, tabiat olaylarına nasıl bir bakış açısı kazandırmaktadır?",
+          "answer": "Onları kör ve başıboş süreçler değil, anlam taşıyan ve bir gayeye hizmet eden ilâhî fiiller olarak görmeyi öğretmektedir.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçek ve meyvelerin insan ve diğer canlılara sunduğu farklılıklar hangi amaçla verilmiş kabul edilmektedir?",
+          "answer": "Nimet sahibini tanıtmak ve canlıları onun ikramına yöneltmek amacıyla verilmiş kabul edilmektedir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Burada “ayrı ayrı” oluşun vurgulanması neyi gösterir?",
+          "answer": "Her türe özel bir hitap ve ölçülü bir ihsan bulunduğunu gösterir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Kuş sesleri metinde hangi bakımdan “kesin delil” sayılmaktadır?",
+          "answer": "Onların belli bir düzen içinde anlam taşımaları ve bir yönlendirme ile ortaya çıktıklarını göstermeleri bakımından kesin delil sayılmaktadır.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşların sesle duygu ve maksat bildirmesi, insanın hangi düşüncesini sarsar?",
+          "answer": "Hayatın ve iletişimin şuursuzca geliştiği düşüncesini sarsar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bulutlar anlatılırken “boşluk” vurgusu neden önemlidir?",
+          "answer": "Çünkü görünürde dayanak olmayan bir yerde böylesine hayret verici işlerin yapılması, kudret ve hikmetin daha açık görülmesini sağlar.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Yağmurun “hayat suyu” gibi nitelenmesi neyi öne çıkarır?",
+          "answer": "Yağmurun sadece fizikî bir olay değil, canlılığın devamı için temel bir nimet olduğunu öne çıkarır.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Gök gürültüsü ve yağmur seslerinin anlamlı görülmesi hangi daha büyük sonuca bağlanır?",
+          "answer": "Bunların rahmet sahibi bir Rabbin emriyle gerçekleştiği sonucuna bağlanır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Yağmurun muhtaç canlılara yönelmesi hangi ilâhî özelliği düşündürür?",
+          "answer": "Şefkat, kerem ve ihtiyaçları bilen bir rububiyeti düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Ayın hareketi niçin sadece astronomik bir olay gibi bırakılmamaktadır?",
+          "answer": "Çünkü onun hareketinin ardında yeryüzüyle ilgili önemli hikmetler bulunduğu belirtilmektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu pasajdaki dört örnek birlikte ele alındığında nasıl bir delillendirme yöntemi görülür?",
+          "answer": "Görülen güzellik, fayda, düzen ve anlam üzerinden Yaratıcı’nın varlığına ve sıfatlarına ulaşan bir delillendirme yöntemi görülür.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçekler ve meyveler neden sadece yenilecek ya da seyredilecek varlıklar olarak sunulmamaktadır?",
+          "answer": "Çünkü onlar aynı zamanda nimet vereni bildiren ve ona çağıran işaretler olarak değerlendirilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Renk, tat ve kokudaki çeşitlilikten hangi yorum çıkarılmaktadır?",
+          "answer": "Bu çeşitliliğin bilinçli bir ihsan ve ince bir düzenle verildiği yorumu çıkarılmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Kuşların konuşmalarıyla ilgili asıl dikkat çekilen husus nedir?",
+          "answer": "Seslerinin aralarında his ve maksat iletmeye yarayan anlamlı bir dil gibi işlemesidir.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Kuşlar örneği, yaratılışta hikmet bulunduğunu nasıl destekler?",
+          "answer": "Çünkü onların iletişimi gelişigüzel değil, belirli bir fayda ve anlatım taşıyan düzenli bir yapı göstermektedir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Yağmurun sesi ve gök gürültüsü için “manalı” denmesinin dayanağı nedir?",
+          "answer": "Sonuçta canlılara hayat ulaştıran bir rahmet ortaya çıkmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bulutlardan suyun elde edilmesi ve yeryüzüne gönderilmesi neyi göstermektedir?",
+          "answer": "Tabiatın kendi kendine işlemesinden ziyade, yöneten bir irade ve merhametli bir tasarruf bulunduğunu göstermektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Yağmurun gelişi niçin müjdeye benzetilmektedir?",
+          "answer": "Çünkü ihtiyaç içindeki canlılara sevinç veren, beklenen ve faydalı bir nimet olarak gelmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Ay hakkında verilen kısa işaretin merkezinde hangi düşünce vardır?",
+          "answer": "Onun hareketinin başıboş değil, hikmetli bir emir altında olduğu düşüncesi vardır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Metinde geçen örneklerde “ses” unsuru hangi varlıklarda özellikle öne çıkmaktadır?",
+          "answer": "Kuşlarda ve bulutla ilgili olaylarda özellikle öne çıkmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçanın muhataba vermek istediği temel idrak nedir?",
+          "answer": "Etrafındaki varlıklara yüzeyden değil, onların taşıdığı mana, fayda ve düzen açısından bakması gerektiği idrakidir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "33-soz:p31:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Çiçek ve meyveler için kullanılan benzetme, onların hangi işlevini öne çıkarır?",
+          "answer": "Nimetin sahibini tanıtma ve canlıları o nimete yöneltme işlevini öne çıkarır.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Çiçek ve meyvelerdeki estetik unsurlar hangi iki alanı birlikte düşündürür?",
+          "answer": "Hem güzelliği hem de merhametli ikramı birlikte düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Kuşların sesleri niçin yaratıcıdan bağımsız açıklanmamaktadır?",
+          "answer": "Çünkü o sesler yalnız çıkmakla kalmayıp anlam taşıyan bir haberleşme düzeni oluşturmaktadır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "“Hissiyat alışverişi” ifadesi kuşlar hakkında neyi anlamamıza yardım eder?",
+          "answer": "Kuş seslerinin kuru bir gürültü değil, iç dünyayı ve niyeti aktaran bir iletişim olduğunu anlamamıza yardım eder.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bulutlar kısmında hangi olaylar birlikte değerlendirilerek anlamlılık sonucu çıkarılmaktadır?",
+          "answer": "Yağmur sesi, şimşek, gök gürültüsü ve ardından hayat veren suyun inişi birlikte değerlendirilmektedir.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bulutlardan inen suyun canlılara ulaştırılması hangi yönüyle hikmet delili sayılır?",
+          "answer": "İhtiyaca tam uygun şekilde hayatı desteklemesi yönüyle hikmet delili sayılır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Yağmurun sesinin bir müjde gibi tasvir edilmesi, tabiat olaylarına nasıl bir mana yükler?",
+          "answer": "Onları sadece maddî hadiseler değil, rahmet ve haber taşıyan işaretler olarak görme manası yükler.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Ayın hareketinin yeryüzüne ait faydalarla ilişkilendirilmesi neyi gösterir?",
+          "answer": "Gökteki hareketlerin dünya hayatından kopuk değil, ölçülü ve yararlı bir düzen içinde olduğunu gösterir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Bu metinde gözlem yapma çağrısı en çok hangi yöntemle ilerlemektedir?",
+          "answer": "Varlıklara tek tek bakıp onların görünüş, fayda, düzen ve anlamından sonuç çıkarma yöntemiyle ilerlemektedir.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "33-soz:p31:lisans:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın sonunda ulaşılan genel inanç sonucu nedir?",
+          "answer": "Kâinattaki bu varlık ve olayların, kudretli, hikmetli, merhametli ve nimet verici olan Allah’a delâlet ettiğidir.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

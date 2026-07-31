@@ -1,0 +1,1096 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:2-sinif:p49",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "2-sinif",
+  "partNo": "p49",
+  "partNumber": 49,
+  "title": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/2-sinif/SveC_2sinif_32-soz-p49-3-maksad-ifadesine-bes-isaretin-son-ikisi.txt",
+  "sourceRevision": "a6dc8c4cc68c8a63fee6051b2cc16045954ac284df35edbf0ae1df4031cd19a7",
+  "setCount": 6,
+  "questionCount": 84,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü işarette, karşılaştırma sadece gerçek varlıklar için mi söyleniyor?",
+          "answer": "Hayır, düşünülen ve farz edilen şeyler için de olabilir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu bölümde, Allah’ın isim ve sıfatları için nasıl dereceler bulunduğu anlatılıyor?",
+          "answer": "Akıl bakımından çok çok dereceler düşünülebileceği anlatılıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Allah bu derecelerin neresindedir?",
+          "answer": "En üstün ve en güzel derecesindedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu gerçeğe ne şahit gösteriliyor?",
+          "answer": "Bütün kâinatın güzellikleri ve olgunlukları şahit gösteriliyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Güzel isimlerden söz eden ifade, hangi manayı destekliyor?",
+          "answer": "Allah’ın isimlerinin en güzel şekilde olduğunu gösteriyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Beşinci işarette Allah’ın kaç türlü tecelli ve sıfat görünüşünden bahsediliyor?",
+          "answer": "İki türlü görünüşten bahsediliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Birinci tür tasarruf nasıl oluyor?",
+          "answer": "Genel bir düzen içinde ve sebepler perdesiyle oluyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci tür tasarruf nasıl oluyor?",
+          "answer": "Perdesiz, doğrudan ve özel bir yönelişle oluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Doğrudan olan ihsan neden daha yüce sayılıyor?",
+          "answer": "Arada perde olmadan özel olarak geldiği için daha büyük ve daha güzel sayılıyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Padişah örneği niçin verilmiş?",
+          "answer": "İki farklı yönetme biçimini daha kolay anlamamız için verilmiş.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Padişahın birinci çeşit işi nasıl anlatılıyor?",
+          "answer": "Görevliler ve genel kurallar üzerinden yaptığı işler gibi anlatılıyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Padişahın ikinci çeşit işi nasıl anlatılıyor?",
+          "answer": "Kendi eliyle doğrudan yaptığı özel iyilikler gibi anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "İnsanların kalbinde bulunan “özel yol” ne işe yarıyor?",
+          "answer": "Kişinin sebepleri bırakıp doğrudan Allah’a yönelmesine yardım ediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S1Q14",
+          "sourceQuestionId": "S1Q14",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 14,
+          "question": "Bu yöneliş insandan ne istemektedir?",
+          "answer": "Yalnız Allah’a kulluk edip yalnız Ondan yardım istemesini istemektedir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S1Q13"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü işaretin ana düşüncesi nedir?",
+          "answer": "Allah’ın isim ve sıfatlarının her düşünülen derecenin üstünde olduğu anlatılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bir şeyin birçok basamağı olabildiği söylenince, buna benzer olarak hangi konuda da çok basamak düşünülebilir?",
+          "answer": "Allah’ın isimleri ve kutsal sıfatları konusunda da düşünülebilir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Bu basamakların hepsinde en kusursuz olan kimdir?",
+          "answer": "Allah’tır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Kâinattaki mükemmellikler bize neyi gösterir?",
+          "answer": "Allah’ın en yüce kemalde olduğunu gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Allah’ın güzel isimleri olduğunun söylenmesi, O’nun isimleri hakkında ne anlatır?",
+          "answer": "Hepsinin çok güzel ve eksiksiz olduğunu anlatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Beşinci işarette yapılan karşılaştırma, Allah ile başka varlıklar arasında mı kuruluyor?",
+          "answer": "Hayır, Allah’ın iki türlü tecellisi arasında kuruluyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bu iki tecelliden biri hangi sır ile anılıyor?",
+          "answer": "Vahidiyet sırrı ile anılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Vahidiyet yönündeki işler nasıl görünür?",
+          "answer": "Sebepler ve araçlar üzerinden, genel bir düzenle görünür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Diğer tecelli hangi sır ile anılıyor?",
+          "answer": "Ehadiyet sırrı ile anılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Ehadiyet yönündeki tasarrufun önemli özelliği nedir?",
+          "answer": "Doğrudan ve özel olmasıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Metindeki veli padişah örneği neyi öğretir?",
+          "answer": "Hükmün bazen aracılarla, bazen de doğrudan görünebileceğini öğretir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Doğrudan gelen ihsan neden daha güzel diye söyleniyor?",
+          "answer": "Çünkü daha özel bir yakınlık ve aracısız bir ikram bildiriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Allah’ın sebepleri perde yapması neyi gösteriyor?",
+          "answer": "Rububiyetinin büyüklüğünü gösteriyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S2Q14",
+          "sourceQuestionId": "S2Q14",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 14,
+          "question": "Kulun kalbindeki özel bağın amacı nedir?",
+          "answer": "Kulun yüzünü kâinattan çevirip Allah’a dönmesidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S2Q12"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü işarette, karşılaştırma hangi iki alan için mümkün görülüyor?",
+          "answer": "Hem var olan şeyler için hem de zihinde düşünülen şeyler için mümkün görülüyor.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Birçok varlıkta çeşitli dereceler bulunması, hangi gerçeği anlamaya yardım ediyor?",
+          "answer": "Allah’ın isim ve sıfatlarında da aklen birçok derece düşünülebileceğini anlamaya yardım ediyor.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Allah için bu derecelerin en üstünde denmesi neyi anlatır?",
+          "answer": "O’nun her bakımdan en mükemmel olduğunu anlatır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu düşünceyi destekleyen büyük delil nedir?",
+          "answer": "Bütün kâinatın buna tanıklık etmesidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Güzel isimler ifadesi, Allah’ın isimleri hakkında hangi sonucu verir?",
+          "answer": "En güzel mertebede oldukları sonucunu verir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Beşinci işarette asıl vurgu ne üzerinedir?",
+          "answer": "Allah’ın tecellilerinin iki çeşit görünmesi üzerinedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "İlk görünüşte sebeplerin yeri nedir?",
+          "answer": "Sebepler bir perde gibi görünür.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İlk görünüş daha çok nasıl bir düzen içindedir?",
+          "answer": "Genel bir kanun düzeni içindedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci görünüşte kul ne hisseder?",
+          "answer": "Doğrudan bir ilgi ve yakınlık hisseder.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Hangi görünüşte özel yöneliş daha açıktır?",
+          "answer": "İkinci görünüşte daha açıktır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q9"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Padişahın memurlar üzerinden iş görmesi hangi tecelliye benzer?",
+          "answer": "Birinci tecelliye benzer.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Padişahın doğrudan iyilik yapması hangi tecelliye benzer?",
+          "answer": "İkinci tecelliye benzer.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Kalpteki özel imkân niçin verilmiştir?",
+          "answer": "İnsanın doğrudan Rabbine dönmesi için verilmiştir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q12"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S3Q14",
+          "sourceQuestionId": "S3Q14",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 14,
+          "question": "Bu bölüm, dua ve kullukta bize nasıl bir edep öğretiyor?",
+          "answer": "Yardımı ve kulluğu yalnız Allah’a sunmayı öğretiyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S3Q13"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü işarette sadece görünen şeyler mi ele alınıyor?",
+          "answer": "Hayır, zihinde tasarlanan şeyler de ele alınıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Metne göre birçok konuda çeşitli dereceler varsa, İlâhî isimlerde de ne olabilir?",
+          "answer": "Sayısız derece düşünülebilir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Bu dereceler arasında Allah’ın yeri nasıldır?",
+          "answer": "En tam ve en güzel yerdedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kâinatın tamamı bu konuda nasıl bir görev yapıyor?",
+          "answer": "Şahitlik ediyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Allah’ın isimlerinin çok güzel olması neyi hissettiriyor?",
+          "answer": "Eksiksiz ve üstün olduklarını hissettiriyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Beşinci işaretteki karşılaştırma kiminle kimin arasında değildir?",
+          "answer": "Allah ile yaratılmışlar arasında değildir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Orada hangi iki çeşit görünüş karşılaştırılıyor?",
+          "answer": "Genel ve perdeli görünüş ile özel ve doğrudan görünüş karşılaştırılıyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Genel ve perdeli görünüşte neler vardır?",
+          "answer": "Sebepler, araçlar ve genel düzen vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Özel ve doğrudan görünüşte ne öne çıkar?",
+          "answer": "Aracısız ihsan ve özel ilgi öne çıkar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Neden doğrudan olan daha yüksek diye anlatılıyor?",
+          "answer": "Çünkü perde olmadan geldiği için daha açık bir yakınlık gösteriyor.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Padişah örneğinde memurların görevi nedir?",
+          "answer": "Bir perde gibi görünmektir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Padişahın bizzat verdiği iyilik bize neyi düşündürür?",
+          "answer": "Daha özel ve daha yüksek bir ikramı düşündürür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S4Q11"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q13",
+          "sourceQuestionId": "S4Q13",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 13,
+          "question": "Allah’ın kalbe koyduğu özel yol neye benzetiliyor?",
+          "answer": "Haberleşmeye yarayan özel bir yola benzetiliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S4Q14",
+          "sourceQuestionId": "S4Q14",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 14,
+          "question": "Bu yol sayesinde kul ne yapmalıdır?",
+          "answer": "Doğrudan Allah’a yönelip Ondan yardım istemelidir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S4Q13"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü işarette, aklın düşünebildiği dereceler çok mu az mı gösteriliyor?",
+          "answer": "Çok olduğu gösteriliyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Allah’ın isim ve sıfatları bu derecelerin hangi noktasındadır?",
+          "answer": "En yüksek noktasındadır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Kâinattaki düzen ve güzellikler bize hangi hakikati anlatır?",
+          "answer": "Allah’ın üstün kemalini anlatır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Güzel isimler sözü, isimlerin nasıl olduğunu bildirir?",
+          "answer": "Çok güzel ve en iyi halde olduğunu bildirir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Beşinci işaretteki açıklama bize kaç çeşit ilâhî tasarruf öğretir?",
+          "answer": "İki çeşit öğretir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Birinci çeşit tasarrufta perde olan şeyler nelerdir?",
+          "answer": "Sebepler ve aracılar gibi görünen şeylerdir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Birinci çeşit daha çok hangi biçimdedir?",
+          "answer": "Genel bir kural biçimindedir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci çeşit tasarrufun ayırıcı yönü nedir?",
+          "answer": "Doğrudan olmasıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "İkinci çeşit tasarrufta kula ne vardır?",
+          "answer": "Özel bir ilgi vardır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Metindeki padişah örneği hangi zor konuyu kolaylaştırır?",
+          "answer": "Aracılı iş ile doğrudan işi ayırt etmeyi kolaylaştırır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Padişahın görevlilerle yaptığı işler neye örnektir?",
+          "answer": "Perde arkasından görünen icraata örnektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Padişahın kendi yaptığı iyilik neye örnektir?",
+          "answer": "Doğrudan tecelliye örnektir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q10"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "İbadetin özel biçimi neden önemlidir?",
+          "answer": "Kulun aracılara takılmadan Allah’a yönelmesini sağladığı için önemlidir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q12"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S5Q14",
+          "sourceQuestionId": "S5Q14",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 14,
+          "question": "Bu bölümün sonunda insana hangi yön veriliyor?",
+          "answer": "Yüzünü yalnız Allah’a çevirmesi isteniyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S5Q13"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Dördüncü işaret, Allah’ın isim ve sıfatlarını hangi yönden anlatıyor?",
+          "answer": "En üstün derecede oldukları yönden anlatıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Burada sadece olan şeyler değil, başka ne tür şeyler de düşünülüyor?",
+          "answer": "Zihinde tasarlanan ve mümkün görülen şeyler de düşünülüyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Allah’ın her düşünülen dereceden üstün olması neyi gösterir?",
+          "answer": "O’nun kusursuzluğunu gösterir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu kusursuzluğa bütün ne şahitlik eder?",
+          "answer": "Bütün âlem şahitlik eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Güzel isimler ifadesinden hangi sonuç çıkar?",
+          "answer": "Allah’ın isimlerinin en güzel olduğu sonucu çıkar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Beşinci işaretteki karşılaştırma, yaratılmışlarla ilgili değilse neyle ilgilidir?",
+          "answer": "Allah’ın iki türlü tecellisiyle ilgilidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Sebeplerin arada bulunduğu tecelli hangisidir?",
+          "answer": "Vahidiyet yönündeki tecellidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Doğrudan ve özel olan tecelli hangisidir?",
+          "answer": "Ehadiyet yönündeki tecellidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Doğrudan olan tecellide hangi özellik daha güçlü görünür?",
+          "answer": "Yakınlık ve özel ihsan daha güçlü görünür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Padişah misali neden uygun bir örnektir?",
+          "answer": "Aynı kişinin işleri iki farklı yolla yapabildiğini gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Genel kanunla yapılan işler hangi tarafa benzer?",
+          "answer": "Sebepler perdesiyle olan tarafa benzer.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Aracı olmadan yapılan iyilik hangi tarafa benzer?",
+          "answer": "Doğrudan tecelli tarafına benzer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q13",
+          "sourceQuestionId": "S6Q13",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 13,
+          "question": "İnsan kalbindeki özel bağın faydası nedir?",
+          "answer": "İnsanı Rabbine yaklaştırmasıdır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q12"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p49:2-sinif:S6Q14",
+          "sourceQuestionId": "S6Q14",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 14,
+          "question": "Bu bölümde kula hangi dua şuuru veriliyor?",
+          "answer": "Kulluğu da yardımı da yalnız Allah’tan isteme şuuru veriliyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p49:2-sinif:S6Q13"
+          ]
+        }
+      ]
+    }
+  ]
+}

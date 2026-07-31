@@ -1,0 +1,664 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "11-soz:8-sinif:p04",
+  "bookSlug": "11-soz",
+  "bookTitle": "11. Söz",
+  "bookOrder": 4,
+  "gradeSlug": "8-sinif",
+  "partNo": "p04",
+  "partNumber": 4,
+  "title": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/11-soz/outputs/8-sinif/SveC_8sinif_11-soz-p04-temsilin-sirri-ustadin-vucudu-ve-sozunun-kabulu.txt",
+  "sourceRevision": "7367654a6730a0a3e8d4d507f99f3f6b5d20837b14390788e1fc4b1d712b02a4",
+  "setCount": 6,
+  "questionCount": 54,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde, sarayın yapılma gayelerinin gerçekleşmesi kaç ana şarta bağlanmıştır?",
+          "answer": "İki ana şarta bağlanmıştır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki şarttan birincisi nedir?",
+          "answer": "Öğreten ve açıklayan bir rehberin bulunmasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Rehberin varlığı neden bu kadar önemli görülmüştür?",
+          "answer": "Çünkü rehber olmazsa sarayın anlamı ve amacı insanlar tarafından kavranamaz.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Anlatımda, rehbersiz kalanın neye benzediği söylenmiştir?",
+          "answer": "Öğreticisiz kalmış, manası çözülemeyen bir yazıya benzetilmiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci şart olarak halktan ne beklenmiştir?",
+          "answer": "Rehberin sözünü dinlemeleri ve kabul etmeleri beklenmiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Rehberin varlığı, sarayın kurulmasıyla nasıl ilişkilendirilmiştir?",
+          "answer": "Rehberin bulunması, sarayın yapılmasına sebep gibi gösterilmiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Halkın rehberi dinlemesi, sarayın hangi yönüyle bağlantılı görülmüştür?",
+          "answer": "Sarayın devam etmesi ve yerinde kalmasıyla bağlantılı görülmüştür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Rehber hiç olmasaydı, anlatıma göre nasıl bir sonuç çıkardı?",
+          "answer": "O yüce hükümdarın böyle bir sarayı yaptırmayacağı sonucu çıkardı.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "İnsanlar rehberin eğitimini önemsemezse saray için nasıl bir son beklenir?",
+          "answer": "Sarayın değiştirileceği veya başka bir hâle çevrileceği beklenir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bu pasajda “maksatların gerçekleşmesi” hangi iki temel unsura bağlanıyor?",
+          "answer": "Rehberin bulunmasına ve halkın onu dinlemesine bağlanıyor.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Neden sadece sarayın var olması yeterli sayılmıyor?",
+          "answer": "Çünkü maksadı anlaşılmazsa sarayın yapılma hikmeti boşa gider.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Rehberin yokluğunda insanlar saray hakkında neyi eksik kalır?",
+          "answer": "İçindeki manaları ve niçin yapıldığını anlayamazlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Parçada geçen benzetmeye göre, açıklayıcı olmadan bilgi neye dönüşür?",
+          "answer": "Anlamsız görünen bir yazı gibi kalır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Halkın rehberi dinlemesi neden sıradan bir davranış değil, önemli bir görev sayılmıştır?",
+          "answer": "Çünkü bu dinleme, sarayın maksadının yaşamasını sağlar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "“Rehber sarayın yapılmasına sebeptir” sözü nasıl anlaşılmalıdır?",
+          "answer": "Sarayın amacı insanlara anlatılacağı için rehber gerekli görülmüştür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "“Halkın dinlemesi sarayın devamına sebeptir” sözü ne anlatır?",
+          "answer": "İnsanlar doğru şekilde faydalanırsa sarayın varlığı anlamını korur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Bu pasajda dinlemek ile kabul etmek arasında nasıl bir ilişki vardır?",
+          "answer": "Sadece işitmek değil, söyleneni benimsemek de istenmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Rehberin sözü tutulmazsa meydana gelecek değişim neyi gösterir?",
+          "answer": "Maksadını yitiren şeyin aynı şekilde sürmeyeceğini gösterir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde sözü edilen yüce hükümdarın sarayı yapmadaki amaçlarının gerçekleşmesi neye bağlıdır?",
+          "answer": "İki önemli şeye bağlıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "İlk bağlı olunan şey insanlardan mı, yoksa rehberden mi ilgilidir?",
+          "answer": "Rehberle ilgilidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "İlk şartın özünü kendi cümlenle söyle.",
+          "answer": "İnsanlara yolu gösterecek bir öğretici mutlaka olmalıdır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde, anlamı kapalı bir şeyin öğreticisiz kalması hangi sonucu doğurur?",
+          "answer": "Değeri ve manası anlaşılamaz hâle gelir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci şart daha çok hangi tarafla ilgilidir?",
+          "answer": "Toplumun tavrı ve tutumuyla ilgilidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Toplumdan beklenen doğru tavır nedir?",
+          "answer": "Rehberi ciddiye alıp anlattıklarını dinlemektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Sarayın varlığı ile rehberin varlığı arasında nasıl bir sebep bağı kurulmuştur?",
+          "answer": "Rehber olmazsa sarayın yapılmasının anlamı kalmayacağı ifade edilmiştir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Sarayın kalıcı olması hangi davranışa bağlanmıştır?",
+          "answer": "Halkın rehberin eğitimine kulak vermesine bağlanmıştır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Parçada geçen “değiştirilip dönüştürülme” ifadesi neyin sonucu olarak söylenmiştir?",
+          "answer": "İnsanların rehberin derslerini dinlememesinin sonucu olarak söylenmiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde sarayın asıl maksadına ulaşması için kaç unsur gerekli görülmüştür?",
+          "answer": "İki unsur gerekli görülmüştür.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu unsurlardan biri niçin “öğretici” ile ilgilidir?",
+          "answer": "Çünkü öğretici, görünen şeylerin anlamını açıklar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Öğretici bulunmazsa sarayın durumu niçin boşa gitmiş sayılır?",
+          "answer": "Çünkü insanlar neye baktıklarını ve niçin orada olduklarını anlayamazlar.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Metindeki örneğe göre, açıklayan biri olmadan kapalı bir bilgi nasıl görünür?",
+          "answer": "Sanki boş ve anlaşılmamış bir metin gibi görünür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci unsur niçin halkın dinlemesine bağlanmıştır?",
+          "answer": "Çünkü anlatılan hakikat, ancak dinlenirse fayda verir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Rehberin bulunması sarayın hangi yönünü başlatan sebep olarak gösterilmiştir?",
+          "answer": "Yapılma sürecini başlatan sebep olarak gösterilmiştir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Halkın kulak vermesi sarayın hangi yönünü koruyan sebep sayılmıştır?",
+          "answer": "Devamını ve yerinde kalmasını koruyan sebep sayılmıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Rehberin hiç olmaması durumunda hükümdar hakkında hangi hükme varılıyor?",
+          "answer": "Böyle bir sarayı yaptırmayacağı hükmüne varılıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Halk ilgisiz kalırsa sarayın aynı şekilde kalmayacağı söyleniyor. Bu neyi anlatır?",
+          "answer": "Maksada hizmet etmeyen düzenin değiştirilmesinin uygun olacağını anlatır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Pasajda anlatılan sonuca göre, sarayın amaçları kendiliğinden gerçekleşir mi?",
+          "answer": "Hayır, belirli şartlarla gerçekleşir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Bu şartların ilki bilgi veren kişiyle ilgili olarak nasıl ifade edilebilir?",
+          "answer": "Açıklama yapan bir rehberin mevcut olması gerekir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Neden yalnızca sarayı görmek yeterli görülmemiştir?",
+          "answer": "Çünkü görülenlerin işaret ettiği manalar rehbersiz çözülemez.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde geçen benzetme, rehbersizliğin hangi zararını öne çıkarır?",
+          "answer": "Anlamın kaybolmasını ve bilginin faydasız kalmasını öne çıkarır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci şart, halkın hangi davranışını gerekli kılar?",
+          "answer": "Rehberi dikkatle dinleyip söylediklerini benimsemesini gerekli kılar.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Rehberin bulunması ile sarayın inşası arasında nasıl bir mantık kurulmuştur?",
+          "answer": "Anlatılmayacak bir eser yapılmaz düşüncesi kurulmuştur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Halkın dinlemesi ile sarayın sürmesi arasında nasıl bir ilişki vardır?",
+          "answer": "Dinleme olursa sarayın amacı yaşar; olmazsa sürmesi anlamını yitirir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "“Tebdil ve tahvil” düşüncesi bu pasajda neyi ima eder?",
+          "answer": "Değişme, bozulma veya başka bir düzene geçme ihtimalini ima eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Burada sadece işitmek mi isteniyor, yoksa daha fazlası mı?",
+          "answer": "Daha fazlası isteniyor; kabul edip gereğini önemsemek isteniyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu metinde sarayın yapılma gayesinin tamamlanması hangi sayıda temel esasa dayandırılmıştır?",
+          "answer": "İki temel esasa dayandırılmıştır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci esasın merkezinde kim vardır?",
+          "answer": "Öğretici ve tanıtıcı olan rehber vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Rehberin yokluğu neden büyük bir eksikliktir?",
+          "answer": "Çünkü sarayın sırları ve hikmeti insanlara açılmaz.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Anlamı bilinmeyen bir yazıya yapılan benzetme neyi öğretir?",
+          "answer": "Açıklama olmadan bilginin fayda vermeyeceğini öğretir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci esasın merkezinde kimler vardır?",
+          "answer": "Saraya gelen insanlar, yani halk vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p04:8-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Halktan istenen davranış sadece duymak mıdır?",
+          "answer": "Hayır, dikkatle dinlemek ve kabullenmektir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Rehberin varlığı, sarayın hangi aşamasıyla ilişkilendirilmiştir?",
+          "answer": "Sarayın kurulması ve ortaya çıkması aşamasıyla ilişkilendirilmiştir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Halkın rehberi dinlemesi, sarayın hangi sonucu için gerekli görülmüştür?",
+          "answer": "Sarayın sürmesi ve devam etmesi için gerekli görülmüştür.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p04:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Halk dinlemezse sarayda değişiklik olacağı düşüncesi hangi sebebe dayanır?",
+          "answer": "Maksadın yerine gelmemesi sebebine dayanır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

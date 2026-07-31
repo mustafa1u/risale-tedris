@@ -1,0 +1,898 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "24-soz:2-sinif:p11",
+  "bookSlug": "24-soz",
+  "bookTitle": "24. Söz",
+  "bookOrder": 7,
+  "gradeSlug": "2-sinif",
+  "partNo": "p11",
+  "partNumber": 11,
+  "title": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/24-soz/outputs/2-sinif/SveC_2sinif_24-soz-p11-yirmidorduncu-soz-ikinci-dal-nubuvvet-ve-velayet-farki.txt",
+  "sourceRevision": "1375701fb44cf8edcc786e2e8e5c36a6e0d363dfd123e55809818f54a679a2dd",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Güneşin yönelmesi ve vermesi için kaç ana yol anlatılıyor?",
+          "answer": "İki yol anlatılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İlk yol nasıl bir yoldur?",
+          "answer": "Aracısız ve doğrudan bir yoldur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "İlk yol hangi büyük vazifeyi temsil eder?",
+          "answer": "Peygamberlik yolunu temsil eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "İkinci yolda araya ne girer?",
+          "answer": "Perdeler ve aracılar girer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "İkinci yol kimi temsil eder?",
+          "answer": "Velilik yolunu temsil eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Zühre, Katre ve Reşha ilk yolda kendileri için ne diyebilir?",
+          "answer": "Hepsi, büyük güneşe ayna olduğunu söyleyebilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "İkinci yolda neden bunu tam söyleyemezler?",
+          "answer": "Çünkü güneşi sınırlı biçimde tanırlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci yolda kişi güneşi daha çok nasıl görür?",
+          "answer": "Kendine veya kendi türüne bakan gibi görür.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Büyük işler niçin o dar görünen güneşe kolayca verilemez?",
+          "answer": "Çünkü görünen hâl çok sınırlıdır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Böyle büyük işleri vermek daha çok nasıl olur?",
+          "answer": "Akıl ve imanla olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Bu vermek neden görerek bilmek gibi değildir?",
+          "answer": "Çünkü kalple açıkça seyretme yoktur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S1Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Bu yüzden inanmak kolay mı, zor mu olur?",
+          "answer": "Zor olur.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S1Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Güneşin çiçeğe, damlaya ve serpişen suya yönelmesinde kaç çeşit yol vardır?",
+          "answer": "İki çeşit yol vardır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Bu iki yoldan hangisinde perde yoktur?",
+          "answer": "Birinci yolda perde yoktur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Hangisinde araya başka şeyler girer?",
+          "answer": "İkinci yolda girer.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Araya giren şeyler Güneşin görüntüsünü ne yapar?",
+          "answer": "Ona ayrı ayrı renk katar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Doğrudan olan yol hangi hak yoluna benzetilir?",
+          "answer": "Nübüvvet yoluna benzetilir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Aracılı olan yol hangi manevi yola benzetilir?",
+          "answer": "Velayet yoluna benzetilir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "İlk yolda Zühre, Katre, Reşha kendilerini neyin aynası sayabilir?",
+          "answer": "Her yere bakan tek güneşin aynası sayabilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci yolda onların sözü nasıl daralır?",
+          "answer": "Sadece kendine görünen güneşi söylerler.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Neden bütün âleme bakan güneşi tam göremezler?",
+          "answer": "Çünkü önlerinde dar bir perde vardır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Güneşin çok büyük işlerini o dar görüntüye bağlamak hangi yolla olur?",
+          "answer": "Düşünerek ve inanarak olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "Kalbin açıkça görmesiyle mi, yoksa aklın kabul etmesiyle mi olur?",
+          "answer": "Aklın kabul etmesiyle olur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "Bazen imanla verilen hüküm neyle çatışabilir?",
+          "answer": "Kişinin gördüğü sınırlı görüntüyle çatışabilir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S2Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Anlatılan bölümde iki yolun farkı en kısa nasıl söylenir?",
+          "answer": "Biri doğrudan, biri aracılıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Doğrudan yolda Güneşin ışığı nasıl gelir?",
+          "answer": "Perdesiz gelir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Aracılı yolda aynaların ve görünen şeylerin etkisi nedir?",
+          "answer": "Işığı kendi durumlarına göre değiştirirler.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Bu değişme en çok ne olarak anlatılır?",
+          "answer": "Renk verme olarak anlatılır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Nübüvvet yolu hangi yola benzer?",
+          "answer": "Doğrudan olan yola benzer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Velayet yolu hangi yola benzer?",
+          "answer": "Aracılı olan yola benzer.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Zühre, Katre ve Reşha ilk yolda güneşle ilgili nasıl geniş bir söz söyleyebilir?",
+          "answer": "Büyük ve ortak güneşe bağlı olduklarını söyleyebilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci yolda niçin böyle geniş konuşamazlar?",
+          "answer": "Çünkü bilgileri dardır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "O dar görüş yüzünden Güneşin hangi tarafı tam kavranamaz?",
+          "answer": "Her yeri kuşatan tarafı tam kavranamaz.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Çok büyük etkileri o gördüğü güneşe vermek neden şuhudî sayılmaz?",
+          "answer": "Çünkü açık görmeye değil, düşünmeye dayanır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S3Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Şuhudî bilmekle aklî bilmek arasında burada ne fark var?",
+          "answer": "Biri görerek, öteki düşünerek olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Sonunda bu üçü için inanma hâli rahat mı, zor mu görünür?",
+          "answer": "Zor görünür.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S3Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümde anlatılan ilk yolun en önemli özelliği nedir?",
+          "answer": "Doğrudan olmasıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "İlk yolun önünde engel var mıdır, yok mudur?",
+          "answer": "Yoktur.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci yolda niçin farklı görüntüler ortaya çıkar?",
+          "answer": "Çünkü kabiliyetler ışığa farklı şekil verir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Kabiliyetlerin farklı olması neyi değiştirir?",
+          "answer": "Güneşin görünüşünü değiştirir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "İlk yol hangi yüce mesleğe işaret eder?",
+          "answer": "Peygamberlerin yoluna işaret eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci yol hangi manevi mesleğe işaret eder?",
+          "answer": "Velilerin yoluna işaret eder.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "İlk yolda üç örnek de güneş hakkında nasıl ortak bir anlayışa sahip olur?",
+          "answer": "Tek ve genel güneşi tanıyabilirler.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci yolda onların tanıdığı güneş nasıl olur?",
+          "answer": "Daha dar ve sınırlı olur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bütün dünyayı etkileyen işler o sınırlı görülen güneşe neden kolay bağlanmaz?",
+          "answer": "Çünkü görünen hâli o kadar büyük görünmez.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Böyle bir bağ kurmak daha çok hangi iki şeye dayanır?",
+          "answer": "Akla ve imana dayanır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Kalbin görmesi olmayınca ne eksik kalır?",
+          "answer": "Açık bir kesinlik eksik kalır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S4Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Bu eksiklik sebebiyle inanç bazen nasıl bir hâl alır?",
+          "answer": "Güç kazanması zor bir hâl alır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S4Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Güneşin verdiği feyiz için anlatılan iki yoldan biri nasıl işler?",
+          "answer": "Doğrudan işler.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Öbür yol nasıl işler?",
+          "answer": "Aracılarla işler.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Aracılı yolda görünen şeyler ışığa ne yapar?",
+          "answer": "Kendi özelliklerini katar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Bu yüzden aynı güneş herkese aynı mı görünür?",
+          "answer": "Hayır, farklı görünebilir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Hangi yol peygamberlik yolunu örnek gösterir?",
+          "answer": "Doğrudan olan yol.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Hangi yol velilik yolunu örnek gösterir?",
+          "answer": "Aracılı olan yol.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Zühre, Katre ve Reşha ilk yolda ne kadar geniş bir güneş anlayışına ulaşır?",
+          "answer": "Herkese bakan tek güneşi anlayabilirler.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci yolda bu anlayış neden küçülür?",
+          "answer": "Çünkü aradaki perde görüşü daraltır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Güneşin çok büyük işlerini o dar görünene vermek gözle görülmüş bilgi midir?",
+          "answer": "Hayır, daha çok akılla kabul edilen bilgidir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu kabulde iman gerekli midir?",
+          "answer": "Evet, gereklidir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Görülen şey dar olunca insanın içi hemen rahat eder mi?",
+          "answer": "Etmeyebilir.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Bu yüzden inanma sürecinde ne yaşanabilir?",
+          "answer": "Zorluk yaşanabilir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S5Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Parçada Güneşin yönelişi kaç başlıkta toplanır?",
+          "answer": "İki başlıkta toplanır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Birinci başlıktaki yolun özelliği nedir?",
+          "answer": "Araya perde girmemesidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "İkinci başlıktaki yolun özelliği nedir?",
+          "answer": "Araya engeller ve aracılar girmesidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Bu engeller Güneşin ışığını nasıl etkiler?",
+          "answer": "Onu değişik şekillerde gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Birinci yol hangi kutlu yola benzetiliyor?",
+          "answer": "Nübüvvet yoluna.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "İkinci yol hangi manevi yola benzetiliyor?",
+          "answer": "Velayet yoluna.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Zühre, Katre ve Reşha ilk yolda kendilerini neye bağlı görebilir?",
+          "answer": "Ortak ve büyük güneşe bağlı görebilir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "İkinci yolda onların sözü neden sınırlı kalır?",
+          "answer": "Çünkü gördükleri güneş sınırlıdır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Güneşin her yeri kuşatan büyük işleri niçin kalple açıkça verilemez?",
+          "answer": "Çünkü görülen görüntü dar kalır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S6Q8"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "O büyük işleri vermek hangi yolla mümkün olur?",
+          "answer": "Akıl yürütme ve imanla mümkün olur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "Bu bilgi türü doğrudan görme midir, çıkarım mıdır?",
+          "answer": "Çıkarımdır.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S6Q10"
+          ]
+        },
+        {
+          "canonicalId": "24-soz:p11:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Sonuçta böyle bir kişide inanma nasıl olabilir?",
+          "answer": "Güçlükle olabilir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "24-soz:p11:2-sinif:S6Q11"
+          ]
+        }
+      ]
+    }
+  ]
+}

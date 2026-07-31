@@ -1,0 +1,410 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "11-soz:2-sinif:p06",
+  "bookSlug": "11-soz",
+  "bookTitle": "11. Söz",
+  "bookOrder": 4,
+  "gradeSlug": "2-sinif",
+  "partNo": "p06",
+  "partNumber": 6,
+  "title": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/11-soz/outputs/2-sinif/SveC_2sinif_11-soz-p06-hakikate-gecis-ehl-i-imanin-resulu-dinleyisi-ve-namazla-yuksek-makamlara-girisi.txt",
+  "sourceRevision": "72db81e9e677742c718dfa163dab0d2b188f1cda6c50d2b913b5bd7e24513d1e",
+  "setCount": 6,
+  "questionCount": 32,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İlk sözü dinleyen mutlu topluluk kimdir?",
+          "answer": "İyi ve bahtiyar insanlardır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu topluluk kimi dinledi?",
+          "answer": "Çift yönlü görevli olan üstadı dinledi.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p06:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Üstadın kulluk yönündeki işi nedir?",
+          "answer": "Rabbini tanıtmak ve övmektir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Üstadın peygamberlik yönündeki işi nedir?",
+          "answer": "Allah’ın hükümlerini Kur’an ile insanlara ve cinlere bildirmektir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu güzel topluluk hangi kitaba kulak verdi?",
+          "answer": "Kur’an’a kulak verdi.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p06:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Kendilerini hangi ibadet içinde birçok güzel görevle meşgul gördüler?",
+          "answer": "Namaz içinde gördüler.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Birinci kafile nasıl insanlardan oluşur?",
+          "answer": "Mutlu ve iyi kişilerden oluşur.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Metinde üstad için iki yönlü denmesinin sebebi nedir?",
+          "answer": "Hem kul olarak Allah’ı tanıtır, hem elçi olarak Allah’ın mesajını bildirir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Allah’ın emirleri insanlara ne aracılığıyla ulaştırıldı?",
+          "answer": "Kur’an aracılığıyla ulaştırıldı.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Bu topluluk, ibadetlerin özeti gibi görülen hangi ibadeti fark etti?",
+          "answer": "Namazı fark etti.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p06:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Namazdaki sözler ve hareketler onlara neyi gösterdi?",
+          "answer": "Çeşitli kulluk görevlerini gösterdi.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Bahtiyar topluluk, doğru yolu öğrenmek için kime kulak verdi?",
+          "answer": "Resule kulak verdi.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Resul, Rabbinden gelen hükümleri kimlere duyurur?",
+          "answer": "Cinlere ve insanlara duyurur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Topluluğun Kur’an’ı dinlemesi onlarda hangi ibadeti canlandırdı?",
+          "answer": "Namazı canlandırdı.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Namaz, metinde nasıl bir yönüyle anlatılıyor?",
+          "answer": "Birçok ibadeti içinde toplayan bir ibadet olarak anlatılıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Anlatılan topluluk neden bahtiyar sayılıyor?",
+          "answer": "Çünkü resulü dinleyip Kur’an’a uyuyorlar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Üstadın Allah katında ümmeti için yaptığı görev nedir?",
+          "answer": "Ümmeti adına elçilik gibi görev yapmasıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Üstadın insanlara ulaştırdığı şey kendi sözü mü, Allah’ın hükmü mü?",
+          "answer": "Allah’ın hükmüdür.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Bu topluluk kendini hangi ibadetin içinde çeşitli görevlerle donanmış gördü?",
+          "answer": "Namazın içinde gördü.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p06:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Namazdaki zikirler ve hareketler boş şeyler midir, yoksa görev mi gösterir?",
+          "answer": "Görev gösterir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde anlatılan güzel topluluk hangi özelliğiyle öne çıkıyor?",
+          "answer": "Dinleyip kabul eden bir topluluk olmalarıyla öne çıkıyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Üstadın bir yönü kul olmaktır. Bu yönüyle ne yapar?",
+          "answer": "Rabbini anlatır ve över.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Üstadın diğer yönü nedir?",
+          "answer": "Resul olmasıdır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "11-soz:p06:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Resul olunca hangi vazifeyi yerine getirir?",
+          "answer": "Kur’an ile ilahî emirleri bildirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Kur’an’ı dinleyenler namazda kendilerini nasıl gördüler?",
+          "answer": "Güzel ve yüksek görevler içinde gördüler.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "İlk görevlerinde Allah’ın hangi sıfatını öne çıkardılar?",
+          "answer": "Büyüklüğünü öne çıkardılar.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Birinci kafile, doğruyu öğrenmek için kimin sözünü tuttu?",
+          "answer": "Üstad olan resulün sözünü tuttu.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu üstad, kulluk yönüyle kimin büyüklüğünü anlatır?",
+          "answer": "Rabbinin büyüklüğünü anlatır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Peygamberlik yönüyle hangi kaynağa dayanır?",
+          "answer": "Kur’an’a dayanır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "O güzel topluluk hangi ibadeti pek önemli gördü?",
+          "answer": "Namazı pek önemli gördü.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Namazın içinde yalnız bir görev mi var, yoksa birçok görev mi var?",
+          "answer": "Birçok görev var.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz:p06:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Allah’ın eserlerine bakarken yaptıkları ilk kulluk neydi?",
+          "answer": "Allah’ı büyük bilip tesbih etmekti.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

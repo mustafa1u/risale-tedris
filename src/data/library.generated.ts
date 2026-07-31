@@ -3,18 +3,13874 @@ import type { LibraryBook, LibraryIndex, LibraryManifest } from "@/types/library
 type BookModule = { book: LibraryBook };
 
 export const libraryIndex = {
-  "generatedAt": "2026-07-28T17:59:56.012Z",
+  "generatedAt": "2026-07-31T09:52:31.720Z",
   "stats": {
-    "bookCount": 4,
-    "partCount": 321,
-    "studyDeckCount": 1605,
-    "docxCount": 3210,
-    "pdfNormalCount": 3210,
-    "pdfMobileCount": 3210,
+    "bookCount": 11,
+    "partCount": 585,
+    "studyDeckCount": 2925,
+    "docxCount": 5850,
+    "pdfNormalCount": 5850,
+    "pdfMobileCount": 5850,
     "missingPdfNormalCount": 0,
     "missingPdfMobileCount": 0
   },
   "books": [
+    {
+      "slug": "11-soz",
+      "title": "11. Söz",
+      "sourcePath": "assets/11-soz",
+      "grades": [
+        {
+          "slug": "2-sinif",
+          "label": "2. Sinif",
+          "docxCount": 32,
+          "pdfNormalCount": 32,
+          "pdfMobileCount": 32
+        },
+        {
+          "slug": "5-sinif",
+          "label": "5. Sinif",
+          "docxCount": 32,
+          "pdfNormalCount": 32,
+          "pdfMobileCount": 32
+        },
+        {
+          "slug": "8-sinif",
+          "label": "8. Sinif",
+          "docxCount": 32,
+          "pdfNormalCount": 32,
+          "pdfMobileCount": 32
+        },
+        {
+          "slug": "11-sinif",
+          "label": "11. Sinif",
+          "docxCount": 32,
+          "pdfNormalCount": 32,
+          "pdfMobileCount": 32
+        },
+        {
+          "slug": "lisans",
+          "label": "Lisans",
+          "docxCount": 32,
+          "pdfNormalCount": 32,
+          "pdfMobileCount": 32
+        }
+      ],
+      "partCount": 16,
+      "studyDeckCount": 80,
+      "partRoutes": [
+        {
+          "partNo": "p01",
+          "partNumber": 1,
+          "labelSlug": "onbirinci-soz-temsilin-girisi-ve-sultanin-maksadi",
+          "title": "Onbirinci Söz: temsilin girişi ve sultanın maksadı"
+        },
+        {
+          "partNo": "p02",
+          "partNumber": 2,
+          "labelSlug": "onbirinci-soz-kasrin-kurulusu-ve-muarrif-ustadin-tayini",
+          "title": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini"
+        },
+        {
+          "partNo": "p03",
+          "partNumber": 3,
+          "labelSlug": "temsil-muarrifin-daveti-ve-iki-guruhun-tavri",
+          "title": "Temsil: Muarrifin daveti ve iki güruhun tavrı"
+        },
+        {
+          "partNo": "p04",
+          "partNumber": 4,
+          "labelSlug": "temsilin-sirri-ustadin-vucudu-ve-sozunun-kabulu",
+          "title": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü"
+        },
+        {
+          "partNo": "p05",
+          "partNumber": 5,
+          "labelSlug": "hakikate-gecis-sarayin-aleme-tatbiki-ve-iki-firkanin-beyani",
+          "title": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı"
+        },
+        {
+          "partNo": "p06",
+          "partNumber": 6,
+          "labelSlug": "hakikate-gecis-ehl-i-imanin-resulu-dinleyisi-ve-namazla-yuksek-makamlara-girisi",
+          "title": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi"
+        },
+        {
+          "partNo": "p07",
+          "partNumber": 7,
+          "labelSlug": "namazin-makamati-ubudiyet-vazifelerinin-fihristesi",
+          "title": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi"
+        },
+        {
+          "partNo": "p08",
+          "partNumber": 8,
+          "labelSlug": "namazin-hakikati-halikin-efaline-marifet-muhabbet-ve-sukurle-mukabele",
+          "title": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele"
+        },
+        {
+          "partNo": "p09",
+          "partNumber": 9,
+          "labelSlug": "namazin-hakikati-tazim-istiane-tevhid-ve-ehl-i-imanin-akibeti",
+          "title": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti"
+        },
+        {
+          "partNo": "p10",
+          "partNumber": 10,
+          "labelSlug": "fuccar-ile-nefsin-ikazi-insan-cihazatinin-yanlis-sarfi-cihazatin-iki-asil-gayesi",
+          "title": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi"
+        },
+        {
+          "partNo": "p11",
+          "partNumber": 11,
+          "labelSlug": "fuccar-ile-nefsin-ikazi-yanlis-sarfin-temsille-izahi-ve-nefsin-uyarilmasi",
+          "title": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması"
+        },
+        {
+          "partNo": "p12",
+          "partNumber": 12,
+          "labelSlug": "hayatin-gayeleri-dokuz-emir-ilk-dort-emir",
+          "title": "Hayatın gayeleri: Dokuz emir / İlk dört emir"
+        },
+        {
+          "partNo": "p13",
+          "partNumber": 13,
+          "labelSlug": "hayatin-gayeleri-dokuz-emir-5-7-emirler",
+          "title": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler"
+        },
+        {
+          "partNo": "p14",
+          "partNumber": 14,
+          "labelSlug": "hayatin-gayeleri-dokuz-emir-8-9-emirler-ve-ozet",
+          "title": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet"
+        },
+        {
+          "partNo": "p15",
+          "partNumber": 15,
+          "labelSlug": "hayatin-mahiyeti-sureti-sirri-ve-saadet-kemali",
+          "title": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali"
+        },
+        {
+          "partNo": "p16",
+          "partNumber": 16,
+          "labelSlug": "kapanis-kasem-ayetleriyle-ihtar-ve-salavat-dua",
+          "title": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua"
+        }
+      ],
+      "studyDeckRoutes": [
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p01",
+          "title": "Onbirinci Söz: temsilin girişi ve sultanın maksadı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p01.json",
+          "sourceTitle": "Onbirinci Söz: temsilin girişi ve sultanın maksadı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p01-onbirinci-soz-temsilin-girisi-ve-sultanin-maksadi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p02",
+          "title": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p02.json",
+          "sourceTitle": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p02-onbirinci-soz-kasrin-kurulusu-ve-muarrif-ustadin-tayini.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p03",
+          "title": "Temsil: Muarrifin daveti ve iki güruhun tavrı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p03.json",
+          "sourceTitle": "Temsil: Muarrifin daveti ve iki güruhun tavrı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p03-temsil-muarrifin-daveti-ve-iki-guruhun-tavri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p04",
+          "title": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p04.json",
+          "sourceTitle": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p04-temsilin-sirri-ustadin-vucudu-ve-sozunun-kabulu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p05",
+          "title": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p05.json",
+          "sourceTitle": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p05-hakikate-gecis-sarayin-aleme-tatbiki-ve-iki-firkanin-beyani.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p06",
+          "title": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p06.json",
+          "sourceTitle": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p06-hakikate-gecis-ehl-i-imanin-resulu-dinleyisi-ve-namazla-yuksek-makamlara-girisi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p07",
+          "title": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p07.json",
+          "sourceTitle": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p07-namazin-makamati-ubudiyet-vazifelerinin-fihristesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p08",
+          "title": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p08.json",
+          "sourceTitle": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p08-namazin-hakikati-halikin-efaline-marifet-muhabbet-ve-sukurle-mukabele.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p09",
+          "title": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p09.json",
+          "sourceTitle": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p09-namazin-hakikati-tazim-istiane-tevhid-ve-ehl-i-imanin-akibeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p10",
+          "title": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p10.json",
+          "sourceTitle": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p10-fuccar-ile-nefsin-ikazi-insan-cihazatinin-yanlis-sarfi-cihazatin-iki-asil-gayesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p11",
+          "title": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p11.json",
+          "sourceTitle": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p11-fuccar-ile-nefsin-ikazi-yanlis-sarfin-temsille-izahi-ve-nefsin-uyarilmasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p12",
+          "title": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p12.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p12-hayatin-gayeleri-dokuz-emir-ilk-dort-emir.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p13",
+          "title": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p13.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p13-hayatin-gayeleri-dokuz-emir-5-7-emirler.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p14",
+          "title": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p14.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p14-hayatin-gayeleri-dokuz-emir-8-9-emirler-ve-ozet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p15",
+          "title": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p15.json",
+          "sourceTitle": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p15-hayatin-mahiyeti-sureti-sirri-ve-saadet-kemali.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p16",
+          "title": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/11-sinif/p16.json",
+          "sourceTitle": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p16-kapanis-kasem-ayetleriyle-ihtar-ve-salavat-dua.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p01",
+          "title": "Onbirinci Söz: temsilin girişi ve sultanın maksadı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p01.json",
+          "sourceTitle": "Onbirinci Söz: temsilin girişi ve sultanın maksadı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p01-onbirinci-soz-temsilin-girisi-ve-sultanin-maksadi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p02",
+          "title": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p02.json",
+          "sourceTitle": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p02-onbirinci-soz-kasrin-kurulusu-ve-muarrif-ustadin-tayini.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p03",
+          "title": "Temsil: Muarrifin daveti ve iki güruhun tavrı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p03.json",
+          "sourceTitle": "Temsil: Muarrifin daveti ve iki güruhun tavrı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p03-temsil-muarrifin-daveti-ve-iki-guruhun-tavri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p04",
+          "title": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p04.json",
+          "sourceTitle": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p04-temsilin-sirri-ustadin-vucudu-ve-sozunun-kabulu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p05",
+          "title": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p05.json",
+          "sourceTitle": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p05-hakikate-gecis-sarayin-aleme-tatbiki-ve-iki-firkanin-beyani.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p06",
+          "title": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p06.json",
+          "sourceTitle": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p06-hakikate-gecis-ehl-i-imanin-resulu-dinleyisi-ve-namazla-yuksek-makamlara-girisi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p07",
+          "title": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p07.json",
+          "sourceTitle": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p07-namazin-makamati-ubudiyet-vazifelerinin-fihristesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p08",
+          "title": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p08.json",
+          "sourceTitle": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p08-namazin-hakikati-halikin-efaline-marifet-muhabbet-ve-sukurle-mukabele.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p09",
+          "title": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p09.json",
+          "sourceTitle": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p09-namazin-hakikati-tazim-istiane-tevhid-ve-ehl-i-imanin-akibeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p10",
+          "title": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p10.json",
+          "sourceTitle": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p10-fuccar-ile-nefsin-ikazi-insan-cihazatinin-yanlis-sarfi-cihazatin-iki-asil-gayesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p11",
+          "title": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p11.json",
+          "sourceTitle": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p11-fuccar-ile-nefsin-ikazi-yanlis-sarfin-temsille-izahi-ve-nefsin-uyarilmasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p12",
+          "title": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p12.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p12-hayatin-gayeleri-dokuz-emir-ilk-dort-emir.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p13",
+          "title": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p13.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p13-hayatin-gayeleri-dokuz-emir-5-7-emirler.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p14",
+          "title": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p14.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p14-hayatin-gayeleri-dokuz-emir-8-9-emirler-ve-ozet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p15",
+          "title": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p15.json",
+          "sourceTitle": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p15-hayatin-mahiyeti-sureti-sirri-ve-saadet-kemali.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p16",
+          "title": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/2-sinif/p16.json",
+          "sourceTitle": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p16-kapanis-kasem-ayetleriyle-ihtar-ve-salavat-dua.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p01",
+          "title": "Onbirinci Söz: temsilin girişi ve sultanın maksadı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p01.json",
+          "sourceTitle": "Onbirinci Söz: temsilin girişi ve sultanın maksadı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p01-onbirinci-soz-temsilin-girisi-ve-sultanin-maksadi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p02",
+          "title": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p02.json",
+          "sourceTitle": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p02-onbirinci-soz-kasrin-kurulusu-ve-muarrif-ustadin-tayini.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p03",
+          "title": "Temsil: Muarrifin daveti ve iki güruhun tavrı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p03.json",
+          "sourceTitle": "Temsil: Muarrifin daveti ve iki güruhun tavrı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p03-temsil-muarrifin-daveti-ve-iki-guruhun-tavri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p04",
+          "title": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p04.json",
+          "sourceTitle": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p04-temsilin-sirri-ustadin-vucudu-ve-sozunun-kabulu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p05",
+          "title": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p05.json",
+          "sourceTitle": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p05-hakikate-gecis-sarayin-aleme-tatbiki-ve-iki-firkanin-beyani.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p06",
+          "title": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p06.json",
+          "sourceTitle": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p06-hakikate-gecis-ehl-i-imanin-resulu-dinleyisi-ve-namazla-yuksek-makamlara-girisi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p07",
+          "title": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p07.json",
+          "sourceTitle": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p07-namazin-makamati-ubudiyet-vazifelerinin-fihristesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p08",
+          "title": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p08.json",
+          "sourceTitle": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p08-namazin-hakikati-halikin-efaline-marifet-muhabbet-ve-sukurle-mukabele.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p09",
+          "title": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p09.json",
+          "sourceTitle": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p09-namazin-hakikati-tazim-istiane-tevhid-ve-ehl-i-imanin-akibeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p10",
+          "title": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p10.json",
+          "sourceTitle": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p10-fuccar-ile-nefsin-ikazi-insan-cihazatinin-yanlis-sarfi-cihazatin-iki-asil-gayesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p11",
+          "title": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p11.json",
+          "sourceTitle": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p11-fuccar-ile-nefsin-ikazi-yanlis-sarfin-temsille-izahi-ve-nefsin-uyarilmasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p12",
+          "title": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p12.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p12-hayatin-gayeleri-dokuz-emir-ilk-dort-emir.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p13",
+          "title": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p13.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p13-hayatin-gayeleri-dokuz-emir-5-7-emirler.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p14",
+          "title": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p14.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p14-hayatin-gayeleri-dokuz-emir-8-9-emirler-ve-ozet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p15",
+          "title": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p15.json",
+          "sourceTitle": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p15-hayatin-mahiyeti-sureti-sirri-ve-saadet-kemali.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p16",
+          "title": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/5-sinif/p16.json",
+          "sourceTitle": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p16-kapanis-kasem-ayetleriyle-ihtar-ve-salavat-dua.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p01",
+          "title": "Onbirinci Söz: temsilin girişi ve sultanın maksadı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p01.json",
+          "sourceTitle": "Onbirinci Söz: temsilin girişi ve sultanın maksadı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p01-onbirinci-soz-temsilin-girisi-ve-sultanin-maksadi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p02",
+          "title": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p02.json",
+          "sourceTitle": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p02-onbirinci-soz-kasrin-kurulusu-ve-muarrif-ustadin-tayini.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p03",
+          "title": "Temsil: Muarrifin daveti ve iki güruhun tavrı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p03.json",
+          "sourceTitle": "Temsil: Muarrifin daveti ve iki güruhun tavrı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p03-temsil-muarrifin-daveti-ve-iki-guruhun-tavri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p04",
+          "title": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p04.json",
+          "sourceTitle": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p04-temsilin-sirri-ustadin-vucudu-ve-sozunun-kabulu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p05",
+          "title": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p05.json",
+          "sourceTitle": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p05-hakikate-gecis-sarayin-aleme-tatbiki-ve-iki-firkanin-beyani.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p06",
+          "title": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p06.json",
+          "sourceTitle": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p06-hakikate-gecis-ehl-i-imanin-resulu-dinleyisi-ve-namazla-yuksek-makamlara-girisi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p07",
+          "title": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p07.json",
+          "sourceTitle": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p07-namazin-makamati-ubudiyet-vazifelerinin-fihristesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p08",
+          "title": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p08.json",
+          "sourceTitle": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p08-namazin-hakikati-halikin-efaline-marifet-muhabbet-ve-sukurle-mukabele.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p09",
+          "title": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p09.json",
+          "sourceTitle": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p09-namazin-hakikati-tazim-istiane-tevhid-ve-ehl-i-imanin-akibeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p10",
+          "title": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p10.json",
+          "sourceTitle": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p10-fuccar-ile-nefsin-ikazi-insan-cihazatinin-yanlis-sarfi-cihazatin-iki-asil-gayesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p11",
+          "title": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p11.json",
+          "sourceTitle": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p11-fuccar-ile-nefsin-ikazi-yanlis-sarfin-temsille-izahi-ve-nefsin-uyarilmasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p12",
+          "title": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p12.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p12-hayatin-gayeleri-dokuz-emir-ilk-dort-emir.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p13",
+          "title": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p13.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p13-hayatin-gayeleri-dokuz-emir-5-7-emirler.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p14",
+          "title": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p14.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p14-hayatin-gayeleri-dokuz-emir-8-9-emirler-ve-ozet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p15",
+          "title": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p15.json",
+          "sourceTitle": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p15-hayatin-mahiyeti-sureti-sirri-ve-saadet-kemali.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p16",
+          "title": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/8-sinif/p16.json",
+          "sourceTitle": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p16-kapanis-kasem-ayetleriyle-ihtar-ve-salavat-dua.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p01",
+          "title": "Onbirinci Söz: temsilin girişi ve sultanın maksadı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p01.json",
+          "sourceTitle": "Onbirinci Söz: temsilin girişi ve sultanın maksadı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p01-onbirinci-soz-temsilin-girisi-ve-sultanin-maksadi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p02",
+          "title": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p02.json",
+          "sourceTitle": "Onbirinci Söz: kasrın kuruluşu ve muarrif üstadın tayini",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p02-onbirinci-soz-kasrin-kurulusu-ve-muarrif-ustadin-tayini.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p03",
+          "title": "Temsil: Muarrifin daveti ve iki güruhun tavrı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p03.json",
+          "sourceTitle": "Temsil: Muarrifin daveti ve iki güruhun tavrı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p03-temsil-muarrifin-daveti-ve-iki-guruhun-tavri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p04",
+          "title": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p04.json",
+          "sourceTitle": "Temsilin sırrı: Üstadın vücudu ve sözünün kabulü",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p04-temsilin-sirri-ustadin-vucudu-ve-sozunun-kabulu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p05",
+          "title": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p05.json",
+          "sourceTitle": "Hakikate geçiş: Sarayın âleme tatbiki ve iki fırkanın beyanı",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p05-hakikate-gecis-sarayin-aleme-tatbiki-ve-iki-firkanin-beyani.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p06",
+          "title": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p06.json",
+          "sourceTitle": "Hakikate geçiş: Ehl-i imanın resulü dinleyişi ve namazla yüksek makamlara girişi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p06-hakikate-gecis-ehl-i-imanin-resulu-dinleyisi-ve-namazla-yuksek-makamlara-girisi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p07",
+          "title": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p07.json",
+          "sourceTitle": "Namazın makamatı: Ubudiyet vazifelerinin fihristesi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p07-namazin-makamati-ubudiyet-vazifelerinin-fihristesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p08",
+          "title": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p08.json",
+          "sourceTitle": "Namazın hakikati: Hâlıkın ef'aline marifet, muhabbet ve şükürle mukabele",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p08-namazin-hakikati-halikin-efaline-marifet-muhabbet-ve-sukurle-mukabele.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p09",
+          "title": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p09.json",
+          "sourceTitle": "Namazın hakikati: tâzim, istiane, tevhid ve ehl-i imanın âkıbeti",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p09-namazin-hakikati-tazim-istiane-tevhid-ve-ehl-i-imanin-akibeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p10",
+          "title": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p10.json",
+          "sourceTitle": "Füccar ile nefsin ikazı: İnsan cihazatının yanlış sarfı / Cihazatın iki asıl gayesi",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p10-fuccar-ile-nefsin-ikazi-insan-cihazatinin-yanlis-sarfi-cihazatin-iki-asil-gayesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p11",
+          "title": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p11.json",
+          "sourceTitle": "Füccar ile nefsin ikazı: Yanlış sarfın temsille izahı ve nefsin uyarılması",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p11-fuccar-ile-nefsin-ikazi-yanlis-sarfin-temsille-izahi-ve-nefsin-uyarilmasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p12",
+          "title": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p12.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / İlk dört emir",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p12-hayatin-gayeleri-dokuz-emir-ilk-dort-emir.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p13",
+          "title": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p13.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / 5.-7. emirler",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p13-hayatin-gayeleri-dokuz-emir-5-7-emirler.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p14",
+          "title": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p14.json",
+          "sourceTitle": "Hayatın gayeleri: Dokuz emir / 8.-9. emirler ve özet",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p14-hayatin-gayeleri-dokuz-emir-8-9-emirler-ve-ozet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p15",
+          "title": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p15.json",
+          "sourceTitle": "Hayatın mahiyeti, sureti, sırrı ve saadet kemali",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p15-hayatin-mahiyeti-sureti-sirri-ve-saadet-kemali.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p16",
+          "title": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua",
+          "cardCount": 24,
+          "url": "/assets/11-soz/question-bank/lisans/p16.json",
+          "sourceTitle": "Kapanış: Kasem ayetleriyle ihtar ve salavat dua",
+          "sourceTextUrl": "/assets/11-soz/parcalar/11-soz-p16-kapanis-kasem-ayetleriyle-ihtar-ve-salavat-dua.txt"
+        }
+      ],
+      "search": {
+        "slug": "11-soz",
+        "title": "11. Söz",
+        "shardUrl": "/assets/search/11-soz.d314316775d439ba8591839871e22e18b07e3a685b877afbe9e84bc5f5c5be0f.v1.json",
+        "contentHash": "d314316775d439ba8591839871e22e18b07e3a685b877afbe9e84bc5f5c5be0f",
+        "recordCount": 16,
+        "rawBytes": 24294
+      }
+    },
+    {
+      "slug": "13-soz",
+      "title": "13. Söz",
+      "sourcePath": "assets/13-soz",
+      "grades": [
+        {
+          "slug": "2-sinif",
+          "label": "2. Sinif",
+          "docxCount": 10,
+          "pdfNormalCount": 10,
+          "pdfMobileCount": 10
+        },
+        {
+          "slug": "5-sinif",
+          "label": "5. Sinif",
+          "docxCount": 10,
+          "pdfNormalCount": 10,
+          "pdfMobileCount": 10
+        },
+        {
+          "slug": "8-sinif",
+          "label": "8. Sinif",
+          "docxCount": 10,
+          "pdfNormalCount": 10,
+          "pdfMobileCount": 10
+        },
+        {
+          "slug": "11-sinif",
+          "label": "11. Sinif",
+          "docxCount": 10,
+          "pdfNormalCount": 10,
+          "pdfMobileCount": 10
+        },
+        {
+          "slug": "lisans",
+          "label": "Lisans",
+          "docxCount": 10,
+          "pdfNormalCount": 10,
+          "pdfMobileCount": 10
+        }
+      ],
+      "partCount": 5,
+      "studyDeckCount": 25,
+      "partRoutes": [
+        {
+          "partNo": "p01",
+          "partNumber": 1,
+          "labelSlug": "kuran-hikmeti-ile-felsefenin-karsilastirilmasi",
+          "title": "Kur'an hikmeti ile felsefenin karşılaştırılması"
+        },
+        {
+          "partNo": "p02",
+          "partNumber": 2,
+          "labelSlug": "kuranin-siirden-mustagni-olusu",
+          "title": "Kur'anın şiirden müstağni oluşu"
+        },
+        {
+          "partNo": "p03",
+          "partNumber": 3,
+          "labelSlug": "cahiliyet-icinde-ayetlerin-ihya-edici-tesiri",
+          "title": "Cahiliyet içinde ayetlerin ihya edici tesiri"
+        },
+        {
+          "partNo": "p04",
+          "partNumber": 4,
+          "labelSlug": "secere-temsiliyle-hilkat-hakikatinin-tasviri",
+          "title": "Şecere temsiliyle hilkat hakikatinin tasviri"
+        },
+        {
+          "partNo": "p05",
+          "partNumber": 5,
+          "labelSlug": "esma-sifat-iman-ve-seriatta-kurani-tenasub",
+          "title": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb"
+        }
+      ],
+      "studyDeckRoutes": [
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p01",
+          "title": "Kur'an hikmeti ile felsefenin karşılaştırılması",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/11-sinif/p01.json",
+          "sourceTitle": "Kur'an hikmeti ile felsefenin karşılaştırılması",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p01-kuran-hikmeti-ile-felsefenin-karsilastirilmasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p02",
+          "title": "Kur'anın şiirden müstağni oluşu",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/11-sinif/p02.json",
+          "sourceTitle": "Kur'anın şiirden müstağni oluşu",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p02-kuranin-siirden-mustagni-olusu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p03",
+          "title": "Cahiliyet içinde ayetlerin ihya edici tesiri",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/11-sinif/p03.json",
+          "sourceTitle": "Cahiliyet içinde ayetlerin ihya edici tesiri",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p03-cahiliyet-icinde-ayetlerin-ihya-edici-tesiri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p04",
+          "title": "Şecere temsiliyle hilkat hakikatinin tasviri",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/11-sinif/p04.json",
+          "sourceTitle": "Şecere temsiliyle hilkat hakikatinin tasviri",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p04-secere-temsiliyle-hilkat-hakikatinin-tasviri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p05",
+          "title": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/11-sinif/p05.json",
+          "sourceTitle": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p05-esma-sifat-iman-ve-seriatta-kurani-tenasub.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p01",
+          "title": "Kur'an hikmeti ile felsefenin karşılaştırılması",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/2-sinif/p01.json",
+          "sourceTitle": "Kur'an hikmeti ile felsefenin karşılaştırılması",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p01-kuran-hikmeti-ile-felsefenin-karsilastirilmasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p02",
+          "title": "Kur'anın şiirden müstağni oluşu",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/2-sinif/p02.json",
+          "sourceTitle": "Kur'anın şiirden müstağni oluşu",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p02-kuranin-siirden-mustagni-olusu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p03",
+          "title": "Cahiliyet içinde ayetlerin ihya edici tesiri",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/2-sinif/p03.json",
+          "sourceTitle": "Cahiliyet içinde ayetlerin ihya edici tesiri",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p03-cahiliyet-icinde-ayetlerin-ihya-edici-tesiri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p04",
+          "title": "Şecere temsiliyle hilkat hakikatinin tasviri",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/2-sinif/p04.json",
+          "sourceTitle": "Şecere temsiliyle hilkat hakikatinin tasviri",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p04-secere-temsiliyle-hilkat-hakikatinin-tasviri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p05",
+          "title": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/2-sinif/p05.json",
+          "sourceTitle": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p05-esma-sifat-iman-ve-seriatta-kurani-tenasub.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p01",
+          "title": "Kur'an hikmeti ile felsefenin karşılaştırılması",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/5-sinif/p01.json",
+          "sourceTitle": "Kur'an hikmeti ile felsefenin karşılaştırılması",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p01-kuran-hikmeti-ile-felsefenin-karsilastirilmasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p02",
+          "title": "Kur'anın şiirden müstağni oluşu",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/5-sinif/p02.json",
+          "sourceTitle": "Kur'anın şiirden müstağni oluşu",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p02-kuranin-siirden-mustagni-olusu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p03",
+          "title": "Cahiliyet içinde ayetlerin ihya edici tesiri",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/5-sinif/p03.json",
+          "sourceTitle": "Cahiliyet içinde ayetlerin ihya edici tesiri",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p03-cahiliyet-icinde-ayetlerin-ihya-edici-tesiri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p04",
+          "title": "Şecere temsiliyle hilkat hakikatinin tasviri",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/5-sinif/p04.json",
+          "sourceTitle": "Şecere temsiliyle hilkat hakikatinin tasviri",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p04-secere-temsiliyle-hilkat-hakikatinin-tasviri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p05",
+          "title": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/5-sinif/p05.json",
+          "sourceTitle": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p05-esma-sifat-iman-ve-seriatta-kurani-tenasub.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p01",
+          "title": "Kur'an hikmeti ile felsefenin karşılaştırılması",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/8-sinif/p01.json",
+          "sourceTitle": "Kur'an hikmeti ile felsefenin karşılaştırılması",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p01-kuran-hikmeti-ile-felsefenin-karsilastirilmasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p02",
+          "title": "Kur'anın şiirden müstağni oluşu",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/8-sinif/p02.json",
+          "sourceTitle": "Kur'anın şiirden müstağni oluşu",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p02-kuranin-siirden-mustagni-olusu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p03",
+          "title": "Cahiliyet içinde ayetlerin ihya edici tesiri",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/8-sinif/p03.json",
+          "sourceTitle": "Cahiliyet içinde ayetlerin ihya edici tesiri",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p03-cahiliyet-icinde-ayetlerin-ihya-edici-tesiri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p04",
+          "title": "Şecere temsiliyle hilkat hakikatinin tasviri",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/8-sinif/p04.json",
+          "sourceTitle": "Şecere temsiliyle hilkat hakikatinin tasviri",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p04-secere-temsiliyle-hilkat-hakikatinin-tasviri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p05",
+          "title": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/8-sinif/p05.json",
+          "sourceTitle": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p05-esma-sifat-iman-ve-seriatta-kurani-tenasub.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p01",
+          "title": "Kur'an hikmeti ile felsefenin karşılaştırılması",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/lisans/p01.json",
+          "sourceTitle": "Kur'an hikmeti ile felsefenin karşılaştırılması",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p01-kuran-hikmeti-ile-felsefenin-karsilastirilmasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p02",
+          "title": "Kur'anın şiirden müstağni oluşu",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/lisans/p02.json",
+          "sourceTitle": "Kur'anın şiirden müstağni oluşu",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p02-kuranin-siirden-mustagni-olusu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p03",
+          "title": "Cahiliyet içinde ayetlerin ihya edici tesiri",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/lisans/p03.json",
+          "sourceTitle": "Cahiliyet içinde ayetlerin ihya edici tesiri",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p03-cahiliyet-icinde-ayetlerin-ihya-edici-tesiri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p04",
+          "title": "Şecere temsiliyle hilkat hakikatinin tasviri",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/lisans/p04.json",
+          "sourceTitle": "Şecere temsiliyle hilkat hakikatinin tasviri",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p04-secere-temsiliyle-hilkat-hakikatinin-tasviri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p05",
+          "title": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb",
+          "cardCount": 24,
+          "url": "/assets/13-soz/question-bank/lisans/p05.json",
+          "sourceTitle": "Esma, sıfat, iman ve şeriatta Kur'ani tenasüb",
+          "sourceTextUrl": "/assets/13-soz/parcalar/13-soz-p05-esma-sifat-iman-ve-seriatta-kurani-tenasub.txt"
+        }
+      ],
+      "search": {
+        "slug": "13-soz",
+        "title": "13. Söz",
+        "shardUrl": "/assets/search/13-soz.bc359f8d80ac32e2fbc0a4cafbd2c46cf2da205740187c7e632f522b869ac675.v1.json",
+        "contentHash": "bc359f8d80ac32e2fbc0a4cafbd2c46cf2da205740187c7e632f522b869ac675",
+        "recordCount": 5,
+        "rawBytes": 11333
+      }
+    },
+    {
+      "slug": "18-soz",
+      "title": "18. Söz",
+      "sourcePath": "assets/18-soz",
+      "grades": [
+        {
+          "slug": "2-sinif",
+          "label": "2. Sinif",
+          "docxCount": 6,
+          "pdfNormalCount": 6,
+          "pdfMobileCount": 6
+        },
+        {
+          "slug": "5-sinif",
+          "label": "5. Sinif",
+          "docxCount": 6,
+          "pdfNormalCount": 6,
+          "pdfMobileCount": 6
+        },
+        {
+          "slug": "8-sinif",
+          "label": "8. Sinif",
+          "docxCount": 6,
+          "pdfNormalCount": 6,
+          "pdfMobileCount": 6
+        },
+        {
+          "slug": "11-sinif",
+          "label": "11. Sinif",
+          "docxCount": 6,
+          "pdfNormalCount": 6,
+          "pdfMobileCount": 6
+        },
+        {
+          "slug": "lisans",
+          "label": "Lisans",
+          "docxCount": 6,
+          "pdfNormalCount": 6,
+          "pdfMobileCount": 6
+        }
+      ],
+      "partCount": 3,
+      "studyDeckCount": 15,
+      "partRoutes": [
+        {
+          "partNo": "p01",
+          "partNumber": 1,
+          "labelSlug": "baslik-ve-birinci-nokta-nefs-i-emmareye-tedib-ve-sukur-dersi",
+          "title": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi"
+        },
+        {
+          "partNo": "p02",
+          "partNumber": 2,
+          "labelSlug": "ikinci-nokta-her-seyde-hakiki-husun-ve-perde-arkasindaki-hikmet",
+          "title": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet"
+        },
+        {
+          "partNo": "p03",
+          "partNumber": 3,
+          "labelSlug": "ucuncu-nokta-kainattaki-husn-u-sanattan-risalet-i-ahmediyenin-luzumu",
+          "title": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu"
+        }
+      ],
+      "studyDeckRoutes": [
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p01",
+          "title": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/11-sinif/p01.json",
+          "sourceTitle": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p01-baslik-ve-birinci-nokta-nefs-i-emmareye-tedib-ve-sukur-dersi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p02",
+          "title": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/11-sinif/p02.json",
+          "sourceTitle": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p02-ikinci-nokta-her-seyde-hakiki-husun-ve-perde-arkasindaki-hikmet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p03",
+          "title": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/11-sinif/p03.json",
+          "sourceTitle": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p03-ucuncu-nokta-kainattaki-husn-u-sanattan-risalet-i-ahmediyenin-luzumu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p01",
+          "title": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/2-sinif/p01.json",
+          "sourceTitle": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p01-baslik-ve-birinci-nokta-nefs-i-emmareye-tedib-ve-sukur-dersi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p02",
+          "title": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/2-sinif/p02.json",
+          "sourceTitle": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p02-ikinci-nokta-her-seyde-hakiki-husun-ve-perde-arkasindaki-hikmet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p03",
+          "title": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/2-sinif/p03.json",
+          "sourceTitle": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p03-ucuncu-nokta-kainattaki-husn-u-sanattan-risalet-i-ahmediyenin-luzumu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p01",
+          "title": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/5-sinif/p01.json",
+          "sourceTitle": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p01-baslik-ve-birinci-nokta-nefs-i-emmareye-tedib-ve-sukur-dersi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p02",
+          "title": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/5-sinif/p02.json",
+          "sourceTitle": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p02-ikinci-nokta-her-seyde-hakiki-husun-ve-perde-arkasindaki-hikmet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p03",
+          "title": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/5-sinif/p03.json",
+          "sourceTitle": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p03-ucuncu-nokta-kainattaki-husn-u-sanattan-risalet-i-ahmediyenin-luzumu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p01",
+          "title": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/8-sinif/p01.json",
+          "sourceTitle": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p01-baslik-ve-birinci-nokta-nefs-i-emmareye-tedib-ve-sukur-dersi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p02",
+          "title": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/8-sinif/p02.json",
+          "sourceTitle": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p02-ikinci-nokta-her-seyde-hakiki-husun-ve-perde-arkasindaki-hikmet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p03",
+          "title": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/8-sinif/p03.json",
+          "sourceTitle": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p03-ucuncu-nokta-kainattaki-husn-u-sanattan-risalet-i-ahmediyenin-luzumu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p01",
+          "title": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/lisans/p01.json",
+          "sourceTitle": "Başlık ve Birinci Nokta: Nefs-i emmâreye te’dib ve şükür dersi",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p01-baslik-ve-birinci-nokta-nefs-i-emmareye-tedib-ve-sukur-dersi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p02",
+          "title": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/lisans/p02.json",
+          "sourceTitle": "İkinci Nokta: Her şeyde hakikî hüsün ve perde arkasındaki hikmet",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p02-ikinci-nokta-her-seyde-hakiki-husun-ve-perde-arkasindaki-hikmet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p03",
+          "title": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu",
+          "cardCount": 24,
+          "url": "/assets/18-soz/question-bank/lisans/p03.json",
+          "sourceTitle": "Üçüncü Nokta: Kâinattaki hüsn-ü san‘attan risalet-i Ahmediyenin lüzumu",
+          "sourceTextUrl": "/assets/18-soz/parcalar/18-soz-p03-ucuncu-nokta-kainattaki-husn-u-sanattan-risalet-i-ahmediyenin-luzumu.txt"
+        }
+      ],
+      "search": {
+        "slug": "18-soz",
+        "title": "18. Söz",
+        "shardUrl": "/assets/search/18-soz.4c72840273dd439fa26199ed06aff43eb3168e0bf1b7be95ca2d90f7b9d101d0.v1.json",
+        "contentHash": "4c72840273dd439fa26199ed06aff43eb3168e0bf1b7be95ca2d90f7b9d101d0",
+        "recordCount": 3,
+        "rawBytes": 8486
+      }
+    },
+    {
+      "slug": "24-soz",
+      "title": "24. Söz",
+      "sourcePath": "assets/24-soz",
+      "grades": [
+        {
+          "slug": "2-sinif",
+          "label": "2. Sinif",
+          "docxCount": 110,
+          "pdfNormalCount": 110,
+          "pdfMobileCount": 110
+        },
+        {
+          "slug": "5-sinif",
+          "label": "5. Sinif",
+          "docxCount": 110,
+          "pdfNormalCount": 110,
+          "pdfMobileCount": 110
+        },
+        {
+          "slug": "8-sinif",
+          "label": "8. Sinif",
+          "docxCount": 110,
+          "pdfNormalCount": 110,
+          "pdfMobileCount": 110
+        },
+        {
+          "slug": "11-sinif",
+          "label": "11. Sinif",
+          "docxCount": 110,
+          "pdfNormalCount": 110,
+          "pdfMobileCount": 110
+        },
+        {
+          "slug": "lisans",
+          "label": "Lisans",
+          "docxCount": 110,
+          "pdfNormalCount": 110,
+          "pdfMobileCount": 110
+        }
+      ],
+      "partCount": 55,
+      "studyDeckCount": 275,
+      "partRoutes": [
+        {
+          "partNo": "p01",
+          "partNumber": 1,
+          "labelSlug": "yirmidorduncu-soz-giris-ve-birinci-dal",
+          "title": "Yirmidördüncü Söz: giriş ve Birinci Dal"
+        },
+        {
+          "partNo": "p02",
+          "partNumber": 2,
+          "labelSlug": "yirmidorduncu-soz-birinci-dal-sultan-temsiliyle-esma-ve-rububiyet-mertebeleri",
+          "title": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri"
+        },
+        {
+          "partNo": "p03",
+          "partNumber": 3,
+          "labelSlug": "yirmidorduncu-soz-birinci-dal-isimlerden-sair-esmaya-intikal-zarureti",
+          "title": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti"
+        },
+        {
+          "partNo": "p04",
+          "partNumber": 4,
+          "labelSlug": "yirmidorduncu-soz-birinci-dal-kuranin-esmaya-isareti-ve-mahlukatin-zikir-dili",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili"
+        },
+        {
+          "partNo": "p05",
+          "partNumber": 5,
+          "labelSlug": "yirmidorduncu-soz-birinci-dal-hasiye-kedilerin-ya-rahim-zikri",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri"
+        },
+        {
+          "partNo": "p06",
+          "partNumber": 6,
+          "labelSlug": "yirmidorduncu-soz-birinci-dal-kainat-musika-i-zikriyesi-insanin-cok-isimle-duasi-ve-istiaze",
+          "title": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze"
+        },
+        {
+          "partNo": "p07",
+          "partNumber": 7,
+          "labelSlug": "yirmidorduncu-soz-ikinci-dal-iki-sir-ve-meselelerin-takdimi",
+          "title": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi"
+        },
+        {
+          "partNo": "p08",
+          "partNumber": 8,
+          "labelSlug": "yirmidorduncu-soz-ikinci-dal-ihtilaflarin-hikmeti-ve-istidad-farklari",
+          "title": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları"
+        },
+        {
+          "partNo": "p09",
+          "partNumber": 9,
+          "labelSlug": "yirmidorduncu-soz-ikinci-dal-zuhre-katre-resha-temsiline-giris",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş"
+        },
+        {
+          "partNo": "p10",
+          "partNumber": 10,
+          "labelSlug": "yirmidorduncu-soz-ikinci-dal-tecellinin-uc-tarzi",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı"
+        },
+        {
+          "partNo": "p11",
+          "partNumber": 11,
+          "labelSlug": "yirmidorduncu-soz-ikinci-dal-nubuvvet-ve-velayet-farki",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı"
+        },
+        {
+          "partNo": "p12",
+          "partNumber": 12,
+          "labelSlug": "yirmidorduncu-soz-ikinci-dal-zuhre-katre-ve-resha-temsilinde-uc-meslek",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek"
+        },
+        {
+          "partNo": "p13",
+          "partNumber": 13,
+          "labelSlug": "yirmidorduncu-soz-ikinci-dal-zuhremisalin-kemal-yolu-ve-nefs-engeli",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli"
+        },
+        {
+          "partNo": "p14",
+          "partNumber": 14,
+          "labelSlug": "yirmidorduncu-soz-ikinci-dal-katre-ve-resha-misalleriyle-kemal-yollari",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları"
+        },
+        {
+          "partNo": "p15",
+          "partNumber": 15,
+          "labelSlug": "yirmidorduncu-soz-ikinci-dal-yollarin-neticesi-ve-hasir-sirri",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı"
+        },
+        {
+          "partNo": "p16",
+          "partNumber": 16,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-giris-birinci-asil-ve-ikinci-asil",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl"
+        },
+        {
+          "partNo": "p17",
+          "partNumber": 17,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-ucuncuden-altinci-asla-rivayetlerde-hata-kaynaklari",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları"
+        },
+        {
+          "partNo": "p18",
+          "partNumber": 18,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-yedinci-asil-temsil-ve-hadislerde-tesbihin-hakikat-zannedilmesi",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi"
+        },
+        {
+          "partNo": "p19",
+          "partNumber": 19,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-kiyamet-vaktinin-ibhamindaki-hikmet-ve-sahabeye-itiraz",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz"
+        },
+        {
+          "partNo": "p20",
+          "partNumber": 20,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-sahabenin-intizari-mehdi-rivayetleri-ve-ahirzaman-sahislarinin-taninmasi",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması"
+        },
+        {
+          "partNo": "p21",
+          "partNumber": 21,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-deccal-rivayetinin-tevili",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili"
+        },
+        {
+          "partNo": "p22",
+          "partNumber": 22,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-yecuc-mecuc-ve-sedd-rivayetlerinin-tevili",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili"
+        },
+        {
+          "partNo": "p23",
+          "partNumber": 23,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-dunyanin-kiymeti-hadisinin-hakikati",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati"
+        },
+        {
+          "partNo": "p24",
+          "partNumber": 24,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-surelerin-fazilet-rivayetlerine-itiraz-ve-sevabin-tezaufuyla-cevap",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap"
+        },
+        {
+          "partNo": "p25",
+          "partNumber": 25,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-sevap-hesabinin-tarla-temsili-ve-surelere-tatbiki",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki"
+        },
+        {
+          "partNo": "p26",
+          "partNumber": 26,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevab-rivayetlerinde-mumkin-ve-harika-fertler",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler"
+        },
+        {
+          "partNo": "p27",
+          "partNumber": 27,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-onuncu-asil-misal-olarak-sevab-rivayeti-ve-ayet-metni",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni"
+        },
+        {
+          "partNo": "p28",
+          "partNumber": 28,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevabin-ahiret-olcusuyle-izahi",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı"
+        },
+        {
+          "partNo": "p29",
+          "partNumber": 29,
+          "labelSlug": "netice-i-kelam-on-asil-uzerinden-ehadise-itirazin-reddi",
+          "title": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi"
+        },
+        {
+          "partNo": "p30",
+          "partNumber": 30,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-onbirinci-asil-ve-ehadisin-mutesabihatinin-tabiri",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri"
+        },
+        {
+          "partNo": "p31",
+          "partNumber": 31,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-onikinci-asil-ve-nubuvvet-nazariyla-felsefe-nazarinin-farki",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı"
+        },
+        {
+          "partNo": "p32",
+          "partNumber": 32,
+          "labelSlug": "yirmidorduncu-soz-ucuncu-dal-onikinci-asil-kure-i-arz-misaliyle-iki-nazarin-farki",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı"
+        },
+        {
+          "partNo": "p33",
+          "partNumber": 33,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-kainattaki-ubudiyetin-dort-nevi-temsiline-giris",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş"
+        },
+        {
+          "partNo": "p34",
+          "partNumber": 34,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-1-2-ve-3-nevi-amele",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele"
+        },
+        {
+          "partNo": "p35",
+          "partNumber": 35,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-4-nevi-amele-ve-kainattaki-ubudiyete-tatbiki",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki"
+        },
+        {
+          "partNo": "p36",
+          "partNumber": 36,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-ibadetten-aldigi-lezzet-ve-mukafat",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat"
+        },
+        {
+          "partNo": "p37",
+          "partNumber": 37,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-amele-kismi-ve-nezaret-hizmetlerinin-mahiyeti",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti"
+        },
+        {
+          "partNo": "p38",
+          "partNumber": 38,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-bulbulun-ilk-iki-gayesi",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi"
+        },
+        {
+          "partNo": "p39",
+          "partNumber": 39,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-bulbulun-diger-gayeleri-ve-hayvanatin-cuzi-maasi",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı"
+        },
+        {
+          "partNo": "p40",
+          "partNumber": 40,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-bulbullerin-umumi-dellalligi-ve-en-efdal-bulbul-olarak-muhammed-i-arabi",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî"
+        },
+        {
+          "partNo": "p41",
+          "partNumber": 41,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-nebatat-ve-cemadatin-ameleligi-ve-ihtiyarsiz-ameli",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli"
+        },
+        {
+          "partNo": "p42",
+          "partNumber": 42,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-nebatatin-manevi-duasi-ve-tohumlarla-nesri",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri"
+        },
+        {
+          "partNo": "p43",
+          "partNumber": 43,
+          "labelSlug": "yirmidorduncu-soz-dorduncu-dal-insan-kismi-ve-kapanis",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış"
+        },
+        {
+          "partNo": "p44",
+          "partNumber": 44,
+          "labelSlug": "besinci-dal-birinci-meyve-halka-yonelen-havf-ve-muhabbetin-bela-olusu",
+          "title": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu"
+        },
+        {
+          "partNo": "p45",
+          "partNumber": 45,
+          "labelSlug": "besinci-dal-birinci-meyve-havf-ve-muhabbetin-halika-yonelmesiyle-saadet-bulmasi",
+          "title": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması"
+        },
+        {
+          "partNo": "p46",
+          "partNumber": 46,
+          "labelSlug": "yirmidorduncu-soz-besinci-dal-1-meyve-nefis-sevgisinin-reddi-ve-mahbub-u-ezeliye-yonelis",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş"
+        },
+        {
+          "partNo": "p47",
+          "partNumber": 47,
+          "labelSlug": "yirmidorduncu-soz-besinci-dal-1-meyve-muhabbet-i-zatiyenin-allaha-yonelmesi-ve-ittiba-emri",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri"
+        },
+        {
+          "partNo": "p48",
+          "partNumber": 48,
+          "labelSlug": "yirmidorduncu-soz-besinci-dal-2-meyve-ubudiyetin-nimetin-neticesi-olusu",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu"
+        },
+        {
+          "partNo": "p49",
+          "partNumber": 49,
+          "labelSlug": "yirmidorduncu-soz-besinci-dal-2-meyve-nefse-hitap-naz-degil-niyaz-dersi",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi"
+        },
+        {
+          "partNo": "p50",
+          "partNumber": 50,
+          "labelSlug": "yirmidorduncu-soz-besinci-dal-2-meyve-kulli-niyetle-cuzi-sukrun-genislemesi",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi"
+        },
+        {
+          "partNo": "p51",
+          "partNumber": 51,
+          "labelSlug": "yirmidorduncu-soz-besinci-dal-2-meyve-tesbih-ibadet-ve-salavati-umum-mahlukat-namina-takdim-etmek",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek"
+        },
+        {
+          "partNo": "p52",
+          "partNumber": 52,
+          "labelSlug": "yirmidorduncu-soz-besinci-dal-3-meyve-sunnet-i-seniyeye-ittibain-uhrevi-meyveleri",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri"
+        },
+        {
+          "partNo": "p53",
+          "partNumber": 53,
+          "labelSlug": "yirmidorduncu-soz-besinci-dal-4-meyve-muslumanin-ehl-i-dunyayi-taklid-edememesi",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi"
+        },
+        {
+          "partNo": "p54",
+          "partNumber": 54,
+          "labelSlug": "yirmidorduncu-soz-besinci-dal-4-meyve-hayvan-gibi-olma-vehminin-reddi",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi"
+        },
+        {
+          "partNo": "p55",
+          "partNumber": 55,
+          "labelSlug": "yirmidorduncu-soz-besinci-dal-5-meyve-ubudiyetle-vahdete-yukselis",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş"
+        }
+      ],
+      "studyDeckRoutes": [
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p01",
+          "title": "Yirmidördüncü Söz: giriş ve Birinci Dal",
+          "cardCount": 19,
+          "url": "/assets/24-soz/question-bank/11-sinif/p01.json",
+          "sourceTitle": "Yirmidördüncü Söz: giriş ve Birinci Dal",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p01-yirmidorduncu-soz-giris-ve-birinci-dal.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p02",
+          "title": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p02.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p02-yirmidorduncu-soz-birinci-dal-sultan-temsiliyle-esma-ve-rububiyet-mertebeleri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p03",
+          "title": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p03.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p03-yirmidorduncu-soz-birinci-dal-isimlerden-sair-esmaya-intikal-zarureti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p04",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p04.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p04-yirmidorduncu-soz-birinci-dal-kuranin-esmaya-isareti-ve-mahlukatin-zikir-dili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p05",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p05.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p05-yirmidorduncu-soz-birinci-dal-hasiye-kedilerin-ya-rahim-zikri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p06",
+          "title": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p06.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p06-yirmidorduncu-soz-birinci-dal-kainat-musika-i-zikriyesi-insanin-cok-isimle-duasi-ve-istiaze.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p07",
+          "title": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p07.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p07-yirmidorduncu-soz-ikinci-dal-iki-sir-ve-meselelerin-takdimi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p08",
+          "title": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p08.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p08-yirmidorduncu-soz-ikinci-dal-ihtilaflarin-hikmeti-ve-istidad-farklari.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p09",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p09.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p09-yirmidorduncu-soz-ikinci-dal-zuhre-katre-resha-temsiline-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p10",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p10.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p10-yirmidorduncu-soz-ikinci-dal-tecellinin-uc-tarzi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p11",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p11.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p11-yirmidorduncu-soz-ikinci-dal-nubuvvet-ve-velayet-farki.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p12",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p12.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p12-yirmidorduncu-soz-ikinci-dal-zuhre-katre-ve-resha-temsilinde-uc-meslek.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p13",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p13.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p13-yirmidorduncu-soz-ikinci-dal-zuhremisalin-kemal-yolu-ve-nefs-engeli.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p14",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p14.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p14-yirmidorduncu-soz-ikinci-dal-katre-ve-resha-misalleriyle-kemal-yollari.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p15",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p15.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p15-yirmidorduncu-soz-ikinci-dal-yollarin-neticesi-ve-hasir-sirri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p16",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p16.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p16-yirmidorduncu-soz-ucuncu-dal-giris-birinci-asil-ve-ikinci-asil.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p17",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p17.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p17-yirmidorduncu-soz-ucuncu-dal-ucuncuden-altinci-asla-rivayetlerde-hata-kaynaklari.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p18",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p18.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p18-yirmidorduncu-soz-ucuncu-dal-yedinci-asil-temsil-ve-hadislerde-tesbihin-hakikat-zannedilmesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p19",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p19.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p19-yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-kiyamet-vaktinin-ibhamindaki-hikmet-ve-sahabeye-itiraz.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p20",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p20.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p20-yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-sahabenin-intizari-mehdi-rivayetleri-ve-ahirzaman-sahislarinin-taninmasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p21",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p21.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p21-yirmidorduncu-soz-ucuncu-dal-deccal-rivayetinin-tevili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p22",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p22.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p22-yirmidorduncu-soz-ucuncu-dal-yecuc-mecuc-ve-sedd-rivayetlerinin-tevili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p23",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p23.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p23-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-dunyanin-kiymeti-hadisinin-hakikati.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p24",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p24.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p24-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-surelerin-fazilet-rivayetlerine-itiraz-ve-sevabin-tezaufuyla-cevap.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p25",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p25.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p25-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-sevap-hesabinin-tarla-temsili-ve-surelere-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p26",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p26.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p26-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevab-rivayetlerinde-mumkin-ve-harika-fertler.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p27",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p27.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p27-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-misal-olarak-sevab-rivayeti-ve-ayet-metni.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p28",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p28.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p28-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevabin-ahiret-olcusuyle-izahi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p29",
+          "title": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p29.json",
+          "sourceTitle": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p29-netice-i-kelam-on-asil-uzerinden-ehadise-itirazin-reddi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p30",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p30.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p30-yirmidorduncu-soz-ucuncu-dal-onbirinci-asil-ve-ehadisin-mutesabihatinin-tabiri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p31",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p31.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p31-yirmidorduncu-soz-ucuncu-dal-onikinci-asil-ve-nubuvvet-nazariyla-felsefe-nazarinin-farki.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p32",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p32.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p32-yirmidorduncu-soz-ucuncu-dal-onikinci-asil-kure-i-arz-misaliyle-iki-nazarin-farki.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p33",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p33.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p33-yirmidorduncu-soz-dorduncu-dal-kainattaki-ubudiyetin-dort-nevi-temsiline-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p34",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p34.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p34-yirmidorduncu-soz-dorduncu-dal-1-2-ve-3-nevi-amele.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p35",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p35.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p35-yirmidorduncu-soz-dorduncu-dal-4-nevi-amele-ve-kainattaki-ubudiyete-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p36",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p36.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p36-yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-ibadetten-aldigi-lezzet-ve-mukafat.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p37",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p37.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p37-yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-amele-kismi-ve-nezaret-hizmetlerinin-mahiyeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p38",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p38.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p38-yirmidorduncu-soz-dorduncu-dal-bulbulun-ilk-iki-gayesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p39",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p39.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p39-yirmidorduncu-soz-dorduncu-dal-bulbulun-diger-gayeleri-ve-hayvanatin-cuzi-maasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p40",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p40.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p40-yirmidorduncu-soz-dorduncu-dal-bulbullerin-umumi-dellalligi-ve-en-efdal-bulbul-olarak-muhammed-i-arabi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p41",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p41.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p41-yirmidorduncu-soz-dorduncu-dal-nebatat-ve-cemadatin-ameleligi-ve-ihtiyarsiz-ameli.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p42",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p42.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p42-yirmidorduncu-soz-dorduncu-dal-nebatatin-manevi-duasi-ve-tohumlarla-nesri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p43",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p43.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p43-yirmidorduncu-soz-dorduncu-dal-insan-kismi-ve-kapanis.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p44",
+          "title": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p44.json",
+          "sourceTitle": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p44-besinci-dal-birinci-meyve-halka-yonelen-havf-ve-muhabbetin-bela-olusu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p45",
+          "title": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p45.json",
+          "sourceTitle": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p45-besinci-dal-birinci-meyve-havf-ve-muhabbetin-halika-yonelmesiyle-saadet-bulmasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p46",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p46.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p46-yirmidorduncu-soz-besinci-dal-1-meyve-nefis-sevgisinin-reddi-ve-mahbub-u-ezeliye-yonelis.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p47",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p47.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p47-yirmidorduncu-soz-besinci-dal-1-meyve-muhabbet-i-zatiyenin-allaha-yonelmesi-ve-ittiba-emri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p48",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p48.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p48-yirmidorduncu-soz-besinci-dal-2-meyve-ubudiyetin-nimetin-neticesi-olusu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p49",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p49.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p49-yirmidorduncu-soz-besinci-dal-2-meyve-nefse-hitap-naz-degil-niyaz-dersi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p50",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p50.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p50-yirmidorduncu-soz-besinci-dal-2-meyve-kulli-niyetle-cuzi-sukrun-genislemesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p51",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p51.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p51-yirmidorduncu-soz-besinci-dal-2-meyve-tesbih-ibadet-ve-salavati-umum-mahlukat-namina-takdim-etmek.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p52",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p52.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p52-yirmidorduncu-soz-besinci-dal-3-meyve-sunnet-i-seniyeye-ittibain-uhrevi-meyveleri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p53",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p53.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p53-yirmidorduncu-soz-besinci-dal-4-meyve-muslumanin-ehl-i-dunyayi-taklid-edememesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p54",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p54.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p54-yirmidorduncu-soz-besinci-dal-4-meyve-hayvan-gibi-olma-vehminin-reddi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p55",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/11-sinif/p55.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p55-yirmidorduncu-soz-besinci-dal-5-meyve-ubudiyetle-vahdete-yukselis.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p01",
+          "title": "Yirmidördüncü Söz: giriş ve Birinci Dal",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p01.json",
+          "sourceTitle": "Yirmidördüncü Söz: giriş ve Birinci Dal",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p01-yirmidorduncu-soz-giris-ve-birinci-dal.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p02",
+          "title": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p02.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p02-yirmidorduncu-soz-birinci-dal-sultan-temsiliyle-esma-ve-rububiyet-mertebeleri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p03",
+          "title": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p03.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p03-yirmidorduncu-soz-birinci-dal-isimlerden-sair-esmaya-intikal-zarureti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p04",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili",
+          "cardCount": 20,
+          "url": "/assets/24-soz/question-bank/2-sinif/p04.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p04-yirmidorduncu-soz-birinci-dal-kuranin-esmaya-isareti-ve-mahlukatin-zikir-dili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p05",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p05.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p05-yirmidorduncu-soz-birinci-dal-hasiye-kedilerin-ya-rahim-zikri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p06",
+          "title": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p06.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p06-yirmidorduncu-soz-birinci-dal-kainat-musika-i-zikriyesi-insanin-cok-isimle-duasi-ve-istiaze.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p07",
+          "title": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p07.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p07-yirmidorduncu-soz-ikinci-dal-iki-sir-ve-meselelerin-takdimi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p08",
+          "title": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p08.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p08-yirmidorduncu-soz-ikinci-dal-ihtilaflarin-hikmeti-ve-istidad-farklari.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p09",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p09.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p09-yirmidorduncu-soz-ikinci-dal-zuhre-katre-resha-temsiline-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p10",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p10.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p10-yirmidorduncu-soz-ikinci-dal-tecellinin-uc-tarzi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p11",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p11.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p11-yirmidorduncu-soz-ikinci-dal-nubuvvet-ve-velayet-farki.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p12",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p12.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p12-yirmidorduncu-soz-ikinci-dal-zuhre-katre-ve-resha-temsilinde-uc-meslek.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p13",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p13.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p13-yirmidorduncu-soz-ikinci-dal-zuhremisalin-kemal-yolu-ve-nefs-engeli.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p14",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p14.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p14-yirmidorduncu-soz-ikinci-dal-katre-ve-resha-misalleriyle-kemal-yollari.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p15",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p15.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p15-yirmidorduncu-soz-ikinci-dal-yollarin-neticesi-ve-hasir-sirri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p16",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p16.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p16-yirmidorduncu-soz-ucuncu-dal-giris-birinci-asil-ve-ikinci-asil.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p17",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p17.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p17-yirmidorduncu-soz-ucuncu-dal-ucuncuden-altinci-asla-rivayetlerde-hata-kaynaklari.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p18",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p18.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p18-yirmidorduncu-soz-ucuncu-dal-yedinci-asil-temsil-ve-hadislerde-tesbihin-hakikat-zannedilmesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p19",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p19.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p19-yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-kiyamet-vaktinin-ibhamindaki-hikmet-ve-sahabeye-itiraz.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p20",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p20.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p20-yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-sahabenin-intizari-mehdi-rivayetleri-ve-ahirzaman-sahislarinin-taninmasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p21",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p21.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p21-yirmidorduncu-soz-ucuncu-dal-deccal-rivayetinin-tevili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p22",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p22.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p22-yirmidorduncu-soz-ucuncu-dal-yecuc-mecuc-ve-sedd-rivayetlerinin-tevili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p23",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p23.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p23-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-dunyanin-kiymeti-hadisinin-hakikati.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p24",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p24.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p24-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-surelerin-fazilet-rivayetlerine-itiraz-ve-sevabin-tezaufuyla-cevap.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p25",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p25.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p25-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-sevap-hesabinin-tarla-temsili-ve-surelere-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p26",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p26.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p26-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevab-rivayetlerinde-mumkin-ve-harika-fertler.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p27",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p27.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p27-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-misal-olarak-sevab-rivayeti-ve-ayet-metni.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p28",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p28.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p28-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevabin-ahiret-olcusuyle-izahi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p29",
+          "title": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p29.json",
+          "sourceTitle": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p29-netice-i-kelam-on-asil-uzerinden-ehadise-itirazin-reddi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p30",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p30.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p30-yirmidorduncu-soz-ucuncu-dal-onbirinci-asil-ve-ehadisin-mutesabihatinin-tabiri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p31",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p31.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p31-yirmidorduncu-soz-ucuncu-dal-onikinci-asil-ve-nubuvvet-nazariyla-felsefe-nazarinin-farki.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p32",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p32.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p32-yirmidorduncu-soz-ucuncu-dal-onikinci-asil-kure-i-arz-misaliyle-iki-nazarin-farki.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p33",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p33.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p33-yirmidorduncu-soz-dorduncu-dal-kainattaki-ubudiyetin-dort-nevi-temsiline-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p34",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p34.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p34-yirmidorduncu-soz-dorduncu-dal-1-2-ve-3-nevi-amele.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p35",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p35.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p35-yirmidorduncu-soz-dorduncu-dal-4-nevi-amele-ve-kainattaki-ubudiyete-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p36",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p36.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p36-yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-ibadetten-aldigi-lezzet-ve-mukafat.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p37",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p37.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p37-yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-amele-kismi-ve-nezaret-hizmetlerinin-mahiyeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p38",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p38.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p38-yirmidorduncu-soz-dorduncu-dal-bulbulun-ilk-iki-gayesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p39",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p39.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p39-yirmidorduncu-soz-dorduncu-dal-bulbulun-diger-gayeleri-ve-hayvanatin-cuzi-maasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p40",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p40.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p40-yirmidorduncu-soz-dorduncu-dal-bulbullerin-umumi-dellalligi-ve-en-efdal-bulbul-olarak-muhammed-i-arabi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p41",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p41.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p41-yirmidorduncu-soz-dorduncu-dal-nebatat-ve-cemadatin-ameleligi-ve-ihtiyarsiz-ameli.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p42",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p42.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p42-yirmidorduncu-soz-dorduncu-dal-nebatatin-manevi-duasi-ve-tohumlarla-nesri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p43",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p43.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p43-yirmidorduncu-soz-dorduncu-dal-insan-kismi-ve-kapanis.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p44",
+          "title": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p44.json",
+          "sourceTitle": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p44-besinci-dal-birinci-meyve-halka-yonelen-havf-ve-muhabbetin-bela-olusu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p45",
+          "title": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p45.json",
+          "sourceTitle": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p45-besinci-dal-birinci-meyve-havf-ve-muhabbetin-halika-yonelmesiyle-saadet-bulmasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p46",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p46.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p46-yirmidorduncu-soz-besinci-dal-1-meyve-nefis-sevgisinin-reddi-ve-mahbub-u-ezeliye-yonelis.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p47",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p47.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p47-yirmidorduncu-soz-besinci-dal-1-meyve-muhabbet-i-zatiyenin-allaha-yonelmesi-ve-ittiba-emri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p48",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p48.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p48-yirmidorduncu-soz-besinci-dal-2-meyve-ubudiyetin-nimetin-neticesi-olusu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p49",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p49.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p49-yirmidorduncu-soz-besinci-dal-2-meyve-nefse-hitap-naz-degil-niyaz-dersi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p50",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p50.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p50-yirmidorduncu-soz-besinci-dal-2-meyve-kulli-niyetle-cuzi-sukrun-genislemesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p51",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p51.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p51-yirmidorduncu-soz-besinci-dal-2-meyve-tesbih-ibadet-ve-salavati-umum-mahlukat-namina-takdim-etmek.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p52",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p52.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p52-yirmidorduncu-soz-besinci-dal-3-meyve-sunnet-i-seniyeye-ittibain-uhrevi-meyveleri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p53",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p53.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p53-yirmidorduncu-soz-besinci-dal-4-meyve-muslumanin-ehl-i-dunyayi-taklid-edememesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p54",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p54.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p54-yirmidorduncu-soz-besinci-dal-4-meyve-hayvan-gibi-olma-vehminin-reddi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p55",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/2-sinif/p55.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p55-yirmidorduncu-soz-besinci-dal-5-meyve-ubudiyetle-vahdete-yukselis.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p01",
+          "title": "Yirmidördüncü Söz: giriş ve Birinci Dal",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p01.json",
+          "sourceTitle": "Yirmidördüncü Söz: giriş ve Birinci Dal",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p01-yirmidorduncu-soz-giris-ve-birinci-dal.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p02",
+          "title": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p02.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p02-yirmidorduncu-soz-birinci-dal-sultan-temsiliyle-esma-ve-rububiyet-mertebeleri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p03",
+          "title": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p03.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p03-yirmidorduncu-soz-birinci-dal-isimlerden-sair-esmaya-intikal-zarureti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p04",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p04.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p04-yirmidorduncu-soz-birinci-dal-kuranin-esmaya-isareti-ve-mahlukatin-zikir-dili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p05",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p05.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p05-yirmidorduncu-soz-birinci-dal-hasiye-kedilerin-ya-rahim-zikri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p06",
+          "title": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p06.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p06-yirmidorduncu-soz-birinci-dal-kainat-musika-i-zikriyesi-insanin-cok-isimle-duasi-ve-istiaze.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p07",
+          "title": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p07.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p07-yirmidorduncu-soz-ikinci-dal-iki-sir-ve-meselelerin-takdimi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p08",
+          "title": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p08.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p08-yirmidorduncu-soz-ikinci-dal-ihtilaflarin-hikmeti-ve-istidad-farklari.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p09",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p09.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p09-yirmidorduncu-soz-ikinci-dal-zuhre-katre-resha-temsiline-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p10",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p10.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p10-yirmidorduncu-soz-ikinci-dal-tecellinin-uc-tarzi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p11",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p11.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p11-yirmidorduncu-soz-ikinci-dal-nubuvvet-ve-velayet-farki.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p12",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p12.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p12-yirmidorduncu-soz-ikinci-dal-zuhre-katre-ve-resha-temsilinde-uc-meslek.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p13",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p13.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p13-yirmidorduncu-soz-ikinci-dal-zuhremisalin-kemal-yolu-ve-nefs-engeli.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p14",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p14.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p14-yirmidorduncu-soz-ikinci-dal-katre-ve-resha-misalleriyle-kemal-yollari.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p15",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p15.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p15-yirmidorduncu-soz-ikinci-dal-yollarin-neticesi-ve-hasir-sirri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p16",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p16.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p16-yirmidorduncu-soz-ucuncu-dal-giris-birinci-asil-ve-ikinci-asil.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p17",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p17.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p17-yirmidorduncu-soz-ucuncu-dal-ucuncuden-altinci-asla-rivayetlerde-hata-kaynaklari.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p18",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p18.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p18-yirmidorduncu-soz-ucuncu-dal-yedinci-asil-temsil-ve-hadislerde-tesbihin-hakikat-zannedilmesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p19",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p19.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p19-yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-kiyamet-vaktinin-ibhamindaki-hikmet-ve-sahabeye-itiraz.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p20",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p20.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p20-yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-sahabenin-intizari-mehdi-rivayetleri-ve-ahirzaman-sahislarinin-taninmasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p21",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p21.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p21-yirmidorduncu-soz-ucuncu-dal-deccal-rivayetinin-tevili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p22",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p22.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p22-yirmidorduncu-soz-ucuncu-dal-yecuc-mecuc-ve-sedd-rivayetlerinin-tevili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p23",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p23.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p23-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-dunyanin-kiymeti-hadisinin-hakikati.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p24",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p24.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p24-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-surelerin-fazilet-rivayetlerine-itiraz-ve-sevabin-tezaufuyla-cevap.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p25",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p25.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p25-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-sevap-hesabinin-tarla-temsili-ve-surelere-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p26",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p26.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p26-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevab-rivayetlerinde-mumkin-ve-harika-fertler.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p27",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p27.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p27-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-misal-olarak-sevab-rivayeti-ve-ayet-metni.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p28",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p28.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p28-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevabin-ahiret-olcusuyle-izahi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p29",
+          "title": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p29.json",
+          "sourceTitle": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p29-netice-i-kelam-on-asil-uzerinden-ehadise-itirazin-reddi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p30",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p30.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p30-yirmidorduncu-soz-ucuncu-dal-onbirinci-asil-ve-ehadisin-mutesabihatinin-tabiri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p31",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p31.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p31-yirmidorduncu-soz-ucuncu-dal-onikinci-asil-ve-nubuvvet-nazariyla-felsefe-nazarinin-farki.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p32",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p32.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p32-yirmidorduncu-soz-ucuncu-dal-onikinci-asil-kure-i-arz-misaliyle-iki-nazarin-farki.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p33",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p33.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p33-yirmidorduncu-soz-dorduncu-dal-kainattaki-ubudiyetin-dort-nevi-temsiline-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p34",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p34.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p34-yirmidorduncu-soz-dorduncu-dal-1-2-ve-3-nevi-amele.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p35",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p35.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p35-yirmidorduncu-soz-dorduncu-dal-4-nevi-amele-ve-kainattaki-ubudiyete-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p36",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p36.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p36-yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-ibadetten-aldigi-lezzet-ve-mukafat.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p37",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p37.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p37-yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-amele-kismi-ve-nezaret-hizmetlerinin-mahiyeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p38",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p38.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p38-yirmidorduncu-soz-dorduncu-dal-bulbulun-ilk-iki-gayesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p39",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p39.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p39-yirmidorduncu-soz-dorduncu-dal-bulbulun-diger-gayeleri-ve-hayvanatin-cuzi-maasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p40",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p40.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p40-yirmidorduncu-soz-dorduncu-dal-bulbullerin-umumi-dellalligi-ve-en-efdal-bulbul-olarak-muhammed-i-arabi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p41",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p41.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p41-yirmidorduncu-soz-dorduncu-dal-nebatat-ve-cemadatin-ameleligi-ve-ihtiyarsiz-ameli.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p42",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p42.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p42-yirmidorduncu-soz-dorduncu-dal-nebatatin-manevi-duasi-ve-tohumlarla-nesri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p43",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p43.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p43-yirmidorduncu-soz-dorduncu-dal-insan-kismi-ve-kapanis.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p44",
+          "title": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p44.json",
+          "sourceTitle": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p44-besinci-dal-birinci-meyve-halka-yonelen-havf-ve-muhabbetin-bela-olusu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p45",
+          "title": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p45.json",
+          "sourceTitle": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p45-besinci-dal-birinci-meyve-havf-ve-muhabbetin-halika-yonelmesiyle-saadet-bulmasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p46",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p46.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p46-yirmidorduncu-soz-besinci-dal-1-meyve-nefis-sevgisinin-reddi-ve-mahbub-u-ezeliye-yonelis.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p47",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p47.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p47-yirmidorduncu-soz-besinci-dal-1-meyve-muhabbet-i-zatiyenin-allaha-yonelmesi-ve-ittiba-emri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p48",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p48.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p48-yirmidorduncu-soz-besinci-dal-2-meyve-ubudiyetin-nimetin-neticesi-olusu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p49",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p49.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p49-yirmidorduncu-soz-besinci-dal-2-meyve-nefse-hitap-naz-degil-niyaz-dersi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p50",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p50.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p50-yirmidorduncu-soz-besinci-dal-2-meyve-kulli-niyetle-cuzi-sukrun-genislemesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p51",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p51.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p51-yirmidorduncu-soz-besinci-dal-2-meyve-tesbih-ibadet-ve-salavati-umum-mahlukat-namina-takdim-etmek.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p52",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p52.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p52-yirmidorduncu-soz-besinci-dal-3-meyve-sunnet-i-seniyeye-ittibain-uhrevi-meyveleri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p53",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p53.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p53-yirmidorduncu-soz-besinci-dal-4-meyve-muslumanin-ehl-i-dunyayi-taklid-edememesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p54",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p54.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p54-yirmidorduncu-soz-besinci-dal-4-meyve-hayvan-gibi-olma-vehminin-reddi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p55",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/5-sinif/p55.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p55-yirmidorduncu-soz-besinci-dal-5-meyve-ubudiyetle-vahdete-yukselis.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p01",
+          "title": "Yirmidördüncü Söz: giriş ve Birinci Dal",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p01.json",
+          "sourceTitle": "Yirmidördüncü Söz: giriş ve Birinci Dal",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p01-yirmidorduncu-soz-giris-ve-birinci-dal.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p02",
+          "title": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p02.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p02-yirmidorduncu-soz-birinci-dal-sultan-temsiliyle-esma-ve-rububiyet-mertebeleri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p03",
+          "title": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p03.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p03-yirmidorduncu-soz-birinci-dal-isimlerden-sair-esmaya-intikal-zarureti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p04",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p04.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p04-yirmidorduncu-soz-birinci-dal-kuranin-esmaya-isareti-ve-mahlukatin-zikir-dili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p05",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p05.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p05-yirmidorduncu-soz-birinci-dal-hasiye-kedilerin-ya-rahim-zikri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p06",
+          "title": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p06.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p06-yirmidorduncu-soz-birinci-dal-kainat-musika-i-zikriyesi-insanin-cok-isimle-duasi-ve-istiaze.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p07",
+          "title": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p07.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p07-yirmidorduncu-soz-ikinci-dal-iki-sir-ve-meselelerin-takdimi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p08",
+          "title": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p08.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p08-yirmidorduncu-soz-ikinci-dal-ihtilaflarin-hikmeti-ve-istidad-farklari.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p09",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p09.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p09-yirmidorduncu-soz-ikinci-dal-zuhre-katre-resha-temsiline-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p10",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p10.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p10-yirmidorduncu-soz-ikinci-dal-tecellinin-uc-tarzi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p11",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p11.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p11-yirmidorduncu-soz-ikinci-dal-nubuvvet-ve-velayet-farki.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p12",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p12.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p12-yirmidorduncu-soz-ikinci-dal-zuhre-katre-ve-resha-temsilinde-uc-meslek.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p13",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p13.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p13-yirmidorduncu-soz-ikinci-dal-zuhremisalin-kemal-yolu-ve-nefs-engeli.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p14",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p14.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p14-yirmidorduncu-soz-ikinci-dal-katre-ve-resha-misalleriyle-kemal-yollari.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p15",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p15.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p15-yirmidorduncu-soz-ikinci-dal-yollarin-neticesi-ve-hasir-sirri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p16",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p16.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p16-yirmidorduncu-soz-ucuncu-dal-giris-birinci-asil-ve-ikinci-asil.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p17",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p17.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p17-yirmidorduncu-soz-ucuncu-dal-ucuncuden-altinci-asla-rivayetlerde-hata-kaynaklari.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p18",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p18.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p18-yirmidorduncu-soz-ucuncu-dal-yedinci-asil-temsil-ve-hadislerde-tesbihin-hakikat-zannedilmesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p19",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p19.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p19-yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-kiyamet-vaktinin-ibhamindaki-hikmet-ve-sahabeye-itiraz.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p20",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p20.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p20-yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-sahabenin-intizari-mehdi-rivayetleri-ve-ahirzaman-sahislarinin-taninmasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p21",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p21.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p21-yirmidorduncu-soz-ucuncu-dal-deccal-rivayetinin-tevili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p22",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p22.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p22-yirmidorduncu-soz-ucuncu-dal-yecuc-mecuc-ve-sedd-rivayetlerinin-tevili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p23",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p23.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p23-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-dunyanin-kiymeti-hadisinin-hakikati.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p24",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p24.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p24-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-surelerin-fazilet-rivayetlerine-itiraz-ve-sevabin-tezaufuyla-cevap.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p25",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p25.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p25-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-sevap-hesabinin-tarla-temsili-ve-surelere-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p26",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p26.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p26-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevab-rivayetlerinde-mumkin-ve-harika-fertler.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p27",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p27.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p27-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-misal-olarak-sevab-rivayeti-ve-ayet-metni.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p28",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p28.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p28-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevabin-ahiret-olcusuyle-izahi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p29",
+          "title": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p29.json",
+          "sourceTitle": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p29-netice-i-kelam-on-asil-uzerinden-ehadise-itirazin-reddi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p30",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p30.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p30-yirmidorduncu-soz-ucuncu-dal-onbirinci-asil-ve-ehadisin-mutesabihatinin-tabiri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p31",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p31.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p31-yirmidorduncu-soz-ucuncu-dal-onikinci-asil-ve-nubuvvet-nazariyla-felsefe-nazarinin-farki.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p32",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p32.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p32-yirmidorduncu-soz-ucuncu-dal-onikinci-asil-kure-i-arz-misaliyle-iki-nazarin-farki.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p33",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p33.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p33-yirmidorduncu-soz-dorduncu-dal-kainattaki-ubudiyetin-dort-nevi-temsiline-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p34",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p34.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p34-yirmidorduncu-soz-dorduncu-dal-1-2-ve-3-nevi-amele.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p35",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p35.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p35-yirmidorduncu-soz-dorduncu-dal-4-nevi-amele-ve-kainattaki-ubudiyete-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p36",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p36.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p36-yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-ibadetten-aldigi-lezzet-ve-mukafat.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p37",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p37.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p37-yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-amele-kismi-ve-nezaret-hizmetlerinin-mahiyeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p38",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p38.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p38-yirmidorduncu-soz-dorduncu-dal-bulbulun-ilk-iki-gayesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p39",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p39.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p39-yirmidorduncu-soz-dorduncu-dal-bulbulun-diger-gayeleri-ve-hayvanatin-cuzi-maasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p40",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p40.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p40-yirmidorduncu-soz-dorduncu-dal-bulbullerin-umumi-dellalligi-ve-en-efdal-bulbul-olarak-muhammed-i-arabi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p41",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p41.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p41-yirmidorduncu-soz-dorduncu-dal-nebatat-ve-cemadatin-ameleligi-ve-ihtiyarsiz-ameli.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p42",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p42.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p42-yirmidorduncu-soz-dorduncu-dal-nebatatin-manevi-duasi-ve-tohumlarla-nesri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p43",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p43.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p43-yirmidorduncu-soz-dorduncu-dal-insan-kismi-ve-kapanis.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p44",
+          "title": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu",
+          "cardCount": 23,
+          "url": "/assets/24-soz/question-bank/8-sinif/p44.json",
+          "sourceTitle": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p44-besinci-dal-birinci-meyve-halka-yonelen-havf-ve-muhabbetin-bela-olusu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p45",
+          "title": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p45.json",
+          "sourceTitle": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p45-besinci-dal-birinci-meyve-havf-ve-muhabbetin-halika-yonelmesiyle-saadet-bulmasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p46",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p46.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p46-yirmidorduncu-soz-besinci-dal-1-meyve-nefis-sevgisinin-reddi-ve-mahbub-u-ezeliye-yonelis.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p47",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p47.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p47-yirmidorduncu-soz-besinci-dal-1-meyve-muhabbet-i-zatiyenin-allaha-yonelmesi-ve-ittiba-emri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p48",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p48.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p48-yirmidorduncu-soz-besinci-dal-2-meyve-ubudiyetin-nimetin-neticesi-olusu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p49",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p49.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p49-yirmidorduncu-soz-besinci-dal-2-meyve-nefse-hitap-naz-degil-niyaz-dersi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p50",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p50.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p50-yirmidorduncu-soz-besinci-dal-2-meyve-kulli-niyetle-cuzi-sukrun-genislemesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p51",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p51.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p51-yirmidorduncu-soz-besinci-dal-2-meyve-tesbih-ibadet-ve-salavati-umum-mahlukat-namina-takdim-etmek.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p52",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p52.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p52-yirmidorduncu-soz-besinci-dal-3-meyve-sunnet-i-seniyeye-ittibain-uhrevi-meyveleri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p53",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p53.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p53-yirmidorduncu-soz-besinci-dal-4-meyve-muslumanin-ehl-i-dunyayi-taklid-edememesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p54",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p54.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p54-yirmidorduncu-soz-besinci-dal-4-meyve-hayvan-gibi-olma-vehminin-reddi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p55",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/8-sinif/p55.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p55-yirmidorduncu-soz-besinci-dal-5-meyve-ubudiyetle-vahdete-yukselis.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p01",
+          "title": "Yirmidördüncü Söz: giriş ve Birinci Dal",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p01.json",
+          "sourceTitle": "Yirmidördüncü Söz: giriş ve Birinci Dal",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p01-yirmidorduncu-soz-giris-ve-birinci-dal.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p02",
+          "title": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p02.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: sultan temsiliyle esma ve rububiyet mertebeleri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p02-yirmidorduncu-soz-birinci-dal-sultan-temsiliyle-esma-ve-rububiyet-mertebeleri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p03",
+          "title": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p03.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: isimlerden sair esmaya intikal zarureti",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p03-yirmidorduncu-soz-birinci-dal-isimlerden-sair-esmaya-intikal-zarureti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p04",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p04.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: Kur’an’ın esmâya işareti ve mahlûkatın zikir dili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p04-yirmidorduncu-soz-birinci-dal-kuranin-esmaya-isareti-ve-mahlukatin-zikir-dili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p05",
+          "title": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p05.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: Haşiye – kedilerin “Yâ Rahîm” zikri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p05-yirmidorduncu-soz-birinci-dal-hasiye-kedilerin-ya-rahim-zikri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p06",
+          "title": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p06.json",
+          "sourceTitle": "Yirmidördüncü Söz / Birinci Dal: kâinat musika-i zikriyesi, insanın çok isimle duası ve istiaze",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p06-yirmidorduncu-soz-birinci-dal-kainat-musika-i-zikriyesi-insanin-cok-isimle-duasi-ve-istiaze.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p07",
+          "title": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p07.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: iki sır ve meselelerin takdimi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p07-yirmidorduncu-soz-ikinci-dal-iki-sir-ve-meselelerin-takdimi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p08",
+          "title": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p08.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: ihtilafların hikmeti ve istidad farkları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p08-yirmidorduncu-soz-ikinci-dal-ihtilaflarin-hikmeti-ve-istidad-farklari.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p09",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p09.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühre-Katre-Reşha temsiline giriş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p09-yirmidorduncu-soz-ikinci-dal-zuhre-katre-resha-temsiline-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p10",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p10.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Tecellinin üç tarzı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p10-yirmidorduncu-soz-ikinci-dal-tecellinin-uc-tarzi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p11",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p11.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Nübüvvet ve velayet farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p11-yirmidorduncu-soz-ikinci-dal-nubuvvet-ve-velayet-farki.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p12",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p12.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühre, Katre ve Reşha temsilinde üç meslek",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p12-yirmidorduncu-soz-ikinci-dal-zuhre-katre-ve-resha-temsilinde-uc-meslek.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p13",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p13.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Zühremisalin kemal yolu ve nefs engeli",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p13-yirmidorduncu-soz-ikinci-dal-zuhremisalin-kemal-yolu-ve-nefs-engeli.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p14",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p14.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Katre ve Reşha misalleriyle kemal yolları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p14-yirmidorduncu-soz-ikinci-dal-katre-ve-resha-misalleriyle-kemal-yollari.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p15",
+          "title": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p15.json",
+          "sourceTitle": "Yirmidördüncü Söz / İkinci Dal: Yolların neticesi ve haşir sırrı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p15-yirmidorduncu-soz-ikinci-dal-yollarin-neticesi-ve-hasir-sirri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p16",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p16.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: giriş, Birinci Asıl ve İkinci Asıl",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p16-yirmidorduncu-soz-ucuncu-dal-giris-birinci-asil-ve-ikinci-asil.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p17",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p17.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Üçüncüden Altıncı Asla rivayetlerde hata kaynakları",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p17-yirmidorduncu-soz-ucuncu-dal-ucuncuden-altinci-asla-rivayetlerde-hata-kaynaklari.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p18",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p18.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Yedinci Asıl: temsil ve hadîslerde teşbihin hakikat zannedilmesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p18-yirmidorduncu-soz-ucuncu-dal-yedinci-asil-temsil-ve-hadislerde-tesbihin-hakikat-zannedilmesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p19",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p19.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: kıyamet vaktinin ibhamındaki hikmet ve sahabeye itiraz",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p19-yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-kiyamet-vaktinin-ibhamindaki-hikmet-ve-sahabeye-itiraz.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p20",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p20.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Sekizinci Asıl: sahabenin intizarı, Mehdi rivayetleri ve âhirzaman şahıslarının tanınması",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p20-yirmidorduncu-soz-ucuncu-dal-sekizinci-asil-sahabenin-intizari-mehdi-rivayetleri-ve-ahirzaman-sahislarinin-taninmasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p21",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p21.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Deccal rivayetinin te'vili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p21-yirmidorduncu-soz-ucuncu-dal-deccal-rivayetinin-tevili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p22",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p22.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Ye'cüc-Me'cüc ve Sedd rivayetlerinin te'vili",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p22-yirmidorduncu-soz-ucuncu-dal-yecuc-mecuc-ve-sedd-rivayetlerinin-tevili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p23",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p23.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: dünyanın kıymeti hadisinin hakikati",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p23-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-dunyanin-kiymeti-hadisinin-hakikati.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p24",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p24.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: surelerin fazilet rivayetlerine itiraz ve sevabın tezaufuyla cevap",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p24-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-surelerin-fazilet-rivayetlerine-itiraz-ve-sevabin-tezaufuyla-cevap.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p25",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p25.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Dokuzuncu Asıl: sevap hesabının tarla temsili ve surelere tatbiki",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p25-yirmidorduncu-soz-ucuncu-dal-dokuzuncu-asil-sevap-hesabinin-tarla-temsili-ve-surelere-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p26",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p26.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevab rivayetlerinde mümkin ve hârika fertler",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p26-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevab-rivayetlerinde-mumkin-ve-harika-fertler.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p27",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p27.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: misal olarak sevab rivayeti ve ayet metni",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p27-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-misal-olarak-sevab-rivayeti-ve-ayet-metni.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p28",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p28.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onuncu Asıl: sevabın ahiret ölçüsüyle izahı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p28-yirmidorduncu-soz-ucuncu-dal-onuncu-asil-sevabin-ahiret-olcusuyle-izahi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p29",
+          "title": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p29.json",
+          "sourceTitle": "Netice-i Kelâm: On Asıl üzerinden ehadîse itirazın reddi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p29-netice-i-kelam-on-asil-uzerinden-ehadise-itirazin-reddi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p30",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p30.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Onbirinci Asıl ve ehadîsin müteşabihatının tabiri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p30-yirmidorduncu-soz-ucuncu-dal-onbirinci-asil-ve-ehadisin-mutesabihatinin-tabiri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p31",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p31.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal: Onikinci Asıl ve nübüvvet nazarıyla felsefe nazarının farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p31-yirmidorduncu-soz-ucuncu-dal-onikinci-asil-ve-nubuvvet-nazariyla-felsefe-nazarinin-farki.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p32",
+          "title": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p32.json",
+          "sourceTitle": "Yirmidördüncü Söz / Üçüncü Dal / Onikinci Asıl: Küre-i Arz misaliyle iki nazarın farkı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p32-yirmidorduncu-soz-ucuncu-dal-onikinci-asil-kure-i-arz-misaliyle-iki-nazarin-farki.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p33",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p33.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Kâinattaki ubudiyetin dört nevi temsiline giriş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p33-yirmidorduncu-soz-dorduncu-dal-kainattaki-ubudiyetin-dort-nevi-temsiline-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p34",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p34.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: 1., 2. ve 3. nevi amele",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p34-yirmidorduncu-soz-dorduncu-dal-1-2-ve-3-nevi-amele.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p35",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p35.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: 4. nevi amele ve kâinattaki ubudiyete tatbiki",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p35-yirmidorduncu-soz-dorduncu-dal-4-nevi-amele-ve-kainattaki-ubudiyete-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p36",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p36.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin ibadetten aldığı lezzet ve mükâfat",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p36-yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-ibadetten-aldigi-lezzet-ve-mukafat.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p37",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p37.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal / Birinci Kısım: Meleklerin amele kısmı ve nezaret hizmetlerinin mahiyeti",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p37-yirmidorduncu-soz-dorduncu-dal-birinci-kisim-meleklerin-amele-kismi-ve-nezaret-hizmetlerinin-mahiyeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p38",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p38.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün ilk iki gayesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p38-yirmidorduncu-soz-dorduncu-dal-bulbulun-ilk-iki-gayesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p39",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p39.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbülün diğer gayeleri ve hayvanatın cüz'î maaşı",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p39-yirmidorduncu-soz-dorduncu-dal-bulbulun-diger-gayeleri-ve-hayvanatin-cuzi-maasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p40",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p40.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Bülbüllerin umumî dellâllığı ve en efdal bülbül olarak Muhammed-i Arabî",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p40-yirmidorduncu-soz-dorduncu-dal-bulbullerin-umumi-dellalligi-ve-en-efdal-bulbul-olarak-muhammed-i-arabi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p41",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p41.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Nebatat ve cemadatın ameleliği ve ihtiyarsız ameli",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p41-yirmidorduncu-soz-dorduncu-dal-nebatat-ve-cemadatin-ameleligi-ve-ihtiyarsiz-ameli.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p42",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p42.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: Nebatatın manevî duası ve tohumlarla neşri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p42-yirmidorduncu-soz-dorduncu-dal-nebatatin-manevi-duasi-ve-tohumlarla-nesri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p43",
+          "title": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p43.json",
+          "sourceTitle": "Yirmidördüncü Söz / Dördüncü Dal: İnsan kısmı ve kapanış",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p43-yirmidorduncu-soz-dorduncu-dal-insan-kismi-ve-kapanis.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p44",
+          "title": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p44.json",
+          "sourceTitle": "Beşinci Dal / Birinci Meyve: halka yönelen havf ve muhabbetin belâ oluşu",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p44-besinci-dal-birinci-meyve-halka-yonelen-havf-ve-muhabbetin-bela-olusu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p45",
+          "title": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p45.json",
+          "sourceTitle": "Beşinci Dal / Birinci Meyve: havf ve muhabbetin Hâlık'a yönelmesiyle saadet bulması",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p45-besinci-dal-birinci-meyve-havf-ve-muhabbetin-halika-yonelmesiyle-saadet-bulmasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p46",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p46.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Nefis sevgisinin reddi ve Mahbub-u Ezelî'ye yöneliş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p46-yirmidorduncu-soz-besinci-dal-1-meyve-nefis-sevgisinin-reddi-ve-mahbub-u-ezeliye-yonelis.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p47",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p47.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 1. Meyve: Muhabbet-i zâtiyenin Allah'a yönelmesi ve ittiba emri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p47-yirmidorduncu-soz-besinci-dal-1-meyve-muhabbet-i-zatiyenin-allaha-yonelmesi-ve-ittiba-emri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p48",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p48.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Ubudiyetin nimetin neticesi oluşu",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p48-yirmidorduncu-soz-besinci-dal-2-meyve-ubudiyetin-nimetin-neticesi-olusu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p49",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p49.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Nefse hitap, naz değil niyaz dersi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p49-yirmidorduncu-soz-besinci-dal-2-meyve-nefse-hitap-naz-degil-niyaz-dersi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p50",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p50.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Küllî niyetle cüz'î şükrün genişlemesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p50-yirmidorduncu-soz-besinci-dal-2-meyve-kulli-niyetle-cuzi-sukrun-genislemesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p51",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p51.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 2. Meyve: Tesbih, ibadet ve salavatı umum mahlukat namına takdim etmek",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p51-yirmidorduncu-soz-besinci-dal-2-meyve-tesbih-ibadet-ve-salavati-umum-mahlukat-namina-takdim-etmek.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p52",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p52.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 3. Meyve: Sünnet-i Seniyeye ittibaın uhrevî meyveleri",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p52-yirmidorduncu-soz-besinci-dal-3-meyve-sunnet-i-seniyeye-ittibain-uhrevi-meyveleri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p53",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p53.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Müslümanın ehl-i dünyayı taklid edememesi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p53-yirmidorduncu-soz-besinci-dal-4-meyve-muslumanin-ehl-i-dunyayi-taklid-edememesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p54",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p54.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 4. Meyve: Hayvan gibi olma vehminin reddi",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p54-yirmidorduncu-soz-besinci-dal-4-meyve-hayvan-gibi-olma-vehminin-reddi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p55",
+          "title": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş",
+          "cardCount": 24,
+          "url": "/assets/24-soz/question-bank/lisans/p55.json",
+          "sourceTitle": "Yirmidördüncü Söz / Beşinci Dal / 5. Meyve: Ubudiyetle vahdete yükseliş",
+          "sourceTextUrl": "/assets/24-soz/parcalar/24-soz-p55-yirmidorduncu-soz-besinci-dal-5-meyve-ubudiyetle-vahdete-yukselis.txt"
+        }
+      ],
+      "search": {
+        "slug": "24-soz",
+        "title": "24. Söz",
+        "shardUrl": "/assets/search/24-soz.4ef46a13cb227a469eb9a1521ea7ab8030e7620423c599e636fcdc1106ccb8ce.v1.json",
+        "contentHash": "4ef46a13cb227a469eb9a1521ea7ab8030e7620423c599e636fcdc1106ccb8ce",
+        "recordCount": 55,
+        "rawBytes": 86684
+      }
+    },
+    {
+      "slug": "31-soz",
+      "title": "31. Söz",
+      "sourcePath": "assets/31-soz",
+      "grades": [
+        {
+          "slug": "2-sinif",
+          "label": "2. Sinif",
+          "docxCount": 78,
+          "pdfNormalCount": 78,
+          "pdfMobileCount": 78
+        },
+        {
+          "slug": "5-sinif",
+          "label": "5. Sinif",
+          "docxCount": 78,
+          "pdfNormalCount": 78,
+          "pdfMobileCount": 78
+        },
+        {
+          "slug": "8-sinif",
+          "label": "8. Sinif",
+          "docxCount": 78,
+          "pdfNormalCount": 78,
+          "pdfMobileCount": 78
+        },
+        {
+          "slug": "11-sinif",
+          "label": "11. Sinif",
+          "docxCount": 78,
+          "pdfNormalCount": 78,
+          "pdfMobileCount": 78
+        },
+        {
+          "slug": "lisans",
+          "label": "Lisans",
+          "docxCount": 78,
+          "pdfNormalCount": 78,
+          "pdfMobileCount": 78
+        }
+      ],
+      "partCount": 39,
+      "studyDeckCount": 195,
+      "partRoutes": [
+        {
+          "partNo": "p01",
+          "partNumber": 1,
+          "labelSlug": "otuzbirinci-soz-mirac-i-nebeviyeye-dair-ihtar-ve-ayetler",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler"
+        },
+        {
+          "partNo": "p02",
+          "partNumber": 2,
+          "labelSlug": "otuzbirinci-soz-mirac-i-nebeviyeye-dair-zamiri-ve-miracin-kulli-manasina-giris",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş"
+        },
+        {
+          "partNo": "p03",
+          "partNumber": 3,
+          "labelSlug": "birinci-esas-miracin-sirr-i-luzumu-sual-cevap-ve-birinci-temsil",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil"
+        },
+        {
+          "partNo": "p04",
+          "partNumber": 4,
+          "labelSlug": "birinci-esas-miracin-sirr-i-luzumu-ikinci-temsil",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil"
+        },
+        {
+          "partNo": "p05",
+          "partNumber": 5,
+          "labelSlug": "birinci-esas-miracin-sirr-i-luzumu-ikinci-suret-risalet-ve-mirac-sirri",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı"
+        },
+        {
+          "partNo": "p06",
+          "partNumber": 6,
+          "labelSlug": "birinci-esas-miracin-sirr-i-luzumu-mulhide-hitapla-sonuc",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç"
+        },
+        {
+          "partNo": "p07",
+          "partNumber": 7,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-mahiyeti",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti"
+        },
+        {
+          "partNo": "p08",
+          "partNumber": 8,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-1-temsil",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil"
+        },
+        {
+          "partNo": "p09",
+          "partNumber": 9,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-temsilin-tatbiki-ve-miracin-iktizasi",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası"
+        },
+        {
+          "partNo": "p10",
+          "partNumber": 10,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-2-temsil-ve-hakikatin-anahtari",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı"
+        },
+        {
+          "partNo": "p11",
+          "partNumber": 11,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-miracin-hakikati-ve-imkani",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı"
+        },
+        {
+          "partNo": "p12",
+          "partNumber": 12,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-mulhidin-itirazina-karsi-hakim-i-mutlakin-varligi-ve-birligi",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği"
+        },
+        {
+          "partNo": "p13",
+          "partNumber": 13,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-hakim-i-mutlaktan-mubellig-ve-rehberin-gerekliligi",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği"
+        },
+        {
+          "partNo": "p14",
+          "partNumber": 14,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-hz-muhammedin-bu-vazifeye-ehliyeti-ve-miracin-vukuu",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu"
+        },
+        {
+          "partNo": "p15",
+          "partNumber": 15,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-iyet-ve-bud-meselesi",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi"
+        },
+        {
+          "partNo": "p16",
+          "partNumber": 16,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-semavatin-ve-melaikenin-varligina-deliller",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller"
+        },
+        {
+          "partNo": "p17",
+          "partNumber": 17,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-semavatin-tabakalari-hakkinda-hulasa",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa"
+        },
+        {
+          "partNo": "p18",
+          "partNumber": 18,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-cismani-uruc-mumkinligi",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği"
+        },
+        {
+          "partNo": "p19",
+          "partNumber": 19,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-cismani-cikisin-luzumu-ve-hikmeti",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti"
+        },
+        {
+          "partNo": "p20",
+          "partNumber": 20,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-saat-temsiliyle-miracin-imkani",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı"
+        },
+        {
+          "partNo": "p21",
+          "partNumber": 21,
+          "labelSlug": "ikinci-esas-hakikat-i-mirac-imkanin-emsallerle-teyidi-ve-vukuunun-kabulu",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü"
+        },
+        {
+          "partNo": "p22",
+          "partNumber": 22,
+          "labelSlug": "ucuncu-esas-hikmet-i-mirac-vahdet-muhabbet-ve-maksad-i-ilahi",
+          "title": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi"
+        },
+        {
+          "partNo": "p23",
+          "partNumber": 23,
+          "labelSlug": "ucuncu-esas-birinci-temsil-sultan-sarayi-temsili",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili"
+        },
+        {
+          "partNo": "p24",
+          "partNumber": 24,
+          "labelSlug": "ucuncu-esas-birinci-temsil-temsilden-hakikate-miracin-vazifeleri",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri"
+        },
+        {
+          "partNo": "p25",
+          "partNumber": 25,
+          "labelSlug": "ucuncu-esas-ikinci-temsil-kainat-kitabi-ve-munkire-gecis",
+          "title": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş"
+        },
+        {
+          "partNo": "p26",
+          "partNumber": 26,
+          "labelSlug": "ucuncu-esas-1-muskil-sorular-ve-birinci-muskile-giris",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş"
+        },
+        {
+          "partNo": "p27",
+          "partNumber": 27,
+          "labelSlug": "ucuncu-esas-1-muskil-nubuvvetin-harici-besaret-ve-mucize-delilleri",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri"
+        },
+        {
+          "partNo": "p28",
+          "partNumber": 28,
+          "labelSlug": "ucuncu-esas-1-muskil-uluhiyetin-tezahuru-ve-cemal-kemalinin-en-azam-aynasi",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası"
+        },
+        {
+          "partNo": "p29",
+          "partNumber": 29,
+          "labelSlug": "ucuncu-esas-1-muskil-kainatin-manasini-acan-rehber",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber"
+        },
+        {
+          "partNo": "p30",
+          "partNumber": 30,
+          "labelSlug": "ucuncu-esas-1-muskil-ilahi-muhabbet-ve-ummet-hasenatiyla-miracin-hikmeti",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti"
+        },
+        {
+          "partNo": "p31",
+          "partNumber": 31,
+          "labelSlug": "ikinci-muskil-kainat-seceresinin-cekirdegi-ve-meyvesi-olarak-nur-u-muhammedi",
+          "title": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî"
+        },
+        {
+          "partNo": "p32",
+          "partNumber": 32,
+          "labelSlug": "ikinci-muskil-miracin-kainat-seceresindeki-nurani-munasebet-yolu-olusu",
+          "title": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu"
+        },
+        {
+          "partNo": "p33",
+          "partNumber": 33,
+          "labelSlug": "ucuncu-esas-3-muskil-semeratin-ulvi-mahzenleri-ve-uhrevi-temessulu",
+          "title": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü"
+        },
+        {
+          "partNo": "p34",
+          "partNumber": 34,
+          "labelSlug": "dorduncu-esas-miracin-semerati-ve-faydasi-giris-ve-birinci-meyve",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve"
+        },
+        {
+          "partNo": "p35",
+          "partNumber": 35,
+          "labelSlug": "dorduncu-esas-miracin-semerati-ve-faydasi-ikinci-meyve",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve"
+        },
+        {
+          "partNo": "p36",
+          "partNumber": 36,
+          "labelSlug": "dorduncu-esas-miracin-semerati-ve-faydasi-3-4-ve-5-meyveler",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler"
+        },
+        {
+          "partNo": "p37",
+          "partNumber": 37,
+          "labelSlug": "son-hitap-ve-hulasa-ilk-temsil-ile-imanin-sururu",
+          "title": "Son hitap ve hulâsa: ilk temsil ile imanın süruru"
+        },
+        {
+          "partNo": "p38",
+          "partNumber": 38,
+          "labelSlug": "son-hitap-ve-hulasa-ikinci-temsil-ikrar-ve-tebrik",
+          "title": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik"
+        },
+        {
+          "partNo": "p39",
+          "partNumber": 39,
+          "labelSlug": "dua-ve-salavatla-hatime",
+          "title": "Dua ve salavatla hatime"
+        }
+      ],
+      "studyDeckRoutes": [
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p01",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p01.json",
+          "sourceTitle": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p01-otuzbirinci-soz-mirac-i-nebeviyeye-dair-ihtar-ve-ayetler.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p02",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p02.json",
+          "sourceTitle": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p02-otuzbirinci-soz-mirac-i-nebeviyeye-dair-zamiri-ve-miracin-kulli-manasina-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p03",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p03.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p03-birinci-esas-miracin-sirr-i-luzumu-sual-cevap-ve-birinci-temsil.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p04",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p04.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p04-birinci-esas-miracin-sirr-i-luzumu-ikinci-temsil.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p05",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p05.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p05-birinci-esas-miracin-sirr-i-luzumu-ikinci-suret-risalet-ve-mirac-sirri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p06",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p06.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p06-birinci-esas-miracin-sirr-i-luzumu-mulhide-hitapla-sonuc.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p07",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p07.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p07-ikinci-esas-hakikat-i-mirac-mahiyeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p08",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p08.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p08-ikinci-esas-hakikat-i-mirac-1-temsil.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p09",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p09.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p09-ikinci-esas-hakikat-i-mirac-temsilin-tatbiki-ve-miracin-iktizasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p10",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p10.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p10-ikinci-esas-hakikat-i-mirac-2-temsil-ve-hakikatin-anahtari.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p11",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p11.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p11-ikinci-esas-hakikat-i-mirac-miracin-hakikati-ve-imkani.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p12",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p12.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p12-ikinci-esas-hakikat-i-mirac-mulhidin-itirazina-karsi-hakim-i-mutlakin-varligi-ve-birligi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p13",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p13.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p13-ikinci-esas-hakikat-i-mirac-hakim-i-mutlaktan-mubellig-ve-rehberin-gerekliligi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p14",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p14.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p14-ikinci-esas-hakikat-i-mirac-hz-muhammedin-bu-vazifeye-ehliyeti-ve-miracin-vukuu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p15",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p15.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p15-ikinci-esas-hakikat-i-mirac-iyet-ve-bud-meselesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p16",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p16.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p16-ikinci-esas-hakikat-i-mirac-semavatin-ve-melaikenin-varligina-deliller.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p17",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p17.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p17-ikinci-esas-hakikat-i-mirac-semavatin-tabakalari-hakkinda-hulasa.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p18",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p18.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p18-ikinci-esas-hakikat-i-mirac-cismani-uruc-mumkinligi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p19",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p19.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p19-ikinci-esas-hakikat-i-mirac-cismani-cikisin-luzumu-ve-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p20",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p20.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p20-ikinci-esas-hakikat-i-mirac-saat-temsiliyle-miracin-imkani.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p21",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p21.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p21-ikinci-esas-hakikat-i-mirac-imkanin-emsallerle-teyidi-ve-vukuunun-kabulu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p22",
+          "title": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p22.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p22-ucuncu-esas-hikmet-i-mirac-vahdet-muhabbet-ve-maksad-i-ilahi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p23",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p23.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p23-ucuncu-esas-birinci-temsil-sultan-sarayi-temsili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p24",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p24.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p24-ucuncu-esas-birinci-temsil-temsilden-hakikate-miracin-vazifeleri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p25",
+          "title": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p25.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p25-ucuncu-esas-ikinci-temsil-kainat-kitabi-ve-munkire-gecis.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p26",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p26.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p26-ucuncu-esas-1-muskil-sorular-ve-birinci-muskile-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p27",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p27.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p27-ucuncu-esas-1-muskil-nubuvvetin-harici-besaret-ve-mucize-delilleri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p28",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p28.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p28-ucuncu-esas-1-muskil-uluhiyetin-tezahuru-ve-cemal-kemalinin-en-azam-aynasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p29",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p29.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p29-ucuncu-esas-1-muskil-kainatin-manasini-acan-rehber.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p30",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p30.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p30-ucuncu-esas-1-muskil-ilahi-muhabbet-ve-ummet-hasenatiyla-miracin-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p31",
+          "title": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p31.json",
+          "sourceTitle": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p31-ikinci-muskil-kainat-seceresinin-cekirdegi-ve-meyvesi-olarak-nur-u-muhammedi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p32",
+          "title": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p32.json",
+          "sourceTitle": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p32-ikinci-muskil-miracin-kainat-seceresindeki-nurani-munasebet-yolu-olusu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p33",
+          "title": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p33.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p33-ucuncu-esas-3-muskil-semeratin-ulvi-mahzenleri-ve-uhrevi-temessulu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p34",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p34.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p34-dorduncu-esas-miracin-semerati-ve-faydasi-giris-ve-birinci-meyve.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p35",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p35.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p35-dorduncu-esas-miracin-semerati-ve-faydasi-ikinci-meyve.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p36",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p36.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p36-dorduncu-esas-miracin-semerati-ve-faydasi-3-4-ve-5-meyveler.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p37",
+          "title": "Son hitap ve hulâsa: ilk temsil ile imanın süruru",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p37.json",
+          "sourceTitle": "Son hitap ve hulâsa: ilk temsil ile imanın süruru",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p37-son-hitap-ve-hulasa-ilk-temsil-ile-imanin-sururu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p38",
+          "title": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p38.json",
+          "sourceTitle": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p38-son-hitap-ve-hulasa-ikinci-temsil-ikrar-ve-tebrik.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p39",
+          "title": "Dua ve salavatla hatime",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/11-sinif/p39.json",
+          "sourceTitle": "Dua ve salavatla hatime",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p39-dua-ve-salavatla-hatime.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p01",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p01.json",
+          "sourceTitle": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p01-otuzbirinci-soz-mirac-i-nebeviyeye-dair-ihtar-ve-ayetler.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p02",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p02.json",
+          "sourceTitle": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p02-otuzbirinci-soz-mirac-i-nebeviyeye-dair-zamiri-ve-miracin-kulli-manasina-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p03",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p03.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p03-birinci-esas-miracin-sirr-i-luzumu-sual-cevap-ve-birinci-temsil.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p04",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p04.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p04-birinci-esas-miracin-sirr-i-luzumu-ikinci-temsil.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p05",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p05.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p05-birinci-esas-miracin-sirr-i-luzumu-ikinci-suret-risalet-ve-mirac-sirri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p06",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p06.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p06-birinci-esas-miracin-sirr-i-luzumu-mulhide-hitapla-sonuc.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p07",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p07.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p07-ikinci-esas-hakikat-i-mirac-mahiyeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p08",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p08.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p08-ikinci-esas-hakikat-i-mirac-1-temsil.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p09",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p09.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p09-ikinci-esas-hakikat-i-mirac-temsilin-tatbiki-ve-miracin-iktizasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p10",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p10.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p10-ikinci-esas-hakikat-i-mirac-2-temsil-ve-hakikatin-anahtari.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p11",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p11.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p11-ikinci-esas-hakikat-i-mirac-miracin-hakikati-ve-imkani.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p12",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p12.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p12-ikinci-esas-hakikat-i-mirac-mulhidin-itirazina-karsi-hakim-i-mutlakin-varligi-ve-birligi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p13",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p13.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p13-ikinci-esas-hakikat-i-mirac-hakim-i-mutlaktan-mubellig-ve-rehberin-gerekliligi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p14",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p14.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p14-ikinci-esas-hakikat-i-mirac-hz-muhammedin-bu-vazifeye-ehliyeti-ve-miracin-vukuu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p15",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p15.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p15-ikinci-esas-hakikat-i-mirac-iyet-ve-bud-meselesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p16",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p16.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p16-ikinci-esas-hakikat-i-mirac-semavatin-ve-melaikenin-varligina-deliller.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p17",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p17.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p17-ikinci-esas-hakikat-i-mirac-semavatin-tabakalari-hakkinda-hulasa.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p18",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p18.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p18-ikinci-esas-hakikat-i-mirac-cismani-uruc-mumkinligi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p19",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p19.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p19-ikinci-esas-hakikat-i-mirac-cismani-cikisin-luzumu-ve-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p20",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p20.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p20-ikinci-esas-hakikat-i-mirac-saat-temsiliyle-miracin-imkani.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p21",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p21.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p21-ikinci-esas-hakikat-i-mirac-imkanin-emsallerle-teyidi-ve-vukuunun-kabulu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p22",
+          "title": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p22.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p22-ucuncu-esas-hikmet-i-mirac-vahdet-muhabbet-ve-maksad-i-ilahi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p23",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p23.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p23-ucuncu-esas-birinci-temsil-sultan-sarayi-temsili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p24",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p24.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p24-ucuncu-esas-birinci-temsil-temsilden-hakikate-miracin-vazifeleri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p25",
+          "title": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p25.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p25-ucuncu-esas-ikinci-temsil-kainat-kitabi-ve-munkire-gecis.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p26",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p26.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p26-ucuncu-esas-1-muskil-sorular-ve-birinci-muskile-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p27",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p27.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p27-ucuncu-esas-1-muskil-nubuvvetin-harici-besaret-ve-mucize-delilleri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p28",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p28.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p28-ucuncu-esas-1-muskil-uluhiyetin-tezahuru-ve-cemal-kemalinin-en-azam-aynasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p29",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p29.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p29-ucuncu-esas-1-muskil-kainatin-manasini-acan-rehber.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p30",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p30.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p30-ucuncu-esas-1-muskil-ilahi-muhabbet-ve-ummet-hasenatiyla-miracin-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p31",
+          "title": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p31.json",
+          "sourceTitle": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p31-ikinci-muskil-kainat-seceresinin-cekirdegi-ve-meyvesi-olarak-nur-u-muhammedi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p32",
+          "title": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p32.json",
+          "sourceTitle": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p32-ikinci-muskil-miracin-kainat-seceresindeki-nurani-munasebet-yolu-olusu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p33",
+          "title": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p33.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p33-ucuncu-esas-3-muskil-semeratin-ulvi-mahzenleri-ve-uhrevi-temessulu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p34",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p34.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p34-dorduncu-esas-miracin-semerati-ve-faydasi-giris-ve-birinci-meyve.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p35",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p35.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p35-dorduncu-esas-miracin-semerati-ve-faydasi-ikinci-meyve.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p36",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p36.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p36-dorduncu-esas-miracin-semerati-ve-faydasi-3-4-ve-5-meyveler.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p37",
+          "title": "Son hitap ve hulâsa: ilk temsil ile imanın süruru",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p37.json",
+          "sourceTitle": "Son hitap ve hulâsa: ilk temsil ile imanın süruru",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p37-son-hitap-ve-hulasa-ilk-temsil-ile-imanin-sururu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p38",
+          "title": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p38.json",
+          "sourceTitle": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p38-son-hitap-ve-hulasa-ikinci-temsil-ikrar-ve-tebrik.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p39",
+          "title": "Dua ve salavatla hatime",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/2-sinif/p39.json",
+          "sourceTitle": "Dua ve salavatla hatime",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p39-dua-ve-salavatla-hatime.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p01",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p01.json",
+          "sourceTitle": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p01-otuzbirinci-soz-mirac-i-nebeviyeye-dair-ihtar-ve-ayetler.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p02",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p02.json",
+          "sourceTitle": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p02-otuzbirinci-soz-mirac-i-nebeviyeye-dair-zamiri-ve-miracin-kulli-manasina-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p03",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p03.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p03-birinci-esas-miracin-sirr-i-luzumu-sual-cevap-ve-birinci-temsil.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p04",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p04.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p04-birinci-esas-miracin-sirr-i-luzumu-ikinci-temsil.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p05",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p05.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p05-birinci-esas-miracin-sirr-i-luzumu-ikinci-suret-risalet-ve-mirac-sirri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p06",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p06.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p06-birinci-esas-miracin-sirr-i-luzumu-mulhide-hitapla-sonuc.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p07",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p07.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p07-ikinci-esas-hakikat-i-mirac-mahiyeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p08",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p08.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p08-ikinci-esas-hakikat-i-mirac-1-temsil.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p09",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p09.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p09-ikinci-esas-hakikat-i-mirac-temsilin-tatbiki-ve-miracin-iktizasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p10",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p10.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p10-ikinci-esas-hakikat-i-mirac-2-temsil-ve-hakikatin-anahtari.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p11",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p11.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p11-ikinci-esas-hakikat-i-mirac-miracin-hakikati-ve-imkani.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p12",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p12.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p12-ikinci-esas-hakikat-i-mirac-mulhidin-itirazina-karsi-hakim-i-mutlakin-varligi-ve-birligi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p13",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p13.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p13-ikinci-esas-hakikat-i-mirac-hakim-i-mutlaktan-mubellig-ve-rehberin-gerekliligi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p14",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p14.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p14-ikinci-esas-hakikat-i-mirac-hz-muhammedin-bu-vazifeye-ehliyeti-ve-miracin-vukuu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p15",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p15.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p15-ikinci-esas-hakikat-i-mirac-iyet-ve-bud-meselesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p16",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p16.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p16-ikinci-esas-hakikat-i-mirac-semavatin-ve-melaikenin-varligina-deliller.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p17",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p17.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p17-ikinci-esas-hakikat-i-mirac-semavatin-tabakalari-hakkinda-hulasa.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p18",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p18.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p18-ikinci-esas-hakikat-i-mirac-cismani-uruc-mumkinligi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p19",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p19.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p19-ikinci-esas-hakikat-i-mirac-cismani-cikisin-luzumu-ve-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p20",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p20.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p20-ikinci-esas-hakikat-i-mirac-saat-temsiliyle-miracin-imkani.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p21",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p21.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p21-ikinci-esas-hakikat-i-mirac-imkanin-emsallerle-teyidi-ve-vukuunun-kabulu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p22",
+          "title": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p22.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p22-ucuncu-esas-hikmet-i-mirac-vahdet-muhabbet-ve-maksad-i-ilahi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p23",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p23.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p23-ucuncu-esas-birinci-temsil-sultan-sarayi-temsili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p24",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p24.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p24-ucuncu-esas-birinci-temsil-temsilden-hakikate-miracin-vazifeleri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p25",
+          "title": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p25.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p25-ucuncu-esas-ikinci-temsil-kainat-kitabi-ve-munkire-gecis.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p26",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p26.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p26-ucuncu-esas-1-muskil-sorular-ve-birinci-muskile-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p27",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p27.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p27-ucuncu-esas-1-muskil-nubuvvetin-harici-besaret-ve-mucize-delilleri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p28",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p28.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p28-ucuncu-esas-1-muskil-uluhiyetin-tezahuru-ve-cemal-kemalinin-en-azam-aynasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p29",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p29.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p29-ucuncu-esas-1-muskil-kainatin-manasini-acan-rehber.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p30",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p30.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p30-ucuncu-esas-1-muskil-ilahi-muhabbet-ve-ummet-hasenatiyla-miracin-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p31",
+          "title": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p31.json",
+          "sourceTitle": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p31-ikinci-muskil-kainat-seceresinin-cekirdegi-ve-meyvesi-olarak-nur-u-muhammedi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p32",
+          "title": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p32.json",
+          "sourceTitle": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p32-ikinci-muskil-miracin-kainat-seceresindeki-nurani-munasebet-yolu-olusu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p33",
+          "title": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p33.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p33-ucuncu-esas-3-muskil-semeratin-ulvi-mahzenleri-ve-uhrevi-temessulu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p34",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p34.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p34-dorduncu-esas-miracin-semerati-ve-faydasi-giris-ve-birinci-meyve.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p35",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p35.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p35-dorduncu-esas-miracin-semerati-ve-faydasi-ikinci-meyve.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p36",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p36.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p36-dorduncu-esas-miracin-semerati-ve-faydasi-3-4-ve-5-meyveler.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p37",
+          "title": "Son hitap ve hulâsa: ilk temsil ile imanın süruru",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p37.json",
+          "sourceTitle": "Son hitap ve hulâsa: ilk temsil ile imanın süruru",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p37-son-hitap-ve-hulasa-ilk-temsil-ile-imanin-sururu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p38",
+          "title": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p38.json",
+          "sourceTitle": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p38-son-hitap-ve-hulasa-ikinci-temsil-ikrar-ve-tebrik.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p39",
+          "title": "Dua ve salavatla hatime",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/5-sinif/p39.json",
+          "sourceTitle": "Dua ve salavatla hatime",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p39-dua-ve-salavatla-hatime.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p01",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p01.json",
+          "sourceTitle": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p01-otuzbirinci-soz-mirac-i-nebeviyeye-dair-ihtar-ve-ayetler.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p02",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p02.json",
+          "sourceTitle": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p02-otuzbirinci-soz-mirac-i-nebeviyeye-dair-zamiri-ve-miracin-kulli-manasina-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p03",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p03.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p03-birinci-esas-miracin-sirr-i-luzumu-sual-cevap-ve-birinci-temsil.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p04",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p04.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p04-birinci-esas-miracin-sirr-i-luzumu-ikinci-temsil.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p05",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p05.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p05-birinci-esas-miracin-sirr-i-luzumu-ikinci-suret-risalet-ve-mirac-sirri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p06",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p06.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p06-birinci-esas-miracin-sirr-i-luzumu-mulhide-hitapla-sonuc.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p07",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p07.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p07-ikinci-esas-hakikat-i-mirac-mahiyeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p08",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p08.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p08-ikinci-esas-hakikat-i-mirac-1-temsil.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p09",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p09.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p09-ikinci-esas-hakikat-i-mirac-temsilin-tatbiki-ve-miracin-iktizasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p10",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p10.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p10-ikinci-esas-hakikat-i-mirac-2-temsil-ve-hakikatin-anahtari.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p11",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p11.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p11-ikinci-esas-hakikat-i-mirac-miracin-hakikati-ve-imkani.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p12",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p12.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p12-ikinci-esas-hakikat-i-mirac-mulhidin-itirazina-karsi-hakim-i-mutlakin-varligi-ve-birligi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p13",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p13.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p13-ikinci-esas-hakikat-i-mirac-hakim-i-mutlaktan-mubellig-ve-rehberin-gerekliligi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p14",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p14.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p14-ikinci-esas-hakikat-i-mirac-hz-muhammedin-bu-vazifeye-ehliyeti-ve-miracin-vukuu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p15",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p15.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p15-ikinci-esas-hakikat-i-mirac-iyet-ve-bud-meselesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p16",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p16.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p16-ikinci-esas-hakikat-i-mirac-semavatin-ve-melaikenin-varligina-deliller.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p17",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p17.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p17-ikinci-esas-hakikat-i-mirac-semavatin-tabakalari-hakkinda-hulasa.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p18",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p18.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p18-ikinci-esas-hakikat-i-mirac-cismani-uruc-mumkinligi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p19",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p19.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p19-ikinci-esas-hakikat-i-mirac-cismani-cikisin-luzumu-ve-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p20",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p20.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p20-ikinci-esas-hakikat-i-mirac-saat-temsiliyle-miracin-imkani.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p21",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p21.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p21-ikinci-esas-hakikat-i-mirac-imkanin-emsallerle-teyidi-ve-vukuunun-kabulu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p22",
+          "title": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p22.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p22-ucuncu-esas-hikmet-i-mirac-vahdet-muhabbet-ve-maksad-i-ilahi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p23",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p23.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p23-ucuncu-esas-birinci-temsil-sultan-sarayi-temsili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p24",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p24.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p24-ucuncu-esas-birinci-temsil-temsilden-hakikate-miracin-vazifeleri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p25",
+          "title": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p25.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p25-ucuncu-esas-ikinci-temsil-kainat-kitabi-ve-munkire-gecis.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p26",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p26.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p26-ucuncu-esas-1-muskil-sorular-ve-birinci-muskile-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p27",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p27.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p27-ucuncu-esas-1-muskil-nubuvvetin-harici-besaret-ve-mucize-delilleri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p28",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p28.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p28-ucuncu-esas-1-muskil-uluhiyetin-tezahuru-ve-cemal-kemalinin-en-azam-aynasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p29",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p29.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p29-ucuncu-esas-1-muskil-kainatin-manasini-acan-rehber.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p30",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p30.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p30-ucuncu-esas-1-muskil-ilahi-muhabbet-ve-ummet-hasenatiyla-miracin-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p31",
+          "title": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p31.json",
+          "sourceTitle": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p31-ikinci-muskil-kainat-seceresinin-cekirdegi-ve-meyvesi-olarak-nur-u-muhammedi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p32",
+          "title": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p32.json",
+          "sourceTitle": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p32-ikinci-muskil-miracin-kainat-seceresindeki-nurani-munasebet-yolu-olusu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p33",
+          "title": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p33.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p33-ucuncu-esas-3-muskil-semeratin-ulvi-mahzenleri-ve-uhrevi-temessulu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p34",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p34.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p34-dorduncu-esas-miracin-semerati-ve-faydasi-giris-ve-birinci-meyve.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p35",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p35.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p35-dorduncu-esas-miracin-semerati-ve-faydasi-ikinci-meyve.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p36",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p36.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p36-dorduncu-esas-miracin-semerati-ve-faydasi-3-4-ve-5-meyveler.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p37",
+          "title": "Son hitap ve hulâsa: ilk temsil ile imanın süruru",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p37.json",
+          "sourceTitle": "Son hitap ve hulâsa: ilk temsil ile imanın süruru",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p37-son-hitap-ve-hulasa-ilk-temsil-ile-imanin-sururu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p38",
+          "title": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p38.json",
+          "sourceTitle": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p38-son-hitap-ve-hulasa-ikinci-temsil-ikrar-ve-tebrik.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p39",
+          "title": "Dua ve salavatla hatime",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/8-sinif/p39.json",
+          "sourceTitle": "Dua ve salavatla hatime",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p39-dua-ve-salavatla-hatime.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p01",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p01.json",
+          "sourceTitle": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: ihtar ve âyetler",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p01-otuzbirinci-soz-mirac-i-nebeviyeye-dair-ihtar-ve-ayetler.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p02",
+          "title": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p02.json",
+          "sourceTitle": "Otuzbirinci Söz / Mi'rac-ı Nebeviyeye dair: اِنَّهُ zamiri ve Mi'racın küllî mânasına giriş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p02-otuzbirinci-soz-mirac-i-nebeviyeye-dair-zamiri-ve-miracin-kulli-manasina-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p03",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p03.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: sual, cevap ve Birinci Temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p03-birinci-esas-miracin-sirr-i-luzumu-sual-cevap-ve-birinci-temsil.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p04",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p04.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci Temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p04-birinci-esas-miracin-sirr-i-luzumu-ikinci-temsil.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p05",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p05.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: İkinci suret, risalet ve Mi'rac sırrı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p05-birinci-esas-miracin-sirr-i-luzumu-ikinci-suret-risalet-ve-mirac-sirri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p06",
+          "title": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p06.json",
+          "sourceTitle": "BİRİNCİ ESAS / Mi'racın sırr-ı lüzumu: mülhide hitapla sonuç",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p06-birinci-esas-miracin-sirr-i-luzumu-mulhide-hitapla-sonuc.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p07",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p07.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mahiyeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p07-ikinci-esas-hakikat-i-mirac-mahiyeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p08",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p08.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: 1. temsil",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p08-ikinci-esas-hakikat-i-mirac-1-temsil.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p09",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p09.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: temsilin tatbiki ve Mi'racın iktizası",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p09-ikinci-esas-hakikat-i-mirac-temsilin-tatbiki-ve-miracin-iktizasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p10",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p10.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: 2. temsil ve hakikatin anahtarı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p10-ikinci-esas-hakikat-i-mirac-2-temsil-ve-hakikatin-anahtari.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p11",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p11.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mi'racın hakikati ve imkânı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p11-ikinci-esas-hakikat-i-mirac-miracin-hakikati-ve-imkani.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p12",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p12.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: mülhidin itirazına karşı Hâkim-i Mutlak'ın varlığı ve birliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p12-ikinci-esas-hakikat-i-mirac-mulhidin-itirazina-karsi-hakim-i-mutlakin-varligi-ve-birligi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p13",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p13.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hâkim-i Mutlak'tan mübelliğ ve rehberin gerekliliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p13-ikinci-esas-hakikat-i-mirac-hakim-i-mutlaktan-mubellig-ve-rehberin-gerekliligi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p14",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p14.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: Hz. Muhammed'in bu vazifeye ehliyeti ve Mi'racın vukuu",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p14-ikinci-esas-hakikat-i-mirac-hz-muhammedin-bu-vazifeye-ehliyeti-ve-miracin-vukuu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p15",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p15.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: قربiyet ve bu'd meselesi",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p15-ikinci-esas-hakikat-i-mirac-iyet-ve-bud-meselesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p16",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p16.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın ve melaikenin varlığına deliller",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p16-ikinci-esas-hakikat-i-mirac-semavatin-ve-melaikenin-varligina-deliller.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p17",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p17.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: semavatın tabakaları hakkında hulâsa",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p17-ikinci-esas-hakikat-i-mirac-semavatin-tabakalari-hakkinda-hulasa.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p18",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p18.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî uruç mümkinliği",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p18-ikinci-esas-hakikat-i-mirac-cismani-uruc-mumkinligi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p19",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p19.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: cismânî çıkışın lüzumu ve hikmeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p19-ikinci-esas-hakikat-i-mirac-cismani-cikisin-luzumu-ve-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p20",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p20.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: saat temsiliyle Mi'racın imkânı",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p20-ikinci-esas-hakikat-i-mirac-saat-temsiliyle-miracin-imkani.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p21",
+          "title": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p21.json",
+          "sourceTitle": "İKİNCİ ESAS / Hakikat-i Mi'rac: imkânın emsallerle teyidi ve vukuunun kabulü",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p21-ikinci-esas-hakikat-i-mirac-imkanin-emsallerle-teyidi-ve-vukuunun-kabulu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p22",
+          "title": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p22.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Hikmet-i Mi'rac: vahdet, muhabbet ve maksad-ı İlahi",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p22-ucuncu-esas-hikmet-i-mirac-vahdet-muhabbet-ve-maksad-i-ilahi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p23",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p23.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Birinci temsil: sultan sarayı temsili",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p23-ucuncu-esas-birinci-temsil-sultan-sarayi-temsili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p24",
+          "title": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p24.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / Birinci temsil: temsilden hakikate, Mi'racın vazifeleri",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p24-ucuncu-esas-birinci-temsil-temsilden-hakikate-miracin-vazifeleri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p25",
+          "title": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p25.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / İkinci temsil: kâinat kitabı ve münkire geçiş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p25-ucuncu-esas-ikinci-temsil-kainat-kitabi-ve-munkire-gecis.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p26",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p26.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: sorular ve birinci müşkile giriş",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p26-ucuncu-esas-1-muskil-sorular-ve-birinci-muskile-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p27",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p27.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: nübüvvetin haricî beşaret ve mucize delilleri",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p27-ucuncu-esas-1-muskil-nubuvvetin-harici-besaret-ve-mucize-delilleri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p28",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p28.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: uluhiyetin tezahürü ve cemal-kemalinin en a'zam aynası",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p28-ucuncu-esas-1-muskil-uluhiyetin-tezahuru-ve-cemal-kemalinin-en-azam-aynasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p29",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p29.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: kâinatın manasını açan rehber",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p29-ucuncu-esas-1-muskil-kainatin-manasini-acan-rehber.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p30",
+          "title": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p30.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 1. müşkil: ilahî muhabbet ve ümmet hasenatıyla Mi'racın hikmeti",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p30-ucuncu-esas-1-muskil-ilahi-muhabbet-ve-ummet-hasenatiyla-miracin-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p31",
+          "title": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p31.json",
+          "sourceTitle": "İkinci Müşkil: kâinat şeceresinin çekirdeği ve meyvesi olarak Nur-u Muhammedî",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p31-ikinci-muskil-kainat-seceresinin-cekirdegi-ve-meyvesi-olarak-nur-u-muhammedi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p32",
+          "title": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p32.json",
+          "sourceTitle": "İkinci Müşkil: Mi'racın kâinat şeceresindeki nuranî münasebet yolu oluşu",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p32-ikinci-muskil-miracin-kainat-seceresindeki-nurani-munasebet-yolu-olusu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p33",
+          "title": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p33.json",
+          "sourceTitle": "ÜÇÜNCÜ ESAS / 3. Müşkil: Semeratın ulvî mahzenleri ve uhrevî temessülü",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p33-ucuncu-esas-3-muskil-semeratin-ulvi-mahzenleri-ve-uhrevi-temessulu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p34",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p34.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: giriş ve Birinci Meyve",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p34-dorduncu-esas-miracin-semerati-ve-faydasi-giris-ve-birinci-meyve.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p35",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p35.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: İkinci Meyve",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p35-dorduncu-esas-miracin-semerati-ve-faydasi-ikinci-meyve.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p36",
+          "title": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p36.json",
+          "sourceTitle": "DÖRDÜNCÜ ESAS / Mi'racın semeratı ve faydası: 3., 4. ve 5. meyveler",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p36-dorduncu-esas-miracin-semerati-ve-faydasi-3-4-ve-5-meyveler.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p37",
+          "title": "Son hitap ve hulâsa: ilk temsil ile imanın süruru",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p37.json",
+          "sourceTitle": "Son hitap ve hulâsa: ilk temsil ile imanın süruru",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p37-son-hitap-ve-hulasa-ilk-temsil-ile-imanin-sururu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p38",
+          "title": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p38.json",
+          "sourceTitle": "Son hitap ve hulâsa: ikinci temsil, ikrar ve tebrik",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p38-son-hitap-ve-hulasa-ikinci-temsil-ikrar-ve-tebrik.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p39",
+          "title": "Dua ve salavatla hatime",
+          "cardCount": 24,
+          "url": "/assets/31-soz/question-bank/lisans/p39.json",
+          "sourceTitle": "Dua ve salavatla hatime",
+          "sourceTextUrl": "/assets/31-soz/parcalar/31-soz-p39-dua-ve-salavatla-hatime.txt"
+        }
+      ],
+      "search": {
+        "slug": "31-soz",
+        "title": "31. Söz",
+        "shardUrl": "/assets/search/31-soz.1a970d893e00f8a26cf4f031c73f429a7248766b0f91500ee5a2624d01a65fa9.v1.json",
+        "contentHash": "1a970d893e00f8a26cf4f031c73f429a7248766b0f91500ee5a2624d01a65fa9",
+        "recordCount": 39,
+        "rawBytes": 69470
+      }
+    },
+    {
+      "slug": "32-soz",
+      "title": "32. Söz",
+      "sourcePath": "assets/32-soz",
+      "grades": [
+        {
+          "slug": "2-sinif",
+          "label": "2. Sinif",
+          "docxCount": 174,
+          "pdfNormalCount": 174,
+          "pdfMobileCount": 174
+        },
+        {
+          "slug": "5-sinif",
+          "label": "5. Sinif",
+          "docxCount": 174,
+          "pdfNormalCount": 174,
+          "pdfMobileCount": 174
+        },
+        {
+          "slug": "8-sinif",
+          "label": "8. Sinif",
+          "docxCount": 174,
+          "pdfNormalCount": 174,
+          "pdfMobileCount": 174
+        },
+        {
+          "slug": "11-sinif",
+          "label": "11. Sinif",
+          "docxCount": 174,
+          "pdfNormalCount": 174,
+          "pdfMobileCount": 174
+        },
+        {
+          "slug": "lisans",
+          "label": "Lisans",
+          "docxCount": 174,
+          "pdfNormalCount": 174,
+          "pdfMobileCount": 174
+        }
+      ],
+      "partCount": 87,
+      "studyDeckCount": 435,
+      "partRoutes": [
+        {
+          "partNo": "p01",
+          "partNumber": 1,
+          "labelSlug": "1-mevkif-tevhid-muhaveresine-giris",
+          "title": "1. Mevkıf: tevhid muhaveresine giriş"
+        },
+        {
+          "partNo": "p02",
+          "partNumber": 2,
+          "labelSlug": "1-mevkif-zerre-ile-munazara",
+          "title": "1. Mevkıf: zerre ile münazara"
+        },
+        {
+          "partNo": "p03",
+          "partNumber": 3,
+          "labelSlug": "1-mevkif-zerrenin-kendi-kendine-malik-olma-iddiasini-reddi",
+          "title": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi"
+        },
+        {
+          "partNo": "p04",
+          "partNumber": 4,
+          "labelSlug": "1-mevkif-kureyvat-i-hamra-ile-munazara",
+          "title": "1. Mevkıf: küreyvat-ı hamra ile münazara"
+        },
+        {
+          "partNo": "p05",
+          "partNumber": 5,
+          "labelSlug": "1-mevkif-huceyre-ile-munazara",
+          "title": "1. Mevkıf: hüceyre ile münazara"
+        },
+        {
+          "partNo": "p06",
+          "partNumber": 6,
+          "labelSlug": "1-mevkif-hasiye-i-beden-tertibi-damarlar-ve-kanin-vazifeleri",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri"
+        },
+        {
+          "partNo": "p07",
+          "partNumber": 7,
+          "labelSlug": "1-mevkif-hasiye-i-beden-tertibi-teneffus-kanin-tasfiyesi-ve-hararet-i-gariziye",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye"
+        },
+        {
+          "partNo": "p08",
+          "partNumber": 8,
+          "labelSlug": "1-mevkif-insan-bedeni-ve-nev-i-insan-insan-bedeninin-saniini-ispati",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı"
+        },
+        {
+          "partNo": "p09",
+          "partNumber": 9,
+          "labelSlug": "1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-nev-i-insanin-sartli-meydan-okumasi",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması"
+        },
+        {
+          "partNo": "p10",
+          "partNumber": 10,
+          "labelSlug": "1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-sanatkar-meyve-agac-ve-cekirdek-misalleriyle-tard",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard"
+        },
+        {
+          "partNo": "p11",
+          "partNumber": 11,
+          "labelSlug": "1-mevkif-arzin-gomlegi-ve-zeminin-halicesi",
+          "title": "1. Mevkıf: arzın gömleği ve zeminin haliçesi"
+        },
+        {
+          "partNo": "p12",
+          "partNumber": 12,
+          "labelSlug": "1-mevkif-kure-i-arzin-sehadeti-zerrenin-arz-ve-yildizlara-havalesi",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi"
+        },
+        {
+          "partNo": "p13",
+          "partNumber": 13,
+          "labelSlug": "1-mevkif-kure-i-arzin-sehadeti-arzin-rububiyet-davasini-reddi",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi"
+        },
+        {
+          "partNo": "p14",
+          "partNumber": 14,
+          "labelSlug": "1-mevkif-gunesin-sehadeti",
+          "title": "1. Mevkıf: güneşin şehadeti"
+        },
+        {
+          "partNo": "p15",
+          "partNumber": 15,
+          "labelSlug": "1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-yildizlarin-vahdet-sahadeti",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti"
+        },
+        {
+          "partNo": "p16",
+          "partNumber": 16,
+          "labelSlug": "1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-muddeinin-tardi-ve-felsefenin-sukutu",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu"
+        },
+        {
+          "partNo": "p17",
+          "partNumber": 17,
+          "labelSlug": "1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-ayetli-tevhid-ilani-ve-dua",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua"
+        },
+        {
+          "partNo": "p18",
+          "partNumber": 18,
+          "labelSlug": "bahar-tefekkuru-arabi-fikra-ve-tercumesi",
+          "title": "Bahar tefekkürü: Arabî fıkra ve tercümesi"
+        },
+        {
+          "partNo": "p19",
+          "partNumber": 19,
+          "labelSlug": "2-mevkif-1-maksad-birinci-sual-ve-semavat-arzdan-tevhid-deliline-giris",
+          "title": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş"
+        },
+        {
+          "partNo": "p20",
+          "partNumber": 20,
+          "labelSlug": "2-mevkif-1-maksad-kudretin-silsile-i-tasarrufu-ve-ayetle-hulasasi",
+          "title": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası"
+        },
+        {
+          "partNo": "p21",
+          "partNumber": 21,
+          "labelSlug": "2-mevkif-1-maksad-seriklerin-imkansizligi-ve-sirk-davasinin-tahakkumiligi",
+          "title": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği"
+        },
+        {
+          "partNo": "p22",
+          "partNumber": 22,
+          "labelSlug": "2-mevkif-1-maksad-tahakkumi-dava-kaidesi-ve-sirk-ihtimalinin-emaresizligi",
+          "title": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği"
+        },
+        {
+          "partNo": "p23",
+          "partNumber": 23,
+          "labelSlug": "2-mevkif-1-maksad-esbabin-hakiki-tesirsizligi",
+          "title": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği"
+        },
+        {
+          "partNo": "p24",
+          "partNumber": 24,
+          "labelSlug": "2-mevkif-2-maksad-sual-ve-birinci-temsile-giris",
+          "title": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş"
+        },
+        {
+          "partNo": "p25",
+          "partNumber": 25,
+          "labelSlug": "2-mevkif-2-maksad-1-temsil-gunes-ve-aynalar-misali",
+          "title": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali"
+        },
+        {
+          "partNo": "p26",
+          "partNumber": 26,
+          "labelSlug": "2-mevkif-2-maksad-2-temsil-cinar-agaci-misaliyle-ehadiyet",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet"
+        },
+        {
+          "partNo": "p27",
+          "partNumber": 27,
+          "labelSlug": "2-mevkif-2-maksad-2-temsil-ve-netice-nuraniyet-sirrindan-ilahi-ihata-ve-tasarruf",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf"
+        },
+        {
+          "partNo": "p28",
+          "partNumber": 28,
+          "labelSlug": "2-mevkif-2-maksad-kiyas-i-temsilinin-yakin-ifade-eden-nevi",
+          "title": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i"
+        },
+        {
+          "partNo": "p29",
+          "partNumber": 29,
+          "labelSlug": "2-mevkif-2-maksad-hikayelerin-kinaye-ve-temsil-olusu",
+          "title": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu"
+        },
+        {
+          "partNo": "p30",
+          "partNumber": 30,
+          "labelSlug": "2-maksadin-hatimesi-arabi-meyve-tohum-tefekkuru-ve-meali-giris",
+          "title": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş"
+        },
+        {
+          "partNo": "p31",
+          "partNumber": 31,
+          "labelSlug": "2-maksadin-hatimesi-meyve-tohumdan-vahdet-ve-kalbin-vahdeti-gormesi",
+          "title": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi"
+        },
+        {
+          "partNo": "p32",
+          "partNumber": 32,
+          "labelSlug": "2-maksadin-hatimesi-hikmetin-telvihati-insanin-kainat-meyvesi-ve-kalbin-gayesi",
+          "title": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi"
+        },
+        {
+          "partNo": "p33",
+          "partNumber": 33,
+          "labelSlug": "2-maksadin-hatimesi-hasre-gecis-ve-hasrin-mertebeleri",
+          "title": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri"
+        },
+        {
+          "partNo": "p34",
+          "partNumber": 34,
+          "labelSlug": "2-maksadin-hatimesi-umuma-iman-lazim-olan-hasir-mertebesi-ve-kuranin-genis-isbat-dairesi",
+          "title": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi"
+        },
+        {
+          "partNo": "p35",
+          "partNumber": 35,
+          "labelSlug": "2-mevkif-3-maksad-1-remiz",
+          "title": "2. Mevkıf / 3. Maksad: 1. Remiz"
+        },
+        {
+          "partNo": "p36",
+          "partNumber": 36,
+          "labelSlug": "2-mevkif-3-maksad-2-remiz",
+          "title": "2. Mevkıf / 3. Maksad: 2. Remiz"
+        },
+        {
+          "partNo": "p37",
+          "partNumber": 37,
+          "labelSlug": "2-mevkif-3-maksad-3-remiz-1-huccet",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet"
+        },
+        {
+          "partNo": "p38",
+          "partNumber": 38,
+          "labelSlug": "2-mevkif-3-maksad-3-remiz-3-4-huccet",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet"
+        },
+        {
+          "partNo": "p39",
+          "partNumber": 39,
+          "labelSlug": "2-mevkif-3-maksad-3-remiz-5-huccet-ile-hulasa",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa"
+        },
+        {
+          "partNo": "p40",
+          "partNumber": 40,
+          "labelSlug": "2-mevkif-3-maksad-4-remiz-rahmette-lezzet-ve-suunatin-izahi",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı"
+        },
+        {
+          "partNo": "p41",
+          "partNumber": 41,
+          "labelSlug": "2-mevkif-3-maksad-4-remiz-ziyafet-temsiliyle-rahmet-ve-ihsan",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan"
+        },
+        {
+          "partNo": "p42",
+          "partNumber": 42,
+          "labelSlug": "2-mevkif-3-maksad-4-remiz-sanat-misaliyle-ilahi-memnuniyet-ve-suun",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun"
+        },
+        {
+          "partNo": "p43",
+          "partNumber": 43,
+          "labelSlug": "2-mevkif-3-maksad-4-remiz-adalet-misali-ve-muhabbet-mertebelerine-baglanis",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış"
+        },
+        {
+          "partNo": "p44",
+          "partNumber": 44,
+          "labelSlug": "2-mevkif-3-maksad-4-remiz-muhabbet-i-ilahiye-ve-ruyet-i-cemal",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal"
+        },
+        {
+          "partNo": "p45",
+          "partNumber": 45,
+          "labelSlug": "2-mevkif-3-maksad-5-remiz-dunyanin-uc-yuzu-ve-makbul-tahkir",
+          "title": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir"
+        },
+        {
+          "partNo": "p46",
+          "partNumber": 46,
+          "labelSlug": "3-maksad-sual-ve-bes-isaretle-cevabin-baslangici",
+          "title": "3. Maksad: sual ve beş işaretle cevabın başlangıcı"
+        },
+        {
+          "partNo": "p47",
+          "partNumber": 47,
+          "labelSlug": "3-maksad-1-ve-2-isaret",
+          "title": "3. Maksad / 1. ve 2. İşaret"
+        },
+        {
+          "partNo": "p48",
+          "partNumber": 48,
+          "labelSlug": "3-maksad-3-isaret",
+          "title": "3. Maksad / 3. İşaret"
+        },
+        {
+          "partNo": "p49",
+          "partNumber": 49,
+          "labelSlug": "3-maksad-ifadesine-bes-isaretin-son-ikisi",
+          "title": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi"
+        },
+        {
+          "partNo": "p50",
+          "partNumber": 50,
+          "labelSlug": "3-mevkif-2-nokta-1-mebhas-giris-ve-esma-i-ilahiyeye-istinad-hakikati",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati"
+        },
+        {
+          "partNo": "p51",
+          "partNumber": 51,
+          "labelSlug": "3-mevkif-2-nokta-1-mebhas-temsiltasvirci-ve-heykeltras-misali",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali"
+        },
+        {
+          "partNo": "p52",
+          "partNumber": 52,
+          "labelSlug": "3-mevkif-2-nokta-1-mebhas-esma-cilvelerinin-sirali-tecellisi",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi"
+        },
+        {
+          "partNo": "p53",
+          "partNumber": 53,
+          "labelSlug": "3-mevkif-2-nokta-1-mebhas-cemalden-tasvire-inen-esma-silsilesinin-hulasasi",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası"
+        },
+        {
+          "partNo": "p54",
+          "partNumber": 54,
+          "labelSlug": "3-mevkif-2-nokta-1-mebhas-yedi-sahifede-esmanin-okunmasi",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması"
+        },
+        {
+          "partNo": "p55",
+          "partNumber": 55,
+          "labelSlug": "3-mevkif-2-nokta-1-mebhas-insanin-batini-sahifeleri-ve-kulli-aynalar",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar"
+        },
+        {
+          "partNo": "p56",
+          "partNumber": 56,
+          "labelSlug": "3-mevkif-2-nokta-1-mebhas-esyanin-tesbihi-ve-ayet-sonlarindaki-zikirlerin-sirri",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı"
+        },
+        {
+          "partNo": "p57",
+          "partNumber": 57,
+          "labelSlug": "3-mevkif-2-nokta-2-mebhas-ehl-i-dalalet-vekilinin-iddiasi-ve-iki-yolun-takdimi",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi"
+        },
+        {
+          "partNo": "p58",
+          "partNumber": 58,
+          "labelSlug": "3-mevkif-2-nokta-2-mebhas-dalalet-yolunun-ic-azabi",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı"
+        },
+        {
+          "partNo": "p59",
+          "partNumber": 59,
+          "labelSlug": "3-mevkif-2-nokta-2-mebhas-merhamete-layik-olmayisinin-temsille-izahi",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı"
+        },
+        {
+          "partNo": "p60",
+          "partNumber": 60,
+          "labelSlug": "3-mevkif-2-nokta-2-mebhas-ehl-i-dalaletin-medeniyet-ve-muhabbet-iddiasinin-cokusu",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü"
+        },
+        {
+          "partNo": "p61",
+          "partNumber": 61,
+          "labelSlug": "3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-iman-yolunun-acz-dunya-ve-olum-yaralarini-tedavisi",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi"
+        },
+        {
+          "partNo": "p62",
+          "partNumber": 62,
+          "labelSlug": "3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-mumine-teslim-ve-tevekkul-dersi",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi"
+        },
+        {
+          "partNo": "p63",
+          "partNumber": 63,
+          "labelSlug": "3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-fani-dunya-baki-neticeler-ve-mesru-daire-dersi",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi"
+        },
+        {
+          "partNo": "p64",
+          "partNumber": 64,
+          "labelSlug": "3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-insani-yukselten-ve-ebed-yolculugunu-kolaylastiran-hakikat",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat"
+        },
+        {
+          "partNo": "p65",
+          "partNumber": 65,
+          "labelSlug": "3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-muhabbeti-allaha-yonelten-hakikat",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat"
+        },
+        {
+          "partNo": "p66",
+          "partNumber": 66,
+          "labelSlug": "3-mevkif-2-nokta-2-mebhas-iman-ve-dalaletin-akibetine-dair-ayetler",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler"
+        },
+        {
+          "partNo": "p67",
+          "partNumber": 67,
+          "labelSlug": "muhim-bir-sual-1-nukte-muhabbetin-mecazi-mahbubdan-hakiki-mahbuba-cevrilmesi",
+          "title": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi"
+        },
+        {
+          "partNo": "p68",
+          "partNumber": 68,
+          "labelSlug": "muhim-bir-sual-2-nukte-nimetleri-ve-anne-babayi-allah-hesabina-sevmek",
+          "title": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek"
+        },
+        {
+          "partNo": "p69",
+          "partNumber": 69,
+          "labelSlug": "muhim-bir-sual-2-nukte-anne-baba-hukukunun-ehemmiyeti-ve-evladi-allah-hesabina-sevmek",
+          "title": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek"
+        },
+        {
+          "partNo": "p70",
+          "partNumber": 70,
+          "labelSlug": "muhim-bir-sual-2-nukte-dostlari-refika-i-hayati-enbiya-ve-evliyayi-hayati-gencligi-bahari-ve-dunyayi-allah-hesabina-sevmek",
+          "title": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek"
+        },
+        {
+          "partNo": "p71",
+          "partNumber": 71,
+          "labelSlug": "muhim-bir-sual-iki-nuktenin-hulasasi-dua-ve-padisah-elma-temsili",
+          "title": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili"
+        },
+        {
+          "partNo": "p72",
+          "partNumber": 72,
+          "labelSlug": "muhim-bir-sual-3-nukte-esmaya-muhabbetin-tabakati-ve-rahman-rahim-isimlerine-fitri-ihtiyac",
+          "title": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç"
+        },
+        {
+          "partNo": "p73",
+          "partNumber": 73,
+          "labelSlug": "muhim-bir-sual-3-nukte-hakim-murebbi-ve-diger-isimlere-ihtiyac-esmaya-muhabbetin-umumi-esasi",
+          "title": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası"
+        },
+        {
+          "partNo": "p74",
+          "partNumber": 74,
+          "labelSlug": "muhim-bir-sual-3-nukte-rahmaniyet-ve-hak-isminin-bahar-ordusu-temsili",
+          "title": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili"
+        },
+        {
+          "partNo": "p75",
+          "partNumber": 75,
+          "labelSlug": "4-nukte-muhabbetlerin-dunya-ve-ahiret-neticelerine-giris",
+          "title": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş"
+        },
+        {
+          "partNo": "p76",
+          "partNumber": 76,
+          "labelSlug": "4-nukte-nefis-refika-valideyn-ve-evlada-muhabbet",
+          "title": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet"
+        },
+        {
+          "partNo": "p77",
+          "partNumber": 77,
+          "labelSlug": "4-nukte-ahbab-enbiya-evliya-ve-guzel-seylere-muhabbet",
+          "title": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet"
+        },
+        {
+          "partNo": "p78",
+          "partNumber": 78,
+          "labelSlug": "4-nukte-genclige-bahara-ve-dunyaya-muhabbet",
+          "title": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet"
+        },
+        {
+          "partNo": "p79",
+          "partNumber": 79,
+          "labelSlug": "muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-insan-cihazlarinin-hikmeti-ve-ayri-ayri-vazife-lezzet-mukafatlari",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları"
+        },
+        {
+          "partNo": "p80",
+          "partNumber": 80,
+          "labelSlug": "muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-cihazlarin-ucreti-ve-ahiretteki-neticelerin-ispati",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı"
+        },
+        {
+          "partNo": "p81",
+          "partNumber": 81,
+          "labelSlug": "muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-1-3-isaretler-taam-nefis-genclik-ve-refika-i-hayat-muhabbetinin-neticeleri",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri"
+        },
+        {
+          "partNo": "p82",
+          "partNumber": 82,
+          "labelSlug": "muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-4-5-isaretler-aile-ve-salih-dostlar",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar"
+        },
+        {
+          "partNo": "p83",
+          "partNumber": 83,
+          "labelSlug": "muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-6-7-isaretler-enbiya-evliya-ve-guzellik-sevgisi",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi"
+        },
+        {
+          "partNo": "p84",
+          "partNumber": 84,
+          "labelSlug": "muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-8-isaret-dunyanin-iki-guzel-yuzunu-sevmenin-neticesi",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi"
+        },
+        {
+          "partNo": "p85",
+          "partNumber": 85,
+          "labelSlug": "sual-cennetin-genisliginin-hikmeti",
+          "title": "Sual: Cennetin genişliğinin hikmeti"
+        },
+        {
+          "partNo": "p86",
+          "partNumber": 86,
+          "labelSlug": "muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-9-isaret-iman-ve-muhabbetullahin-neticesi-ruyet-duasi",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası"
+        },
+        {
+          "partNo": "p87",
+          "partNumber": 87,
+          "labelSlug": "munacat",
+          "title": "Münacat"
+        }
+      ],
+      "studyDeckRoutes": [
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p01",
+          "title": "1. Mevkıf: tevhid muhaveresine giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p01.json",
+          "sourceTitle": "1. Mevkıf: tevhid muhaveresine giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p01-1-mevkif-tevhid-muhaveresine-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p02",
+          "title": "1. Mevkıf: zerre ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p02.json",
+          "sourceTitle": "1. Mevkıf: zerre ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p02-1-mevkif-zerre-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p03",
+          "title": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p03.json",
+          "sourceTitle": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p03-1-mevkif-zerrenin-kendi-kendine-malik-olma-iddiasini-reddi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p04",
+          "title": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p04.json",
+          "sourceTitle": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p04-1-mevkif-kureyvat-i-hamra-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p05",
+          "title": "1. Mevkıf: hüceyre ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p05.json",
+          "sourceTitle": "1. Mevkıf: hüceyre ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p05-1-mevkif-huceyre-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p06",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p06.json",
+          "sourceTitle": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p06-1-mevkif-hasiye-i-beden-tertibi-damarlar-ve-kanin-vazifeleri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p07",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p07.json",
+          "sourceTitle": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p07-1-mevkif-hasiye-i-beden-tertibi-teneffus-kanin-tasfiyesi-ve-hararet-i-gariziye.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p08",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p08.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p08-1-mevkif-insan-bedeni-ve-nev-i-insan-insan-bedeninin-saniini-ispati.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p09",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p09.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p09-1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-nev-i-insanin-sartli-meydan-okumasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p10",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p10.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p10-1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-sanatkar-meyve-agac-ve-cekirdek-misalleriyle-tard.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p11",
+          "title": "1. Mevkıf: arzın gömleği ve zeminin haliçesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p11.json",
+          "sourceTitle": "1. Mevkıf: arzın gömleği ve zeminin haliçesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p11-1-mevkif-arzin-gomlegi-ve-zeminin-halicesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p12",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi",
+          "cardCount": 12,
+          "url": "/assets/32-soz/question-bank/11-sinif/p12.json",
+          "sourceTitle": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p12-1-mevkif-kure-i-arzin-sehadeti-zerrenin-arz-ve-yildizlara-havalesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p13",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p13.json",
+          "sourceTitle": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p13-1-mevkif-kure-i-arzin-sehadeti-arzin-rububiyet-davasini-reddi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p14",
+          "title": "1. Mevkıf: güneşin şehadeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p14.json",
+          "sourceTitle": "1. Mevkıf: güneşin şehadeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p14-1-mevkif-gunesin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p15",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p15.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p15-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-yildizlarin-vahdet-sahadeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p16",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p16.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p16-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-muddeinin-tardi-ve-felsefenin-sukutu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p17",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p17.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p17-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-ayetli-tevhid-ilani-ve-dua.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p18",
+          "title": "Bahar tefekkürü: Arabî fıkra ve tercümesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p18.json",
+          "sourceTitle": "Bahar tefekkürü: Arabî fıkra ve tercümesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p18-bahar-tefekkuru-arabi-fikra-ve-tercumesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p19",
+          "title": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p19.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p19-2-mevkif-1-maksad-birinci-sual-ve-semavat-arzdan-tevhid-deliline-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p20",
+          "title": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p20.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p20-2-mevkif-1-maksad-kudretin-silsile-i-tasarrufu-ve-ayetle-hulasasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p21",
+          "title": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p21.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p21-2-mevkif-1-maksad-seriklerin-imkansizligi-ve-sirk-davasinin-tahakkumiligi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p22",
+          "title": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p22.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p22-2-mevkif-1-maksad-tahakkumi-dava-kaidesi-ve-sirk-ihtimalinin-emaresizligi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p23",
+          "title": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p23.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p23-2-mevkif-1-maksad-esbabin-hakiki-tesirsizligi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p24",
+          "title": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p24.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p24-2-mevkif-2-maksad-sual-ve-birinci-temsile-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p25",
+          "title": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p25.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p25-2-mevkif-2-maksad-1-temsil-gunes-ve-aynalar-misali.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p26",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p26.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p26-2-mevkif-2-maksad-2-temsil-cinar-agaci-misaliyle-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p27",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p27.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p27-2-mevkif-2-maksad-2-temsil-ve-netice-nuraniyet-sirrindan-ilahi-ihata-ve-tasarruf.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p28",
+          "title": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p28.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p28-2-mevkif-2-maksad-kiyas-i-temsilinin-yakin-ifade-eden-nevi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p29",
+          "title": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p29.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p29-2-mevkif-2-maksad-hikayelerin-kinaye-ve-temsil-olusu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p30",
+          "title": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p30.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p30-2-maksadin-hatimesi-arabi-meyve-tohum-tefekkuru-ve-meali-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p31",
+          "title": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p31.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p31-2-maksadin-hatimesi-meyve-tohumdan-vahdet-ve-kalbin-vahdeti-gormesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p32",
+          "title": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p32.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p32-2-maksadin-hatimesi-hikmetin-telvihati-insanin-kainat-meyvesi-ve-kalbin-gayesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p33",
+          "title": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p33.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p33-2-maksadin-hatimesi-hasre-gecis-ve-hasrin-mertebeleri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p34",
+          "title": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p34.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p34-2-maksadin-hatimesi-umuma-iman-lazim-olan-hasir-mertebesi-ve-kuranin-genis-isbat-dairesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p35",
+          "title": "2. Mevkıf / 3. Maksad: 1. Remiz",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p35.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 1. Remiz",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p35-2-mevkif-3-maksad-1-remiz.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p36",
+          "title": "2. Mevkıf / 3. Maksad: 2. Remiz",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p36.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 2. Remiz",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p36-2-mevkif-3-maksad-2-remiz.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p37",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p37.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p37-2-mevkif-3-maksad-3-remiz-1-huccet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p38",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p38.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p38-2-mevkif-3-maksad-3-remiz-3-4-huccet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p39",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p39.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p39-2-mevkif-3-maksad-3-remiz-5-huccet-ile-hulasa.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p40",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p40.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p40-2-mevkif-3-maksad-4-remiz-rahmette-lezzet-ve-suunatin-izahi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p41",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p41.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p41-2-mevkif-3-maksad-4-remiz-ziyafet-temsiliyle-rahmet-ve-ihsan.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p42",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p42.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p42-2-mevkif-3-maksad-4-remiz-sanat-misaliyle-ilahi-memnuniyet-ve-suun.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p43",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p43.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p43-2-mevkif-3-maksad-4-remiz-adalet-misali-ve-muhabbet-mertebelerine-baglanis.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p44",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p44.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p44-2-mevkif-3-maksad-4-remiz-muhabbet-i-ilahiye-ve-ruyet-i-cemal.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p45",
+          "title": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p45.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p45-2-mevkif-3-maksad-5-remiz-dunyanin-uc-yuzu-ve-makbul-tahkir.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p46",
+          "title": "3. Maksad: sual ve beş işaretle cevabın başlangıcı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p46.json",
+          "sourceTitle": "3. Maksad: sual ve beş işaretle cevabın başlangıcı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p46-3-maksad-sual-ve-bes-isaretle-cevabin-baslangici.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p47",
+          "title": "3. Maksad / 1. ve 2. İşaret",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p47.json",
+          "sourceTitle": "3. Maksad / 1. ve 2. İşaret",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p47-3-maksad-1-ve-2-isaret.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p48",
+          "title": "3. Maksad / 3. İşaret",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p48.json",
+          "sourceTitle": "3. Maksad / 3. İşaret",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p48-3-maksad-3-isaret.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p49",
+          "title": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p49.json",
+          "sourceTitle": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p49-3-maksad-ifadesine-bes-isaretin-son-ikisi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p50",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p50.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p50-3-mevkif-2-nokta-1-mebhas-giris-ve-esma-i-ilahiyeye-istinad-hakikati.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p51",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p51.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p51-3-mevkif-2-nokta-1-mebhas-temsiltasvirci-ve-heykeltras-misali.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p52",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p52.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p52-3-mevkif-2-nokta-1-mebhas-esma-cilvelerinin-sirali-tecellisi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p53",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p53.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p53-3-mevkif-2-nokta-1-mebhas-cemalden-tasvire-inen-esma-silsilesinin-hulasasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p54",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p54.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p54-3-mevkif-2-nokta-1-mebhas-yedi-sahifede-esmanin-okunmasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p55",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p55.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p55-3-mevkif-2-nokta-1-mebhas-insanin-batini-sahifeleri-ve-kulli-aynalar.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p56",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p56.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p56-3-mevkif-2-nokta-1-mebhas-esyanin-tesbihi-ve-ayet-sonlarindaki-zikirlerin-sirri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p57",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p57.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p57-3-mevkif-2-nokta-2-mebhas-ehl-i-dalalet-vekilinin-iddiasi-ve-iki-yolun-takdimi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p58",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p58.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p58-3-mevkif-2-nokta-2-mebhas-dalalet-yolunun-ic-azabi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p59",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p59.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p59-3-mevkif-2-nokta-2-mebhas-merhamete-layik-olmayisinin-temsille-izahi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p60",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p60.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p60-3-mevkif-2-nokta-2-mebhas-ehl-i-dalaletin-medeniyet-ve-muhabbet-iddiasinin-cokusu.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p61",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p61.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p61-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-iman-yolunun-acz-dunya-ve-olum-yaralarini-tedavisi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p62",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p62.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p62-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-mumine-teslim-ve-tevekkul-dersi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p63",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p63.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p63-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-fani-dunya-baki-neticeler-ve-mesru-daire-dersi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p64",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p64.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p64-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-insani-yukselten-ve-ebed-yolculugunu-kolaylastiran-hakikat.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p65",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p65.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p65-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-muhabbeti-allaha-yonelten-hakikat.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p66",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p66.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p66-3-mevkif-2-nokta-2-mebhas-iman-ve-dalaletin-akibetine-dair-ayetler.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p67",
+          "title": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p67.json",
+          "sourceTitle": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p67-muhim-bir-sual-1-nukte-muhabbetin-mecazi-mahbubdan-hakiki-mahbuba-cevrilmesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p68",
+          "title": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p68.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p68-muhim-bir-sual-2-nukte-nimetleri-ve-anne-babayi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p69",
+          "title": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p69.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p69-muhim-bir-sual-2-nukte-anne-baba-hukukunun-ehemmiyeti-ve-evladi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p70",
+          "title": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p70.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p70-muhim-bir-sual-2-nukte-dostlari-refika-i-hayati-enbiya-ve-evliyayi-hayati-gencligi-bahari-ve-dunyayi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p71",
+          "title": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p71.json",
+          "sourceTitle": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p71-muhim-bir-sual-iki-nuktenin-hulasasi-dua-ve-padisah-elma-temsili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p72",
+          "title": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p72.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p72-muhim-bir-sual-3-nukte-esmaya-muhabbetin-tabakati-ve-rahman-rahim-isimlerine-fitri-ihtiyac.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p73",
+          "title": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p73.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p73-muhim-bir-sual-3-nukte-hakim-murebbi-ve-diger-isimlere-ihtiyac-esmaya-muhabbetin-umumi-esasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p74",
+          "title": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p74.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p74-muhim-bir-sual-3-nukte-rahmaniyet-ve-hak-isminin-bahar-ordusu-temsili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p75",
+          "title": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p75.json",
+          "sourceTitle": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p75-4-nukte-muhabbetlerin-dunya-ve-ahiret-neticelerine-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p76",
+          "title": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p76.json",
+          "sourceTitle": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p76-4-nukte-nefis-refika-valideyn-ve-evlada-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p77",
+          "title": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p77.json",
+          "sourceTitle": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p77-4-nukte-ahbab-enbiya-evliya-ve-guzel-seylere-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p78",
+          "title": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p78.json",
+          "sourceTitle": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p78-4-nukte-genclige-bahara-ve-dunyaya-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p79",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p79.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p79-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-insan-cihazlarinin-hikmeti-ve-ayri-ayri-vazife-lezzet-mukafatlari.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p80",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p80.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p80-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-cihazlarin-ucreti-ve-ahiretteki-neticelerin-ispati.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p81",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p81.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p81-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-1-3-isaretler-taam-nefis-genclik-ve-refika-i-hayat-muhabbetinin-neticeleri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p82",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p82.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p82-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-4-5-isaretler-aile-ve-salih-dostlar.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p83",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p83.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p83-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-6-7-isaretler-enbiya-evliya-ve-guzellik-sevgisi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p84",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p84.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p84-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-8-isaret-dunyanin-iki-guzel-yuzunu-sevmenin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p85",
+          "title": "Sual: Cennetin genişliğinin hikmeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p85.json",
+          "sourceTitle": "Sual: Cennetin genişliğinin hikmeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p85-sual-cennetin-genisliginin-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p86",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p86.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p86-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-9-isaret-iman-ve-muhabbetullahin-neticesi-ruyet-duasi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p87",
+          "title": "Münacat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/11-sinif/p87.json",
+          "sourceTitle": "Münacat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p87-munacat.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p01",
+          "title": "1. Mevkıf: tevhid muhaveresine giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p01.json",
+          "sourceTitle": "1. Mevkıf: tevhid muhaveresine giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p01-1-mevkif-tevhid-muhaveresine-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p02",
+          "title": "1. Mevkıf: zerre ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p02.json",
+          "sourceTitle": "1. Mevkıf: zerre ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p02-1-mevkif-zerre-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p03",
+          "title": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p03.json",
+          "sourceTitle": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p03-1-mevkif-zerrenin-kendi-kendine-malik-olma-iddiasini-reddi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p04",
+          "title": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p04.json",
+          "sourceTitle": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p04-1-mevkif-kureyvat-i-hamra-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p05",
+          "title": "1. Mevkıf: hüceyre ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p05.json",
+          "sourceTitle": "1. Mevkıf: hüceyre ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p05-1-mevkif-huceyre-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p06",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p06.json",
+          "sourceTitle": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p06-1-mevkif-hasiye-i-beden-tertibi-damarlar-ve-kanin-vazifeleri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p07",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p07.json",
+          "sourceTitle": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p07-1-mevkif-hasiye-i-beden-tertibi-teneffus-kanin-tasfiyesi-ve-hararet-i-gariziye.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p08",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p08.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p08-1-mevkif-insan-bedeni-ve-nev-i-insan-insan-bedeninin-saniini-ispati.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p09",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p09.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p09-1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-nev-i-insanin-sartli-meydan-okumasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p10",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p10.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p10-1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-sanatkar-meyve-agac-ve-cekirdek-misalleriyle-tard.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p11",
+          "title": "1. Mevkıf: arzın gömleği ve zeminin haliçesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p11.json",
+          "sourceTitle": "1. Mevkıf: arzın gömleği ve zeminin haliçesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p11-1-mevkif-arzin-gomlegi-ve-zeminin-halicesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p12",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p12.json",
+          "sourceTitle": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p12-1-mevkif-kure-i-arzin-sehadeti-zerrenin-arz-ve-yildizlara-havalesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p13",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p13.json",
+          "sourceTitle": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p13-1-mevkif-kure-i-arzin-sehadeti-arzin-rububiyet-davasini-reddi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p14",
+          "title": "1. Mevkıf: güneşin şehadeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p14.json",
+          "sourceTitle": "1. Mevkıf: güneşin şehadeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p14-1-mevkif-gunesin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p15",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p15.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p15-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-yildizlarin-vahdet-sahadeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p16",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p16.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p16-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-muddeinin-tardi-ve-felsefenin-sukutu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p17",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p17.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p17-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-ayetli-tevhid-ilani-ve-dua.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p18",
+          "title": "Bahar tefekkürü: Arabî fıkra ve tercümesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p18.json",
+          "sourceTitle": "Bahar tefekkürü: Arabî fıkra ve tercümesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p18-bahar-tefekkuru-arabi-fikra-ve-tercumesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p19",
+          "title": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p19.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p19-2-mevkif-1-maksad-birinci-sual-ve-semavat-arzdan-tevhid-deliline-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p20",
+          "title": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p20.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p20-2-mevkif-1-maksad-kudretin-silsile-i-tasarrufu-ve-ayetle-hulasasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p21",
+          "title": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p21.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p21-2-mevkif-1-maksad-seriklerin-imkansizligi-ve-sirk-davasinin-tahakkumiligi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p22",
+          "title": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p22.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p22-2-mevkif-1-maksad-tahakkumi-dava-kaidesi-ve-sirk-ihtimalinin-emaresizligi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p23",
+          "title": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p23.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p23-2-mevkif-1-maksad-esbabin-hakiki-tesirsizligi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p24",
+          "title": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p24.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p24-2-mevkif-2-maksad-sual-ve-birinci-temsile-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p25",
+          "title": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p25.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p25-2-mevkif-2-maksad-1-temsil-gunes-ve-aynalar-misali.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p26",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p26.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p26-2-mevkif-2-maksad-2-temsil-cinar-agaci-misaliyle-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p27",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p27.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p27-2-mevkif-2-maksad-2-temsil-ve-netice-nuraniyet-sirrindan-ilahi-ihata-ve-tasarruf.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p28",
+          "title": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p28.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p28-2-mevkif-2-maksad-kiyas-i-temsilinin-yakin-ifade-eden-nevi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p29",
+          "title": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p29.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p29-2-mevkif-2-maksad-hikayelerin-kinaye-ve-temsil-olusu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p30",
+          "title": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p30.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p30-2-maksadin-hatimesi-arabi-meyve-tohum-tefekkuru-ve-meali-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p31",
+          "title": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p31.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p31-2-maksadin-hatimesi-meyve-tohumdan-vahdet-ve-kalbin-vahdeti-gormesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p32",
+          "title": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p32.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p32-2-maksadin-hatimesi-hikmetin-telvihati-insanin-kainat-meyvesi-ve-kalbin-gayesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p33",
+          "title": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p33.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p33-2-maksadin-hatimesi-hasre-gecis-ve-hasrin-mertebeleri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p34",
+          "title": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p34.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p34-2-maksadin-hatimesi-umuma-iman-lazim-olan-hasir-mertebesi-ve-kuranin-genis-isbat-dairesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p35",
+          "title": "2. Mevkıf / 3. Maksad: 1. Remiz",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p35.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 1. Remiz",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p35-2-mevkif-3-maksad-1-remiz.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p36",
+          "title": "2. Mevkıf / 3. Maksad: 2. Remiz",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p36.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 2. Remiz",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p36-2-mevkif-3-maksad-2-remiz.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p37",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p37.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p37-2-mevkif-3-maksad-3-remiz-1-huccet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p38",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p38.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p38-2-mevkif-3-maksad-3-remiz-3-4-huccet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p39",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p39.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p39-2-mevkif-3-maksad-3-remiz-5-huccet-ile-hulasa.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p40",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p40.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p40-2-mevkif-3-maksad-4-remiz-rahmette-lezzet-ve-suunatin-izahi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p41",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p41.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p41-2-mevkif-3-maksad-4-remiz-ziyafet-temsiliyle-rahmet-ve-ihsan.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p42",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p42.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p42-2-mevkif-3-maksad-4-remiz-sanat-misaliyle-ilahi-memnuniyet-ve-suun.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p43",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p43.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p43-2-mevkif-3-maksad-4-remiz-adalet-misali-ve-muhabbet-mertebelerine-baglanis.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p44",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p44.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p44-2-mevkif-3-maksad-4-remiz-muhabbet-i-ilahiye-ve-ruyet-i-cemal.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p45",
+          "title": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p45.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p45-2-mevkif-3-maksad-5-remiz-dunyanin-uc-yuzu-ve-makbul-tahkir.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p46",
+          "title": "3. Maksad: sual ve beş işaretle cevabın başlangıcı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p46.json",
+          "sourceTitle": "3. Maksad: sual ve beş işaretle cevabın başlangıcı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p46-3-maksad-sual-ve-bes-isaretle-cevabin-baslangici.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p47",
+          "title": "3. Maksad / 1. ve 2. İşaret",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p47.json",
+          "sourceTitle": "3. Maksad / 1. ve 2. İşaret",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p47-3-maksad-1-ve-2-isaret.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p48",
+          "title": "3. Maksad / 3. İşaret",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p48.json",
+          "sourceTitle": "3. Maksad / 3. İşaret",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p48-3-maksad-3-isaret.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p49",
+          "title": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p49.json",
+          "sourceTitle": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p49-3-maksad-ifadesine-bes-isaretin-son-ikisi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p50",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p50.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p50-3-mevkif-2-nokta-1-mebhas-giris-ve-esma-i-ilahiyeye-istinad-hakikati.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p51",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p51.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p51-3-mevkif-2-nokta-1-mebhas-temsiltasvirci-ve-heykeltras-misali.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p52",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p52.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p52-3-mevkif-2-nokta-1-mebhas-esma-cilvelerinin-sirali-tecellisi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p53",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p53.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p53-3-mevkif-2-nokta-1-mebhas-cemalden-tasvire-inen-esma-silsilesinin-hulasasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p54",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p54.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p54-3-mevkif-2-nokta-1-mebhas-yedi-sahifede-esmanin-okunmasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p55",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p55.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p55-3-mevkif-2-nokta-1-mebhas-insanin-batini-sahifeleri-ve-kulli-aynalar.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p56",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p56.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p56-3-mevkif-2-nokta-1-mebhas-esyanin-tesbihi-ve-ayet-sonlarindaki-zikirlerin-sirri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p57",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p57.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p57-3-mevkif-2-nokta-2-mebhas-ehl-i-dalalet-vekilinin-iddiasi-ve-iki-yolun-takdimi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p58",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p58.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p58-3-mevkif-2-nokta-2-mebhas-dalalet-yolunun-ic-azabi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p59",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p59.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p59-3-mevkif-2-nokta-2-mebhas-merhamete-layik-olmayisinin-temsille-izahi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p60",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p60.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p60-3-mevkif-2-nokta-2-mebhas-ehl-i-dalaletin-medeniyet-ve-muhabbet-iddiasinin-cokusu.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p61",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p61.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p61-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-iman-yolunun-acz-dunya-ve-olum-yaralarini-tedavisi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p62",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p62.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p62-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-mumine-teslim-ve-tevekkul-dersi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p63",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p63.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p63-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-fani-dunya-baki-neticeler-ve-mesru-daire-dersi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p64",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p64.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p64-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-insani-yukselten-ve-ebed-yolculugunu-kolaylastiran-hakikat.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p65",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p65.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p65-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-muhabbeti-allaha-yonelten-hakikat.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p66",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p66.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p66-3-mevkif-2-nokta-2-mebhas-iman-ve-dalaletin-akibetine-dair-ayetler.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p67",
+          "title": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p67.json",
+          "sourceTitle": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p67-muhim-bir-sual-1-nukte-muhabbetin-mecazi-mahbubdan-hakiki-mahbuba-cevrilmesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p68",
+          "title": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p68.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p68-muhim-bir-sual-2-nukte-nimetleri-ve-anne-babayi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p69",
+          "title": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p69.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p69-muhim-bir-sual-2-nukte-anne-baba-hukukunun-ehemmiyeti-ve-evladi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p70",
+          "title": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p70.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p70-muhim-bir-sual-2-nukte-dostlari-refika-i-hayati-enbiya-ve-evliyayi-hayati-gencligi-bahari-ve-dunyayi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p71",
+          "title": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p71.json",
+          "sourceTitle": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p71-muhim-bir-sual-iki-nuktenin-hulasasi-dua-ve-padisah-elma-temsili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p72",
+          "title": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p72.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p72-muhim-bir-sual-3-nukte-esmaya-muhabbetin-tabakati-ve-rahman-rahim-isimlerine-fitri-ihtiyac.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p73",
+          "title": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p73.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p73-muhim-bir-sual-3-nukte-hakim-murebbi-ve-diger-isimlere-ihtiyac-esmaya-muhabbetin-umumi-esasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p74",
+          "title": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p74.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p74-muhim-bir-sual-3-nukte-rahmaniyet-ve-hak-isminin-bahar-ordusu-temsili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p75",
+          "title": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p75.json",
+          "sourceTitle": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p75-4-nukte-muhabbetlerin-dunya-ve-ahiret-neticelerine-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p76",
+          "title": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p76.json",
+          "sourceTitle": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p76-4-nukte-nefis-refika-valideyn-ve-evlada-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p77",
+          "title": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p77.json",
+          "sourceTitle": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p77-4-nukte-ahbab-enbiya-evliya-ve-guzel-seylere-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p78",
+          "title": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p78.json",
+          "sourceTitle": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p78-4-nukte-genclige-bahara-ve-dunyaya-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p79",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p79.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p79-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-insan-cihazlarinin-hikmeti-ve-ayri-ayri-vazife-lezzet-mukafatlari.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p80",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p80.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p80-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-cihazlarin-ucreti-ve-ahiretteki-neticelerin-ispati.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p81",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p81.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p81-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-1-3-isaretler-taam-nefis-genclik-ve-refika-i-hayat-muhabbetinin-neticeleri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p82",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p82.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p82-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-4-5-isaretler-aile-ve-salih-dostlar.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p83",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p83.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p83-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-6-7-isaretler-enbiya-evliya-ve-guzellik-sevgisi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p84",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p84.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p84-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-8-isaret-dunyanin-iki-guzel-yuzunu-sevmenin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p85",
+          "title": "Sual: Cennetin genişliğinin hikmeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p85.json",
+          "sourceTitle": "Sual: Cennetin genişliğinin hikmeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p85-sual-cennetin-genisliginin-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p86",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p86.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p86-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-9-isaret-iman-ve-muhabbetullahin-neticesi-ruyet-duasi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p87",
+          "title": "Münacat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/2-sinif/p87.json",
+          "sourceTitle": "Münacat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p87-munacat.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p01",
+          "title": "1. Mevkıf: tevhid muhaveresine giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p01.json",
+          "sourceTitle": "1. Mevkıf: tevhid muhaveresine giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p01-1-mevkif-tevhid-muhaveresine-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p02",
+          "title": "1. Mevkıf: zerre ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p02.json",
+          "sourceTitle": "1. Mevkıf: zerre ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p02-1-mevkif-zerre-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p03",
+          "title": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p03.json",
+          "sourceTitle": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p03-1-mevkif-zerrenin-kendi-kendine-malik-olma-iddiasini-reddi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p04",
+          "title": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p04.json",
+          "sourceTitle": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p04-1-mevkif-kureyvat-i-hamra-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p05",
+          "title": "1. Mevkıf: hüceyre ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p05.json",
+          "sourceTitle": "1. Mevkıf: hüceyre ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p05-1-mevkif-huceyre-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p06",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p06.json",
+          "sourceTitle": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p06-1-mevkif-hasiye-i-beden-tertibi-damarlar-ve-kanin-vazifeleri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p07",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p07.json",
+          "sourceTitle": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p07-1-mevkif-hasiye-i-beden-tertibi-teneffus-kanin-tasfiyesi-ve-hararet-i-gariziye.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p08",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p08.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p08-1-mevkif-insan-bedeni-ve-nev-i-insan-insan-bedeninin-saniini-ispati.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p09",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p09.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p09-1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-nev-i-insanin-sartli-meydan-okumasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p10",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p10.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p10-1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-sanatkar-meyve-agac-ve-cekirdek-misalleriyle-tard.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p11",
+          "title": "1. Mevkıf: arzın gömleği ve zeminin haliçesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p11.json",
+          "sourceTitle": "1. Mevkıf: arzın gömleği ve zeminin haliçesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p11-1-mevkif-arzin-gomlegi-ve-zeminin-halicesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p12",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p12.json",
+          "sourceTitle": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p12-1-mevkif-kure-i-arzin-sehadeti-zerrenin-arz-ve-yildizlara-havalesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p13",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p13.json",
+          "sourceTitle": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p13-1-mevkif-kure-i-arzin-sehadeti-arzin-rububiyet-davasini-reddi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p14",
+          "title": "1. Mevkıf: güneşin şehadeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p14.json",
+          "sourceTitle": "1. Mevkıf: güneşin şehadeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p14-1-mevkif-gunesin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p15",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p15.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p15-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-yildizlarin-vahdet-sahadeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p16",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p16.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p16-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-muddeinin-tardi-ve-felsefenin-sukutu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p17",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p17.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p17-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-ayetli-tevhid-ilani-ve-dua.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p18",
+          "title": "Bahar tefekkürü: Arabî fıkra ve tercümesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p18.json",
+          "sourceTitle": "Bahar tefekkürü: Arabî fıkra ve tercümesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p18-bahar-tefekkuru-arabi-fikra-ve-tercumesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p19",
+          "title": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p19.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p19-2-mevkif-1-maksad-birinci-sual-ve-semavat-arzdan-tevhid-deliline-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p20",
+          "title": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p20.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p20-2-mevkif-1-maksad-kudretin-silsile-i-tasarrufu-ve-ayetle-hulasasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p21",
+          "title": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p21.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p21-2-mevkif-1-maksad-seriklerin-imkansizligi-ve-sirk-davasinin-tahakkumiligi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p22",
+          "title": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p22.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p22-2-mevkif-1-maksad-tahakkumi-dava-kaidesi-ve-sirk-ihtimalinin-emaresizligi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p23",
+          "title": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p23.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p23-2-mevkif-1-maksad-esbabin-hakiki-tesirsizligi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p24",
+          "title": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p24.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p24-2-mevkif-2-maksad-sual-ve-birinci-temsile-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p25",
+          "title": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p25.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p25-2-mevkif-2-maksad-1-temsil-gunes-ve-aynalar-misali.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p26",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p26.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p26-2-mevkif-2-maksad-2-temsil-cinar-agaci-misaliyle-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p27",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p27.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p27-2-mevkif-2-maksad-2-temsil-ve-netice-nuraniyet-sirrindan-ilahi-ihata-ve-tasarruf.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p28",
+          "title": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p28.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p28-2-mevkif-2-maksad-kiyas-i-temsilinin-yakin-ifade-eden-nevi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p29",
+          "title": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p29.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p29-2-mevkif-2-maksad-hikayelerin-kinaye-ve-temsil-olusu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p30",
+          "title": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p30.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p30-2-maksadin-hatimesi-arabi-meyve-tohum-tefekkuru-ve-meali-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p31",
+          "title": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p31.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p31-2-maksadin-hatimesi-meyve-tohumdan-vahdet-ve-kalbin-vahdeti-gormesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p32",
+          "title": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p32.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p32-2-maksadin-hatimesi-hikmetin-telvihati-insanin-kainat-meyvesi-ve-kalbin-gayesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p33",
+          "title": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p33.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p33-2-maksadin-hatimesi-hasre-gecis-ve-hasrin-mertebeleri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p34",
+          "title": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p34.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p34-2-maksadin-hatimesi-umuma-iman-lazim-olan-hasir-mertebesi-ve-kuranin-genis-isbat-dairesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p35",
+          "title": "2. Mevkıf / 3. Maksad: 1. Remiz",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p35.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 1. Remiz",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p35-2-mevkif-3-maksad-1-remiz.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p36",
+          "title": "2. Mevkıf / 3. Maksad: 2. Remiz",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p36.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 2. Remiz",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p36-2-mevkif-3-maksad-2-remiz.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p37",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p37.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p37-2-mevkif-3-maksad-3-remiz-1-huccet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p38",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p38.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p38-2-mevkif-3-maksad-3-remiz-3-4-huccet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p39",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p39.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p39-2-mevkif-3-maksad-3-remiz-5-huccet-ile-hulasa.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p40",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p40.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p40-2-mevkif-3-maksad-4-remiz-rahmette-lezzet-ve-suunatin-izahi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p41",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p41.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p41-2-mevkif-3-maksad-4-remiz-ziyafet-temsiliyle-rahmet-ve-ihsan.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p42",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p42.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p42-2-mevkif-3-maksad-4-remiz-sanat-misaliyle-ilahi-memnuniyet-ve-suun.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p43",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p43.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p43-2-mevkif-3-maksad-4-remiz-adalet-misali-ve-muhabbet-mertebelerine-baglanis.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p44",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p44.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p44-2-mevkif-3-maksad-4-remiz-muhabbet-i-ilahiye-ve-ruyet-i-cemal.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p45",
+          "title": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p45.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p45-2-mevkif-3-maksad-5-remiz-dunyanin-uc-yuzu-ve-makbul-tahkir.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p46",
+          "title": "3. Maksad: sual ve beş işaretle cevabın başlangıcı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p46.json",
+          "sourceTitle": "3. Maksad: sual ve beş işaretle cevabın başlangıcı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p46-3-maksad-sual-ve-bes-isaretle-cevabin-baslangici.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p47",
+          "title": "3. Maksad / 1. ve 2. İşaret",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p47.json",
+          "sourceTitle": "3. Maksad / 1. ve 2. İşaret",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p47-3-maksad-1-ve-2-isaret.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p48",
+          "title": "3. Maksad / 3. İşaret",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p48.json",
+          "sourceTitle": "3. Maksad / 3. İşaret",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p48-3-maksad-3-isaret.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p49",
+          "title": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p49.json",
+          "sourceTitle": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p49-3-maksad-ifadesine-bes-isaretin-son-ikisi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p50",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p50.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p50-3-mevkif-2-nokta-1-mebhas-giris-ve-esma-i-ilahiyeye-istinad-hakikati.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p51",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p51.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p51-3-mevkif-2-nokta-1-mebhas-temsiltasvirci-ve-heykeltras-misali.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p52",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p52.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p52-3-mevkif-2-nokta-1-mebhas-esma-cilvelerinin-sirali-tecellisi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p53",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p53.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p53-3-mevkif-2-nokta-1-mebhas-cemalden-tasvire-inen-esma-silsilesinin-hulasasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p54",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p54.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p54-3-mevkif-2-nokta-1-mebhas-yedi-sahifede-esmanin-okunmasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p55",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p55.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p55-3-mevkif-2-nokta-1-mebhas-insanin-batini-sahifeleri-ve-kulli-aynalar.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p56",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p56.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p56-3-mevkif-2-nokta-1-mebhas-esyanin-tesbihi-ve-ayet-sonlarindaki-zikirlerin-sirri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p57",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p57.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p57-3-mevkif-2-nokta-2-mebhas-ehl-i-dalalet-vekilinin-iddiasi-ve-iki-yolun-takdimi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p58",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p58.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p58-3-mevkif-2-nokta-2-mebhas-dalalet-yolunun-ic-azabi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p59",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p59.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p59-3-mevkif-2-nokta-2-mebhas-merhamete-layik-olmayisinin-temsille-izahi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p60",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p60.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p60-3-mevkif-2-nokta-2-mebhas-ehl-i-dalaletin-medeniyet-ve-muhabbet-iddiasinin-cokusu.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p61",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p61.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p61-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-iman-yolunun-acz-dunya-ve-olum-yaralarini-tedavisi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p62",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p62.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p62-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-mumine-teslim-ve-tevekkul-dersi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p63",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p63.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p63-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-fani-dunya-baki-neticeler-ve-mesru-daire-dersi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p64",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p64.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p64-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-insani-yukselten-ve-ebed-yolculugunu-kolaylastiran-hakikat.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p65",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p65.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p65-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-muhabbeti-allaha-yonelten-hakikat.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p66",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p66.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p66-3-mevkif-2-nokta-2-mebhas-iman-ve-dalaletin-akibetine-dair-ayetler.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p67",
+          "title": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p67.json",
+          "sourceTitle": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p67-muhim-bir-sual-1-nukte-muhabbetin-mecazi-mahbubdan-hakiki-mahbuba-cevrilmesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p68",
+          "title": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p68.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p68-muhim-bir-sual-2-nukte-nimetleri-ve-anne-babayi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p69",
+          "title": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p69.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p69-muhim-bir-sual-2-nukte-anne-baba-hukukunun-ehemmiyeti-ve-evladi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p70",
+          "title": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p70.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p70-muhim-bir-sual-2-nukte-dostlari-refika-i-hayati-enbiya-ve-evliyayi-hayati-gencligi-bahari-ve-dunyayi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p71",
+          "title": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p71.json",
+          "sourceTitle": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p71-muhim-bir-sual-iki-nuktenin-hulasasi-dua-ve-padisah-elma-temsili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p72",
+          "title": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p72.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p72-muhim-bir-sual-3-nukte-esmaya-muhabbetin-tabakati-ve-rahman-rahim-isimlerine-fitri-ihtiyac.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p73",
+          "title": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p73.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p73-muhim-bir-sual-3-nukte-hakim-murebbi-ve-diger-isimlere-ihtiyac-esmaya-muhabbetin-umumi-esasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p74",
+          "title": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p74.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p74-muhim-bir-sual-3-nukte-rahmaniyet-ve-hak-isminin-bahar-ordusu-temsili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p75",
+          "title": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p75.json",
+          "sourceTitle": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p75-4-nukte-muhabbetlerin-dunya-ve-ahiret-neticelerine-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p76",
+          "title": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p76.json",
+          "sourceTitle": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p76-4-nukte-nefis-refika-valideyn-ve-evlada-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p77",
+          "title": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p77.json",
+          "sourceTitle": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p77-4-nukte-ahbab-enbiya-evliya-ve-guzel-seylere-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p78",
+          "title": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p78.json",
+          "sourceTitle": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p78-4-nukte-genclige-bahara-ve-dunyaya-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p79",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p79.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p79-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-insan-cihazlarinin-hikmeti-ve-ayri-ayri-vazife-lezzet-mukafatlari.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p80",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p80.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p80-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-cihazlarin-ucreti-ve-ahiretteki-neticelerin-ispati.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p81",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p81.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p81-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-1-3-isaretler-taam-nefis-genclik-ve-refika-i-hayat-muhabbetinin-neticeleri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p82",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p82.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p82-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-4-5-isaretler-aile-ve-salih-dostlar.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p83",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p83.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p83-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-6-7-isaretler-enbiya-evliya-ve-guzellik-sevgisi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p84",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p84.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p84-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-8-isaret-dunyanin-iki-guzel-yuzunu-sevmenin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p85",
+          "title": "Sual: Cennetin genişliğinin hikmeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p85.json",
+          "sourceTitle": "Sual: Cennetin genişliğinin hikmeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p85-sual-cennetin-genisliginin-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p86",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p86.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p86-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-9-isaret-iman-ve-muhabbetullahin-neticesi-ruyet-duasi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p87",
+          "title": "Münacat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/5-sinif/p87.json",
+          "sourceTitle": "Münacat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p87-munacat.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p01",
+          "title": "1. Mevkıf: tevhid muhaveresine giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p01.json",
+          "sourceTitle": "1. Mevkıf: tevhid muhaveresine giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p01-1-mevkif-tevhid-muhaveresine-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p02",
+          "title": "1. Mevkıf: zerre ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p02.json",
+          "sourceTitle": "1. Mevkıf: zerre ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p02-1-mevkif-zerre-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p03",
+          "title": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p03.json",
+          "sourceTitle": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p03-1-mevkif-zerrenin-kendi-kendine-malik-olma-iddiasini-reddi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p04",
+          "title": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p04.json",
+          "sourceTitle": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p04-1-mevkif-kureyvat-i-hamra-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p05",
+          "title": "1. Mevkıf: hüceyre ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p05.json",
+          "sourceTitle": "1. Mevkıf: hüceyre ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p05-1-mevkif-huceyre-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p06",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p06.json",
+          "sourceTitle": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p06-1-mevkif-hasiye-i-beden-tertibi-damarlar-ve-kanin-vazifeleri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p07",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p07.json",
+          "sourceTitle": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p07-1-mevkif-hasiye-i-beden-tertibi-teneffus-kanin-tasfiyesi-ve-hararet-i-gariziye.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p08",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p08.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p08-1-mevkif-insan-bedeni-ve-nev-i-insan-insan-bedeninin-saniini-ispati.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p09",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p09.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p09-1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-nev-i-insanin-sartli-meydan-okumasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p10",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p10.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p10-1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-sanatkar-meyve-agac-ve-cekirdek-misalleriyle-tard.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p11",
+          "title": "1. Mevkıf: arzın gömleği ve zeminin haliçesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p11.json",
+          "sourceTitle": "1. Mevkıf: arzın gömleği ve zeminin haliçesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p11-1-mevkif-arzin-gomlegi-ve-zeminin-halicesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p12",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p12.json",
+          "sourceTitle": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p12-1-mevkif-kure-i-arzin-sehadeti-zerrenin-arz-ve-yildizlara-havalesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p13",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p13.json",
+          "sourceTitle": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p13-1-mevkif-kure-i-arzin-sehadeti-arzin-rububiyet-davasini-reddi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p14",
+          "title": "1. Mevkıf: güneşin şehadeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p14.json",
+          "sourceTitle": "1. Mevkıf: güneşin şehadeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p14-1-mevkif-gunesin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p15",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p15.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p15-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-yildizlarin-vahdet-sahadeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p16",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p16.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p16-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-muddeinin-tardi-ve-felsefenin-sukutu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p17",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p17.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p17-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-ayetli-tevhid-ilani-ve-dua.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p18",
+          "title": "Bahar tefekkürü: Arabî fıkra ve tercümesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p18.json",
+          "sourceTitle": "Bahar tefekkürü: Arabî fıkra ve tercümesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p18-bahar-tefekkuru-arabi-fikra-ve-tercumesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p19",
+          "title": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p19.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p19-2-mevkif-1-maksad-birinci-sual-ve-semavat-arzdan-tevhid-deliline-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p20",
+          "title": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p20.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p20-2-mevkif-1-maksad-kudretin-silsile-i-tasarrufu-ve-ayetle-hulasasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p21",
+          "title": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p21.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p21-2-mevkif-1-maksad-seriklerin-imkansizligi-ve-sirk-davasinin-tahakkumiligi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p22",
+          "title": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p22.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p22-2-mevkif-1-maksad-tahakkumi-dava-kaidesi-ve-sirk-ihtimalinin-emaresizligi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p23",
+          "title": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p23.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p23-2-mevkif-1-maksad-esbabin-hakiki-tesirsizligi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p24",
+          "title": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p24.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p24-2-mevkif-2-maksad-sual-ve-birinci-temsile-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p25",
+          "title": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p25.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p25-2-mevkif-2-maksad-1-temsil-gunes-ve-aynalar-misali.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p26",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p26.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p26-2-mevkif-2-maksad-2-temsil-cinar-agaci-misaliyle-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p27",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p27.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p27-2-mevkif-2-maksad-2-temsil-ve-netice-nuraniyet-sirrindan-ilahi-ihata-ve-tasarruf.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p28",
+          "title": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p28.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p28-2-mevkif-2-maksad-kiyas-i-temsilinin-yakin-ifade-eden-nevi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p29",
+          "title": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p29.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p29-2-mevkif-2-maksad-hikayelerin-kinaye-ve-temsil-olusu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p30",
+          "title": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p30.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p30-2-maksadin-hatimesi-arabi-meyve-tohum-tefekkuru-ve-meali-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p31",
+          "title": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p31.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p31-2-maksadin-hatimesi-meyve-tohumdan-vahdet-ve-kalbin-vahdeti-gormesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p32",
+          "title": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p32.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p32-2-maksadin-hatimesi-hikmetin-telvihati-insanin-kainat-meyvesi-ve-kalbin-gayesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p33",
+          "title": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p33.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p33-2-maksadin-hatimesi-hasre-gecis-ve-hasrin-mertebeleri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p34",
+          "title": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p34.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p34-2-maksadin-hatimesi-umuma-iman-lazim-olan-hasir-mertebesi-ve-kuranin-genis-isbat-dairesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p35",
+          "title": "2. Mevkıf / 3. Maksad: 1. Remiz",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p35.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 1. Remiz",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p35-2-mevkif-3-maksad-1-remiz.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p36",
+          "title": "2. Mevkıf / 3. Maksad: 2. Remiz",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p36.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 2. Remiz",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p36-2-mevkif-3-maksad-2-remiz.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p37",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p37.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p37-2-mevkif-3-maksad-3-remiz-1-huccet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p38",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p38.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p38-2-mevkif-3-maksad-3-remiz-3-4-huccet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p39",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p39.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p39-2-mevkif-3-maksad-3-remiz-5-huccet-ile-hulasa.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p40",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p40.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p40-2-mevkif-3-maksad-4-remiz-rahmette-lezzet-ve-suunatin-izahi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p41",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p41.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p41-2-mevkif-3-maksad-4-remiz-ziyafet-temsiliyle-rahmet-ve-ihsan.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p42",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p42.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p42-2-mevkif-3-maksad-4-remiz-sanat-misaliyle-ilahi-memnuniyet-ve-suun.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p43",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p43.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p43-2-mevkif-3-maksad-4-remiz-adalet-misali-ve-muhabbet-mertebelerine-baglanis.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p44",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p44.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p44-2-mevkif-3-maksad-4-remiz-muhabbet-i-ilahiye-ve-ruyet-i-cemal.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p45",
+          "title": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p45.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p45-2-mevkif-3-maksad-5-remiz-dunyanin-uc-yuzu-ve-makbul-tahkir.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p46",
+          "title": "3. Maksad: sual ve beş işaretle cevabın başlangıcı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p46.json",
+          "sourceTitle": "3. Maksad: sual ve beş işaretle cevabın başlangıcı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p46-3-maksad-sual-ve-bes-isaretle-cevabin-baslangici.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p47",
+          "title": "3. Maksad / 1. ve 2. İşaret",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p47.json",
+          "sourceTitle": "3. Maksad / 1. ve 2. İşaret",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p47-3-maksad-1-ve-2-isaret.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p48",
+          "title": "3. Maksad / 3. İşaret",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p48.json",
+          "sourceTitle": "3. Maksad / 3. İşaret",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p48-3-maksad-3-isaret.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p49",
+          "title": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p49.json",
+          "sourceTitle": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p49-3-maksad-ifadesine-bes-isaretin-son-ikisi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p50",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p50.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p50-3-mevkif-2-nokta-1-mebhas-giris-ve-esma-i-ilahiyeye-istinad-hakikati.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p51",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p51.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p51-3-mevkif-2-nokta-1-mebhas-temsiltasvirci-ve-heykeltras-misali.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p52",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p52.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p52-3-mevkif-2-nokta-1-mebhas-esma-cilvelerinin-sirali-tecellisi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p53",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p53.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p53-3-mevkif-2-nokta-1-mebhas-cemalden-tasvire-inen-esma-silsilesinin-hulasasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p54",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p54.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p54-3-mevkif-2-nokta-1-mebhas-yedi-sahifede-esmanin-okunmasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p55",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p55.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p55-3-mevkif-2-nokta-1-mebhas-insanin-batini-sahifeleri-ve-kulli-aynalar.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p56",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p56.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p56-3-mevkif-2-nokta-1-mebhas-esyanin-tesbihi-ve-ayet-sonlarindaki-zikirlerin-sirri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p57",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p57.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p57-3-mevkif-2-nokta-2-mebhas-ehl-i-dalalet-vekilinin-iddiasi-ve-iki-yolun-takdimi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p58",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p58.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p58-3-mevkif-2-nokta-2-mebhas-dalalet-yolunun-ic-azabi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p59",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p59.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p59-3-mevkif-2-nokta-2-mebhas-merhamete-layik-olmayisinin-temsille-izahi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p60",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p60.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p60-3-mevkif-2-nokta-2-mebhas-ehl-i-dalaletin-medeniyet-ve-muhabbet-iddiasinin-cokusu.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p61",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p61.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p61-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-iman-yolunun-acz-dunya-ve-olum-yaralarini-tedavisi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p62",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p62.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p62-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-mumine-teslim-ve-tevekkul-dersi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p63",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p63.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p63-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-fani-dunya-baki-neticeler-ve-mesru-daire-dersi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p64",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p64.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p64-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-insani-yukselten-ve-ebed-yolculugunu-kolaylastiran-hakikat.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p65",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p65.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p65-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-muhabbeti-allaha-yonelten-hakikat.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p66",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p66.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p66-3-mevkif-2-nokta-2-mebhas-iman-ve-dalaletin-akibetine-dair-ayetler.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p67",
+          "title": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p67.json",
+          "sourceTitle": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p67-muhim-bir-sual-1-nukte-muhabbetin-mecazi-mahbubdan-hakiki-mahbuba-cevrilmesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p68",
+          "title": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p68.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p68-muhim-bir-sual-2-nukte-nimetleri-ve-anne-babayi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p69",
+          "title": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p69.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p69-muhim-bir-sual-2-nukte-anne-baba-hukukunun-ehemmiyeti-ve-evladi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p70",
+          "title": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p70.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p70-muhim-bir-sual-2-nukte-dostlari-refika-i-hayati-enbiya-ve-evliyayi-hayati-gencligi-bahari-ve-dunyayi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p71",
+          "title": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p71.json",
+          "sourceTitle": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p71-muhim-bir-sual-iki-nuktenin-hulasasi-dua-ve-padisah-elma-temsili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p72",
+          "title": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p72.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p72-muhim-bir-sual-3-nukte-esmaya-muhabbetin-tabakati-ve-rahman-rahim-isimlerine-fitri-ihtiyac.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p73",
+          "title": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p73.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p73-muhim-bir-sual-3-nukte-hakim-murebbi-ve-diger-isimlere-ihtiyac-esmaya-muhabbetin-umumi-esasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p74",
+          "title": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p74.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p74-muhim-bir-sual-3-nukte-rahmaniyet-ve-hak-isminin-bahar-ordusu-temsili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p75",
+          "title": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p75.json",
+          "sourceTitle": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p75-4-nukte-muhabbetlerin-dunya-ve-ahiret-neticelerine-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p76",
+          "title": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p76.json",
+          "sourceTitle": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p76-4-nukte-nefis-refika-valideyn-ve-evlada-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p77",
+          "title": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p77.json",
+          "sourceTitle": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p77-4-nukte-ahbab-enbiya-evliya-ve-guzel-seylere-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p78",
+          "title": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p78.json",
+          "sourceTitle": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p78-4-nukte-genclige-bahara-ve-dunyaya-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p79",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p79.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p79-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-insan-cihazlarinin-hikmeti-ve-ayri-ayri-vazife-lezzet-mukafatlari.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p80",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p80.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p80-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-cihazlarin-ucreti-ve-ahiretteki-neticelerin-ispati.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p81",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p81.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p81-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-1-3-isaretler-taam-nefis-genclik-ve-refika-i-hayat-muhabbetinin-neticeleri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p82",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p82.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p82-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-4-5-isaretler-aile-ve-salih-dostlar.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p83",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p83.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p83-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-6-7-isaretler-enbiya-evliya-ve-guzellik-sevgisi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p84",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p84.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p84-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-8-isaret-dunyanin-iki-guzel-yuzunu-sevmenin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p85",
+          "title": "Sual: Cennetin genişliğinin hikmeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p85.json",
+          "sourceTitle": "Sual: Cennetin genişliğinin hikmeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p85-sual-cennetin-genisliginin-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p86",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p86.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p86-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-9-isaret-iman-ve-muhabbetullahin-neticesi-ruyet-duasi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p87",
+          "title": "Münacat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/8-sinif/p87.json",
+          "sourceTitle": "Münacat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p87-munacat.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p01",
+          "title": "1. Mevkıf: tevhid muhaveresine giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p01.json",
+          "sourceTitle": "1. Mevkıf: tevhid muhaveresine giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p01-1-mevkif-tevhid-muhaveresine-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p02",
+          "title": "1. Mevkıf: zerre ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p02.json",
+          "sourceTitle": "1. Mevkıf: zerre ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p02-1-mevkif-zerre-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p03",
+          "title": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p03.json",
+          "sourceTitle": "1. Mevkıf: zerrenin kendi kendine mâlik olma iddiasını reddi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p03-1-mevkif-zerrenin-kendi-kendine-malik-olma-iddiasini-reddi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p04",
+          "title": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p04.json",
+          "sourceTitle": "1. Mevkıf: küreyvat-ı hamra ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p04-1-mevkif-kureyvat-i-hamra-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p05",
+          "title": "1. Mevkıf: hüceyre ile münazara",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p05.json",
+          "sourceTitle": "1. Mevkıf: hüceyre ile münazara",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p05-1-mevkif-huceyre-ile-munazara.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p06",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p06.json",
+          "sourceTitle": "1. Mevkıf / Haşiye-i beden tertibi: damarlar ve kanın vazifeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p06-1-mevkif-hasiye-i-beden-tertibi-damarlar-ve-kanin-vazifeleri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p07",
+          "title": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p07.json",
+          "sourceTitle": "1. Mevkıf / Haşiye-i beden tertibi: teneffüs, kanın tasfiyesi ve hararet-i gariziye",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p07-1-mevkif-hasiye-i-beden-tertibi-teneffus-kanin-tasfiyesi-ve-hararet-i-gariziye.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p08",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p08.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / insan bedeninin Sâni’ini ispatı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p08-1-mevkif-insan-bedeni-ve-nev-i-insan-insan-bedeninin-saniini-ispati.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p09",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p09.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: nev-i insanın şartlı meydan okuması",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p09-1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-nev-i-insanin-sartli-meydan-okumasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p10",
+          "title": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p10.json",
+          "sourceTitle": "1. Mevkıf: insan bedeni ve nev-i insan / nev-i insanın rububiyet davasını reddi: sanatkâr, meyve-ağaç ve çekirdek misalleriyle tard",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p10-1-mevkif-insan-bedeni-ve-nev-i-insan-nev-i-insanin-rububiyet-davasini-reddi-sanatkar-meyve-agac-ve-cekirdek-misalleriyle-tard.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p11",
+          "title": "1. Mevkıf: arzın gömleği ve zeminin haliçesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p11.json",
+          "sourceTitle": "1. Mevkıf: arzın gömleği ve zeminin haliçesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p11-1-mevkif-arzin-gomlegi-ve-zeminin-halicesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p12",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p12.json",
+          "sourceTitle": "1. Mevkıf: küre-i arzın şehadeti / zerrenin arz ve yıldızlara havalesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p12-1-mevkif-kure-i-arzin-sehadeti-zerrenin-arz-ve-yildizlara-havalesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p13",
+          "title": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p13.json",
+          "sourceTitle": "1. Mevkıf: küre-i arzın şehadeti / arzın rububiyet davasını reddi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p13-1-mevkif-kure-i-arzin-sehadeti-arzin-rububiyet-davasini-reddi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p14",
+          "title": "1. Mevkıf: güneşin şehadeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p14.json",
+          "sourceTitle": "1. Mevkıf: güneşin şehadeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p14-1-mevkif-gunesin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p15",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p15.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / yıldızların vahdet şahadeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p15-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-yildizlarin-vahdet-sahadeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p16",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p16.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / müddeînin tardı ve felsefenin sukutu",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p16-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-muddeinin-tardi-ve-felsefenin-sukutu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p17",
+          "title": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p17.json",
+          "sourceTitle": "1. Mevkıf: yıldızların tokadı ve tevhid ilânı / ayetli tevhid ilânı ve dua",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p17-1-mevkif-yildizlarin-tokadi-ve-tevhid-ilani-ayetli-tevhid-ilani-ve-dua.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p18",
+          "title": "Bahar tefekkürü: Arabî fıkra ve tercümesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p18.json",
+          "sourceTitle": "Bahar tefekkürü: Arabî fıkra ve tercümesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p18-bahar-tefekkuru-arabi-fikra-ve-tercumesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p19",
+          "title": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p19.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Birinci sual ve semavat-arzdan tevhid deliline giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p19-2-mevkif-1-maksad-birinci-sual-ve-semavat-arzdan-tevhid-deliline-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p20",
+          "title": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p20.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Kudretin silsile-i tasarrufu ve âyetle hulâsası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p20-2-mevkif-1-maksad-kudretin-silsile-i-tasarrufu-ve-ayetle-hulasasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p21",
+          "title": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p21.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Şeriklerin imkânsızlığı ve şirk davasının tahakkümîliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p21-2-mevkif-1-maksad-seriklerin-imkansizligi-ve-sirk-davasinin-tahakkumiligi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p22",
+          "title": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p22.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Tahakkümî dava kaidesi ve şirk ihtimalinin emaresizliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p22-2-mevkif-1-maksad-tahakkumi-dava-kaidesi-ve-sirk-ihtimalinin-emaresizligi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p23",
+          "title": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p23.json",
+          "sourceTitle": "2. Mevkıf / 1. Maksad: Esbabın hakikî tesirsizliği",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p23-2-mevkif-1-maksad-esbabin-hakiki-tesirsizligi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p24",
+          "title": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p24.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: sual ve birinci temsile giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p24-2-mevkif-2-maksad-sual-ve-birinci-temsile-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p25",
+          "title": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p25.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 1. Temsil: güneş ve aynalar misali",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p25-2-mevkif-2-maksad-1-temsil-gunes-ve-aynalar-misali.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p26",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p26.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 2. Temsil: çınar ağacı misaliyle ehadiyet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p26-2-mevkif-2-maksad-2-temsil-cinar-agaci-misaliyle-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p27",
+          "title": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p27.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad / 2. Temsil ve netice: nuraniyet sırrından ilahî ihata ve tasarruf",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p27-2-mevkif-2-maksad-2-temsil-ve-netice-nuraniyet-sirrindan-ilahi-ihata-ve-tasarruf.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p28",
+          "title": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p28.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: kıyas-ı temsilînin yakīn ifade eden nev’i",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p28-2-mevkif-2-maksad-kiyas-i-temsilinin-yakin-ifade-eden-nevi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p29",
+          "title": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p29.json",
+          "sourceTitle": "2. Mevkıf / 2. Maksad: hikâyelerin kinaye ve temsil oluşu",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p29-2-mevkif-2-maksad-hikayelerin-kinaye-ve-temsil-olusu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p30",
+          "title": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p30.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: Arabî meyve-tohum tefekkürü ve meali giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p30-2-maksadin-hatimesi-arabi-meyve-tohum-tefekkuru-ve-meali-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p31",
+          "title": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p31.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: meyve-tohumdan vahdet ve kalbin vahdeti görmesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p31-2-maksadin-hatimesi-meyve-tohumdan-vahdet-ve-kalbin-vahdeti-gormesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p32",
+          "title": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p32.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: hikmetin telvihatı, insanın kâinat meyvesi ve kalbin gayesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p32-2-maksadin-hatimesi-hikmetin-telvihati-insanin-kainat-meyvesi-ve-kalbin-gayesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p33",
+          "title": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p33.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: haşre geçiş ve haşrin mertebeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p33-2-maksadin-hatimesi-hasre-gecis-ve-hasrin-mertebeleri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p34",
+          "title": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p34.json",
+          "sourceTitle": "2. Maksad’ın Hâtimesi: umuma iman lâzım olan haşir mertebesi ve Kur’an’ın geniş isbat dairesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p34-2-maksadin-hatimesi-umuma-iman-lazim-olan-hasir-mertebesi-ve-kuranin-genis-isbat-dairesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p35",
+          "title": "2. Mevkıf / 3. Maksad: 1. Remiz",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p35.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 1. Remiz",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p35-2-mevkif-3-maksad-1-remiz.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p36",
+          "title": "2. Mevkıf / 3. Maksad: 2. Remiz",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p36.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 2. Remiz",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p36-2-mevkif-3-maksad-2-remiz.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p37",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p37.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 1. Hüccet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p37-2-mevkif-3-maksad-3-remiz-1-huccet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p38",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p38.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 3-4. Hüccet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p38-2-mevkif-3-maksad-3-remiz-3-4-huccet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p39",
+          "title": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p39.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 3. Remiz / 5. Hüccet ile hülâsa",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p39-2-mevkif-3-maksad-3-remiz-5-huccet-ile-hulasa.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p40",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p40.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, rahmette lezzet ve şuunatın izahı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p40-2-mevkif-3-maksad-4-remiz-rahmette-lezzet-ve-suunatin-izahi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p41",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p41.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, ziyafet temsiliyle rahmet ve ihsan",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p41-2-mevkif-3-maksad-4-remiz-ziyafet-temsiliyle-rahmet-ve-ihsan.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p42",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p42.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, sanat misaliyle İlâhî memnuniyet ve şuun",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p42-2-mevkif-3-maksad-4-remiz-sanat-misaliyle-ilahi-memnuniyet-ve-suun.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p43",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p43.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, adalet misali ve muhabbet mertebelerine bağlanış",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p43-2-mevkif-3-maksad-4-remiz-adalet-misali-ve-muhabbet-mertebelerine-baglanis.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p44",
+          "title": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p44.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 4. Remiz, muhabbet-i İlahiye ve rü'yet-i cemal",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p44-2-mevkif-3-maksad-4-remiz-muhabbet-i-ilahiye-ve-ruyet-i-cemal.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p45",
+          "title": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p45.json",
+          "sourceTitle": "2. Mevkıf / 3. Maksad: 5. Remiz: dünyanın üç yüzü ve makbul tahkir",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p45-2-mevkif-3-maksad-5-remiz-dunyanin-uc-yuzu-ve-makbul-tahkir.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p46",
+          "title": "3. Maksad: sual ve beş işaretle cevabın başlangıcı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p46.json",
+          "sourceTitle": "3. Maksad: sual ve beş işaretle cevabın başlangıcı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p46-3-maksad-sual-ve-bes-isaretle-cevabin-baslangici.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p47",
+          "title": "3. Maksad / 1. ve 2. İşaret",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p47.json",
+          "sourceTitle": "3. Maksad / 1. ve 2. İşaret",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p47-3-maksad-1-ve-2-isaret.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p48",
+          "title": "3. Maksad / 3. İşaret",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p48.json",
+          "sourceTitle": "3. Maksad / 3. İşaret",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p48-3-maksad-3-isaret.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p49",
+          "title": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p49.json",
+          "sourceTitle": "3. Maksad: اَحْسَنُ الْخَالِق۪ينَ ifadesine beş işaretin son ikisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p49-3-maksad-ifadesine-bes-isaretin-son-ikisi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p50",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p50.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: giriş ve esma-i İlahiyeye istinad hakikati",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p50-3-mevkif-2-nokta-1-mebhas-giris-ve-esma-i-ilahiyeye-istinad-hakikati.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p51",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p51.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: temsil—tasvirci ve heykeltraş misali",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p51-3-mevkif-2-nokta-1-mebhas-temsiltasvirci-ve-heykeltras-misali.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p52",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p52.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: esmâ cilvelerinin sıralı tecellisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p52-3-mevkif-2-nokta-1-mebhas-esma-cilvelerinin-sirali-tecellisi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p53",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p53.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: cemalden tasvire inen esmâ silsilesinin hulâsası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p53-3-mevkif-2-nokta-1-mebhas-cemalden-tasvire-inen-esma-silsilesinin-hulasasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p54",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p54.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: yedi sahifede esmanın okunması",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p54-3-mevkif-2-nokta-1-mebhas-yedi-sahifede-esmanin-okunmasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p55",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p55.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: insanın bâtınî sahifeleri ve küllî aynalar",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p55-3-mevkif-2-nokta-1-mebhas-insanin-batini-sahifeleri-ve-kulli-aynalar.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p56",
+          "title": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p56.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 1. Mebhas: eşyanın tesbihi ve ayet sonlarındaki zikirlerin sırrı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p56-3-mevkif-2-nokta-1-mebhas-esyanin-tesbihi-ve-ayet-sonlarindaki-zikirlerin-sirri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p57",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p57.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalalet vekilinin iddiası ve iki yolun takdimi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p57-3-mevkif-2-nokta-2-mebhas-ehl-i-dalalet-vekilinin-iddiasi-ve-iki-yolun-takdimi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p58",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p58.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: dalalet yolunun iç azabı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p58-3-mevkif-2-nokta-2-mebhas-dalalet-yolunun-ic-azabi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p59",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p59.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: merhamete lâyık olmayışının temsille izahı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p59-3-mevkif-2-nokta-2-mebhas-merhamete-layik-olmayisinin-temsille-izahi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p60",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p60.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: ehl-i dalaletin medeniyet ve muhabbet iddiasının çöküşü",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p60-3-mevkif-2-nokta-2-mebhas-ehl-i-dalaletin-medeniyet-ve-muhabbet-iddiasinin-cokusu.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p61",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p61.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: iman yolunun acz, dünya ve ölüm yaralarını tedavisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p61-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-iman-yolunun-acz-dunya-ve-olum-yaralarini-tedavisi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p62",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p62.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: mü’mine teslim ve tevekkül dersi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p62-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-mumine-teslim-ve-tevekkul-dersi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p63",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p63.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: fanî dünya, bâki neticeler ve meşru daire dersi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p63-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-fani-dunya-baki-neticeler-ve-mesru-daire-dersi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p64",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p64.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: insanı yükselten ve ebed yolculuğunu kolaylaştıran hakikat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p64-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-insani-yukselten-ve-ebed-yolculugunu-kolaylastiran-hakikat.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p65",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p65.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas / Kur’anın cadde-i nuraniyesi: muhabbeti Allah’a yönelten hakikat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p65-3-mevkif-2-nokta-2-mebhas-kuranin-cadde-i-nuraniyesi-muhabbeti-allaha-yonelten-hakikat.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p66",
+          "title": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p66.json",
+          "sourceTitle": "3. Mevkıf / 2. Nokta / 2. Mebhas: iman ve dalaletin âkıbetine dair ayetler",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p66-3-mevkif-2-nokta-2-mebhas-iman-ve-dalaletin-akibetine-dair-ayetler.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p67",
+          "title": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p67.json",
+          "sourceTitle": "Mühim bir sual / 1. Nükte: muhabbetin mecazî mahbubdan hakikî mahbuba çevrilmesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p67-muhim-bir-sual-1-nukte-muhabbetin-mecazi-mahbubdan-hakiki-mahbuba-cevrilmesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p68",
+          "title": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p68.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: nimetleri ve anne-babayı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p68-muhim-bir-sual-2-nukte-nimetleri-ve-anne-babayi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p69",
+          "title": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p69.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: anne-baba hukukunun ehemmiyeti ve evlâdı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p69-muhim-bir-sual-2-nukte-anne-baba-hukukunun-ehemmiyeti-ve-evladi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p70",
+          "title": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p70.json",
+          "sourceTitle": "Mühim bir sual / 2. Nükte: dostları, refika-i hayatı, enbiya ve evliyayı, hayatı, gençliği, baharı ve dünyayı Allah hesabına sevmek",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p70-muhim-bir-sual-2-nukte-dostlari-refika-i-hayati-enbiya-ve-evliyayi-hayati-gencligi-bahari-ve-dunyayi-allah-hesabina-sevmek.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p71",
+          "title": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p71.json",
+          "sourceTitle": "Mühim bir sual / İki nüktenin hulasası, dua ve padişah-elma temsili",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p71-muhim-bir-sual-iki-nuktenin-hulasasi-dua-ve-padisah-elma-temsili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p72",
+          "title": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p72.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: esmaya muhabbetin tabakatı ve Rahman-Rahîm isimlerine fıtrî ihtiyaç",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p72-muhim-bir-sual-3-nukte-esmaya-muhabbetin-tabakati-ve-rahman-rahim-isimlerine-fitri-ihtiyac.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p73",
+          "title": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p73.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: Hakîm, Mürebbi ve diğer isimlere ihtiyaç; esmaya muhabbetin umumi esası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p73-muhim-bir-sual-3-nukte-hakim-murebbi-ve-diger-isimlere-ihtiyac-esmaya-muhabbetin-umumi-esasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p74",
+          "title": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p74.json",
+          "sourceTitle": "Mühim bir sual / 3. Nükte: Rahmaniyet ve Hak isminin bahar ordusu temsili",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p74-muhim-bir-sual-3-nukte-rahmaniyet-ve-hak-isminin-bahar-ordusu-temsili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p75",
+          "title": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p75.json",
+          "sourceTitle": "4. Nükte: Muhabbetlerin dünya ve ahiret neticelerine giriş",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p75-4-nukte-muhabbetlerin-dunya-ve-ahiret-neticelerine-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p76",
+          "title": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p76.json",
+          "sourceTitle": "4. Nükte: Nefis, refika, vâlideyn ve evlâda muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p76-4-nukte-nefis-refika-valideyn-ve-evlada-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p77",
+          "title": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p77.json",
+          "sourceTitle": "4. Nükte: Ahbab, enbiya, evliya ve güzel şeylere muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p77-4-nukte-ahbab-enbiya-evliya-ve-guzel-seylere-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p78",
+          "title": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p78.json",
+          "sourceTitle": "4. Nükte: Gençliğe, bahara ve dünyaya muhabbet",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p78-4-nukte-genclige-bahara-ve-dunyaya-muhabbet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p79",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p79.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: insan cihazlarının hikmeti ve ayrı ayrı vazife-lezzet-mükâfatları",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p79-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-insan-cihazlarinin-hikmeti-ve-ayri-ayri-vazife-lezzet-mukafatlari.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p80",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p80.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / Mukaddeme: cihazların ücreti ve âhiretteki neticelerin ispatı",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p80-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-mukaddeme-cihazlarin-ucreti-ve-ahiretteki-neticelerin-ispati.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p81",
+          "title": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p81.json",
+          "sourceTitle": "Mühim bir sual / meşru muhabbetlerin uhrevî neticeleri / 1.-3. İşaretler: taam, nefis-gençlik ve refika-i hayat muhabbetinin neticeleri",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p81-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-1-3-isaretler-taam-nefis-genclik-ve-refika-i-hayat-muhabbetinin-neticeleri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p82",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p82.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 4.-5. İşaretler: aile ve sâlih dostlar",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p82-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-4-5-isaretler-aile-ve-salih-dostlar.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p83",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p83.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 6.-7. İşaretler: enbiya-evliya ve güzellik sevgisi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p83-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-6-7-isaretler-enbiya-evliya-ve-guzellik-sevgisi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p84",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p84.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 8. İşaret: dünyanın iki güzel yüzünü sevmenin neticesi",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p84-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-8-isaret-dunyanin-iki-guzel-yuzunu-sevmenin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p85",
+          "title": "Sual: Cennetin genişliğinin hikmeti",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p85.json",
+          "sourceTitle": "Sual: Cennetin genişliğinin hikmeti",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p85-sual-cennetin-genisliginin-hikmeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p86",
+          "title": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p86.json",
+          "sourceTitle": "Mühim bir sual: meşru muhabbetlerin uhrevî neticeleri / 9. İşaret: İman ve muhabbetullahın neticesi, rü'yet duası",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p86-muhim-bir-sual-mesru-muhabbetlerin-uhrevi-neticeleri-9-isaret-iman-ve-muhabbetullahin-neticesi-ruyet-duasi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p87",
+          "title": "Münacat",
+          "cardCount": 24,
+          "url": "/assets/32-soz/question-bank/lisans/p87.json",
+          "sourceTitle": "Münacat",
+          "sourceTextUrl": "/assets/32-soz/parcalar/32-soz-p87-munacat.txt"
+        }
+      ],
+      "search": {
+        "slug": "32-soz",
+        "title": "32. Söz",
+        "shardUrl": "/assets/search/32-soz.d60410e2eb5d98ebd40d227ee0b27cc854bccc3392217ee28d1bafd87974ad0c.v1.json",
+        "contentHash": "d60410e2eb5d98ebd40d227ee0b27cc854bccc3392217ee28d1bafd87974ad0c",
+        "recordCount": 87,
+        "rawBytes": 150340
+      }
+    },
+    {
+      "slug": "33-soz",
+      "title": "33. Söz",
+      "sourcePath": "assets/33-soz",
+      "grades": [
+        {
+          "slug": "2-sinif",
+          "label": "2. Sinif",
+          "docxCount": 118,
+          "pdfNormalCount": 118,
+          "pdfMobileCount": 118
+        },
+        {
+          "slug": "5-sinif",
+          "label": "5. Sinif",
+          "docxCount": 118,
+          "pdfNormalCount": 118,
+          "pdfMobileCount": 118
+        },
+        {
+          "slug": "8-sinif",
+          "label": "8. Sinif",
+          "docxCount": 118,
+          "pdfNormalCount": 118,
+          "pdfMobileCount": 118
+        },
+        {
+          "slug": "11-sinif",
+          "label": "11. Sinif",
+          "docxCount": 118,
+          "pdfNormalCount": 118,
+          "pdfMobileCount": 118
+        },
+        {
+          "slug": "lisans",
+          "label": "Lisans",
+          "docxCount": 118,
+          "pdfNormalCount": 118,
+          "pdfMobileCount": 118
+        }
+      ],
+      "partCount": 59,
+      "studyDeckCount": 295,
+      "partRoutes": [
+        {
+          "partNo": "p01",
+          "partNumber": 1,
+          "labelSlug": "otuzucuncu-soz-otuzuc-pencere-sual-ve-icmali-cevap",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap"
+        },
+        {
+          "partNo": "p02",
+          "partNumber": 2,
+          "labelSlug": "otuzucuncu-soz-otuzuc-pencere-saray-temsili-ve-pencerelerin-cercevesi",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi"
+        },
+        {
+          "partNo": "p03",
+          "partNumber": 3,
+          "labelSlug": "1-pencere-ihtiyac",
+          "title": "1. pencere: ihtiyaç"
+        },
+        {
+          "partNo": "p04",
+          "partNumber": 4,
+          "labelSlug": "2-pencere-sikke-i-ehadiyet",
+          "title": "2. pencere: sikke-i ehadiyet"
+        },
+        {
+          "partNo": "p05",
+          "partNumber": 5,
+          "labelSlug": "3-pencere-tedbir",
+          "title": "3. pencere: tedbir"
+        },
+        {
+          "partNo": "p06",
+          "partNumber": 6,
+          "labelSlug": "4-pencere-duanin-makbuliyeti",
+          "title": "4. pencere: duanın makbuliyeti"
+        },
+        {
+          "partNo": "p07",
+          "partNumber": 7,
+          "labelSlug": "5-pencere-defi-ve-ani-icad",
+          "title": "5. pencere: def'î ve âni icad"
+        },
+        {
+          "partNo": "p08",
+          "partNumber": 8,
+          "labelSlug": "6-pencere-kainat-tabakalarinda-ism-i-azami-gosteren-ayet-ayetin-hulasasi-ve-semavat-zemin-nebatat-delilleri",
+          "title": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri"
+        },
+        {
+          "partNo": "p09",
+          "partNumber": 9,
+          "labelSlug": "6-pencere-yagmurdan-hayvanlara-kadar-kainat-tabakalarinda-vahdet-delilleri",
+          "title": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri"
+        },
+        {
+          "partNo": "p10",
+          "partNumber": 10,
+          "labelSlug": "6-pencere-ilhamlar-duygular-ve-pencere-i-azamin-neticesi",
+          "title": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi"
+        },
+        {
+          "partNo": "p11",
+          "partNumber": 11,
+          "labelSlug": "7-pencere-intizam-mevzuniyet-ve-terkibatta-vahdet-delili",
+          "title": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili"
+        },
+        {
+          "partNo": "p12",
+          "partNumber": 12,
+          "labelSlug": "8-pencere-enbiya-evliya-ve-asfiyanin-sehadeti",
+          "title": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti"
+        },
+        {
+          "partNo": "p13",
+          "partNumber": 13,
+          "labelSlug": "9-pencere-kainattaki-ibadat-i-umumiye",
+          "title": "9. Pencere: kâinattaki ibadat-ı umumiye"
+        },
+        {
+          "partNo": "p14",
+          "partNumber": 14,
+          "labelSlug": "10-pencere-teavun-tecavub-ve-tesanudun-gosterdigi-rububiyet",
+          "title": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet"
+        },
+        {
+          "partNo": "p15",
+          "partNumber": 15,
+          "labelSlug": "11-pencere-tevhidin-kalbe-verdigi-itminan-ve-dalaletin-iztirabi",
+          "title": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı"
+        },
+        {
+          "partNo": "p16",
+          "partNumber": 16,
+          "labelSlug": "12-pencere-kader-dairesinde-suret-ve-miktarin-hikmetli-tanzimi",
+          "title": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi"
+        },
+        {
+          "partNo": "p17",
+          "partNumber": 17,
+          "labelSlug": "13-pencere-mevcudatin-tesbihati-ve-lisan-i-hal-sehadeti",
+          "title": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti"
+        },
+        {
+          "partNo": "p18",
+          "partNumber": 18,
+          "labelSlug": "14-pencere-her-seyin-mutlak-kudret-gina-hayat-ve-suur-sahibine-ihtiyaci",
+          "title": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı"
+        },
+        {
+          "partNo": "p19",
+          "partNumber": 19,
+          "labelSlug": "15-pencere-husn-u-sanat-mizan-intizam-ve-israfsiz-yaratilis",
+          "title": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış"
+        },
+        {
+          "partNo": "p20",
+          "partNumber": 20,
+          "labelSlug": "16-pencere-hikmet-inayet-rahmet-ve-rizik-zinciri",
+          "title": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri"
+        },
+        {
+          "partNo": "p21",
+          "partNumber": 21,
+          "labelSlug": "16-pencere-vahdetin-toplu-gosterilisi-ve-munkire-meydan-okuma",
+          "title": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma"
+        },
+        {
+          "partNo": "p22",
+          "partNumber": 22,
+          "labelSlug": "17-pencere-zemin-yuzunde-sehavet-surat-kesret-ve-suhulet-icinde-intizam-delilleri",
+          "title": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri"
+        },
+        {
+          "partNo": "p23",
+          "partNumber": 23,
+          "labelSlug": "17-pencere-delillerin-hulasasi-ve-ehl-i-gaflete-meydan-okuma",
+          "title": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma"
+        },
+        {
+          "partNo": "p24",
+          "partNumber": 24,
+          "labelSlug": "18-pencere-eser-fiil-isim-sifat-sen-zat-silsilesinin-temsili-ve-tatbiki",
+          "title": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki"
+        },
+        {
+          "partNo": "p25",
+          "partNumber": 25,
+          "labelSlug": "18-pencere-delilin-neticesi-ve-munkire-meydan-okuma",
+          "title": "18. Pencere: delilin neticesi ve münkire meydan okuma"
+        },
+        {
+          "partNo": "p26",
+          "partNumber": 26,
+          "labelSlug": "19-pencere-semavat-nebatat-ve-ciceklerin-kelimat-i-tesbihiyyesine-giris",
+          "title": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş"
+        },
+        {
+          "partNo": "p27",
+          "partNumber": 27,
+          "labelSlug": "19-pencere-nebatlarin-ve-bir-tek-cicegin-sehadeti",
+          "title": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti"
+        },
+        {
+          "partNo": "p28",
+          "partNumber": 28,
+          "labelSlug": "19-pencere-agaclarin-tesbihi-ve-gafile-hitap",
+          "title": "19. Pencere: ağaçların tesbihi ve gafile hitap"
+        },
+        {
+          "partNo": "p29",
+          "partNumber": 29,
+          "labelSlug": "20-pencere-arabi-hulasa-ve-ayetlerle-giris",
+          "title": "20. Pencere: Arabî hülâsa ve âyetlerle giriş"
+        },
+        {
+          "partNo": "p30",
+          "partNumber": 30,
+          "labelSlug": "20-pencere-ziya-ruzgar-sular-ve-taslar",
+          "title": "20. Pencere: ziya, rüzgâr, sular ve taşlar"
+        },
+        {
+          "partNo": "p31",
+          "partNumber": 31,
+          "labelSlug": "20-pencere-cicekler-kuslar-bulutlar-ve-kamer",
+          "title": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer"
+        },
+        {
+          "partNo": "p32",
+          "partNumber": 32,
+          "labelSlug": "20-pencere-netice-ihtar-ve-tesbih",
+          "title": "20. Pencere: netice, ihtar ve tesbih"
+        },
+        {
+          "partNo": "p33",
+          "partNumber": 33,
+          "labelSlug": "21-pencere-gunes-ve-seyyaratin-intizamindan-vahdaniyet-delili",
+          "title": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili"
+        },
+        {
+          "partNo": "p34",
+          "partNumber": 34,
+          "labelSlug": "21-pencere-kure-i-arzin-seyrinden-rububiyet-ve-vahdet-delili",
+          "title": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili"
+        },
+        {
+          "partNo": "p35",
+          "partNumber": 35,
+          "labelSlug": "21-pencere-semsin-ve-manzume-i-semsiyenin-sevkinden-rububiyet-delili",
+          "title": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili"
+        },
+        {
+          "partNo": "p36",
+          "partNumber": 36,
+          "labelSlug": "22-pencere-kure-i-arzin-hikmetli-yaratilisi-ve-daglarin-vazifesi",
+          "title": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi"
+        },
+        {
+          "partNo": "p37",
+          "partNumber": 37,
+          "labelSlug": "22-pencere-zemin-yuzundeki-hayat-nizami-ve-vahdaniyet-sehadeti",
+          "title": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti"
+        },
+        {
+          "partNo": "p38",
+          "partNumber": 38,
+          "labelSlug": "23-pencere-hayatin-mahiyeti-ve-vahdaniyete-delaleti",
+          "title": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti"
+        },
+        {
+          "partNo": "p39",
+          "partNumber": 39,
+          "labelSlug": "23-pencere-hayatin-esmaya-ve-samediyete-ayinedarligi",
+          "title": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı"
+        },
+        {
+          "partNo": "p40",
+          "partNumber": 40,
+          "labelSlug": "24-pencere-mevtin-rububiyet-vahdet-ve-bekaya-sehadeti",
+          "title": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti"
+        },
+        {
+          "partNo": "p41",
+          "partNumber": 41,
+          "labelSlug": "24-pencere-elhasil-zeminin-olumuyle-mazi-ve-mustakbele-sehadet",
+          "title": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet"
+        },
+        {
+          "partNo": "p42",
+          "partNumber": 42,
+          "labelSlug": "25-pencere-umur-u-izafiye-ve-mahlukiyetin-halika-sehadeti",
+          "title": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti"
+        },
+        {
+          "partNo": "p43",
+          "partNumber": 43,
+          "labelSlug": "26-pencere-cemal-ask-incizab-ve-kesf-ile-cemil-i-zulcelale-pencere",
+          "title": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere"
+        },
+        {
+          "partNo": "p44",
+          "partNumber": 44,
+          "labelSlug": "27-pencere-esbabin-aczi-ve-hafiza-cekirdek-misali",
+          "title": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali"
+        },
+        {
+          "partNo": "p45",
+          "partNumber": 45,
+          "labelSlug": "27-pencere-gaye-rahmet-ve-tezyinatin-musebbibul-esbabi-gostermesi",
+          "title": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi"
+        },
+        {
+          "partNo": "p46",
+          "partNumber": 46,
+          "labelSlug": "28-pencere-kainat-capinda-hikmet-ve-tanzim-delili",
+          "title": "28. Pencere: kâinat çapında hikmet ve tanzim delili"
+        },
+        {
+          "partNo": "p47",
+          "partNumber": 47,
+          "labelSlug": "29-pencere-her-bir-seyde-sikke-ve-muhur-i-tevhid",
+          "title": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid"
+        },
+        {
+          "partNo": "p48",
+          "partNumber": 48,
+          "labelSlug": "30-pencere-hakimiyet-ve-intizamdan-vahdet-delili",
+          "title": "30. Pencere: hâkimiyet ve intizamdan vahdet delili"
+        },
+        {
+          "partNo": "p49",
+          "partNumber": 49,
+          "labelSlug": "30-pencere-hudus-delili",
+          "title": "30. Pencere: hudûs delili"
+        },
+        {
+          "partNo": "p50",
+          "partNumber": 50,
+          "labelSlug": "30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mutekelliminin-imkan-yolu-ve-daha-genis-ispat-caddesi",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi"
+        },
+        {
+          "partNo": "p51",
+          "partNumber": 51,
+          "labelSlug": "30-pencere-imkan-delili-ve-mumkinatin-sehadeti-tek-seyden-murekkeb-cisimlere-kadar-imkan-icindeki-tahsis",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis"
+        },
+        {
+          "partNo": "p52",
+          "partNumber": 52,
+          "labelSlug": "30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mumkinatin-sifat-ve-murekkebati-adedince-sehadetlerin-neticesi",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi"
+        },
+        {
+          "partNo": "p53",
+          "partNumber": 53,
+          "labelSlug": "31-pencere-insanin-enfusi-aynadarligina-giris",
+          "title": "31. Pencere: insanın enfüsî aynadarlığına giriş"
+        },
+        {
+          "partNo": "p54",
+          "partNumber": 54,
+          "labelSlug": "31-pencere-birinci-nokta-insanin-esma-i-ilahiyeye-uc-vecihle-aynadarligi",
+          "title": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı"
+        },
+        {
+          "partNo": "p55",
+          "partNumber": 55,
+          "labelSlug": "31-pencere-ruh-misali-ve-sirr-i-ehadiyet",
+          "title": "31. Pencere: ruh misali ve sırr-ı ehadiyet"
+        },
+        {
+          "partNo": "p56",
+          "partNumber": 56,
+          "labelSlug": "31-pencere-hayat-sirri-ve-hayy-i-kayyuma-aynadarlik",
+          "title": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık"
+        },
+        {
+          "partNo": "p57",
+          "partNumber": 57,
+          "labelSlug": "32-pencere-resul-i-ekrem-tevhidin-natik-burhani",
+          "title": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı"
+        },
+        {
+          "partNo": "p58",
+          "partNumber": 58,
+          "labelSlug": "33-pencere-kuran-pencerelerin-menbai-olan-cami-tevhid-penceresi",
+          "title": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi"
+        },
+        {
+          "partNo": "p59",
+          "partNumber": 59,
+          "labelSlug": "ihtar-ozur-selam-ve-dua-ile-hatime",
+          "title": "İhtar, özür, selam ve dua ile hatime"
+        }
+      ],
+      "studyDeckRoutes": [
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p01",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p01.json",
+          "sourceTitle": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p01-otuzucuncu-soz-otuzuc-pencere-sual-ve-icmali-cevap.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p02",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p02.json",
+          "sourceTitle": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p02-otuzucuncu-soz-otuzuc-pencere-saray-temsili-ve-pencerelerin-cercevesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p03",
+          "title": "1. pencere: ihtiyaç",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p03.json",
+          "sourceTitle": "1. pencere: ihtiyaç",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p03-1-pencere-ihtiyac.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p04",
+          "title": "2. pencere: sikke-i ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p04.json",
+          "sourceTitle": "2. pencere: sikke-i ehadiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p04-2-pencere-sikke-i-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p05",
+          "title": "3. pencere: tedbir",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p05.json",
+          "sourceTitle": "3. pencere: tedbir",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p05-3-pencere-tedbir.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p06",
+          "title": "4. pencere: duanın makbuliyeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p06.json",
+          "sourceTitle": "4. pencere: duanın makbuliyeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p06-4-pencere-duanin-makbuliyeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p07",
+          "title": "5. pencere: def'î ve âni icad",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p07.json",
+          "sourceTitle": "5. pencere: def'î ve âni icad",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p07-5-pencere-defi-ve-ani-icad.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p08",
+          "title": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p08.json",
+          "sourceTitle": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p08-6-pencere-kainat-tabakalarinda-ism-i-azami-gosteren-ayet-ayetin-hulasasi-ve-semavat-zemin-nebatat-delilleri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p09",
+          "title": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p09.json",
+          "sourceTitle": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p09-6-pencere-yagmurdan-hayvanlara-kadar-kainat-tabakalarinda-vahdet-delilleri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p10",
+          "title": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p10.json",
+          "sourceTitle": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p10-6-pencere-ilhamlar-duygular-ve-pencere-i-azamin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p11",
+          "title": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p11.json",
+          "sourceTitle": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p11-7-pencere-intizam-mevzuniyet-ve-terkibatta-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p12",
+          "title": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p12.json",
+          "sourceTitle": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p12-8-pencere-enbiya-evliya-ve-asfiyanin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p13",
+          "title": "9. Pencere: kâinattaki ibadat-ı umumiye",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p13.json",
+          "sourceTitle": "9. Pencere: kâinattaki ibadat-ı umumiye",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p13-9-pencere-kainattaki-ibadat-i-umumiye.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p14",
+          "title": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p14.json",
+          "sourceTitle": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p14-10-pencere-teavun-tecavub-ve-tesanudun-gosterdigi-rububiyet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p15",
+          "title": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p15.json",
+          "sourceTitle": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p15-11-pencere-tevhidin-kalbe-verdigi-itminan-ve-dalaletin-iztirabi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p16",
+          "title": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p16.json",
+          "sourceTitle": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p16-12-pencere-kader-dairesinde-suret-ve-miktarin-hikmetli-tanzimi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p17",
+          "title": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p17.json",
+          "sourceTitle": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p17-13-pencere-mevcudatin-tesbihati-ve-lisan-i-hal-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p18",
+          "title": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p18.json",
+          "sourceTitle": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p18-14-pencere-her-seyin-mutlak-kudret-gina-hayat-ve-suur-sahibine-ihtiyaci.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p19",
+          "title": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p19.json",
+          "sourceTitle": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p19-15-pencere-husn-u-sanat-mizan-intizam-ve-israfsiz-yaratilis.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p20",
+          "title": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p20.json",
+          "sourceTitle": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p20-16-pencere-hikmet-inayet-rahmet-ve-rizik-zinciri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p21",
+          "title": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p21.json",
+          "sourceTitle": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p21-16-pencere-vahdetin-toplu-gosterilisi-ve-munkire-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p22",
+          "title": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p22.json",
+          "sourceTitle": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p22-17-pencere-zemin-yuzunde-sehavet-surat-kesret-ve-suhulet-icinde-intizam-delilleri.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p23",
+          "title": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p23.json",
+          "sourceTitle": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p23-17-pencere-delillerin-hulasasi-ve-ehl-i-gaflete-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p24",
+          "title": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p24.json",
+          "sourceTitle": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p24-18-pencere-eser-fiil-isim-sifat-sen-zat-silsilesinin-temsili-ve-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p25",
+          "title": "18. Pencere: delilin neticesi ve münkire meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p25.json",
+          "sourceTitle": "18. Pencere: delilin neticesi ve münkire meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p25-18-pencere-delilin-neticesi-ve-munkire-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p26",
+          "title": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p26.json",
+          "sourceTitle": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p26-19-pencere-semavat-nebatat-ve-ciceklerin-kelimat-i-tesbihiyyesine-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p27",
+          "title": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p27.json",
+          "sourceTitle": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p27-19-pencere-nebatlarin-ve-bir-tek-cicegin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p28",
+          "title": "19. Pencere: ağaçların tesbihi ve gafile hitap",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p28.json",
+          "sourceTitle": "19. Pencere: ağaçların tesbihi ve gafile hitap",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p28-19-pencere-agaclarin-tesbihi-ve-gafile-hitap.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p29",
+          "title": "20. Pencere: Arabî hülâsa ve âyetlerle giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p29.json",
+          "sourceTitle": "20. Pencere: Arabî hülâsa ve âyetlerle giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p29-20-pencere-arabi-hulasa-ve-ayetlerle-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p30",
+          "title": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p30.json",
+          "sourceTitle": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p30-20-pencere-ziya-ruzgar-sular-ve-taslar.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p31",
+          "title": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p31.json",
+          "sourceTitle": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p31-20-pencere-cicekler-kuslar-bulutlar-ve-kamer.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p32",
+          "title": "20. Pencere: netice, ihtar ve tesbih",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p32.json",
+          "sourceTitle": "20. Pencere: netice, ihtar ve tesbih",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p32-20-pencere-netice-ihtar-ve-tesbih.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p33",
+          "title": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p33.json",
+          "sourceTitle": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p33-21-pencere-gunes-ve-seyyaratin-intizamindan-vahdaniyet-delili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p34",
+          "title": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p34.json",
+          "sourceTitle": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p34-21-pencere-kure-i-arzin-seyrinden-rububiyet-ve-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p35",
+          "title": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p35.json",
+          "sourceTitle": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p35-21-pencere-semsin-ve-manzume-i-semsiyenin-sevkinden-rububiyet-delili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p36",
+          "title": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p36.json",
+          "sourceTitle": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p36-22-pencere-kure-i-arzin-hikmetli-yaratilisi-ve-daglarin-vazifesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p37",
+          "title": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p37.json",
+          "sourceTitle": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p37-22-pencere-zemin-yuzundeki-hayat-nizami-ve-vahdaniyet-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p38",
+          "title": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p38.json",
+          "sourceTitle": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p38-23-pencere-hayatin-mahiyeti-ve-vahdaniyete-delaleti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p39",
+          "title": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p39.json",
+          "sourceTitle": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p39-23-pencere-hayatin-esmaya-ve-samediyete-ayinedarligi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p40",
+          "title": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p40.json",
+          "sourceTitle": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p40-24-pencere-mevtin-rububiyet-vahdet-ve-bekaya-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p41",
+          "title": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p41.json",
+          "sourceTitle": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p41-24-pencere-elhasil-zeminin-olumuyle-mazi-ve-mustakbele-sehadet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p42",
+          "title": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p42.json",
+          "sourceTitle": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p42-25-pencere-umur-u-izafiye-ve-mahlukiyetin-halika-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p43",
+          "title": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p43.json",
+          "sourceTitle": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p43-26-pencere-cemal-ask-incizab-ve-kesf-ile-cemil-i-zulcelale-pencere.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p44",
+          "title": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p44.json",
+          "sourceTitle": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p44-27-pencere-esbabin-aczi-ve-hafiza-cekirdek-misali.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p45",
+          "title": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p45.json",
+          "sourceTitle": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p45-27-pencere-gaye-rahmet-ve-tezyinatin-musebbibul-esbabi-gostermesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p46",
+          "title": "28. Pencere: kâinat çapında hikmet ve tanzim delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p46.json",
+          "sourceTitle": "28. Pencere: kâinat çapında hikmet ve tanzim delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p46-28-pencere-kainat-capinda-hikmet-ve-tanzim-delili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p47",
+          "title": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p47.json",
+          "sourceTitle": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p47-29-pencere-her-bir-seyde-sikke-ve-muhur-i-tevhid.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p48",
+          "title": "30. Pencere: hâkimiyet ve intizamdan vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p48.json",
+          "sourceTitle": "30. Pencere: hâkimiyet ve intizamdan vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p48-30-pencere-hakimiyet-ve-intizamdan-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p49",
+          "title": "30. Pencere: hudûs delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p49.json",
+          "sourceTitle": "30. Pencere: hudûs delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p49-30-pencere-hudus-delili.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p50",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p50.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p50-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mutekelliminin-imkan-yolu-ve-daha-genis-ispat-caddesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p51",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p51.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p51-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-tek-seyden-murekkeb-cisimlere-kadar-imkan-icindeki-tahsis.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p52",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p52.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p52-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mumkinatin-sifat-ve-murekkebati-adedince-sehadetlerin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p53",
+          "title": "31. Pencere: insanın enfüsî aynadarlığına giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p53.json",
+          "sourceTitle": "31. Pencere: insanın enfüsî aynadarlığına giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p53-31-pencere-insanin-enfusi-aynadarligina-giris.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p54",
+          "title": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p54.json",
+          "sourceTitle": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p54-31-pencere-birinci-nokta-insanin-esma-i-ilahiyeye-uc-vecihle-aynadarligi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p55",
+          "title": "31. Pencere: ruh misali ve sırr-ı ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p55.json",
+          "sourceTitle": "31. Pencere: ruh misali ve sırr-ı ehadiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p55-31-pencere-ruh-misali-ve-sirr-i-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p56",
+          "title": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p56.json",
+          "sourceTitle": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p56-31-pencere-hayat-sirri-ve-hayy-i-kayyuma-aynadarlik.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p57",
+          "title": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p57.json",
+          "sourceTitle": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p57-32-pencere-resul-i-ekrem-tevhidin-natik-burhani.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p58",
+          "title": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p58.json",
+          "sourceTitle": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p58-33-pencere-kuran-pencerelerin-menbai-olan-cami-tevhid-penceresi.txt"
+        },
+        {
+          "gradeSlug": "11-sinif",
+          "partNo": "p59",
+          "title": "İhtar, özür, selam ve dua ile hatime",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/11-sinif/p59.json",
+          "sourceTitle": "İhtar, özür, selam ve dua ile hatime",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p59-ihtar-ozur-selam-ve-dua-ile-hatime.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p01",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p01.json",
+          "sourceTitle": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p01-otuzucuncu-soz-otuzuc-pencere-sual-ve-icmali-cevap.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p02",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p02.json",
+          "sourceTitle": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p02-otuzucuncu-soz-otuzuc-pencere-saray-temsili-ve-pencerelerin-cercevesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p03",
+          "title": "1. pencere: ihtiyaç",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p03.json",
+          "sourceTitle": "1. pencere: ihtiyaç",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p03-1-pencere-ihtiyac.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p04",
+          "title": "2. pencere: sikke-i ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p04.json",
+          "sourceTitle": "2. pencere: sikke-i ehadiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p04-2-pencere-sikke-i-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p05",
+          "title": "3. pencere: tedbir",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p05.json",
+          "sourceTitle": "3. pencere: tedbir",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p05-3-pencere-tedbir.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p06",
+          "title": "4. pencere: duanın makbuliyeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p06.json",
+          "sourceTitle": "4. pencere: duanın makbuliyeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p06-4-pencere-duanin-makbuliyeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p07",
+          "title": "5. pencere: def'î ve âni icad",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p07.json",
+          "sourceTitle": "5. pencere: def'î ve âni icad",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p07-5-pencere-defi-ve-ani-icad.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p08",
+          "title": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p08.json",
+          "sourceTitle": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p08-6-pencere-kainat-tabakalarinda-ism-i-azami-gosteren-ayet-ayetin-hulasasi-ve-semavat-zemin-nebatat-delilleri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p09",
+          "title": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p09.json",
+          "sourceTitle": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p09-6-pencere-yagmurdan-hayvanlara-kadar-kainat-tabakalarinda-vahdet-delilleri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p10",
+          "title": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p10.json",
+          "sourceTitle": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p10-6-pencere-ilhamlar-duygular-ve-pencere-i-azamin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p11",
+          "title": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p11.json",
+          "sourceTitle": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p11-7-pencere-intizam-mevzuniyet-ve-terkibatta-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p12",
+          "title": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p12.json",
+          "sourceTitle": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p12-8-pencere-enbiya-evliya-ve-asfiyanin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p13",
+          "title": "9. Pencere: kâinattaki ibadat-ı umumiye",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p13.json",
+          "sourceTitle": "9. Pencere: kâinattaki ibadat-ı umumiye",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p13-9-pencere-kainattaki-ibadat-i-umumiye.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p14",
+          "title": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p14.json",
+          "sourceTitle": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p14-10-pencere-teavun-tecavub-ve-tesanudun-gosterdigi-rububiyet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p15",
+          "title": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p15.json",
+          "sourceTitle": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p15-11-pencere-tevhidin-kalbe-verdigi-itminan-ve-dalaletin-iztirabi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p16",
+          "title": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p16.json",
+          "sourceTitle": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p16-12-pencere-kader-dairesinde-suret-ve-miktarin-hikmetli-tanzimi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p17",
+          "title": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p17.json",
+          "sourceTitle": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p17-13-pencere-mevcudatin-tesbihati-ve-lisan-i-hal-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p18",
+          "title": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p18.json",
+          "sourceTitle": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p18-14-pencere-her-seyin-mutlak-kudret-gina-hayat-ve-suur-sahibine-ihtiyaci.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p19",
+          "title": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p19.json",
+          "sourceTitle": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p19-15-pencere-husn-u-sanat-mizan-intizam-ve-israfsiz-yaratilis.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p20",
+          "title": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p20.json",
+          "sourceTitle": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p20-16-pencere-hikmet-inayet-rahmet-ve-rizik-zinciri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p21",
+          "title": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p21.json",
+          "sourceTitle": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p21-16-pencere-vahdetin-toplu-gosterilisi-ve-munkire-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p22",
+          "title": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p22.json",
+          "sourceTitle": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p22-17-pencere-zemin-yuzunde-sehavet-surat-kesret-ve-suhulet-icinde-intizam-delilleri.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p23",
+          "title": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p23.json",
+          "sourceTitle": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p23-17-pencere-delillerin-hulasasi-ve-ehl-i-gaflete-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p24",
+          "title": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p24.json",
+          "sourceTitle": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p24-18-pencere-eser-fiil-isim-sifat-sen-zat-silsilesinin-temsili-ve-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p25",
+          "title": "18. Pencere: delilin neticesi ve münkire meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p25.json",
+          "sourceTitle": "18. Pencere: delilin neticesi ve münkire meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p25-18-pencere-delilin-neticesi-ve-munkire-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p26",
+          "title": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p26.json",
+          "sourceTitle": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p26-19-pencere-semavat-nebatat-ve-ciceklerin-kelimat-i-tesbihiyyesine-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p27",
+          "title": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p27.json",
+          "sourceTitle": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p27-19-pencere-nebatlarin-ve-bir-tek-cicegin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p28",
+          "title": "19. Pencere: ağaçların tesbihi ve gafile hitap",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p28.json",
+          "sourceTitle": "19. Pencere: ağaçların tesbihi ve gafile hitap",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p28-19-pencere-agaclarin-tesbihi-ve-gafile-hitap.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p29",
+          "title": "20. Pencere: Arabî hülâsa ve âyetlerle giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p29.json",
+          "sourceTitle": "20. Pencere: Arabî hülâsa ve âyetlerle giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p29-20-pencere-arabi-hulasa-ve-ayetlerle-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p30",
+          "title": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p30.json",
+          "sourceTitle": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p30-20-pencere-ziya-ruzgar-sular-ve-taslar.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p31",
+          "title": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p31.json",
+          "sourceTitle": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p31-20-pencere-cicekler-kuslar-bulutlar-ve-kamer.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p32",
+          "title": "20. Pencere: netice, ihtar ve tesbih",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p32.json",
+          "sourceTitle": "20. Pencere: netice, ihtar ve tesbih",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p32-20-pencere-netice-ihtar-ve-tesbih.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p33",
+          "title": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p33.json",
+          "sourceTitle": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p33-21-pencere-gunes-ve-seyyaratin-intizamindan-vahdaniyet-delili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p34",
+          "title": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p34.json",
+          "sourceTitle": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p34-21-pencere-kure-i-arzin-seyrinden-rububiyet-ve-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p35",
+          "title": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p35.json",
+          "sourceTitle": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p35-21-pencere-semsin-ve-manzume-i-semsiyenin-sevkinden-rububiyet-delili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p36",
+          "title": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p36.json",
+          "sourceTitle": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p36-22-pencere-kure-i-arzin-hikmetli-yaratilisi-ve-daglarin-vazifesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p37",
+          "title": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p37.json",
+          "sourceTitle": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p37-22-pencere-zemin-yuzundeki-hayat-nizami-ve-vahdaniyet-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p38",
+          "title": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p38.json",
+          "sourceTitle": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p38-23-pencere-hayatin-mahiyeti-ve-vahdaniyete-delaleti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p39",
+          "title": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p39.json",
+          "sourceTitle": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p39-23-pencere-hayatin-esmaya-ve-samediyete-ayinedarligi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p40",
+          "title": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p40.json",
+          "sourceTitle": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p40-24-pencere-mevtin-rububiyet-vahdet-ve-bekaya-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p41",
+          "title": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p41.json",
+          "sourceTitle": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p41-24-pencere-elhasil-zeminin-olumuyle-mazi-ve-mustakbele-sehadet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p42",
+          "title": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p42.json",
+          "sourceTitle": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p42-25-pencere-umur-u-izafiye-ve-mahlukiyetin-halika-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p43",
+          "title": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p43.json",
+          "sourceTitle": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p43-26-pencere-cemal-ask-incizab-ve-kesf-ile-cemil-i-zulcelale-pencere.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p44",
+          "title": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p44.json",
+          "sourceTitle": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p44-27-pencere-esbabin-aczi-ve-hafiza-cekirdek-misali.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p45",
+          "title": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p45.json",
+          "sourceTitle": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p45-27-pencere-gaye-rahmet-ve-tezyinatin-musebbibul-esbabi-gostermesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p46",
+          "title": "28. Pencere: kâinat çapında hikmet ve tanzim delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p46.json",
+          "sourceTitle": "28. Pencere: kâinat çapında hikmet ve tanzim delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p46-28-pencere-kainat-capinda-hikmet-ve-tanzim-delili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p47",
+          "title": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p47.json",
+          "sourceTitle": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p47-29-pencere-her-bir-seyde-sikke-ve-muhur-i-tevhid.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p48",
+          "title": "30. Pencere: hâkimiyet ve intizamdan vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p48.json",
+          "sourceTitle": "30. Pencere: hâkimiyet ve intizamdan vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p48-30-pencere-hakimiyet-ve-intizamdan-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p49",
+          "title": "30. Pencere: hudûs delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p49.json",
+          "sourceTitle": "30. Pencere: hudûs delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p49-30-pencere-hudus-delili.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p50",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p50.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p50-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mutekelliminin-imkan-yolu-ve-daha-genis-ispat-caddesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p51",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p51.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p51-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-tek-seyden-murekkeb-cisimlere-kadar-imkan-icindeki-tahsis.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p52",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p52.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p52-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mumkinatin-sifat-ve-murekkebati-adedince-sehadetlerin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p53",
+          "title": "31. Pencere: insanın enfüsî aynadarlığına giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p53.json",
+          "sourceTitle": "31. Pencere: insanın enfüsî aynadarlığına giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p53-31-pencere-insanin-enfusi-aynadarligina-giris.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p54",
+          "title": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p54.json",
+          "sourceTitle": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p54-31-pencere-birinci-nokta-insanin-esma-i-ilahiyeye-uc-vecihle-aynadarligi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p55",
+          "title": "31. Pencere: ruh misali ve sırr-ı ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p55.json",
+          "sourceTitle": "31. Pencere: ruh misali ve sırr-ı ehadiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p55-31-pencere-ruh-misali-ve-sirr-i-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p56",
+          "title": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p56.json",
+          "sourceTitle": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p56-31-pencere-hayat-sirri-ve-hayy-i-kayyuma-aynadarlik.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p57",
+          "title": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p57.json",
+          "sourceTitle": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p57-32-pencere-resul-i-ekrem-tevhidin-natik-burhani.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p58",
+          "title": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p58.json",
+          "sourceTitle": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p58-33-pencere-kuran-pencerelerin-menbai-olan-cami-tevhid-penceresi.txt"
+        },
+        {
+          "gradeSlug": "2-sinif",
+          "partNo": "p59",
+          "title": "İhtar, özür, selam ve dua ile hatime",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/2-sinif/p59.json",
+          "sourceTitle": "İhtar, özür, selam ve dua ile hatime",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p59-ihtar-ozur-selam-ve-dua-ile-hatime.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p01",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p01.json",
+          "sourceTitle": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p01-otuzucuncu-soz-otuzuc-pencere-sual-ve-icmali-cevap.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p02",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p02.json",
+          "sourceTitle": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p02-otuzucuncu-soz-otuzuc-pencere-saray-temsili-ve-pencerelerin-cercevesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p03",
+          "title": "1. pencere: ihtiyaç",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p03.json",
+          "sourceTitle": "1. pencere: ihtiyaç",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p03-1-pencere-ihtiyac.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p04",
+          "title": "2. pencere: sikke-i ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p04.json",
+          "sourceTitle": "2. pencere: sikke-i ehadiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p04-2-pencere-sikke-i-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p05",
+          "title": "3. pencere: tedbir",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p05.json",
+          "sourceTitle": "3. pencere: tedbir",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p05-3-pencere-tedbir.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p06",
+          "title": "4. pencere: duanın makbuliyeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p06.json",
+          "sourceTitle": "4. pencere: duanın makbuliyeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p06-4-pencere-duanin-makbuliyeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p07",
+          "title": "5. pencere: def'î ve âni icad",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p07.json",
+          "sourceTitle": "5. pencere: def'î ve âni icad",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p07-5-pencere-defi-ve-ani-icad.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p08",
+          "title": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p08.json",
+          "sourceTitle": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p08-6-pencere-kainat-tabakalarinda-ism-i-azami-gosteren-ayet-ayetin-hulasasi-ve-semavat-zemin-nebatat-delilleri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p09",
+          "title": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p09.json",
+          "sourceTitle": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p09-6-pencere-yagmurdan-hayvanlara-kadar-kainat-tabakalarinda-vahdet-delilleri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p10",
+          "title": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p10.json",
+          "sourceTitle": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p10-6-pencere-ilhamlar-duygular-ve-pencere-i-azamin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p11",
+          "title": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p11.json",
+          "sourceTitle": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p11-7-pencere-intizam-mevzuniyet-ve-terkibatta-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p12",
+          "title": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p12.json",
+          "sourceTitle": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p12-8-pencere-enbiya-evliya-ve-asfiyanin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p13",
+          "title": "9. Pencere: kâinattaki ibadat-ı umumiye",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p13.json",
+          "sourceTitle": "9. Pencere: kâinattaki ibadat-ı umumiye",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p13-9-pencere-kainattaki-ibadat-i-umumiye.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p14",
+          "title": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p14.json",
+          "sourceTitle": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p14-10-pencere-teavun-tecavub-ve-tesanudun-gosterdigi-rububiyet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p15",
+          "title": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p15.json",
+          "sourceTitle": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p15-11-pencere-tevhidin-kalbe-verdigi-itminan-ve-dalaletin-iztirabi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p16",
+          "title": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p16.json",
+          "sourceTitle": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p16-12-pencere-kader-dairesinde-suret-ve-miktarin-hikmetli-tanzimi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p17",
+          "title": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p17.json",
+          "sourceTitle": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p17-13-pencere-mevcudatin-tesbihati-ve-lisan-i-hal-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p18",
+          "title": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p18.json",
+          "sourceTitle": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p18-14-pencere-her-seyin-mutlak-kudret-gina-hayat-ve-suur-sahibine-ihtiyaci.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p19",
+          "title": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p19.json",
+          "sourceTitle": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p19-15-pencere-husn-u-sanat-mizan-intizam-ve-israfsiz-yaratilis.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p20",
+          "title": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p20.json",
+          "sourceTitle": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p20-16-pencere-hikmet-inayet-rahmet-ve-rizik-zinciri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p21",
+          "title": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p21.json",
+          "sourceTitle": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p21-16-pencere-vahdetin-toplu-gosterilisi-ve-munkire-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p22",
+          "title": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p22.json",
+          "sourceTitle": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p22-17-pencere-zemin-yuzunde-sehavet-surat-kesret-ve-suhulet-icinde-intizam-delilleri.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p23",
+          "title": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p23.json",
+          "sourceTitle": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p23-17-pencere-delillerin-hulasasi-ve-ehl-i-gaflete-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p24",
+          "title": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p24.json",
+          "sourceTitle": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p24-18-pencere-eser-fiil-isim-sifat-sen-zat-silsilesinin-temsili-ve-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p25",
+          "title": "18. Pencere: delilin neticesi ve münkire meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p25.json",
+          "sourceTitle": "18. Pencere: delilin neticesi ve münkire meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p25-18-pencere-delilin-neticesi-ve-munkire-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p26",
+          "title": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p26.json",
+          "sourceTitle": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p26-19-pencere-semavat-nebatat-ve-ciceklerin-kelimat-i-tesbihiyyesine-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p27",
+          "title": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p27.json",
+          "sourceTitle": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p27-19-pencere-nebatlarin-ve-bir-tek-cicegin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p28",
+          "title": "19. Pencere: ağaçların tesbihi ve gafile hitap",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p28.json",
+          "sourceTitle": "19. Pencere: ağaçların tesbihi ve gafile hitap",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p28-19-pencere-agaclarin-tesbihi-ve-gafile-hitap.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p29",
+          "title": "20. Pencere: Arabî hülâsa ve âyetlerle giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p29.json",
+          "sourceTitle": "20. Pencere: Arabî hülâsa ve âyetlerle giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p29-20-pencere-arabi-hulasa-ve-ayetlerle-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p30",
+          "title": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p30.json",
+          "sourceTitle": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p30-20-pencere-ziya-ruzgar-sular-ve-taslar.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p31",
+          "title": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p31.json",
+          "sourceTitle": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p31-20-pencere-cicekler-kuslar-bulutlar-ve-kamer.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p32",
+          "title": "20. Pencere: netice, ihtar ve tesbih",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p32.json",
+          "sourceTitle": "20. Pencere: netice, ihtar ve tesbih",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p32-20-pencere-netice-ihtar-ve-tesbih.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p33",
+          "title": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p33.json",
+          "sourceTitle": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p33-21-pencere-gunes-ve-seyyaratin-intizamindan-vahdaniyet-delili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p34",
+          "title": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p34.json",
+          "sourceTitle": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p34-21-pencere-kure-i-arzin-seyrinden-rububiyet-ve-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p35",
+          "title": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p35.json",
+          "sourceTitle": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p35-21-pencere-semsin-ve-manzume-i-semsiyenin-sevkinden-rububiyet-delili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p36",
+          "title": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p36.json",
+          "sourceTitle": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p36-22-pencere-kure-i-arzin-hikmetli-yaratilisi-ve-daglarin-vazifesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p37",
+          "title": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p37.json",
+          "sourceTitle": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p37-22-pencere-zemin-yuzundeki-hayat-nizami-ve-vahdaniyet-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p38",
+          "title": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p38.json",
+          "sourceTitle": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p38-23-pencere-hayatin-mahiyeti-ve-vahdaniyete-delaleti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p39",
+          "title": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p39.json",
+          "sourceTitle": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p39-23-pencere-hayatin-esmaya-ve-samediyete-ayinedarligi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p40",
+          "title": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p40.json",
+          "sourceTitle": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p40-24-pencere-mevtin-rububiyet-vahdet-ve-bekaya-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p41",
+          "title": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p41.json",
+          "sourceTitle": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p41-24-pencere-elhasil-zeminin-olumuyle-mazi-ve-mustakbele-sehadet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p42",
+          "title": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p42.json",
+          "sourceTitle": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p42-25-pencere-umur-u-izafiye-ve-mahlukiyetin-halika-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p43",
+          "title": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p43.json",
+          "sourceTitle": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p43-26-pencere-cemal-ask-incizab-ve-kesf-ile-cemil-i-zulcelale-pencere.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p44",
+          "title": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p44.json",
+          "sourceTitle": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p44-27-pencere-esbabin-aczi-ve-hafiza-cekirdek-misali.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p45",
+          "title": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p45.json",
+          "sourceTitle": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p45-27-pencere-gaye-rahmet-ve-tezyinatin-musebbibul-esbabi-gostermesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p46",
+          "title": "28. Pencere: kâinat çapında hikmet ve tanzim delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p46.json",
+          "sourceTitle": "28. Pencere: kâinat çapında hikmet ve tanzim delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p46-28-pencere-kainat-capinda-hikmet-ve-tanzim-delili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p47",
+          "title": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p47.json",
+          "sourceTitle": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p47-29-pencere-her-bir-seyde-sikke-ve-muhur-i-tevhid.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p48",
+          "title": "30. Pencere: hâkimiyet ve intizamdan vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p48.json",
+          "sourceTitle": "30. Pencere: hâkimiyet ve intizamdan vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p48-30-pencere-hakimiyet-ve-intizamdan-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p49",
+          "title": "30. Pencere: hudûs delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p49.json",
+          "sourceTitle": "30. Pencere: hudûs delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p49-30-pencere-hudus-delili.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p50",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p50.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p50-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mutekelliminin-imkan-yolu-ve-daha-genis-ispat-caddesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p51",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p51.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p51-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-tek-seyden-murekkeb-cisimlere-kadar-imkan-icindeki-tahsis.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p52",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p52.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p52-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mumkinatin-sifat-ve-murekkebati-adedince-sehadetlerin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p53",
+          "title": "31. Pencere: insanın enfüsî aynadarlığına giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p53.json",
+          "sourceTitle": "31. Pencere: insanın enfüsî aynadarlığına giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p53-31-pencere-insanin-enfusi-aynadarligina-giris.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p54",
+          "title": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p54.json",
+          "sourceTitle": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p54-31-pencere-birinci-nokta-insanin-esma-i-ilahiyeye-uc-vecihle-aynadarligi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p55",
+          "title": "31. Pencere: ruh misali ve sırr-ı ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p55.json",
+          "sourceTitle": "31. Pencere: ruh misali ve sırr-ı ehadiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p55-31-pencere-ruh-misali-ve-sirr-i-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p56",
+          "title": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p56.json",
+          "sourceTitle": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p56-31-pencere-hayat-sirri-ve-hayy-i-kayyuma-aynadarlik.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p57",
+          "title": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p57.json",
+          "sourceTitle": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p57-32-pencere-resul-i-ekrem-tevhidin-natik-burhani.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p58",
+          "title": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p58.json",
+          "sourceTitle": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p58-33-pencere-kuran-pencerelerin-menbai-olan-cami-tevhid-penceresi.txt"
+        },
+        {
+          "gradeSlug": "5-sinif",
+          "partNo": "p59",
+          "title": "İhtar, özür, selam ve dua ile hatime",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/5-sinif/p59.json",
+          "sourceTitle": "İhtar, özür, selam ve dua ile hatime",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p59-ihtar-ozur-selam-ve-dua-ile-hatime.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p01",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p01.json",
+          "sourceTitle": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p01-otuzucuncu-soz-otuzuc-pencere-sual-ve-icmali-cevap.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p02",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p02.json",
+          "sourceTitle": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p02-otuzucuncu-soz-otuzuc-pencere-saray-temsili-ve-pencerelerin-cercevesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p03",
+          "title": "1. pencere: ihtiyaç",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p03.json",
+          "sourceTitle": "1. pencere: ihtiyaç",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p03-1-pencere-ihtiyac.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p04",
+          "title": "2. pencere: sikke-i ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p04.json",
+          "sourceTitle": "2. pencere: sikke-i ehadiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p04-2-pencere-sikke-i-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p05",
+          "title": "3. pencere: tedbir",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p05.json",
+          "sourceTitle": "3. pencere: tedbir",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p05-3-pencere-tedbir.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p06",
+          "title": "4. pencere: duanın makbuliyeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p06.json",
+          "sourceTitle": "4. pencere: duanın makbuliyeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p06-4-pencere-duanin-makbuliyeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p07",
+          "title": "5. pencere: def'î ve âni icad",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p07.json",
+          "sourceTitle": "5. pencere: def'î ve âni icad",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p07-5-pencere-defi-ve-ani-icad.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p08",
+          "title": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p08.json",
+          "sourceTitle": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p08-6-pencere-kainat-tabakalarinda-ism-i-azami-gosteren-ayet-ayetin-hulasasi-ve-semavat-zemin-nebatat-delilleri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p09",
+          "title": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p09.json",
+          "sourceTitle": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p09-6-pencere-yagmurdan-hayvanlara-kadar-kainat-tabakalarinda-vahdet-delilleri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p10",
+          "title": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p10.json",
+          "sourceTitle": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p10-6-pencere-ilhamlar-duygular-ve-pencere-i-azamin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p11",
+          "title": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p11.json",
+          "sourceTitle": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p11-7-pencere-intizam-mevzuniyet-ve-terkibatta-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p12",
+          "title": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p12.json",
+          "sourceTitle": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p12-8-pencere-enbiya-evliya-ve-asfiyanin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p13",
+          "title": "9. Pencere: kâinattaki ibadat-ı umumiye",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p13.json",
+          "sourceTitle": "9. Pencere: kâinattaki ibadat-ı umumiye",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p13-9-pencere-kainattaki-ibadat-i-umumiye.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p14",
+          "title": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p14.json",
+          "sourceTitle": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p14-10-pencere-teavun-tecavub-ve-tesanudun-gosterdigi-rububiyet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p15",
+          "title": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p15.json",
+          "sourceTitle": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p15-11-pencere-tevhidin-kalbe-verdigi-itminan-ve-dalaletin-iztirabi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p16",
+          "title": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p16.json",
+          "sourceTitle": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p16-12-pencere-kader-dairesinde-suret-ve-miktarin-hikmetli-tanzimi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p17",
+          "title": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p17.json",
+          "sourceTitle": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p17-13-pencere-mevcudatin-tesbihati-ve-lisan-i-hal-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p18",
+          "title": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p18.json",
+          "sourceTitle": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p18-14-pencere-her-seyin-mutlak-kudret-gina-hayat-ve-suur-sahibine-ihtiyaci.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p19",
+          "title": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p19.json",
+          "sourceTitle": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p19-15-pencere-husn-u-sanat-mizan-intizam-ve-israfsiz-yaratilis.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p20",
+          "title": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p20.json",
+          "sourceTitle": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p20-16-pencere-hikmet-inayet-rahmet-ve-rizik-zinciri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p21",
+          "title": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p21.json",
+          "sourceTitle": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p21-16-pencere-vahdetin-toplu-gosterilisi-ve-munkire-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p22",
+          "title": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p22.json",
+          "sourceTitle": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p22-17-pencere-zemin-yuzunde-sehavet-surat-kesret-ve-suhulet-icinde-intizam-delilleri.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p23",
+          "title": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p23.json",
+          "sourceTitle": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p23-17-pencere-delillerin-hulasasi-ve-ehl-i-gaflete-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p24",
+          "title": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p24.json",
+          "sourceTitle": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p24-18-pencere-eser-fiil-isim-sifat-sen-zat-silsilesinin-temsili-ve-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p25",
+          "title": "18. Pencere: delilin neticesi ve münkire meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p25.json",
+          "sourceTitle": "18. Pencere: delilin neticesi ve münkire meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p25-18-pencere-delilin-neticesi-ve-munkire-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p26",
+          "title": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p26.json",
+          "sourceTitle": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p26-19-pencere-semavat-nebatat-ve-ciceklerin-kelimat-i-tesbihiyyesine-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p27",
+          "title": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p27.json",
+          "sourceTitle": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p27-19-pencere-nebatlarin-ve-bir-tek-cicegin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p28",
+          "title": "19. Pencere: ağaçların tesbihi ve gafile hitap",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p28.json",
+          "sourceTitle": "19. Pencere: ağaçların tesbihi ve gafile hitap",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p28-19-pencere-agaclarin-tesbihi-ve-gafile-hitap.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p29",
+          "title": "20. Pencere: Arabî hülâsa ve âyetlerle giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p29.json",
+          "sourceTitle": "20. Pencere: Arabî hülâsa ve âyetlerle giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p29-20-pencere-arabi-hulasa-ve-ayetlerle-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p30",
+          "title": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p30.json",
+          "sourceTitle": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p30-20-pencere-ziya-ruzgar-sular-ve-taslar.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p31",
+          "title": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p31.json",
+          "sourceTitle": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p31-20-pencere-cicekler-kuslar-bulutlar-ve-kamer.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p32",
+          "title": "20. Pencere: netice, ihtar ve tesbih",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p32.json",
+          "sourceTitle": "20. Pencere: netice, ihtar ve tesbih",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p32-20-pencere-netice-ihtar-ve-tesbih.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p33",
+          "title": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p33.json",
+          "sourceTitle": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p33-21-pencere-gunes-ve-seyyaratin-intizamindan-vahdaniyet-delili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p34",
+          "title": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p34.json",
+          "sourceTitle": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p34-21-pencere-kure-i-arzin-seyrinden-rububiyet-ve-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p35",
+          "title": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p35.json",
+          "sourceTitle": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p35-21-pencere-semsin-ve-manzume-i-semsiyenin-sevkinden-rububiyet-delili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p36",
+          "title": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p36.json",
+          "sourceTitle": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p36-22-pencere-kure-i-arzin-hikmetli-yaratilisi-ve-daglarin-vazifesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p37",
+          "title": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p37.json",
+          "sourceTitle": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p37-22-pencere-zemin-yuzundeki-hayat-nizami-ve-vahdaniyet-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p38",
+          "title": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p38.json",
+          "sourceTitle": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p38-23-pencere-hayatin-mahiyeti-ve-vahdaniyete-delaleti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p39",
+          "title": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p39.json",
+          "sourceTitle": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p39-23-pencere-hayatin-esmaya-ve-samediyete-ayinedarligi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p40",
+          "title": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p40.json",
+          "sourceTitle": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p40-24-pencere-mevtin-rububiyet-vahdet-ve-bekaya-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p41",
+          "title": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p41.json",
+          "sourceTitle": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p41-24-pencere-elhasil-zeminin-olumuyle-mazi-ve-mustakbele-sehadet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p42",
+          "title": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p42.json",
+          "sourceTitle": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p42-25-pencere-umur-u-izafiye-ve-mahlukiyetin-halika-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p43",
+          "title": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p43.json",
+          "sourceTitle": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p43-26-pencere-cemal-ask-incizab-ve-kesf-ile-cemil-i-zulcelale-pencere.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p44",
+          "title": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p44.json",
+          "sourceTitle": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p44-27-pencere-esbabin-aczi-ve-hafiza-cekirdek-misali.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p45",
+          "title": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p45.json",
+          "sourceTitle": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p45-27-pencere-gaye-rahmet-ve-tezyinatin-musebbibul-esbabi-gostermesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p46",
+          "title": "28. Pencere: kâinat çapında hikmet ve tanzim delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p46.json",
+          "sourceTitle": "28. Pencere: kâinat çapında hikmet ve tanzim delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p46-28-pencere-kainat-capinda-hikmet-ve-tanzim-delili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p47",
+          "title": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p47.json",
+          "sourceTitle": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p47-29-pencere-her-bir-seyde-sikke-ve-muhur-i-tevhid.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p48",
+          "title": "30. Pencere: hâkimiyet ve intizamdan vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p48.json",
+          "sourceTitle": "30. Pencere: hâkimiyet ve intizamdan vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p48-30-pencere-hakimiyet-ve-intizamdan-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p49",
+          "title": "30. Pencere: hudûs delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p49.json",
+          "sourceTitle": "30. Pencere: hudûs delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p49-30-pencere-hudus-delili.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p50",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p50.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p50-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mutekelliminin-imkan-yolu-ve-daha-genis-ispat-caddesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p51",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p51.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p51-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-tek-seyden-murekkeb-cisimlere-kadar-imkan-icindeki-tahsis.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p52",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p52.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p52-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mumkinatin-sifat-ve-murekkebati-adedince-sehadetlerin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p53",
+          "title": "31. Pencere: insanın enfüsî aynadarlığına giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p53.json",
+          "sourceTitle": "31. Pencere: insanın enfüsî aynadarlığına giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p53-31-pencere-insanin-enfusi-aynadarligina-giris.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p54",
+          "title": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p54.json",
+          "sourceTitle": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p54-31-pencere-birinci-nokta-insanin-esma-i-ilahiyeye-uc-vecihle-aynadarligi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p55",
+          "title": "31. Pencere: ruh misali ve sırr-ı ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p55.json",
+          "sourceTitle": "31. Pencere: ruh misali ve sırr-ı ehadiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p55-31-pencere-ruh-misali-ve-sirr-i-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p56",
+          "title": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p56.json",
+          "sourceTitle": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p56-31-pencere-hayat-sirri-ve-hayy-i-kayyuma-aynadarlik.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p57",
+          "title": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p57.json",
+          "sourceTitle": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p57-32-pencere-resul-i-ekrem-tevhidin-natik-burhani.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p58",
+          "title": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p58.json",
+          "sourceTitle": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p58-33-pencere-kuran-pencerelerin-menbai-olan-cami-tevhid-penceresi.txt"
+        },
+        {
+          "gradeSlug": "8-sinif",
+          "partNo": "p59",
+          "title": "İhtar, özür, selam ve dua ile hatime",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/8-sinif/p59.json",
+          "sourceTitle": "İhtar, özür, selam ve dua ile hatime",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p59-ihtar-ozur-selam-ve-dua-ile-hatime.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p01",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p01.json",
+          "sourceTitle": "Otuzüçüncü Söz / Otuzüç Pencere: sual ve icmalî cevap",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p01-otuzucuncu-soz-otuzuc-pencere-sual-ve-icmali-cevap.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p02",
+          "title": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p02.json",
+          "sourceTitle": "Otuzüçüncü Söz / Otuzüç Pencere: saray temsili ve pencerelerin çerçevesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p02-otuzucuncu-soz-otuzuc-pencere-saray-temsili-ve-pencerelerin-cercevesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p03",
+          "title": "1. pencere: ihtiyaç",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p03.json",
+          "sourceTitle": "1. pencere: ihtiyaç",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p03-1-pencere-ihtiyac.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p04",
+          "title": "2. pencere: sikke-i ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p04.json",
+          "sourceTitle": "2. pencere: sikke-i ehadiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p04-2-pencere-sikke-i-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p05",
+          "title": "3. pencere: tedbir",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p05.json",
+          "sourceTitle": "3. pencere: tedbir",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p05-3-pencere-tedbir.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p06",
+          "title": "4. pencere: duanın makbuliyeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p06.json",
+          "sourceTitle": "4. pencere: duanın makbuliyeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p06-4-pencere-duanin-makbuliyeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p07",
+          "title": "5. pencere: def'î ve âni icad",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p07.json",
+          "sourceTitle": "5. pencere: def'î ve âni icad",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p07-5-pencere-defi-ve-ani-icad.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p08",
+          "title": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p08.json",
+          "sourceTitle": "6. Pencere: kâinat tabakalarında ism-i a'zamı gösteren âyet / âyetin hülâsası ve semavat-zemin-nebatat delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p08-6-pencere-kainat-tabakalarinda-ism-i-azami-gosteren-ayet-ayetin-hulasasi-ve-semavat-zemin-nebatat-delilleri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p09",
+          "title": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p09.json",
+          "sourceTitle": "6. Pencere: yağmurdan hayvanlara kadar kâinat tabakalarında vahdet delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p09-6-pencere-yagmurdan-hayvanlara-kadar-kainat-tabakalarinda-vahdet-delilleri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p10",
+          "title": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p10.json",
+          "sourceTitle": "6. Pencere: ilhamlar, duygular ve pencere-i a'zamın neticesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p10-6-pencere-ilhamlar-duygular-ve-pencere-i-azamin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p11",
+          "title": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p11.json",
+          "sourceTitle": "7. Pencere: intizam, mevzuniyet ve terkibatta vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p11-7-pencere-intizam-mevzuniyet-ve-terkibatta-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p12",
+          "title": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p12.json",
+          "sourceTitle": "8. Pencere: enbiya, evliya ve asfiyanın şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p12-8-pencere-enbiya-evliya-ve-asfiyanin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p13",
+          "title": "9. Pencere: kâinattaki ibadat-ı umumiye",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p13.json",
+          "sourceTitle": "9. Pencere: kâinattaki ibadat-ı umumiye",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p13-9-pencere-kainattaki-ibadat-i-umumiye.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p14",
+          "title": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p14.json",
+          "sourceTitle": "10. Pencere: teavün, tecavüb ve tesanüdün gösterdiği rububiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p14-10-pencere-teavun-tecavub-ve-tesanudun-gosterdigi-rububiyet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p15",
+          "title": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p15.json",
+          "sourceTitle": "11. Pencere: tevhidin kalbe verdiği itminan ve dalaletin ıztırabı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p15-11-pencere-tevhidin-kalbe-verdigi-itminan-ve-dalaletin-iztirabi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p16",
+          "title": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p16.json",
+          "sourceTitle": "12. Pencere: kader dairesinde suret ve miktarın hikmetli tanzimi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p16-12-pencere-kader-dairesinde-suret-ve-miktarin-hikmetli-tanzimi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p17",
+          "title": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p17.json",
+          "sourceTitle": "13. Pencere: mevcudatın tesbihatı ve lisan-ı hal şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p17-13-pencere-mevcudatin-tesbihati-ve-lisan-i-hal-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p18",
+          "title": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p18.json",
+          "sourceTitle": "14. Pencere: her şeyin mutlak kudret, gına, hayat ve şuur sahibine ihtiyacı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p18-14-pencere-her-seyin-mutlak-kudret-gina-hayat-ve-suur-sahibine-ihtiyaci.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p19",
+          "title": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p19.json",
+          "sourceTitle": "15. Pencere: hüsn-ü sanat, mizan, intizam ve israfsız yaratılış",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p19-15-pencere-husn-u-sanat-mizan-intizam-ve-israfsiz-yaratilis.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p20",
+          "title": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p20.json",
+          "sourceTitle": "16. Pencere: hikmet, inayet, rahmet ve rızık zinciri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p20-16-pencere-hikmet-inayet-rahmet-ve-rizik-zinciri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p21",
+          "title": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p21.json",
+          "sourceTitle": "16. Pencere: vahdetin toplu gösterilişi ve münkire meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p21-16-pencere-vahdetin-toplu-gosterilisi-ve-munkire-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p22",
+          "title": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p22.json",
+          "sourceTitle": "17. Pencere: zemin yüzünde sehavet, sür'at, kesret ve suhulet içinde intizam delilleri",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p22-17-pencere-zemin-yuzunde-sehavet-surat-kesret-ve-suhulet-icinde-intizam-delilleri.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p23",
+          "title": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p23.json",
+          "sourceTitle": "17. Pencere: delillerin hulâsası ve ehl-i gaflete meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p23-17-pencere-delillerin-hulasasi-ve-ehl-i-gaflete-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p24",
+          "title": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p24.json",
+          "sourceTitle": "18. Pencere: eser-fiil-isim-sıfat-şe'n-zât silsilesinin temsili ve tatbiki",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p24-18-pencere-eser-fiil-isim-sifat-sen-zat-silsilesinin-temsili-ve-tatbiki.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p25",
+          "title": "18. Pencere: delilin neticesi ve münkire meydan okuma",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p25.json",
+          "sourceTitle": "18. Pencere: delilin neticesi ve münkire meydan okuma",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p25-18-pencere-delilin-neticesi-ve-munkire-meydan-okuma.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p26",
+          "title": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p26.json",
+          "sourceTitle": "19. Pencere: semavat, nebatat ve çiçeklerin kelimat-ı tesbihiyyesine giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p26-19-pencere-semavat-nebatat-ve-ciceklerin-kelimat-i-tesbihiyyesine-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p27",
+          "title": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p27.json",
+          "sourceTitle": "19. Pencere: nebatların ve bir tek çiçeğin şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p27-19-pencere-nebatlarin-ve-bir-tek-cicegin-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p28",
+          "title": "19. Pencere: ağaçların tesbihi ve gafile hitap",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p28.json",
+          "sourceTitle": "19. Pencere: ağaçların tesbihi ve gafile hitap",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p28-19-pencere-agaclarin-tesbihi-ve-gafile-hitap.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p29",
+          "title": "20. Pencere: Arabî hülâsa ve âyetlerle giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p29.json",
+          "sourceTitle": "20. Pencere: Arabî hülâsa ve âyetlerle giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p29-20-pencere-arabi-hulasa-ve-ayetlerle-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p30",
+          "title": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p30.json",
+          "sourceTitle": "20. Pencere: ziya, rüzgâr, sular ve taşlar",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p30-20-pencere-ziya-ruzgar-sular-ve-taslar.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p31",
+          "title": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p31.json",
+          "sourceTitle": "20. Pencere: çiçekler, kuşlar, bulutlar ve Kamer",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p31-20-pencere-cicekler-kuslar-bulutlar-ve-kamer.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p32",
+          "title": "20. Pencere: netice, ihtar ve tesbih",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p32.json",
+          "sourceTitle": "20. Pencere: netice, ihtar ve tesbih",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p32-20-pencere-netice-ihtar-ve-tesbih.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p33",
+          "title": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p33.json",
+          "sourceTitle": "21. Pencere: güneş ve seyyaratın intizamından vahdaniyet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p33-21-pencere-gunes-ve-seyyaratin-intizamindan-vahdaniyet-delili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p34",
+          "title": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p34.json",
+          "sourceTitle": "21. Pencere: küre-i arzın seyrinden rububiyet ve vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p34-21-pencere-kure-i-arzin-seyrinden-rububiyet-ve-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p35",
+          "title": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p35.json",
+          "sourceTitle": "21. Pencere: şemsin ve manzume-i şemsiyenin sevkinden rububiyet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p35-21-pencere-semsin-ve-manzume-i-semsiyenin-sevkinden-rububiyet-delili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p36",
+          "title": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p36.json",
+          "sourceTitle": "22. Pencere: küre-i arzın hikmetli yaratılışı ve dağların vazifesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p36-22-pencere-kure-i-arzin-hikmetli-yaratilisi-ve-daglarin-vazifesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p37",
+          "title": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p37.json",
+          "sourceTitle": "22. Pencere: zemin yüzündeki hayat nizamı ve vahdaniyet şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p37-22-pencere-zemin-yuzundeki-hayat-nizami-ve-vahdaniyet-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p38",
+          "title": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p38.json",
+          "sourceTitle": "23. Pencere: hayatın mahiyeti ve vahdaniyete delâleti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p38-23-pencere-hayatin-mahiyeti-ve-vahdaniyete-delaleti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p39",
+          "title": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p39.json",
+          "sourceTitle": "23. Pencere: hayatın esmâya ve Samediyete âyinedarlığı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p39-23-pencere-hayatin-esmaya-ve-samediyete-ayinedarligi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p40",
+          "title": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p40.json",
+          "sourceTitle": "24. Pencere: mevtin rububiyet, vahdet ve bekaya şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p40-24-pencere-mevtin-rububiyet-vahdet-ve-bekaya-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p41",
+          "title": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p41.json",
+          "sourceTitle": "24. Pencere: Elhasıl, zeminin ölümüyle mazi ve müstakbele şehadet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p41-24-pencere-elhasil-zeminin-olumuyle-mazi-ve-mustakbele-sehadet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p42",
+          "title": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p42.json",
+          "sourceTitle": "25. Pencere: umûr-u izafiye ve mahlukıyetin Hâlık'a şehadeti",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p42-25-pencere-umur-u-izafiye-ve-mahlukiyetin-halika-sehadeti.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p43",
+          "title": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p43.json",
+          "sourceTitle": "26. Pencere: cemal, aşk, incizab ve keşf ile Cemil-i Zülcelal'e pencere",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p43-26-pencere-cemal-ask-incizab-ve-kesf-ile-cemil-i-zulcelale-pencere.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p44",
+          "title": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p44.json",
+          "sourceTitle": "27. Pencere: esbabın aczi ve hafıza-çekirdek misali",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p44-27-pencere-esbabin-aczi-ve-hafiza-cekirdek-misali.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p45",
+          "title": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p45.json",
+          "sourceTitle": "27. Pencere: gaye, rahmet ve tezyinatın Müsebbibü'l-Esbab'ı göstermesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p45-27-pencere-gaye-rahmet-ve-tezyinatin-musebbibul-esbabi-gostermesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p46",
+          "title": "28. Pencere: kâinat çapında hikmet ve tanzim delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p46.json",
+          "sourceTitle": "28. Pencere: kâinat çapında hikmet ve tanzim delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p46-28-pencere-kainat-capinda-hikmet-ve-tanzim-delili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p47",
+          "title": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p47.json",
+          "sourceTitle": "29. Pencere: her bir şeyde sikke ve mühür-i tevhid",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p47-29-pencere-her-bir-seyde-sikke-ve-muhur-i-tevhid.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p48",
+          "title": "30. Pencere: hâkimiyet ve intizamdan vahdet delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p48.json",
+          "sourceTitle": "30. Pencere: hâkimiyet ve intizamdan vahdet delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p48-30-pencere-hakimiyet-ve-intizamdan-vahdet-delili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p49",
+          "title": "30. Pencere: hudûs delili",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p49.json",
+          "sourceTitle": "30. Pencere: hudûs delili",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p49-30-pencere-hudus-delili.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p50",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p50.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / mütekellimînin imkân yolu ve daha geniş ispat caddesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p50-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mutekelliminin-imkan-yolu-ve-daha-genis-ispat-caddesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p51",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p51.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / tek şeyden mürekkeb cisimlere kadar imkân içindeki tahsis",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p51-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-tek-seyden-murekkeb-cisimlere-kadar-imkan-icindeki-tahsis.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p52",
+          "title": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p52.json",
+          "sourceTitle": "30. Pencere: imkân delili ve mümkinatın şehadeti / mümkinatın sıfât ve mürekkebatı adedince şehadetlerin neticesi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p52-30-pencere-imkan-delili-ve-mumkinatin-sehadeti-mumkinatin-sifat-ve-murekkebati-adedince-sehadetlerin-neticesi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p53",
+          "title": "31. Pencere: insanın enfüsî aynadarlığına giriş",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p53.json",
+          "sourceTitle": "31. Pencere: insanın enfüsî aynadarlığına giriş",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p53-31-pencere-insanin-enfusi-aynadarligina-giris.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p54",
+          "title": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p54.json",
+          "sourceTitle": "31. Pencere / Birinci Nokta: insanın esma-i İlahiyeye üç vecihle aynadarlığı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p54-31-pencere-birinci-nokta-insanin-esma-i-ilahiyeye-uc-vecihle-aynadarligi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p55",
+          "title": "31. Pencere: ruh misali ve sırr-ı ehadiyet",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p55.json",
+          "sourceTitle": "31. Pencere: ruh misali ve sırr-ı ehadiyet",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p55-31-pencere-ruh-misali-ve-sirr-i-ehadiyet.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p56",
+          "title": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p56.json",
+          "sourceTitle": "31. Pencere: hayat sırrı ve Hayy-ı Kayyum’a aynadarlık",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p56-31-pencere-hayat-sirri-ve-hayy-i-kayyuma-aynadarlik.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p57",
+          "title": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p57.json",
+          "sourceTitle": "32. Pencere / Resûl-i Ekrem: tevhidin nâtık bürhanı",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p57-32-pencere-resul-i-ekrem-tevhidin-natik-burhani.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p58",
+          "title": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p58.json",
+          "sourceTitle": "33. Pencere / Kur'an: pencerelerin menbaı olan câmi' tevhid penceresi",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p58-33-pencere-kuran-pencerelerin-menbai-olan-cami-tevhid-penceresi.txt"
+        },
+        {
+          "gradeSlug": "lisans",
+          "partNo": "p59",
+          "title": "İhtar, özür, selam ve dua ile hatime",
+          "cardCount": 24,
+          "url": "/assets/33-soz/question-bank/lisans/p59.json",
+          "sourceTitle": "İhtar, özür, selam ve dua ile hatime",
+          "sourceTextUrl": "/assets/33-soz/parcalar/33-soz-p59-ihtar-ozur-selam-ve-dua-ile-hatime.txt"
+        }
+      ],
+      "search": {
+        "slug": "33-soz",
+        "title": "33. Söz",
+        "shardUrl": "/assets/search/33-soz.85e025e73b862810f06e4750b91aee4c82b0b90e6b4dbc59e1d27781a402b592.v1.json",
+        "contentHash": "85e025e73b862810f06e4750b91aee4c82b0b90e6b4dbc59e1d27781a402b592",
+        "recordCount": 59,
+        "rawBytes": 92172
+      }
+    },
     {
       "slug": "ayetul-kubra",
       "title": "Ayetül Kübra",
@@ -16613,13 +30469,20 @@ export const libraryIndex = {
   ],
   "search": {
     "schemaVersion": 1,
-    "manifestUrl": "/assets/search/manifest.5e9066a0cadc70d1a75e221ca4dcd665c4001dbd05154e72d1842a7f9d37005e.v1.json",
-    "manifestContentHash": "5e9066a0cadc70d1a75e221ca4dcd665c4001dbd05154e72d1842a7f9d37005e",
-    "totalRawBytes": 533751
+    "manifestUrl": "/assets/search/manifest.64eeeb17f5cfbc5d0059e07a5d1071b2f67d626821ae2808aa9d64208043a5da.v1.json",
+    "manifestContentHash": "64eeeb17f5cfbc5d0059e07a5d1071b2f67d626821ae2808aa9d64208043a5da",
+    "totalRawBytes": 976530
   }
 } satisfies LibraryIndex;
 
 export const bookSlugs = [
+  "11-soz",
+  "13-soz",
+  "18-soz",
+  "24-soz",
+  "31-soz",
+  "32-soz",
+  "33-soz",
   "ayetul-kubra",
   "kucuk-sozler",
   "meyve-risalesi",
@@ -16627,6 +30490,13 @@ export const bookSlugs = [
 ] as const;
 
 const bookLoaders: Record<string, () => Promise<BookModule>> = {
+  "11-soz": () => import("./books/11-soz.generated"),
+  "13-soz": () => import("./books/13-soz.generated"),
+  "18-soz": () => import("./books/18-soz.generated"),
+  "24-soz": () => import("./books/24-soz.generated"),
+  "31-soz": () => import("./books/31-soz.generated"),
+  "32-soz": () => import("./books/32-soz.generated"),
+  "33-soz": () => import("./books/33-soz.generated"),
   "ayetul-kubra": () => import("./books/ayetul-kubra.generated"),
   "kucuk-sozler": () => import("./books/kucuk-sozler.generated"),
   "meyve-risalesi": () => import("./books/meyve-risalesi.generated"),

@@ -1,0 +1,752 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "32-soz:2-sinif:p01",
+  "bookSlug": "32-soz",
+  "bookTitle": "32. Söz",
+  "bookOrder": 9,
+  "gradeSlug": "2-sinif",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "1. Mevkıf: tevhid muhaveresine giriş",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/32-soz/outputs/2-sinif/SveC_2sinif_32-soz-p01-1-mevkif-tevhid-muhaveresine-giris.txt",
+  "sourceRevision": "c8de696add6839b32f4a9e1e8c30b92470381a284896020bf0d81eb00a1a45ba",
+  "setCount": 6,
+  "questionCount": 60,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde anlatılan yazı kaç kısımdan oluşuyor?",
+          "answer": "Üç kısımdan oluşuyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "İlk kısımda hangi inanç konusu öne çıkarılıyor?",
+          "answer": "Allah’ın birliği anlatılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Ramazan gecesinde söylenen sözlerde kaç ayrı cümleden bahsediliyor?",
+          "answer": "On bir cümleden bahsediliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Bu cümlelerin her birinde iki güzel şey bulunduğu söyleniyor. Bunlar nelerdir?",
+          "answer": "Bir birlik derecesi ve bir müjde vardır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Bu yazıda özellikle hangi ifade açıklanıyor?",
+          "answer": "Allah’ın ortağı olmadığını bildiren ifade açıklanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Anlatım, herkes kolay anlasın diye nasıl bir yolla yapılıyor?",
+          "answer": "Temsilli bir konuşma gibi yapılıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "Bu konuşmanın yazıya geçirilmesinin sebebi nedir?",
+          "answer": "Yakınındaki kardeşleri ve mescid arkadaşları istemiştir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Karşı tarafa örnek olarak nasıl bir kişi düşünülüyor?",
+          "answer": "Varlıklardan birine sahip olmak isteyen uydurma bir kişi düşünülüyor.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Bu kişi ne olmak istiyor?",
+          "answer": "Rab ve gerçek sahip olmak istiyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün ana fikri nedir?",
+          "answer": "Hiçbir şey Allah’a ortak olamaz; gerçek sahip yalnız Allah’tır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Bölümün başında en önemli olarak hangi hakikat anlatılıyor?",
+          "answer": "Allah’ın tek olduğu anlatılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Söylenen tevhid sözünde sadece bilgi mi var, yoksa sevinçli haber de var mı?",
+          "answer": "Sevinçli haber de var.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Anlatan kişi, zor bir konuyu çocuklar ve halk da anlasın diye nasıl anlatmayı seçiyor?",
+          "answer": "Örnekli ve karşılıklı konuşma şeklinde anlatıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Yazıyı yazan kişi bu konuşmayı ne zaman söylemiş?",
+          "answer": "Bir Ramazan gecesinde söylemiş.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Sonradan bunu niçin yazmış?",
+          "answer": "İsteyenler olduğu için yazmış.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Karşısına çıkarılan hayalî kişi kimleri temsil ediyor?",
+          "answer": "Allah’a ortak koşanları ve yanlış düşünenleri temsil ediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Bu hayalî kişinin yanlış iddiası nedir?",
+          "answer": "Bir şeye kendisinin sahip ve yönetici olabileceğini sanmasıdır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde “şerik” düşüncesi doğru mu, yanlış mı gösteriliyor?",
+          "answer": "Yanlış gösteriliyor.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Bu parçaya göre gerçek sahiplik kime aittir?",
+          "answer": "Allah’a aittir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölüm insanlara hangi güzel imanı güçlendirmeyi amaçlıyor?",
+          "answer": "Tevhid inancını güçlendirmeyi amaçlıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "“Birinci Mevkıf” denilen yerde hangi temel ders veriliyor?",
+          "answer": "Allah’ın birliği dersi veriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Tevhid sözü içindeki cümlelerin her birinde bulunan ortak anlam nedir?",
+          "answer": "Hepsi Allah’ın birliğini gösterir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Bu cümlelerde bulunan müjde, insanın kalbine ne verir?",
+          "answer": "Sevinç ve güven verir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S3Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Anlatan kişi, ağır bir meseleyi sadeleştirmek için hangi yolu kullanıyor?",
+          "answer": "Benzetmeli konuşma yolunu kullanıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Bu konuşma doğrudan gerçek bir olay gibi mi, yoksa örnek olsun diye mi kuruluyor?",
+          "answer": "Örnek olsun diye kuruluyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Metindeki uydurma kişi hangi büyük yanlışı savunuyor?",
+          "answer": "Allah’tan başkasının da sahip olabileceğini savunuyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Bu kişinin bir şeye Rab olmak istemesi, metne göre doğru bir istek midir?",
+          "answer": "Hayır, doğru değildir; bu büyük bir yanlıştır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Bu bölümde insanlar hangi yanlıştan sakındırılıyor?",
+          "answer": "Şirkten ve inkârdan sakındırılıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Buradaki anlatımın amacı kavga etmek midir, yoksa gerçeği göstermek midir?",
+          "answer": "Gerçeği göstermek içindir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Parçanın sonunda kurulan örnek, kimin tek başına hükmeden olduğunu anlatmaya hazırlanıyor?",
+          "answer": "Allah’ın tek hükmeden olduğunu anlatmaya hazırlanıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin başında bölümün adı olarak hangi sayı söyleniyor?",
+          "answer": "Otuz ikinci söz söyleniyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Bu sözün kaç durağı olduğu bildiriliyor?",
+          "answer": "Üç durağı olduğu bildiriliyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "İlk durakta okunan tevhid ifadesi neyi bildirir?",
+          "answer": "Allah’tan başka ilah olmadığını bildirir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Anlatan kişi, bu tevhid sözündeki manalardan hangisini özellikle ele alıyor?",
+          "answer": "Allah’ın ortağı olmaması manasını ele alıyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S4Q3"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Bu mana, anlayışı az olanlar da kavrasın diye nasıl sunuluyor?",
+          "answer": "Kolay bir konuşma örneğiyle sunuluyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Konuşmayı yazıya dökmesini isteyenler kimlerdir?",
+          "answer": "Hizmet eden kardeşleri ve mescid arkadaşlarıdır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Parçada geçen hayalî kişi neyi kendine mal etmek istiyor?",
+          "answer": "Varlıklardan bir şeyi kendine bağlamak istiyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "Bu isteğin altında nasıl bir yanlış düşünce vardır?",
+          "answer": "Allah’tan başka birinin gerçek sahip olabileceği düşüncesi vardır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Bu parçaya göre böyle bir düşünce imanla uygun mudur?",
+          "answer": "Uygun değildir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S4Q8"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölüm bize kısaca ne öğretir?",
+          "answer": "Bütün sahiplik ve hükümranlık Allah’ındır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Anlatılan kısımda hangi mübarek zaman anılıyor?",
+          "answer": "Ramazan gecesi anılıyor.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Ramazan gecesinde söylenen tevhid sözleri kalbe hangi duyguyu da taşır?",
+          "answer": "Müjde duygusunu taşır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Bu cümlelerin her birinde bulunan tevhid derecesi neyi kuvvetlendirir?",
+          "answer": "İmanı kuvvetlendirir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Metinde kullanılan anlatım şekli çocukların ve halkın anlamasına uygun mudur?",
+          "answer": "Evet, uygundur; çünkü sade bir örnekle anlatılır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Burada geçen farazî kişi gerçekten var olan biri mi?",
+          "answer": "Hayır, düşüncede kurulan bir kişidir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Bu kişi, varlıklardan birine nasıl bakıyor?",
+          "answer": "Ona sahip olup yönetebileceğini sanıyor.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "Parçanın anlattığına göre böyle bir sahiplik iddiası neden yanlıştır?",
+          "answer": "Çünkü gerçek sahiplik yalnız Allah’a aittir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S5Q6"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Metinde yanlış yolda olan topluluklar hangi ortak hatada birleşiyor?",
+          "answer": "Allah’a ortak düşüncesinde birleşiyorlar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Bu bölüm daha çok hangi inanç yanlışını düzeltir?",
+          "answer": "Şirk yanlışını düzeltir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Bu parçayı okuyan bir çocuk hangi doğru sözü öğrenir?",
+          "answer": "Allah tektir, ortağı yoktur.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde sözü edilen ana konu ibadetin hangi temel inancıyla ilgilidir?",
+          "answer": "Tevhid inancıyla ilgilidir.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "İlk kısımda geçen cümlelerin sayısı kaçtır?",
+          "answer": "On birdir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Her cümlede bulunan müjde, insanı korkuya mı yoksa ümide mi yaklaştırır?",
+          "answer": "Ümide yaklaştırır.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Anlatan kişi, bu manayı ağır ilim diliyle mi yoksa kolay bir yolla mı anlatıyor?",
+          "answer": "Kolay bir yolla anlatıyor.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Bu kolay yolun biçimi nedir?",
+          "answer": "Temsilli bir konuşmadır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Bu konuşmayı yazma isteği kimlerden geliyor?",
+          "answer": "Yakınındaki kardeşlerden ve mescid arkadaşlarından geliyor.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Kurulan örnekteki kişi hangi yanlışı iddia ediyor?",
+          "answer": "Bir varlığa efendi ve sahip olabileceğini iddia ediyor.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Bu iddia hangi doğru inanca ters düşer?",
+          "answer": "Allah’ın bir ve eşsiz olması inancına ters düşer.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "32-soz:p01:2-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Parçaya göre Allah’a ortaklar var sanmak doğru bir düşünme midir?",
+          "answer": "Doğru değildir.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "32-soz:p01:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "Bu bölümün kısa özeti nedir?",
+          "answer": "Her şeyin gerçek sahibi Allah’tır ve O’nun ortağı yoktur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

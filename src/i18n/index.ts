@@ -19,7 +19,9 @@ type UiDictionary = {
   };
   nav: {
     books: string;
+    howItWorks: string;
     lessonFlow: string;
+    theme: string;
     themes: (params: { theme: string }) => string;
   };
   common: {
@@ -43,6 +45,7 @@ type UiDictionary = {
       eyebrow: string;
       heading: string;
       lede: string;
+      featureLabels: string[];
       primaryCta: string;
       secondaryCta: string;
       gradeLine: string;
@@ -134,12 +137,16 @@ type UiDictionary = {
       global: string;
       book: string;
     };
+    levels: {
+      label: string;
+      basic: string;
+      advanced: string;
+    };
     modes: {
       label: string;
       all: string;
       exact: string;
       boolean: string;
-      wildcard: string;
       proximity: string;
     };
     scopes: {
@@ -365,7 +372,9 @@ export const ui = {
     },
     nav: {
       books: "Kitaplar",
-      lessonFlow: "Örnek Ders Akışı",
+      howItWorks: "Nasıl Oluyor?",
+      lessonFlow: "Ders Akışı",
+      theme: "Tema",
       themes: ({ theme }) => `Tema: ${theme}`
     },
     common: {
@@ -389,10 +398,17 @@ export const ui = {
         "Risale dersleri için hazırlanmış soru kağıtları, cevap anahtarları, Word/PDF çıktıları ve bilgi kartları.",
       hero: {
         eyebrow: "Ders materyali kütüphanesi",
-        heading: "Risale-i Nur dersleri için hazır soru kağıtları ve bilgi kartları",
-        lede:
-          "Risaleler küçük parçalara ayrıldı. Her parça için sınıf düzeyine göre soru kağıdı, cevap anahtarı, Word/PDF çıktısı ve etkileşimli bilgi kartları hazır.",
-        primaryCta: "Kitaplar",
+        heading: "Risale-i Nur'dan Bir Dersi Her Yaşa Aynı Anda Nasıl Anlatırsınız?",
+        lede: "",
+        featureLabels: [
+          "2. sınıf",
+          "5. sınıf",
+          "8. sınıf",
+          "11. Sınıf",
+          "6 farklı soru seti",
+          "Otomatik hazırlama"
+        ],
+        primaryCta: "Nasıl Oluyor?",
         secondaryCta: "Ders Akışı",
         gradeLine: "Seviyeler okul sınıflarına göredir. Sınıflar ayrı bir medrese sınıflandırması değildir."
       },
@@ -518,12 +534,16 @@ export const ui = {
         global: "Kitaplarda, başlıklarda ve metinlerde ara…",
         book: "Parça numarası, başlık veya metin"
       },
+      levels: {
+        label: "Arama düzeyi",
+        basic: "Basit",
+        advanced: "Gelişmiş"
+      },
       modes: {
-        label: "Arama biçimi",
+        label: "Arama seçeneği",
         all: "Tüm kelimeler",
         exact: "Tam ifade",
         boolean: "Mantıksal arama",
-        wildcard: "Joker karakterler",
         proximity: "Yakınlık"
       },
       scopes: {
@@ -549,7 +569,7 @@ export const ui = {
         all: "Yazdığınız bütün kelimeleri içeren parçaları bulur.",
         exact: "Kelimeleri yazdığınız sırayla ve yan yana arar.",
         boolean: "AND/VE, OR/VEYA ve NOT/DEĞİL işleçlerini kabul eder.",
-        wildcard: "Birden çok karakter için * ve tek karakter için ? kullanın.",
+        wildcard: "Joker karakterler her aramada otomatik çalışır: birden çok karakter için * ve tek karakter için ? kullanın.",
         proximity: "Kelimeleri seçilen uzaklık içinde, sıra aramadan bulur.",
         examplesLabel: "Örnekler",
         examples: {
@@ -774,7 +794,9 @@ export const ui = {
     },
     nav: {
       books: "Books",
-      lessonFlow: "Example Lesson Flow",
+      howItWorks: "How Does It Work?",
+      lessonFlow: "Lesson Flow",
+      theme: "Theme",
       themes: ({ theme }) => `Themes: ${theme}`
     },
     common: {
@@ -799,9 +821,16 @@ export const ui = {
       hero: {
         eyebrow: "Lesson material library",
         heading: "Ready question sheets and flashcards for Risale lessons",
-        lede:
-          "The Risales are divided into small parts. For each part, grade-specific question sheets, answer material, Word/PDF outputs, and interactive flashcards are ready.",
-        primaryCta: "Books",
+        lede: "How do they manage so many different levels in a single system?",
+        featureLabels: [
+          "2nd grade",
+          "5th grade",
+          "8th grade",
+          "11th grade",
+          "6 different question sets",
+          "Automatic preparation"
+        ],
+        primaryCta: "How Does It Work?",
         secondaryCta: "Lesson Flow",
         gradeLine: "Levels follow regular school grades. The classes are not a separate madrasa classification."
       },
@@ -929,12 +958,16 @@ export const ui = {
         global: "Search books, titles, and texts…",
         book: "Part number, title, or text"
       },
+      levels: {
+        label: "Search level",
+        basic: "Basic",
+        advanced: "Advanced"
+      },
       modes: {
-        label: "Search mode",
+        label: "Search option",
         all: "All words",
         exact: "Exact phrase",
         boolean: "Boolean operators",
-        wildcard: "Wildcards",
         proximity: "Nearby words"
       },
       scopes: {
@@ -960,7 +993,7 @@ export const ui = {
         all: "Finds parts containing every word you enter.",
         exact: "Finds the words together and in the order entered.",
         boolean: "Accepts AND, OR, and NOT operators.",
-        wildcard: "Use * for several characters and ? for one character.",
+        wildcard: "Wildcards work automatically in every search: use * for several characters and ? for one character.",
         proximity: "Finds words within the selected distance in either order.",
         examplesLabel: "Examples",
         examples: {

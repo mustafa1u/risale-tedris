@@ -1,0 +1,683 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "31-soz:8-sinif:p39",
+  "bookSlug": "31-soz",
+  "bookTitle": "31. Söz",
+  "bookOrder": 8,
+  "gradeSlug": "8-sinif",
+  "partNo": "p39",
+  "partNumber": 39,
+  "title": "Dua ve salavatla hatime",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Sozler/31-soz/outputs/8-sinif/SveC_8sinif_31-soz-p39-dua-ve-salavatla-hatime.txt",
+  "sourceRevision": "9ab79cb27b93f13881262b27652aa10fece3dc4aaa0b69e05f4951492f21ec47",
+  "setCount": 6,
+  "questionCount": 57,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "İlk cümlede kime salât ve selâm getirilmektedir?",
+          "answer": "Peygamberimiz Hz. Muhammed’e sallallahu aleyhi ve sellem salât ve selâm getirilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Bu salâvatta Peygamber Efendimizin hangi iki mucizesine işaret edilmektedir?",
+          "answer": "Ayın yarılması ve parmaklarından su çıkması hatırlatılmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Salâvatta Mi'rac ile bağlantılı olarak Peygamberimiz için hangi özellik anılmaktadır?",
+          "answer": "Mi'rac sahibi olduğu bildirilmektedir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Salât ve selâm yalnız Peygamberimize mi yöneltilmiştir, yoksa başka kimseler de anılmış mıdır?",
+          "answer": "Âline ve ashabına da yöneltilmiştir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Bu duada anılan kimselere yapılan dua hangi zaman aralığını kapsayacak şekilde söylenmiştir?",
+          "answer": "Dünyanın başlangıcından mahşerin sonuna kadar uzanan geniş bir kapsamla söylenmiştir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "“Bizim bilgimiz kendiliğimizden değildir” düşüncesi hangi cümlede yer almaktadır?",
+          "answer": "Allah’ın öğretmesi olmadan insanın gerçek bilgiye sahip olamayacağını bildiren tesbih cümlesinde yer almaktadır.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Bu cümlede Allah’ın hangi iki sıfatı özellikle anılmaktadır?",
+          "answer": "Her şeyi bilen ve hikmet sahibi olan sıfatları anılmaktadır.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p39:8-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Sonraki duada Allah’tan önce hangi genel istek yapılmaktadır?",
+          "answer": "Yapılan ibadet ve duaların kabul edilmesi istenmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Ardından unutma ve hata konusunda nasıl bir niyazda bulunulmaktadır?",
+          "answer": "Unutma veya yanlış yapma sebebiyle ağır şekilde sorumlu tutulmamayı dilemektedir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p39:8-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "Hidayetten sonra kalple ilgili hangi tehlikeden korunma istenmektedir?",
+          "answer": "Kalbin doğru yoldan kaymaması istenmektedir.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "Nur ve mağfiret hakkında ne talep edilmektedir?",
+          "answer": "İmanın aydınlığının tamamlanması ve günahların bağışlanması istenmektedir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S1Q13",
+          "sourceQuestionId": "S1Q13",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 13,
+          "question": "Son cümlede duanın nasıl bir hamd ile tamamlandığı bildirilmektedir?",
+          "answer": "Sonunda bütün övgünün âlemlerin Rabbi olan Allah’a ait olduğu ifade edilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Başlangıçta anılan zat kimdir?",
+          "answer": "Hz. Muhammed sallallahu aleyhi ve sellemdir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Salâvatta Peygamberimizin yakın çevresinden kimlere de dua edilmektedir?",
+          "answer": "Ailesine ve sahabelerine de dua edilmektedir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "“Biz ancak Allah’ın öğrettiğini biliriz” sözü insana hangi edebi öğretir?",
+          "answer": "Kendi bilgisini büyük görmemeyi ve ilmi Allah’tan bilmeyi öğretir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "“Rabbimiz kabul buyur” anlamındaki niyaz daha çok hangi kulluk yönüyle ilgilidir?",
+          "answer": "Yapılan ibadetlerin ve duaların Allah katında makbul olması dileğiyle ilgilidir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "“Bizi unutma ve yanılma sebebiyle cezalandırma” duası insanın hangi özelliğini kabul eder?",
+          "answer": "İnsanın eksik ve hata yapabilen bir varlık olduğunu kabul eder.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "“Kalplerimizi eğriltme” niyazı, hidayetin korunması bakımından neyi gösterir?",
+          "answer": "Doğru yolda kalmanın da Allah’ın yardımıyla mümkün olduğunu gösterir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "“Nurumu tamamla” duasındaki nur, 8. sınıf seviyesinde en uygun şekilde nasıl anlaşılabilir?",
+          "answer": "İman, hidayet ve kalbin aydınlığı olarak anlaşılabilir.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S2Q13",
+          "sourceQuestionId": "S2Q13",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 13,
+          "question": "Metnin sonunda hamd ile bitirilmesi bize dua adabı hakkında ne öğretir?",
+          "answer": "Duanın sonunda Allah’ı övmenin güzel bir kulluk tavrı olduğunu öğretir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "Metinde ilk olarak yapılan dua, doğrudan Allah’a mı yoksa Peygamber Efendimize yönelik bir salâvat şeklinde mi kurulmuştur?",
+          "answer": "Peygamber Efendimize yönelik bir salâvat şeklinde kurulmuştur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Bu salâvatta ay ile ilgili hangi olağanüstü olay hatırlatılmaktadır?",
+          "answer": "Ayın onun işaretiyle ikiye ayrılması hatırlatılmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Su ile ilgili hangi mucizeye yer verilmektedir?",
+          "answer": "Elinin parmaklarından bereketli su çıkması anılmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Peygamberimizden sonra kimlerin adı birlikte anılmaktadır?",
+          "answer": "Ehl-i beyti ve sahabileri birlikte anılmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Dua, zaman bakımından dar bir anla mı sınırlıdır?",
+          "answer": "Hayır, çok geniş bir zaman dilimini kuşatacak şekilde söylenmiştir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "“Bizim bilgimiz yoktur, ancak Senin öğrettiklerin vardır” cümlesi bilgi konusunda kimi merkeze alır?",
+          "answer": "Allah’ı merkeze alır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Allah’ın “Alîm” ve “Hakîm” oluşu birlikte düşünülünce nasıl bir anlam çıkar?",
+          "answer": "Allah’ın hem her şeyi bildiği hem de her işi hikmetle yaptığı anlaşılır.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Kabul edilmesi istenen şeyler en uygun şekilde hangi başlık altında toplanır?",
+          "answer": "Kullukta yapılan ameller ve dualar başlığı altında toplanır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Unutma ve hata sebebiyle bağışlanma istemek hangi duyguya işaret eder?",
+          "answer": "Kulun aczini ve Allah’ın merhametine muhtaç olduğunu gösterir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "Kalbin kaymaması duası, iman hayatında hangi ihtiyacı anlatır?",
+          "answer": "Sebat ihtiyacını anlatır.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S3Q13",
+          "sourceQuestionId": "S3Q13",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 13,
+          "question": "Metnin sonundaki hamd ifadesi bütün övgüyü kime verir?",
+          "answer": "Bütün övgüyü Allah’a verir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "Metnin girişindeki salâvatta Peygamber Efendimizin hangi iki delil niteliğindeki hâdisesi anılmaktadır?",
+          "answer": "Ayın yarılması ve parmaklarından su akması anılmaktadır.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Salâvatta sadece tek bir nesil mi anılmaktadır, yoksa daha geniş bir topluluk mu?",
+          "answer": "Daha geniş bir topluluk anılmakta; âli ve ashabı da dâhil edilmektedir.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "“Rabbimiz bizden kabul buyur” duası hangi ümidi taşır?",
+          "answer": "Yapılan kulluğun Allah katında değer bulması ümidini taşır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "“Bizi sorumlu tutma” isteği hangi iki insanlık hâli üzerine kuruludur?",
+          "answer": "Unutma ve yanılma hâli üzerine kuruludur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Hidayetten sonra kalbin bozulmaması için dua edilmesi neyi gösterir?",
+          "answer": "Doğru yolda kalmanın sürekli korunması gereken bir nimet olduğunu gösterir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Nurların tamamlanması duası, insanın eksik kalan hangi yönünün olgunlaşmasını istemektedir?",
+          "answer": "İman ve maneviyat yönünün tam parlaklığa ulaşmasını istemektedir.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "En sonda hamd ile bitirmek, bütün duaların sonucunu hangi duyguda toplar?",
+          "answer": "Şükür ve övgü duygusunda toplar.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Bu bölümde ilk görülen ifade bir istek duası mı, yoksa salât ve selâm cümlesi mi?",
+          "answer": "Salât ve selâm cümlesidir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "Su mucizesi anlatılırken suyun hangi yönü öne çıkarılmaktadır?",
+          "answer": "Bereketli ve bol oluşu öne çıkarılmaktadır.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Salâvatta yer alan topluluklar Peygamber Efendimizle hangi bakımdan ilişkilidir?",
+          "answer": "Biri aile bağıyla, diğeri iman arkadaşlığı ve yakınlığıyla ilişkilidir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "“Bizim ilmimiz sınırlıdır” anlamındaki cümleye göre gerçek bilgi kaynağı kimdir?",
+          "answer": "Gerçek bilgi kaynağı Allah’tır.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "“Unuttuk veya yanıldık” sözleri insanın hangi gerçeğini ortaya koyar?",
+          "answer": "Kusursuz olmadığını ortaya koyar.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Kalbin eğrilmemesi isteği en çok hangi nimetin korunmasına yöneliktir?",
+          "answer": "Hidayet nimetinin korunmasına yöneliktir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Nurun tamamlanmasını istemek, yarım kalmış bir manevî yolculuğun neye ulaşmasını istemektir?",
+          "answer": "Tam bir aydınlığa ve olgun bir imana ulaşmasını istemektir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S5Q13",
+          "sourceQuestionId": "S5Q13",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 13,
+          "question": "Son cümlede övgünün yalnız Allah’a verilmesi tevhid açısından ne öğretir?",
+          "answer": "Asıl hamd ve yüceliğin yalnız Allah’a ait olduğunu öğretir.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "Metindeki dua akışında önce hangi kişiye hürmet ifadesi sunulmaktadır?",
+          "answer": "Önce Peygamber Efendimize hürmet ifadesi olarak salâvat sunulmaktadır.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "Bu hürmet ifadesinde onun hangi olağanüstü işaretleri anılmaktadır?",
+          "answer": "Ayla ilgili mucize, suyla ilgili mucize ve Mi'rac nimeti anılmaktadır.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Salâvatın kapsamı sadece bir döneme mi aittir?",
+          "answer": "Hayır, çok uzun bir zaman aralığını kuşatacak şekilde ifade edilmiştir.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "Ardından gelen tesbih cümlesinde kul, bilgi konusunda kendisi için neyi reddeder?",
+          "answer": "Bağımsız ve sınırsız bir bilgi sahibi olmayı reddeder.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "Aynı cümlede Allah için hangi iki yüce özellik anılmaktadır?",
+          "answer": "İlim ve hikmet özellikleri anılmaktadır.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p39:8-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Sonraki dualarda ilk istek kabul mü, bağışlanma mı?",
+          "answer": "İlk istek kabul edilmedir.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Kabul isteğinden sonra gelen niyaz, insanın hangi iki zayıflığına dikkat çeker?",
+          "answer": "Unutkanlık ve hata yapma zayıflığına dikkat çeker.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "31-soz:p39:8-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "Hidayet verildikten sonra kalbin kaymaması için dua etmek niçin önemlidir?",
+          "answer": "Çünkü doğru yolda kalmak da sürekli Allah’ın yardımıyla mümkündür.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "“Nurumuzu tamamla” isteği kişinin hangi hâlinin güçlenmesini amaçlar?",
+          "answer": "Manevî aydınlığının ve imanının güçlenmesini amaçlar.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "“Bizi bağışla” niyazı kulun Rabbine hangi ihtiyaçla yöneldiğini gösterir?",
+          "answer": "Merhamet ve affa ihtiyaçla yöneldiğini gösterir.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "31-soz:p39:8-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Duanın sonunda hamd ile bitirilmesi, bütün isteklerin sonunda kalpte hangi duygunun yerleşmesini sağlar?",
+          "answer": "Şükür, teslimiyet ve Allah’ı övme duygusunun yerleşmesini sağlar.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}
