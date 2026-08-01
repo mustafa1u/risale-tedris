@@ -137,7 +137,7 @@ export default function BookSearch({
     }
     try {
       const response = await workerClientRef.current.search(toWorkerRequest(nextState, book));
-      presenterRef.current?.presentOrderedPartNos(response.results.map((result) => result.partNo));
+      presenterRef.current?.presentSearchResults(response.results);
     } catch (error) {
       if (error?.code === "SUPERSEDED") return;
       readyRef.current = false;

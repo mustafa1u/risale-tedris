@@ -130,5 +130,10 @@ describe("BaseLayout markup contract", () => {
     assert.match(source, /<span class="theme-nav-control__label">\{text\.nav\.theme\}<\/span>/);
     assert.match(source, /<span data-theme-nav-link={item\.themeLink \? "true" : undefined}>/);
     assert.match(source, /document\.querySelectorAll\("\[data-theme-nav-link\]"\)/);
+    assert.match(source, /themePreferenceMigration/);
+    assert.match(source, /shouldMigrateLegacyDefault/);
+    assert.match(source, /storedTheme === legacyDefaultTheme/);
+    assert.match(source, /setTheme\(initialTheme, \{ persist: false \}\)/);
+    assert.match(source, /writeStorage\(explicitPreferenceKey, "1"\)/);
   });
 });

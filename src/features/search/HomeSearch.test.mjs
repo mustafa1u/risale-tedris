@@ -45,9 +45,15 @@ describe("homepage search island source contract", () => {
     assert.doesNotMatch(source, /pushState/);
     assert.match(source, /data-global-search-input/);
     assert.match(source, /data-search-result-count/);
+    assert.match(source, /function handleResultNavigation/);
+    assert.match(source, /closeSearch\(\{ restoreFocus: false \}\)/);
+    assert.match(source, /isBookSearchUrl/);
+    assert.match(source, /!isBookSearchUrl\(initialSearch, availableBookSlugs\)/);
     assert.match(source, /result\.bookTitle/);
     assert.match(source, /result\.partNo/);
     assert.match(source, /result\.title/);
+    assert.match(source, /SearchResultExcerpt/);
+    assert.match(source, /result\.highlightRanges/);
     assert.match(source, /localizedPath\(locale, `\/books\/\$\{result\.bookSlug\}\/parts\/\$\{result\.partNo\}\/`\)/);
     assert.match(source, /text\.search\.actions\.clear/);
     assert.match(source, /text\.search\.actions\.close/);

@@ -1,5 +1,6 @@
 import { SEARCH_SCOPES } from "./searchContracts.js";
 import { analyzeSearchText, normalizeSearchText, tokenizeSearchText } from "./searchAnalyzer.js";
+import { createSearchExcerpt } from "./searchSnippets.js";
 
 export const SEARCH_SCORE_WEIGHTS = Object.freeze({
   exactPartNo: 1000,
@@ -57,8 +58,9 @@ function hasAny(counts, requirements) {
   return false;
 }
 
-function resultFor(book, analyzed, score, matchedFields) {
+function resultFor(book, analyzed, score, matchedFields, query = "", mode = "all") {
   const { record } = analyzed;
+  const snippet = createSearchExcerpt(analyzed, matchedFields, query, mode);
   return {
     bookSlug: book.bookSlug,
     bookTitle: book.bookTitle,
@@ -66,7 +68,8 @@ function resultFor(book, analyzed, score, matchedFields) {
     partNumber: record.partNumber,
     title: record.title,
     score,
-    matchedFields
+    matchedFields,
+    ...(snippet ?? {})
   };
 }
 
@@ -326,7 +329,7 @@ export function searchAnalyzedBooks(books, request) {
       if (request.gradeSlug !== null && !record.gradeSlugs.includes(request.gradeSlug)) continue;
 
       if (isEmptyQuery) {
-        candidates.push({ bookIndex, result: resultFor(book, analyzed, 0, []) });
+        candidates.push({ bookIndex, result: resultFor(book, analyzed, 0, [], request.query, request.mode) });
         continue;
       }
       if (!canSearchWords && !(scopes.has("partNo") && isPartNumberQuery)) continue;
@@ -338,7 +341,10 @@ export function searchAnalyzedBooks(books, request) {
           ? (field) => fieldHasPhraseTerms(field, queryTerms)
           : (field) => fieldHasPhrase(field, normalizedQuery));
         if (matchedFields.length === 0) continue;
-        candidates.push({ bookIndex, result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.exactPhrase, matchedFields) });
+        candidates.push({
+          bookIndex,
+          result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.exactPhrase, matchedFields, request.query, request.mode)
+        });
         continue;
       }
 
@@ -347,7 +353,7 @@ export function searchAnalyzedBooks(books, request) {
         if (!evaluated.matches) continue;
         candidates.push({
           bookIndex,
-          result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.booleanMatch, evaluated.fields)
+          result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.booleanMatch, evaluated.fields, request.query, request.mode)
         });
         continue;
       }
@@ -358,14 +364,20 @@ export function searchAnalyzedBooks(books, request) {
           (field) => fieldHasTermsWithinDistance(field, queryTerms, request.proximityDistance)
         );
         if (matchedFields.length === 0) continue;
-        candidates.push({ bookIndex, result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.wildcardMatch, matchedFields) });
+        candidates.push({
+          bookIndex,
+          result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.wildcardMatch, matchedFields, request.query, request.mode)
+        });
         continue;
       }
 
       if (hasWildcard) {
         const matchedFields = matchingFields(fields, (field) => fieldHasWildcardTerms(field, queryTerms));
         if (matchedFields.length === 0) continue;
-        candidates.push({ bookIndex, result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.wildcardMatch, matchedFields) });
+        candidates.push({
+          bookIndex,
+          result: resultFor(book, analyzed, SEARCH_SCORE_WEIGHTS.wildcardMatch, matchedFields, request.query, request.mode)
+        });
         continue;
       }
 
@@ -374,7 +386,7 @@ export function searchAnalyzedBooks(books, request) {
       if (!satisfies(combinedCounts, requirements)) continue;
       const matchedFields = SEARCH_SCOPES.filter((field) => countsByField[field] && hasAny(countsByField[field], requirements));
       const score = scoreRecord(analyzed, requirements, normalizedQuery, countsByField);
-      candidates.push({ bookIndex, result: resultFor(book, analyzed, score, matchedFields) });
+      candidates.push({ bookIndex, result: resultFor(book, analyzed, score, matchedFields, request.query, request.mode) });
     }
   }
 

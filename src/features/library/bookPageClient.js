@@ -1,3 +1,5 @@
+import { renderHighlightedText } from "../search/searchSnippets.js";
+
 export function normalizePartSearchText(value) {
   return String(value ?? "")
     .toLocaleLowerCase("tr-TR")
@@ -63,7 +65,16 @@ export function createPartRowPresenter(root = globalThis.document) {
     };
   }
 
-  function presentOrderedPartNos(orderedPartNos) {
+  function clearSearchExcerpts() {
+    for (const row of originalRows) {
+      const excerpt = row.querySelector?.("[data-search-excerpt]");
+      if (!excerpt) continue;
+      renderHighlightedText(excerpt, "");
+      excerpt.hidden = true;
+    }
+  }
+
+  function reorderRows(orderedPartNos) {
     const orderedRows = [];
     const visibleRows = new Set();
     for (const partNo of orderedPartNos ?? []) {
@@ -82,6 +93,28 @@ export function createPartRowPresenter(root = globalThis.document) {
       if (visibleRows.has(row)) continue;
       row.toggleAttribute("hidden", true);
       partList?.append?.(row);
+    }
+
+    return orderedRows;
+  }
+
+  function presentOrderedPartNos(orderedPartNos) {
+    clearSearchExcerpts();
+    return updateStatus(reorderRows(orderedPartNos).length);
+  }
+
+  function presentSearchResults(results) {
+    clearSearchExcerpts();
+    const safeResults = Array.isArray(results) ? results : [];
+    const orderedRows = reorderRows(safeResults.map((result) => result.partNo));
+    const resultByPartNo = new Map(safeResults.map((result) => [result.partNo, result]));
+
+    for (const row of orderedRows) {
+      const result = resultByPartNo.get(row.getAttribute("data-part-no") ?? "");
+      const excerpt = row.querySelector?.("[data-search-excerpt]");
+      if (!result?.excerpt || !excerpt) continue;
+      renderHighlightedText(excerpt, result.excerpt, result.highlightRanges);
+      excerpt.hidden = false;
     }
 
     return updateStatus(orderedRows.length);
@@ -103,6 +136,7 @@ export function createPartRowPresenter(root = globalThis.document) {
   return {
     presentMetadata,
     presentOrderedPartNos,
+    presentSearchResults,
     reset
   };
 }

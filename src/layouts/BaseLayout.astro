@@ -50,6 +50,8 @@ const themeCurrentHeadings = Object.fromEntries(
 );
 const themeRuntimeConfig = {
   defaultTheme: ACTIVE_THEME,
+  legacyDefaultTheme: "slate",
+  themePreferenceMigration: "risale-tedris-default-v1",
   themes: themeNames,
   navLabels: themeNavLabels,
   currentHeadings: themeCurrentHeadings
@@ -89,25 +91,54 @@ const compactNavigationItems = navigationItems.map((item) => ({
     <script is:inline>
       (() => {
         const storageKey = "rissor-ag-theme";
+        const explicitPreferenceKey = "rissor-ag-theme-explicit";
+        const migrationKey = "rissor-ag-theme-migration";
         const configElement = document.getElementById("rissor-theme-config");
         const config = configElement ? JSON.parse(configElement.textContent || "{}") : {};
         const themes = Array.isArray(config.themes) ? config.themes : [];
         const defaultTheme = themes.includes(config.defaultTheme) ? config.defaultTheme : themes[0];
+        const legacyDefaultTheme = themes.includes(config.legacyDefaultTheme) ? config.legacyDefaultTheme : null;
+        const preferenceMigration = typeof config.themePreferenceMigration === "string"
+          ? config.themePreferenceMigration
+          : "";
         const isValidTheme = (theme) => themes.includes(theme);
-        const storedTheme = (() => {
+        const readStorage = (key) => {
           try {
-            return localStorage.getItem(storageKey);
+            return localStorage.getItem(key);
           } catch {
             return null;
           }
-        })();
-        const initialTheme = isValidTheme(storedTheme) ? storedTheme : defaultTheme;
+        };
+        const writeStorage = (key, value) => {
+          try {
+            localStorage.setItem(key, value);
+          } catch {
+            // Theme persistence is optional for local/dev previews.
+          }
+        };
+        const storedTheme = readStorage(storageKey);
+        const storedMigration = readStorage(migrationKey);
+        const hasExplicitPreference = readStorage(explicitPreferenceKey) === "1";
+        const shouldMigrateLegacyDefault = preferenceMigration
+          && storedMigration !== preferenceMigration
+          && storedTheme === legacyDefaultTheme
+          && !hasExplicitPreference;
+        const initialTheme = shouldMigrateLegacyDefault
+          ? defaultTheme
+          : (isValidTheme(storedTheme) ? storedTheme : defaultTheme);
+
+        if (shouldMigrateLegacyDefault && initialTheme) {
+          writeStorage(storageKey, initialTheme);
+        }
+        if (preferenceMigration && storedMigration !== preferenceMigration) {
+          writeStorage(migrationKey, preferenceMigration);
+        }
 
         if (initialTheme) {
           document.documentElement.dataset.theme = initialTheme;
         }
 
-        const setTheme = (theme) => {
+        const setTheme = (theme, { persist = true } = {}) => {
           const nextTheme = isValidTheme(theme) ? theme : defaultTheme;
           if (!nextTheme) {
             return null;
@@ -118,10 +149,9 @@ const compactNavigationItems = navigationItems.map((item) => ({
             document.body.dataset.theme = nextTheme;
           }
 
-          try {
-            localStorage.setItem(storageKey, nextTheme);
-          } catch {
-            // Theme persistence is optional for local/dev previews.
+          if (persist) {
+            writeStorage(storageKey, nextTheme);
+            writeStorage(explicitPreferenceKey, "1");
           }
 
           document.querySelectorAll("[data-theme-nav-link]").forEach((element) => {
@@ -165,13 +195,13 @@ const compactNavigationItems = navigationItems.map((item) => ({
             return;
           }
 
-          setTheme(trigger.getAttribute("data-theme-option"));
+          setTheme(trigger.getAttribute("data-theme-option"), { persist: true });
         });
 
         if (document.readyState === "loading") {
-          document.addEventListener("DOMContentLoaded", () => setTheme(initialTheme));
+          document.addEventListener("DOMContentLoaded", () => setTheme(initialTheme, { persist: false }));
         } else {
-          setTheme(initialTheme);
+          setTheme(initialTheme, { persist: false });
         }
       })();
     </script>

@@ -17,11 +17,11 @@ describe("book search island source contract", () => {
     assert.doesNotMatch(source, /toggle-book/);
   });
 
-  it("presents ordered worker IDs and retains metadata fallback on load or worker failure", async () => {
+  it("presents ordered worker results with snippets and retains metadata fallback on load or worker failure", async () => {
     const source = await readFile(sourcePath, "utf8");
 
     assert.match(source, /createPartRowPresenter/);
-    assert.match(source, /presentOrderedPartNos\(response\.results\.map\(\(result\) => result\.partNo\)\)/);
+    assert.match(source, /presentSearchResults\(response\.results\)/);
     assert.match(source, /presentMetadata/);
     assert.match(source, /gradeSlug/);
     assert.match(source, /data-book-search-input/);

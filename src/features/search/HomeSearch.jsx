@@ -25,6 +25,7 @@ import {
   writeSearchHistorySnapshot
 } from "./searchUrlState.js";
 import { createSearchWorkerClient } from "./searchWorkerClient.js";
+import { getHighlightedSegments } from "./searchSnippets.js";
 
 const MAX_RESULTS = 50;
 const PRESENTATION_CONTEXT = "global";
@@ -38,6 +39,11 @@ function createInitialGlobalSearchState(availableBookSlugs) {
   } catch {
     return createGlobalSearchState(availableBookSlugs);
   }
+}
+
+function isBookSearchUrl(search, availableBookSlugs) {
+  const requestedContext = new URLSearchParams(search).get("context");
+  return availableBookSlugs.includes(requestedContext);
 }
 
 function toWorkerRequest(state) {
@@ -69,15 +75,33 @@ function SearchIcon() {
   );
 }
 
+function SearchResultExcerpt({ result }) {
+  if (!result.excerpt) return null;
+  return (
+    <span class="search-result__excerpt">
+      {getHighlightedSegments(result.excerpt, result.highlightRanges).map((segment, index) => (
+        segment.highlighted
+          ? <mark class="search-result__match" key={index}>{segment.text}</mark>
+          : <span key={index}>{segment.text}</span>
+      ))}
+    </span>
+  );
+}
+
 export default function HomeSearch({ locale, manifestUrl, books }) {
   const text = getUi(locale);
+  const initialSearch = globalThis.location?.search ?? "";
+  const availableBookSlugs = books.map((book) => book.slug);
   const [state, dispatch] = useReducer(searchReducer, books.map((book) => book.slug), createInitialGlobalSearchState);
   const historySnapshotRef = useRef(undefined);
   if (historySnapshotRef.current === undefined) {
     historySnapshotRef.current = readSearchHistorySnapshot(state);
   }
   const initialHistorySnapshot = historySnapshotRef.current;
-  const [open, setOpen] = useState(() => Boolean(state.query) || readSearchExpandedState(PRESENTATION_CONTEXT));
+  const [open, setOpen] = useState(
+    () => !isBookSearchUrl(initialSearch, availableBookSlugs)
+      && (Boolean(state.query) || readSearchExpandedState(PRESENTATION_CONTEXT))
+  );
   const [status, setStatus] = useState(() => initialHistorySnapshot ? "restored" : "idle");
   const [readiness, setReadiness] = useState(null);
   const [results, setResults] = useState(() => initialHistorySnapshot?.results ?? []);
@@ -367,6 +391,11 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
     });
   }
 
+  function handleResultNavigation() {
+    captureSearchHistorySnapshot();
+    closeSearch({ restoreFocus: false });
+  }
+
   function bookSearchHref(result) {
     const bookState = transferSearchContext(state, {
       context: "book",
@@ -486,18 +515,19 @@ export default function HomeSearch({ locale, manifestUrl, books }) {
                           class="search-result__link"
                           href={localizedPath(locale, `/books/${result.bookSlug}/parts/${result.partNo}/`)}
                           data-search-result-link
-                          onClick={captureSearchHistorySnapshot}
+                          onClick={handleResultNavigation}
                         >
                           <span class="search-result__book">{result.bookTitle}</span>
                           <span class="search-result__part">{result.partNo.toUpperCase()}</span>
                           <strong>{result.title}</strong>
                           {result.matchedFields.includes("text") ? <small>{text.search.results.fromText}</small> : null}
+                          <SearchResultExcerpt result={result} />
                         </a>
                         <a
                           class="button-muted"
                           href={bookSearchHref(result)}
                           data-search-within-book
-                          onClick={captureSearchHistorySnapshot}
+                          onClick={handleResultNavigation}
                         >
                           {text.search.actions.searchWithinBook}
                         </a>
