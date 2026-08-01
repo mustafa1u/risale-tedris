@@ -1,6 +1,7 @@
 ---
 import { NAV_ITEMS } from "@/config/navigation";
 import { groupBooksBySlug } from "@/config/bookGroups";
+import { SEARCH_ENABLED } from "@/config/features.js";
 import { ACTIVE_THEME, THEMES, type ThemeName } from "@/config/themes";
 import { libraryIndex } from "@/data/library.generated";
 import { DEFAULT_LOCALE, getUi, ui, type Locale } from "@/i18n";
@@ -23,6 +24,12 @@ type Props = {
 
 const { title, locale = DEFAULT_LOCALE, globalSearch } = Astro.props as Props;
 const text = getUi(locale);
+const resolvedGlobalSearch = globalSearch ?? (SEARCH_ENABLED
+  ? {
+      manifestUrl: libraryIndex.search.manifestUrl,
+      books: libraryIndex.books.map((book) => book.search)
+    }
+  : undefined);
 const description = Astro.props.description ?? text.layout.defaultDescription;
 const siteTitle = text.layout.siteTitle;
 const pageTitle = `${title} | ${siteTitle}`;
@@ -231,13 +238,13 @@ const compactNavigationItems = navigationItems.map((item) => ({
       </div>
     ))}
 </nav>
-            {globalSearch ? (
+            {resolvedGlobalSearch ? (
               <div
                 class="home-search-host"
                 data-home-search-host
                 data-locale={locale}
-                data-manifest-url={globalSearch.manifestUrl}
-                data-books={JSON.stringify(globalSearch.books)}
+                data-manifest-url={resolvedGlobalSearch.manifestUrl}
+                data-books={JSON.stringify(resolvedGlobalSearch.books)}
               >
                 <button
                   class="home-search__trigger"

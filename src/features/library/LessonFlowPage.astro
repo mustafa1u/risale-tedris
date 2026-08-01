@@ -14,10 +14,30 @@ const lessonFlowVideos = text.home.lessonFlow.videos.map((video, index) => ({
 <BaseLayout title={text.nav.lessonFlow} description={text.home.description} locale={locale}>
   <section class="page-band lesson-flow-page">
     <div class="page-band__inner">
-      <header class="page-title lesson-flow-page__intro">
-        <p class="eyebrow">{text.home.hero.eyebrow}</p>
-        <h1>{text.nav.lessonFlow}</h1>
-        <p class="lede">{text.home.mixedAgeLead}</p>
+      <header class="lesson-flow-page__hero">
+        <div class="lesson-flow-page__intro">
+          <p class="eyebrow">{text.home.hero.eyebrow}</p>
+          <h1>{text.nav.lessonFlow}</h1>
+          <p class="lede">{text.home.lessonFlow.intro}</p>
+          <p class="lesson-flow-page__context">{text.home.mixedAgeLead}</p>
+        </div>
+
+        <aside class="lesson-flow-overview" aria-labelledby="lesson-flow-overview-heading">
+          <p class="lesson-flow-overview__label" id="lesson-flow-overview-heading">
+            {text.home.lessonFlow.overviewHeading}
+          </p>
+          <ol>
+            {text.home.lessonFlow.overview.map((item, index) => (
+              <li>
+                <span class="lesson-flow-overview__number">{String(index + 1).padStart(2, "0")}</span>
+                <span>
+                  <strong>{item.label}</strong>
+                  <span>{item.value}</span>
+                </span>
+              </li>
+            ))}
+          </ol>
+        </aside>
       </header>
 
       <section class="lesson-flow-media" aria-labelledby="lesson-flow-media-heading">
@@ -33,43 +53,591 @@ const lessonFlowVideos = text.home.lessonFlow.videos.map((video, index) => ({
                 <video controls preload="metadata" playsinline src={video.src}></video>
               </div>
               <div class="lesson-flow-video-card__body">
+                <p class="lesson-flow-video-card__kicker">{video.duration}</p>
                 <h3>{video.title}</h3>
                 <p>{video.description}</p>
-                <small>{video.duration}</small>
               </div>
+            </article>
+          ))}
+        </div>
+        <aside class="lesson-flow-card-system" aria-labelledby="lesson-flow-card-system-heading">
+          <div>
+            <p class="lesson-flow-card-system__label">{text.home.lessonFlow.overviewHeading}</p>
+            <h3 id="lesson-flow-card-system-heading">{text.home.lessonFlow.cardSystem.heading}</h3>
+            <p>{text.home.lessonFlow.cardSystem.body}</p>
+          </div>
+          <ul>
+            {text.home.lessonFlow.cardSystem.items.map((item) => <li>{item}</li>)}
+          </ul>
+        </aside>
+      </section>
+
+      <section class="lesson-flow-procedure" aria-labelledby="lesson-flow-procedure-heading">
+        <header class="lesson-flow-procedure__head">
+          <div>
+            <p class="eyebrow">{text.home.lessonFlow.overviewHeading}</p>
+            <h2 id="lesson-flow-procedure-heading">{text.home.lessonFlow.heading}</h2>
+          </div>
+          <p>
+            {locale === "tr"
+              ? "Her adımda ne hazırlanacağını, sınıfta ne yapılacağını ve dönemin nasıl tamamlanacağını takip edin."
+              : "Follow what to prepare, what happens in class, and how the term is completed."}
+          </p>
+        </header>
+
+        <ol class="lesson-flow" aria-label={text.home.lessonFlow.heading}>
+          {text.home.lessonFlow.steps.map((step, index) => (
+            <li class:list={["lesson-flow-step", { "lesson-flow-step--milestone": index > 4 }]}>
+              <div class="lesson-flow-step__marker" aria-hidden="true">
+                <span>{String(index + 1).padStart(2, "0")}</span>
+              </div>
+              <div class="lesson-flow-step__body">
+                <div class="lesson-flow-step__meta">
+                  <span>{step.phase}</span>
+                  <time>{step.time}</time>
+                </div>
+                <h3>{step.title}</h3>
+                <p>{step.body}</p>
+                <ul>
+                  {step.details.map((detail) => <li>{detail}</li>)}
+                </ul>
+              </div>
+            </li>
+          ))}
+        </ol>
+      </section>
+
+      <section class="lesson-flow-support" aria-labelledby="lesson-flow-support-heading">
+        <div class="lesson-flow-section-heading">
+          <p class="eyebrow">{text.home.lessonFlow.overviewHeading}</p>
+          <h2 id="lesson-flow-support-heading">{text.home.lessonFlow.supportHeading}</h2>
+        </div>
+        <div class="home-value-grid">
+          {text.home.lessonFlow.supportItems.map((item) => (
+            <article class="home-value-card">
+              <span class="lesson-flow-support-card__dot" aria-hidden="true"></span>
+              <h3>{item.title}</h3>
+              <p>{item.body}</p>
             </article>
           ))}
         </div>
       </section>
 
-      <div class="home-flow-layout">
-        <div>
-          <h2>{text.home.lessonFlow.heading}</h2>
-          <ol class="lesson-flow">
-            {text.home.lessonFlow.steps.map((step) => <li>{step}</li>)}
-          </ol>
+      <div class="home-flow-layout lesson-flow-footer-grid">
+        <div class="lesson-flow-mixed-age">
+          <div class="lesson-flow-section-heading">
+            <p class="eyebrow">{text.home.lessonFlow.overviewHeading}</p>
+            <h2>{text.home.lessonFlow.mixedAgeClass.summary}</h2>
+          </div>
           <details class="home-flow-detail" open>
             <summary>{text.home.lessonFlow.mixedAgeClass.summary}</summary>
             <p>{text.home.lessonFlow.mixedAgeClass.body}</p>
           </details>
         </div>
         <aside class="home-note">
+          <p class="home-note__label">{text.home.lessonFlow.overviewHeading}</p>
           <h2>{text.home.desktopAppNote.heading}</h2>
           <p>{text.home.desktopAppNote.body}</p>
         </aside>
       </div>
-
-      <section class="lesson-flow-page__benefits" aria-labelledby="lesson-benefits-heading">
-        <h2 id="lesson-benefits-heading">{text.home.valueHeading}</h2>
-        <div class="home-value-grid">
-          {text.home.valueCards.map((card) => (
-            <article class="home-value-card">
-              <h3>{card.title}</h3>
-              <p>{card.body}</p>
-            </article>
-          ))}
-        </div>
-      </section>
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .lesson-flow-page {
+    overflow: hidden;
+    background:
+      radial-gradient(circle at 96% 0%, color-mix(in srgb, var(--accent) 11%, transparent), transparent 24rem),
+      var(--page);
+  }
+
+  .lesson-flow-page__hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(280px, 0.62fr);
+    gap: clamp(28px, 6vw, 84px);
+    align-items: end;
+    padding: clamp(22px, 5vw, 64px) 0 clamp(42px, 7vw, 82px);
+  }
+
+  .lesson-flow-page__intro {
+    display: grid;
+    gap: 14px;
+    max-width: 780px;
+    margin: 0;
+  }
+
+  .lesson-flow-page h1 {
+    max-width: 700px;
+    margin: 0;
+    color: var(--text);
+    font-size: clamp(2.6rem, 7vw, 5.9rem);
+    line-height: 0.96;
+    letter-spacing: -0.055em;
+  }
+
+  .lesson-flow-page__intro .lede {
+    max-width: 680px;
+    margin: 4px 0 0;
+    color: var(--text);
+    font-size: clamp(1.1rem, 2vw, 1.35rem);
+    line-height: 1.48;
+  }
+
+  .lesson-flow-page__context {
+    max-width: 680px;
+    margin: 0;
+    padding-left: 16px;
+    color: var(--text-muted);
+    border-left: 3px solid var(--accent);
+    line-height: 1.65;
+  }
+
+  .lesson-flow-overview {
+    padding: 22px;
+    color: var(--accent-text);
+    border-radius: 18px;
+    background: linear-gradient(145deg, var(--accent-strong), var(--accent));
+    box-shadow: 0 18px 42px color-mix(in srgb, var(--accent-strong) 22%, transparent);
+  }
+
+  .lesson-flow-overview__label {
+    margin: 0 0 18px;
+    color: inherit;
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .lesson-flow-overview ol {
+    display: grid;
+    gap: 14px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .lesson-flow-overview li {
+    display: grid;
+    grid-template-columns: 34px 1fr;
+    gap: 12px;
+    align-items: start;
+  }
+
+  .lesson-flow-overview li > span:last-child {
+    display: grid;
+    gap: 2px;
+  }
+
+  .lesson-flow-overview strong {
+    font-size: 0.94rem;
+  }
+
+  .lesson-flow-overview li > span:last-child > span {
+    color: color-mix(in srgb, var(--accent-text) 78%, transparent);
+    font-size: 0.88rem;
+    line-height: 1.4;
+  }
+
+  .lesson-flow-overview__number {
+    color: color-mix(in srgb, var(--accent-text) 74%, transparent);
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+  }
+
+  .lesson-flow-media {
+    margin: 0 0 clamp(38px, 7vw, 80px);
+    padding: clamp(18px, 3vw, 30px);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    background: color-mix(in srgb, var(--surface) 88%, var(--surface-muted));
+  }
+
+  .lesson-flow-media__head {
+    max-width: 720px;
+    margin-bottom: 20px;
+  }
+
+  .lesson-flow-media__head h2,
+  .lesson-flow-media__head p {
+    margin: 0;
+  }
+
+  .lesson-flow-media__head h2 {
+    margin-top: 5px;
+  }
+
+  .lesson-flow-media__head p:not(.eyebrow) {
+    margin-top: 8px;
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+
+  .lesson-flow-video-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 16px;
+  }
+
+  .lesson-flow-video-card {
+    display: grid;
+    grid-template-columns: minmax(0, 1.35fr) minmax(220px, 0.65fr);
+    gap: 18px;
+    align-items: center;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .lesson-flow-video-card__player {
+    overflow: hidden;
+    border-radius: 14px;
+    background: #120b0a;
+    box-shadow: 0 10px 24px rgba(23, 36, 43, 0.16);
+  }
+
+  .lesson-flow-video-card__body {
+    display: grid;
+    gap: 8px;
+  }
+
+  .lesson-flow-video-card__body h3,
+  .lesson-flow-video-card__body p {
+    margin: 0;
+  }
+
+  .lesson-flow-video-card__body p:not(.lesson-flow-video-card__kicker) {
+    color: var(--text-muted);
+    line-height: 1.55;
+  }
+
+  .lesson-flow-video-card__kicker {
+    margin: 0;
+    color: var(--accent-strong);
+    font-size: 0.8rem;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .lesson-flow-card-system {
+    display: grid;
+    grid-template-columns: minmax(220px, 0.72fr) minmax(0, 1.28fr);
+    gap: 24px;
+    margin-top: 22px;
+    padding-top: 22px;
+    border-top: 1px solid var(--border);
+  }
+
+  .lesson-flow-card-system h3,
+  .lesson-flow-card-system p {
+    margin: 0;
+  }
+
+  .lesson-flow-card-system h3 {
+    margin-top: 5px;
+    font-size: clamp(1.2rem, 2vw, 1.55rem);
+  }
+
+  .lesson-flow-card-system > div > p:last-child {
+    margin-top: 9px;
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+
+  .lesson-flow-card-system__label {
+    color: var(--accent-strong);
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .lesson-flow-card-system ul {
+    display: grid;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .lesson-flow-card-system li {
+    position: relative;
+    padding-left: 19px;
+    color: var(--text-muted);
+    line-height: 1.55;
+  }
+
+  .lesson-flow-card-system li::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: var(--accent);
+    content: "→";
+    font-weight: 900;
+  }
+
+  .lesson-flow-procedure {
+    padding: clamp(24px, 5vw, 52px);
+    border-radius: 22px;
+    color: var(--text);
+    background: var(--surface);
+    box-shadow: var(--shadow);
+  }
+
+  .lesson-flow-procedure__head {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 24px;
+    margin-bottom: 34px;
+  }
+
+  .lesson-flow-procedure__head h2,
+  .lesson-flow-section-heading h2 {
+    margin: 5px 0 0;
+    font-size: clamp(1.7rem, 3.2vw, 2.75rem);
+    line-height: 1.08;
+    letter-spacing: -0.035em;
+  }
+
+  .lesson-flow-procedure__head > p {
+    max-width: 340px;
+    margin: 0;
+    color: var(--text-muted);
+    line-height: 1.55;
+  }
+
+  .lesson-flow {
+    position: relative;
+    display: grid;
+    gap: 14px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .lesson-flow::before {
+    position: absolute;
+    top: 25px;
+    bottom: 25px;
+    left: 23px;
+    width: 1px;
+    background: var(--border);
+    content: "";
+  }
+
+  .lesson-flow-page .lesson-flow > li.lesson-flow-step {
+    position: relative;
+    display: grid;
+    grid-template-columns: 48px minmax(0, 1fr);
+    gap: 18px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+  }
+
+  .lesson-flow-step__marker {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    width: 48px;
+    height: 48px;
+    place-items: center;
+    color: var(--accent-text);
+    border: 6px solid var(--surface);
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 0 1px var(--accent);
+    font-size: 0.75rem;
+    font-weight: 900;
+    letter-spacing: 0.06em;
+  }
+
+  .lesson-flow-step--milestone .lesson-flow-step__marker {
+    background: var(--accent-strong);
+  }
+
+  .lesson-flow-step__body {
+    min-width: 0;
+    padding: 3px 0 24px;
+  }
+
+  .lesson-flow-step:last-child .lesson-flow-step__body {
+    padding-bottom: 0;
+  }
+
+  .lesson-flow-step__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+    align-items: center;
+    margin-bottom: 7px;
+    color: var(--accent-strong);
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+  }
+
+  .lesson-flow-step__meta time {
+    color: var(--text-muted);
+    font-weight: 650;
+    letter-spacing: 0.02em;
+    text-transform: none;
+  }
+
+  .lesson-flow-step h3 {
+    margin: 0;
+    font-size: clamp(1.1rem, 2vw, 1.45rem);
+    line-height: 1.25;
+  }
+
+  .lesson-flow-step__body > p {
+    max-width: 760px;
+    margin: 8px 0 12px;
+    color: var(--text-muted);
+    line-height: 1.65;
+  }
+
+  .lesson-flow-step__body ul {
+    display: grid;
+    gap: 5px;
+    margin: 0;
+    padding: 0;
+    color: var(--text-muted);
+    list-style: none;
+    font-size: 0.92rem;
+  }
+
+  .lesson-flow-step__body ul li {
+    padding: 0 0 0 18px !important;
+    background: transparent !important;
+    line-height: 1.5;
+  }
+
+  .lesson-flow-step__body ul li::before {
+    position: absolute;
+    margin-left: -17px;
+    color: var(--ok);
+    content: "✓";
+    font-weight: 900;
+  }
+
+  .lesson-flow-support {
+    padding: clamp(38px, 7vw, 76px) 0 0;
+  }
+
+  .lesson-flow-section-heading {
+    margin-bottom: 20px;
+  }
+
+  .lesson-flow-support .home-value-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+  }
+
+  .lesson-flow-support .home-value-card {
+    min-height: 0;
+    gap: 10px;
+    padding: 20px;
+    border-radius: 16px;
+    background: var(--surface);
+  }
+
+  .lesson-flow-support-card__dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 0 5px color-mix(in srgb, var(--accent) 12%, transparent);
+  }
+
+  .lesson-flow-support .home-value-card h3 {
+    font-size: 1.05rem;
+  }
+
+  .lesson-flow-footer-grid {
+    margin-top: clamp(28px, 5vw, 54px);
+    align-items: stretch;
+  }
+
+  .lesson-flow-mixed-age {
+    padding: 4px 0;
+  }
+
+  .lesson-flow-mixed-age .lesson-flow-section-heading {
+    margin-bottom: 14px;
+  }
+
+  .lesson-flow-mixed-age .home-flow-detail {
+    margin-top: 0;
+    border-radius: 14px;
+  }
+
+  .lesson-flow-footer-grid .home-note {
+    align-self: stretch;
+    border-radius: 16px;
+  }
+
+  .home-note__label {
+    margin-bottom: 6px !important;
+    color: var(--accent-strong) !important;
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  @media (max-width: 860px) {
+    .lesson-flow-page__hero {
+      grid-template-columns: 1fr;
+    }
+
+    .lesson-flow-overview {
+      max-width: 560px;
+    }
+
+    .lesson-flow-support .home-value-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .lesson-flow-page__hero {
+      padding-top: 28px;
+    }
+
+    .lesson-flow-procedure__head,
+    .lesson-flow-video-card,
+    .lesson-flow-card-system {
+      display: grid;
+      grid-template-columns: 1fr;
+      align-items: start;
+    }
+
+    .lesson-flow-procedure {
+      padding: 22px 16px;
+      border-radius: 16px;
+    }
+
+    .lesson-flow::before {
+      left: 19px;
+    }
+
+    .lesson-flow-page .lesson-flow > li.lesson-flow-step {
+      grid-template-columns: 40px minmax(0, 1fr);
+      gap: 12px;
+    }
+
+    .lesson-flow-step__marker {
+      width: 40px;
+      height: 40px;
+      border-width: 5px;
+      font-size: 0.68rem;
+    }
+  }
+</style>

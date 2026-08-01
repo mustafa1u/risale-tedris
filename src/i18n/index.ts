@@ -69,15 +69,37 @@ type UiDictionary = {
       body: string;
     }>;
     lessonFlow: {
+      intro: string;
+      overviewHeading: string;
+      overview: Array<{
+        label: string;
+        value: string;
+      }>;
       mediaHeading: string;
       mediaLead: string;
+      cardSystem: {
+        heading: string;
+        body: string;
+        items: string[];
+      };
       videos: Array<{
         title: string;
         description: string;
         duration: string;
       }>;
       heading: string;
-      steps: string[];
+      steps: Array<{
+        phase: string;
+        title: string;
+        time: string;
+        body: string;
+        details: string[];
+      }>;
+      supportHeading: string;
+      supportItems: Array<{
+        title: string;
+        body: string;
+      }>;
       mixedAgeClass: {
         summary: string;
         body: string;
@@ -452,24 +474,123 @@ export const ui = {
         }
       ],
       lessonFlow: {
-        mediaHeading: "Ders videoları",
+        intro:
+          "Bu sayfa, bir dersin hazırlığından dönem sonu finaline kadar izlenecek uygulama sırasını gösterir.",
+        overviewHeading: "Akış özeti",
+        overview: [
+          { label: "Ders öncesi", value: "Parçayı ve seviyeleri hazırla" },
+          { label: "Ders içinde", value: "Kart → metin → soru" },
+          { label: "Dönem sonunda", value: "Final → puan → ödül" }
+        ],
+        mediaHeading: "Bilgi kartlarının hazırlanması",
         mediaLead:
-          "Yazılı akışı okurken bu kısa videoları da izleyebilirsiniz. Videolar özellikle bilgi kartlarının niçin bu şekilde hazırlandığını ve sınıfta nasıl kullanılacağını gösterir.",
+          "Bu video, bilgi kartlarının basım için nasıl hazırlandığını ve dört bölüme ayrılarak sınıfta nasıl dönüşümlü kullanıldığını anlatır.",
+        cardSystem: {
+          heading: "4 bölümlü kart sistemi",
+          body:
+            "Amaç, aynı anda daha fazla talebenin çalışmasını sağlamak ve bir talebe kendi bölümünü bitiremese bile metnin başından sonuna kadar ilerlemesini korumaktır.",
+          items: [
+            "24 kartlık bir set 4 bölümdür; her bölüm 6 kart içerir.",
+            "İki set toplam 8 bölüm eder. Bu sayı öğrenci sayısından fazla olabilir; örneğin 6 öğrenci 8 bölümden sırayla yararlanır.",
+            "Bir talebe kendi bölümünü bitirince bölümü kart havuzuna bırakır ve kalan bölümlerden yenisini alır.",
+            "Bölümler 4'er adımlı sırayla hazırlanır: 1, 5, 9, 13…; 2, 6, 10, 14…; 3, 7, 11, 15…; 4, 8, 12, 16…. Böylece her öğrenci metnin başından sonuna yayılmış sorular görür."
+          ]
+        },
         videos: [
           {
-            title: "Bilgi kartları nasıl kullanılır?",
+            title: "Bilgi kartları nasıl hazırlanır ve kullanılır?",
             description:
-              "Hazırlanan bilgi kartlarının ders öncesi, ders esnası ve tekrar aşamasında nasıl kullanılacağını gösterir.",
-            duration: "Video"
+              "24 kartlık bir set 4 bölüme ayrılır. Her bölüm 6 karttan oluşur ve 1, 5, 9… veya 2, 6, 10… gibi 4'er adımlı bir sıra izler.",
+            duration: "Hazırlama videosu"
           }
         ],
-        heading: "Bir ders nasıl yürütülür?",
+        heading: "Bir ders baştan sona nasıl yürütülür?",
         steps: [
-          "Kitabı ve işlenecek parçayı seçin.",
-          "Her talebenin okul sınıf aralığına uygun materyali belirleyin.",
-          "Herkes aynı parçayı okurken her talebe kendi seviyesindeki bilgi kartı veya soru kağıdıyla çalışsın.",
-          "Talebeler metin açıkken soruları cevaplasın.",
-          "Dersi yürüten kişi cevabı doğrudan söylemeden talebeyi ilgili paragrafa yönlendirsin."
+          {
+            phase: "Ders öncesi",
+            title: "Parçayı ve materyali hazırlayın",
+            time: "Başlamadan önce",
+            body: "Kitabı ve o gün işlenecek parçayı seçin; ilgili sınıf seviyeleri için soru kağıtlarını, cevap anahtarlarını ve bilgi kartlarını açın.",
+            details: [
+              "Her öğrenci için okul sınıf aralığına uygun materyali ayırın.",
+              "Aynı parça için farklı soru setleri varsa öğrenciler arasında paylaştırın."
+            ]
+          },
+          {
+            phase: "1. bölüm",
+            title: "Bilgi kartlarıyla başlayın",
+            time: "Yaklaşık 20 dakika",
+            body: "Kartları dağıtın. Talebeler soruyu okuyup cevabı hatırlamaya çalışsın, ardından kartı çevirerek kontrol etsin.",
+            details: [
+              "Kısa ezber ve derse hazırlık için kullanılır.",
+              "Süre bitince kartları toplayıp soru kağıtlarına geçin."
+            ]
+          },
+          {
+            phase: "2. bölüm",
+            title: "Metni açın ve soru kağıtlarını dağıtın",
+            time: "40 dakika – 1 saat",
+            body: "Talebeler risale parçası açıkken kendi seviyelerine ait soruları cevaplasın. Cevap, genel bilgiden değil, okunan metinden bulunur.",
+            details: [
+              "Herkes aynı parçayı çalışabilir; çalışma materyali seviyeye göre farklılaşır.",
+              "Gerekirse farklı yaş grupları aynı oturumda farklı parçalarla ilerleyebilir."
+            ]
+          },
+          {
+            phase: "Ders boyunca",
+            title: "Öğretici dolaşır, yönlendirir ve kontrol eder",
+            time: "Çalışma süresince",
+            body: "Dersi yürüten kişi sınıfta dolaşır, talebelerin takıldığı yeri görür ve cevabı doğrudan vermeden ilgili paragrafa geri yönlendirir.",
+            details: [
+              "Cevap anahtarı kontrol için kullanılır.",
+              "Farklı soru setleri birebir ilgiyi ve düzeni kolaylaştırır; cevabı doğrudan söylemeden talebeyi ilgili paragrafa yönlendirsin."
+            ]
+          },
+          {
+            phase: "Ders sonu",
+            title: "Cevapları tamamlayın ve kısa tekrar yapın",
+            time: "Kapanış",
+            body: "Soru kağıtlarını cevap anahtarıyla kontrol edin; eksik veya yanlış kalan noktaları metne dönerek tamamlayın.",
+            details: [
+              "Bilgi kartları ders sonrasında tekrar için yeniden kullanılabilir.",
+              "Bir sonraki derste hangi parçaya geçileceğini netleştirin."
+            ]
+          },
+          {
+            phase: "Dönem sonu",
+            title: "Final sınavını dönem boyunca biriktirilen içerikten oluşturun",
+            time: "Dönem sonunda",
+            body: "Dönem içinde okunan bütün risalelerden soru seçin ve final sınavını oluşturun. Böylece tek bir parçayı değil, bütün dönemi tekrar ettirin.",
+            details: [
+              "Mevcut sorular arasından final sınavında kullanılacak soruları seçin.",
+              "Sınav, o dönem gerçekten işlenen içerikle sınırlı tutulur."
+            ]
+          },
+          {
+            phase: "Final sonrası",
+            title: "Puanları takip edin ve ödülü dağıtın",
+            time: "Dönem kapanışı",
+            body: "Final ve dönem içi çalışmaların puanlarını toplayın. Ödülü yalnızca ilk üçe değil, puanla orantılı biçimde dağıtmak daha geniş bir katılımı teşvik eder.",
+            details: [
+              "Puan ve ödül takibi bu web uygulamasında henüz otomatik değildir.",
+              "Öğretici veya kurum puanları ayrıca kaydedip takip eder."
+            ]
+          }
+        ],
+        supportHeading: "Akışın üç sabit noktası",
+        supportItems: [
+          {
+            title: "Metin masada açık kalır",
+            body: "Soru, talebeyi ezberden değil, okunan paragraftan cevap bulmaya yönlendirir."
+          },
+          {
+            title: "Materyal kişiye göre ayrılır",
+            body: "Aynı derste farklı yaşlar bulunabilir; her talebe kendi okul seviyesindeki kart ve soru kağıdıyla çalışır."
+          },
+          {
+            title: "Takip dönem boyunca sürer",
+            body: "Ders içi çalışmalar finalde bir araya gelir; puan ve ödül süreci ayrıca takip edilerek kapanır."
+          }
         ],
         mixedAgeClass: {
           summary: "Karışık sınıfta nasıl uygulanır?",
@@ -875,24 +996,123 @@ export const ui = {
         }
       ],
       lessonFlow: {
-        mediaHeading: "Lesson videos",
+        intro:
+          "This page shows the practical sequence from preparing a lesson to the end-of-term final.",
+        overviewHeading: "Flow at a glance",
+        overview: [
+          { label: "Before class", value: "Prepare the part and levels" },
+          { label: "In class", value: "Cards → text → questions" },
+          { label: "At term end", value: "Final → points → rewards" }
+        ],
+        mediaHeading: "How the flashcards are prepared",
         mediaLead:
-          "Watch these short videos alongside the written flow. They explain why the flashcards are prepared this way and how they are used in class.",
+          "This video explains how the flashcards are prepared for printing and how four divisions are rotated in class.",
+        cardSystem: {
+          heading: "The four-division card system",
+          body:
+            "The aim is to let more students study at the same time while preserving a path through the text from beginning to end, even when a student cannot finish one division.",
+          items: [
+            "One 24-card set has 4 divisions; each division contains 6 cards.",
+            "Two sets make 8 divisions in total. That can be more than the number of students; for example, 6 students can rotate through 8 divisions.",
+            "When a student finishes a division, they return it to the card pool and take another remaining division.",
+            "The divisions use a step size of 4: 1, 5, 9, 13…; 2, 6, 10, 14…; 3, 7, 11, 15…; 4, 8, 12, 16…. This lets every student encounter the text from beginning to end."
+          ]
+        },
         videos: [
           {
-            title: "How to use the flashcards",
+            title: "How the flashcards are prepared and used",
             description:
-              "Shows how the prepared flashcards are used before the lesson, during class, and for review.",
-            duration: "Video"
+              "A 24-card set is divided into 4 divisions of 6 cards, with each division following a step-of-4 sequence such as 1, 5, 9… or 2, 6, 10….",
+            duration: "Preparation video"
           }
         ],
-        heading: "How does one lesson run?",
+        heading: "How does one lesson run from start to finish?",
         steps: [
-          "Choose the book and the part for the lesson.",
-          "Choose material suited to each student's school grade range.",
-          "Everyone can read the same part while each student works with their own flashcards or question sheet.",
-          "Students answer the questions while the source text is open.",
-          "The lesson leader does not give the answer directly; they guide each student back to the relevant paragraph."
+          {
+            phase: "Before class",
+            title: "Prepare the part and materials",
+            time: "Before starting",
+            body: "Choose the book and part, then open the question sheets, answer keys, and flashcards for the relevant school ranges.",
+            details: [
+              "Set aside material suited to each student's school grade range.",
+              "Distribute different question sets when several sets are available for the same part."
+            ]
+          },
+          {
+            phase: "Part 1",
+            title: "Begin with flashcards",
+            time: "About 20 minutes",
+            body: "Hand out the cards. Students read the question, try to recall the answer, then turn the card over to check.",
+            details: [
+              "Use them for short memorisation and preparation.",
+              "Collect the cards before moving to the question sheets."
+            ]
+          },
+          {
+            phase: "Part 2",
+            title: "Open the text and hand out question sheets",
+            time: "40 minutes – 1 hour",
+            body: "Students answer their level's questions with the Risale part open. The answers come from the text being studied, not general knowledge.",
+            details: [
+              "Everyone can study the same part while the material changes by level.",
+              "Different age groups can work on different parts in the same session when needed."
+            ]
+          },
+          {
+            phase: "During class",
+            title: "The lesson leader circulates and guides",
+            time: "During study time",
+            body: "The lesson leader moves around the room, notices where students are stuck, and guides them back to the relevant paragraph instead of giving the answer directly.",
+            details: [
+              "Use the answer key for checking.",
+              "Different question sets make one-to-one support easier to manage; guide each student back to the relevant paragraph."
+            ]
+          },
+          {
+            phase: "Close",
+            title: "Complete the answers and review",
+            time: "Lesson close",
+            body: "Check the question sheets against the answer key and return to the text for anything incomplete or incorrect.",
+            details: [
+              "Reuse the flashcards for review after class.",
+              "Confirm which part will be studied next."
+            ]
+          },
+          {
+            phase: "End of term",
+            title: "Build the final from the term's studied content",
+            time: "At term end",
+            body: "Select questions from all Risale parts studied during the term and assemble the final exam, bringing the whole period back into review.",
+            details: [
+              "Select the questions to use in the final from the existing question bank.",
+              "Keep the exam within the content actually covered that term."
+            ]
+          },
+          {
+            phase: "After the final",
+            title: "Track points and distribute rewards",
+            time: "Term close",
+            body: "Add up points from the term's work and final. A reward proportional to points, rather than limited to the top three, encourages wider participation.",
+            details: [
+              "Point and reward tracking is not automated in this web app yet.",
+              "The lesson leader or institution records and follows the points separately."
+            ]
+          }
+        ],
+        supportHeading: "Three things stay consistent",
+        supportItems: [
+          {
+            title: "The text stays open",
+            body: "Questions send students back to the paragraph rather than relying on memorisation alone."
+          },
+          {
+            title: "Material follows the student",
+            body: "Different ages can share one lesson; each student works with cards and questions for their school range."
+          },
+          {
+            title: "The term connects to the final",
+            body: "Lesson work comes together at the final, while points and rewards are tracked separately to close the period."
+          }
         ],
         mixedAgeClass: {
           summary: "How does this work in a mixed-age class?",

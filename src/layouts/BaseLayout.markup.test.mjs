@@ -92,7 +92,7 @@ describe("BaseLayout markup contract", () => {
     );
   });
 
-  it("inserts the optional homepage search island immediately before the native menu", async () => {
+  it("inserts the feature-gated global search island on every page immediately before the native menu", async () => {
     const source = await readFile(sourcePath, "utf8");
     const searchIndex = source.indexOf("data-home-search-host");
     const menuIndex = source.indexOf('<details class="site-menu" data-site-menu>');
@@ -102,6 +102,10 @@ describe("BaseLayout markup contract", () => {
     assert.equal(menuIndex > searchIndex, true);
     assert.match(source, /data-home-search-host/);
     assert.match(source, /data-global-search-trigger/);
+    assert.match(source, /import \{ SEARCH_ENABLED \} from "@\/config\/features\.js";/);
+    assert.match(source, /const resolvedGlobalSearch = globalSearch \?\? \(SEARCH_ENABLED/);
+    assert.match(source, /manifestUrl: libraryIndex\.search\.manifestUrl/);
+    assert.match(source, /books: libraryIndex\.books\.map\(\(book\) => book\.search\)/);
     assert.match(source, /import "@\/features\/search\/mountHomeSearch\.jsx"/);
     assert.match(source, /document\.addEventListener\("rissor:search-open"/);
     assert.match(source, /new CustomEvent\("rissor:menu-open"/);

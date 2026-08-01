@@ -1,7 +1,5 @@
 ---
 import kulliyatImage from "../../assets/home/rnk-kulliyat.png";
-import { SEARCH_ENABLED } from "@/config/features.js";
-import { libraryIndex } from "@/data/library.generated";
 import { getHomepageCtas } from "@/features/library/libraryHome.js";
 import { getUi, type Locale } from "@/i18n";
 import { localizedPath } from "@/i18n/routing";
@@ -10,15 +8,9 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 const { locale } = Astro.props as { locale: Locale };
 const text = getUi(locale);
 const homeCtas = getHomepageCtas();
-const globalSearch = SEARCH_ENABLED
-  ? {
-      manifestUrl: libraryIndex.search.manifestUrl,
-      books: libraryIndex.books.map((book) => book.search)
-    }
-  : undefined;
 ---
 
-<BaseLayout title={text.home.pageTitle} description={text.home.description} locale={locale} globalSearch={globalSearch}>
+<BaseLayout title={text.home.pageTitle} description={text.home.description} locale={locale}>
   <section class="home-hero">
     <div class="page-band__inner home-hero__inner">
       <div class="home-hero__copy">
