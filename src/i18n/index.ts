@@ -499,39 +499,39 @@ export const ui = {
         },
         videos: [
           {
-            title: "Bilgi kartlarÄ± nasÄ±l hazÄ±rlanÄ±r ve kullanÄ±lÄ±r?",
+            title: "Bilgi kartları nasıl hazırlanır ve kullanılır?",
             description:
-              "24 kartlÄ±k bir set 4 bÃ¶lÃ¼me ayrÄ±lÄ±r. Her bÃ¶lÃ¼m 6 karttan oluÅŸur ve 1, 5, 9â€¦ veya 2, 6, 10â€¦ gibi 4'er adÄ±mlÄ± bir sÄ±ra izler.",
-            duration: "HazÄ±rlama videosu"
+              "24 kartlık bir set 4 bölüme ayrılır. Her bölüm 6 karttan oluşur ve 1, 5, 9… veya 2, 6, 10… gibi 4'er adımlı bir sırayla ilerler.",
+            duration: "Hazırlama videosu"
           },
           {
-            title: "Kartlar daÄŸÄ±tÄ±ldÄ±ktan sonra ilk akÄ±ÅŸ",
+            title: "Kartlar dağıtıldıktan sonra ilk akış",
             description:
-              "Kartlar, daÄŸÄ±tÄ±m sonrasÄ±nda her talebenin soru kaÄŸÄ±tlarÄ±yla nasÄ±l eÅŸleÅŸtirildiÄŸi ve ortak masadaki kartlarÄ±n nasÄ±l deÄŸerlendirildiÄŸi gÃ¶sterilir.",
-            duration: "HazÄ±rlama sonrasÄ± akÄ±ÅŸ"
+              "Kartlar, dağıtımdan sonra her talebenin soru kağıtlarıyla nasıl eşleştirildiği ve ortak masadaki kartların nasıl değerlendirildiği gösterilir.",
+            duration: "Dağıtım sonrası akış"
           },
           {
-            title: "Karttan sÃ¶zlÃ¼ soru cevaplamak",
+            title: "Karttan sözlü soru cevaplamak",
             description:
-              "Talebelerle birebir Ã¶rnekte, Ã¶ğreticinin karttan rastgele soru sorarak Ã§alÄ±ÅŸmayÄ± kontrol etmesi anlatÄ±lÄ±r.",
+              "Talebelerle birebir örnekte, öğreticinin karttan rastgele soru sorarak çalışmayı kontrol etmesi anlatılır.",
             duration: "Kontrol videosu"
           },
           {
-            title: "KartlarÄ±n toplanmasÄ± ve sorularÄ±n daÄŸÄ±tÄ±lmasÄ±",
+            title: "Kartların toplanması ve soruların dağıtılması",
             description:
-              "Kartlar toplandÄ±ktan sonra farklÄ± sÄ±nÄ±f seviyelerindeki talebelere farklÄ± soru kaÄŸÄ±tlarÄ±n nasÄ±l verdiÄŸi ve birebir takibin nasÄ±l kurgulandÄ±ÄŸÄ± aÃ§Ä±klanÄ±r.",
-            duration: "Soru daÄŸÄ±tÄ±m videosu"
+              "Kartlar toplandıktan sonra farklı sınıf seviyelerindeki talebelere farklı soru kağıtlarının nasıl verildiği ve birebir takibin nasıl kurgulandığı açıklanır.",
+            duration: "Soru dağıtım videosu"
           },
           {
-            title: "Soru kaÄŸÄ±tlarÄ± daÄŸÄ±tÄ±ldÄ±ktan sonra",
+            title: "Soru kâğıtları dağıtıldıktan sonra",
             description:
-              "KaÄŸÄ±t baÅŸlÄ±ÄŸÄ±nda konu ve isim bilgilerinin doÄŸru yazÄ±lmasÄ±, uygulama dÃ¼zeltmeleri ve metinle Ã§Ã¶zme beklentisi vurgulanÄ±r.",
-            duration: "KaÄŸÄ±t gÃ¶zden geÃ§irme"
+              "Kağıt başlığında konu ve isim bilgilerinin doğru yazılması, uygulama düzeltmeleri ve metinle çözme beklentisi vurgulanır.",
+            duration: "Kağıt gözden geçirme"
           },
           {
-            title: "Soru kaÄŸÄ±tlarÄ± birebir",
+            title: "Soru kağıtları birebir",
             description:
-              "Talebe bir soruda zorlandÄ±ÄŸÄ±nda Ã¶ğretmenin cevabÄ±nÄ± vermeden yÃ¶nlendirme ile doÄŸru cevaba ulaÅŸtÄ±rmasÄ± somut olarak gÃ¶sterilir.",
+              "Talebe bir soruda zorlandığında öğretmenin cevabını vermeden yönlendirme ile doğru cevaba ulaştırması somut olarak gösterilir.",
             duration: "Birebir destek videosu"
           }
         ],
