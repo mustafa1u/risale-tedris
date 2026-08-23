@@ -33,6 +33,27 @@ describe("BaseLayout markup contract", () => {
     assert.doesNotMatch(source, /src="assets\/images\/rt\.png"/);
   });
 
+  it("declares the logo favicon for every page", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /<link rel="icon" href="\/favicon\.ico\?v=0\.3\.0" type="image\/x-icon" \/>/);
+  });
+
+  it("provides a site-wide mail contact bar", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /<footer class="site-footer site-contact-bar" aria-label="İletişim">/);
+    assert.match(source, /href="mailto:risaletedris@gmail\.com\?subject=/);
+    assert.match(source, />Bize Ulaşın<\/span>/);
+  });
+
+  it("keeps the mail contact action available in the compact menu", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /<a class="site-menu__contact" href="mailto:risaletedris@gmail\.com\?subject=/);
+    assert.match(source, /class="site-menu__contact"[\s\S]*?>Bize Ulaşın<\/span>/);
+  });
+
   it("keeps the books dropdown and restores the other desktop items from the localized navigation model", async () => {
     const source = await readFile(sourcePath, "utf8");
 

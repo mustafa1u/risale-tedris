@@ -87,6 +87,7 @@ const compactNavigationItems = navigationItems.map((item) => ({
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <title>{pageTitle}</title>
+    <link rel="icon" href="/favicon.ico?v=0.3.0" type="image/x-icon" />
     <script is:inline id="rissor-theme-config" type="application/json" set:html={JSON.stringify(themeRuntimeConfig)}></script>
     <script is:inline>
       (() => {
@@ -325,6 +326,13 @@ const compactNavigationItems = navigationItems.map((item) => ({
                     </a>
                   ))}
                 </nav>
+                <a class="site-menu__contact" href="mailto:risaletedris@gmail.com?subject=RisaleTedris%20ileti%C5%9Fim">
+                  <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M3.5 5.5h17v13h-17z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="1.8"></path>
+                    <path d="m4.25 6.25 7.75 6 7.75-6" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
+                  </svg>
+                  <span>Bize Ulaşın</span>
+                </a>
                 {VISIBLE_LOCALES.length > 1 ? (
                   <div class="language-switch" aria-label={text.layout.languageSelector}>
                     {VISIBLE_LOCALES.map((optionLocale) => {
@@ -350,6 +358,21 @@ const compactNavigationItems = navigationItems.map((item) => ({
         <slot />
       </main>
     </div>
+    <footer class="site-footer site-contact-bar" aria-label="İletişim">
+      <div class="site-footer__inner site-contact-bar__inner">
+        <div class="site-contact-bar__message">
+          <span class="site-contact-bar__eyebrow">Sorularınız ve önerileriniz için</span>
+          <strong>RisaleTedris ekibine ulaşın.</strong>
+        </div>
+        <a class="site-contact-bar__link" href="mailto:risaletedris@gmail.com?subject=RisaleTedris%20ileti%C5%9Fim">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M3.5 5.5h17v13h-17z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="1.8"></path>
+            <path d="m4.25 6.25 7.75 6 7.75-6" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
+          </svg>
+          <span>Bize Ulaşın</span>
+        </a>
+      </div>
+    </footer>
     <script>
       import "@/features/search/mountHomeSearch.jsx";
     </script>

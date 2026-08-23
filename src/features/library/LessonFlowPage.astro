@@ -1,13 +1,27 @@
 ---
 import flashcardsUsageVideo from "@/assets/lesson-flow/bilgi-kartlari-nasil-kullanilir.mp4";
+import cardsDistributedVideo from "@/assets/lesson-flow/videos/01-kartlar-dagitildi.mp4";
+import cardsOralQuestionVideo from "@/assets/lesson-flow/videos/02-karttan-sozlu-soru-cevaplamak.mp4";
+import cardsCollectedVideo from "@/assets/lesson-flow/videos/03-kartlar-toplama-ve-sorular-dagitimi.mp4";
+import questionSheetAfterHandoutVideo from "@/assets/lesson-flow/videos/04-soru-kagitlari-dagitildiktan-sonra.mp4";
+import oneToOneQuestionVideo from "@/assets/lesson-flow/videos/05-soru-kagitlari-birebir.mp4";
 import { getUi, type Locale } from "@/i18n";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 
 const { locale } = Astro.props as { locale: Locale };
 const text = getUi(locale);
+const lessonFlowVideoSources = [
+  flashcardsUsageVideo,
+  cardsDistributedVideo,
+  cardsOralQuestionVideo,
+  cardsCollectedVideo,
+  questionSheetAfterHandoutVideo,
+  oneToOneQuestionVideo
+];
+
 const lessonFlowVideos = text.home.lessonFlow.videos.map((video, index) => ({
   ...video,
-  src: [flashcardsUsageVideo][index]
+  src: lessonFlowVideoSources[index]
 }));
 ---
 
@@ -48,17 +62,20 @@ const lessonFlowVideos = text.home.lessonFlow.videos.map((video, index) => ({
         </div>
         <div class="lesson-flow-video-grid">
           {lessonFlowVideos.map((video) => (
-            <article class="lesson-flow-video-card">
-              <div class="lesson-flow-video-card__player">
-                <video controls preload="metadata" playsinline src={video.src}></video>
-              </div>
-              <div class="lesson-flow-video-card__body">
-                <p class="lesson-flow-video-card__kicker">{video.duration}</p>
-                <h3>{video.title}</h3>
-                <p>{video.description}</p>
-              </div>
-            </article>
-          ))}
+              <article class="lesson-flow-video-card">
+                <div class="lesson-flow-video-card__player">
+                  <video controls preload="metadata" playsinline src={video.src}></video>
+                </div>
+                <div class="lesson-flow-video-card__body">
+                  <p class="lesson-flow-video-card__kicker">{video.duration}</p>
+                  <h3>{video.title}</h3>
+                  <p>{video.description}</p>
+                  <p class="lesson-flow-video-card__download-wrap">
+                    <a class="button-secondary" href={video.src} download>{text.home.lessonFlow.videoDownloadLabel}</a>
+                  </p>
+                </div>
+              </article>
+            ))}
         </div>
         <aside class="lesson-flow-card-system" aria-labelledby="lesson-flow-card-system-heading">
           <div>
@@ -312,6 +329,10 @@ const lessonFlowVideos = text.home.lessonFlow.videos.map((video, index) => ({
   .lesson-flow-video-card__body p:not(.lesson-flow-video-card__kicker) {
     color: var(--text-muted);
     line-height: 1.55;
+  }
+
+  .lesson-flow-video-card__download-wrap {
+    margin: 0;
   }
 
   .lesson-flow-video-card__kicker {

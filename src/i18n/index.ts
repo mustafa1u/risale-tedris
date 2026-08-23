@@ -1,4 +1,4 @@
-import type { ThemeName } from "@/config/themes";
+﻿import type { ThemeName } from "@/config/themes";
 
 export const LOCALES = ["tr", "en"] as const;
 export type Locale = (typeof LOCALES)[number];
@@ -87,6 +87,7 @@ type UiDictionary = {
         description: string;
         duration: string;
       }>;
+      videoDownloadLabel: string;
       heading: string;
       steps: Array<{
         phase: string;
@@ -498,13 +499,43 @@ export const ui = {
         },
         videos: [
           {
-            title: "Bilgi kartları nasıl hazırlanır ve kullanılır?",
+            title: "Bilgi kartlarÄ± nasÄ±l hazÄ±rlanÄ±r ve kullanÄ±lÄ±r?",
             description:
-              "24 kartlık bir set 4 bölüme ayrılır. Her bölüm 6 karttan oluşur ve 1, 5, 9… veya 2, 6, 10… gibi 4'er adımlı bir sıra izler.",
-            duration: "Hazırlama videosu"
+              "24 kartlÄ±k bir set 4 bÃ¶lÃ¼me ayrÄ±lÄ±r. Her bÃ¶lÃ¼m 6 karttan oluÅŸur ve 1, 5, 9â€¦ veya 2, 6, 10â€¦ gibi 4'er adÄ±mlÄ± bir sÄ±ra izler.",
+            duration: "HazÄ±rlama videosu"
+          },
+          {
+            title: "Kartlar daÄŸÄ±tÄ±ldÄ±ktan sonra ilk akÄ±ÅŸ",
+            description:
+              "Kartlar, daÄŸÄ±tÄ±m sonrasÄ±nda her talebenin soru kaÄŸÄ±tlarÄ±yla nasÄ±l eÅŸleÅŸtirildiÄŸi ve ortak masadaki kartlarÄ±n nasÄ±l deÄŸerlendirildiÄŸi gÃ¶sterilir.",
+            duration: "HazÄ±rlama sonrasÄ± akÄ±ÅŸ"
+          },
+          {
+            title: "Karttan sÃ¶zlÃ¼ soru cevaplamak",
+            description:
+              "Talebelerle birebir Ã¶rnekte, Ã¶ğreticinin karttan rastgele soru sorarak Ã§alÄ±ÅŸmayÄ± kontrol etmesi anlatÄ±lÄ±r.",
+            duration: "Kontrol videosu"
+          },
+          {
+            title: "KartlarÄ±n toplanmasÄ± ve sorularÄ±n daÄŸÄ±tÄ±lmasÄ±",
+            description:
+              "Kartlar toplandÄ±ktan sonra farklÄ± sÄ±nÄ±f seviyelerindeki talebelere farklÄ± soru kaÄŸÄ±tlarÄ±n nasÄ±l verdiÄŸi ve birebir takibin nasÄ±l kurgulandÄ±ÄŸÄ± aÃ§Ä±klanÄ±r.",
+            duration: "Soru daÄŸÄ±tÄ±m videosu"
+          },
+          {
+            title: "Soru kaÄŸÄ±tlarÄ± daÄŸÄ±tÄ±ldÄ±ktan sonra",
+            description:
+              "KaÄŸÄ±t baÅŸlÄ±ÄŸÄ±nda konu ve isim bilgilerinin doÄŸru yazÄ±lmasÄ±, uygulama dÃ¼zeltmeleri ve metinle Ã§Ã¶zme beklentisi vurgulanÄ±r.",
+            duration: "KaÄŸÄ±t gÃ¶zden geÃ§irme"
+          },
+          {
+            title: "Soru kaÄŸÄ±tlarÄ± birebir",
+            description:
+              "Talebe bir soruda zorlandÄ±ÄŸÄ±nda Ã¶ğretmenin cevabÄ±nÄ± vermeden yÃ¶nlendirme ile doÄŸru cevaba ulaÅŸtÄ±rmasÄ± somut olarak gÃ¶sterilir.",
+            duration: "Birebir destek videosu"
           }
         ],
-        heading: "Bir ders baştan sona nasıl yürütülür?",
+        videoDownloadLabel: "Videoyu indir",
         steps: [
           {
             phase: "Ders öncesi",
@@ -1022,10 +1053,41 @@ export const ui = {
           {
             title: "How the flashcards are prepared and used",
             description:
-              "A 24-card set is divided into 4 divisions of 6 cards, with each division following a step-of-4 sequence such as 1, 5, 9… or 2, 6, 10….",
+              "A 24-card set is divided into 4 divisions of 6 cards, with each division following a step-of-4 sequence such as 1, 5, 9â€¦ or 2, 6, 10â€¦.",
             duration: "Preparation video"
+          },
+          {
+            title: "After cards are distributed",
+            description:
+              "Shows how students' question sheets are aligned with the card distribution and how undistributed cards on the shared table are integrated into class flow.",
+            duration: "Class setup video"
+          },
+          {
+            title: "Answering oral questions from a card",
+            description:
+              "Demonstrates one-to-one oral checking while students practice, where the instructor asks a random question from the student's card.",
+            duration: "Oral check video"
+          },
+          {
+            title: "Collecting cards and distributing questions",
+            description:
+              "Explains how cards are collected and how different question sheets are distributed by student and level for one-to-one follow-up.",
+            duration: "Question handout video"
+          },
+          {
+            title: "After question sheets are handed out",
+            description:
+              "Explains writing topic and names on the sheet, a correction note for combined passages, and using the text to answer the remaining questions.",
+            duration: "Worksheet completion video"
+          },
+          {
+            title: "One-to-one question solving",
+            description:
+              "After distribution, shows how a student is guided to the answer without direct confirmation from the instructor.",
+            duration: "One-to-one coaching video"
           }
         ],
+        videoDownloadLabel: "Download video",
         heading: "How does one lesson run from start to finish?",
         steps: [
           {
