@@ -8,9 +8,6 @@ export default defineConfig({
   integrations: [preact()],
   prefetch: true,
   vite: {
-    ssr: {
-      external: ["@astrojs/preact"],
-    },
     server: {
       proxy: {
         "/api/augmentation": {

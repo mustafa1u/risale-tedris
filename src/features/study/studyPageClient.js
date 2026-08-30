@@ -28,8 +28,8 @@ function setHidden(element, hidden) {
   }
 }
 
-export function canOpenSourceText({ showingAnswer, hasSourceDialog }) {
-  return Boolean(showingAnswer && hasSourceDialog);
+export function canOpenSourceText({ hasSourceDialog }) {
+  return Boolean(hasSourceDialog);
 }
 
 export function hasStudySourceText({ sourceUrl, sourceText }) {
@@ -250,7 +250,7 @@ function initRoot(root) {
   };
 
   const openSourceText = () => {
-    if (!canOpenSourceText({ showingAnswer, hasSourceDialog: Boolean(sourceDialog) })) {
+    if (!canOpenSourceText({ hasSourceDialog: Boolean(sourceDialog) })) {
       return;
     }
 
@@ -299,7 +299,7 @@ function initRoot(root) {
     }
     setHidden(cardButton, false);
     setHidden(showAnswerButton, false);
-    setHidden(viewSourceButton, true);
+    setHidden(viewSourceButton, !hasStudySourceText({ sourceUrl, sourceText: inlineSourceText }));
     setHidden(ratingRow, true);
     setHidden(complete, true);
     closeSourceText();
@@ -387,7 +387,7 @@ function initRoot(root) {
   const showLoadError = () => {
     setHidden(cardButton, true);
     setHidden(showAnswerButton, true);
-    setHidden(viewSourceButton, true);
+    setHidden(viewSourceButton, !hasStudySourceText({ sourceUrl, sourceText: inlineSourceText }));
     setHidden(ratingRow, true);
     setHidden(statusRow, true);
     setHidden(error, false);

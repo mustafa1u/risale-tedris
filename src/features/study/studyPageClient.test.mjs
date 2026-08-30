@@ -66,10 +66,9 @@ describe("study page client helpers", () => {
     );
   });
 
-  it("allows source text only after the answer is visible and a source dialog exists", () => {
-    assert.equal(canOpenSourceText({ showingAnswer: false, hasSourceDialog: true }), false);
-    assert.equal(canOpenSourceText({ showingAnswer: true, hasSourceDialog: false }), false);
-    assert.equal(canOpenSourceText({ showingAnswer: true, hasSourceDialog: true }), true);
+  it("allows source text when a source dialog exists", () => {
+    assert.equal(canOpenSourceText({ hasSourceDialog: false }), false);
+    assert.equal(canOpenSourceText({ hasSourceDialog: true }), true);
   });
 
   it("recognizes both URL-backed and inline study source text", () => {
