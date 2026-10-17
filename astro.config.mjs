@@ -5,10 +5,16 @@ const augmentationWorker = process.env.AUGMENTATION_EXPORT_WORKER_URL ?? "http:/
 
 export default defineConfig({
   output: "static",
-  integrations: [preact()],
+  integrations: [preact({ include: ["**/*.jsx"] })],
   prefetch: true,
   vite: {
+    ssr: {
+      external: ["@astrojs/preact"],
+    },
     server: {
+      watch: {
+        ignored: ["**/.tmp/**", "**/.tooling/**", "**/build/**"],
+      },
       proxy: {
         "/api/augmentation": {
           target: augmentationWorker,

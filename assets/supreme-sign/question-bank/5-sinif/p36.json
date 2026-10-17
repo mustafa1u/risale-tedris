@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "bookSlug": "supreme-sign",
+  "partNo": "p36",
+  "gradeSlug": "5-sinif",
+  "sourcePath": "../../supreme-sign/5-sinif/SEL_5sinif_supreme-sign-p36-the-world-of-the-unseen-5-truths-of-revelation-5th-samadanic-intimations-and-the-final-proof-of-revelation.json",
+  "cardCount": 5,
+  "selection": {
+    "source": "SEL",
+    "requestedCount": 5,
+    "rule": "Dependency-complete first 24 questions from the question-sheet selection order."
+  },
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "id": "S1Q1",
+          "setNumber": 1,
+          "questionNumber": 1,
+          "question": "What words are in the target passage?",
+          "answer": "The words are “The Fifth.”",
+          "wordCount": 5,
+          "selectedSetNumber": 1,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 1,
+          "flashcardIndex": 1
+        },
+        {
+          "id": "S2Q1",
+          "setNumber": 2,
+          "questionNumber": 1,
+          "question": "Which numbered part is named in the target passage?",
+          "answer": "It names the fifth part.",
+          "wordCount": 5,
+          "selectedSetNumber": 2,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 2,
+          "flashcardIndex": 2
+        },
+        {
+          "id": "S3Q1",
+          "setNumber": 3,
+          "questionNumber": 1,
+          "question": "Does the target passage point to a beginning, middle, or later part in a list?",
+          "answer": "It points to a later part in a list, the fifth one.",
+          "wordCount": 12,
+          "selectedSetNumber": 3,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 3,
+          "flashcardIndex": 3
+        },
+        {
+          "id": "S4Q1",
+          "setNumber": 4,
+          "questionNumber": 1,
+          "question": "What number word appears in the target passage?",
+          "answer": "The number word is “Fifth.”",
+          "wordCount": 5,
+          "selectedSetNumber": 4,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 4,
+          "flashcardIndex": 4
+        },
+        {
+          "id": "S5Q1",
+          "setNumber": 5,
+          "questionNumber": 1,
+          "question": "If parts are counted in order, what place does the target passage mention?",
+          "answer": "It mentions the fifth place.",
+          "wordCount": 5,
+          "selectedSetNumber": 5,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 5,
+          "flashcardIndex": 5
+        }
+      ]
+    }
+  ],
+  "title": "P36"
+}

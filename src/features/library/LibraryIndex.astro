@@ -1,13 +1,13 @@
 ---
-import { groupBooksBySlug } from "@/config/bookGroups";
-import { libraryIndex } from "@/data/library.generated";
+import { groupBooksByLanguage } from "@/config/bookGroups";
+import { librarySummary } from "@/data/library-summary.generated";
 import { getUi, type Locale } from "@/i18n";
 import { localizedPath } from "@/i18n/routing";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 
 const { locale } = Astro.props as { locale: Locale };
 const text = getUi(locale);
-const bookGroups = groupBooksBySlug(libraryIndex.books, locale);
+const bookSections = groupBooksByLanguage(librarySummary.books, locale);
 const previousBooksLabel = locale === "tr" ? "Önceki kitaplar" : "Previous books";
 const nextBooksLabel = locale === "tr" ? "Sonraki kitaplar" : "Next books";
 ---
@@ -21,40 +21,65 @@ const nextBooksLabel = locale === "tr" ? "Sonraki kitaplar" : "Next books";
         <p class="lede">{text.library.lede}</p>
       </header>
 
-      {libraryIndex.books.length === 0 ? (
+      {librarySummary.books.length === 0 ? (
         <div class="empty-state">
           {text.library.emptyManifestPrefix} <code>npm run manifest:generate</code> {text.library.emptyManifestSuffix}
         </div>
       ) : (
         <div class="book-shelves">
-          {bookGroups.map((group) => (
-            <section class="book-shelf" id={group.id} aria-labelledby={`${group.id}-heading`} data-book-shelf>
-              <header class="book-shelf__header">
-                <h2 id={`${group.id}-heading`}>{group.label}</h2>
-                <div class="book-shelf__controls" aria-label={group.label}>
-                  <button type="button" data-book-shelf-previous aria-label={previousBooksLabel}>←</button>
-                  <button type="button" data-book-shelf-next aria-label={nextBooksLabel}>→</button>
-                </div>
-              </header>
-              <div class="book-shelf__viewport" data-book-shelf-viewport tabindex="0">
-                <div class="book-shelf__track">
-                  {group.books.map((book) => (
-                    <article class="book-card" data-book-slug={book.slug}>
-                      <a
-                        class="book-card__cover"
-                        href={localizedPath(locale, `/books/${book.slug}/`)}
-                        aria-label={`${book.title}: ${text.actions.open}`}
-                      >
-                        <span class="book-card__ornament" aria-hidden="true">❦</span>
-                        <h3 class="book-card__title">{book.title}</h3>
-                        <span class="book-card__ornament book-card__ornament--bottom" aria-hidden="true">❦</span>
-                      </a>
-                    </article>
+          {bookSections.map((section) => {
+            const sectionContentId = `${section.id}-content`;
+            return (
+              <section
+                class="book-language-section"
+                id={section.id}
+                aria-labelledby={`${section.id}-heading`}
+                data-book-language-section
+                data-section-id={section.id}
+              >
+                <button
+                  class="book-language-section__toggle"
+                  type="button"
+                  aria-expanded="false"
+                  aria-controls={sectionContentId}
+                  data-book-language-toggle
+                >
+                  <span class="book-language-section__title" id={`${section.id}-heading`}>{section.label}</span>
+                  <span class="book-language-section__arrow" aria-hidden="true">›</span>
+                </button>
+                <div class="book-language-section__content" id={sectionContentId} data-book-language-content hidden>
+                  {section.shelves.map((group) => (
+                    <section class="book-shelf" id={group.id} aria-labelledby={`${group.id}-heading`} data-book-shelf>
+                      <header class="book-shelf__header">
+                        <h3 id={`${group.id}-heading`}>{group.label}</h3>
+                        <div class="book-shelf__controls" aria-label={group.label}>
+                          <button type="button" data-book-shelf-previous aria-label={previousBooksLabel}>←</button>
+                          <button type="button" data-book-shelf-next aria-label={nextBooksLabel}>→</button>
+                        </div>
+                      </header>
+                      <div class="book-shelf__viewport" data-book-shelf-viewport tabindex="0">
+                        <div class="book-shelf__track">
+                          {group.books.map((book) => (
+                            <article class="book-card" data-book-slug={book.slug}>
+                              <a
+                                class="book-card__cover"
+                                href={localizedPath(locale, `/books/${book.slug}/`)}
+                                aria-label={`${book.title}: ${text.actions.open}`}
+                              >
+                                <span class="book-card__ornament" aria-hidden="true">❦</span>
+                                <h4 class="book-card__title">{book.title}</h4>
+                                <span class="book-card__ornament book-card__ornament--bottom" aria-hidden="true">❦</span>
+                              </a>
+                            </article>
+                          ))}
+                        </div>
+                      </div>
+                    </section>
                   ))}
                 </div>
-              </div>
-            </section>
-          ))}
+              </section>
+            );
+          })}
         </div>
       )}
     </div>
@@ -62,6 +87,54 @@ const nextBooksLabel = locale === "tr" ? "Sonraki kitaplar" : "Next books";
 </BaseLayout>
 
 <script>
+  const sectionStorageKey = "rissor-books-language-sections-v1";
+  const languageSections = Array.from(document.querySelectorAll("[data-book-language-section]"));
+  let savedSectionState: Record<string, boolean> = {};
+
+  try {
+    const saved = localStorage.getItem(sectionStorageKey);
+    savedSectionState = saved ? JSON.parse(saved) : {};
+  } catch {
+    savedSectionState = {};
+  }
+
+  const persistSectionState = () => {
+    try {
+      localStorage.setItem(
+        sectionStorageKey,
+        JSON.stringify(Object.fromEntries(languageSections.map((section) => [
+          section.getAttribute("data-section-id"),
+          section.classList.contains("is-expanded")
+        ])))
+      );
+    } catch {
+      // Persistence is optional for local/dev previews.
+    }
+  };
+
+  languageSections.forEach((section) => {
+    const toggle = section.querySelector("[data-book-language-toggle]");
+    const content = section.querySelector("[data-book-language-content]");
+    const sectionId = section.getAttribute("data-section-id");
+    if (!(toggle instanceof HTMLButtonElement) || !(content instanceof HTMLElement) || !sectionId) {
+      return;
+    }
+
+    const setExpanded = (expanded: boolean) => {
+      section.classList.toggle("is-expanded", expanded);
+      toggle.setAttribute("aria-expanded", String(expanded));
+      content.hidden = !expanded;
+    };
+
+    const hashTarget = window.location.hash.slice(1);
+    const containsHashTarget = hashTarget !== "" && section.contains(document.getElementById(hashTarget));
+    setExpanded(savedSectionState[sectionId] === true || hashTarget === sectionId || containsHashTarget);
+    toggle.addEventListener("click", () => {
+      setExpanded(!section.classList.contains("is-expanded"));
+      persistSectionState();
+    });
+  });
+
   document.querySelectorAll("[data-book-shelf]").forEach((shelf) => {
     const viewport = shelf.querySelector("[data-book-shelf-viewport]");
     if (!(viewport instanceof HTMLElement)) {

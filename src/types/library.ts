@@ -109,3 +109,12 @@ export type LibraryIndex = Omit<LibraryManifest, "books"> & {
   books: LibraryBookSummary[];
   search: LibrarySearchIndexReference;
 };
+
+export type LibrarySummaryBook = Pick<
+  LibraryBookSummary,
+  "slug" | "title" | "sourcePath" | "grades" | "partCount" | "studyDeckCount" | "search"
+>;
+
+export type LibrarySummaryIndex = Omit<LibraryIndex, "books"> & {
+  books: LibrarySummaryBook[];
+};

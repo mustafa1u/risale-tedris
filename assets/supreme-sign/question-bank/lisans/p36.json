@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "bookSlug": "supreme-sign",
+  "partNo": "p36",
+  "gradeSlug": "lisans",
+  "sourcePath": "../../supreme-sign/lisans/SEL_lisans_supreme-sign-p36-the-world-of-the-unseen-5-truths-of-revelation-5th-samadanic-intimations-and-the-final-proof-of-revelation.json",
+  "cardCount": 4,
+  "selection": {
+    "source": "SEL",
+    "requestedCount": 4,
+    "rule": "Dependency-complete first 24 questions from the question-sheet selection order."
+  },
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "id": "S1Q1",
+          "setNumber": 1,
+          "questionNumber": 1,
+          "question": "What exact words appear in the marked target passage?",
+          "answer": "The passage contains the label introducing the next point: “The Fifth:”",
+          "wordCount": 11,
+          "selectedSetNumber": 1,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 1,
+          "flashcardIndex": 1
+        },
+        {
+          "id": "S2Q1",
+          "setNumber": 2,
+          "questionNumber": 1,
+          "question": "What kind of textual element is the marked passage: a full explanation, an example, or a heading for the next section?",
+          "answer": "It is a heading for the next section.",
+          "wordCount": 8,
+          "selectedSetNumber": 2,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 2,
+          "flashcardIndex": 2
+        },
+        {
+          "id": "S3Q1",
+          "setNumber": 3,
+          "questionNumber": 1,
+          "question": "What number is assigned in the marked passage to the point being introduced?",
+          "answer": "It is the fifth point.",
+          "wordCount": 5,
+          "selectedSetNumber": 3,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 3,
+          "flashcardIndex": 3
+        },
+        {
+          "id": "S4Q1",
+          "setNumber": 4,
+          "questionNumber": 1,
+          "question": "Does the marked passage present an argument itself, or does it simply announce the next argument?",
+          "answer": "It simply announces the next argument.",
+          "wordCount": 6,
+          "selectedSetNumber": 4,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 4,
+          "flashcardIndex": 4
+        }
+      ]
+    }
+  ],
+  "title": "P36"
+}

@@ -75,10 +75,15 @@ describe("UX page accessibility markup", () => {
   it("shows the available books on the dedicated library page", async () => {
     const source = await readPage("library");
 
-    assert.match(source, /groupBooksBySlug\(libraryIndex\.books, locale\)/);
-    assert.match(source, /bookGroups\.map\(\(group\) =>/);
-    assert.match(source, /group\.books\.map\(\(book\) =>/);
+    assert.match(source, /groupBooksByLanguage\(librarySummary\.books, locale\)/);
+    assert.match(source, /bookSections\.map\(\(section\) =>/);
+    assert.match(source, /section\.shelves\.map\(\(group\) =>/);
     assert.match(source, /class="book-shelves"/);
+    assert.match(source, /data-book-language-section/);
+    assert.match(source, /data-book-language-toggle/);
+    assert.match(source, /aria-expanded="false"/);
+    assert.match(source, /sectionStorageKey/);
+    assert.match(source, /localStorage/);
     assert.match(source, /class="book-shelf__viewport" data-book-shelf-viewport tabindex="0"/);
     assert.match(source, /data-book-shelf-previous/);
     assert.match(source, /data-book-shelf-next/);

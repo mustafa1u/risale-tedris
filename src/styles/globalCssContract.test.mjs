@@ -54,6 +54,22 @@ describe("global UX CSS contract", () => {
     assert.doesNotMatch(source, /width:\s*calc\(100% - 50px\);/);
   });
 
+  it("keeps the contact strip at the viewport bottom on short pages", async () => {
+    const source = await readCssSource();
+
+    assertBlockIncludes(source, "body", [
+      "min-height: 100vh;",
+      "display: flex;",
+      "flex-direction: column;"
+    ]);
+    assertBlockIncludes(source, ".site-shell", [
+      "flex: 1 0 auto;",
+      "display: flex;",
+      "flex-direction: column;"
+    ]);
+    assertBlockIncludes(source, ".site-shell > main", ["flex: 1 0 auto;"]);
+  });
+
   it("collapses and then hides the separate theme settings control responsively", async () => {
     const source = await readCssSource();
 
@@ -317,13 +333,14 @@ describe("global UX CSS contract", () => {
     ]);
     assertBlockIncludes(source, ".book-card .book-card__title", [
       'font-family: "Barla © 001 Liva Nur", "Lucida Blackletter", "Palatino Linotype", Georgia, serif;',
-      "font-size: 7.32rem;",
+      "font-size: 1.63rem;",
       "font-weight: 400;",
       "text-align: center;"
     ]);
     for (const slug of [
       "ayetul-kubra", "kucuk-sozler", "meyve-risalesi", "tabiat-risalesi",
-      "11-soz", "13-soz", "18-soz", "24-soz", "31-soz", "32-soz", "33-soz"
+      "short-words", "supreme-sign", "11-soz", "11-soz-eng", "13-soz", "13-soz-eng", "18-soz", "18-soz-eng",
+      "24-soz", "31-soz", "32-soz", "33-soz"
     ]) {
       assert.match(source, new RegExp(`\\.book-card\\[data-book-slug="${slug}"\\]`));
     }

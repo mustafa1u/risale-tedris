@@ -1,9 +1,9 @@
 ---
 import { NAV_ITEMS } from "@/config/navigation";
-import { groupBooksBySlug } from "@/config/bookGroups";
+import { groupBooksByLanguage } from "@/config/bookGroups";
 import { SEARCH_ENABLED } from "@/config/features.js";
 import { ACTIVE_THEME, THEMES, type ThemeName } from "@/config/themes";
-import { libraryIndex } from "@/data/library.generated";
+import { librarySummary } from "@/data/library-summary.generated";
 import { DEFAULT_LOCALE, getUi, ui, type Locale } from "@/i18n";
 import { localizedPath } from "@/i18n/routing";
 import rtLogo from "@/assets/site/rt.png";
@@ -26,8 +26,8 @@ const { title, locale = DEFAULT_LOCALE, globalSearch } = Astro.props as Props;
 const text = getUi(locale);
 const resolvedGlobalSearch = globalSearch ?? (SEARCH_ENABLED
   ? {
-      manifestUrl: libraryIndex.search.manifestUrl,
-      books: libraryIndex.books.map((book) => book.search)
+      manifestUrl: librarySummary.search.manifestUrl,
+      books: librarySummary.books.map((book) => book.search)
     }
   : undefined);
 const description = Astro.props.description ?? text.layout.defaultDescription;
@@ -72,7 +72,7 @@ const navigationItems = NAV_ITEMS.map((item) => {
   };
 });
 const themeNavigationItem = navigationItems.find((item) => item.id === "themes");
-const bookNavigationGroups = groupBooksBySlug(libraryIndex.books, locale);
+const bookNavigationSections = groupBooksByLanguage(librarySummary.books, locale);
 const compactNavigationItems = navigationItems.map((item) => ({
   ...item,
   label: navLabels[item.id],
@@ -235,7 +235,16 @@ const compactNavigationItems = navigationItems.map((item) => ({
         </a>
 
         <div class="dropdown-menu" aria-label={text.nav.books}>
-          {bookNavigationGroups.map((group) => (
+          {bookNavigationSections.map((section) => (
+            <section class="dropdown-language-section" aria-labelledby={`nav-${section.id}-heading`}>
+              <a
+                class="dropdown-language-section__heading"
+                id={`nav-${section.id}-heading`}
+                href={`${localizedPath(locale, "/books/")}#${section.id}`}
+              >
+                {section.label}
+              </a>
+              {section.shelves.map((group) => (
             <div class="dropdown-group">
               <a
                 class="dropdown-group__trigger"
@@ -253,6 +262,8 @@ const compactNavigationItems = navigationItems.map((item) => ({
                 ))}
               </div>
             </div>
+              ))}
+            </section>
           ))}
         </div>
     </div>

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "bookSlug": "supreme-sign",
+  "partNo": "p48",
+  "gradeSlug": "lisans",
+  "sourcePath": "../../supreme-sign/lisans/SEL_lisans_supreme-sign-p48-the-messengership-of-prophet-muhammad-16th-degree-9th-proof-divine-purposes-the-pride-of-the-world-and-the-majesty-of-the-quran.json",
+  "cardCount": 5,
+  "selection": {
+    "source": "SEL",
+    "requestedCount": 5,
+    "rule": "Dependency-complete first 24 questions from the question-sheet selection order."
+  },
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "id": "S1Q1",
+          "setNumber": 1,
+          "questionNumber": 1,
+          "question": "What is the exact heading given in the target passage?",
+          "answer": "The heading is “The Ninth.”",
+          "wordCount": 5,
+          "selectedSetNumber": 1,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 1,
+          "flashcardIndex": 1
+        },
+        {
+          "id": "S2Q1",
+          "setNumber": 2,
+          "questionNumber": 1,
+          "question": "Which numbered section is identified in the target passage?",
+          "answer": "It identifies the ninth section.",
+          "wordCount": 5,
+          "selectedSetNumber": 2,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 2,
+          "flashcardIndex": 2
+        },
+        {
+          "id": "S3Q1",
+          "setNumber": 3,
+          "questionNumber": 1,
+          "question": "How is the target passage labeled: as a full paragraph, an argument, or a section title?",
+          "answer": "It is a section title.",
+          "wordCount": 5,
+          "selectedSetNumber": 3,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 3,
+          "flashcardIndex": 3
+        },
+        {
+          "id": "S4Q1",
+          "setNumber": 4,
+          "questionNumber": 1,
+          "question": "What number appears in the target passage, written as a title?",
+          "answer": "The number is nine.",
+          "wordCount": 4,
+          "selectedSetNumber": 4,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 4,
+          "flashcardIndex": 4
+        },
+        {
+          "id": "S5Q1",
+          "setNumber": 5,
+          "questionNumber": 1,
+          "question": "Does the target passage present a developed explanation or only a heading?",
+          "answer": "It presents only a heading.",
+          "wordCount": 5,
+          "selectedSetNumber": 5,
+          "selectedQuestionNumber": 1,
+          "sheetQuestionIndex": 5,
+          "flashcardIndex": 5
+        }
+      ]
+    }
+  ],
+  "title": "P48"
+}

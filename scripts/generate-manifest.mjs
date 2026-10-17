@@ -12,6 +12,7 @@ import {
 const root = process.cwd();
 const assetsRoot = resolve(root, "assets");
 const outFile = resolve(root, "src/data/library.generated.ts");
+const summaryOutFile = resolve(root, "src/data/library-summary.generated.ts");
 const booksOutDir = resolve(root, "src/data/books");
 const studyIndexOutFile = resolve(root, "src/data/study-index.generated.json");
 const searchAssetsOutDir = resolve(root, "public/assets/search");
@@ -267,6 +268,25 @@ function indexModuleContent(index, bookSlugs) {
   return `import type { LibraryBook, LibraryIndex, LibraryManifest } from "@/types/library";\n\ntype BookModule = { book: LibraryBook };\n\nexport const libraryIndex = ${JSON.stringify(index, null, 2)} satisfies LibraryIndex;\n\nexport const bookSlugs = ${JSON.stringify(bookSlugs, null, 2)} as const;\n\nconst bookLoaders: Record<string, () => Promise<BookModule>> = {\n${loaderEntries}\n};\n\nexport async function loadBook(bookSlug: string): Promise<LibraryBook | null> {\n  const loadBookModule = bookLoaders[bookSlug];\n\n  if (!loadBookModule) {\n    return null;\n  }\n\n  return (await loadBookModule()).book;\n}\n\nexport async function loadLibrary(): Promise<LibraryManifest> {\n  const books = await Promise.all(bookSlugs.map((bookSlug) => loadBook(bookSlug)));\n\n  return {\n    generatedAt: libraryIndex.generatedAt,\n    stats: libraryIndex.stats,\n    books: books.filter((book): book is LibraryBook => Boolean(book))\n  };\n}\n`;
 }
 
+function summaryModuleContent(index) {
+  const summary = {
+    generatedAt: index.generatedAt,
+    stats: index.stats,
+    books: index.books.map(({ slug, title, sourcePath, grades, partCount, studyDeckCount, search }) => ({
+      slug,
+      title,
+      sourcePath,
+      grades,
+      partCount,
+      studyDeckCount,
+      search
+    })),
+    search: index.search
+  };
+
+  return `import type { LibrarySummaryIndex } from "@/types/library";\n\nexport const librarySummary = ${JSON.stringify(summary, null, 2)} satisfies LibrarySummaryIndex;\n`;
+}
+
 function studyShellIndexContent(index) {
   return {
     generatedAt: index.generatedAt,
@@ -509,6 +529,7 @@ async function main() {
   await mkdir(dirname(studyIndexOutFile), { recursive: true });
   await Promise.all(books.map((book) => writeFile(join(booksOutDir, `${book.slug}.generated.ts`), bookModuleContent(book), "utf8")));
   await writeFile(outFile, indexModuleContent(libraryIndex, generatedBookSlugs), "utf8");
+  await writeFile(summaryOutFile, summaryModuleContent(libraryIndex), "utf8");
   await writeFile(studyIndexOutFile, `${JSON.stringify(studyShellIndexContent(libraryIndex), null, 2)}\n`, "utf8");
 
   console.log(`Generated ${sourcePath(outFile)}, ${sourcePath(studyIndexOutFile)}, and ${books.length} book modules`);

@@ -71,7 +71,7 @@ describe("BaseLayout markup contract", () => {
     assert.match(source, /currentPath\.startsWith\(href\)/);
   });
 
-  it("groups every desktop book link under Small Books or Words", async () => {
+  it("separates desktop book links into Turkish and English shelves", async () => {
     const source = await readFile(sourcePath, "utf8");
     const bookGroups = await readFile(bookGroupsPath, "utf8");
 
@@ -80,6 +80,8 @@ describe("BaseLayout markup contract", () => {
       "kucuk-sozler",
       "meyve-risalesi",
       "tabiat-risalesi",
+      "short-words",
+      "supreme-sign",
       "11-soz",
       "13-soz",
       "18-soz",
@@ -92,8 +94,10 @@ describe("BaseLayout markup contract", () => {
     }
     assert.match(bookGroups, /tr: "Küçük Boy Risaleler"/);
     assert.match(bookGroups, /tr: "Sözler"/);
-    assert.match(source, /const bookNavigationGroups = groupBooksBySlug\(libraryIndex\.books, locale\);/);
-    assert.match(source, /bookNavigationGroups\.map\(\(group\) =>/);
+    assert.match(source, /const bookNavigationSections = groupBooksByLanguage\(librarySummary\.books, locale\);/);
+    assert.match(source, /bookNavigationSections\.map\(\(section\) =>/);
+    assert.match(source, /class="dropdown-language-section"/);
+    assert.match(source, /section\.shelves\.map\(\(group\) =>/);
     assert.match(source, /group\.books\.map\(\(book\) =>/);
     assert.match(source, /localizedPath\(locale, `\/books\/\$\{book\.slug\}\/`\)/);
     assert.match(source, /class="dropdown-submenu"/);
@@ -125,8 +129,8 @@ describe("BaseLayout markup contract", () => {
     assert.match(source, /data-global-search-trigger/);
     assert.match(source, /import \{ SEARCH_ENABLED \} from "@\/config\/features\.js";/);
     assert.match(source, /const resolvedGlobalSearch = globalSearch \?\? \(SEARCH_ENABLED/);
-    assert.match(source, /manifestUrl: libraryIndex\.search\.manifestUrl/);
-    assert.match(source, /books: libraryIndex\.books\.map\(\(book\) => book\.search\)/);
+    assert.match(source, /manifestUrl: librarySummary\.search\.manifestUrl/);
+    assert.match(source, /books: librarySummary\.books\.map\(\(book\) => book\.search\)/);
     assert.match(source, /import "@\/features\/search\/mountHomeSearch\.jsx"/);
     assert.match(source, /document\.addEventListener\("rissor:search-open"/);
     assert.match(source, /new CustomEvent\("rissor:menu-open"/);
