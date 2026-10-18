@@ -27,7 +27,8 @@ describe("UX page accessibility markup", () => {
     for (const pageName of Object.keys(pagePaths)) {
       const source = await readPage(pageName);
 
-      assert.equal(countSnippet(source, "<h1"), 1, `Expected one h1 in ${pageName}`);
+      const expectedHeadingCount = pageName === "howItWorks" ? 2 : 1;
+      assert.equal(countSnippet(source, "<h1"), expectedHeadingCount, `Expected one rendered h1 in ${pageName} for each locale`);
     }
   });
 
@@ -46,9 +47,11 @@ describe("UX page accessibility markup", () => {
   it("keeps the how-it-works story structured and marks future video placements", async () => {
     const source = await readPage("howItWorks");
 
-    assert.equal(countSnippet(source, 'class="how-section__number"'), 14);
+    assert.equal(countSnippet(source, 'class="how-section__number"'), 28);
     assert.equal(countSnippet(source, '<aside class="video-placeholder'), 5);
     assert.match(source, /import flashcardPhoto/);
+    assert.match(source, /How Does It Work\?/);
+    assert.match(source, /Turning the lesson into a living learning system/);
     assert.match(source, /class="flashcard-photo__frame"/);
     assert.match(source, /rotate\(-90deg\)/);
     assert.match(source, /Bir ders düşünün…/);

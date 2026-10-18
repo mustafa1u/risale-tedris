@@ -5,6 +5,11 @@ import { localizedPath } from "@/i18n/routing";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 
 const { locale } = Astro.props as { locale: Locale };
+const isEnglish = locale === "en";
+const pageTitle = isEnglish ? "How Does It Work?" : "Nasıl Oluyor?";
+const pageDescription = isEnglish
+  ? "How learners of different ages can study the same Risale-i Nur lesson together with material suited to their level."
+  : "Farklı yaşlardaki talebelerin aynı Risale-i Nur dersinde seviyelerine uygun materyallerle nasıl birlikte çalıştığını anlatan sistem.";
 
 /*
 const videoPlaceholders = {
@@ -23,10 +28,100 @@ const videoPlaceholders = {
 ---
 
 <BaseLayout
-  title="Nasıl Oluyor?"
-  description="Farklı yaşlardaki talebelerin aynı Risale-i Nur dersinde seviyelerine uygun materyallerle nasıl birlikte çalıştığını anlatan sistem."
+  title={pageTitle}
+  description={pageDescription}
   locale={locale}
 >
+  {isEnglish && (
+    <main class="how-page">
+      <header class="how-intro">
+        <div class="page-band__inner how-intro__inner">
+          <h1>How Does It Work?</h1>
+          <p class="lede">The story of a system that brings different ages together in one lesson—from the need behind it to its practical use.</p>
+          <nav class="how-intro__nav" aria-label="Sections on this page">
+            <a href="#ihtiyac">The need</a><a href="#sistem">The system</a><a href="#uygulama">In practice</a><a href="#sonuc">The result</a>
+          </nav>
+        </div>
+      </header>
+
+      <div class="page-band__inner how-story">
+        <section class="how-section how-section--opening" id="ihtiyac" aria-labelledby="how-step-1-en">
+          <div class="how-section__copy"><p class="how-section__number">01</p><h2 id="how-step-1-en">Can the same lesson work for every level?</h2>
+            <blockquote class="narration"><p>Imagine one lesson…<br />In the same classroom there are younger students and older ones.<br />Some are just beginning; others have been reading for years.<br />How can all of them benefit from the same lesson at the same time?</p></blockquote>
+            <p class="screen-statement">Can one lesson work for every level?</p>
+            <blockquote class="narration"><p>Many people assume this kind of lesson must be either too simple or too complicated.<br />Either the lesson is made lighter so younger children can understand it…<br />or it is prepared for older students and the younger ones struggle.</p><p>But what if that assumption is incomplete from the beginning?</p></blockquote>
+          </div>
+        </section>
+
+        <section class="how-section how-section--split" aria-labelledby="how-step-2-en">
+          <div class="how-section__copy"><p class="how-section__number">02</p><h2 id="how-step-2-en">Changing the wrong assumption</h2>
+            <blockquote class="narration"><p>Education often assumes that a good lesson must be identical for everyone.<br />Yet for some lessons, the real issue is not being one-size-fits-all…<br />it is being well differentiated.</p></blockquote>
+            <p class="screen-statement">Is one uniform lesson always a good lesson?</p><blockquote class="narration"><p>The system presented on this site overturns exactly that assumption.</p></blockquote>
+          </div>
+          <div class="comparison" aria-label="Comparison of a uniform lesson and a differentiated lesson"><article><span class="comparison__mark" aria-hidden="true">×</span><h3>One uniform lesson</h3><p>One lesson, one question set, the same work for everyone.</p></article><article><span class="comparison__mark" aria-hidden="true">✓</span><h3>A well differentiated lesson</h3><p>The same text, with different work by age and level.</p></article></div>
+        </section>
+
+        <section class="how-section" aria-labelledby="how-step-3-en"><div class="how-section__copy"><p class="how-section__number">03</p><h2 id="how-step-3-en">The burden of preparing again for every lesson</h2>
+          <blockquote class="narration"><p>The person leading a lesson repeatedly has to ask:</p><ul class="question-cloud"><li>What will I ask?</li><li>What suits which level?</li><li>What will the younger ones do?</li><li>Will the older ones be bored?</li><li>How will a new student fit in?</li></ul><p>This is a major burden not only for the student, but also for the lesson leader.</p><p>And the most difficult part is this:<br />Many Risales are too large to finish in one sitting.<br />Yet an effective lesson needs questions specific to the part studied that day.</p></blockquote>
+        </div></section>
+
+        <section class="how-section how-section--accent" id="sistem" aria-labelledby="how-step-4-en"><div class="how-section__copy"><p class="how-section__number">04</p><h2 id="how-step-4-en">Ready, customisable, and suited to the class</h2>
+          <blockquote class="narration"><p>That is why a system organised by school range has been prepared:<br />a Risale-i Nur question bank, question-and-answer sheets, flashcards for memorisation,<br />and a desktop program that can tailor them to need.</p></blockquote>
+          <ul class="label-row" aria-label="Core features of the system"><li>Ready</li><li>Customisable</li><li>Suited to the class</li></ul>
+          <blockquote class="narration"><p>The aim is not simply to give questions.<br />It is to free the lesson leader from having to prepare from zero for every lesson.</p></blockquote>
+        </div></section>
+
+        <section class="how-section how-section--split" aria-labelledby="how-step-5-en"><div class="how-section__copy"><p class="how-section__number">05</p><h2 id="how-step-5-en">The system solves three things at once</h2>
+          <blockquote class="narration"><p>The system addresses three core needs at once:</p><ol class="solution-list"><li>It makes a lesson easier to lead.</li><li>It gives each student material suited to their level.</li><li>It keeps attention on the Risale being read.</li></ol><p>The questions cannot be answered by general knowledge alone.<br />The student needs to read and reflect on that Risale itself.</p></blockquote>
+        </div></section>
+
+        <section class="how-section" aria-labelledby="how-step-6-en"><div class="how-section__copy"><p class="how-section__number">06</p><h2 id="how-step-6-en">Why are these questions different?</h2>
+          <blockquote class="narration"><p>For example, a question sheet does not give the whole answer.<br />Only the first few words appear as a clue.</p></blockquote>
+          <div class="question-demo"><article><p class="question-demo__label">Question sheet</p><p>As what benefit, and for which aspect of human life, is the second fruit described?</p><small>7 words · Clue: &quot;Life...&quot;</small></article><article><p class="question-demo__label">Answer key</p><p>The complete answer is in front of the lesson leader during checking.</p><small>Learning + checking</small></article></div>
+          <blockquote class="narration"><p>This means that even if a student has memorised something, they cannot move on without actually understanding the subject.</p><p>The answer key contains the full answer.<br />So the system supports learning and checking at the same time.</p></blockquote>
+        </div></section>
+
+        <section class="how-section how-section--split how-section--photo" aria-labelledby="how-step-7-en"><div class="how-section__copy"><p class="how-section__number">07</p><h2 id="how-step-7-en">Two different paths of learning</h2>
+          <div class="learning-paths"><article><p class="learning-paths__label">A</p><h3>Question sheets</h3><blockquote class="narration"><p>The main idea is this: questions are prepared specifically for every part of a Risale.</p><p>Each Risale is divided into smaller parts.<br />This makes it possible to prepare a separate question set for one lesson-sized section.</p></blockquote></article><article><p class="learning-paths__label">B</p><h3>Flashcards</h3><blockquote class="narration"><p>But the system is not made up of question sheets alone.<br />There are also flashcards.</p><p>They provide another route for the student who wants to memorise.<br />The student sees the question, tries to recall the answer, and then checks the back of the card.</p></blockquote></article></div>
+          <blockquote class="narration"><p>In this way, the same system makes room for different ways of learning.</p></blockquote>
+        </div><figure class="flashcard-photo"><div class="flashcard-photo__frame"><img src={flashcardPhoto.src} width={flashcardPhoto.width} height={flashcardPhoto.height} alt="Question and flashcard sets prepared in three different colours" loading="lazy" decoding="async" /></div><figcaption>Flashcards separated by colour for different levels.</figcaption></figure></section>
+
+        <section class="how-section" id="uygulama" aria-labelledby="how-step-8-en"><div class="how-section__copy"><p class="how-section__number">08</p><h2 id="how-step-8-en">How is a lesson put into practice?</h2>
+          <ol class="process" aria-label="Recommended lesson sequence"><li><span>01</span><strong>Hand out flashcards</strong></li><li><span>02</span><strong>Study for 20 minutes</strong></li><li><span>03</span><strong>Collect the cards</strong></li><li><span>04</span><strong>Hand out question sheets</strong></li><li><span>05</span><strong>Study for 40 minutes to 1 hour</strong></li><li><span>06</span><strong>The lesson leader circulates and helps</strong></li></ol>
+          <blockquote class="narration"><p>The recommended use is very practical:</p><ul class="narration-list"><li>First, use the flashcards for brief memorisation or preparation.</li><li>Then collect the cards.</li><li>Next, distribute the question sheets and work with the Risale open.</li><li>The lesson leader moves through the room and helps wherever students do not understand.</li></ul><p>The lesson becomes not passive listening, but an active process of reading and reflection.</p></blockquote>
+        </div></section>
+
+        <section class="how-section how-section--split" aria-labelledby="how-step-9-en"><div class="how-section__copy"><p class="how-section__number">09</p><h2 id="how-step-9-en">How are copying and confusion prevented?</h2>
+          <blockquote class="narration"><p>What happens when there is more than one student in the same class?</p><p>Here is a crucial detail:<br />there are six genuinely different question sets for the same part.<br />The questions are not merely rearranged; they are truly different.</p></blockquote>
+          <p class="screen-statement">6 different sets — real variety</p><blockquote class="narration"><p>As a result:</p><ul class="check-list"><li>Copying becomes harder.</li><li>The lesson leader can work one-to-one with each student.</li><li>It is clearer how much each student has learned.</li></ul></blockquote>
+        </div></section>
+
+        <section class="how-section how-section--accent" aria-labelledby="how-step-10-en"><div class="how-section__copy"><p class="how-section__number">10</p><h2 id="how-step-10-en">One system for different ages</h2>
+          <ul class="grade-row" aria-label="Example school levels"><li>2nd grade</li><li>5th grade</li><li>8th grade</li><li>11th grade</li></ul>
+          <blockquote class="narration"><p>Perhaps the system's most striking feature is this:<br />different age groups can progress together in the same lesson setting.</p><p>There is separate material for younger and older students.<br />The same Risale can be studied at different levels when needed.</p><p>This removes the need to choose a text only as simple as the youngest student can understand.<br />Everyone can remain in the system at their own level.</p></blockquote>
+        </div></section>
+
+        <section class="how-section" aria-labelledby="how-step-11-en"><div class="how-section__copy"><p class="how-section__number">11</p><h2 id="how-step-11-en">Why is the program important?</h2>
+          <blockquote class="narration"><p>An important part of these materials is prepared with a computer program.<br />The program makes it possible to:</p><ul class="feature-grid"><li>Edit file names</li><li>Change page settings</li><li>Choose a colour theme</li><li>See a preview</li><li>Produce the required number of cards</li></ul><p>So the system is not fixed.<br />It can take shape according to the user's needs.</p></blockquote>
+        </div></section>
+
+        <section class="how-section how-section--split" aria-labelledby="how-step-12-en"><div class="how-section__copy"><p class="how-section__number">12</p><h2 id="how-step-12-en">Long-term encouragement through points and rewards</h2>
+          <div class="reward-motif" aria-hidden="true"><span>★</span><span>★</span><span>★</span><span>＋</span><span>Reward</span></div>
+          <blockquote class="narration"><p>There is also an encouragement side.<br />When a points-and-rewards system is used, a student's motivation can stay alive throughout the term, not only for that day.</p><p>Most importantly, the reward is not limited to the first three; it is given in proportion to points.<br />This means students who are weaker do not give up completely.<br />This web application does not yet include that tracking system; we recommend that you collect and follow the points separately.</p></blockquote>
+        </div></section>
+
+        <section class="how-section" id="sonuc" aria-labelledby="how-step-13-en"><div class="how-section__copy"><p class="how-section__number">13</p><h2 id="how-step-13-en">A final that brings the whole process together</h2>
+          <blockquote class="narration"><p>Finally, the whole system comes together at one point:<br />questions can be selected from every Risale studied during the term.</p><p>The student therefore reviews not only one part, but the whole process.<br />That helps learning become lasting.<br />Files made up of final questions are in preparation; until then, you can create a final examination by selecting from the questions.</p></blockquote>
+        </div></section>
+
+        <section class="how-section how-section--closing" aria-labelledby="how-step-14-en"><div class="how-section__copy"><p class="how-section__number">14</p><h2 id="how-step-14-en">Turning the lesson into a living learning system</h2>
+          <blockquote class="narration"><p>The problem at the beginning was:<br />&quot;How can students of different ages have an effective lesson together?&quot;</p><p>The answer is:<br />by building a ready but customisable system…<br />by dividing the Risale into parts…<br />by making reflection necessary through question sheets…<br />by making room for memorisation through flashcards…<br />and by keeping all this orderly with software support.</p><p class="narration__final">The point is not simply to prepare questions.<br />The point is to turn the lesson from a burden into a living learning system.</p></blockquote>
+          <p class="closing-line"><span>Prepare.</span><span>Apply.</span><span>Follow up.</span><span>Improve.</span></p><a class="button" href={localizedPath(locale, "/books/")}>Explore the materials</a>
+        </div></section>
+      </div>
+    </main>
+  )}
+  {!isEnglish && (
   <main class="how-page">
     <header class="how-intro">
       <div class="page-band__inner how-intro__inner">
@@ -458,6 +553,7 @@ const videoPlaceholders = {
       </section>
     </div>
   </main>
+  )}
 </BaseLayout>
 
 <style>
