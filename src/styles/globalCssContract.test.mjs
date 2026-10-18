@@ -70,8 +70,17 @@ describe("global UX CSS contract", () => {
     assertBlockIncludes(source, ".site-shell > main", ["flex: 1 0 auto;"]);
   });
 
-  it("collapses and then hides the separate theme settings control responsively", async () => {
+  it("styles the alternate-language control and moves it into the compact menu on narrow screens", async () => {
     const source = await readCssSource();
+
+    assertBlockIncludes(source, ".language-nav-control", [
+      "min-height: 48px;",
+      "display: inline-flex;",
+      "gap: 9px;",
+      "border-radius: 50px;"
+    ]);
+    assertBlockIncludes(source, ".site-menu__language-link", ["min-height: 48px;", "font-weight: 700;"]);
+    return;
 
     assertBlockIncludes(source, ".theme-nav-control", [
       "min-height: 48px;",

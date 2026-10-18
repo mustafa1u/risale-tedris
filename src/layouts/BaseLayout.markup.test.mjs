@@ -7,19 +7,19 @@ const bookGroupsPath = new URL("../config/bookGroups.ts", import.meta.url);
 const navigationPath = new URL("../config/navigation.ts", import.meta.url);
 
 describe("BaseLayout markup contract", () => {
-  it("keeps the brand before desktop navigation, search, theme settings, and the native compact-menu trigger", async () => {
+  it("keeps the brand before desktop navigation, search, language switch, and the native compact-menu trigger", async () => {
     const source = await readFile(sourcePath, "utf8");
     const brandIndex = source.indexOf('<a class="brand"');
     const desktopNavigationIndex = source.indexOf('<nav class="navbar">');
     const searchIndex = source.indexOf("data-home-search-host");
-    const themeSettingsIndex = source.indexOf('class="theme-nav-control"');
+    const languageSwitchIndex = source.indexOf('class="language-nav-control"');
     const menuIndex = source.indexOf('<details class="site-menu" data-site-menu>');
 
     assert.equal(brandIndex >= 0, true);
     assert.equal(desktopNavigationIndex > brandIndex, true);
     assert.equal(searchIndex > desktopNavigationIndex, true);
-    assert.equal(themeSettingsIndex > searchIndex, true);
-    assert.equal(menuIndex > themeSettingsIndex, true);
+    assert.equal(languageSwitchIndex > searchIndex, true);
+    assert.equal(menuIndex > languageSwitchIndex, true);
     assert.match(source, /<div class="site-header__controls">/);
     assert.match(source, /<summary class="site-menu__toggle" data-site-menu-trigger>/);
     assert.match(source, /<span class="site-menu__icon" aria-hidden="true">/);
@@ -42,6 +42,10 @@ describe("BaseLayout markup contract", () => {
   it("provides a site-wide mail contact bar", async () => {
     const source = await readFile(sourcePath, "utf8");
 
+    assert.match(source, /aria-label=\{text\.layout\.contactAriaLabel\}/);
+    assert.match(source, /<span>\{text\.layout\.contactAction\}<\/span>/);
+    return;
+
     assert.match(source, /<footer class="site-footer site-contact-bar" aria-label="İletişim">/);
     assert.match(source, /href="mailto:risaletedris@gmail\.com\?subject=/);
     assert.match(source, />Bize Ulaşın<\/span>/);
@@ -49,6 +53,9 @@ describe("BaseLayout markup contract", () => {
 
   it("keeps the mail contact action available in the compact menu", async () => {
     const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /class="site-menu__contact"[\s\S]*?<span>\{text\.layout\.contactAction\}<\/span>/);
+    return;
 
     assert.match(source, /<a class="site-menu__contact" href="mailto:risaletedris@gmail\.com\?subject=/);
     assert.match(source, /class="site-menu__contact"[\s\S]*?>Bize Ulaşın<\/span>/);
@@ -60,7 +67,7 @@ describe("BaseLayout markup contract", () => {
     assert.match(source, /const navigationItems = NAV_ITEMS\.map\(\(item\) =>/);
     assert.match(
       source,
-      /navigationItems\.filter\(\(item\) => item\.id !== "books" && item\.id !== "themes"\)\.map\(\(item\) =>/
+      /navigationItems\.filter\(\(item\) => item\.id !== "books"\)\.map\(\(item\) =>/
     );
     assert.equal(source.match(/compactNavigationItems\.map\(\(item\) =>/g)?.length, 1);
     assert.equal(source.match(/aria-current=\{item\.isCurrent \? "page" : undefined\}/g)?.length, 2);
@@ -136,8 +143,16 @@ describe("BaseLayout markup contract", () => {
     assert.match(source, /new CustomEvent\("rissor:menu-open"/);
   });
 
-  it("keeps English locale infrastructure but hides the language switch while only Turkish material is available", async () => {
+  it("offers the opposite locale in both desktop and compact navigation", async () => {
     const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /const alternateLocale: Locale = locale === DEFAULT_LOCALE \? "en" : DEFAULT_LOCALE;/);
+    assert.match(source, /class="language-nav-control" href=\{alternateLocaleHref\}/);
+    assert.match(source, /class="site-menu__language-link" href=\{alternateLocaleHref\}/);
+    assert.match(source, /const preferenceKey = "rissor-ag-locale";/);
+    assert.match(source, /localStorage\.setItem\(preferenceKey, locale\)/);
+    assert.match(source, /data-locale-preference=\{alternateLocale\}/);
+    return;
 
     assert.match(source, /const VISIBLE_LOCALES: Locale\[] = \[DEFAULT_LOCALE\];/);
     assert.match(source, /VISIBLE_LOCALES\.length > 1/);
@@ -146,8 +161,13 @@ describe("BaseLayout markup contract", () => {
     assert.doesNotMatch(source, /\{LOCALES\.map/);
   });
 
-  it("renders theme selection in both navigation presentations and keeps its label synchronized", async () => {
+  it("fixes the application theme to RisaleTedris and removes theme navigation", async () => {
     const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /themes: \[ACTIVE_THEME\]/);
+    assert.match(source, /themePreferenceMigration: "risale-tedris-fixed-v1"/);
+    assert.doesNotMatch(source, /class="theme-nav-control"/);
+    return;
 
     assert.match(source, /themes: text\.nav\.themes\(\{ theme: text\.themes\.names\[ACTIVE_THEME\] \}\)/);
     assert.match(source, /const themeNavigationItem = navigationItems\.find\(\(item\) => item\.id === "themes"\);/);

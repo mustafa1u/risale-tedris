@@ -16,6 +16,10 @@ type UiDictionary = {
     menu: string;
     primaryNavigation: string;
     languageSelector: string;
+    contactAriaLabel: string;
+    contactEyebrow: string;
+    contactHeading: string;
+    contactAction: string;
   };
   nav: {
     books: string;
@@ -392,7 +396,11 @@ export const ui = {
       brandMeta: "Kitaplar, parçalar, sınıf belgeleri",
       menu: "Menü",
       primaryNavigation: "Birincil gezinme",
-      languageSelector: "Dil seçimi"
+      languageSelector: "Dil seçimi",
+      contactAriaLabel: "İletişim",
+      contactEyebrow: "Sorularınız ve önerileriniz için",
+      contactHeading: "RisaleTedris ekibine ulaşın.",
+      contactAction: "Bize Ulaşın"
     },
     nav: {
       books: "Kitaplar",
@@ -944,7 +952,11 @@ export const ui = {
       brandMeta: "Books, parts, grade documents",
       menu: "Menu",
       primaryNavigation: "Primary navigation",
-      languageSelector: "Language selection"
+      languageSelector: "Language selection",
+      contactAriaLabel: "Contact",
+      contactEyebrow: "For your questions and suggestions",
+      contactHeading: "Contact the RisaleTedris team.",
+      contactAction: "Contact Us"
     },
     nav: {
       books: "Books",
@@ -974,7 +986,7 @@ export const ui = {
         "Prepared question sheets, answer material, Word/PDF outputs, and flashcards for Risale lessons.",
       hero: {
         eyebrow: "Lesson material library",
-        heading: "Ready question sheets and flashcards for Risale lessons",
+        heading: "How Can One Risale-i Nur Lesson Be Taught to Every Age Group at the Same Time?",
         lede: "How do they manage so many different levels in a single system?",
         featureLabels: [
           "2nd grade",

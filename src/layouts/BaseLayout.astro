@@ -2,7 +2,7 @@
 import { NAV_ITEMS } from "@/config/navigation";
 import { groupBooksByLanguage } from "@/config/bookGroups";
 import { SEARCH_ENABLED } from "@/config/features.js";
-import { ACTIVE_THEME, THEMES, type ThemeName } from "@/config/themes";
+import { ACTIVE_THEME } from "@/config/themes";
 import { librarySummary } from "@/data/library-summary.generated";
 import { DEFAULT_LOCALE, getUi, ui, type Locale } from "@/i18n";
 import { localizedPath } from "@/i18n/routing";
@@ -34,33 +34,21 @@ const description = Astro.props.description ?? text.layout.defaultDescription;
 const siteTitle = text.layout.siteTitle;
 const pageTitle = `${title} | ${siteTitle}`;
 const currentPath = Astro.url.pathname;
-const VISIBLE_LOCALES: Locale[] = [DEFAULT_LOCALE];
-const themeNames = Object.keys(THEMES) as ThemeName[];
-const themeNavLabels = Object.fromEntries(
-  themeNames.map((themeName) => [
-    themeName,
-    text.nav.themes({ theme: text.themes.names[themeName] })
-  ])
-);
-const themeCurrentHeadings = Object.fromEntries(
-  themeNames.map((themeName) => [
-    themeName,
-    text.themes.currentHeading({ theme: text.themes.names[themeName] })
-  ])
-);
+const alternateLocale: Locale = locale === DEFAULT_LOCALE ? "en" : DEFAULT_LOCALE;
+const alternateLocaleHref = localizedPath(alternateLocale, currentPath);
+const alternateLocaleLabel = ui[alternateLocale].localeName;
 const themeRuntimeConfig = {
   defaultTheme: ACTIVE_THEME,
-  legacyDefaultTheme: "slate",
-  themePreferenceMigration: "risale-tedris-default-v1",
-  themes: themeNames,
-  navLabels: themeNavLabels,
-  currentHeadings: themeCurrentHeadings
+  legacyDefaultTheme: ACTIVE_THEME,
+  themePreferenceMigration: "risale-tedris-fixed-v1",
+  themes: [ACTIVE_THEME],
+  navLabels: {},
+  currentHeadings: {}
 };
 const navLabels = {
   books: text.nav.books,
   howItWorks: text.nav.howItWorks,
-  lessonFlow: text.nav.lessonFlow,
-  themes: text.nav.themes({ theme: text.themes.names[ACTIVE_THEME] })
+  lessonFlow: text.nav.lessonFlow
 };
 const navigationItems = NAV_ITEMS.map((item) => {
   const href = localizedPath(locale, item.path);
@@ -71,12 +59,10 @@ const navigationItems = NAV_ITEMS.map((item) => {
     isCurrent: currentPath === href || currentPath.startsWith(href)
   };
 });
-const themeNavigationItem = navigationItems.find((item) => item.id === "themes");
 const bookNavigationSections = groupBooksByLanguage(librarySummary.books, locale);
 const compactNavigationItems = navigationItems.map((item) => ({
   ...item,
-  label: navLabels[item.id],
-  themeLink: item.id === "themes"
+  label: navLabels[item.id]
 }));
 ---
 
@@ -88,6 +74,48 @@ const compactNavigationItems = navigationItems.map((item) => ({
     <meta name="description" content={description} />
     <title>{pageTitle}</title>
     <link rel="icon" href="/favicon.ico?v=0.3.0" type="image/x-icon" />
+    <script is:inline>
+      (() => {
+        const preferenceKey = "rissor-ag-locale";
+        const currentLocale = document.documentElement.lang === "en" ? "en" : "tr";
+        const readPreference = () => {
+          try {
+            const value = localStorage.getItem(preferenceKey);
+            return value === "en" || value === "tr" ? value : null;
+          } catch {
+            return null;
+          }
+        };
+        const writePreference = (locale) => {
+          try {
+            localStorage.setItem(preferenceKey, locale);
+          } catch {
+            // Locale persistence is optional when browser storage is unavailable.
+          }
+        };
+        const preferredLocale = readPreference();
+
+        if (preferredLocale && preferredLocale !== currentLocale) {
+          const path = window.location.pathname;
+          const unlocalizedPath = path === "/en" ? "/" : path.startsWith("/en/") ? path.slice(3) : path;
+          const localizedPath = preferredLocale === "en"
+            ? (unlocalizedPath === "/" ? "/en/" : `/en${unlocalizedPath}`)
+            : unlocalizedPath;
+          window.location.replace(`${localizedPath}${window.location.search}${window.location.hash}`);
+          return;
+        }
+
+        document.addEventListener("click", (event) => {
+          const link = event.target instanceof Element
+            ? event.target.closest("[data-locale-preference]")
+            : null;
+          const locale = link?.getAttribute("data-locale-preference");
+          if (locale === "en" || locale === "tr") {
+            writePreference(locale);
+          }
+        });
+      })();
+    </script>
     <script is:inline id="rissor-theme-config" type="application/json" set:html={JSON.stringify(themeRuntimeConfig)}></script>
     <script is:inline>
       (() => {
@@ -228,7 +256,7 @@ const compactNavigationItems = navigationItems.map((item) => ({
           class="nav-link"
           aria-current={currentPath.startsWith(localizedPath(locale, "/books/")) ? "page" : undefined}
         >
-            Kitaplar
+            {text.nav.books}
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.687 7.875" class="nav-caret" aria-hidden="true" >
             <path d="M635.621,375.374a0.7,0.7,0,0,0-.147.017,1.31,1.31,0,0,0-.14.041,0.625,0.625,0,0,0-.129.065,0.7,0.7,0,0,0-.123.1l-3.176,3.176a0.932,0.932,0,0,0-.164.252,0.7,0.7,0,0,0-.059.281,0.737,0.737,0,0,0,.059.287,0.767,0.767,0,0,0,.164.247l3.176,3.175a0.734,0.734,0,0,0,.252.17,0.763,0.763,0,0,0,.281.053,0.819,0.819,0,0,0,.287-0.053,0.617,0.617,0,0,0,.246-0.17,0.752,0.752,0,0,0,.164-0.246,0.7,0.7,0,0,0,0-.562,0.752,0.752,0,0,0-.164-0.246l-2.648-2.649,2.648-2.66a0.752,0.752,0,0,0,.164-0.246,0.7,0.7,0,0,0,0-.563,0.774,0.774,0,0,0-.164-0.246,0.855,0.855,0,0,0-.117-0.1,0.488,0.488,0,0,0-.129-0.065c-0.047-.015-0.094-.029-0.141-0.041a0.609,0.609,0,0,0-.14-0.017h0Z"
             transform="translate(-631.688 -375.375)"></path></svg>
@@ -268,7 +296,7 @@ const compactNavigationItems = navigationItems.map((item) => ({
         </div>
     </div>
 
-    {navigationItems.filter((item) => item.id !== "books" && item.id !== "themes").map((item) => (
+    {navigationItems.filter((item) => item.id !== "books").map((item) => (
       <div class="nav-item">
         <a
           href={item.href}
@@ -303,26 +331,9 @@ const compactNavigationItems = navigationItems.map((item) => ({
                 </button>
               </div>
             ) : null}
-            {themeNavigationItem ? (
-              <a
-                class="theme-nav-control"
-                href={themeNavigationItem.href}
-                aria-current={themeNavigationItem.isCurrent ? "page" : undefined}
-                aria-label={text.nav.theme}
-              >
-                <svg viewBox="0 0 24 24" aria-hidden="true">
-                  <circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="2"></circle>
-                  <path
-                    d="M12 2v3m0 14v3M4.93 4.93l2.12 2.12m9.9 9.9 2.12 2.12M2 12h3m14 0h3M4.93 19.07l2.12-2.12m9.9-9.9 2.12-2.12"
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-width="2"
-                  ></path>
-                </svg>
-                <span class="theme-nav-control__label">{text.nav.theme}</span>
-              </a>
-            ) : null}
+            <a class="language-nav-control" href={alternateLocaleHref} hreflang={alternateLocale} lang={alternateLocale} data-locale-preference={alternateLocale}>
+              {alternateLocaleLabel}
+            </a>
             <details class="site-menu" data-site-menu>
               <summary class="site-menu__toggle" data-site-menu-trigger>
                 <span>{text.layout.menu}</span>
@@ -333,7 +344,7 @@ const compactNavigationItems = navigationItems.map((item) => ({
                   {compactNavigationItems.map((item) => (
                     <a href={item.href} aria-current={item.isCurrent ? "page" : undefined}>
                       <span aria-hidden="true">→</span>
-                      <span data-theme-nav-link={item.themeLink ? "true" : undefined}>{item.label}</span>
+                      <span>{item.label}</span>
                     </a>
                   ))}
                 </nav>
@@ -342,24 +353,11 @@ const compactNavigationItems = navigationItems.map((item) => ({
                     <path d="M3.5 5.5h17v13h-17z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="1.8"></path>
                     <path d="m4.25 6.25 7.75 6 7.75-6" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
                   </svg>
-                  <span>Bize Ulaşın</span>
+                  <span>{text.layout.contactAction}</span>
                 </a>
-                {VISIBLE_LOCALES.length > 1 ? (
-                  <div class="language-switch" aria-label={text.layout.languageSelector}>
-                    {VISIBLE_LOCALES.map((optionLocale) => {
-                      const isActive = optionLocale === locale;
-                      return (
-                        <a
-                          class={isActive ? "is-active" : undefined}
-                          href={localizedPath(optionLocale, currentPath)}
-                          aria-current={isActive ? "true" : undefined}
-                        >
-                          {ui[optionLocale].localeName}
-                        </a>
-                      );
-                    })}
-                  </div>
-                ) : null}
+                <a class="site-menu__language-link" href={alternateLocaleHref} hreflang={alternateLocale} lang={alternateLocale} data-locale-preference={alternateLocale}>
+                  {alternateLocaleLabel}
+                </a>
               </div>
             </details>
           </div>
@@ -369,18 +367,18 @@ const compactNavigationItems = navigationItems.map((item) => ({
         <slot />
       </main>
     </div>
-    <footer class="site-footer site-contact-bar" aria-label="İletişim">
+    <footer class="site-footer site-contact-bar" aria-label={text.layout.contactAriaLabel}>
       <div class="site-footer__inner site-contact-bar__inner">
         <div class="site-contact-bar__message">
-          <span class="site-contact-bar__eyebrow">Sorularınız ve önerileriniz için</span>
-          <strong>RisaleTedris ekibine ulaşın.</strong>
+          <span class="site-contact-bar__eyebrow">{text.layout.contactEyebrow}</span>
+          <strong>{text.layout.contactHeading}</strong>
         </div>
         <a class="site-contact-bar__link" href="mailto:risaletedris@gmail.com?subject=RisaleTedris%20ileti%C5%9Fim">
           <svg viewBox="0 0 24 24" aria-hidden="true">
             <path d="M3.5 5.5h17v13h-17z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="1.8"></path>
             <path d="m4.25 6.25 7.75 6 7.75-6" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
           </svg>
-          <span>Bize Ulaşın</span>
+          <span>{text.layout.contactAction}</span>
         </a>
       </div>
     </footer>
