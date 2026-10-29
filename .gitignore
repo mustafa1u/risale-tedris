@@ -37,6 +37,10 @@ services/Rissor.Augmentation.Export/jobs/
 !.env.example
 .netlify/
 
+# Lesson-flow videos are local deployment inputs; they are not stored in Git.
+src/assets/lesson-flow/*.mp4
+src/assets/lesson-flow/videos/*.mp4
+
 # Editor and OS noise
 .vscode/
 .idea/
