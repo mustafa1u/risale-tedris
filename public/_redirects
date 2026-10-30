@@ -1,2 +1,2 @@
-/books/:bookSlug/study/:gradeSlug/:partNo/ /study/?book=:bookSlug&grade=:gradeSlug&part=:partNo 302
-/en/books/:bookSlug/study/:gradeSlug/:partNo/ /en/study/?book=:bookSlug&grade=:gradeSlug&part=:partNo 302
+/books/:bookSlug/study/:gradeSlug/:partNo/ /calisma/?book=:bookSlug&grade=:gradeSlug&part=:partNo 301
+/en/books/:bookSlug/study/:gradeSlug/:partNo/ /en/study/?book=:bookSlug&grade=:gradeSlug&part=:partNo 301

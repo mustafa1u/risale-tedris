@@ -40,4 +40,81 @@ const homeCtas = getHomepageCtas();
       </div>
     </div>
   </section>
+
+  <section class="newsletter-section" aria-labelledby="newsletter-heading">
+    <div class="page-band__inner newsletter-section__inner">
+      <div class="newsletter-section__copy">
+        <p class="eyebrow">{text.home.newsletter.eyebrow}</p>
+        <h2 id="newsletter-heading">{text.home.newsletter.heading}</h2>
+        <p>{text.home.newsletter.body}</p>
+      </div>
+      <form class="newsletter-form" data-newsletter-form novalidate>
+        <div class="newsletter-form__primary-fields">
+          <label>
+            <span>{text.home.newsletter.emailLabel}</span>
+            <input name="email" type="email" autocomplete="email" inputmode="email" placeholder={text.home.newsletter.emailPlaceholder} required />
+          </label>
+          <label>
+            <span>{text.home.newsletter.languageLabel}</span>
+            <select name="language" required>
+              <option value="tr" selected={locale === "tr"}>{text.home.newsletter.languageTurkish}</option>
+              <option value="en" selected={locale === "en"}>{text.home.newsletter.languageEnglish}</option>
+            </select>
+          </label>
+        </div>
+        <label class="newsletter-form__consent">
+          <input name="consent" type="checkbox" required />
+          <span>{text.home.newsletter.consent}</span>
+        </label>
+        <label class="newsletter-form__honeypot" aria-hidden="true">
+          <span>{text.home.newsletter.honeypotLabel}</span>
+          <input name="website" type="text" tabindex="-1" autocomplete="off" />
+        </label>
+        <div class="newsletter-form__actions">
+          <button class="button" type="submit">{text.home.newsletter.submit}</button>
+          <p class="newsletter-form__status" data-newsletter-status aria-live="polite"></p>
+        </div>
+        <span class="newsletter-form__messages" hidden data-submitting={text.home.newsletter.submitting} data-success={text.home.newsletter.success} data-error={text.home.newsletter.error}></span>
+      </form>
+    </div>
+  </section>
 </BaseLayout>
+
+<script>
+  for (const form of document.querySelectorAll("[data-newsletter-form]")) {
+    const status = form.querySelector("[data-newsletter-status]");
+    const messages = form.querySelector("[data-submitting]");
+    const submit = form.querySelector('button[type="submit"]');
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      if (!(form instanceof HTMLFormElement) || !form.reportValidity() || !status || !messages || !(submit instanceof HTMLButtonElement)) return;
+
+      const data = new FormData(form);
+      submit.disabled = true;
+      status.textContent = messages.dataset.submitting || "";
+      status.dataset.state = "pending";
+      try {
+        const response = await fetch("/api/newsletter/subscribe", {
+          method: "POST",
+          headers: { "content-type": "application/json" },
+          body: JSON.stringify({
+            email: data.get("email"),
+            language: data.get("language"),
+            consent: data.get("consent") === "on",
+            website: data.get("website")
+          })
+        });
+        if (!response.ok) throw new Error("Newsletter subscription failed");
+        form.reset();
+        status.textContent = messages.dataset.success || "";
+        status.dataset.state = "success";
+      } catch {
+        status.textContent = messages.dataset.error || "";
+        status.dataset.state = "error";
+      } finally {
+        submit.disabled = false;
+      }
+    });
+  }
+</script>

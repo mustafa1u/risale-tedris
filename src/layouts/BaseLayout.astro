@@ -5,7 +5,7 @@ import { SEARCH_ENABLED } from "@/config/features.js";
 import { ACTIVE_THEME } from "@/config/themes";
 import { librarySummary } from "@/data/library-summary.generated";
 import { DEFAULT_LOCALE, getUi, ui, type Locale } from "@/i18n";
-import { localizedPath } from "@/i18n/routing";
+import { LOCALIZED_ROUTES, localizedPath } from "@/i18n/routing";
 import rtLogo from "@/assets/site/rt.png";
 import "@/styles/global.css";
 import type { LibrarySearchBookReference } from "@/types/library";
@@ -37,6 +37,11 @@ const currentPath = Astro.url.pathname;
 const alternateLocale: Locale = locale === DEFAULT_LOCALE ? "en" : DEFAULT_LOCALE;
 const alternateLocaleHref = localizedPath(alternateLocale, currentPath);
 const alternateLocaleLabel = ui[alternateLocale].localeName;
+const localizedCurrentPath = localizedPath(locale, currentPath);
+const localizedTurkishHref = localizedPath("tr", currentPath);
+const localizedEnglishHref = localizedPath("en", currentPath);
+const siteOrigin = "https://risaletedris.com";
+const localeRouteMap = JSON.stringify(LOCALIZED_ROUTES).replaceAll("</", "<\\/");
 const themeRuntimeConfig = {
   defaultTheme: ACTIVE_THEME,
   legacyDefaultTheme: ACTIVE_THEME,
@@ -73,11 +78,47 @@ const compactNavigationItems = navigationItems.map((item) => ({
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <title>{pageTitle}</title>
+    <link rel="canonical" href={`${siteOrigin}${localizedCurrentPath}`} />
+    <link rel="alternate" hreflang="tr" href={`${siteOrigin}${localizedTurkishHref}`} />
+    <link rel="alternate" hreflang="en" href={`${siteOrigin}${localizedEnglishHref}`} />
+    <link rel="alternate" hreflang="x-default" href={`${siteOrigin}${localizedTurkishHref}`} />
     <link rel="icon" href="/favicon.ico?v=0.3.0" type="image/x-icon" />
-    <script is:inline>
+    <script is:inline define:vars={{ localeRouteMap }}>
       (() => {
         const preferenceKey = "rissor-ag-locale";
         const currentLocale = document.documentElement.lang === "en" ? "en" : "tr";
+        const routeMap = JSON.parse(localeRouteMap);
+        const trimPrefix = (path, prefix) => {
+          const withoutTrailingSlash = prefix.slice(0, -1);
+          if (path === withoutTrailingSlash) return "/";
+          return path.startsWith(prefix) ? path.slice(prefix.length) : null;
+        };
+        const toLogicalPath = (pathname) => {
+          const withoutEnglishPrefix = pathname === "/en"
+            ? "/"
+            : (pathname.startsWith("/en/") ? pathname.slice(3) : pathname);
+          for (const route of routeMap) {
+            for (const locale of ["tr", "en"]) {
+              const remainder = trimPrefix(withoutEnglishPrefix, route[locale]);
+              if (remainder !== null) return `${route.logical}${remainder === "/" ? "" : remainder}`;
+            }
+          }
+          return withoutEnglishPrefix || "/";
+        };
+        const localizePath = (locale, pathname) => {
+          const logicalPath = toLogicalPath(pathname);
+          let localizedPath = logicalPath;
+          for (const route of routeMap) {
+            const remainder = trimPrefix(logicalPath, route.logical);
+            if (remainder !== null) {
+              localizedPath = `${route[locale]}${remainder === "/" ? "" : remainder}`;
+              break;
+            }
+          }
+          return locale === "en"
+            ? (localizedPath === "/" ? "/en/" : `/en${localizedPath}`)
+            : localizedPath;
+        };
         const readPreference = () => {
           try {
             const value = localStorage.getItem(preferenceKey);
@@ -97,11 +138,7 @@ const compactNavigationItems = navigationItems.map((item) => ({
 
         if (preferredLocale && preferredLocale !== currentLocale) {
           const path = window.location.pathname;
-          const unlocalizedPath = path === "/en" ? "/" : path.startsWith("/en/") ? path.slice(3) : path;
-          const localizedPath = preferredLocale === "en"
-            ? (unlocalizedPath === "/" ? "/en/" : `/en${unlocalizedPath}`)
-            : unlocalizedPath;
-          window.location.replace(`${localizedPath}${window.location.search}${window.location.hash}`);
+          window.location.replace(`${localizePath(preferredLocale, path)}${window.location.search}${window.location.hash}`);
           return;
         }
 

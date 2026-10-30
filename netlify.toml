@@ -1,0 +1,52 @@
+[build]
+  functions = "netlify/functions"
+
+# Legacy Turkish study-deck paths need their query parameters preserved.
+[[redirects]]
+  from = "/books/:bookSlug/study/:gradeSlug/:partNo/"
+  to = "/calisma/?book=:bookSlug&grade=:gradeSlug&part=:partNo"
+  status = 301
+  force = true
+
+# Legacy Turkish URLs are retained as permanent redirects for bookmarks and search.
+[[redirects]]
+  from = "/books/*"
+  to = "/kitaplar/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lesson-flow/"
+  to = "/ders-akisi/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/study/"
+  to = "/calisma/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/themes/"
+  to = "/temalar/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/newsletter-confirmed/"
+  to = "/bulten-onayi/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/nasil-oluyor/"
+  to = "/en/how-it-works/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/api/newsletter/subscribe"
+  to = "/.netlify/functions/newsletter-subscribe"
+  status = 200
+  force = true

@@ -1,0 +1,17 @@
+---
+import { getUi, type Locale } from "@/i18n";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const { locale } = Astro.props as { locale: Locale };
+const text = getUi(locale);
+---
+
+<BaseLayout title={text.home.newsletter.confirmedHeading} locale={locale}>
+  <section class="newsletter-confirmed">
+    <div class="page-band__inner newsletter-confirmed__inner">
+      <p class="eyebrow">{text.home.newsletter.eyebrow}</p>
+      <h1>{text.home.newsletter.confirmedHeading}</h1>
+      <p>{text.home.newsletter.confirmedBody}</p>
+    </div>
+  </section>
+</BaseLayout>

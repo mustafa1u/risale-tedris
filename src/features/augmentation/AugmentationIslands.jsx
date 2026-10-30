@@ -660,7 +660,7 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
     }
     clearCachedExportJob(project);
     await storage.deleteProject(project.id);
-    window.location.assign(locale === "en" ? `/en/books/${bookSlug}/` : `/books/${bookSlug}/`);
+    window.location.assign(locale === "en" ? `/en/books/${bookSlug}/` : `/kitaplar/${bookSlug}/`);
   };
 
   const prepareDocuments = async () => {

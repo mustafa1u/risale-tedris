@@ -20,7 +20,7 @@ test("augmentation contracts expose stable versioned keys", () => {
 test("personal project paths use one static shell and an encoded local id", () => {
   assert.equal(
     augmentedProjectPath("kucuk-sozler", "local id", "tr"),
-    "/books/kucuk-sozler/my-augmentations/view/?id=local%20id"
+    "/kitaplar/kucuk-sozler/my-augmentations/view/?id=local%20id"
   );
   assert.equal(
     augmentedProjectPath("kucuk-sozler", "abc", "en"),

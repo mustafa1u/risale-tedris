@@ -39,7 +39,7 @@ describe("study routing", () => {
         gradeSlug: "5-sinif",
         partNo: "p01"
       }),
-      "/study/?book=sample-book&grade=5-sinif&part=p01"
+      "/calisma/?book=sample-book&grade=5-sinif&part=p01"
     );
   });
 

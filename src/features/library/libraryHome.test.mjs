@@ -55,9 +55,9 @@ describe("library homepage helpers", () => {
 
   it("routes homepage calls to action to their dedicated pages", () => {
     assert.deepEqual(getHomepageCtas(), {
-      booksHref: "/books/",
+      booksHref: "/kitaplar/",
       howItWorksHref: "/nasil-oluyor/",
-      lessonFlowHref: "/lesson-flow/"
+      lessonFlowHref: "/ders-akisi/"
     });
   });
 

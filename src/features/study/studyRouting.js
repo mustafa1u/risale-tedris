@@ -1,4 +1,4 @@
-export const STUDY_ROUTE_PATH = "/study/";
+export const STUDY_ROUTE_PATH = "/calisma/";
 
 export function studyDeckPath({ bookSlug, gradeSlug, partNo }) {
   const params = new URLSearchParams({

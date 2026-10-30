@@ -115,6 +115,24 @@ type UiDictionary = {
       body: string;
     };
     booksHeading: string;
+    newsletter: {
+      eyebrow: string;
+      heading: string;
+      body: string;
+      emailLabel: string;
+      emailPlaceholder: string;
+      languageLabel: string;
+      languageTurkish: string;
+      languageEnglish: string;
+      consent: string;
+      submit: string;
+      submitting: string;
+      success: string;
+      confirmedHeading: string;
+      confirmedBody: string;
+      error: string;
+      honeypotLabel: string;
+    };
   };
   library: {
     pageTitle: string;
@@ -642,7 +660,26 @@ export const ui = {
         body:
           "Bu ağ uygulaması hazır materyalleri okumak, indirmek ve bilgi kartlarıyla çalışmak içindir. Soru kağıtlarını ve bilgi kartlarını yeniden hazırlama veya düzenleme işi ayrı masaüstü programıyla yapılır."
       },
-      booksHeading: "Kitaplar"
+      booksHeading: "Kitaplar",
+      newsletter: {
+        eyebrow: "Duyurular",
+        heading: "Yeni içeriklerden haberdar olun",
+        body: "Yeni kitaplar, güncellemeler ve duyurular e-postanıza gelsin.",
+        emailLabel: "E-posta adresiniz",
+        emailPlaceholder: "ornek@eposta.com",
+        languageLabel: "Duyuru dili",
+        languageTurkish: "Türkçe",
+        languageEnglish: "English",
+        consent: "RisaleTedris'in güncelleme ve duyurularını e-postayla almak istiyorum. İstediğim zaman abonelikten ayrılabilirim.",
+        submit: "Abone ol",
+        submitting: "Kaydediliyor…",
+        success: "E-postanıza gönderdiğimiz bağlantıdan aboneliğinizi onaylayın.",
+        confirmedHeading: "Aboneliğiniz onaylandı",
+        confirmedBody:
+          "RisaleTedris'ten yeni kitaplar, güncellemeler ve duyurularla ilgili e-postalar alacaksınız. İstediğiniz zaman abonelikten ayrılabilirsiniz.",
+        error: "Şu anda abonelik kaydı yapılamadı. Lütfen daha sonra tekrar deneyin.",
+        honeypotLabel: "Bu alanı boş bırakın"
+      }
     },
     library: {
       pageTitle: "Kitaplar",
@@ -1199,7 +1236,26 @@ export const ui = {
         body:
           "This web app is for reading, downloading, and studying prepared material. Rebuilding or editing question sheets and flashcards is handled by a separate desktop program."
       },
-      booksHeading: "Books"
+      booksHeading: "Books",
+      newsletter: {
+        eyebrow: "Updates",
+        heading: "Stay informed about new content",
+        body: "Get new books, updates, and announcements by email.",
+        emailLabel: "Your email address",
+        emailPlaceholder: "you@example.com",
+        languageLabel: "Announcement language",
+        languageTurkish: "Türkçe",
+        languageEnglish: "English",
+        consent: "I would like to receive RisaleTedris updates and announcements by email. I can unsubscribe at any time.",
+        submit: "Subscribe",
+        submitting: "Subscribing…",
+        success: "Please confirm your subscription using the link we sent to your email address.",
+        confirmedHeading: "Your subscription is confirmed",
+        confirmedBody:
+          "You will receive emails about new RisaleTedris books, updates, and announcements. You can unsubscribe at any time.",
+        error: "We could not subscribe you right now. Please try again later.",
+        honeypotLabel: "Leave this field empty"
+      }
     },
     library: {
       pageTitle: "Books",

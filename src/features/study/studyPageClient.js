@@ -62,10 +62,10 @@ function readJsonScript(root, selector, fallback) {
 
 function localizedPath(locale, pathname) {
   if (locale !== "en") {
-    return pathname;
+    return pathname.replace(/^\/books\//u, "/kitaplar/");
   }
 
-  return pathname === "/" ? "/en/" : `/en${pathname}`;
+  return pathname === "/" ? "/en/" : `/en${pathname.replace(/^\/kitaplar\//u, "/books/")}`;
 }
 
 function formatFromTemplate(template, count) {
