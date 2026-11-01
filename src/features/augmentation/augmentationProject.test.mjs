@@ -11,7 +11,8 @@ import {
   hydrateProjectSourceText,
   loadAugmentationCatalog,
   loadPartTexts,
-  loadRecipeSources
+  loadRecipeSources,
+  refreshAugmentationProject
 } from "./augmentationProject.js";
 
 function catalogFixture() {
@@ -196,6 +197,42 @@ test("saved projects without source text are hydrated from the current catalog",
     hydrated.orderedParts[0].textUrl,
     "/assets/book-a/parcalar/book-a-p08-p08-first-second-third-fourth-fifth-sixth.txt"
   );
+});
+
+test("stale projects are rebuilt from the current catalog before export", async () => {
+  const catalog = catalogFixture();
+  catalog.catalogRevision = "catalog-2";
+  const base = catalogPartToDomain(catalog.books[0], catalog.books[0].parts[1]);
+  const next = catalogPartToDomain(catalog.books[0], catalog.books[0].parts[2]);
+  const original = buildAugmentationProject({
+    id: "project-1",
+    title: "My saved title",
+    catalogRevision: "catalog-1",
+    basePart: base,
+    orderedParts: [base, next],
+    gradeSlugs: ["5-sinif"],
+    sourcesByGrade: {
+      "5-sinif": [makeSource({ part: base, gradeSlug: "5-sinif" }), makeSource({ part: next, gradeSlug: "5-sinif" })]
+    }
+  });
+
+  const refreshed = await refreshAugmentationProject({
+    project: original,
+    catalog,
+    fetch: async (url) => {
+      if (url.endsWith(".txt")) return { ok: true, text: async () => `Text for ${url}` };
+      const part = url.includes("p08") ? base : next;
+      const source = makeSource({ part, gradeSlug: "5-sinif" });
+      source.sourceRevision = `${part.partNo}-5`;
+      return { ok: true, json: async () => source };
+    }
+  });
+
+  assert.equal(refreshed.id, original.id);
+  assert.equal(refreshed.title, "My saved title");
+  assert.equal(refreshed.catalogRevision, "catalog-2");
+  assert.equal(refreshed.gradeResults["5-sinif"].status, "ready");
+  assert.match(refreshed.sourceText, /Text for/);
 });
 
 test("project creation records ready and failed grades without losing successful snapshots", () => {

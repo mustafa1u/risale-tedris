@@ -54,12 +54,13 @@ public sealed class DocumentArtifactGenerator
                 input.SourcesByGrade[gradeSlug]);
             var code = gradeSlug.Replace("-", "", StringComparison.Ordinal);
             var baseName = $"{code}_personal-{safeTitle}-{job.Id[..8]}";
+            var documentTitle = GradeDocumentTitle(gradeSlug, input.Request.Title);
             var paths = new GeneratedPaths(job.DirectoryPath, baseName);
 
-            GenerateQuestionSheet(paths.QuestionSheetDocx, result, input.Request.Title, mobile: false);
-            GenerateQuestionSheet(paths.MobileQuestionSheetDocx, result, input.Request.Title, mobile: true);
-            GenerateFlashcards(paths.FlashcardDocx, result, input.Request.Title, gradeSlug, mobile: false);
-            GenerateFlashcards(paths.MobileFlashcardDocx, result, input.Request.Title, gradeSlug, mobile: true);
+            GenerateQuestionSheet(paths.QuestionSheetDocx, result, documentTitle, mobile: false);
+            GenerateQuestionSheet(paths.MobileQuestionSheetDocx, result, documentTitle, mobile: true);
+            GenerateFlashcards(paths.FlashcardDocx, result, documentTitle, gradeSlug, mobile: false);
+            GenerateFlashcards(paths.MobileFlashcardDocx, result, documentTitle, gradeSlug, mobile: true);
 
             await ConvertToPdfAsync([
                 paths.QuestionSheetDocx,
@@ -113,6 +114,13 @@ public sealed class DocumentArtifactGenerator
             qaHeading1FontSizePt: mobile ? 14 : null,
             qaHeading2FontSizePt: mobile ? 14 : null);
         ValidateDocx(outputPath);
+    }
+
+    private static string GradeDocumentTitle(string gradeSlug, string title)
+    {
+        var normalizedGrade = gradeSlug.Replace("-", string.Empty, StringComparison.Ordinal).Trim();
+        var normalizedTitle = title.Trim();
+        return string.IsNullOrWhiteSpace(normalizedGrade) ? normalizedTitle : $"{normalizedGrade} {normalizedTitle}";
     }
 
     private static void GenerateFlashcards(

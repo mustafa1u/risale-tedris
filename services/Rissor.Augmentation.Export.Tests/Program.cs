@@ -23,6 +23,7 @@ var tests = new (string Name, Func<Task> Run)[]
 {
     ("catalog sources are loaded authoritatively", CatalogSources),
     ("question sheets print Turkish word-count labels", QuestionSheetWordCountLabel),
+    ("export titles include their school grade", GradeDocumentTitle),
     ("stale catalog revisions are rejected", StaleRevision),
     ("job creation is idempotent and cancellation is terminal", JobLifecycle),
     ("expired jobs and files are cleaned", ExpiryCleanup),
@@ -109,6 +110,17 @@ Task QuestionSheetWordCountLabel()
     var documentXml = reader.ReadToEnd();
     Assert(documentXml.Contains("6 kelime", StringComparison.Ordinal), "Expected the question sheet to print '(6 kelime)'.");
     Assert(!documentXml.Contains("(6 )", StringComparison.Ordinal), "The bare word-count marker '(6 )' remained in the document.");
+    return Task.CompletedTask;
+}
+
+Task GradeDocumentTitle()
+{
+    var method = typeof(DocumentArtifactGenerator).GetMethod(
+        "GradeDocumentTitle",
+        BindingFlags.NonPublic | BindingFlags.Static)
+        ?? throw new InvalidOperationException("GradeDocumentTitle method was not found.");
+    var title = method.Invoke(null, ["5-sinif", "P01 + P02 + P03"]) as string;
+    Assert(title == "5sinif P01 + P02 + P03", "The grade was not prefixed to the generated document title.");
     return Task.CompletedTask;
 }
 

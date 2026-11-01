@@ -1,6 +1,11 @@
 [build]
   functions = "netlify/functions"
 
+[build.environment]
+  PUBLIC_AUGMENTATION_ENABLED = "true"
+  PUBLIC_SEARCH_ENABLED = "true"
+  PUBLIC_AUGMENTATION_EXPORT_API = "https://augmentation.risaletedris.com/api/augmentation"
+
 # Legacy Turkish study-deck paths need their query parameters preserved.
 [[redirects]]
   from = "/books/:bookSlug/study/:gradeSlug/:partNo/"

@@ -11,7 +11,8 @@ import {
   hydrateProjectSourceText,
   loadAugmentationCatalog,
   loadPartTexts,
-  loadRecipeSources
+  loadRecipeSources,
+  refreshAugmentationProject
 } from "./augmentationProject.js";
 import {
   hasPartTextSectionSeparators,
@@ -673,12 +674,21 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
     setExportStatus(labels.preparingDocuments);
     setStatus("");
     try {
-      const created = await createExportJob(project, { signal: controller.signal });
-      writeCachedExportJob(project, created);
+      const catalog = await loadAugmentationCatalog({ signal: controller.signal });
+      const refreshed = await refreshAugmentationProject({ project, catalog, signal: controller.signal });
+      const exportProject = refreshed === project
+        ? project
+        : await storage.saveProject(refreshed, { expectedRevision: project.revision });
+      if (refreshed !== project) {
+        clearCachedExportJob(project);
+        setProject(exportProject);
+      }
+      const created = await createExportJob(exportProject, { signal: controller.signal });
+      writeCachedExportJob(exportProject, created);
       const ready = await pollExportJob(created.id, { signal: controller.signal });
       setExportJob(ready);
       setExportStatus(labels.exportsReady);
-      writeCachedExportJob(project, ready);
+      writeCachedExportJob(exportProject, ready);
     } catch (error) {
       if (error.name !== "AbortError") {
         const message = error.code === "export-service-unavailable"

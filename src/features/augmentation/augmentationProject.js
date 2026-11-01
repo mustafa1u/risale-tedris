@@ -229,6 +229,60 @@ export async function hydrateProjectSourceText({
   };
 }
 
+export async function refreshAugmentationProject({
+  project,
+  catalog,
+  fetch = globalThis.fetch,
+  signal
+}) {
+  if (!project?.id || !project?.basePartKey || !Array.isArray(project.orderedParts)) {
+    throw new Error("The augmentation project is incomplete.");
+  }
+  if (!catalog?.catalogRevision) {
+    throw new Error("The augmentation catalog is unavailable.");
+  }
+  if (project.catalogRevision === catalog.catalogRevision) {
+    return project;
+  }
+
+  const orderedParts = project.orderedParts.map((storedPart, index) => {
+    const context = findCatalogPartByKey(catalog, storedPart?.key);
+    if (!context) {
+      throw new Error(`The saved augmentation part '${storedPart?.key ?? ""}' is no longer available.`);
+    }
+    return catalogPartToDomain(context.book, context.part, storedPart.selectionSequence ?? index);
+  });
+  const basePart = orderedParts.find((part) => part.key === project.basePartKey);
+  if (!basePart) {
+    throw new Error("The saved augmentation base part is no longer available.");
+  }
+
+  const [loaded, loadedTexts] = await Promise.all([
+    loadRecipeSources({
+      catalog,
+      orderedPartKeys: orderedParts.map((part) => part.key),
+      gradeSlugs: project.selectedGrades,
+      fetch,
+      signal
+    }),
+    loadPartTexts({ orderedParts, fetch, signal })
+  ]);
+
+  return {
+    ...buildAugmentationProject({
+      id: project.id,
+      title: project.title,
+      catalogRevision: catalog.catalogRevision,
+      basePart,
+      orderedParts,
+      gradeSlugs: project.selectedGrades,
+      sourceTextByPartKey: loadedTexts.sourceTextByPartKey,
+      ...loaded
+    }),
+    createdAt: project.createdAt
+  };
+}
+
 function readyGradeSnapshot(result) {
   return {
     status: "ready",
