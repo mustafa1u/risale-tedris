@@ -91,7 +91,6 @@ type UiDictionary = {
         description: string;
         duration: string;
       }>;
-      videoDownloadLabel: string;
       heading: string;
       steps: Array<{
         phase: string;
@@ -561,7 +560,6 @@ export const ui = {
             duration: "Birebir destek videosu"
           }
         ],
-        videoDownloadLabel: "Videoyu indir",
         steps: [
           {
             phase: "Ders öncesi",
@@ -1136,7 +1134,6 @@ export const ui = {
             duration: "One-to-one coaching video"
           }
         ],
-        videoDownloadLabel: "Download video",
         heading: "How does one lesson run from start to finish?",
         steps: [
           {

@@ -67,7 +67,8 @@ describe("UX page accessibility markup", () => {
     assert.match(source, /import flashcardsUsageVideo/);
     assert.match(source, /const lessonFlowVideos = text\.home\.lessonFlow\.videos\.map/);
     assert.match(source, /<section class="lesson-flow-media" aria-labelledby="lesson-flow-media-heading">/);
-    assert.match(source, /<video controls preload="metadata" playsinline src={video\.src}>/);
+    assert.match(source, /<video controls controlslist="nodownload" preload="metadata" playsinline src={video\.src}>/);
+    assert.doesNotMatch(source, /videoDownloadLabel|href={video\.src}|\sdownload(?:\s|>)/);
     assert.match(source, /{text\.home\.mixedAgeLead}/);
     assert.match(source, /text\.home\.lessonFlow\.steps\.map/);
     assert.match(source, /<details class="home-flow-detail" open>/);

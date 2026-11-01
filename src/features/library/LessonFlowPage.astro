@@ -64,15 +64,12 @@ const lessonFlowVideos = text.home.lessonFlow.videos.map((video, index) => ({
           {lessonFlowVideos.map((video) => (
               <article class="lesson-flow-video-card">
                 <div class="lesson-flow-video-card__player">
-                  <video controls preload="metadata" playsinline src={video.src}></video>
+                  <video controls controlslist="nodownload" preload="metadata" playsinline src={video.src}></video>
                 </div>
                 <div class="lesson-flow-video-card__body">
                   <p class="lesson-flow-video-card__kicker">{video.duration}</p>
                   <h3>{video.title}</h3>
                   <p>{video.description}</p>
-                  <p class="lesson-flow-video-card__download-wrap">
-                    <a class="button-secondary" href={video.src} download>{text.home.lessonFlow.videoDownloadLabel}</a>
-                  </p>
                 </div>
               </article>
             ))}
@@ -329,10 +326,6 @@ const lessonFlowVideos = text.home.lessonFlow.videos.map((video, index) => ({
   .lesson-flow-video-card__body p:not(.lesson-flow-video-card__kicker) {
     color: var(--text-muted);
     line-height: 1.55;
-  }
-
-  .lesson-flow-video-card__download-wrap {
-    margin: 0;
   }
 
   .lesson-flow-video-card__kicker {
