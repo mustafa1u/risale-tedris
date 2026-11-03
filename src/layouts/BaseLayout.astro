@@ -69,6 +69,7 @@ const compactNavigationItems = navigationItems.map((item) => ({
   ...item,
   label: navLabels[item.id]
 }));
+const demoLessonMailto = `mailto:risaletedris@gmail.com?subject=${encodeURIComponent(text.layout.demoLessonSubject)}&body=${encodeURIComponent(text.layout.demoLessonBody)}`;
 ---
 
 <!doctype html>
@@ -391,6 +392,13 @@ const compactNavigationItems = navigationItems.map((item) => ({
                     <path d="m4.25 6.25 7.75 6 7.75-6" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
                   </svg>
                   <span>{text.layout.contactAction}</span>
+                </a>
+                <a class="site-menu__demo-lesson" href={demoLessonMailto}>
+                  <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M5 3.5h14v17H5z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="1.8"></path>
+                    <path d="M8 8h8M8 12h8M8 16h5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.8"></path>
+                  </svg>
+                  <span>{text.layout.demoLessonAction}</span>
                 </a>
                 <a class="site-menu__language-link" href={alternateLocaleHref} hreflang={alternateLocale} lang={alternateLocale} data-locale-preference={alternateLocale}>
                   {alternateLocaleLabel}

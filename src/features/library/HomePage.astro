@@ -8,6 +8,7 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 const { locale } = Astro.props as { locale: Locale };
 const text = getUi(locale);
 const homeCtas = getHomepageCtas();
+const demoLessonMailto = `mailto:risaletedris@gmail.com?subject=${encodeURIComponent(text.layout.demoLessonSubject)}&body=${encodeURIComponent(text.layout.demoLessonBody)}`;
 ---
 
 <BaseLayout title={text.home.pageTitle} description={text.home.description} locale={locale}>
@@ -25,6 +26,7 @@ const homeCtas = getHomepageCtas();
         <div class="home-actions">
           <a class="button" href={localizedPath(locale, homeCtas.howItWorksHref)}>{text.home.hero.primaryCta}</a>
           <a class="button-secondary" href={localizedPath(locale, homeCtas.lessonFlowHref)}>{text.home.hero.secondaryCta}</a>
+          <a class="button-secondary" href={demoLessonMailto}>{text.layout.demoLessonAction}</a>
         </div>
       </div>
 

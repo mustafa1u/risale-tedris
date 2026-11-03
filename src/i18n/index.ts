@@ -20,6 +20,9 @@ type UiDictionary = {
     contactEyebrow: string;
     contactHeading: string;
     contactAction: string;
+    demoLessonAction: string;
+    demoLessonSubject: string;
+    demoLessonBody: string;
   };
   nav: {
     books: string;
@@ -421,7 +424,10 @@ export const ui = {
       contactAriaLabel: "İletişim",
       contactEyebrow: "Sorularınız ve önerileriniz için",
       contactHeading: "RisaleTedris ekibine ulaşın.",
-      contactAction: "Bize Ulaşın"
+      contactAction: "Bize Ulaşın",
+      demoLessonAction: "Tanıtım dersi iste",
+      demoLessonSubject: "Lütfen bize bir tanıtım dersi yapmaya gelin",
+      demoLessonBody: "Her hafta .... günü saat .....'de talebelerle yaptığımız Risale-i Nur dersimizde bu ders metodunu bize canlı olarak göstermenizi talep ediyoruz.\n\nYer: ........\nTel: .......\n\nİsim ve soyisim:\n\nSelam ve dua ile,"
     },
     nav: {
       books: "Soru Bankaları",
@@ -999,7 +1005,10 @@ export const ui = {
       contactAriaLabel: "Contact",
       contactEyebrow: "For your questions and suggestions",
       contactHeading: "Contact the RisaleTedris team.",
-      contactAction: "Contact Us"
+      contactAction: "Contact Us",
+      demoLessonAction: "Ask for demo lesson",
+      demoLessonSubject: "Please come and give us a demo lesson",
+      demoLessonBody: "We would like you to demonstrate this lesson method live during our weekly Risale-i Nur lesson with students, held every .... at ......\n\nLocation: ........\nPhone: .......\n\nFull name:\n\nWith greetings and prayers,"
     },
     nav: {
       books: "Question Banks",
