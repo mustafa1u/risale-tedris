@@ -3,7 +3,7 @@ import { getUi, type Locale } from "@/i18n";
 import { getGradeShortLabel } from "@/i18n/libraryLabels";
 import { localizedPath } from "@/i18n/routing";
 import { AUGMENTATION_ENABLED, SEARCH_ENABLED } from "@/config/features.js";
-import { PersonalAugmentationList } from "@/features/augmentation/AugmentationIslands.jsx";
+import { AugmentationLauncher, PersonalAugmentationList } from "@/features/augmentation/AugmentationIslands.jsx";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import type { LibraryBook, LibrarySearchBookReference } from "@/types/library";
 
@@ -85,12 +85,23 @@ const text = getUi(locale);
       </p>
 
       {AUGMENTATION_ENABLED ? (
-        <PersonalAugmentationList
-          client:load
-          bookSlug={book.slug}
-          locale={locale}
-          labels={text.augmentation}
-        />
+        <div class="book-augmentation-tools">
+          <section class="guidance-panel augmentation-entry" aria-label={text.augmentation.launch}>
+            <AugmentationLauncher
+              client:load
+              bookSlug={book.slug}
+              locale={locale}
+              labels={text.augmentation}
+              gradeLabels={Object.fromEntries(book.grades.map((grade) => [grade.slug, getGradeShortLabel(locale, grade.slug, grade.label)]))}
+            />
+          </section>
+          <PersonalAugmentationList
+            client:load
+            bookSlug={book.slug}
+            locale={locale}
+            labels={text.augmentation}
+          />
+        </div>
       ) : null}
 
       <div class="part-list" data-part-list>

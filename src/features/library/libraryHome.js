@@ -29,7 +29,7 @@ export function getHomepageStats(library) {
 
 export function getHomepageCtas() {
   return {
-    booksHref: "/kitaplar/",
+    booksHref: "/soru-bankalari/",
     howItWorksHref: "/nasil-oluyor/",
     lessonFlowHref: "/ders-akisi/"
   };

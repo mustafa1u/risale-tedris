@@ -3,7 +3,7 @@ import { readFile } from "node:fs/promises";
 import { resolve } from "node:path";
 import { getPartDownloadGroups } from "@/features/library/partDownloads.js";
 import { getUi, type Locale } from "@/i18n";
-import { getGradeExplanatoryLabel } from "@/i18n/libraryLabels";
+import { getGradeShortLabel } from "@/i18n/libraryLabels";
 import { localizedPath } from "@/i18n/routing";
 import { splitPartText } from "@/features/library/partText.js";
 import { AUGMENTATION_ENABLED } from "@/config/features.js";
@@ -41,9 +41,18 @@ const downloadGroups = getPartDownloadGroups({ book, part }) as PartDownloadGrou
 const partIndex = book.parts.findIndex((item) => item.partNo === part.partNo);
 const previousPart = partIndex > 0 ? book.parts[partIndex - 1] : undefined;
 const nextPart = partIndex >= 0 && partIndex < book.parts.length - 1 ? book.parts[partIndex + 1] : undefined;
+const partNavigationTitle = (candidate: LibraryPart) => {
+  const title = candidate.title.trim();
+  if (title.length <= 25) {
+    return `${candidate.partNo.toUpperCase()} - ${title}`;
+  }
+  const cutAt = title.lastIndexOf(" ", 25);
+  const shortened = title.slice(0, cutAt > 0 ? cutAt : 25).trimEnd();
+  return `${candidate.partNo.toUpperCase()} - ${shortened}`;
+};
 const adjacentParts = [
-  { direction: "previous", label: text.part.previous, part: previousPart },
-  { direction: "next", label: text.part.next, part: nextPart }
+  { direction: "previous", label: text.part.previous, arrow: "←", part: previousPart },
+  { direction: "next", label: text.part.next, arrow: "→", part: nextPart }
 ] as const;
 const downloadActionLabels = {
   docx: text.downloads.docx,
@@ -54,7 +63,7 @@ const downloadActionKeys = Object.keys(downloadActionLabels) as DownloadActionKe
 const getMaterialHint = (docType: string) =>
   docType === "BK" ? text.downloads.studyHint : text.downloads.questionSheetHint;
 const augmentationGradeLabels = Object.fromEntries(
-  book.grades.map((grade) => [grade.slug, getGradeExplanatoryLabel(locale, grade.slug, grade.label)])
+  book.grades.map((grade) => [grade.slug, getGradeShortLabel(locale, grade.slug, grade.label)])
 );
 ---
 
@@ -76,6 +85,45 @@ const augmentationGradeLabels = Object.fromEntries(
         <p class="eyebrow">{text.part.eyebrow({ partNo: part.partNo.toUpperCase() })}</p>
         <h1>{part.title}</h1>
       </div>
+      <nav class="part-quick-nav" aria-label={text.part.quickNavigation}>
+        <span class="part-quick-nav__jump-group">
+          <a class="part-quick-nav__button" href="#part-downloads" title={text.part.quickNavDownloads} aria-label={text.part.quickNavDownloads}>
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 3v11m0 0 4-4m-4 4-4-4M5 17v3h14v-3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
+            </svg>
+          </a>
+          <a class="part-quick-nav__button" href="#part-text" title={text.part.quickNavText} aria-label={text.part.quickNavText}>
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M6 4.5h9.5l2.5 2.5v12.5H6zM9 11h6m-6 3.5h6m-6 3.5h4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
+            </svg>
+          </a>
+        </span>
+        <span class="part-quick-nav__step-group" aria-label={text.part.navigationLabel}>
+          {adjacentParts.map((item) => {
+            const targetPart = item.part;
+            const fullLabel = targetPart
+              ? `${item.label}: ${targetPart.partNo.toUpperCase()} - ${targetPart.title}`
+              : item.label;
+
+            return targetPart ? (
+              <a
+                class="part-quick-nav__button part-quick-nav__button--step"
+                href={localizedPath(locale, `/books/${book.slug}/parts/${targetPart.partNo}/`)}
+                title={fullLabel}
+                aria-label={fullLabel}
+              >
+                <span class="part-quick-nav__arrow" aria-hidden="true">{item.arrow}</span>
+                <span class="part-quick-nav__step-text">{item.label}: {partNavigationTitle(targetPart)}</span>
+              </a>
+            ) : (
+              <span class="part-quick-nav__button part-quick-nav__button--step is-disabled" aria-disabled="true">
+                <span class="part-quick-nav__arrow" aria-hidden="true">{item.arrow}</span>
+                <span class="part-quick-nav__step-text">{item.label}</span>
+              </span>
+            );
+          })}
+        </span>
+      </nav>
     </div>
   </section>
 
@@ -83,36 +131,17 @@ const augmentationGradeLabels = Object.fromEntries(
     <div class="page-band__inner">
       <div class="part-layout">
         <div class="part-reader">
-          <nav class="part-step-nav" aria-label={text.part.navigationLabel}>
-            {adjacentParts.map((item) => {
-              const targetPart = item.part;
-
-              return targetPart ? (
-                <a
-                  class={`part-step part-step--${item.direction}`}
-                  href={localizedPath(locale, `/books/${book.slug}/parts/${targetPart.partNo}/`)}
-                >
-                  <span class="part-step__label">{item.label}</span>
-                  <span class="part-step__title">
-                    {targetPart.partNo.toUpperCase()} - {targetPart.title}
-                  </span>
-                </a>
-              ) : (
-                <span class={`part-step part-step--${item.direction} is-disabled`} aria-disabled="true">
-                  <span class="part-step__label">{item.label}</span>
-                </span>
-              );
-            })}
-          </nav>
-
-          <section class="guidance-panel part-workflow" aria-labelledby="part-workflow-heading">
-            <h2 id="part-workflow-heading">{text.part.workflow.heading}</h2>
+          <details class="guidance-panel part-workflow" open>
+            <summary>
+              <span class="part-workflow__heading" role="heading" aria-level="2">{text.part.workflow.heading}</span>
+              <span class="part-workflow__toggle" aria-hidden="true">⌄</span>
+            </summary>
             <ol class="compact-steps">
               {text.part.workflow.steps.map((step) => (
                 <li>{step}</li>
               ))}
             </ol>
-          </section>
+          </details>
 
           {AUGMENTATION_ENABLED ? (
             <section class="guidance-panel augmentation-entry" aria-label={text.augmentation.launch}>
@@ -127,46 +156,36 @@ const augmentationGradeLabels = Object.fromEntries(
             </section>
           ) : null}
 
-          <div class="part-text">
-            {contentParagraphs.map((paragraph) => (
-              <p class={`part-paragraph part-paragraph--${paragraph.alignment}`}>
-                {paragraph.segments.map((segment) => (
-                  <span class={`part-script part-script--${segment.script}`}>{segment.value}</span>
-                ))}
-              </p>
-            ))}
-          </div>
+          <details class="part-text-disclosure" id="part-text" open>
+            <summary>
+              <span class="part-text-disclosure__heading" role="heading" aria-level="2">{text.part.textToggle}</span>
+              <span class="part-text-disclosure__toggle" aria-hidden="true">⌄</span>
+            </summary>
+            <div class="part-text">
+              {contentParagraphs.map((paragraph) => (
+                <p class={`part-paragraph part-paragraph--${paragraph.alignment}`}>
+                  {paragraph.segments.map((segment) => (
+                    <span class={`part-script part-script--${segment.script}`}>{segment.value}</span>
+                  ))}
+                </p>
+              ))}
+            </div>
+          </details>
 
-          <nav class="part-step-nav part-step-nav--bottom" aria-label={text.part.navigationLabel}>
-            {adjacentParts.map((item) => {
-              const targetPart = item.part;
-
-              return targetPart ? (
-                <a
-                  class={`part-step part-step--${item.direction}`}
-                  href={localizedPath(locale, `/books/${book.slug}/parts/${targetPart.partNo}/`)}
-                >
-                  <span class="part-step__label">{item.label}</span>
-                  <span class="part-step__title">
-                    {targetPart.partNo.toUpperCase()} - {targetPart.title}
-                  </span>
-                </a>
-              ) : (
-                <span class={`part-step part-step--${item.direction} is-disabled`} aria-disabled="true">
-                  <span class="part-step__label">{item.label}</span>
-                </span>
-              );
-            })}
-          </nav>
         </div>
 
-        <aside class="download-panel" aria-label={text.downloads.label}>
-          <h2>{text.downloads.heading}</h2>
-          <p class="download-panel__note">{text.downloads.mixedAgeGuidance}</p>
+        <aside class="download-panel" id="part-downloads" aria-label={text.downloads.label}>
+          <details class="download-panel__disclosure" open>
+            <summary>
+              <span class="download-panel__heading" role="heading" aria-level="2">{text.downloads.heading}</span>
+              <span class="download-panel__toggle" aria-hidden="true">⌄</span>
+            </summary>
+            <div class="download-panel__content">
+              <p class="download-panel__note">{text.downloads.mixedAgeGuidance}</p>
           {downloadGroups.map((group) => {
             const gradeSlug = group.gradeSlug;
             const grade = book.grades.find((item) => item.slug === gradeSlug);
-            const gradeLabel = getGradeExplanatoryLabel(locale, gradeSlug, grade?.label);
+            const gradeLabel = getGradeShortLabel(locale, gradeSlug, grade?.label);
 
             return (
               <details class="download-group">
@@ -213,7 +232,9 @@ const augmentationGradeLabels = Object.fromEntries(
                 </div>
               </details>
             );
-          })}
+              })}
+            </div>
+          </details>
         </aside>
       </div>
     </div>

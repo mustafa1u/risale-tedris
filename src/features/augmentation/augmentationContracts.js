@@ -14,7 +14,7 @@ export function gradeSourceKey(bookSlug, gradeSlug, partNo) {
 }
 
 export function augmentedProjectPath(bookSlug, projectId, locale = "tr") {
-  const booksPath = locale === "en" ? "/en/books" : "/kitaplar";
+  const booksPath = locale === "en" ? "/en/books" : "/soru-bankalari";
   return `${booksPath}/${encodeURIComponent(bookSlug)}/my-augmentations/view/?id=${encodeURIComponent(projectId)}`;
 }
 

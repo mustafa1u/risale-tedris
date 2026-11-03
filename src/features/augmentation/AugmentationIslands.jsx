@@ -7,7 +7,6 @@ import {
   catalogPartToDomain,
   findCatalogContext,
   findCatalogPartByKey,
-  getNeighborPartKeys,
   hydrateProjectSourceText,
   loadAugmentationCatalog,
   loadPartTexts,
@@ -105,7 +104,7 @@ function AugmentedSourceText({ heading, text }) {
   );
 }
 
-export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, gradeLabels = {} }) {
+export function AugmentationLauncher({ bookSlug, partNo = null, locale = "tr", labels, gradeLabels = {} }) {
   const dialogRef = useRef(null);
   const currentRowRef = useRef(null);
   const selectionSequence = useRef(1);
@@ -143,14 +142,17 @@ export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, 
     setBusy(true);
     try {
       const loadedCatalog = await loadAugmentationCatalog({ signal: controller.signal });
-      const context = findCatalogContext(loadedCatalog, bookSlug, partNo);
-      if (!context) {
+      const book = loadedCatalog.books.find((item) => item.slug === bookSlug);
+      const context = partNo ? findCatalogContext(loadedCatalog, bookSlug, partNo) : null;
+      if (!book || (partNo && !context)) {
         throw new Error(labels.loadError);
       }
-      const base = catalogPartToDomain(context.book, context.part, selectionSequence.current++);
+      const base = context
+        ? catalogPartToDomain(context.book, context.part, selectionSequence.current++)
+        : null;
       setCatalog(loadedCatalog);
       setBasePart(base);
-      setOrderedParts([base]);
+      setOrderedParts(base ? [base] : []);
       setSelectedGrades([]);
       setCurrentBookSlug(bookSlug);
     } catch (error) {
@@ -172,16 +174,42 @@ export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, 
 
   const currentBook = catalog?.books?.find((book) => book.slug === currentBookSlug);
   const selectedKeys = useMemo(() => new Set(orderedParts.map((part) => part.key)), [orderedParts]);
-  const neighborKeys = useMemo(
-    () => new Set(basePart && catalog ? getNeighborPartKeys(
-      findCatalogPartByKey(catalog, basePart.key)?.book,
-      basePart.key
-    ) : []),
-    [basePart, catalog]
+  const selectedCurrentBookParts = useMemo(
+    () => (currentBook?.parts ?? []).filter((part) => selectedKeys.has(part.key)),
+    [currentBook, selectedKeys]
   );
+  const canSelectNeighbors = useMemo(() => {
+    if (!currentBook || orderedParts.length === 0 || selectedCurrentBookParts.length !== orderedParts.length) {
+      return false;
+    }
+    const indexes = selectedCurrentBookParts
+      .map((part) => currentBook.parts.findIndex((candidate) => candidate.key === part.key))
+      .sort((left, right) => left - right);
+    return indexes.every((index, position) => position === 0 || index === indexes[position - 1] + 1);
+  }, [currentBook, orderedParts.length, selectedCurrentBookParts]);
+  const neighborKeys = useMemo(() => {
+    if (!currentBook || !canSelectNeighbors) {
+      return new Set();
+    }
+    const indexes = selectedCurrentBookParts
+      .map((part) => currentBook.parts.findIndex((candidate) => candidate.key === part.key))
+      .sort((left, right) => left - right);
+    return new Set([
+      currentBook.parts[indexes[0] - 1]?.key,
+      currentBook.parts[indexes[indexes.length - 1] + 1]?.key
+    ].filter(Boolean));
+  }, [canSelectNeighbors, currentBook, selectedCurrentBookParts]);
+
+  const orderParts = (parts) => basePart
+    ? buildDefaultPartOrder(basePart, parts)
+    : [...parts].sort((left, right) =>
+      (left.bookSlug === bookSlug ? 0 : 1) - (right.bookSlug === bookSlug ? 0 : 1)
+      || (left.bookSlug === right.bookSlug ? (left.partNumber ?? Number.MAX_SAFE_INTEGER) - (right.partNumber ?? Number.MAX_SAFE_INTEGER) : 0)
+      || (left.selectionSequence ?? Number.MAX_SAFE_INTEGER) - (right.selectionSequence ?? Number.MAX_SAFE_INTEGER)
+    );
 
   const togglePart = (book, part, selected) => {
-    if (!basePart || part.key === basePart.key) {
+    if (basePart && part.key === basePart.key) {
       return;
     }
     let next;
@@ -190,11 +218,11 @@ export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, 
     } else {
       next = orderedParts.filter((item) => item.key !== part.key);
     }
-    setOrderedParts(manualOrder ? next : buildDefaultPartOrder(basePart, next));
+    setOrderedParts(manualOrder ? next : orderParts(next));
   };
 
   const selectNeighbors = () => {
-    if (!catalog || !basePart) {
+    if (!catalog || !canSelectNeighbors) {
       return;
     }
     const additions = [...neighborKeys]
@@ -203,7 +231,7 @@ export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, 
         const context = findCatalogPartByKey(catalog, key);
         return catalogPartToDomain(context.book, context.part, selectionSequence.current++);
       });
-    setOrderedParts(buildDefaultPartOrder(basePart, [...orderedParts, ...additions]));
+    setOrderedParts(orderParts([...orderedParts, ...additions]));
     setManualOrder(false);
   };
 
@@ -213,7 +241,7 @@ export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, 
   };
 
   const resetOrder = () => {
-    setOrderedParts(buildDefaultPartOrder(basePart, orderedParts));
+    setOrderedParts(orderParts(orderedParts));
     setManualOrder(false);
   };
 
@@ -224,7 +252,8 @@ export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, 
   };
 
   const createProject = async () => {
-    if (!catalog || !basePart) {
+    const projectBasePart = basePart ?? orderedParts[0];
+    if (!catalog || !projectBasePart) {
       return;
     }
     if (orderedParts.length < 2) {
@@ -256,7 +285,7 @@ export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, 
       const project = buildAugmentationProject({
         title: buildAugmentationTitle(orderedParts),
         catalogRevision: catalog.catalogRevision,
-        basePart,
+        basePart: projectBasePart,
         orderedParts,
         gradeSlugs: selectedGrades,
         sourceTextByPartKey: loadedTexts.sourceTextByPartKey,
@@ -283,8 +312,9 @@ export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, 
     }
   };
 
-  const availableGrades = basePart && catalog
-    ? orderAugmentationGradeSlugs(Object.keys(findCatalogPartByKey(catalog, basePart.key)?.part?.grades ?? {}))
+  const projectBasePart = basePart ?? orderedParts[0];
+  const availableGrades = projectBasePart && catalog
+    ? orderAugmentationGradeSlugs(Object.keys(findCatalogPartByKey(catalog, projectBasePart.key)?.part?.grades ?? {}))
     : [];
 
   return (
@@ -319,7 +349,7 @@ export function AugmentationLauncher({ bookSlug, partNo, locale = "tr", labels, 
                 <div class="augmentation-section-head">
                   <h3 id="augmentation-parts-heading">{labels.partsHeading}</h3>
                   {currentBookSlug === bookSlug ? (
-                    <button class="button-secondary" type="button" onClick={selectNeighbors}>{labels.selectNeighbors}</button>
+                    <button class="button-secondary" type="button" onClick={selectNeighbors} disabled={!canSelectNeighbors}>{labels.selectNeighbors}</button>
                   ) : null}
                 </div>
                 <div class="augmentation-part-options">
@@ -661,7 +691,7 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
     }
     clearCachedExportJob(project);
     await storage.deleteProject(project.id);
-    window.location.assign(locale === "en" ? `/en/books/${bookSlug}/` : `/kitaplar/${bookSlug}/`);
+    window.location.assign(locale === "en" ? `/en/books/${bookSlug}/` : `/soru-bankalari/${bookSlug}/`);
   };
 
   const prepareDocuments = async () => {

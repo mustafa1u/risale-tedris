@@ -11,7 +11,7 @@ type LocalizedRoute = {
 // Logical paths keep links in feature components language-neutral. The visible
 // path is selected here so Turkish and English can use their own vocabulary.
 export const LOCALIZED_ROUTES: LocalizedRoute[] = [
-  { logical: "/books/", tr: "/kitaplar/", en: "/books/" },
+  { logical: "/books/", tr: "/soru-bankalari/", en: "/books/" },
   { logical: "/nasil-oluyor/", tr: "/nasil-oluyor/", en: "/how-it-works/" },
   { logical: "/lesson-flow/", tr: "/ders-akisi/", en: "/lesson-flow/" },
   { logical: "/study/", tr: "/calisma/", en: "/study/" },

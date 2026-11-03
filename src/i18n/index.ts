@@ -276,6 +276,10 @@ type UiDictionary = {
     navigationLabel: string;
     previous: string;
     next: string;
+    textToggle: string;
+    quickNavigation: string;
+    quickNavDownloads: string;
+    quickNavText: string;
     workflow: {
       heading: string;
       steps: string[];
@@ -420,7 +424,7 @@ export const ui = {
       contactAction: "Bize Ulaşın"
     },
     nav: {
-      books: "Kitaplar",
+      books: "Soru Bankaları",
       howItWorks: "Nasıl Oluyor?",
       lessonFlow: "Ders Akışı",
       theme: "Tema",
@@ -442,7 +446,7 @@ export const ui = {
       secondary: "İkincil işlem"
     },
     home: {
-      pageTitle: "Kitaplar",
+      pageTitle: "Soru Bankaları",
       description:
         "Risale dersleri için hazırlanmış soru kağıtları, cevap anahtarları, Word/PDF çıktıları ve bilgi kartları.",
       hero: {
@@ -450,10 +454,10 @@ export const ui = {
         heading: "Risale-i Nur'dan Bir Dersi Her Yaşa Aynı Anda Nasıl Anlatırsınız?",
         lede: "",
         featureLabels: [
-          "2. sınıf",
-          "5. sınıf",
-          "8. sınıf",
-          "11. Sınıf",
+          "2-3. sınıflar",
+          "4-6. sınıflar",
+          "7-9. sınıflar",
+          "10-12. sınıflar",
           "6 farklı soru seti",
           "Otomatik hazırlama"
         ],
@@ -680,9 +684,9 @@ export const ui = {
       }
     },
     library: {
-      pageTitle: "Kitaplar",
+      pageTitle: "Soru Bankaları",
       eyebrow: "Kütüphane",
-      heading: "Kitaplar ve sınıf belgeleri",
+      heading: "Soru bankaları ve Bilgi Kartları",
       lede:
         "Her kitabı inceleyin, parçaları okuyun ve sınıf düzeyine göre Word/PDF dosyalarını indirin.\nEtkileşimli bilgi kartlarını çalışın",
       statsLabel: "Kütüphane istatistikleri",
@@ -833,6 +837,10 @@ export const ui = {
       navigationLabel: "Parçalar arasında gezinme",
       previous: "Önceki",
       next: "Sonraki",
+      textToggle: "Risale metni",
+      quickNavigation: "Parça bölümleri",
+      quickNavDownloads: "Soru Kağıtları ve Bilgi Kartlarına git",
+      quickNavText: "Risale metnine git",
       workflow: {
         heading: "Bu parçayla ne yapabilirim?",
         steps: [
@@ -844,8 +852,8 @@ export const ui = {
       }
     },
     downloads: {
-      label: "İndirmeler ve Çalışmalar",
-      heading: "İndirmeler ve Çalışmalar",
+      label: "Soru Kağıtları ve Bilgi Kartları",
+      heading: "Soru Kağıtları ve Bilgi Kartları",
       mixedAgeGuidance:
         "Bu bölümde farklı yaşlardan talebeler aynı parçayı çalışabilir; her talebe kendi okul sınıf aralığına uygun bilgi kartı veya soru kağıdını kullanır.",
       variants: {
@@ -857,8 +865,8 @@ export const ui = {
       mobilePdf: "Mobil PDF",
       studyHint: "Ders öncesi hazırlık veya tekrar için.",
       questionSheetHint: "Metin açıkken cevaplatmak için.",
-      gradeSummary: ({ gradeLabel }) => `${gradeLabel} materyalleri`,
-      openGrade: ({ gradeLabel }) => `${gradeLabel} materyallerini aç veya kapat`
+      gradeSummary: ({ gradeLabel }) => `${gradeLabel} için materyaller`,
+      openGrade: ({ gradeLabel }) => `${gradeLabel} için materyalleri aç veya kapat`
     },
     study: {
       availableHeading: "Çalışma desteleri",
@@ -898,7 +906,7 @@ export const ui = {
       loadError: "Çalışma destesi yüklenemedi."
     },
     augmentation: {
-      launch: "Bu Parçayı Artır",
+      launch: "Parçaları Artır",
       launchHelp: "Bu metni diğer risale metinleriyle birleştirip daha büyük bir ders metni hazırlayın.",
       dialogTitle: "Parçalardan Kişisel Çalışma Oluştur",
       intro: "Açık parça korunur. Aynı kitaptan veya başka kitaplardan istediğiniz parçaları ekleyip sıralayın.",
@@ -943,7 +951,7 @@ export const ui = {
       exportFailed: "Belgeler hazırlanamadı:",
       exportServiceUnavailable: "Belge üretim hizmetine ulaşılamıyor. Geliştirme sunucusunu yeniden başlatıp tekrar deneyin.",
       retryExport: "Belgeleri Yeniden Hazırla",
-      downloadsHeading: "İndirmeler ve Çalışmalar",
+      downloadsHeading: "Soru Kağıtları ve Bilgi Kartları",
       flashcard: "Bilgi Kartı",
       questionSheet: "Soru Kağıdı",
       word: "Word",
@@ -994,7 +1002,7 @@ export const ui = {
       contactAction: "Contact Us"
     },
     nav: {
-      books: "Books",
+      books: "Question Banks",
       howItWorks: "How Does It Work?",
       lessonFlow: "Lesson Flow",
       theme: "Theme",
@@ -1016,7 +1024,7 @@ export const ui = {
       secondary: "Secondary action"
     },
     home: {
-      pageTitle: "Books",
+      pageTitle: "Question Banks",
       description:
         "Prepared question sheets, answer material, Word/PDF outputs, and flashcards for Risale lessons.",
       hero: {
@@ -1024,10 +1032,10 @@ export const ui = {
         heading: "How Can One Risale-i Nur Lesson Be Taught to Every Age Group at the Same Time?",
         lede: "How do they manage so many different levels in a single system?",
         featureLabels: [
-          "2nd grade",
-          "5th grade",
-          "8th grade",
-          "11th grade",
+          "Grades 2-3",
+          "Grades 4-6",
+          "Grades 7-9",
+          "Grades 10-12",
           "6 different question sets",
           "Automatic preparation"
         ],
@@ -1060,7 +1068,7 @@ export const ui = {
           body: "Questions are prepared to be answered from the Risale part being read, not from general knowledge."
         },
         {
-          title: "Content by grade level",
+          title: "Content by school range",
           body: "The same part has material prepared for different age and study levels."
         },
         {
@@ -1255,9 +1263,9 @@ export const ui = {
       }
     },
     library: {
-      pageTitle: "Books",
+      pageTitle: "Question Banks",
       eyebrow: "Library",
-      heading: "Books and grade documents",
+      heading: "Question banks and Flashcards",
       lede:
         "Browse each book, read its parts, and download grade-specific Word/PDF files.\nStudy interactive flashcards.",
       statsLabel: "Library statistics",
@@ -1410,6 +1418,10 @@ export const ui = {
       navigationLabel: "Part navigation",
       previous: "Previous",
       next: "Next",
+      textToggle: "Risale text",
+      quickNavigation: "Part sections",
+      quickNavDownloads: "Go to Question Sheets and Flashcards",
+      quickNavText: "Go to Risale text",
       workflow: {
         heading: "What can I do with this part?",
         steps: [
@@ -1421,8 +1433,8 @@ export const ui = {
       }
     },
     downloads: {
-      label: "Downloads and Studies",
-      heading: "Downloads and Studies",
+      label: "Question Sheets and Flashcards",
+      heading: "Question Sheets and Flashcards",
       mixedAgeGuidance:
         "Students from different ages can work on this same part; each student uses material suited to their own school grade range.",
       variants: {
@@ -1434,8 +1446,8 @@ export const ui = {
       mobilePdf: "Mobile PDF",
       studyHint: "For preparation before the lesson or review afterward.",
       questionSheetHint: "For answering while the source text is open.",
-      gradeSummary: ({ gradeLabel }) => `${gradeLabel} materials`,
-      openGrade: ({ gradeLabel }) => `Open or close ${gradeLabel} materials`
+      gradeSummary: ({ gradeLabel }) => `Materials for ${gradeLabel}`,
+      openGrade: ({ gradeLabel }) => `Open or close materials for ${gradeLabel}`
     },
     study: {
       availableHeading: "Study decks",
@@ -1474,7 +1486,7 @@ export const ui = {
       loadError: "Could not load the study deck."
     },
     augmentation: {
-      launch: "Augment This Part",
+      launch: "Augment Parts",
       launchHelp: "Combine this text with other Risale texts to prepare a larger lesson text.",
       dialogTitle: "Create a Personal Part Collection",
       intro: "The open part remains selected. Add and order any parts from this or another book.",
@@ -1519,7 +1531,7 @@ export const ui = {
       exportFailed: "Documents could not be prepared:",
       exportServiceUnavailable: "The document export service is unavailable. Restart the development server and try again.",
       retryExport: "Prepare Documents Again",
-      downloadsHeading: "Downloads and Studies",
+      downloadsHeading: "Question Sheets and Flashcards",
       flashcard: "Flashcard",
       questionSheet: "Question Sheet",
       word: "Word",
