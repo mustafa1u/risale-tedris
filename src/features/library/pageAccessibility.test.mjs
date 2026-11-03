@@ -175,12 +175,12 @@ describe("UX page accessibility markup", () => {
   it("labels part navigation, workflow, and download disclosure controls", async () => {
     const source = await readPage("part");
 
-    assert.match(source, /import { getGradeExplanatoryLabel } from "@\/i18n\/libraryLabels";/);
+    assert.match(source, /import { getGradeShortLabel } from "@\/i18n\/libraryLabels";/);
     assert.match(source, /<nav class="part-step-nav" aria-label={text\.part\.navigationLabel}>/);
     assert.match(source, /<section class="guidance-panel part-workflow" aria-labelledby="part-workflow-heading">/);
     assert.match(source, /<aside class="download-panel" aria-label={text\.downloads\.label}>/);
     assert.match(source, /<p class="download-panel__note">{text\.downloads\.mixedAgeGuidance}<\/p>/);
-    assert.match(source, /const gradeLabel = getGradeExplanatoryLabel\(locale, gradeSlug, grade\?\.label\);/);
+    assert.match(source, /const gradeLabel = getGradeShortLabel\(locale, gradeSlug, grade\?\.label\);/);
     assert.match(source, /<summary\s+class="download-group__summary"\s+aria-label={text\.downloads\.openGrade/);
     assert.match(source, /<span class="download-group__summary-label">{text\.downloads\.gradeSummary\({ gradeLabel }\)}<\/span>/);
     assert.match(source, /<span class="download-group__summary-arrow" aria-hidden="true">›<\/span>/);

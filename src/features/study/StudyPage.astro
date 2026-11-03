@@ -1,6 +1,6 @@
 ---
 import { getUi, type Locale } from "@/i18n";
-import { getGradeExplanatoryLabel } from "@/i18n/libraryLabels";
+import { getGradeShortLabel } from "@/i18n/libraryLabels";
 import { localizedPath } from "@/i18n/routing";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import type { GradeSlug } from "@/types/library";
@@ -15,7 +15,7 @@ const studyIndexUrl = "/assets/study-index.generated.json";
 const gradeSlugs: GradeSlug[] = ["2-sinif", "5-sinif", "8-sinif", "11-sinif", "lisans"];
 const gradeContexts = Object.fromEntries(
   gradeSlugs.map((gradeSlug) => {
-    const gradeLabel = getGradeExplanatoryLabel(locale, gradeSlug);
+    const gradeLabel = getGradeShortLabel(locale, gradeSlug);
 
     return [
       gradeSlug,

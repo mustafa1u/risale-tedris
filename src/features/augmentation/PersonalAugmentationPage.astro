@@ -2,7 +2,7 @@
 import { AUGMENTATION_ENABLED } from "@/config/features.js";
 import { PersonalAugmentationDetail } from "@/features/augmentation/AugmentationIslands.jsx";
 import { getUi, type Locale } from "@/i18n";
-import { getGradeExplanatoryLabel } from "@/i18n/libraryLabels";
+import { getGradeShortLabel } from "@/i18n/libraryLabels";
 import { localizedPath } from "@/i18n/routing";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import type { GradeSlug, LibraryBook } from "@/types/library";
@@ -16,7 +16,7 @@ const { book, locale } = Astro.props as Props;
 const text = getUi(locale);
 const gradeSlugs: GradeSlug[] = ["2-sinif", "5-sinif", "8-sinif", "11-sinif", "lisans"];
 const gradeLabels = Object.fromEntries(
-  gradeSlugs.map((gradeSlug) => [gradeSlug, getGradeExplanatoryLabel(locale, gradeSlug)])
+  gradeSlugs.map((gradeSlug) => [gradeSlug, getGradeShortLabel(locale, gradeSlug)])
 );
 ---
 

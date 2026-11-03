@@ -20,8 +20,8 @@ describe("StudyPage markup contract", () => {
     const shellIndex = source.indexOf('class="study-shell"');
 
     assert.doesNotMatch(source, /import { libraryIndex } from "@\/data\/library\.generated";/);
-    assert.match(source, /import { getGradeExplanatoryLabel } from "@\/i18n\/libraryLabels";/);
-    assert.match(source, /const gradeLabel = getGradeExplanatoryLabel\(locale, gradeSlug\);/);
+    assert.match(source, /import { getGradeShortLabel } from "@\/i18n\/libraryLabels";/);
+    assert.match(source, /const gradeLabel = getGradeShortLabel\(locale, gradeSlug\);/);
     assert.match(source, /data-study-lede>{text\.study\.loading}/);
     assert.match(source, /<p class="study-instruction" data-study-instruction>{text\.study\.instruction}<\/p>/);
     assert.doesNotMatch(source, /data-study-range-note/);

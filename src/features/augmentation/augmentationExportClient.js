@@ -1,4 +1,5 @@
-const configuredApiBase = import.meta.env?.PUBLIC_AUGMENTATION_EXPORT_API;
+const configuredApiBase = import.meta.env?.PUBLIC_AUGMENTATION_EXPORT_API
+  ?? "https://augmentation.risaletedris.com/api/augmentation";
 
 export const DEFAULT_AUGMENTATION_EXPORT_API = configuredApiBase || "/api/augmentation";
 const EXPORT_JOB_CACHE_PREFIX = "rissor-ag-augmentation-export:";

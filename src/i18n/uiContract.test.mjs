@@ -54,10 +54,10 @@ describe("UI dictionary contract", () => {
     assert.doesNotMatch(source, /Bu kadar farklı seviyeyi tek sistemde nasıl yönetiyorlar\?/);
     assert.match(source, /primaryCta:\s*"Nasıl Oluyor\?"/);
     for (const label of [
-      "2. sınıf",
-      "5. sınıf",
-      "8. sınıf",
-      "11. Sınıf",
+      "2-3. sınıflar",
+      "4-6. sınıflar",
+      "7-9. sınıflar",
+      "10-12. sınıflar",
       "6 farklı soru seti",
       "Otomatik hazırlama"
     ]) {

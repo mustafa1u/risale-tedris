@@ -8,10 +8,10 @@ export function isSearchEnabled({ development = false, publicFlag } = {}) {
 
 export const AUGMENTATION_ENABLED = isAugmentationEnabled({
   development: import.meta.env?.DEV,
-  publicFlag: import.meta.env?.PUBLIC_AUGMENTATION_ENABLED
+  publicFlag: import.meta.env?.PUBLIC_AUGMENTATION_ENABLED ?? "true"
 });
 
 export const SEARCH_ENABLED = isSearchEnabled({
   development: import.meta.env?.DEV,
-  publicFlag: import.meta.env?.PUBLIC_SEARCH_ENABLED
+  publicFlag: import.meta.env?.PUBLIC_SEARCH_ENABLED ?? "true"
 });

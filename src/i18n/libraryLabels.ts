@@ -11,66 +11,66 @@ export type GradeRangeDisplay = {
 const gradeRangeLabels: Record<Locale, Record<GradeSlug, GradeRangeDisplay>> = {
   tr: {
     "2-sinif": {
-      shortLabel: "2-3. okul sınıfları",
-      levelLabel: "2. sınıf seviyesi",
+      shortLabel: "2-3. sınıflar",
+      levelLabel: "2-3. sınıflar",
       rangeLabel: "2-3. sınıflar",
-      explanatoryLabel: "2. sınıf seviyesi - 2-3. okul sınıfları için"
+      explanatoryLabel: "2-3. sınıflar"
     },
     "5-sinif": {
-      shortLabel: "4-6. okul sınıfları",
-      levelLabel: "5. sınıf seviyesi",
+      shortLabel: "4-6. sınıflar",
+      levelLabel: "4-6. sınıflar",
       rangeLabel: "4-6. sınıflar",
-      explanatoryLabel: "5. sınıf seviyesi - 4-6. okul sınıfları için"
+      explanatoryLabel: "4-6. sınıflar"
     },
     "8-sinif": {
-      shortLabel: "7-9. okul sınıfları",
-      levelLabel: "8. sınıf seviyesi",
+      shortLabel: "7-9. sınıflar",
+      levelLabel: "7-9. sınıflar",
       rangeLabel: "7-9. sınıflar",
-      explanatoryLabel: "8. sınıf seviyesi - 7-9. okul sınıfları için"
+      explanatoryLabel: "7-9. sınıflar"
     },
     "11-sinif": {
-      shortLabel: "10-12. okul sınıfları",
-      levelLabel: "11. sınıf seviyesi",
+      shortLabel: "10-12. sınıflar",
+      levelLabel: "10-12. sınıflar",
       rangeLabel: "10-12. sınıflar",
-      explanatoryLabel: "11. sınıf seviyesi - 10-12. okul sınıfları için"
+      explanatoryLabel: "10-12. sınıflar"
     },
     "lisans": {
       shortLabel: "Lise sonrası",
-      levelLabel: "Lise sonrası seviye",
+      levelLabel: "Lise sonrası",
       rangeLabel: "lise mezunu ve üzeri",
-      explanatoryLabel: "Lise sonrası seviye - lise mezunu ve üzeri için"
+      explanatoryLabel: "Lise sonrası"
     }
   },
   en: {
     "2-sinif": {
-      shortLabel: "grades 2-3",
-      levelLabel: "2nd-grade level",
-      rangeLabel: "school grades 2-3",
-      explanatoryLabel: "2nd-grade level - for school grades 2-3"
+      shortLabel: "Grades 2-3",
+      levelLabel: "Grades 2-3",
+      rangeLabel: "Grades 2-3",
+      explanatoryLabel: "Grades 2-3"
     },
     "5-sinif": {
-      shortLabel: "grades 4-6",
-      levelLabel: "5th-grade level",
-      rangeLabel: "school grades 4-6",
-      explanatoryLabel: "5th-grade level - for school grades 4-6"
+      shortLabel: "Grades 4-6",
+      levelLabel: "Grades 4-6",
+      rangeLabel: "Grades 4-6",
+      explanatoryLabel: "Grades 4-6"
     },
     "8-sinif": {
-      shortLabel: "grades 7-9",
-      levelLabel: "8th-grade level",
-      rangeLabel: "school grades 7-9",
-      explanatoryLabel: "8th-grade level - for school grades 7-9"
+      shortLabel: "Grades 7-9",
+      levelLabel: "Grades 7-9",
+      rangeLabel: "Grades 7-9",
+      explanatoryLabel: "Grades 7-9"
     },
     "11-sinif": {
-      shortLabel: "grades 10-12",
-      levelLabel: "11th-grade level",
-      rangeLabel: "school grades 10-12",
-      explanatoryLabel: "11th-grade level - for school grades 10-12"
+      shortLabel: "Grades 10-12",
+      levelLabel: "Grades 10-12",
+      rangeLabel: "Grades 10-12",
+      explanatoryLabel: "Grades 10-12"
     },
     "lisans": {
       shortLabel: "post-high-school",
-      levelLabel: "Post-high-school level",
+      levelLabel: "Post-high-school",
       rangeLabel: "high-school graduates and above",
-      explanatoryLabel: "Post-high-school level - for high-school graduates and above"
+      explanatoryLabel: "Post-high-school"
     }
   }
 };

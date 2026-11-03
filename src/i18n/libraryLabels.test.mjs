@@ -37,16 +37,16 @@ describe("library grade labels", () => {
     const source = await readSource();
 
     assertGradeBlock(source, "tr", "2-sinif", [
-      'shortLabel: "2-3. okul sınıfları"',
-      'levelLabel: "2. sınıf seviyesi"',
+      'shortLabel: "2-3. sınıflar"',
+      'levelLabel: "2-3. sınıflar"',
       'rangeLabel: "2-3. sınıflar"',
-      'explanatoryLabel: "2. sınıf seviyesi - 2-3. okul sınıfları için"'
+      'explanatoryLabel: "2-3. sınıflar"'
     ]);
     assertGradeBlock(source, "tr", "lisans", [
       'shortLabel: "Lise sonrası"',
-      'levelLabel: "Lise sonrası seviye"',
+      'levelLabel: "Lise sonrası"',
       'rangeLabel: "lise mezunu ve üzeri"',
-      'explanatoryLabel: "Lise sonrası seviye - lise mezunu ve üzeri için"'
+      'explanatoryLabel: "Lise sonrası"'
     ]);
   });
 
@@ -54,21 +54,21 @@ describe("library grade labels", () => {
     const source = await readSource();
 
     assertGradeBlock(source, "en", "8-sinif", [
-      'shortLabel: "grades 7-9"',
-      'levelLabel: "8th-grade level"',
-      'rangeLabel: "school grades 7-9"',
-      'explanatoryLabel: "8th-grade level - for school grades 7-9"'
+      'shortLabel: "Grades 7-9"',
+      'levelLabel: "Grades 7-9"',
+      'rangeLabel: "Grades 7-9"',
+      'explanatoryLabel: "Grades 7-9"'
     ]);
     assertGradeBlock(source, "en", "lisans", [
       'shortLabel: "post-high-school"',
-      'levelLabel: "Post-high-school level"',
+      'levelLabel: "Post-high-school"',
       'rangeLabel: "high-school graduates and above"',
-      'explanatoryLabel: "Post-high-school level - for high-school graduates and above"'
+      'explanatoryLabel: "Post-high-school"'
     ]);
     assert.doesNotMatch(source, /Undergraduate/);
   });
 
-  it("keeps the legacy getGradeLabel API backed by the level label", async () => {
+  it("keeps the legacy getGradeLabel API backed by the range-only label", async () => {
     const source = await readSource();
 
     assert.match(source, /export function getGradeLabel/);
