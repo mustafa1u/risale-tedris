@@ -2503,10 +2503,12 @@ h3 {
   padding: 0 12px;
   display: flex;
   gap: 7px;
+  color: var(--text);
   text-align: left;
 }
 
 .part-quick-nav__arrow {
+  color: var(--accent-strong);
   font-size: 1.2rem;
   line-height: 1;
 }
@@ -2517,10 +2519,28 @@ h3 {
   white-space: nowrap;
 }
 
+.part-quick-nav__step-label {
+  color: var(--accent-strong);
+  font-size: 0.82rem;
+  font-weight: 780;
+}
+
+.part-quick-nav__step-target {
+  margin-inline-start: 4px;
+  color: var(--text);
+  font-size: 0.94rem;
+  font-weight: 720;
+}
+
 .part-quick-nav__button.is-disabled {
   color: var(--text-muted);
   background: var(--surface-muted);
   box-shadow: none;
+}
+
+.part-quick-nav__button.is-disabled .part-quick-nav__arrow,
+.part-quick-nav__button.is-disabled .part-quick-nav__step-label {
+  color: var(--text-muted);
 }
 
 .part-step-nav {
@@ -3480,6 +3500,7 @@ h3 {
   top: 18px;
 }
 
+
 .augmentation-export-status {
   display: flex;
   align-items: flex-start;
@@ -3574,11 +3595,11 @@ h3 {
   }
 
   .part-workflow {
-    order: 2;
+    order: 3;
   }
 
   .augmentation-entry {
-    order: 3;
+    order: 2;
   }
 
   .download-panel {

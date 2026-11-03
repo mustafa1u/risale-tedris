@@ -299,7 +299,7 @@ export function AugmentationLauncher({ bookSlug, partNo = null, locale = "tr", l
       const notifier = createAugmentationNotifier();
       notifier.publish({ type: "project-created", projectId: saved.id, bookSlug: saved.homeBookSlug });
       notifier.close();
-      window.location.assign(projectDetailPath(saved, locale));
+      window.location.assign(`${projectDetailPath(saved, locale)}&prepare=1`);
     } catch (error) {
       if (error.name !== "AbortError") {
         setStatus(error.message || labels.loadError);
@@ -325,7 +325,6 @@ export function AugmentationLauncher({ bookSlug, partNo = null, locale = "tr", l
         <div class="augmentation-dialog__panel">
           <header class="augmentation-dialog__head">
             <div>
-              <p class="eyebrow">{labels.current}</p>
               <h2 id="augmentation-dialog-title">{labels.dialogTitle}</h2>
               <p>{labels.intro}</p>
             </div>
@@ -525,6 +524,7 @@ export function PersonalAugmentationList({ bookSlug, locale = "tr", labels }) {
 export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gradeLabels = {} }) {
   const storage = useMemo(() => createAugmentationStorage(), []);
   const exportAbortRef = useRef(null);
+  const autoPrepareRef = useRef(false);
   const [project, setProject] = useState(null);
   const [status, setStatus] = useState("");
   const [title, setTitle] = useState("");
@@ -587,7 +587,8 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
   };
 
   useEffect(() => {
-    const id = new URLSearchParams(window.location.search).get("id");
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("id");
     if (!id) {
       setStatus(labels.missingProject);
       return;
@@ -607,6 +608,7 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
         if (!active) {
           return;
         }
+        autoPrepareRef.current = params.get("prepare") === "1";
         setProject(loaded);
         setTitle(loaded.title);
         document.title = loaded.title;
@@ -734,6 +736,18 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
     }
   };
 
+  useEffect(() => {
+    if (!project || !autoPrepareRef.current) {
+      return;
+    }
+    autoPrepareRef.current = false;
+    const params = new URLSearchParams(window.location.search);
+    params.delete("prepare");
+    const query = params.toString();
+    window.history.replaceState(null, "", `${window.location.pathname}${query ? `?${query}` : ""}${window.location.hash}`);
+    prepareDocuments();
+  }, [project]);
+
   const documentAction = (gradeSlug, documentType, format, text) => {
     const artifact = findExportArtifact(exportJob, gradeSlug, documentType, format);
     return artifact ? (
@@ -746,6 +760,12 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
       <button class="button-muted" type="button" disabled title={labels.exportUnavailable}>{text}</button>
     );
   };
+
+  const canSaveTitle = Boolean(
+    project
+    && title.trim()
+    && title.trim() !== String(project.title ?? "").trim()
+  );
 
   if (!project) {
     return <p class="empty-state" aria-live="polite">{status || labels.loading}</p>;
@@ -760,7 +780,12 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
             <span>{labels.rename}</span>
             <input value={title} onInput={(event) => setTitle(event.currentTarget.value)} />
           </label>
-          <button class="button-secondary" type="button" onClick={saveTitle}>{labels.save}</button>
+          <button
+            class="button-secondary"
+            type="button"
+            onClick={saveTitle}
+            disabled={!canSaveTitle}
+          >{labels.save}</button>
         </div>
         <h2>{labels.sourcesHeading}</h2>
         <ol class="augmentation-source-summary">
@@ -778,9 +803,6 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
 
       <aside class="download-panel personal-augmentation-downloads">
         <h2>{labels.downloadsHeading}</h2>
-        <button class="button" type="button" onClick={prepareDocuments} disabled={exportBusy}>
-          {exportBusy ? labels.preparingDocuments : exportJob ? labels.retryExport : labels.prepareDocuments}
-        </button>
         {exportStatus ? (
           <p class="augmentation-export-status" role="status" aria-live="polite" aria-busy={exportBusy ? "true" : "false"}>
             {exportBusy ? <span class="augmentation-export-status__spinner" aria-hidden="true"></span> : null}

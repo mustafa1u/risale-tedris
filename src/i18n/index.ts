@@ -289,6 +289,7 @@ type UiDictionary = {
     label: string;
     heading: string;
     mixedAgeGuidance: string;
+    questionSheetNote: string;
     variants: {
       BK: string;
       SK: string;
@@ -377,7 +378,6 @@ type UiDictionary = {
     setCount: string;
     study: string;
     exportUnavailable: string;
-    prepareDocuments: string;
     preparingDocuments: string;
     exportsReady: string;
     exportFailed: string;
@@ -855,7 +855,8 @@ export const ui = {
       label: "Soru Kağıtları ve Bilgi Kartları",
       heading: "Soru Kağıtları ve Bilgi Kartları",
       mixedAgeGuidance:
-        "Bu bölümde farklı yaşlardan talebeler aynı parçayı çalışabilir; her talebe kendi okul sınıf aralığına uygun bilgi kartı veya soru kağıdını kullanır.",
+        "Farklı yaşlardan talebeler aynı parçayı çalışabilir; her talebe kendi sınıf aralığına uygun bilgi kartı veya soru kağıdını kullanır.",
+      questionSheetNote: "Her sınıf için soruları birbirinden farklı 6 adet soru kağıdı vardır.",
       variants: {
         BK: "Bilgi Kartı",
         SK: "Soru Kağıdı"
@@ -906,10 +907,10 @@ export const ui = {
       loadError: "Çalışma destesi yüklenemedi."
     },
     augmentation: {
-      launch: "Parçaları Artır",
-      launchHelp: "Bu metni diğer risale metinleriyle birleştirip daha büyük bir ders metni hazırlayın.",
-      dialogTitle: "Parçalardan Kişisel Çalışma Oluştur",
-      intro: "Açık parça korunur. Aynı kitaptan veya başka kitaplardan istediğiniz parçaları ekleyip sıralayın.",
+      launch: "Parçaları birleştir",
+      launchHelp: "Bu parçanın metnini ve sorularını, diğer risale parçalarının metin ve sorularıyla birleştirip daha büyük bir ders hazırlayın.",
+      dialogTitle: "Parçaları Birleştir",
+      intro: "Aynı kitaptan veya başka kitaplardan istediğiniz parçaları ekleyip sıralayın.",
       bookLabel: "Kitap",
       partsHeading: "Eklenebilecek parçalar",
       current: "Açık parça",
@@ -921,22 +922,22 @@ export const ui = {
       resetOrder: "Otomatik Sıraya Dön",
       gradesHeading: "Okul sınıf aralıkları",
       selectAllGrades: "Tüm uygun aralıkları seç",
-      create: "Kişisel Parçayı Oluştur",
+      create: "Soruları Hazırla",
       cancel: "Vazgeç",
       loading: "Artırma verileri yükleniyor...",
       creating: "Sorular birleştiriliyor...",
       loadError: "Artırma verileri yüklenemedi.",
       selectAnotherPart: "En az bir ek parça seçin.",
       selectGrade: "En az bir okul aralığı seçin.",
-      personalHeading: "Kişisel artırılmış parçalarım",
+      personalHeading: "Birleştirilmiş parçalarım",
       personalDescription: "Bu kayıtlar yalnızca bu tarayıcı profilinde saklanır.",
       localBadge: "Yerel",
-      noPersonal: "Bu kitap için henüz kişisel parça oluşturulmadı.",
-      exportWorkspace: "Yedeği Dışa Aktar",
+      noPersonal: "Bu kitap için henüz birleştirilmiş parça oluşturulmadı.",
+      exportWorkspace: "Yedekle",
       importWorkspace: "Yedek İçe Aktar",
       importComplete: "Yedek içe aktarıldı.",
       backupWarning: "Tarayıcı verileri silinebilir; önemli çalışmaların yedeğini indirin.",
-      detailEyebrow: "Kişisel artırılmış parça",
+      detailEyebrow: "Birleştirilmiş parça",
       sourcesHeading: "Parça sırası",
       sourceTextHeading: "Birleştirilmiş metin",
       inactiveGrade: "Bu okul aralığı artırılmadı.",
@@ -945,7 +946,6 @@ export const ui = {
       setCount: "Seçilen set",
       study: "Bilgi Kartlarını Çalış",
       exportUnavailable: "Belge üretim hizmeti yapılandırılmadı.",
-      prepareDocuments: "Belgeleri Hazırla",
       preparingDocuments: "Belgeler hazırlanıyor...",
       exportsReady: "Belgeler indirilmeye hazır.",
       exportFailed: "Belgeler hazırlanamadı:",
@@ -1437,6 +1437,7 @@ export const ui = {
       heading: "Question Sheets and Flashcards",
       mixedAgeGuidance:
         "Students from different ages can work on this same part; each student uses material suited to their own school grade range.",
+      questionSheetNote: "Each school grade range has six distinct question sheets, each with different questions.",
       variants: {
         BK: "Flashcard",
         SK: "Question Sheet"
@@ -1486,10 +1487,10 @@ export const ui = {
       loadError: "Could not load the study deck."
     },
     augmentation: {
-      launch: "Augment Parts",
-      launchHelp: "Combine this text with other Risale texts to prepare a larger lesson text.",
-      dialogTitle: "Create a Personal Part Collection",
-      intro: "The open part remains selected. Add and order any parts from this or another book.",
+      launch: "Combine Parts",
+      launchHelp: "Combine this part's text and questions with the texts and questions of other Risale parts to prepare a larger lesson.",
+      dialogTitle: "Combine Parts",
+      intro: "Add and order any parts from this or another book.",
       bookLabel: "Book",
       partsHeading: "Available parts",
       current: "Current part",
@@ -1501,22 +1502,22 @@ export const ui = {
       resetOrder: "Restore Automatic Order",
       gradesHeading: "School grade ranges",
       selectAllGrades: "Select every available range",
-      create: "Create Personal Part",
+      create: "Prepare Questions",
       cancel: "Cancel",
       loading: "Loading augmentation data...",
       creating: "Combining questions...",
       loadError: "Could not load augmentation data.",
       selectAnotherPart: "Select at least one additional part.",
       selectGrade: "Select at least one school range.",
-      personalHeading: "My augmented parts",
+      personalHeading: "My combined parts",
       personalDescription: "These records are stored only in this browser profile.",
       localBadge: "Local",
-      noPersonal: "No personal augmented part has been created for this book.",
-      exportWorkspace: "Export Backup",
+      noPersonal: "No combined part has been created for this book.",
+      exportWorkspace: "Back Up",
       importWorkspace: "Import Backup",
       importComplete: "Backup imported.",
       backupWarning: "Browser data can be cleared; download a backup of important work.",
-      detailEyebrow: "Personal augmented part",
+      detailEyebrow: "Combined part",
       sourcesHeading: "Part order",
       sourceTextHeading: "Combined source text",
       inactiveGrade: "This school range was not augmented.",
@@ -1525,7 +1526,6 @@ export const ui = {
       setCount: "Selected sets",
       study: "Study Flashcards",
       exportUnavailable: "The document export service is not configured.",
-      prepareDocuments: "Prepare Documents",
       preparingDocuments: "Preparing documents...",
       exportsReady: "Documents are ready to download.",
       exportFailed: "Documents could not be prepared:",

@@ -113,12 +113,15 @@ const augmentationGradeLabels = Object.fromEntries(
                 aria-label={fullLabel}
               >
                 <span class="part-quick-nav__arrow" aria-hidden="true">{item.arrow}</span>
-                <span class="part-quick-nav__step-text">{item.label}: {partNavigationTitle(targetPart)}</span>
+                <span class="part-quick-nav__step-text">
+                  <span class="part-quick-nav__step-label">{item.label}:</span>
+                  <span class="part-quick-nav__step-target">{partNavigationTitle(targetPart)}</span>
+                </span>
               </a>
             ) : (
               <span class="part-quick-nav__button part-quick-nav__button--step is-disabled" aria-disabled="true">
                 <span class="part-quick-nav__arrow" aria-hidden="true">{item.arrow}</span>
-                <span class="part-quick-nav__step-text">{item.label}</span>
+                <span class="part-quick-nav__step-text"><span class="part-quick-nav__step-label">{item.label}</span></span>
               </span>
             );
           })}
@@ -131,18 +134,6 @@ const augmentationGradeLabels = Object.fromEntries(
     <div class="page-band__inner">
       <div class="part-layout">
         <div class="part-reader">
-          <details class="guidance-panel part-workflow" open>
-            <summary>
-              <span class="part-workflow__heading" role="heading" aria-level="2">{text.part.workflow.heading}</span>
-              <span class="part-workflow__toggle" aria-hidden="true">⌄</span>
-            </summary>
-            <ol class="compact-steps">
-              {text.part.workflow.steps.map((step) => (
-                <li>{step}</li>
-              ))}
-            </ol>
-          </details>
-
           {AUGMENTATION_ENABLED ? (
             <section class="guidance-panel augmentation-entry" aria-label={text.augmentation.launch}>
               <AugmentationLauncher
@@ -156,7 +147,19 @@ const augmentationGradeLabels = Object.fromEntries(
             </section>
           ) : null}
 
-          <details class="part-text-disclosure" id="part-text" open>
+          <details class="guidance-panel part-workflow">
+            <summary>
+              <span class="part-workflow__heading" role="heading" aria-level="2">{text.part.workflow.heading}</span>
+              <span class="part-workflow__toggle" aria-hidden="true">⌄</span>
+            </summary>
+            <ol class="compact-steps">
+              {text.part.workflow.steps.map((step) => (
+                <li>{step}</li>
+              ))}
+            </ol>
+          </details>
+
+          <details class="part-text-disclosure" id="part-text">
             <summary>
               <span class="part-text-disclosure__heading" role="heading" aria-level="2">{text.part.textToggle}</span>
               <span class="part-text-disclosure__toggle" aria-hidden="true">⌄</span>
@@ -182,6 +185,7 @@ const augmentationGradeLabels = Object.fromEntries(
             </summary>
             <div class="download-panel__content">
               <p class="download-panel__note">{text.downloads.mixedAgeGuidance}</p>
+              <p class="download-panel__note">{text.downloads.questionSheetNote}</p>
           {downloadGroups.map((group) => {
             const gradeSlug = group.gradeSlug;
             const grade = book.grades.find((item) => item.slug === gradeSlug);
@@ -239,4 +243,25 @@ const augmentationGradeLabels = Object.fromEntries(
       </div>
     </div>
   </section>
+
+  <script>
+    if (window.matchMedia("(max-width: 860px)").matches) {
+      document.querySelectorAll(".download-panel__disclosure")
+        .forEach((panel) => panel.removeAttribute("open"));
+    }
+
+    document.querySelectorAll(".part-quick-nav__button[href^='#']").forEach((trigger) => {
+      trigger.addEventListener("click", () => {
+        const selector = trigger.getAttribute("href");
+        if (!selector) {
+          return;
+        }
+        const target = document.querySelector(selector);
+        target?.querySelector("details")?.setAttribute("open", "");
+        if (target instanceof HTMLDetailsElement) {
+          target.open = true;
+        }
+      });
+    });
+  </script>
 </BaseLayout>
