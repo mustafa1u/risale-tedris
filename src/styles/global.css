@@ -2539,6 +2539,12 @@ h3 {
   height: 21px;
 }
 
+@media (min-width: 861px) {
+  .part-quick-nav__download-jump {
+    display: none;
+  }
+}
+
 .part-quick-nav__button--step {
   width: auto;
   min-width: 42px;

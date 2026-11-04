@@ -185,6 +185,7 @@ describe("UX page accessibility markup", () => {
 
     assert.match(source, /import { getGradeShortLabel } from "@\/i18n\/libraryLabels";/);
     assert.match(source, /<nav class="part-quick-nav" aria-label={text\.part\.quickNavigation}>/);
+    assert.match(source, /class="part-quick-nav__button part-quick-nav__download-jump" href="#part-downloads"/);
     assert.match(source, /<details class="guidance-panel part-workflow">/);
     assert.match(source, /<aside class="download-panel" id="part-downloads" aria-label={text\.downloads\.label}>/);
     assert.match(source, /<p class="download-panel__note">{text\.downloads\.mixedAgeGuidance}<\/p>/);
