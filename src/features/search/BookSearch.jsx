@@ -5,10 +5,6 @@ import { getUi } from "@/i18n";
 import { getGradeShortLabel } from "@/i18n/libraryLabels";
 import SearchControls, { serializeBooleanRows } from "./SearchControls.jsx";
 import { createSearchQueryScheduler } from "./searchQueryScheduler.js";
-import {
-  readSearchExpandedState,
-  writeSearchExpandedState
-} from "./searchPresentationState.js";
 import { createSearchShardLoader } from "./searchShardLoader.js";
 import {
   canToggleSearchScope,
@@ -70,16 +66,13 @@ export default function BookSearch({
   root = globalThis.document
 }) {
   const text = getUi(locale);
-  const presentationContext = `book:${book.slug}`;
   const [state, dispatch] = useReducer(searchReducer, {
     book,
     grades,
     availableBookSlugs,
     urlSearch: globalThis.location?.search ?? ""
   }, createInitialBookSearchState);
-  const [open, setOpen] = useState(
-    () => Boolean(state.query || state.gradeSlug) || readSearchExpandedState(presentationContext)
-  );
+  const [open, setOpen] = useState(false);
   const [status, setStatus] = useState("idle");
   const [errorMessage, setErrorMessage] = useState("");
   const [booleanRows, setBooleanRows] = useState([
@@ -246,14 +239,19 @@ export default function BookSearch({
 
   function openSearch() {
     setOpen(true);
-    writeSearchExpandedState(presentationContext, true);
     void ensureResources().catch(() => {});
   }
 
   function closeSearch() {
     setOpen(false);
-    writeSearchExpandedState(presentationContext, false);
-    requestAnimationFrame(() => triggerRef.current?.focus());
+    requestAnimationFrame(() => {
+      const quickTrigger = document.querySelector("[data-book-search-quick-trigger]");
+      if (quickTrigger instanceof HTMLElement) {
+        quickTrigger.focus();
+        return;
+      }
+      triggerRef.current?.focus();
+    });
   }
 
   function clearSearch() {

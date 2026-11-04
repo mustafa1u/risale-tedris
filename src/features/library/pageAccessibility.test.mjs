@@ -100,11 +100,19 @@ describe("UX page accessibility markup", () => {
     assert.match(source, /localizedPath\(locale, `\/books\/\$\{book\.slug\}\/`\)/);
   });
 
-  it("labels book guidance", async () => {
+  it("provides collapsed book panels and quick navigation", async () => {
     const source = await readPage("book");
 
-    assert.match(source, /<section class="guidance-panel" aria-labelledby="book-guide-heading">/);
-    assert.match(source, /<h2 id="book-guide-heading">/);
+    assert.match(source, /<nav class="part-quick-nav book-quick-nav" aria-label={text\.book\.quickNavigation}>/);
+    assert.match(source, /class="part-quick-nav__button part-quick-nav__button--step book-quick-nav__search" href="#book-search"/);
+    assert.match(source, /<details class="guidance-panel part-workflow book-disclosure" id="book-guide">/);
+    assert.match(source, /<details class="guidance-panel part-workflow book-disclosure" id="book-augmentation">/);
+    assert.match(source, /<details class="guidance-panel part-workflow book-disclosure" id="book-parts">/);
+    assert.doesNotMatch(source, /<details class="guidance-panel part-workflow book-disclosure"[^>]*\sopen=/);
+    assert.match(source, /target\.querySelector\("\[data-book-search-trigger\]"\)/);
+    assert.match(source, /event\.preventDefault\(\);\s+target\.querySelector\("\[data-book-search-trigger\]"\).*?trigger\.scrollIntoView/s);
+    assert.match(source, /target instanceof HTMLDetailsElement/);
+    assert.equal(source.indexOf('id="book-search"') < source.indexOf('page-band page-band--muted'), true);
   });
 
   it("routes library breadcrumbs to the dedicated books page", async () => {
@@ -176,9 +184,9 @@ describe("UX page accessibility markup", () => {
     const source = await readPage("part");
 
     assert.match(source, /import { getGradeShortLabel } from "@\/i18n\/libraryLabels";/);
-    assert.match(source, /<nav class="part-step-nav" aria-label={text\.part\.navigationLabel}>/);
-    assert.match(source, /<section class="guidance-panel part-workflow" aria-labelledby="part-workflow-heading">/);
-    assert.match(source, /<aside class="download-panel" aria-label={text\.downloads\.label}>/);
+    assert.match(source, /<nav class="part-quick-nav" aria-label={text\.part\.quickNavigation}>/);
+    assert.match(source, /<details class="guidance-panel part-workflow">/);
+    assert.match(source, /<aside class="download-panel" id="part-downloads" aria-label={text\.downloads\.label}>/);
     assert.match(source, /<p class="download-panel__note">{text\.downloads\.mixedAgeGuidance}<\/p>/);
     assert.match(source, /const gradeLabel = getGradeShortLabel\(locale, gradeSlug, grade\?\.label\);/);
     assert.match(source, /<summary\s+class="download-group__summary"\s+aria-label={text\.downloads\.openGrade/);

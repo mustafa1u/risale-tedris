@@ -21,6 +21,7 @@ for (const host of document.querySelectorAll("[data-book-search-host]")) {
       />,
       host
     );
+    host.dataset.bookSearchMounted = "true";
   } catch {
     host.replaceChildren(...fallbackNodes);
   }

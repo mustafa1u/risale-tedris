@@ -2258,6 +2258,10 @@ h3 {
   margin-bottom: 16px;
 }
 
+[data-book-search-mounted="true"] .book-search__trigger {
+  display: none;
+}
+
 .book-search__trigger {
   min-height: 48px;
   display: inline-flex;

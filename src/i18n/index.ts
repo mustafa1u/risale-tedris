@@ -157,6 +157,12 @@ type UiDictionary = {
     eyebrow: string;
     description: (params: { title: string }) => string;
     lede: (params: { partCount: number; gradeCount: number }) => string;
+    quickNavigation: string;
+    quickNavGuide: string;
+    quickNavAugmentation: string;
+    quickNavParts: string;
+    augmentationHeading: string;
+    partsHeading: string;
     guide: {
       heading: string;
       body: string;
@@ -712,6 +718,12 @@ export const ui = {
       description: ({ title }) => `${title} için parçalar ve okul aralığı belgeleri.`,
       lede: ({ partCount, gradeCount }) =>
         `${partCount} parça, ${gradeCount} okul sınıf aralığı ve Bilgi Kartı/Soru Kağıdı çeşitleri için doğrudan belge indirmeleri.\nEtkileşimli bilgi kartları çalışmaları.`,
+      quickNavigation: "Kitap bölümleri",
+      quickNavGuide: "Bu kitapta nasıl ilerlenir bölümüne git",
+      quickNavAugmentation: "Parça birleştirme bölümüne git",
+      quickNavParts: "Parça listesine git",
+      augmentationHeading: "Parça birleştirme ve kaydedilmiş birleşik parçalar",
+      partsHeading: "Parça listesi",
       guide: {
         heading: "Bu kitapta nasıl ilerlenir?",
         body:
@@ -1296,6 +1308,12 @@ export const ui = {
         `${partCount} ${partCount === 1 ? "part" : "parts"}, ${gradeCount} ${
           gradeCount === 1 ? "school grade range" : "school grade ranges"
         }, and direct document downloads for Flashcard and Question Sheet variants.\nInteractive flashcard study sessions.`,
+      quickNavigation: "Book sections",
+      quickNavGuide: "Go to how to proceed in this book",
+      quickNavAugmentation: "Go to combine parts",
+      quickNavParts: "Go to part list",
+      augmentationHeading: "Combine parts and saved combined parts",
+      partsHeading: "Part list",
       guide: {
         heading: "How to proceed in this book",
         body:
