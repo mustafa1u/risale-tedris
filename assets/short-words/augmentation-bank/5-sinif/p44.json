@@ -1,0 +1,902 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "short-words:5-sinif:p44",
+  "bookSlug": "short-words",
+  "bookTitle": "Short Words",
+  "bookOrder": 12,
+  "gradeSlug": "5-sinif",
+  "partNo": "p44",
+  "partNumber": 44,
+  "title": "Ninth Word Fifth Point Wisdom Of The Noon Prayer",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Words/short-words/outputs/5-sinif/SveC_5sinif_short-words-p44-ninth-word-fifth-point-wisdom-of-the-noon-prayer.txt",
+  "sourceRevision": "a2711df78de85dc6b3260d5c0486982cc856f1c608ace1e0798b3b1973319918",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "What part of the day is being described in this passage?",
+          "answer": "It is the time of Zuhr, just after midday.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "What change in the day begins at that time?",
+          "answer": "The day reaches its highest point and then starts moving downward.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "What is happening to people’s daily work around that time?",
+          "answer": "Their work is getting close to being finished.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Why does the spirit need a break at that time of day?",
+          "answer": "Hard work can make a person careless, tired, and less aware, so the spirit needs rest.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "What else is special about that time besides being a pause from work?",
+          "answer": "It is also a time when Allah’s blessings can be noticed.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "According to the passage, what does the midday prayer help a person leave behind?",
+          "answer": "It helps a person leave stress, carelessness, and things that do not last.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "When praying at that time, who should a person turn to?",
+          "answer": "A person should turn to Allah, the One who gives every blessing.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "What two things should a person offer to Allah for His gifts?",
+          "answer": "Praise and thanks.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "Besides thanking Allah, what should a person ask from Him?",
+          "answer": "Help.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "What does bowing show in this prayer?",
+          "answer": "It shows that a person is weak before Allah’s greatness.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "What does prostration show in this prayer?",
+          "answer": "It shows wonder, love, and humility before Allah.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "What strong judgment does the passage make about a person who does not understand this?",
+          "answer": "It says such a person is not truly human in the full sense.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Why is Zuhr connected with rest in the passage?",
+          "answer": "Because it comes when work has been heavy and the soul needs a short pause.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "What can hard work do to a person’s inner life, according to the passage?",
+          "answer": "It can make the person heedless and spiritually numb.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "How does the passage describe the value of the midday prayer?",
+          "answer": "It describes it as beautiful, pleasant, necessary, and fitting.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "What burden does the prayer free a person from first?",
+          "answer": "It frees the person from the pressure built up during the day.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "What mental or spiritual problem should be shaken off at that time?",
+          "answer": "A state of forgetfulness and lack of awareness of Allah.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "What kind of things should be left behind when turning to prayer?",
+          "answer": "Things that are empty and temporary.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "What image is used to show a servant turning to Allah in prayer?",
+          "answer": "A person standing with hands joined before Allah.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Why should a person thank Allah at Zuhr?",
+          "answer": "Because Allah is the giver of all blessings.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "What truth about people is shown by bowing?",
+          "answer": "People are powerless compared to Allah’s majesty.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "What feelings are shown in prostration?",
+          "answer": "Deep amazement, love, and humbleness.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "What does this passage teach about the purpose of Zuhr prayer?",
+          "answer": "It helps a person stop, remember Allah, thank Him, and ask Him for help.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "What does the last sentence show about understanding prayer?",
+          "answer": "It shows that understanding the meaning of prayer is part of being truly human.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "At what moment of the day does the passage place Zuhr?",
+          "answer": "It places Zuhr right after the middle of the day.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "How is that time linked to a person’s daily efforts?",
+          "answer": "It comes when much of the day’s work is nearly done.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Why might someone especially need worship at that hour?",
+          "answer": "Because the person may be worn out by work and spiritually distracted.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "What does the passage say is appearing at that time from Allah?",
+          "answer": "His blessings and favors are becoming clear.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "What does the prayer do for a person who feels weighed down?",
+          "answer": "It gives release from pressure.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "How does the passage describe worldly things that should be set aside during prayer?",
+          "answer": "They are described as pointless and short-lived.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "What should a person do after turning away from those passing things?",
+          "answer": "The person should turn to Allah with worship.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "What actions in the prayer show thankfulness and need?",
+          "answer": "Praising Allah, thanking Him, and asking Him for help.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "What does kneeling or bowing teach a person about himself?",
+          "answer": "It teaches that he is weak and cannot rely on himself alone.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "What inner qualities are expressed in prostration?",
+          "answer": "Wonder, love, and humility.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "Which is more lasting in this passage: worldly matters or Allah’s gifts and greatness?",
+          "answer": "Allah’s gifts and greatness are lasting, while worldly matters pass away.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "What main lesson should a student take from this passage about Zuhr?",
+          "answer": "Zuhr is a needed time to pause, remember Allah, thank Him, and humble oneself before Him.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "What daily turning point is described in this passage?",
+          "answer": "The turning point at midday, when the day begins to move past its peak.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "What is happening to work duties around that time?",
+          "answer": "They are nearing completion.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "How can busy work affect the heart and mind?",
+          "answer": "It can make them dull and forgetful.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Why is a short stop in the middle of the day helpful for the soul?",
+          "answer": "It gives the soul a chance to rest and wake up again.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "What does the passage say people can notice at that time from Allah?",
+          "answer": "They can notice His many blessings.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "What should a person do with the strain of the day when it is time for Zuhr?",
+          "answer": "The person should let go of it through prayer.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "What should happen to a person’s focus during the midday prayer?",
+          "answer": "It should move away from passing things and toward Allah.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "What relationship with Allah is shown by thanking Him for blessings?",
+          "answer": "It shows that Allah is the true giver and we are His thankful servants.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Why does the person ask Allah for help even in the middle of an ordinary day?",
+          "answer": "Because every blessing and every ability comes from Allah.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "What does bowing say without words?",
+          "answer": "It says that Allah is great and the servant is weak.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "What does prostration add beyond bowing?",
+          "answer": "It shows deeper humility, love, and amazement before Allah.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "Why is failing to understand this presented as something serious?",
+          "answer": "Because prayer at this time is part of living as a real human servant of Allah.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Which prayer is the focus of the passage?",
+          "answer": "The midday prayer, Zuhr.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "What has happened to the day by the time Zuhr comes?",
+          "answer": "The day has reached its high point and started to decline.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "What does the passage suggest about the amount of work done by then?",
+          "answer": "A good part of the day’s work has already been done.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "What kind of pause does the spirit need then?",
+          "answer": "A brief rest from the effects of busy work.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "What bad effect of work is mentioned besides tiredness?",
+          "answer": "It can lead to heedlessness and insensitivity.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "What good thing is shown at that time of day?",
+          "answer": "Divine blessings are shown.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "How does the prayer help with stress from daily life?",
+          "answer": "It lifts that pressure and gives the spirit relief.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "What should a person stop clinging to during Zuhr prayer?",
+          "answer": "Temporary and unimportant worldly things.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "What are the right responses to Allah’s blessings named in the passage?",
+          "answer": "Praising Him, thanking Him, and asking Him for help.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "In the prayer, what does the body action of bowing mean?",
+          "answer": "It means the servant admits weakness before Allah’s greatness.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "In the prayer, what does the body action of prostration mean?",
+          "answer": "It means the servant shows deep humility, love, and awe.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "What does the passage say about someone who misses the meaning of all this?",
+          "answer": "That person has not understood what it means to be truly human.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "What time of day does the passage talk about first?",
+          "answer": "It talks about just after noon.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "How is that time connected to the movement of the day itself?",
+          "answer": "It is when the day passes its middle point and starts going down.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "How is that time connected to people’s work?",
+          "answer": "It is when their daily tasks are close to ending.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "Why does the spirit need attention at that hour?",
+          "answer": "Because work can leave a person spiritually distracted and worn down.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "What mercy from Allah can be recognized at that moment?",
+          "answer": "His blessings and gifts.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "What makes the midday prayer especially suitable then?",
+          "answer": "It gives a needed break and turns the heart back to Allah.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "What three things does the passage say a person should leave or remove during this prayer?",
+          "answer": "Pressure, heedlessness, and attachment to worthless temporary things.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "After leaving those things, what should the worshipper do before Allah?",
+          "answer": "Stand before Him in worship and gratitude.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p44:5-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "What should the worshipper do because Allah gives all blessings?",
+          "answer": "Thank and praise Him.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "What should the worshipper do because he is in need?",
+          "answer": "Ask Allah for help.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "How do the movements of bowing and prostration teach good character?",
+          "answer": "They train a person to be humble, aware of his weakness, loving, and full of awe before Allah.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p44:5-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "What is the big idea of the whole passage?",
+          "answer": "Zuhr prayer is a necessary and beautiful time to pause from worldly work and return to Allah with thanks, need, and humility.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "13-soz-eng:8-sinif:p03",
+  "bookSlug": "13-soz-eng",
+  "bookTitle": "13th Word",
+  "bookOrder": 14,
+  "gradeSlug": "8-sinif",
+  "partNo": "p03",
+  "partNumber": 3,
+  "title": "The Reviving Effect of Verses in the Age of Ignorance",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Words/13-soz-eng/outputs/8-sinif/SveC_8sinif_13-soz-eng-with-arabic-p03-the-reviving-effect-of-verses-in-the-age-of-ignorance.txt",
+  "sourceRevision": "680886d71d758d2a5a97b752e0ee4a2532b5ccd0957e694155f1b2b31a0a8edf",
+  "setCount": 6,
+  "questionCount": 68,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "What scene are readers told to imagine at the beginning of the passage?",
+          "answer": "They are told to picture a time of deep ignorance and harsh living, when people saw the world as lifeless and covered by heedlessness.",
+          "wordCount": 24,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "In that imagined setting, what does the Qur’an do for people?",
+          "answer": "It brings light, guidance, and wonder, and removes the darkness of disbelief.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p03:8-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "When the verse about all things praising Allah is heard, how are creatures pictured in people’s minds?",
+          "answer": "They are pictured as if they come alive, wake up, and begin glorifying Allah.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "How is the sky described after people hear the verse about the heavens and earth glorifying Allah?",
+          "answer": "It is described like a mouth speaking, with the stars like meaningful words and shining signs.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "How is the earth described in that same picture?",
+          "answer": "It is shown like a head, with the land and sea like tongues, and living things like words of praise.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p03:8-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "Why might a person fail to feel the special power of these verses today?",
+          "answer": "Because they may be too used to hearing them and look at them only in a familiar, shallow way.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "What does the passage say happens when people only see these verses as already well-known religious truths?",
+          "answer": "They miss how powerfully each verse first broke through darkness and may not taste its miraculous sweetness.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "What is one major lesson of the star comparison for the verses?",
+          "answer": "Each verse spreads light into darkness, like stars shining in the night.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "What does the comparison suggest about the Qur’an’s effect on a dead-looking world?",
+          "answer": "It changes the world from seeming silent and lifeless into a world full of meaning, life, and worship.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "According to the passage, what should a person do to understand this kind of miraculousness better?",
+          "answer": "They should try to look back to the first audience’s situation instead of judging the verses only from a later, familiar view.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "What transition comes at the end of the passage?",
+          "answer": "It moves from this example to a promise of a comparison that will explain a very high level of the Qur’an’s miraculous nature.",
+          "wordCount": 23,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "What kind of darkness is mentioned in the opening of the passage?",
+          "answer": "It speaks of the darkness of unbelief, ignorance, and heedlessness.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "What are the Qur’an’s verses compared to in the passage?",
+          "answer": "They are compared to bright stars.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "What do those star-like verses do?",
+          "answer": "They spread light and drive away darkness.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p03:8-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Before the Qur’an’s message is heard, how are things in the world viewed?",
+          "answer": "They seem dead, asleep, and trapped in a view based only on nature and lifelessness.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "After hearing the verse about glorifying Allah, what change happens in the listener’s understanding of creation?",
+          "answer": "Creation is no longer seen as mute and empty; it is seen as active in praising Allah.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "What do the stars represent in the image given by the passage?",
+          "answer": "They represent shining signs full of wisdom and truth.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p03:8-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "What do animals and plants represent in the same image?",
+          "answer": "They represent expressions of glorification.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Why does the passage tell readers to imagine an earlier age instead of just thinking from their own time?",
+          "answer": "Because seeing the first setting helps them notice the powerful change the Qur’an brought.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "What is the problem with looking through a “veil of familiarity”?",
+          "answer": "It makes a person careless and keeps them from noticing the freshness and power of the message.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "What does the phrase about the verses becoming accepted over time suggest?",
+          "answer": "It suggests that their truths became widely known, which can make people forget how amazing they first sounded.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "According to the passage, what is lost when the miraculous side of the verses is not truly seen?",
+          "answer": "The person loses a deep appreciation of their beauty, force, and sweetness.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "What does the passage say will help someone understand one of the greatest levels of the Qur’an’s miraculousness?",
+          "answer": "Listening to the comparison that follows.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "What kind of world are readers asked to picture before the Qur’an’s light appears?",
+          "answer": "A world filled with ignorance, roughness, and a belief that things are lifeless and without meaning.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "How are the Qur’an’s verses described in relation to disbelief?",
+          "answer": "They are described as lights that break apart its darkness.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "What happens in the minds of listeners when they hear that everything in the heavens and earth praises Allah?",
+          "answer": "They begin to see creatures as alive, awake, and engaged in remembering Allah.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "What does the image of the sky as a mouth teach about the universe?",
+          "answer": "It teaches that the universe is full of meaningful signs and is not silent or pointless.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "In the passage, what role do the land and sea play in the image of praise?",
+          "answer": "They are pictured like tongues declaring glorification.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "What is the role of imagination in this passage?",
+          "answer": "It helps readers step into the viewpoint of the first hearers so they can understand the verses more deeply.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "Why is a merely surface-level reading criticized?",
+          "answer": "Because it prevents real understanding of how each verse brought guidance and changed hearts.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "How does time itself become an obstacle to appreciation, according to the passage?",
+          "answer": "As the verses become familiar through the years, people may stop noticing their original power.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "What overall transformation does the passage show from before the Qur’an to after it?",
+          "answer": "It shows a change from a dead and dark view of the world to a living and faith-filled view.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "What is the main purpose of the examples of sky, stars, earth, animals, and plants?",
+          "answer": "They show how the Qur’an teaches people to see all creation as pointing to Allah.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "What does the final sentence prepare the reader for?",
+          "answer": "It prepares the reader for a comparison meant to explain an especially high rank of the Qur’an’s miraculous nature.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "At the start of the passage, why are readers told to imagine another time and place?",
+          "answer": "So they can better understand how powerful the Qur’an’s message was when it first came.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "What was the mistaken way of seeing the world in that imagined age?",
+          "answer": "People saw things as dead, ruled only by nature, and covered by ignorance.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "What effect do the Qur’an’s verses have on that mistaken worldview?",
+          "answer": "They tear it apart and replace it with a vision of a living creation connected to Allah.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "What does hearing that all things glorify Allah cause people to notice?",
+          "answer": "It causes them to notice that all creatures carry meaning and worship their Lord.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "What does the image of stars as words and lights suggest?",
+          "answer": "It suggests that even the heavens are filled with messages of wisdom and truth.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "What does the image of plants and animals as words of glorification suggest?",
+          "answer": "It suggests that living things are signs of worship, not random or meaningless beings.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "Why is the listener warned not to judge these verses only from the present time?",
+          "answer": "Because their long acceptance can hide how surprising and powerful they first were.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "What is meant by saying the verses also shine with the lights of Islam?",
+          "answer": "It means later Islamic teachings and understanding can surround the verses so much that people forget their first striking effect.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "What keeps a person from truly seeing how each verse removed darkness?",
+          "answer": "Habit, shallow reading, and over-familiarity keep that from happening.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "What kind of appreciation does the passage want from the reader?",
+          "answer": "It wants thoughtful, heartfelt appreciation of the Qur’an’s guidance and miraculous power.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "What does the passage say comes next for someone who wants deeper understanding?",
+          "answer": "A comparison that explains one of the loftiest levels of the Qur’an’s miraculousness.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "How are the verses of the Qur’an pictured in the first sentence of the passage?",
+          "answer": "They are pictured like brilliant stars spreading light.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "What kind of darkness do these verses remove?",
+          "answer": "They remove the darkness of disbelief and spiritual ignorance.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "What mental picture are readers invited to enter before hearing the example verses?",
+          "answer": "They are invited to imagine a society buried in ignorance, heedlessness, and a lifeless view of creation.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "After the verse about glorification is heard, what happens to the way creatures are understood?",
+          "answer": "They are understood as living signs that remember and praise Allah.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "In the image given, what do the stars become for the listener?",
+          "answer": "They become shining signs that speak wisdom and truth.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p03:8-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "In the same image, what do animals and plants become?",
+          "answer": "They become expressions of glorification.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p03:8-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "Why does the passage stress looking from “this time” back to “that” time?",
+          "answer": "Because comparing the two helps a person understand the full impact of the revelation.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "What mistake does a person make if they only see these verses as familiar teachings?",
+          "answer": "They overlook how each verse originally shattered false ideas and brought guidance.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "What does the passage say a superficial view cannot truly appreciate?",
+          "answer": "It cannot truly appreciate the special beauty and miraculous effect found in the recitation.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "What main idea about the Qur’an is taught through this whole section?",
+          "answer": "The Qur’an gives a new, living, faith-filled understanding of the universe.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "Why does the passage end by mentioning a coming comparison?",
+          "answer": "To lead the reader into a fuller explanation of a very high form of the Qur’an’s miraculousness.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "What comparison is used to explain the role of the Qur’an’s verses?",
+          "answer": "They are compared to stars that shine and spread light.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "According to the passage, what must a person do to really appreciate these verses?",
+          "answer": "The person should imagine the early world they entered and how dark that world was.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p03:8-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "What was covering everything in that imagined world?",
+          "answer": "Ignorance, heedlessness, and a view that reduced things to lifeless nature.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "What change happens when the verse about all things praising Allah is heard?",
+          "answer": "Things that seemed dead or asleep are understood as alive in meaning and engaged in glorifying Allah.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "How is the sky presented to the listener after hearing the verse about glorification?",
+          "answer": "It is presented like a speaking mouth filled with meaningful, shining signs.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "How is the earth presented in that same scene?",
+          "answer": "It is presented like a head, with its parts acting like tongues of praise.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p03:8-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "What do all living things on earth become in this image?",
+          "answer": "They become signs of worship and remembrance of Allah.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Why can familiarity be spiritually harmful in reading these verses?",
+          "answer": "Because it can make a person careless and stop them from noticing their transforming power.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "What does the passage say a person will not truly see if they read in a shallow way?",
+          "answer": "They will not truly see the darkness each verse removed or the beauty of its miraculous recitation.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "What can be inferred about the Qur’an’s guidance from this passage?",
+          "answer": "Its guidance does not just give information; it changes how people understand all of creation.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "What emotion is the passage trying to awaken in the reader?",
+          "answer": "Wonder, gratitude, and deep respect for the Qur’an.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p03:8-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "What is the purpose of the final invitation to listen to a comparison?",
+          "answer": "It is to prepare the reader for an explanation of one of the highest levels of the Qur’an’s miraculous nature.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

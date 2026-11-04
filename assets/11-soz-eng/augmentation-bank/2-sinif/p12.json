@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "11-soz-eng:2-sinif:p12",
+  "bookSlug": "11-soz-eng",
+  "bookTitle": "11th Word",
+  "bookOrder": 13,
+  "gradeSlug": "2-sinif",
+  "partNo": "p12",
+  "partNumber": 12,
+  "title": "Purposes of Life: 9 Commands / Commands 1st to 4th",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Words/11-soz-eng/outputs/2-sinif/SveC_2sinif_11-soz-eng-with-arabic-p12-purposes-of-life-9-commands-commands-1st-to-4th.txt",
+  "sourceRevision": "54b94af1a29f27569e9814db273e309338aa31d6b28aa391a5c1d62ff08d7658",
+  "setCount": 6,
+  "questionCount": 39,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "How many main parts of the aim of life are listed in the target passage?",
+          "answer": "Nine.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "What are you supposed to do with Allah’s blessings using your senses?",
+          "answer": "Notice them and thank Allah.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "What helps a person know Allah’s beautiful names in the second point?",
+          "answer": "The abilities placed inside the person.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "In the third point, what should a person show through life?",
+          "answer": "The beautiful works and signs tied to Allah’s names.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "In the fourth point, how should a person show worship?",
+          "answer": "With words and with the way they are made.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "If someone enjoys blessings but does not give thanks, which point are they missing most clearly?",
+          "answer": "The first point.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:2-sinif:S1Q2"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "What is the first job of life named in the target passage?",
+          "answer": "To measure Allah’s blessings and give broad thanks.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "What is opened with the “keys” inside a person in the second job?",
+          "answer": "Hidden treasures related to Allah’s holy names.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Who is to be known through those names?",
+          "answer": "Allah.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "In the third job, where are the special signs shown through a person’s life?",
+          "answer": "In front of the creatures in this world.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "In the fourth job, before whose court is worship announced?",
+          "answer": "Before the Creator’s rule and care.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "If a child uses eyes, ears, and mind to notice Allah’s gifts, which job is that most like?",
+          "answer": "The first job.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:2-sinif:S2Q1"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "What number tells us how many summary points there are for the aim of life?",
+          "answer": "Nine.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "In the first point, what should a person do after noticing mercy and blessings?",
+          "answer": "Thank Allah.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "In the second point, what are the “keys” talking about?",
+          "answer": "A person’s abilities and inner gifts.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "Why are those “keys” important?",
+          "answer": "They help a person learn Allah’s names.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:2-sinif:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "In the third point, what is made known through human life?",
+          "answer": "The fine and amazing works connected to Allah’s names.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "In the fourth point, what two ways of worship are mentioned?",
+          "answer": "Speaking it and showing it by one’s nature.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "What does the passage say comes in a short summary of the aims of life?",
+          "answer": "Nine matters.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Which point is about blessings from divine mercy?",
+          "answer": "The first point.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "What should follow after recognizing those blessings?",
+          "answer": "Universal thanks.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "Which point is about learning through Allah’s names?",
+          "answer": "The second point.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Which point teaches that life should show beautiful signs and works?",
+          "answer": "The third point.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "Which point teaches that worship should be declared?",
+          "answer": "The fourth point.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "At the start of the target passage, what is the reader told to understand about life?",
+          "answer": "Its purpose, what it is like, its form, its true meaning, and its happiness.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "How many items are in the summary of life’s aims?",
+          "answer": "Nine.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "What is the first aim mainly about?",
+          "answer": "Recognizing blessings and thanking Allah.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "What is the second aim mainly about?",
+          "answer": "Using one’s abilities to know Allah through His names.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "What is the third aim mainly about?",
+          "answer": "Showing the wonderful signs Allah placed on a person.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "What is the fourth aim mainly about?",
+          "answer": "Proclaiming worship to the Creator.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "If a person learns about Allah but never thanks Him, which earlier aim is still missing?",
+          "answer": "The first one.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:2-sinif:S5Q3"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "What five things about life are named at the beginning before the list starts?",
+          "answer": "Its aim, its nature, its form, its true meaning, and its perfect happiness.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "What is the total number of the summarized aims of life?",
+          "answer": "Nine.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "In the first aim, what do the senses help a person do?",
+          "answer": "Notice Allah’s gifts.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "After noticing those gifts, what should a person offer?",
+          "answer": "Thanks to Allah.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:2-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "In the second aim, what opens hidden treasures?",
+          "answer": "The abilities placed in a person’s nature.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "What do those hidden treasures help a person know?",
+          "answer": "Allah through His sacred names.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "In the third aim, what should life display in this world?",
+          "answer": "The beautiful and subtle works tied to Allah’s names.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "In the fourth aim, what should be announced at the Creator’s court?",
+          "answer": "One’s worship.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

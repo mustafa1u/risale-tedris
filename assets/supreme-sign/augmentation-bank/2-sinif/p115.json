@@ -1,0 +1,844 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "supreme-sign:2-sinif:p115",
+  "bookSlug": "supreme-sign",
+  "bookTitle": "Supreme Sign",
+  "bookOrder": 11,
+  "gradeSlug": "2-sinif",
+  "partNo": "p115",
+  "partNumber": 115,
+  "title": "Note On Fair Copy And Correspondence",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Words/supreme-sign/outputs/2-sinif/SveC_2sinif_supreme-sign-p115-note-on-fair-copy-and-correspondence.txt",
+  "sourceRevision": "f55fc262200cde39743f415f63f6669848553e928cfdda52caafe6c19a934950",
+  "setCount": 6,
+  "questionCount": 70,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "Why does the note say some ideas from other books were written again in this treatise?",
+          "answer": "Because those other parts were not there, so some important points were included again.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "What did they want the students in that area to write?",
+          "answer": "A small complete copy of the Risale-i Nur.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Even though there seemed to be repetition, what did they still have the students write down?",
+          "answer": "The whole treatise that was there.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Who wrote the corrected copy of the rough draft?",
+          "answer": "A blessed person.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "What was surprising about that person?",
+          "answer": "He did not know much about those matters, but something special still appeared in his copy.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "What special pattern was seen in the copy?",
+          "answer": "The letters at the starts of the lines matched in a meaningful way.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "How many alifs were counted at the beginnings of the lines?",
+          "answer": "Six hundred and sixty-six.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "What is an alif?",
+          "answer": "The first letter of the Arabic alphabet.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "What title matched that number in abjad value?",
+          "answer": "Ayat al-Kubra, or The Supreme Sign.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S1Q7"
+          ]
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Whose naming of the treatise is mentioned?",
+          "answer": "Imam Ali, may Allah be pleased with him.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "What did this number match show about the title?",
+          "answer": "It showed the title fit the treatise well.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S1Q9"
+          ]
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "What else did the writers understand from this number match?",
+          "answer": "They saw it as a sign that the treatise came as a light from Qur’an verses.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S1Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "Where were the other parts of the Risale-i Nur missing from?",
+          "answer": "From the place where this treatise was written.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Which two works are named as having important matters mentioned again?",
+          "answer": "The Words and The Flashes.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Is the repeated writing described as hidden or easy to notice?",
+          "answer": "It is described as something easy to notice.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "Why did they still want the present treatise written down fully?",
+          "answer": "So the students there could make a small but complete Risale-i Nur.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "What kind of copy was later revised?",
+          "answer": "A rough first draft.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "How is the person who wrote the revised copy described?",
+          "answer": "As a blessed person.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Did that person know a lot about these special matters?",
+          "answer": "No, he was unaware of them.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "What was noticed in his writing?",
+          "answer": "A fine and deep matching in the letters.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Where were the counted alifs found?",
+          "answer": "At the beginning of the lines.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "What does the note say the number 666 matched?",
+          "answer": "The abjad value of the treatise’s title.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "How did they connect this to the Qur’an too?",
+          "answer": "They said it also pointed to the treatise being a light taken from Qur’an verses, which they gave as 6,666 in number.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S2Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "What problem came from the other parts not being available?",
+          "answer": "Some important teachings had to be repeated in this treatise.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "What does the note say about this repetition?",
+          "answer": "It may look like repetition.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "What good purpose did that repetition serve for the local students?",
+          "answer": "It helped them write a small complete Risale-i Nur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "What happened to the first draft after it was written?",
+          "answer": "A revised copy of it was made.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "What kind of person made that revised copy?",
+          "answer": "A blessed person.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Why is it interesting that this person made the special pattern?",
+          "answer": "Because he did not know about such things.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "What letter was counted again and again in the copy?",
+          "answer": "Alif.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "How many of those letters were counted at line beginnings?",
+          "answer": "666.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "What title had the same number value?",
+          "answer": "Ayat al-Kubra.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S3Q8"
+          ]
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "What conclusion was drawn from the matching numbers?",
+          "answer": "That the title was suitable for the treatise.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S3Q12",
+          "sourceQuestionId": "S3Q12",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 12,
+          "question": "What bigger meaning did they also take from this sign?",
+          "answer": "That the treatise was connected to the light of the Qur’an.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S3Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "What was not on hand when the treatise was being composed?",
+          "answer": "The other parts of the Risale-i Nur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Because of that, what happened in The Supreme Sign?",
+          "answer": "Important points from other books were mentioned there too.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "What are the names of those other books?",
+          "answer": "The Words and The Flashes.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "What job were the students in that area given?",
+          "answer": "Writing down the whole treatise.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "What was the reason for giving them that job?",
+          "answer": "To help them produce a miniature complete Risale-i Nur.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "What kind of draft is mentioned before the revised copy?",
+          "answer": "A rough draft.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "What was found in the revised copy?",
+          "answer": "A delicate and deep letter pattern.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "What made that finding more amazing?",
+          "answer": "The person who wrote it was not learned in those matters.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "Which letter is explained in a footnote?",
+          "answer": "Alif.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "What two facts are given about alif in the footnote?",
+          "answer": "It is the first Arabic letter, and its number value is one.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "What number of alifs was counted?",
+          "answer": "666.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "What two things did that number point to?",
+          "answer": "The fitting title Ayat al-Kubra and a sign of connection to the Qur’an’s verses.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S4Q11"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "In simple words, why were some ideas repeated in this treatise?",
+          "answer": "Because the other books were missing there.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "What does the note call that repetition?",
+          "answer": "Something that appears to be repetition.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "What did they hope the students would end up with by writing it all?",
+          "answer": "A small but complete Risale-i Nur.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "Was only part of the treatise written down, or all of it?",
+          "answer": "All of it.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Who prepared the revised copy?",
+          "answer": "A blessed person.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "Did he make the pattern on purpose because he knew the subject well?",
+          "answer": "No, he did not know such matters.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "What careful detail was noticed in the copy?",
+          "answer": "The first letters of the lines showed a meaningful count.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "What was that count?",
+          "answer": "666 alifs.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "What title is said to have the same abjad number?",
+          "answer": "Ayat al-Kubra, meaning The Supreme Sign.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Who is said to have given that title?",
+          "answer": "Imam Ali, may Allah be pleased with him.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "What did the matching number show about the title and the book?",
+          "answer": "It showed the title suited the book.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S5Q12",
+          "sourceQuestionId": "S5Q12",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 12,
+          "question": "What did they believe the match hinted about the source of the treatise’s light?",
+          "answer": "That it was a shining reflection from the Qur’an.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "What is the main reason given for mentioning some earlier topics again?",
+          "answer": "The needed books were not available where this one was written.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "What is the name of the treatise being talked about in the note?",
+          "answer": "The Supreme Sign.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "What was the goal for the students in that region?",
+          "answer": "To write a miniature full Risale-i Nur.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "What was revised after the first writing?",
+          "answer": "The rough draft.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "How is the person who wrote the revised version described in a good way?",
+          "answer": "As blessed.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "What did the writers notice in his copy?",
+          "answer": "A subtle and deep matching of letters.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "At what place in the lines were the alifs counted?",
+          "answer": "At the starts of the lines.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "What number was reached?",
+          "answer": "666.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "What does the note say that number fully agrees with?",
+          "answer": "The abjad value of the title Ayat al-Kubra.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "What idea about the title came from that agreement?",
+          "answer": "That the title was very suitable.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "What second sign did they understand from the same number?",
+          "answer": "That the treatise was a flash from the light of Qur’an verses.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "supreme-sign:p115:2-sinif:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "Why does the Qur’an also connect with the number 666 in the note?",
+          "answer": "Because the note says the Qur’an’s verses are 6,666 in number.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "supreme-sign:p115:2-sinif:S6Q11"
+          ]
+        }
+      ]
+    }
+  ]
+}

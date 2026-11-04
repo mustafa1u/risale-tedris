@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "short-words:2-sinif:p40",
+  "bookSlug": "short-words",
+  "bookTitle": "Short Words",
+  "bookOrder": 12,
+  "gradeSlug": "2-sinif",
+  "partNo": "p40",
+  "partNumber": 40,
+  "title": "Ninth Word Fourth Point Night And Tahajjud Reminders Of The Intermediate Realm And Resurrection",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Words/short-words/outputs/2-sinif/SveC_2sinif_short-words-p40-ninth-word-fourth-point-night-and-tahajjud-reminders-of-the-intermediate-realm-and-resurrection.txt",
+  "sourceRevision": "552fb0ff3e064fa4ace3b5a8d7b30d53d81cd02b60c6243910676abacfb7fd97",
+  "setCount": 6,
+  "questionCount": 44,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "short-words:p40:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "What three things does the nighttime make a person think about?",
+          "answer": "Winter, the grave, and the place between death and resurrection.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "When the nighttime brings those things to mind, what does it help a person understand about the human soul?",
+          "answer": "That the soul greatly needs Allah’s mercy.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "Which prayer is talked about in this passage?",
+          "answer": "The tahajjud prayer.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "What is tahajjud like for the grave and that world after death?",
+          "answer": "It is like an important light.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "What blessings does the passage say this prayer helps a person remember?",
+          "answer": "The endless blessings from Allah.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "After remembering those blessings, what should a person give to Allah?",
+          "answer": "Praise and thanks.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "What is one main lesson of the whole passage?",
+          "answer": "At night, a person should remember his need for Allah and turn to Him with thankfulness.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "short-words:p40:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "What season is linked with the nighttime in the passage?",
+          "answer": "Winter.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "What place is linked with the nighttime after a person dies?",
+          "answer": "The grave.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "What other world is mentioned along with the grave?",
+          "answer": "The Intermediate Realm.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "Why does the passage connect nighttime with these things?",
+          "answer": "To help people remember their need for Allah’s mercy.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S2Q1",
+            "short-words:p40:2-sinif:S2Q2",
+            "short-words:p40:2-sinif:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "Which prayer is especially mentioned for this time?",
+          "answer": "Tahajjud.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "Why is tahajjud very important, according to the passage?",
+          "answer": "Because it gives light for darkness after death.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Besides warning, what happy reminder does tahajjud bring?",
+          "answer": "It reminds a person of Allah’s countless gifts and that Allah deserves thanks.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "short-words:p40:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "At nighttime, what does the passage say comes to a person’s mind?",
+          "answer": "Winter, the grave, and the Intermediate Realm.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "How does remembering these things affect a person’s heart?",
+          "answer": "It shows how much he needs the mercy of Allah.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "Who is the One whose mercy is needed?",
+          "answer": "The Most Merciful One, Allah.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "What prayer is named as help during the night?",
+          "answer": "Tahajjud prayer.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "The passage says tahajjud is like what kind of help in darkness?",
+          "answer": "A light.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Darkness of what two things is tahajjud said to help with?",
+          "answer": "The grave and the Intermediate Realm.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "What does the prayer do besides giving light?",
+          "answer": "It gives a warning and reminds a person of Allah’s blessings.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "When a person remembers Allah’s endless blessings, what feeling should he have?",
+          "answer": "Thankfulness and praise.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "short-words:p40:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "What time of day is the passage mainly about?",
+          "answer": "Nighttime.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "Name one season and two after-death things that nighttime reminds people of.",
+          "answer": "Winter, the grave, and the Intermediate Realm.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "What does this reminder teach about the human spirit?",
+          "answer": "It teaches that the spirit cannot do without Allah’s mercy.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "What special night prayer is mentioned?",
+          "answer": "Tahajjud.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "What picture does the passage use to show why tahajjud matters?",
+          "answer": "The picture of light in deep darkness.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "What does tahajjud make clear to a person?",
+          "answer": "That he will need help in the dark times after death.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "What does the prayer help a person remember about Allah?",
+          "answer": "That Allah gives endless blessings.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "If Allah gives endless blessings, what is He worthy of from us?",
+          "answer": "Praise and thanks.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "short-words:p40:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "Which season does the passage pair with nighttime?",
+          "answer": "Winter.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Which two places or stages after death are also remembered at night?",
+          "answer": "The grave and the Intermediate Realm.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "What big truth about people is learned from these reminders?",
+          "answer": "People deeply need Allah’s mercy.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S5Q1",
+            "short-words:p40:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "What is the name of the prayer spoken about in the passage?",
+          "answer": "Tahajjud.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "In the passage, tahajjud is necessary like what?",
+          "answer": "Like light in darkness.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "What kind of darkness is spoken of?",
+          "answer": "The darkness connected with the grave and the Intermediate Realm.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S5Q2"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "What should a person do after remembering Allah’s never-ending gifts?",
+          "answer": "Praise Him and thank Him.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "short-words:p40:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "What time mentioned in the passage can remind a person of winter?",
+          "answer": "The nighttime.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "What else can nighttime remind a person of besides winter?",
+          "answer": "The grave and the Intermediate Realm.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "Why are these reminders important for the human soul?",
+          "answer": "They show that the soul is in great need of Allah’s mercy.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S6Q1",
+            "short-words:p40:2-sinif:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "What prayer is especially connected to the night here?",
+          "answer": "Tahajjud prayer.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "According to the passage, tahajjud is a needed light for what?",
+          "answer": "For the grave and the darkness of the Intermediate Realm.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "Which gifts does it help him remember?",
+          "answer": "Allah’s endless gifts and favors.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p40:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "What is Allah deserving of because of those gifts?",
+          "answer": "Praise and thanks.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p40:2-sinif:S6Q7"
+          ]
+        }
+      ]
+    }
+  ]
+}

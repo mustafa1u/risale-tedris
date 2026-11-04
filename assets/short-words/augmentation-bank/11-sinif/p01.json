@@ -1,0 +1,604 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "short-words:11-sinif:p01",
+  "bookSlug": "short-words",
+  "bookTitle": "Short Words",
+  "bookOrder": 12,
+  "gradeSlug": "11-sinif",
+  "partNo": "p01",
+  "partNumber": 1,
+  "title": "Short Words Preface Author Invocation Praise Blessings And The Eight Words",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Words/short-words/outputs/11-sinif/SveC_11sinif_short-words-p01-short-words-preface-author-invocation-praise-blessings-and-the-eight-words.txt",
+  "sourceRevision": "bc2f3d2c2fddf82e115776c5f5c6478dbaa7378d71011ce0ca40df8b1b0c7d02",
+  "setCount": 6,
+  "questionCount": 50,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "short-words:p01:11-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "How does the passage begin religiously?",
+          "answer": "It opens with praising Allah, asking Him for help, and sending blessings and peace upon Prophet Muhammad, his family, and his companions.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "What does the speaker say the listener had asked for?",
+          "answer": "He had asked for some brief advice.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "In what form does the speaker say the advice will be given?",
+          "answer": "It will be given through eight short stories built as comparisons connected to military life.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "Why does the speaker choose military-style comparisons?",
+          "answer": "Because the person being addressed is a soldier.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "Who does the speaker say needs this advice most?",
+          "answer": "He says his own self needs it more than anyone else.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "What earlier work of the speaker is mentioned?",
+          "answer": "He mentions that he had previously addressed his own self with eight “Words” drawn from eight Qur’anic verses that benefited him.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "How will the present advice differ from that earlier treatment?",
+          "answer": "This time it will be shorter and expressed in plain, everyday language.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p01:11-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "Who is invited to benefit from the advice besides the direct listener?",
+          "answer": "Anyone who wants may listen along and benefit too.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "short-words:p01:11-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "What are the main acts of worship and respect found at the opening of the passage?",
+          "answer": "Seeking Allah’s help, praising Him, and asking blessings and peace for the Prophet and those close to him.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "What does the speaker call the pieces of advice he is about to share?",
+          "answer": "He calls them truths presented in eight brief stories.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "What clue shows that the advice is adjusted to the listener’s situation?",
+          "answer": "The examples are shaped around military comparisons because the listener is a soldier.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "What does the speaker’s statement about his own self show about his character?",
+          "answer": "It shows humility and self-awareness, because he does not act as if he is above the advice.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "From where did the speaker say the earlier eight teachings were inspired?",
+          "answer": "They were inspired by eight verses from the Qur’an.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "What benefit had the speaker gained from those Qur’anic verses?",
+          "answer": "He had personally benefited from them.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "Why might the speaker choose ordinary language here?",
+          "answer": "So the advice will be easier to understand and more practical for the listener and others.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "short-words:p01:11-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "To whom is the advice directly addressed in the passage?",
+          "answer": "It is directly addressed to a brother who asked for advice.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "What does the word “few” suggest about the advice requested?",
+          "answer": "It suggests the listener wanted something brief, not a long lecture.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "How many short stories are mentioned?",
+          "answer": "Eight.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "What is the relationship between the short stories and the truths being taught?",
+          "answer": "The stories are the way the truths will be explained and delivered.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Why does the speaker mention his own inner self in this introduction?",
+          "answer": "To show that the advice applies to him too and is not only for someone else.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "What can we infer from the speaker’s earlier long address to his own self?",
+          "answer": "We can infer that he has already reflected deeply on these lessons before sharing them now.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "What is the source of the earlier “Words”?",
+          "answer": "They come from eight Qur’anic verses.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "What invitation at the end of the passage broadens the audience?",
+          "answer": "The speaker says that anyone who wishes may listen together with him.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "short-words:p01:11-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "What three religious elements appear before the advice itself begins?",
+          "answer": "Allah’s name is mentioned, help is sought from Him, and blessings and peace are asked for the Prophet, his family, and his companions.",
+          "wordCount": 23,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "What does the speaker say the listener wanted from him?",
+          "answer": "Some advice.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "How is the advice organized?",
+          "answer": "It is organized into eight brief stories.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "What kind of examples will shape those stories?",
+          "answer": "Comparisons related to military life.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "What reason is given for using that kind of example?",
+          "answer": "The listener is a soldier, so that style fits him.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "What does the speaker admit about his own need for guidance?",
+          "answer": "He admits that he sees himself as needing advice more than anyone else.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "How had he previously spoken to his own self?",
+          "answer": "He had spoken at length through eight teachings based on Qur’anic verses.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "What change in style does he make now?",
+          "answer": "He gives the same lessons in a shorter and simpler way.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p01:11-sinif:S4Q7"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "What does the final sentence show about the purpose of the passage?",
+          "answer": "It shows that the advice is meant to be shared and beneficial to anyone willing to listen.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "short-words:p01:11-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "What does the opening praise tell us about who deserves ultimate praise?",
+          "answer": "Allah alone deserves ultimate praise as the Lord and Sustainer of all worlds.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Upon whom are blessings and peace asked in the passage?",
+          "answer": "Upon Prophet Muhammad and all his family and companions.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "What request from the listener leads to this introduction?",
+          "answer": "The listener had asked for a small amount of advice.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "How does the speaker plan to teach that advice?",
+          "answer": "By using eight short story-like comparisons.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "Why are the comparisons connected to military life instead of some other field?",
+          "answer": "Because they are meant for someone who is a soldier.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "What important teaching attitude does the speaker show by including himself?",
+          "answer": "He shows that good advice should first be applied to oneself.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "What was special about the earlier eight teachings he mentions?",
+          "answer": "They were shaped by Qur’anic verses and had already helped him personally.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "How is the present version made more accessible?",
+          "answer": "It is shortened and put into language ordinary people can follow.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "Who may listen besides the one first addressed?",
+          "answer": "Anyone who wants to listen may join in.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "short-words:p01:11-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "What basic message is conveyed by beginning with Allah’s name, praise, and a prayer for the Prophet?",
+          "answer": "It shows that the advice is rooted in faith, respect, and dependence on Allah.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "What does the speaker call the person he is addressing?",
+          "answer": "He calls him brother.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "What had this brother wanted?",
+          "answer": "He wanted some advice.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "How many parts will the advice have, and what form will they take?",
+          "answer": "It will have eight parts, presented as short stories or comparisons.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "What feature of the listener’s life shapes the teaching method?",
+          "answer": "His being a soldier shapes the military style of the comparisons.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "What does the speaker reveal about his own spiritual condition?",
+          "answer": "He says his own self is in great need of the same advice.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "What earlier effort does he mention to show the advice is not random?",
+          "answer": "He had already developed eight teachings from eight Qur’anic verses that benefited him.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "In what two ways does the present advice differ from that earlier effort?",
+          "answer": "It is briefer and uses more common language.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "short-words:p01:11-sinif:S6Q7"
+          ]
+        },
+        {
+          "canonicalId": "short-words:p01:11-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "What does the closing invitation teach about sharing beneficial knowledge?",
+          "answer": "Beneficial guidance should stay open to all who sincerely want to hear it.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

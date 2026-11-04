@@ -1,0 +1,721 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "11-soz-eng:lisans:p12",
+  "bookSlug": "11-soz-eng",
+  "bookTitle": "11th Word",
+  "bookOrder": 13,
+  "gradeSlug": "lisans",
+  "partNo": "p12",
+  "partNumber": 12,
+  "title": "Purposes of Life: 9 Commands / Commands 1st to 4th",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Words/11-soz-eng/outputs/lisans/SveC_lisans_11-soz-eng-with-arabic-p12-purposes-of-life-9-commands-commands-1st-to-4th.txt",
+  "sourceRevision": "f37755bf8c8e95d002db80d5160bca4b7262e251c5e0325f1582efdde4b3ca3d",
+  "setCount": 6,
+  "questionCount": 56,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "According to the passage, what is the first major aim of human life?",
+          "answer": "It is to recognize the blessings given through divine mercy by using one’s senses and to respond with broad gratitude.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "What is the second aim of life in this passage?",
+          "answer": "It is to use the abilities placed in human nature to discover the meanings of the divine names and, through them, know Allah.",
+          "wordCount": 23,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "What does the third aim ask a person to do in relation to the world and other creatures?",
+          "answer": "It asks a person to show, through his life, the fine works and subtle signs connected to the divine names so that they become visible in the world.",
+          "wordCount": 28,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "How is the fourth aim of life supposed to be carried out?",
+          "answer": "It is carried out by declaring worship both with speech and by the way one’s natural state and character point to servanthood.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "What kind of awareness is required in the third aim?",
+          "answer": "A person must live consciously, knowing that his life can reflect signs of divine artistry.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S1Q3"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "What is the difference between the first and second aims?",
+          "answer": "The first focuses on recognizing blessings and thanking Allah, while the second focuses on understanding the divine names through human capacities.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S1Q1",
+            "11-soz-eng:p12:lisans:S1Q2"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "Why does the passage connect worship with both words and disposition?",
+          "answer": "Because true worship is not just spoken; it should also appear in a person’s inner state and way of being.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S1Q4"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S1Q11",
+          "sourceQuestionId": "S1Q11",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 11,
+          "question": "What does the passage suggest about human life in relation to the divine names?",
+          "answer": "It suggests that human life is a place where signs of those names can be known, reflected, and shown.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S1Q12",
+          "sourceQuestionId": "S1Q12",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 12,
+          "question": "If someone enjoys blessings but never gives thanks, which aim of life is being neglected most directly?",
+          "answer": "The first aim is being neglected.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S1Q1"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "What is the central action connected with the first matter?",
+          "answer": "Recognizing divine gifts and giving comprehensive thanks.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "In the second matter, what role do a person’s built-in abilities play?",
+          "answer": "They function as means for discovering hidden realities related to the divine names.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "What is the goal of knowing the divine names in the second matter?",
+          "answer": "The goal is to come to know the Holy One through those names.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "According to the third matter, how can a human life serve in the world’s exhibition?",
+          "answer": "It can serve by making visible the beauty and subtlety of the divine artistry attached to that person.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "What does the phrase about the court of dominicality point to in the fourth matter?",
+          "answer": "It points to standing before divine lordship as a servant who offers worship.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "How does the passage move from inward awareness to outward expression?",
+          "answer": "It starts with noticing blessings and divine names inwardly, then moves to showing their signs through life and worship outwardly.",
+          "wordCount": 20,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "What can be inferred about the value of the senses from the first matter?",
+          "answer": "The senses are not random tools; they have a meaningful role in spiritual recognition and gratitude.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "Why is gratitude described in a broad or universal way rather than a narrow way?",
+          "answer": "Because the passage points to recognizing many kinds of blessings together, not just one or two personal favors.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "What is one key difference between the third and fourth matters?",
+          "answer": "The third is about displaying divine artistry through one’s life before creation, while the fourth is about offering worship to the Creator.",
+          "wordCount": 22,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S2Q5",
+            "11-soz-eng:p12:lisans:S2Q6"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "If a person studies creation but never connects it to Allah’s names, which matter is especially left incomplete?",
+          "answer": "The second matter is especially left incomplete.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S2Q3"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "What shared theme ties all four matters together?",
+          "answer": "All four center on living consciously as a servant of Allah by recognizing, knowing, reflecting, and worshipping.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "What does this passage teach about the true purpose of human senses?",
+          "answer": "They are meant to help a person recognize blessings from divine mercy and respond with thankfulness.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "What does the second aim teach about human nature?",
+          "answer": "It teaches that human nature contains abilities designed to lead a person toward knowledge of Allah through His names.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "What does the passage mean by hidden treasuries in connection with the divine names?",
+          "answer": "It means deeper realities and meanings that are not reached without proper use of one’s God-given faculties.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S3Q3"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "In the third aim, what is a person expected to make known?",
+          "answer": "The person is expected to make known the wonderful works and fine signs of the divine names reflected in his life.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "Why does the passage mention the sight of creatures in describing the third aim?",
+          "answer": "Because human life is meant to be a visible witness in the world, not only a private experience.",
+          "wordCount": 18,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S3Q5"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "What is meant by worship through the tongue of one’s disposition?",
+          "answer": "It means that a person’s condition, character, and way of living should also express servanthood, not just spoken words.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "Which of the four aims deals most directly with direct praise and devotion to Allah?",
+          "answer": "The fourth aim does.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S3Q7"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "Which of the four aims deals most directly with noticing blessings?",
+          "answer": "The first aim does.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "Which of the four aims deals most directly with knowledge of Allah through His names?",
+          "answer": "The second aim does.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S3Q3"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "What response should follow from recognizing the blessings measured through the senses?",
+          "answer": "A person should give thankful worship in a wide and sincere way.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "What are the faculties in human nature supposed to open, according to the passage?",
+          "answer": "They are supposed to open the concealed riches of the divine names.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "After opening those meanings, what should a person come to know?",
+          "answer": "The person should come to know the Most Holy One through those names.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "What is being displayed through human life in the third aim?",
+          "answer": "The remarkable beauty and fine traces of the divine names connected to that person.",
+          "wordCount": 14,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "Where is this display said to take place?",
+          "answer": "It takes place in the world, which is described like a place where things are shown publicly.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "What two ways of expressing worship are named in the fourth aim?",
+          "answer": "One is verbal expression, and the other is expression through one’s natural state.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "How does the passage connect self-knowledge and knowledge of Allah?",
+          "answer": "It shows that the abilities placed within the human being are meant to guide the person toward knowing Allah.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "Which aim is most focused on a person’s relationship to other creatures?",
+          "answer": "The third aim is, because it involves making divine artistry visible before them.",
+          "wordCount": 13,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "Which aim is most focused on a person’s direct relationship with Allah as Lord?",
+          "answer": "The fourth aim is.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "What is a concise summary of the passage’s message?",
+          "answer": "Human life is meant to recognize mercy, discover divine meanings, reflect them in the world, and live in worship.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "According to the passage, what should a person do with the blessings experienced through the senses?",
+          "answer": "The person should assess them properly and answer with gratitude.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "Why are the senses important in the first aim of life?",
+          "answer": "They help a person perceive blessings and become aware of their source.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "In the second aim, what is the relationship between human faculties and the divine names?",
+          "answer": "Human faculties are tools for reaching understanding of the divine names.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "What is the final outcome of using those faculties correctly in the second aim?",
+          "answer": "It leads to knowing the Holy Creator through His names.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "What kind of role does human life play in the third aim?",
+          "answer": "It plays the role of a conscious display of divine artistry.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "What does the fourth aim add that the third aim does not fully express?",
+          "answer": "It adds direct worship and open servanthood before the Creator.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "Which aim is most clearly connected to thanksgiving?",
+          "answer": "The first aim.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "Which aim is most clearly connected to making inner realities visible in public life?",
+          "answer": "The third aim.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S5Q5"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "What does the passage present as one basic purpose of human life regarding divine mercy?",
+          "answer": "One purpose is to recognize the blessings that come from divine mercy and to thank Allah for them fully.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "What image is used to explain how a person comes to know the divine names?",
+          "answer": "The passage uses the image of opening locked treasures with keys.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "What are the keys in that image?",
+          "answer": "They are the faculties and abilities placed within human nature.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S6Q2"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "In the third aim, what is attached to the human being and shown through life?",
+          "answer": "The wondrous works and subtle signs connected to the divine names are shown through life.",
+          "wordCount": 15,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "What does the passage suggest about the world by calling it an exhibition?",
+          "answer": "It suggests that the world is a place where meanings and signs are displayed so they can be noticed.",
+          "wordCount": 19,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S6Q4"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "How should worship appear according to the fourth aim?",
+          "answer": "It should appear both in what a person says and in the person’s natural condition and conduct.",
+          "wordCount": 17,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "Which aim would be most directly fulfilled by saying words of praise and also living obediently?",
+          "answer": "The fourth aim would be most directly fulfilled.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "What unites sensing blessings and proclaiming worship in this passage?",
+          "answer": "Both are parts of the same servant-centered life directed toward Allah.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": [
+            "11-soz-eng:p12:lisans:S6Q1",
+            "11-soz-eng:p12:lisans:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "11-soz-eng:p12:lisans:S6Q12",
+          "sourceQuestionId": "S6Q12",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 12,
+          "question": "What is the best short summary of the four aims named here?",
+          "answer": "Human life is for thankful awareness, knowing Allah through His names, showing His signs through one’s life, and worshipping Him sincerely.",
+          "wordCount": 21,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    }
+  ]
+}

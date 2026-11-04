@@ -1,0 +1,948 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "key": "13-soz-eng:2-sinif:p04",
+  "bookSlug": "13-soz-eng",
+  "bookTitle": "13th Word",
+  "bookOrder": 14,
+  "gradeSlug": "2-sinif",
+  "partNo": "p04",
+  "partNumber": 4,
+  "title": "Description of the Reality of Creation Through the Tree Parable",
+  "sourcePath": "C:/Users/musta/source/repos/TextDataEditor/sourceLib/data/Words/13-soz-eng/outputs/2-sinif/SveC_2sinif_13-soz-eng-with-arabic-p04-description-of-the-reality-of-creation-through-the-tree-parable.txt",
+  "sourceRevision": "32a5315da52f2f68661dda94ff3186f220a78144d88202eb4e225eee9a0bf759",
+  "setCount": 6,
+  "questionCount": 72,
+  "sets": [
+    {
+      "setNumber": 1,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S1Q1",
+          "sourceQuestionId": "S1Q1",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 1,
+          "question": "What is the first picture used in this passage?",
+          "answer": "A huge hidden tree.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S1Q2",
+          "sourceQuestionId": "S1Q2",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 2,
+          "question": "Where is this tree hidden?",
+          "answer": "Behind a covering, out of sight.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S1Q3",
+          "sourceQuestionId": "S1Q3",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 3,
+          "question": "What parts of the tree are named?",
+          "answer": "Its branches, fruit, leaves, and blossoms.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S1Q4",
+          "sourceQuestionId": "S1Q4",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 4,
+          "question": "What must exist between a tree and its parts?",
+          "answer": "They must fit together in a balanced way.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S1Q5",
+          "sourceQuestionId": "S1Q5",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 5,
+          "question": "If someone draws the hidden tree correctly without seeing it, what does that show?",
+          "answer": "That he knows the tree very well and sees beyond the covering.",
+          "wordCount": 12,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S1Q6",
+          "sourceQuestionId": "S1Q6",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 6,
+          "question": "What is the hidden tree compared to in the next part?",
+          "answer": "The whole creation.",
+          "wordCount": 3,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S1Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S1Q7",
+          "sourceQuestionId": "S1Q7",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 7,
+          "question": "From where to where does this creation-tree stretch?",
+          "answer": "From the start of the world to the Hereafter.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S1Q6"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S1Q8",
+          "sourceQuestionId": "S1Q8",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 8,
+          "question": "What does the passage say the Qur’an does with all parts of creation?",
+          "answer": "It describes them in the right measure and shape.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S1Q9",
+          "sourceQuestionId": "S1Q9",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 9,
+          "question": "How did careful scholars react to this?",
+          "answer": "They were amazed and praised Allah.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S1Q8"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S1Q10",
+          "sourceQuestionId": "S1Q10",
+          "sourceSetNumber": 1,
+          "sourceQuestionNumber": 10,
+          "question": "What did they say the Qur’an solves?",
+          "answer": "The secret of the universe and creation.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S1Q9"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 2,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q1",
+          "sourceQuestionId": "S2Q1",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 1,
+          "question": "What living thing is used as an example at the start?",
+          "answer": "A very large tree.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q2",
+          "sourceQuestionId": "S2Q2",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 2,
+          "question": "Can people see this tree directly in the example?",
+          "answer": "No, it is hidden.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q3",
+          "sourceQuestionId": "S2Q3",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 3,
+          "question": "Why do the branches and fruit matter in this example?",
+          "answer": "They help show how all parts belong together.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q4",
+          "sourceQuestionId": "S2Q4",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 4,
+          "question": "What would make a drawing of the hidden tree amazing?",
+          "answer": "If every part matched the real tree exactly.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q2"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q5",
+          "sourceQuestionId": "S2Q5",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 5,
+          "question": "What can we understand about the one who makes that drawing?",
+          "answer": "He has full knowledge of the hidden tree.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q4"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q6",
+          "sourceQuestionId": "S2Q6",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 6,
+          "question": "In the same way, what does the Qur’an speak about?",
+          "answer": "The truth of created things.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q7",
+          "sourceQuestionId": "S2Q7",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 7,
+          "question": "What picture does the passage give for created things?",
+          "answer": "A tree of creation.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q8",
+          "sourceQuestionId": "S2Q8",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 8,
+          "question": "How far does this creation-tree reach upward and outward?",
+          "answer": "Very far, from the earth to the divine throne and from tiny particles to the sun.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q7"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q9",
+          "sourceQuestionId": "S2Q9",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 9,
+          "question": "What is special about how the Qur’an describes these things?",
+          "answer": "It keeps them in proper order and balance.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q8"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q10",
+          "sourceQuestionId": "S2Q10",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 10,
+          "question": "Who noticed this beauty and order?",
+          "answer": "Scholars who carefully studied it.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q11",
+          "sourceQuestionId": "S2Q11",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 11,
+          "question": "What did they feel when they saw this?",
+          "answer": "Wonder and thankfulness to Allah.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q10"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q12",
+          "sourceQuestionId": "S2Q12",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 12,
+          "question": "What did they believe the Qur’an helps explain?",
+          "answer": "The deep mystery of the universe.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q11"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q16",
+          "sourceQuestionId": "S2Q16",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 16,
+          "question": "How do the parts in the Qur’an’s description work together?",
+          "answer": "They agree with each other beautifully.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q9"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S2Q17",
+          "sourceQuestionId": "S2Q17",
+          "sourceSetNumber": 2,
+          "sourceQuestionNumber": 17,
+          "question": "What did wise people say after seeing this harmony?",
+          "answer": "They praised Allah and said it matches reality.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S2Q16"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 3,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q1",
+          "sourceQuestionId": "S3Q1",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 1,
+          "question": "What hidden thing are we asked to imagine first?",
+          "answer": "A strange, enormous tree.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q2",
+          "sourceQuestionId": "S3Q2",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 2,
+          "question": "Why must a tree and its parts match one another?",
+          "answer": "Because each part belongs to the same tree.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q3",
+          "sourceQuestionId": "S3Q3",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 3,
+          "question": "What are some parts that need to match the tree?",
+          "answer": "Branches, leaves, blossoms, and fruit.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q4",
+          "sourceQuestionId": "S3Q4",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 4,
+          "question": "If a person maps out the hidden tree exactly, what does that prove?",
+          "answer": "That he truly knows what is hidden.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S3Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q5",
+          "sourceQuestionId": "S3Q5",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 5,
+          "question": "Is the artist in the example guessing, or knowing?",
+          "answer": "Knowing.",
+          "wordCount": 1,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S3Q4"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q6",
+          "sourceQuestionId": "S3Q6",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 6,
+          "question": "What is the Qur’an compared to in relation to creation?",
+          "answer": "Like someone showing the shape of a hidden tree.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q7",
+          "sourceQuestionId": "S3Q7",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 7,
+          "question": "What does “tree of creation” mean here in simple words?",
+          "answer": "All created things together.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q8",
+          "sourceQuestionId": "S3Q8",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 8,
+          "question": "What time span does this tree include?",
+          "answer": "From the world’s beginning to the Hereafter.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q9",
+          "sourceQuestionId": "S3Q9",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 9,
+          "question": "What size range does it include?",
+          "answer": "From tiny bits to very great things like the sun.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q10",
+          "sourceQuestionId": "S3Q10",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 10,
+          "question": "What did searching scholars say after studying these descriptions?",
+          "answer": "They said Allah’s wonders and blessings are great.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S3Q6"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q11",
+          "sourceQuestionId": "S3Q11",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 11,
+          "question": "What did they call the Qur’an able to open?",
+          "answer": "The locked secret of the universe.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S3Q10"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q16",
+          "sourceQuestionId": "S3Q16",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 16,
+          "question": "What does the passage say about the Qur’an’s way of telling these truths?",
+          "answer": "It tells them in a fitting and balanced way.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S3Q17",
+          "sourceQuestionId": "S3Q17",
+          "sourceSetNumber": 3,
+          "sourceQuestionNumber": 17,
+          "question": "How did people of wisdom answer this clear explanation?",
+          "answer": "They confirmed it and praised Allah.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S3Q16"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 4,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q1",
+          "sourceQuestionId": "S4Q1",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 1,
+          "question": "What example helps explain the Qur’an in this passage?",
+          "answer": "The example of a hidden tree and a person drawing it.",
+          "wordCount": 11,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q2",
+          "sourceQuestionId": "S4Q2",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 2,
+          "question": "What would a correct drawing include?",
+          "answer": "The right shape of every part.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q3",
+          "sourceQuestionId": "S4Q3",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 3,
+          "question": "Why is it hard to draw such a tree correctly?",
+          "answer": "Because the tree is hidden from sight.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S4Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q4",
+          "sourceQuestionId": "S4Q4",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 4,
+          "question": "What does a perfect drawing tell us about the drawer?",
+          "answer": "He can fully know what is hidden.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S4Q2"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q5",
+          "sourceQuestionId": "S4Q5",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 5,
+          "question": "How is this like the Qur’an?",
+          "answer": "The Qur’an explains creation with perfect accuracy.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S4Q4"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q6",
+          "sourceQuestionId": "S4Q6",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 6,
+          "question": "What does the passage call all created things together?",
+          "answer": "A tree of creation.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q7",
+          "sourceQuestionId": "S4Q7",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 7,
+          "question": "What are the two ends of this tree in time?",
+          "answer": "The beginning of the world and the Hereafter.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q8",
+          "sourceQuestionId": "S4Q8",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 8,
+          "question": "What are two far-apart parts named to show how wide creation is?",
+          "answer": "Tiny particles and the sun.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S4Q6"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q9",
+          "sourceQuestionId": "S4Q9",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 9,
+          "question": "What is one main idea about the Qur’an’s descriptions?",
+          "answer": "They keep everything in the right relation.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S4Q5"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q10",
+          "sourceQuestionId": "S4Q10",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 10,
+          "question": "What kind of people saw this and understood it?",
+          "answer": "Investigating scholars.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S4Q9"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q11",
+          "sourceQuestionId": "S4Q11",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 11,
+          "question": "What did their words show about their feelings?",
+          "answer": "They were full of wonder and praise.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S4Q10"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q12",
+          "sourceQuestionId": "S4Q12",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 12,
+          "question": "What special job did they say the Qur’an does?",
+          "answer": "It explains the great puzzle of creation.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S4Q11"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S4Q20",
+          "sourceQuestionId": "S4Q20",
+          "sourceSetNumber": 4,
+          "sourceQuestionNumber": 20,
+          "question": "What does the verse at the end say about the Book?",
+          "answer": "It has no crookedness.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        }
+      ]
+    },
+    {
+      "setNumber": 5,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q1",
+          "sourceQuestionId": "S5Q1",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 1,
+          "question": "What big object are we told to imagine under a covering?",
+          "answer": "A giant unusual tree.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q2",
+          "sourceQuestionId": "S5Q2",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 2,
+          "question": "What must be true about the tree’s leaves, fruit, and branches?",
+          "answer": "They must match the whole tree.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q3",
+          "sourceQuestionId": "S5Q3",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 3,
+          "question": "What kind of work does the person in the example do over the covering?",
+          "answer": "He draws the hidden tree’s parts in the right way.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S5Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q4",
+          "sourceQuestionId": "S5Q4",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 4,
+          "question": "What makes people sure he really knows the tree?",
+          "answer": "His drawing matches even far-apart parts correctly.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S5Q3"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q5",
+          "sourceQuestionId": "S5Q5",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 5,
+          "question": "What lesson does this example teach before the Qur’an is mentioned?",
+          "answer": "True knowledge shows itself by perfect order.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S5Q4"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q6",
+          "sourceQuestionId": "S5Q6",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 6,
+          "question": "After the example, what does the passage say the Qur’an explains?",
+          "answer": "The reality of creation.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S5Q5"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q7",
+          "sourceQuestionId": "S5Q7",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 7,
+          "question": "What image is used for creation itself?",
+          "answer": "A tree.",
+          "wordCount": 2,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q8",
+          "sourceQuestionId": "S5Q8",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 8,
+          "question": "How far does this tree spread in place and time?",
+          "answer": "Across the world, the Hereafter, the earth, the throne, and from tiny things to huge ones.",
+          "wordCount": 16,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S5Q7"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q9",
+          "sourceQuestionId": "S5Q9",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 9,
+          "question": "What is strong about the Qur’an’s description of this tree?",
+          "answer": "Every part is given in the right size and place.",
+          "wordCount": 10,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S5Q8"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q10",
+          "sourceQuestionId": "S5Q10",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 10,
+          "question": "What did scholars say when they finished studying this?",
+          "answer": "They praised Allah and admired the Qur’an.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S5Q9"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S5Q11",
+          "sourceQuestionId": "S5Q11",
+          "sourceSetNumber": 5,
+          "sourceQuestionNumber": 11,
+          "question": "According to them, what can the Qur’an untie?",
+          "answer": "The hidden knot of the universe’s meaning.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S5Q10"
+          ]
+        }
+      ]
+    },
+    {
+      "setNumber": 6,
+      "questions": [
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q1",
+          "sourceQuestionId": "S6Q1",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 1,
+          "question": "What picture comes first in the passage to help us think?",
+          "answer": "A hidden giant tree.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q2",
+          "sourceQuestionId": "S6Q2",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 2,
+          "question": "What is important about the connection between the tree and its parts?",
+          "answer": "All the parts must suit the whole.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q3",
+          "sourceQuestionId": "S6Q3",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 3,
+          "question": "If someone outlines the hidden tree exactly, what ability does he seem to have?",
+          "answer": "He seems able to know what cannot be seen.",
+          "wordCount": 9,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S6Q1"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q4",
+          "sourceQuestionId": "S6Q4",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 4,
+          "question": "What does this picture help us understand about the Qur’an?",
+          "answer": "That it describes unseen truths with perfect knowledge.",
+          "wordCount": 8,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S6Q3"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q5",
+          "sourceQuestionId": "S6Q5",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 5,
+          "question": "What unseen truth is especially talked about next?",
+          "answer": "The truth of all creation.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": []
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q6",
+          "sourceQuestionId": "S6Q6",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 6,
+          "question": "What does the passage call creation in this example?",
+          "answer": "A tree of creation.",
+          "wordCount": 4,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S6Q5"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q7",
+          "sourceQuestionId": "S6Q7",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 7,
+          "question": "What far places are named to show its greatness?",
+          "answer": "From earth up to the divine throne.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q8",
+          "sourceQuestionId": "S6Q8",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 8,
+          "question": "What small and large things are named to show its range?",
+          "answer": "Tiny particles and the sun.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q9",
+          "sourceQuestionId": "S6Q9",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 9,
+          "question": "How well does the Qur’an keep the parts of creation together in its description?",
+          "answer": "Very well, with exact balance.",
+          "wordCount": 5,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S6Q6"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q10",
+          "sourceQuestionId": "S6Q10",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 10,
+          "question": "What was the response of scholars who looked deeply into this?",
+          "answer": "They were amazed and praised Allah.",
+          "wordCount": 6,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S6Q9"
+          ]
+        },
+        {
+          "canonicalId": "13-soz-eng:p04:2-sinif:S6Q11",
+          "sourceQuestionId": "S6Q11",
+          "sourceSetNumber": 6,
+          "sourceQuestionNumber": 11,
+          "question": "What honor did they give the Qur’an?",
+          "answer": "They said it explains the universe’s riddle.",
+          "wordCount": 7,
+          "hint": "",
+          "dependsOn": [
+            "13-soz-eng:p04:2-sinif:S6Q10"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -23,7 +23,17 @@ const TARGET_BOOKS = new Set([
   "24-soz",
   "31-soz",
   "32-soz",
-  "33-soz"
+  "33-soz",
+  "supreme-sign",
+  "short-words",
+  "11-soz-eng",
+  "13-soz-eng",
+  "18-soz-eng"
+]);
+const SOURCE_BOOK_SLUG_ALIASES = new Map([
+  ["11-soz-eng-with-arabic", "11-soz-eng"],
+  ["13-soz-eng-with-arabic", "13-soz-eng"],
+  ["18-soz-eng-with-arabic", "18-soz-eng"]
 ]);
 const SOURCE_FILE_PATTERN =
   /^SveC_(2sinif|5sinif|8sinif|11sinif|lisans)_([a-z0-9]+(?:-[a-z0-9]+)*)-(p\d+)-.*\.txt$/i;
@@ -37,6 +47,14 @@ const GRADE_SLUGS = new Map([
 
 function normalizeText(value) {
   return String(value ?? "").replace(/\r\n?/gu, "\n");
+}
+
+function titleFromSlug(slug) {
+  return String(slug ?? "")
+    .split("-")
+    .filter(Boolean)
+    .map((word) => word.charAt(0).toLocaleUpperCase("en-US") + word.slice(1))
+    .join(" ");
 }
 
 export function parseJsonDocument(text) {
@@ -250,9 +268,10 @@ function parseSourceIdentity(sourceFile) {
   if (!match) {
     return null;
   }
-  const [, sourceGrade, bookSlug, partNo] = match;
+  const [, sourceGrade, sourceBookSlug, partNo] = match;
+  const normalizedSourceBookSlug = sourceBookSlug.toLowerCase();
   return {
-    bookSlug: bookSlug.toLowerCase(),
+    bookSlug: SOURCE_BOOK_SLUG_ALIASES.get(normalizedSourceBookSlug) ?? normalizedSourceBookSlug,
     gradeSlug: GRADE_SLUGS.get(sourceGrade.toLowerCase()),
     partNo: partNo.toLowerCase()
   };
@@ -292,7 +311,27 @@ async function readBookMetadata(assetsRoot, bookSlug) {
   const bookPath = join(assetsRoot, bookSlug, "book.json");
   const labelsPath = join(assetsRoot, bookSlug, "part-labels.json");
   const book = parseJsonDocument(await readFile(bookPath, "utf8"));
-  const labels = parseJsonDocument(await readFile(labelsPath, "utf8"));
+  const labels = existsSync(labelsPath)
+    ? parseJsonDocument(await readFile(labelsPath, "utf8"))
+    : {};
+
+  if (!existsSync(labelsPath)) {
+    const escapedBook = bookSlug.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const pattern = new RegExp(`^${escapedBook}-(p\\d+)-(.+)\\.txt$`);
+    const partDirectory = join(assetsRoot, bookSlug, "parcalar");
+    const entries = await readdir(partDirectory, { withFileTypes: true });
+
+    for (const entry of entries) {
+      if (!entry.isFile()) {
+        continue;
+      }
+      const match = entry.name.match(pattern);
+      if (match) {
+        labels[match[1]] = titleFromSlug(match[2]);
+      }
+    }
+  }
+
   return { title: book.title ?? bookSlug, labels };
 }
 
