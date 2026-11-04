@@ -61,6 +61,19 @@ describe("BaseLayout markup contract", () => {
     assert.match(source, /class="site-menu__contact"[\s\S]*?>Bize Ulaşın<\/span>/);
   });
 
+  it("groups contact actions in desktop navigation and includes newsletter signup in the compact menu", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /const newsletterHref = `\$\{localizedPath\(locale, "\/"\)\}#newsletter`;/);
+    assert.match(source, /class="dropdown-menu contact-dropdown" aria-label={text\.layout\.contactMenu}/);
+    assert.match(source, /class="nav-link nav-link--contact"/);
+    assert.match(source, /class="nav-contact-icon" viewBox="0 0 24 24" aria-hidden="true"/);
+    assert.equal(source.match(/class="nav-dropdown-arrow" aria-hidden="true">▾<\/span>/g)?.length, 2);
+    assert.match(source, /<a href=\{demoLessonMailto\}><strong>{text\.layout\.demoLessonAction}<\/strong><\/a>/);
+    assert.match(source, /<a href=\{newsletterHref\}><strong>{text\.layout\.subscribeAction}<\/strong><\/a>/);
+    assert.match(source, /class="site-menu__subscribe" href=\{newsletterHref\}/);
+  });
+
   it("keeps the books dropdown and restores the other desktop items from the localized navigation model", async () => {
     const source = await readFile(sourcePath, "utf8");
 
@@ -141,6 +154,19 @@ describe("BaseLayout markup contract", () => {
     assert.match(source, /import "@\/features\/search\/mountHomeSearch\.jsx"/);
     assert.match(source, /document\.addEventListener\("rissor:search-open"/);
     assert.match(source, /new CustomEvent\("rissor:menu-open"/);
+  });
+
+  it("positions expanded disclosure titles with one title-row of space above them", async () => {
+    const source = await readFile(sourcePath, "utf8");
+
+    assert.match(source, /const scrollExpandedDisclosure = \(panel\) =>/);
+    assert.match(source, /const titleRowHeight = summary\.getBoundingClientRect\(\)\.height;/);
+    assert.match(source, /window\.scrollY \+ panel\.getBoundingClientRect\(\)\.top - titleRowHeight/);
+    assert.match(source, /document\.addEventListener\("toggle", \(event\) =>/);
+    assert.match(source, /panel instanceof HTMLDetailsElement.*?panel\.open.*?panel\.closest\("main"\)/s);
+    assert.match(source, /requestAnimationFrame\(\(\) => scrollExpandedDisclosure\(panel\)\)/);
+    assert.match(source, /event\.target instanceof Element \? event\.target\.closest\('a\[href\^="#"\]'\) : null/);
+    assert.match(source, /const panel = target instanceof HTMLDetailsElement \? target : target\?\.querySelector\("details"\);/);
   });
 
   it("offers the opposite locale in both desktop and compact navigation", async () => {

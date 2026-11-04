@@ -112,6 +112,8 @@ describe("UX page accessibility markup", () => {
     assert.match(source, /target\.querySelector\("\[data-book-search-trigger\]"\)/);
     assert.match(source, /event\.preventDefault\(\);\s+target\.querySelector\("\[data-book-search-trigger\]"\).*?trigger\.scrollIntoView/s);
     assert.match(source, /target instanceof HTMLDetailsElement/);
+    assert.equal(source.indexOf('href="#book-parts"') < source.indexOf('href="#book-augmentation"'), true);
+    assert.equal(source.indexOf('id="book-parts"') < source.indexOf('id="book-augmentation"'), true);
     assert.equal(source.indexOf('id="book-search"') < source.indexOf('page-band page-band--muted'), true);
   });
 

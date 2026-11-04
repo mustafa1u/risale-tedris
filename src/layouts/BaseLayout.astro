@@ -70,6 +70,7 @@ const compactNavigationItems = navigationItems.map((item) => ({
   label: navLabels[item.id]
 }));
 const demoLessonMailto = `mailto:risaletedris@gmail.com?subject=${encodeURIComponent(text.layout.demoLessonSubject)}&body=${encodeURIComponent(text.layout.demoLessonBody)}`;
+const newsletterHref = `${localizedPath(locale, "/")}#newsletter`;
 ---
 
 <!doctype html>
@@ -295,6 +296,7 @@ const demoLessonMailto = `mailto:risaletedris@gmail.com?subject=${encodeURICompo
           aria-current={currentPath.startsWith(localizedPath(locale, "/books/")) ? "page" : undefined}
         >
             {text.nav.books}
+            <span class="nav-dropdown-arrow" aria-hidden="true">▾</span>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.687 7.875" class="nav-caret" aria-hidden="true" >
             <path d="M635.621,375.374a0.7,0.7,0,0,0-.147.017,1.31,1.31,0,0,0-.14.041,0.625,0.625,0,0,0-.129.065,0.7,0.7,0,0,0-.123.1l-3.176,3.176a0.932,0.932,0,0,0-.164.252,0.7,0.7,0,0,0-.059.281,0.737,0.737,0,0,0,.059.287,0.767,0.767,0,0,0,.164.247l3.176,3.175a0.734,0.734,0,0,0,.252.17,0.763,0.763,0,0,0,.281.053,0.819,0.819,0,0,0,.287-0.053,0.617,0.617,0,0,0,.246-0.17,0.752,0.752,0,0,0,.164-0.246,0.7,0.7,0,0,0,0-.562,0.752,0.752,0,0,0-.164-0.246l-2.648-2.649,2.648-2.66a0.752,0.752,0,0,0,.164-0.246,0.7,0.7,0,0,0,0-.563,0.774,0.774,0,0,0-.164-0.246,0.855,0.855,0,0,0-.117-0.1,0.488,0.488,0,0,0-.129-0.065c-0.047-.015-0.094-.029-0.141-0.041a0.609,0.609,0,0,0-.14-0.017h0Z"
             transform="translate(-631.688 -375.375)"></path></svg>
@@ -345,6 +347,24 @@ const demoLessonMailto = `mailto:risaletedris@gmail.com?subject=${encodeURICompo
         </a>
       </div>
     ))}
+    <div class="nav-item dropdown">
+      <a class="nav-link nav-link--contact" href="mailto:risaletedris@gmail.com?subject=RisaleTedris%20ileti%C5%9Fim">
+        <svg class="nav-contact-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M4 5.5h16v13H4z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="1.8"></path>
+          <path d="m4.75 6.25 7.25 5.5 7.25-5.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
+        </svg>
+        <span>{text.layout.contactMenu}</span>
+        <span class="nav-dropdown-arrow" aria-hidden="true">▾</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.687 7.875" class="nav-caret" aria-hidden="true">
+          <path d="M635.621,375.374a0.7,0,0,0-.147.017,1.31,1.31,0,0,0-.14.041,0.625,0.625,0,0,0-.129.065,0.7,0.7,0,0,0-.123.1l-3.176,3.176a0.932,0.932,0,0,0-.164.252,0.7,0.7,0,0,0-.059.281,0.737,0.737,0,0,0,.059.287,0.767,0.767,0,0,0,.164.247l3.176,3.175a0.734,0.734,0,0,0,.252.17,0.763,0.763,0,0,0,.281.053,0.819,0.819,0,0,0,.287-0.053,0.617,0.617,0,0,0,.246-0.17,0.752,0.752,0,0,0,.164-0.246,0.7,0.7,0,0,0,0-.562,0.752,0.752,0,0,0-.164-0.246l-2.648-2.649,2.648-2.66a0.752,0.752,0,0,0,.164-0.246,0.7,0.7,0,0,0,0-.563,0.774,0.774,0,0,0-.164-0.246,0.855,0.855,0,0,0-.117-0.1,0.488,0.488,0,0,0-.129-0.065c-0.047-.015-0.094-.029-0.141-0.041a0.609,0.609,0,0,0-.14-0.017h0Z" transform="translate(-631.688 -375.375)"></path>
+        </svg>
+      </a>
+      <div class="dropdown-menu contact-dropdown" aria-label={text.layout.contactMenu}>
+        <a href="mailto:risaletedris@gmail.com?subject=RisaleTedris%20ileti%C5%9Fim"><strong>{text.layout.contactAction}</strong></a>
+        <a href={demoLessonMailto}><strong>{text.layout.demoLessonAction}</strong></a>
+        <a href={newsletterHref}><strong>{text.layout.subscribeAction}</strong></a>
+      </div>
+    </div>
 </nav>
             {resolvedGlobalSearch ? (
               <div
@@ -400,6 +420,13 @@ const demoLessonMailto = `mailto:risaletedris@gmail.com?subject=${encodeURICompo
                   </svg>
                   <span>{text.layout.demoLessonAction}</span>
                 </a>
+                <a class="site-menu__subscribe" href={newsletterHref}>
+                  <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M4 5.5h16v13H4z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="1.8"></path>
+                    <path d="m4.75 6.25 7.25 5.5 7.25-5.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
+                  </svg>
+                  <span>{text.layout.subscribeAction}</span>
+                </a>
                 <a class="site-menu__language-link" href={alternateLocaleHref} hreflang={alternateLocale} lang={alternateLocale} data-locale-preference={alternateLocale}>
                   {alternateLocaleLabel}
                 </a>
@@ -432,6 +459,36 @@ const demoLessonMailto = `mailto:risaletedris@gmail.com?subject=${encodeURICompo
     </script>
     <script>
       const siteMenus = Array.from(document.querySelectorAll("[data-site-menu]"));
+      const scrollExpandedDisclosure = (panel) => {
+        const summary = panel.querySelector(":scope > summary");
+        if (!(summary instanceof HTMLElement)) return;
+
+        const titleRowHeight = summary.getBoundingClientRect().height;
+        const targetTop = window.scrollY + panel.getBoundingClientRect().top - titleRowHeight;
+        window.scrollTo({
+          top: Math.max(0, targetTop),
+          behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth"
+        });
+      };
+
+      document.addEventListener("toggle", (event) => {
+        const panel = event.target;
+        if (!(panel instanceof HTMLDetailsElement) || !panel.open || !panel.closest("main")) return;
+        requestAnimationFrame(() => scrollExpandedDisclosure(panel));
+      }, true);
+      document.addEventListener("click", (event) => {
+        const trigger = event.target instanceof Element ? event.target.closest('a[href^="#"]') : null;
+        const selector = trigger?.getAttribute("href");
+        if (!selector) return;
+
+        const target = document.querySelector(selector);
+        const panel = target instanceof HTMLDetailsElement ? target : target?.querySelector("details");
+        if (!(panel instanceof HTMLDetailsElement)) return;
+
+        requestAnimationFrame(() => {
+          if (panel.open) scrollExpandedDisclosure(panel);
+        });
+      });
       document.addEventListener("rissor:search-open", () => {
         siteMenus.forEach((menu) => menu.removeAttribute("open"));
       });

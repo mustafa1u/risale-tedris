@@ -921,7 +921,8 @@ select {
   outline-offset: 3px;
 }
 
-.site-menu__demo-lesson {
+.site-menu__demo-lesson,
+.site-menu__subscribe {
   width: min(1320px, calc(100% - 32px));
   min-height: 48px;
   display: inline-flex;
@@ -938,19 +939,23 @@ select {
   text-decoration: none;
 }
 
-.site-menu__demo-lesson svg {
+.site-menu__demo-lesson svg,
+.site-menu__subscribe svg {
   width: 20px;
   height: 20px;
   flex: 0 0 auto;
 }
 
 .site-menu__demo-lesson:hover,
-.site-menu__demo-lesson:focus-visible {
+.site-menu__demo-lesson:focus-visible,
+.site-menu__subscribe:hover,
+.site-menu__subscribe:focus-visible {
   color: var(--accent-text);
   background: var(--accent);
 }
 
-.site-menu__demo-lesson:focus-visible {
+.site-menu__demo-lesson:focus-visible,
+.site-menu__subscribe:focus-visible {
   outline: 3px solid color-mix(in srgb, var(--accent) 58%, transparent);
   outline-offset: 3px;
 }
@@ -3949,6 +3954,44 @@ body {
     display: flex;
     align-items: center;
     gap: 8px;
+}
+
+.nav-contact-icon {
+    display: none;
+    width: 21px;
+    height: 21px;
+}
+
+.nav-dropdown-arrow {
+    display: inline-block;
+    flex: 0 0 auto;
+    font-size: 1.15rem;
+    line-height: 1;
+    transition: transform 0.2s ease;
+}
+
+.navbar .nav-caret {
+    display: none;
+}
+
+.dropdown:hover .nav-dropdown-arrow,
+.dropdown:focus-within .nav-dropdown-arrow {
+    transform: rotate(180deg);
+}
+
+@media (max-width: 72rem) {
+    .nav-link--contact > span {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip: rect(0 0 0 0);
+        white-space: nowrap;
+    }
+
+    .nav-contact-icon {
+        display: block;
+    }
 }
 
 .nav-caret {

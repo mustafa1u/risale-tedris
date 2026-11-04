@@ -44,14 +44,14 @@ const text = getUi(locale);
             <path d="M6 4.5h9.5l2.5 2.5v12.5H6zM9 11h6m-6 3.5h6m-6 3.5h4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"></path>
           </svg>
         </a>
-        <a class="part-quick-nav__button" href="#book-augmentation" title={text.book.quickNavAugmentation} aria-label={text.book.quickNavAugmentation}>
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M12 5v14m-7-7h14" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.8"></path>
-          </svg>
-        </a>
         <a class="part-quick-nav__button" href="#book-parts" title={text.book.quickNavParts} aria-label={text.book.quickNavParts}>
           <svg viewBox="0 0 24 24" aria-hidden="true">
             <path d="M7 5h11M7 12h11M7 19h11M4 5h.01M4 12h.01M4 19h.01" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.8"></path>
+          </svg>
+        </a>
+        <a class="part-quick-nav__button" href="#book-augmentation" title={text.book.quickNavAugmentation} aria-label={text.book.quickNavAugmentation}>
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M12 5v14m-7-7h14" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.8"></path>
           </svg>
         </a>
       </nav>
@@ -103,32 +103,6 @@ const text = getUi(locale);
         <p>{text.book.guide.body}</p>
       </details>
 
-      {AUGMENTATION_ENABLED ? (
-        <details class="guidance-panel part-workflow book-disclosure" id="book-augmentation">
-          <summary>
-            <span class="part-workflow__heading" role="heading" aria-level="2">{text.book.augmentationHeading}</span>
-            <span class="part-workflow__toggle" aria-hidden="true">⌄</span>
-          </summary>
-          <div class="book-augmentation-tools">
-          <section class="guidance-panel augmentation-entry" aria-label={text.augmentation.launch}>
-            <AugmentationLauncher
-              client:load
-              bookSlug={book.slug}
-              locale={locale}
-              labels={text.augmentation}
-              gradeLabels={Object.fromEntries(book.grades.map((grade) => [grade.slug, getGradeShortLabel(locale, grade.slug, grade.label)]))}
-            />
-          </section>
-          <PersonalAugmentationList
-            client:load
-            bookSlug={book.slug}
-            locale={locale}
-            labels={text.augmentation}
-          />
-          </div>
-        </details>
-      ) : null}
-
       <details class="guidance-panel part-workflow book-disclosure" id="book-parts">
         <summary>
           <span class="part-workflow__heading" role="heading" aria-level="2">{text.book.partsHeading}</span>
@@ -169,6 +143,32 @@ const text = getUi(locale);
         </div>
         <div class="empty-state" data-filter-empty hidden>{text.book.noResults}</div>
       </details>
+
+      {AUGMENTATION_ENABLED ? (
+        <details class="guidance-panel part-workflow book-disclosure" id="book-augmentation">
+          <summary>
+            <span class="part-workflow__heading" role="heading" aria-level="2">{text.book.augmentationHeading}</span>
+            <span class="part-workflow__toggle" aria-hidden="true">⌄</span>
+          </summary>
+          <div class="book-augmentation-tools">
+            <section class="guidance-panel augmentation-entry" aria-label={text.augmentation.launch}>
+              <AugmentationLauncher
+                client:load
+                bookSlug={book.slug}
+                locale={locale}
+                labels={text.augmentation}
+                gradeLabels={Object.fromEntries(book.grades.map((grade) => [grade.slug, getGradeShortLabel(locale, grade.slug, grade.label)]))}
+              />
+            </section>
+            <PersonalAugmentationList
+              client:load
+              bookSlug={book.slug}
+              locale={locale}
+              labels={text.augmentation}
+            />
+          </div>
+        </details>
+      ) : null}
     </div>
   </section>
 

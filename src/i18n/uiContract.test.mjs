@@ -129,7 +129,7 @@ describe("UI dictionary contract", () => {
       );
     }
 
-    assert.match(source, /farklı yaşlardan talebeler aynı parçayı/);
+    assert.match(source, /Farklı yaşlardan talebeler aynı parçayı/);
     assert.match(source, /Students from different ages can work on this same part/);
     assert.match(source, /Okul sınıf aralığını seçin/);
     assert.match(source, /Choose the school grade range/);
