@@ -1,0 +1,620 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p15",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p15-hayatin-mahiyeti-sureti-sirri-ve-saadet-kemali.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p15-lisans-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 46,
+              "exact_text": "Esma-i İlahiyeye ait garaibin fihristesi, hem şuun ve sıfât-ı İlahiyenin bir mikyası, hem kâinattaki âlemlerin bir mizanı, hem bu âlem-i kebirin bir listesi, hem şu kâinatın bir haritası, hem şu kitab-ı ekberin bir fezlekesi, hem kudretin gizli definelerini açacak bir anahtar külçesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S1Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S1Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 7,
+              "end_token": 14,
+              "exact_text": "Tecelli-i Ehadiyete, cilve-i Samediyete âyineliktir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S1Q12-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S1Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 11,
+              "end_token": 27,
+              "exact_text": "Şems-i Ezelî'nin envârını hissedip sevmektir. Zîşuur olarak ona şevk göstermektir. Onun muhabbetiyle kendinden geçmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S1Q13-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S1Q13"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 27,
+              "end_token": 34,
+              "exact_text": "Kalbin göz bebeğinde aks-i nurunu yerleştirmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 14,
+              "end_token": 19,
+              "exact_text": "hem kâinattaki âlemlerin bir mizanı",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 19,
+              "end_token": 31,
+              "exact_text": "hem bu âlem-i kebirin bir listesi, hem şu kâinatın bir haritası",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S1Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S1Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 46,
+              "end_token": 57,
+              "exact_text": "hem mevcudata serpilen ve evkata takılan kemalâtının bir ahsen-i takvimidir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 19,
+              "exact_text": "Esma-i İlahiyeye ait garaibin fihristesi, hem şuun ve sıfât-ı İlahiyenin bir mikyası, hem kâinattaki âlemlerin bir mizanı",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S2Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S2Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 7,
+              "end_token": 14,
+              "exact_text": "Tecelli-i Ehadiyete, cilve-i Samediyete âyineliktir",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 5,
+              "start_token": 15,
+              "end_token": 26,
+              "exact_text": "bütün âleme tecelli eden esmanın nokta-i mihrakıyesi hükmünde bir câmiiyetle",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S2Q13-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S2Q13"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 27,
+              "end_token": 34,
+              "exact_text": "Kalbin göz bebeğinde aks-i nurunu yerleştirmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 14,
+              "end_token": 19,
+              "exact_text": "hem kâinattaki âlemlerin bir mizanı",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S2Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S2Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 5,
+              "end_token": 12,
+              "exact_text": "Kalem-i kudretle yazılmış hikmetnüma bir sözdür",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 57,
+              "exact_text": "Esma-i İlahiyeye ait garaibin fihristesi, hem şuun ve sıfât-ı İlahiyenin bir mikyası, hem kâinattaki âlemlerin bir mizanı, hem bu âlem-i kebirin bir listesi, hem şu kâinatın bir haritası, hem şu kitab-ı ekberin bir fezlekesi, hem kudretin gizli definelerini açacak bir anahtar külçesi, hem mevcudata serpilen ve evkata takılan kemalâtının bir ahsen-i takvimidir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 19,
+              "end_token": 38,
+              "exact_text": "hem bu âlem-i kebirin bir listesi, hem şu kâinatın bir haritası, hem şu kitab-ı ekberin bir fezlekesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S3Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S3Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 12,
+              "end_token": 20,
+              "exact_text": "Görünüp ve işitilip, esma-i hüsnaya delalet eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S4Q11-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S4Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 15,
+              "end_token": 27,
+              "exact_text": "envârını hissedip sevmektir. Zîşuur olarak ona şevk göstermektir. Onun muhabbetiyle kendinden geçmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 6,
+              "end_token": 14,
+              "exact_text": "hem şuun ve sıfât-ı İlahiyenin bir mikyası",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 31,
+              "end_token": 38,
+              "exact_text": "hem şu kitab-ı ekberin bir fezlekesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S4Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S4Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 46,
+              "end_token": 57,
+              "exact_text": "hem mevcudata serpilen ve evkata takılan kemalâtının bir ahsen-i takvimidir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S4Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S4Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 12,
+              "end_token": 20,
+              "exact_text": "Görünüp ve işitilip, esma-i hüsnaya delalet eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S5Q11-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S5Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 15,
+              "end_token": 27,
+              "exact_text": "envârını hissedip sevmektir. Zîşuur olarak ona şevk göstermektir. Onun muhabbetiyle kendinden geçmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S5Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S5Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 19,
+              "end_token": 38,
+              "exact_text": "hem bu âlem-i kebirin bir listesi, hem şu kâinatın bir haritası, hem şu kitab-ı ekberin bir fezlekesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S5Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S5Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 0,
+              "end_token": 5,
+              "exact_text": "Hayatın bir kelime-i mektubedir",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 9,
+              "end_token": 12,
+              "exact_text": "hikmetnüma bir sözdür",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S5Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S5Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 7,
+              "end_token": 14,
+              "exact_text": "Tecelli-i Ehadiyete, cilve-i Samediyete âyineliktir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S6Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S6Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 6,
+              "exact_text": "Esma-i İlahiyeye ait garaibin fihristesi",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 14,
+              "end_token": 19,
+              "exact_text": "hem kâinattaki âlemlerin bir mizanı",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-lisans-S6Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p15",
+        "question_id": "S6Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 9,
+              "end_token": 20,
+              "exact_text": "hikmetnüma bir sözdür. Görünüp ve işitilip, esma-i hüsnaya delalet eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

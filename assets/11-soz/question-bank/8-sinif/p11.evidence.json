@@ -1,0 +1,645 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p11",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p11-fuccar-ile-nefsin-ikazi-yanlis-sarfin-temsille-izahi-ve-nefsin-uyarilmasi.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 11,
+              "end_token": 15,
+              "exact_text": "şu temsil sırrıyla bak",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 15,
+              "end_token": 16,
+              "exact_text": "Meselâ",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S1Q11-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S1Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 33,
+              "end_token": 43,
+              "exact_text": "sermayece en a'lâ hayvandan elli derece yüksek olduğunuz halde",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S1Q14-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S1Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 0,
+              "end_token": 11,
+              "exact_text": "İnsaniyetin cihazatı, hayvan gibi hayat-ı dünyeviyeyi kazanmak için verilmemiş olduğuna",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 3,
+              "start_token": 8,
+              "end_token": 32,
+              "exact_text": "Sermaye-i ömür ve istidad-ı hayatınızı hayvan gibi, belki hayvandan çok aşağı bir derecede şu hayat-ı fâniye ve lezzet-i maddiyeye sarfetmeyiniz",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 11,
+              "end_token": 23,
+              "exact_text": "bir kâğıt içinde bazı şeyler yazılı olarak onun cebine koydu, ticarete gönderdi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S1Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S1Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 104,
+              "end_token": 111,
+              "exact_text": "şiddetle tazib ve hiddetle te'dib edilecektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 0,
+              "end_token": 15,
+              "exact_text": "İnsaniyetin cihazatı, hayvan gibi hayat-ı dünyeviyeyi kazanmak için verilmemiş olduğuna şu temsil sırrıyla bak",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S2Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S2Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 15,
+              "end_token": 33,
+              "exact_text": "hayvan gibi, belki hayvandan çok aşağı bir derecede şu hayat-ı fâniye ve lezzet-i maddiyeye sarfetmeyiniz. Yoksa",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 3,
+              "start_token": 43,
+              "end_token": 49,
+              "exact_text": "en ednasından elli derece aşağı düşersiniz",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S2Q13-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S2Q13"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 23,
+              "end_token": 32,
+              "exact_text": "şu hayat-ı fâniye ve lezzet-i maddiyeye sarfetmeyiniz",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 11,
+              "end_token": 23,
+              "exact_text": "bir kâğıt içinde bazı şeyler yazılı olarak onun cebine koydu, ticarete gönderdi",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 30,
+              "end_token": 38,
+              "exact_text": "o sermaye, bir kat libas almak için değil",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S2Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S2Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 64,
+              "end_token": 72,
+              "exact_text": "cebine konulan kâğıdı okumayıp, belki evvelki hizmetçiye bakıp",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 11,
+              "end_token": 15,
+              "exact_text": "şu temsil sırrıyla bak",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 15,
+              "end_token": 16,
+              "exact_text": "Meselâ",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 64,
+              "end_token": 68,
+              "exact_text": "cebine konulan kâğıdı okumayıp",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S4Q11-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S4Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 23,
+              "end_token": 32,
+              "exact_text": "şu hayat-ı fâniye ve lezzet-i maddiyeye sarfetmeyiniz",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 3,
+              "start_token": 43,
+              "end_token": 49,
+              "exact_text": "en ednasından elli derece aşağı düşersiniz",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 20,
+              "end_token": 32,
+              "exact_text": "yirmi altın verdi; tâ mahsus bir kumaştan kendisine bir kat libas alsın",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 39,
+              "end_token": 52,
+              "exact_text": "evvelki hizmetkâr, yirmi altınla en a'lâ kumaştan bir kat libas almış olduğundan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S4Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S4Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 30,
+              "end_token": 38,
+              "exact_text": "o sermaye, bir kat libas almak için değil",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 60,
+              "end_token": 72,
+              "exact_text": "Şayet bu ikinci hizmetkâr, cebine konulan kâğıdı okumayıp, belki evvelki hizmetçiye bakıp",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S4Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S4Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 60,
+              "end_token": 81,
+              "exact_text": "Şayet bu ikinci hizmetkâr, cebine konulan kâğıdı okumayıp, belki evvelki hizmetçiye bakıp, bütün parayı bir dükkâncıya bir kat libas için verip",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 98,
+              "end_token": 111,
+              "exact_text": "nihayet derecede ahmaklık etmiş olacağı için şiddetle tazib ve hiddetle te'dib edilecektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S5Q11-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S5Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 33,
+              "end_token": 49,
+              "exact_text": "sermayece en a'lâ hayvandan elli derece yüksek olduğunuz halde, en ednasından elli derece aşağı düşersiniz",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S5Q14-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S5Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 8,
+              "end_token": 15,
+              "exact_text": "Sermaye-i ömür ve istidad-ı hayatınızı",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 3,
+              "start_token": 23,
+              "end_token": 32,
+              "exact_text": "şu hayat-ı fâniye ve lezzet-i maddiyeye sarfetmeyiniz",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S5Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S5Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 16,
+              "end_token": 23,
+              "exact_text": "bir zât bir hizmetçisine yirmi altın verdi",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 5,
+              "end_token": 11,
+              "exact_text": "diğer bir hizmetkârına bin altın verip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S5Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S5Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 64,
+              "end_token": 72,
+              "exact_text": "cebine konulan kâğıdı okumayıp, belki evvelki hizmetçiye bakıp",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S5Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S5Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 0,
+              "end_token": 15,
+              "exact_text": "Ey nefsim ve ey arkadaşım! Aklınızı başınıza toplayınız. Sermaye-i ömür ve istidad-ı hayatınızı",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 3,
+              "start_token": 31,
+              "end_token": 32,
+              "exact_text": "sarfetmeyiniz",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S6Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S6Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 20,
+              "end_token": 43,
+              "exact_text": "yirmi altın verdi; tâ mahsus bir kumaştan kendisine bir kat libas alsın. O hizmetçi gitti, o kumaşın a'lâsından mükemmel bir libas aldı",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p11-8-sinif-S6Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p11",
+        "question_id": "S6Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 68,
+              "end_token": 72,
+              "exact_text": "belki evvelki hizmetçiye bakıp",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p15",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p15-hayatin-mahiyeti-sureti-sirri-ve-saadet-kemali.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 6,
+              "exact_text": "Esma-i İlahiyeye ait garaibin fihristesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S1Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S1Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 7,
+              "end_token": 14,
+              "exact_text": "şuun ve sıfât-ı İlahiyenin bir mikyası",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 15,
+              "end_token": 19,
+              "exact_text": "kâinattaki âlemlerin bir mizanı",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S1Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S1Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 20,
+              "end_token": 26,
+              "exact_text": "bu âlem-i kebirin bir listesi",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 27,
+              "end_token": 31,
+              "exact_text": "şu kâinatın bir haritası",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 32,
+              "end_token": 38,
+              "exact_text": "şu kitab-ı ekberin bir fezlekesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 39,
+              "end_token": 46,
+              "exact_text": "kudretin gizli definelerini açacak bir anahtar külçesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 15,
+              "end_token": 20,
+              "exact_text": "esma-i hüsnaya delalet eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 20,
+              "end_token": 31,
+              "exact_text": "bu âlem-i kebirin bir listesi, hem şu kâinatın bir haritası",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S2Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S2Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 32,
+              "end_token": 38,
+              "exact_text": "şu kitab-ı ekberin bir fezlekesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 39,
+              "end_token": 46,
+              "exact_text": "kudretin gizli definelerini açacak bir anahtar külçesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 6,
+              "exact_text": "Esma-i İlahiyeye ait garaibin fihristesi",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 27,
+              "end_token": 31,
+              "exact_text": "şu kâinatın bir haritası",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 6,
+              "exact_text": "Esma-i İlahiyeye ait garaibin fihristesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 7,
+              "end_token": 19,
+              "exact_text": "şuun ve sıfât-ı İlahiyenin bir mikyası, hem kâinattaki âlemlerin bir mizanı",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p15-5-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p15",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 20,
+              "end_token": 26,
+              "exact_text": "bu âlem-i kebirin bir listesi",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 32,
+              "end_token": 38,
+              "exact_text": "şu kitab-ı ekberin bir fezlekesi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

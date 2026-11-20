@@ -1,0 +1,613 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p12",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p12-hayatin-gayeleri-dokuz-emir-ilk-dort-emir.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S1Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S1Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 3,
+              "end_token": 16,
+              "exact_text": "duygular terazileriyle, rahmet-i İlahiyenin hazinelerinde iddihar edilen nimetleri tartmaktır ve küllî şükretmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S1Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S1Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 0,
+              "end_token": 6,
+              "exact_text": "Senin fıtratında vaz'edilen cihazatın anahtarlarıyla",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 6,
+              "end_token": 22,
+              "exact_text": "esma-i kudsiye-i İlahiyenin gizli definelerini açmaktır, Zât-ı Akdes'i o esma ile tanımaktır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 6,
+              "end_token": 23,
+              "exact_text": "esma-i İlahiyenin sana taktıkları garib san'atlarını ve latîf cilvelerini bilerek hayatınla teşhir ve izhar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 9,
+              "end_token": 12,
+              "exact_text": "ubudiyetini ilân etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 0,
+              "end_token": 5,
+              "exact_text": "Senin vücudunda konulan duygular terazileriyle",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S2Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S2Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 14,
+              "end_token": 16,
+              "exact_text": "küllî şükretmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 0,
+              "end_token": 6,
+              "exact_text": "Senin fıtratında vaz'edilen cihazatın anahtarlarıyla",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 14,
+              "end_token": 22,
+              "exact_text": "Zât-ı Akdes'i o esma ile tanımaktır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S2Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S2Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 6,
+              "end_token": 23,
+              "exact_text": "esma-i İlahiyenin sana taktıkları garib san'atlarını ve latîf cilvelerini bilerek hayatınla teşhir ve izhar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 0,
+              "end_token": 5,
+              "exact_text": "Lisan-ı hal ve kàlinle",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 14,
+              "end_token": 16,
+              "exact_text": "küllî şükretmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 14,
+              "end_token": 22,
+              "exact_text": "Zât-ı Akdes'i o esma ile tanımaktır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 6,
+              "end_token": 23,
+              "exact_text": "esma-i İlahiyenin sana taktıkları garib san'atlarını ve latîf cilvelerini bilerek hayatınla teşhir ve izhar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S3Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S3Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 9,
+              "end_token": 12,
+              "exact_text": "ubudiyetini ilân etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 11,
+              "end_token": 13,
+              "exact_text": "nimetleri tartmaktır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S4Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S4Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 14,
+              "end_token": 16,
+              "exact_text": "küllî şükretmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 0,
+              "end_token": 6,
+              "exact_text": "Senin fıtratında vaz'edilen cihazatın anahtarlarıyla",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 14,
+              "end_token": 22,
+              "exact_text": "Zât-ı Akdes'i o esma ile tanımaktır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S4Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S4Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 11,
+              "end_token": 17,
+              "exact_text": "garib san'atlarını ve latîf cilvelerini",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 8,
+              "start_token": 18,
+              "end_token": 23,
+              "exact_text": "hayatınla teşhir ve izhar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S4Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S4Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 10,
+              "end_token": 12,
+              "exact_text": "ilân etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S5Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S5Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 5,
+              "end_token": 12,
+              "exact_text": "rahmet-i İlahiyenin hazinelerinde iddihar edilen nimetleri",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S5Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S5Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 11,
+              "end_token": 22,
+              "exact_text": "gizli definelerini açmaktır, Zât-ı Akdes'i o esma ile tanımaktır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S5Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S5Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 6,
+              "end_token": 23,
+              "exact_text": "esma-i İlahiyenin sana taktıkları garib san'atlarını ve latîf cilvelerini bilerek hayatınla teşhir ve izhar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S5Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S5Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 0,
+              "end_token": 5,
+              "exact_text": "Lisan-ı hal ve kàlinle",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 10,
+              "start_token": 9,
+              "end_token": 12,
+              "exact_text": "ubudiyetini ilân etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-2-sinif-S6Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p12",
+        "question_id": "S6Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 14,
+              "end_token": 16,
+              "exact_text": "küllî şükretmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

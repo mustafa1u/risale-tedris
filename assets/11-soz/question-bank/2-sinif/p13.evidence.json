@@ -1,0 +1,627 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p13",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p13-hayatin-gayeleri-dokuz-emir-5-7-emirler.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 22,
+              "end_token": 45,
+              "exact_text": "esma-i İlahiyenin cilvelerinin sana verdikleri letaif-i insaniye murassaatıyla bilerek süslenip o Şahid-i Ezelî'nin nazar-ı şuhud ve işhadına görünmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S1Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S1Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 20,
+              "exact_text": "Nasıl bir asker, padişahından aldığı türlü türlü nişanları, resmî vakitlerde takıp padişahın nazarında görünmekle onun iltifatat-ı âsârını gösterdiği gibi",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 20,
+              "end_token": 34,
+              "exact_text": "sen dahi esma-i İlahiyenin cilvelerinin sana verdikleri letaif-i insaniye murassaatıyla bilerek süslenip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S1Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S1Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Zevilhayat olanların tezahürat-ı hayatiye denilen, Hâlıklarına tahiyyatları; ve rumuzat-ı hayatiye denilen, Sâni'lerine tesbihatları",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 30,
+              "end_token": 38,
+              "exact_text": "bilerek müşahede etmek, tefekkür ile görüp şehadetle göstermektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 0,
+              "end_token": 36,
+              "exact_text": "Senin hayatına verilen cüz'î ilim ve kudret ve irade gibi sıfat ve hallerinden küçük numunelerini vâhid-i kıyasî ittihaz ile, Hâlık-ı Zülcelal'in sıfât-ı mutlakasını ve şuun-u mukaddesesini o ölçüler ile bilmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 37,
+              "end_token": 73,
+              "exact_text": "sen cüz'î iktidarın ve cüz'î ilmin ve cüz'î iraden ile bu haneyi muntazam yaptığından, şu kasr-ı âlemin senin hanenden büyüklüğü derecesinde, şu âlemin ustasını o nisbette Kadîr, Alîm, Hakîm, Müdebbir bilmek lâzımdır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 0,
+              "end_token": 21,
+              "exact_text": "Senin hayatına verilen cüz'î ilim ve kudret ve irade gibi sıfat ve hallerinden küçük numunelerini vâhid-i kıyasî ittihaz ile",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 22,
+              "end_token": 32,
+              "exact_text": "esma-i İlahiyenin cilvelerinin sana verdikleri letaif-i insaniye murassaatıyla",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S2Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S2Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 33,
+              "end_token": 36,
+              "exact_text": "tefekkür ile görüp",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 17,
+              "end_token": 30,
+              "exact_text": "semerat ve gayat-ı hayatiye denilen, Vâhibü'l-Hayat'a arz-ı ubudiyetlerini",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S2Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S2Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 14,
+              "end_token": 21,
+              "exact_text": "küçük numunelerini vâhid-i kıyasî ittihaz ile",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 37,
+              "end_token": 73,
+              "exact_text": "sen cüz'î iktidarın ve cüz'î ilmin ve cüz'î iraden ile bu haneyi muntazam yaptığından, şu kasr-ı âlemin senin hanenden büyüklüğü derecesinde, şu âlemin ustasını o nisbette Kadîr, Alîm, Hakîm, Müdebbir bilmek lâzımdır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S2Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S2Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 0,
+              "end_token": 6,
+              "exact_text": "Zevilhayat olanların tezahürat-ı hayatiye denilen",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 0,
+              "end_token": 14,
+              "exact_text": "Senin hayatına verilen cüz'î ilim ve kudret ve irade gibi sıfat ve hallerinden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 20,
+              "end_token": 34,
+              "exact_text": "sen dahi esma-i İlahiyenin cilvelerinin sana verdikleri letaif-i insaniye murassaatıyla bilerek süslenip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 11,
+              "end_token": 19,
+              "exact_text": "padişahın nazarında görünmekle onun iltifatat-ı âsârını gösterdiği",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 32,
+              "end_token": 45,
+              "exact_text": "bilerek süslenip o Şahid-i Ezelî'nin nazar-ı şuhud ve işhadına görünmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 2,
+              "end_token": 6,
+              "exact_text": "tezahürat-ı hayatiye denilen",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 9,
+              "end_token": 13,
+              "exact_text": "rumuzat-ı hayatiye denilen",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S3Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S3Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 33,
+              "end_token": 38,
+              "exact_text": "tefekkür ile görüp şehadetle göstermektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S3Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S3Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 21,
+              "end_token": 36,
+              "exact_text": "Hâlık-ı Zülcelal'in sıfât-ı mutlakasını ve şuun-u mukaddesesini o ölçüler ile bilmektir",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 62,
+              "end_token": 73,
+              "exact_text": "şu âlemin ustasını o nisbette Kadîr, Alîm, Hakîm, Müdebbir bilmek lâzımdır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S4Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S4Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 22,
+              "end_token": 31,
+              "exact_text": "esma-i İlahiyenin cilvelerinin sana verdikleri letaif-i insaniye",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 34,
+              "end_token": 45,
+              "exact_text": "o Şahid-i Ezelî'nin nazar-ı şuhud ve işhadına görünmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S4Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S4Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 2,
+              "end_token": 6,
+              "exact_text": "tezahürat-ı hayatiye denilen",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 9,
+              "end_token": 13,
+              "exact_text": "rumuzat-ı hayatiye denilen",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 17,
+              "end_token": 23,
+              "exact_text": "semerat ve gayat-ı hayatiye denilen",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 6,
+              "end_token": 16,
+              "exact_text": "Hâlıklarına tahiyyatları; ve rumuzat-ı hayatiye denilen, Sâni'lerine tesbihatları",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p13-2-sinif-S4Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p13",
+        "question_id": "S4Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 50,
+              "end_token": 73,
+              "exact_text": "bu haneyi muntazam yaptığından, şu kasr-ı âlemin senin hanenden büyüklüğü derecesinde, şu âlemin ustasını o nisbette Kadîr, Alîm, Hakîm, Müdebbir bilmek lâzımdır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

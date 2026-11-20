@@ -1,0 +1,606 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p05",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p05-hakikate-gecis-sarayin-aleme-tatbiki-ve-iki-firkanin-beyani.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 15,
+              "end_token": 20,
+              "exact_text": "İşte o saray, şu âlemdir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S1Q12-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S1Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 169,
+              "end_token": 184,
+              "exact_text": "Ve oradaki ocak ve matbah ise, burada kalbinde ateş olan arz ve sath-ı arzdır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S1Q14-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S1Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 210,
+              "end_token": 230,
+              "exact_text": "şu âlemi süslendiren muntazam masnuat ve mevzun nukuş-u kalem-i kudrettir ki, Kadîr-i Zülcelal'in esmasına delalet ederler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 5,
+              "end_token": 15,
+              "exact_text": "Eğer şu temsilin sırrını anladınsa bak, hakikatın yüzünü de gör",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 15,
+              "end_token": 20,
+              "exact_text": "İşte o saray, şu âlemdir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S2Q14-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S2Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 239,
+              "end_token": 244,
+              "exact_text": "Avenesi ise, Enbiya Aleyhimüsselâm'dır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S2Q16-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S2Q16"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 250,
+              "end_token": 261,
+              "exact_text": "O saraydaki hâkimin hizmetkârları ise, şu âlemde Melaike Aleyhimüsselâm'a işarettir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S2Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S2Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 29,
+              "end_token": 38,
+              "exact_text": "Tabanı ise, şarktan garba gûna-gûn çiçeklerle süslendirilmiş yeryüzüdür",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 15,
+              "end_token": 20,
+              "exact_text": "İşte o saray, şu âlemdir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S3Q16-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S3Q16"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 250,
+              "end_token": 261,
+              "exact_text": "O saraydaki hâkimin hizmetkârları ise, şu âlemde Melaike Aleyhimüsselâm'a işarettir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S3Q18-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S3Q18"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 287,
+              "end_token": 304,
+              "exact_text": "birisi ehl-i imandır ki kitab-ı kâinatın âyâtının müfessiri olan Kur'an-ı Hakîm'in şakirdleridir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 29,
+              "end_token": 38,
+              "exact_text": "Tabanı ise, şarktan garba gûna-gûn çiçeklerle süslendirilmiş yeryüzüdür",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S3Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S3Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 86,
+              "end_token": 103,
+              "exact_text": "gece ve gündüzü, siyah ve beyaz iki hat gibi birbiri arkası sıra döndürüp, kâinat sahifesinde âyâtını yazan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S4Q18-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S4Q18"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 318,
+              "end_token": 323,
+              "exact_text": "yalnız hayat-ı dünyeviyeyi tanıyan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S4Q20-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S4Q20"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 140,
+              "end_token": 148,
+              "exact_text": "şu âlemde görünen kudret-i İlahiyenin mu'cizeleridir",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 162,
+              "end_token": 169,
+              "exact_text": "rahmet-i İlahiyenin semerat-ı hârikalarına işarettir",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 213,
+              "end_token": 230,
+              "exact_text": "muntazam masnuat ve mevzun nukuş-u kalem-i kudrettir ki, Kadîr-i Zülcelal'in esmasına delalet ederler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S4Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S4Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 31,
+              "end_token": 38,
+              "exact_text": "şarktan garba gûna-gûn çiçeklerle süslendirilmiş yeryüzüdür",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S4Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S4Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 51,
+              "end_token": 69,
+              "exact_text": "yedi kat semavat ve arz ve içlerinde olan herşey, kendilerine mahsus lisanlarla o zâtı takdis edip tesbih ediyorlar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S4Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S4Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 113,
+              "end_token": 132,
+              "exact_text": "O sarayın menzilleri ise, şu onsekiz bin âlemdir ki, herbirisi kendine lâyık bir tarz ile tezyin ve tanzim edilmiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S5Q20-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S5Q20"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 307,
+              "end_token": 323,
+              "exact_text": "ehl-i küfür ve tuğyandır ki, nefis ve şeytana tâbi' olup yalnız hayat-ı dünyeviyeyi tanıyan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S5Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S5Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 59,
+              "end_token": 69,
+              "exact_text": "herşey, kendilerine mahsus lisanlarla o zâtı takdis edip tesbih ediyorlar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S5Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S5Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 104,
+              "end_token": 109,
+              "exact_text": "Güneş, Ay, yıldızlar emrine musahhar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S5Q9-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S5Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 132,
+              "end_token": 148,
+              "exact_text": "İşte o sarayda gördüğün sanayi-i garibe ise, şu âlemde görünen kudret-i İlahiyenin mu'cizeleridir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S6Q11-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S6Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 186,
+              "end_token": 201,
+              "exact_text": "temsilde gördüğün gizli definelerin cevherleri ise, şu hakikatta esma-i kudsiye-i İlahiyenin cilvelerine misaldir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S6Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S6Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 117,
+              "end_token": 132,
+              "exact_text": "şu onsekiz bin âlemdir ki, herbirisi kendine lâyık bir tarz ile tezyin ve tanzim edilmiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-5-sinif-S6Q9-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p05",
+        "question_id": "S6Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 154,
+              "end_token": 169,
+              "exact_text": "şu âlemde, hele yaz mevsiminde, hele Barla bahçelerinde rahmet-i İlahiyenin semerat-ı hârikalarına işarettir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

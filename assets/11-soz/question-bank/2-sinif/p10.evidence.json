@@ -1,0 +1,393 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p10",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p10-fuccar-ile-nefsin-ikazi-insan-cihazatinin-yanlis-sarfi-cihazatin-iki-asil-gayesi.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 17,
+              "end_token": 25,
+              "exact_text": "bütün vahdaniyetin delillerine karşı küfür ile mukabele edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S1Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S1Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 69,
+              "end_token": 81,
+              "exact_text": "insana sermaye-i ömür ve cihazat-ı insaniye, mezkûr vezaif için verilmiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 1,
+              "end_token": 7,
+              "exact_text": "füccar ve eşrar olan diğer güruh",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 8,
+              "end_token": 25,
+              "exact_text": "Hadd-i büluğ ile şu âlem sarayına girdikleri vakit, bütün vahdaniyetin delillerine karşı küfür ile mukabele edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S2Q9-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S2Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 82,
+              "end_token": 97,
+              "exact_text": "Hâşâ ve kellâ! Belki vücudunuzda şunların yaratılması ve fıtratınızda bunların gaye-i idhali, iki esastır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 17,
+              "end_token": 25,
+              "exact_text": "bütün vahdaniyetin delillerine karşı küfür ile mukabele edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 26,
+              "end_token": 33,
+              "exact_text": "bütün nimetlere karşı küfran ile mukabele ederek",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 34,
+              "end_token": 43,
+              "exact_text": "bütün mevcudatı kıymetsizlikle kâfirane bir ittiham ile tahkir ettiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S4Q12-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S4Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 0,
+              "end_token": 12,
+              "exact_text": "İşte bu iki esas üzerine kemalât-ı insaniye neşv ü nema bulur",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S4Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S4Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Cenab-ı Mün'im-i Hakikî'nin bütün nimetlerinin herbir çeşitlerini size ihsas ettirip şükrettirmekten ibarettir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 26,
+              "end_token": 33,
+              "exact_text": "bütün nimetlere karşı küfran ile mukabele ederek",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S5Q11-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S5Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "İşte bu iki esas üzerine kemalât-ı insaniye neşv ü nema bulur. Bununla insan, insan olur",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S5Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S5Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 44,
+              "end_token": 68,
+              "exact_text": "bütün esma-i İlahiyenin tecelliyatına karşı red ve inkâr ile mukabele ettiklerinden, az bir vakitte nihayetsiz bir cinayet işlediler; nihayetsiz bir azaba müstehak oldular",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S5Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S5Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 69,
+              "end_token": 81,
+              "exact_text": "insana sermaye-i ömür ve cihazat-ı insaniye, mezkûr vezaif için verilmiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S6Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S6Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 63,
+              "end_token": 68,
+              "exact_text": "nihayetsiz bir azaba müstehak oldular",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p10-2-sinif-S6Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p10",
+        "question_id": "S6Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 69,
+              "end_token": 81,
+              "exact_text": "insana sermaye-i ömür ve cihazat-ı insaniye, mezkûr vezaif için verilmiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

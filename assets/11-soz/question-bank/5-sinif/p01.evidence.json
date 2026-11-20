@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p01",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p01-onbirinci-soz-temsilin-girisi-ve-sultanin-maksadi.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p01-5-sinif-S1Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p01",
+        "question_id": "S1Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 53,
+              "end_token": 67,
+              "exact_text": "Her cemal ve kemal sahibi, kendi cemal ve kemalini görmek ve göstermek istemesi sırrınca",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-5-sinif-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p01",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 53,
+              "end_token": 80,
+              "exact_text": "Her cemal ve kemal sahibi, kendi cemal ve kemalini görmek ve göstermek istemesi sırrınca; o sultan-ı zîşan dahi istedi ki, bir meşher açsın, içinde sergiler dizsin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-5-sinif-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p01",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 80,
+              "end_token": 100,
+              "exact_text": "tâ nâsın enzarında saltanatının haşmetini, hem servetinin şaşaasını, hem kendi san'atının hârikalarını, hem kendi marifetinin garibelerini izhar edip göstersin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-5-sinif-S1Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p01",
+        "question_id": "S1Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 53,
+              "end_token": 67,
+              "exact_text": "Her cemal ve kemal sahibi, kendi cemal ve kemalini görmek ve göstermek istemesi sırrınca",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-5-sinif-S2Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p01",
+        "question_id": "S2Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 2,
+              "end_token": 27,
+              "exact_text": "Eğer hikmet-i âlemin tılsımını ve hilkat-i insanın muammasını ve hakikat-i salâtın rumuzunu bir parça fehmetmek istersen, nefsimle beraber şu temsilî hikâyeciğe bak",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-5-sinif-S2Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p01",
+        "question_id": "S2Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 67,
+              "end_token": 100,
+              "exact_text": "o sultan-ı zîşan dahi istedi ki, bir meşher açsın, içinde sergiler dizsin; tâ nâsın enzarında saltanatının haşmetini, hem servetinin şaşaasını, hem kendi san'atının hârikalarını, hem kendi marifetinin garibelerini izhar edip göstersin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-5-sinif-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p01",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 83,
+              "end_token": 97,
+              "exact_text": "saltanatının haşmetini, hem servetinin şaşaasını, hem kendi san'atının hârikalarını, hem kendi marifetinin garibelerini",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-5-sinif-S2Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p01",
+        "question_id": "S2Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 53,
+              "end_token": 67,
+              "exact_text": "Her cemal ve kemal sahibi, kendi cemal ve kemalini görmek ve göstermek istemesi sırrınca",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-5-sinif-S2Q9-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p01",
+        "question_id": "S2Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 80,
+              "end_token": 100,
+              "exact_text": "tâ nâsın enzarında saltanatının haşmetini, hem servetinin şaşaasını, hem kendi san'atının hârikalarını, hem kendi marifetinin garibelerini izhar edip göstersin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

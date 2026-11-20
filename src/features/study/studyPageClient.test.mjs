@@ -4,6 +4,8 @@ import { describe, it } from "node:test";
 
 import {
   canOpenSourceText,
+  evidenceRangesForParagraph,
+  findEvidenceForStudyCard,
   formatStudyCardCount,
   hasStudySourceText,
   resolveStudyShellSelection,
@@ -13,6 +15,36 @@ import {
 const sourcePath = new URL("./studyPageClient.js", import.meta.url);
 
 describe("study page client helpers", () => {
+  it("finds only evidence that matches the current static study card", () => {
+    const manifest = {
+      annotations: [{
+        card_ref: { book_slug: "11-soz", grade_slug: "5-sinif", part_no: "p08", question_id: "S1Q2" },
+        evidence_sets: [{ fragments: [{ paragraph_index: 1, start_token: 0, end_token: 2, exact_text: "Birinci delil" }] }]
+      }]
+    };
+    const deck = { bookSlug: "11-soz", gradeSlug: "5-sinif", partNo: "p08" };
+
+    assert.equal(findEvidenceForStudyCard({ manifest, deck, card: { id: "S1Q2" } })?.evidence_sets.length, 1);
+    assert.equal(findEvidenceForStudyCard({ manifest, deck, card: { id: "S1Q3" } }), null);
+  });
+
+  it("maps token evidence to an exact source-text range and ignores stale evidence", () => {
+    assert.deepEqual(
+      evidenceRangesForParagraph({
+        paragraph: "Birinci delil burada.",
+        fragments: [{ start_token: 0, end_token: 2, exact_text: "Birinci delil", evidence_label: 2 }]
+      }),
+      [{ start: 0, end: 13, label: 2 }]
+    );
+    assert.deepEqual(
+      evidenceRangesForParagraph({
+        paragraph: "Birinci delil burada.",
+        fragments: [{ start_token: 0, end_token: 2, exact_text: "Farkli metin" }]
+      }),
+      []
+    );
+  });
+
   it("resolves a study shell selection from query parameters and lightweight index data", () => {
     const deck = {
       gradeSlug: "8-sinif",

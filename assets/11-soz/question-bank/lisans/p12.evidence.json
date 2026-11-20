@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p12",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p12-hayatin-gayeleri-dokuz-emir-ilk-dort-emir.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p12-lisans-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 3,
+              "end_token": 22,
+              "exact_text": "Senin hayatının gayesini ve hayatının mahiyetini, hem hayatının suretini, hem hayatının sırr-ı hakikatını, hem hayatının kemal-i saadetini",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 5,
+              "end_token": 13,
+              "exact_text": "rahmet-i İlahiyenin hazinelerinde iddihar edilen nimetleri tartmaktır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S2Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S2Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 13,
+              "end_token": 16,
+              "exact_text": "ve küllî şükretmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 4,
+              "end_token": 14,
+              "exact_text": "cihazatın anahtarlarıyla esma-i kudsiye-i İlahiyenin gizli definelerini açmaktır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S2Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S2Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 0,
+              "end_token": 6,
+              "exact_text": "Şu teşhirgâh-ı dünyada, mahlukat nazarında",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 8,
+              "start_token": 18,
+              "end_token": 23,
+              "exact_text": "hayatınla teşhir ve izhar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 0,
+              "end_token": 5,
+              "exact_text": "Lisan-ı hal ve kàlinle",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 10,
+              "start_token": 9,
+              "end_token": 12,
+              "exact_text": "ubudiyetini ilân etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 3,
+              "end_token": 22,
+              "exact_text": "Senin hayatının gayesini ve hayatının mahiyetini, hem hayatının suretini, hem hayatının sırr-ı hakikatını, hem hayatının kemal-i saadetini",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 3,
+              "end_token": 5,
+              "exact_text": "duygular terazileriyle",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 11,
+              "end_token": 16,
+              "exact_text": "nimetleri tartmaktır ve küllî şükretmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 6,
+              "end_token": 23,
+              "exact_text": "esma-i İlahiyenin sana taktıkları garib san'atlarını ve latîf cilvelerini bilerek hayatınla teşhir ve izhar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S4Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S4Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 3,
+              "end_token": 26,
+              "exact_text": "Senin hayatının gayesini ve hayatının mahiyetini, hem hayatının suretini, hem hayatının sırr-ı hakikatını, hem hayatının kemal-i saadetini bir derece anlamak istersen",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 11,
+              "end_token": 16,
+              "exact_text": "nimetleri tartmaktır ve küllî şükretmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S4Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S4Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 6,
+              "end_token": 14,
+              "exact_text": "esma-i kudsiye-i İlahiyenin gizli definelerini açmaktır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 11,
+              "end_token": 23,
+              "exact_text": "garib san'atlarını ve latîf cilvelerini bilerek hayatınla teşhir ve izhar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S4Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S4Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 0,
+              "end_token": 5,
+              "exact_text": "Lisan-ı hal ve kàlinle",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 10,
+              "start_token": 9,
+              "end_token": 12,
+              "exact_text": "ubudiyetini ilân etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S5Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S5Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 11,
+              "end_token": 16,
+              "exact_text": "nimetleri tartmaktır ve küllî şükretmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p12-lisans-S5Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p12",
+        "question_id": "S5Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 4,
+              "end_token": 6,
+              "exact_text": "mahlukat nazarında",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 8,
+              "start_token": 18,
+              "end_token": 23,
+              "exact_text": "hayatınla teşhir ve izhar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

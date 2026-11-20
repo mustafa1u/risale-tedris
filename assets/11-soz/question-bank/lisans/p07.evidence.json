@@ -1,0 +1,555 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p07",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p07-namazin-makamati-ubudiyet-vazifelerinin-fihristesi.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p07-lisans-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 2,
+              "end_token": 13,
+              "exact_text": "gaibane muamele suretinde saltanat-ı rububiyetin mehasinine temaşager makamında kendilerini gördüklerinden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 7,
+              "end_token": 20,
+              "exact_text": "zahir ve bâtın duygularla tadıp anlamak makamında, şükür ve sena vazifesini edaya başladılar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 5,
+              "end_token": 16,
+              "exact_text": "manevî cihazat mizanlarıyla tartıp bilmek makamında, tenzih ve medih vazifesine başladılar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 0,
+              "end_token": 18,
+              "exact_text": "Mistar-ı kader üstünde kalem-i kudretiyle yazılan mektubat-ı Rabbaniyeyi mütalaa makamında, tefekkür ve istihsan vazifesine başladılar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S1Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S1Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 12,
+              "start_token": 6,
+              "end_token": 13,
+              "exact_text": "latîf incelik ve nâzenin güzellikleri temaşa ile",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 5,
+              "end_token": 9,
+              "exact_text": "saltanat-ı rububiyetin mehasinine",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S2Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S2Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 0,
+              "end_token": 12,
+              "exact_text": "Esma-i kudsiye-i İlahiyenin cilveleri olan bedayi'ine ve parlak eserlerine",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 14,
+              "end_token": 20,
+              "exact_text": "şükür ve sena vazifesini edaya başladılar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S2Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S2Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 5,
+              "end_token": 11,
+              "exact_text": "manevî cihazat mizanlarıyla tartıp bilmek makamında",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 4,
+              "end_token": 13,
+              "exact_text": "kalem-i kudretiyle yazılan mektubat-ı Rabbaniyeyi mütalaa makamında",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S2Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S2Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 2,
+              "exact_text": "Âsâra bakıp",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 5,
+              "end_token": 9,
+              "exact_text": "saltanat-ı rububiyetin mehasinine",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 7,
+              "end_token": 20,
+              "exact_text": "zahir ve bâtın duygularla tadıp anlamak makamında, şükür ve sena vazifesini edaya başladılar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 5,
+              "end_token": 11,
+              "exact_text": "manevî cihazat mizanlarıyla tartıp bilmek makamında",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S3Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S3Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 0,
+              "end_token": 13,
+              "exact_text": "Mistar-ı kader üstünde kalem-i kudretiyle yazılan mektubat-ı Rabbaniyeyi mütalaa makamında",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S3Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S3Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 12,
+              "start_token": 6,
+              "end_token": 13,
+              "exact_text": "latîf incelik ve nâzenin güzellikleri temaşa ile",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S3Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S3Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 13,
+              "end_token": 18,
+              "exact_text": "tefekkür ve istihsan vazifesine başladılar",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 14,
+              "end_token": 20,
+              "exact_text": "şükür ve sena vazifesini edaya başladılar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S4Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S4Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 2,
+              "exact_text": "Âsâra bakıp",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 9,
+              "end_token": 11,
+              "exact_text": "temaşager makamında",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S4Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S4Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 6,
+              "end_token": 20,
+              "exact_text": "nimetlerini zahir ve bâtın duygularla tadıp anlamak makamında, şükür ve sena vazifesini edaya başladılar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 0,
+              "end_token": 10,
+              "exact_text": "Esma-i İlahiyenin definelerindeki cevherleri, manevî cihazat mizanlarıyla tartıp bilmek",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-lisans-S5Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p07",
+        "question_id": "S5Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 12,
+              "start_token": 6,
+              "end_token": 13,
+              "exact_text": "latîf incelik ve nâzenin güzellikleri temaşa ile",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

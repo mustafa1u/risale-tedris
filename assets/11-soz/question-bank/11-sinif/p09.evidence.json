@@ -1,0 +1,606 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p09",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p09-namazin-hakikati-tazim-istiane-tevhid-ve-ehl-i-imanin-akibeti.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 16,
+              "end_token": 39,
+              "exact_text": "اَللّٰهُ اَكْبَرُ deyip ta'zim içinde bir aczle rükua gidip mahviyet içinde bir muhabbet ve hayretle secde edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S1Q11-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S1Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 57,
+              "end_token": 79,
+              "exact_text": "Bütün mahlukat üstünde bir mertebeye çıktılar ki, yümn-ü iman ile emn ü emanet ile mücehhez emîn bir halife-i arz oldular",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S1Q14-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S1Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 141,
+              "end_token": 158,
+              "exact_text": "Çünki ebedî ve sermedî olan bir cemalin seyirci müştakı ve âyinedar âşıkı, elbette bâki kalıp ebede gidecektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 18,
+              "end_token": 32,
+              "exact_text": "مَاشَٓاءَ اللّٰهُ deyip takdir ederek, \"Ne güzel yapılmış!\" deyip istihsan ederek",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 40,
+              "end_token": 47,
+              "exact_text": "اٰمَنَّا deyip şehadet etmek",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S1Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S1Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 9,
+              "end_token": 28,
+              "exact_text": "zaaf içinde aczlerini, ihtiyaç içinde fakrlarını ilândan ibaret olan ubudiyet ile ve ubudiyetin hülâsası olan \"namaz\" ile mukabele ettiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 16,
+              "end_token": 39,
+              "exact_text": "اَللّٰهُ اَكْبَرُ deyip ta'zim içinde bir aczle rükua gidip mahviyet içinde bir muhabbet ve hayretle secde edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S2Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S2Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 43,
+              "end_token": 52,
+              "exact_text": "farîza-i ömürlerini ve vazife-i hayatlarını eda edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S2Q13-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S2Q13"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 96,
+              "end_token": 107,
+              "exact_text": "imanlarına mükâfat olarak saadet-i ebediyeye ve İslâmiyetlerine ücret olarak dârüsselâma",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 59,
+              "end_token": 74,
+              "exact_text": "dua edip, istemekle mukabele edip وَاِيَّاكَ نَسْتَع۪ينُ dediler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S2Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S2Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 83,
+              "end_token": 105,
+              "exact_text": "tevhid ve tasdik edip سَمِعْنَا وَ اَطَعْنَا diyerek itaat ve inkıyad ile mukabele ettiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 16,
+              "end_token": 24,
+              "exact_text": "اَللّٰهُ اَكْبَرُ deyip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S3Q15-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S3Q15"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 141,
+              "end_token": 158,
+              "exact_text": "Çünki ebedî ve sermedî olan bir cemalin seyirci müştakı ve âyinedar âşıkı, elbette bâki kalıp ebede gidecektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 42,
+              "end_token": 59,
+              "exact_text": "o Ganiyy-i Mutlak'ın servetinin çokluğunu ve rahmetinin genişliğini göstermesine karşı; fakr u hâcetlerini izhar edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S4Q11-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S4Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 35,
+              "end_token": 52,
+              "exact_text": "şu dâr-ı dünya denilen mescid-i kebirinde farîza-i ömürlerini ve vazife-i hayatlarını eda edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 24,
+              "end_token": 31,
+              "exact_text": "ta'zim içinde bir aczle rükua gidip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S4Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S4Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 59,
+              "end_token": 74,
+              "exact_text": "dua edip, istemekle mukabele edip وَاِيَّاكَ نَسْتَع۪ينُ dediler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S4Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S4Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 83,
+              "end_token": 87,
+              "exact_text": "tevhid ve tasdik edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S5Q12-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S5Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 80,
+              "end_token": 113,
+              "exact_text": "şu meydan-ı tecrübe ve şu destgâh-ı imtihandan sonra onların Rabb-i Kerîm'i onları, imanlarına mükâfat olarak saadet-i ebediyeye ve İslâmiyetlerine ücret olarak dârüsselâma davet ederek öyle bir ikram etti",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S5Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S5Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 27,
+              "end_token": 39,
+              "exact_text": "bir aczle rükua gidip mahviyet içinde bir muhabbet ve hayretle secde edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S5Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S5Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 18,
+              "end_token": 32,
+              "exact_text": "مَاشَٓاءَ اللّٰهُ deyip takdir ederek, \"Ne güzel yapılmış!\" deyip istihsan ederek",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S5Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S5Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 83,
+              "end_token": 105,
+              "exact_text": "tevhid ve tasdik edip سَمِعْنَا وَ اَطَعْنَا diyerek itaat ve inkıyad ile mukabele ettiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S6Q14-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S6Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 109,
+              "end_token": 135,
+              "exact_text": "öyle bir ikram etti ve eder ki, hiç göz görmemiş ve kulak işitmemiş ve kalb-i beşere hutur etmemiş derecede parlak bir tarzda rahmetine mazhar etti",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S6Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S6Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 24,
+              "end_token": 31,
+              "exact_text": "ta'zim içinde bir aczle rükua gidip",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 31,
+              "end_token": 39,
+              "exact_text": "mahviyet içinde bir muhabbet ve hayretle secde edip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p09-11-sinif-S6Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p09",
+        "question_id": "S6Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 18,
+              "end_token": 32,
+              "exact_text": "مَاشَٓاءَ اللّٰهُ deyip takdir ederek, \"Ne güzel yapılmış!\" deyip istihsan ederek",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 40,
+              "end_token": 47,
+              "exact_text": "اٰمَنَّا deyip şehadet etmek",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p14",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p14-hayatin-gayeleri-dokuz-emir-8-9-emirler-ve-ozet.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S1Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S1Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 3,
+              "end_token": 9,
+              "exact_text": "herbiri kendine mahsus bir dil ile",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 37,
+              "end_token": 51,
+              "exact_text": "sen de nihayetsiz aczin ve fakrınla, nihayetsiz kudret ve gına-yı İlahiyenin derecatını fehmetmelisin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 9,
+              "end_token": 16,
+              "exact_text": "Hâlıkının vahdaniyetine ve Sâni'inin rububiyetine dair",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 0,
+              "end_token": 7,
+              "exact_text": "Acz ve za'fın, fakr ve ihtiyacın",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S2Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S2Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 20,
+              "end_token": 35,
+              "exact_text": "açlığın dereceleri nisbetinde ve ihtiyacın enva'ı miktarınca, taamın lezzeti ve derecatı ve çeşitleri anlaşılır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 37,
+              "end_token": 51,
+              "exact_text": "sen de nihayetsiz aczin ve fakrınla, nihayetsiz kudret ve gına-yı İlahiyenin derecatını fehmetmelisin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S2Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S2Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 4,
+              "exact_text": "Şu âlemdeki mevcudatın herbiri",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 0,
+              "end_token": 7,
+              "exact_text": "Acz ve za'fın, fakr ve ihtiyacın",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 4,
+              "exact_text": "Şu âlemdeki mevcudatın herbiri",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 9,
+              "end_token": 16,
+              "exact_text": "Hâlıkının vahdaniyetine ve Sâni'inin rububiyetine dair",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 37,
+              "end_token": 51,
+              "exact_text": "sen de nihayetsiz aczin ve fakrınla, nihayetsiz kudret ve gına-yı İlahiyenin derecatını fehmetmelisin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S3Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S3Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 39,
+              "end_token": 43,
+              "exact_text": "nihayetsiz aczin ve fakrınla",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S3Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S3Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 43,
+              "end_token": 50,
+              "exact_text": "nihayetsiz kudret ve gına-yı İlahiyenin derecatını",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S4Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S4Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 9,
+              "end_token": 16,
+              "exact_text": "Hâlıkının vahdaniyetine ve Sâni'inin rububiyetine dair",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p14-5-sinif-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p14",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 4,
+              "end_token": 9,
+              "exact_text": "kendine mahsus bir dil ile",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 16,
+              "end_token": 18,
+              "exact_text": "manevî sözlerini",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p02",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p02-onbirinci-soz-kasrin-kurulusu-ve-muarrif-ustadin-tayini.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 3,
+              "end_token": 12,
+              "exact_text": "cesîm ve geniş ve muhteşem bir kasrı yapmağa başladı",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 131,
+              "end_token": 141,
+              "exact_text": "Tâ ki, sarayın Sâni'ini, sarayın müştemilâtıyla ahaliye tarif etsin",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 162,
+              "end_token": 169,
+              "exact_text": "saray sahibinin kemalâtına ve hünerlerine delalet ettiklerini",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 12,
+              "end_token": 19,
+              "exact_text": "Şahane bir surette dairelere, menzillere taksim ederek",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 19,
+              "end_token": 24,
+              "exact_text": "hazinelerinin türlü türlü murassaatıyla süslendirip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 53,
+              "end_token": 66,
+              "exact_text": "herbir taam ve nimetlerinin bütün çeşitlerinden en lezizlerini câmi' sofralar, o sarayda kurdu",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 66,
+              "end_token": 73,
+              "exact_text": "Herbir taifeye lâyık bir sofra tayin etti",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 106,
+              "end_token": 113,
+              "exact_text": "seyre ve tenezzühe ve ziyafete davet etti",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 118,
+              "end_token": 131,
+              "exact_text": "sarayın hikmetlerini ve müştemilâtının manalarını bildirerek onu üstad ve tarif edici tayin etti",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 142,
+              "end_token": 151,
+              "exact_text": "sarayın nakışlarının rumuzlarını bildirip, içindeki san'atlarının işaretlerini öğretip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 175,
+              "end_token": 181,
+              "exact_text": "girmenin âdâbını ve seyrin merasimini bildirip",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 181,
+              "end_token": 191,
+              "exact_text": "o görünmeyen sultana karşı marziyatı dairesinde teşrifat merasimini tarif etsin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q9-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 200,
+              "end_token": 207,
+              "exact_text": "Kendisi en büyük dairede şakirdleri içinde durmuş",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 0,
+              "end_token": 3,
+              "exact_text": "Bu hikmete binaen",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 19,
+              "end_token": 24,
+              "exact_text": "hazinelerinin türlü türlü murassaatıyla süslendirip",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 24,
+              "end_token": 35,
+              "exact_text": "kendi dest-i san'atının en latîf, en güzel eserleriyle zînetlendirip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 142,
+              "end_token": 151,
+              "exact_text": "sarayın nakışlarının rumuzlarını bildirip, içindeki san'atlarının işaretlerini öğretip",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 175,
+              "end_token": 181,
+              "exact_text": "girmenin âdâbını ve seyrin merasimini bildirip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 35,
+              "end_token": 43,
+              "exact_text": "fünun-u hikmetinin en incelikleriyle tanzim edip düzelterek",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 19,
+              "end_token": 24,
+              "exact_text": "hazinelerinin türlü türlü murassaatıyla süslendirip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 73,
+              "end_token": 84,
+              "exact_text": "Öyle sehavetkârane, san'atperverane bir ziyafet-i âmme ihzar etti ki",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 95,
+              "end_token": 99,
+              "exact_text": "kıymetli hadsiz nimetleri serdi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 124,
+              "end_token": 131,
+              "exact_text": "onu üstad ve tarif edici tayin etti",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 131,
+              "end_token": 141,
+              "exact_text": "Tâ ki, sarayın Sâni'ini, sarayın müştemilâtıyla ahaliye tarif etsin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 162,
+              "end_token": 169,
+              "exact_text": "saray sahibinin kemalâtına ve hünerlerine delalet ettiklerini",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 175,
+              "end_token": 181,
+              "exact_text": "girmenin âdâbını ve seyrin merasimini bildirip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q9-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 192,
+              "end_token": 200,
+              "exact_text": "o muarrif üstadın herbir dairede birer avenesi bulunuyor",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 3,
+              "end_token": 10,
+              "exact_text": "cesîm ve geniş ve muhteşem bir kasrı",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 19,
+              "end_token": 24,
+              "exact_text": "hazinelerinin türlü türlü murassaatıyla süslendirip",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 53,
+              "end_token": 66,
+              "exact_text": "herbir taam ve nimetlerinin bütün çeşitlerinden en lezizlerini câmi' sofralar, o sarayda kurdu",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 59,
+              "end_token": 61,
+              "exact_text": "en lezizlerini",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 95,
+              "end_token": 98,
+              "exact_text": "kıymetli hadsiz nimetleri",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 66,
+              "end_token": 73,
+              "exact_text": "Herbir taifeye lâyık bir sofra tayin etti",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

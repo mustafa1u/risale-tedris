@@ -3141,6 +3141,31 @@ h3 {
   box-shadow: none;
 }
 
+.part-paragraph--evidence {
+  background: color-mix(in srgb, #fbbf24 18%, transparent);
+  border-inline-start: 3px solid #d97706;
+  padding-inline-start: .65rem;
+}
+
+.part-evidence-span {
+  background: #fbbf24;
+  border-radius: .2rem;
+  color: inherit;
+  font-weight: 700;
+  padding: 0 .12em;
+}
+
+.part-evidence-span::before {
+  background: #92400e;
+  border-radius: 999px;
+  color: #fff;
+  content: attr(data-evidence-label);
+  font-size: .7em;
+  margin-inline-end: .25em;
+  padding: .05em .35em;
+  vertical-align: middle;
+}
+
 .study-source-message {
   margin: 0;
   padding: 14px;

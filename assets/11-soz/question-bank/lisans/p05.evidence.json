@@ -1,0 +1,606 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p05",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p05-hakikate-gecis-sarayin-aleme-tatbiki-ve-iki-firkanin-beyani.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p05-lisans-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 15,
+              "end_token": 20,
+              "exact_text": "İşte o saray, şu âlemdir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S1Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S1Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 230,
+              "end_token": 239,
+              "exact_text": "Ve o üstad ise, Seyyidimiz Muhammed Aleyhissalâtü Vesselâm'dır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S1Q15-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S1Q15"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 304,
+              "end_token": 323,
+              "exact_text": "Diğer güruh ise ehl-i küfür ve tuğyandır ki, nefis ve şeytana tâbi' olup yalnız hayat-ı dünyeviyeyi tanıyan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 133,
+              "end_token": 148,
+              "exact_text": "o sarayda gördüğün sanayi-i garibe ise, şu âlemde görünen kudret-i İlahiyenin mu'cizeleridir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S1Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S1Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 149,
+              "end_token": 169,
+              "exact_text": "o sarayda gördüğün taamlar ise; şu âlemde, hele yaz mevsiminde, hele Barla bahçelerinde rahmet-i İlahiyenin semerat-ı hârikalarına işarettir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S1Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S1Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 186,
+              "end_token": 201,
+              "exact_text": "temsilde gördüğün gizli definelerin cevherleri ise, şu hakikatta esma-i kudsiye-i İlahiyenin cilvelerine misaldir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 5,
+              "end_token": 15,
+              "exact_text": "Eğer şu temsilin sırrını anladınsa bak, hakikatın yüzünü de gör",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 51,
+              "end_token": 69,
+              "exact_text": "yedi kat semavat ve arz ve içlerinde olan herşey, kendilerine mahsus lisanlarla o zâtı takdis edip tesbih ediyorlar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 21,
+              "end_token": 38,
+              "exact_text": "tavanı, tebessüm eden yıldızlarla tenvir edilmiş gök yüzüdür. Tabanı ise, şarktan garba gûna-gûn çiçeklerle süslendirilmiş yeryüzüdür",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 122,
+              "end_token": 132,
+              "exact_text": "herbirisi kendine lâyık bir tarz ile tezyin ve tanzim edilmiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S3Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S3Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 86,
+              "end_token": 103,
+              "exact_text": "gece ve gündüzü, siyah ve beyaz iki hat gibi birbiri arkası sıra döndürüp, kâinat sahifesinde âyâtını yazan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S3Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S3Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 113,
+              "end_token": 132,
+              "exact_text": "O sarayın menzilleri ise, şu onsekiz bin âlemdir ki, herbirisi kendine lâyık bir tarz ile tezyin ve tanzim edilmiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S4Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S4Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 188,
+              "end_token": 201,
+              "exact_text": "gizli definelerin cevherleri ise, şu hakikatta esma-i kudsiye-i İlahiyenin cilvelerine misaldir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S4Q12-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S4Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 239,
+              "end_token": 244,
+              "exact_text": "Avenesi ise, Enbiya Aleyhimüsselâm'dır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 38,
+              "end_token": 50,
+              "exact_text": "O Melik ise, ezel ebed sultanı olan bir Zât-ı Mukaddes'tir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S4Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S4Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 51,
+              "end_token": 69,
+              "exact_text": "yedi kat semavat ve arz ve içlerinde olan herşey, kendilerine mahsus lisanlarla o zâtı takdis edip tesbih ediyorlar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 76,
+              "end_token": 82,
+              "exact_text": "semavat ve arzı altı günde yaratarak",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 86,
+              "end_token": 103,
+              "exact_text": "gece ve gündüzü, siyah ve beyaz iki hat gibi birbiri arkası sıra döndürüp, kâinat sahifesinde âyâtını yazan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S4Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S4Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 133,
+              "end_token": 148,
+              "exact_text": "o sarayda gördüğün sanayi-i garibe ise, şu âlemde görünen kudret-i İlahiyenin mu'cizeleridir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S5Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S5Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 86,
+              "end_token": 99,
+              "exact_text": "gece ve gündüzü, siyah ve beyaz iki hat gibi birbiri arkası sıra döndürüp",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 104,
+              "end_token": 109,
+              "exact_text": "Güneş, Ay, yıldızlar emrine musahhar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S5Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S5Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 117,
+              "end_token": 132,
+              "exact_text": "şu onsekiz bin âlemdir ki, herbirisi kendine lâyık bir tarz ile tezyin ve tanzim edilmiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S5Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S5Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 169,
+              "end_token": 184,
+              "exact_text": "Ve oradaki ocak ve matbah ise, burada kalbinde ateş olan arz ve sath-ı arzdır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S6Q12-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S6Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 262,
+              "end_token": 281,
+              "exact_text": "seyir ve ziyafete davet edilen misafirler ise, şu dünya misafirhanesinde cin ve ins ve insanın hizmetkârları olan hayvanlara işarettir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S6Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S6Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 60,
+              "end_token": 69,
+              "exact_text": "kendilerine mahsus lisanlarla o zâtı takdis edip tesbih ediyorlar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S6Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S6Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 99,
+              "end_token": 103,
+              "exact_text": "kâinat sahifesinde âyâtını yazan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-lisans-S6Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "lisans",
+        "part_no": "p05",
+        "question_id": "S6Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 104,
+              "end_token": 109,
+              "exact_text": "Güneş, Ay, yıldızlar emrine musahhar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

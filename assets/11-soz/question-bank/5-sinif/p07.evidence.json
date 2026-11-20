@@ -1,0 +1,625 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "11-soz",
+  "part_no": "p07",
+  "source_text_url": "/assets/11-soz/parcalar/11-soz-p07-namazin-makamati-ubudiyet-vazifelerinin-fihristesi.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 2,
+              "exact_text": "Âsâra bakıp",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 5,
+              "end_token": 9,
+              "exact_text": "saltanat-ı rububiyetin mehasinine",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S1Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S1Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 13,
+              "end_token": 19,
+              "exact_text": "tekbir ve tesbih vazifesini eda edip",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 10,
+              "start_token": 13,
+              "end_token": 18,
+              "exact_text": "tefekkür ve istihsan vazifesine başladılar",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 7,
+              "end_token": 13,
+              "exact_text": "zahir ve bâtın duygularla tadıp anlamak",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 14,
+              "end_token": 18,
+              "exact_text": "şükür ve sena vazifesini",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 5,
+              "end_token": 10,
+              "exact_text": "manevî cihazat mizanlarıyla tartıp bilmek",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S1Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S1Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 13,
+              "end_token": 18,
+              "exact_text": "tefekkür ve istihsan vazifesine başladılar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S1Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S1Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S1Q9-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S1Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 2,
+              "exact_text": "Âsâra bakıp",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 13,
+              "end_token": 19,
+              "exact_text": "tekbir ve tesbih vazifesini eda edip",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 14,
+              "end_token": 20,
+              "exact_text": "şükür ve sena vazifesini edaya başladılar",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 10,
+              "start_token": 13,
+              "end_token": 18,
+              "exact_text": "tefekkür ve istihsan vazifesine başladılar",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 2,
+              "exact_text": "Âsâra bakıp",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 5,
+              "end_token": 13,
+              "exact_text": "saltanat-ı rububiyetin mehasinine temaşager makamında kendilerini gördüklerinden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S2Q10-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S2Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 14,
+              "end_token": 20,
+              "exact_text": "şükür ve sena vazifesini edaya başladılar",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 2,
+              "exact_text": "Âsâra bakıp",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 9,
+              "end_token": 22,
+              "exact_text": "temaşager makamında kendilerini gördüklerinden; tekbir ve tesbih vazifesini eda edip \"Allahu Ekber\" dediler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S2Q3-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S2Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 7,
+              "end_token": 15,
+              "exact_text": "bedayi'ine ve parlak eserlerine dellâllık makamında görünmekle",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 7,
+              "end_token": 18,
+              "exact_text": "zahir ve bâtın duygularla tadıp anlamak makamında, şükür ve sena vazifesini",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S2Q5-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S2Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 5,
+              "end_token": 11,
+              "exact_text": "manevî cihazat mizanlarıyla tartıp bilmek makamında",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 8,
+              "end_token": 18,
+              "exact_text": "mektubat-ı Rabbaniyeyi mütalaa makamında, tefekkür ve istihsan vazifesine başladılar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S2Q7-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S2Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 12,
+              "start_token": 6,
+              "end_token": 12,
+              "exact_text": "latîf incelik ve nâzenin güzellikleri temaşa",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S2Q8-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S2Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 12,
+              "start_token": 0,
+              "end_token": 13,
+              "exact_text": "Eşyanın yaratılışında ve masnuatın san'atındaki latîf incelik ve nâzenin güzellikleri temaşa ile",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S2Q9-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S2Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 2,
+              "exact_text": "Âsâra bakıp",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 11,
+              "end_token": 14,
+              "exact_text": "tadıp anlamak makamında",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 10,
+              "start_token": 13,
+              "end_token": 18,
+              "exact_text": "tefekkür ve istihsan vazifesine başladılar",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 14,
+              "end_token": 20,
+              "exact_text": "şükür ve sena vazifesini edaya başladılar",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 12,
+              "start_token": 22,
+              "end_token": 27,
+              "exact_text": "muhabbet ve iştiyak vazifesine girdiler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 5,
+              "end_token": 9,
+              "exact_text": "saltanat-ı rububiyetin mehasinine",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 9,
+              "end_token": 13,
+              "exact_text": "temaşager makamında kendilerini gördüklerinden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p07-5-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "11-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p07",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 11,
+              "end_token": 20,
+              "exact_text": "tadıp anlamak makamında, şükür ve sena vazifesini edaya başladılar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
