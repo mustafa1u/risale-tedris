@@ -3,8 +3,16 @@ import {
   flattenStudyDeckCards,
   getStudyQueueCounts,
   rateStudyQueue,
-  selectStudyCards
+  restoreStudyQueue,
+  selectStudyCards,
+  serializeStudyQueue
 } from "./studySession.js";
+import {
+  clearStudySession,
+  readStudySession,
+  studySessionStorageKey,
+  writeStudySession
+} from "./studySessionStorage.js";
 import { findStudyDeckRoute, parseStudyDeckParams } from "./studyRouting.js";
 import {
   hasPartTextSectionSeparators,
@@ -71,6 +79,20 @@ function localizedPath(locale, pathname) {
 
 function formatFromTemplate(template, count) {
   return (template || "{count}").replace("{count}", String(count));
+}
+
+export function ratingForCardTap(shownCount) {
+  return Number(shownCount) <= 1 ? "hard" : "easy";
+}
+
+export function getStudyProgressCount({ totalCount, shownCardIds }) {
+  return Math.min(shownCardIds?.size ?? 0, totalCount);
+}
+
+export function canRestartStudy({ queue, shownCardIds }) {
+  return (queue?.completed?.length ?? 0) > 0
+    || (shownCardIds?.size ?? 0) > 1
+    || Number(queue?.current?.shownCount) > 1;
 }
 
 const evidenceTokenPattern = /[\p{L}\p{N}_]+/gu;
@@ -175,12 +197,16 @@ function initRoot(root) {
   const sideLabel = getElement(root, "[data-study-side]");
   const cardText = getElement(root, "[data-study-card-text]");
   const showAnswerButton = getElement(root, "[data-show-answer]");
+  const showQuestionButton = getElement(root, "[data-show-question]");
   const viewSourceButton = getElement(root, "[data-view-source]");
   const sourceDialog = getElement(root, "[data-source-dialog]");
+  const restartDialog = getElement(root, "[data-restart-dialog]");
   const sourceText = getElement(root, "[data-source-text]");
   const sourceLoading = getElement(root, "[data-source-loading]");
   const sourceError = getElement(root, "[data-source-error]");
   const ratingRow = getElement(root, "[data-rating-row]");
+  const sessionActions = getElement(root, "[data-study-session-actions]");
+  const restartButton = getElement(root, "[data-restart-study]");
   const progress = getElement(root, "[data-study-progress]");
   const statusRow = getElement(root, "[data-study-status-row]");
   const newCount = getElement(root, "[data-study-new-count]");
@@ -190,11 +216,25 @@ function initRoot(root) {
 
   let queue = createStudyQueue([]);
   let totalCount = 0;
+  let shownCardIds = new Set();
+  let sessionStorageKey = null;
   let showingAnswer = false;
+  let answerHasBeenSeen = false;
   let sourceLoaded = false;
   let sourceLoadingInProgress = false;
 
   setHidden(fallback, true);
+
+  const saveStudySession = () => {
+    writeStudySession(sessionStorageKey, {
+      queue: serializeStudyQueue(queue),
+      shownCardIds: [...shownCardIds]
+    });
+  };
+
+  const setRestartVisibility = () => {
+    setHidden(sessionActions, !canRestartStudy({ queue, shownCardIds }));
+  };
 
   const applyResolvedSelection = (resolvedSelection) => {
     const { book, deck } = resolvedSelection;
@@ -232,8 +272,7 @@ function initRoot(root) {
 
   const setProgress = () => {
     if (progress) {
-      const activeCount = queue.current ? 1 : 0;
-      const currentCount = Math.min(queue.completed.length + activeCount, totalCount);
+      const currentCount = getStudyProgressCount({ totalCount, shownCardIds });
       progress.textContent = totalCount > 0 ? `${currentCount} / ${totalCount}` : "";
     }
   };
@@ -256,7 +295,7 @@ function initRoot(root) {
     renderSourceText(
       sourceText,
       sourceValue,
-      showingAnswer
+      answerHasBeenSeen
         ? findEvidenceForStudyCard({ manifest: evidenceManifest, deck: activeDeck, card: queue.current })
         : null
     );
@@ -314,6 +353,29 @@ function initRoot(root) {
     sourceDialog?.removeAttribute("open");
   };
 
+  const closeRestartDialog = () => {
+    if (typeof HTMLDialogElement !== "undefined" && restartDialog instanceof HTMLDialogElement && restartDialog.open) {
+      restartDialog.close();
+      return;
+    }
+
+    restartDialog?.removeAttribute("open");
+  };
+
+  const openRestartDialog = () => {
+    if (!restartDialog) return;
+    if (
+      typeof HTMLDialogElement !== "undefined"
+      && restartDialog instanceof HTMLDialogElement
+      && typeof restartDialog.showModal === "function"
+    ) {
+      if (!restartDialog.open) restartDialog.showModal();
+      return;
+    }
+
+    restartDialog.setAttribute("open", "");
+  };
+
   const openSourceText = () => {
     if (!canOpenSourceText({ hasSourceDialog: Boolean(sourceDialog) })) {
       return;
@@ -342,17 +404,22 @@ function initRoot(root) {
       }
       setHidden(cardButton, true);
       setHidden(showAnswerButton, true);
+      setHidden(showQuestionButton, true);
+      setRestartVisibility();
       setHidden(viewSourceButton, true);
       setHidden(ratingRow, true);
       setHidden(complete, false);
       closeSourceText();
       setProgress();
       setStatusCounts();
+      saveStudySession();
       return;
     }
 
     showingAnswer = false;
+    answerHasBeenSeen = false;
     const card = queue.current;
+    shownCardIds.add(card.id);
     if (cardButton instanceof HTMLElement) {
       cardButton.dataset.studyCardState = card.studyState ?? "new";
     }
@@ -364,12 +431,15 @@ function initRoot(root) {
     }
     setHidden(cardButton, false);
     setHidden(showAnswerButton, false);
+    setHidden(showQuestionButton, true);
     setHidden(viewSourceButton, !hasStudySourceText({ sourceUrl, sourceText: inlineSourceText }));
     setHidden(ratingRow, true);
+    setRestartVisibility();
     setHidden(complete, true);
     closeSourceText();
     setProgress();
     setStatusCounts();
+    saveStudySession();
   };
 
   const showAnswer = () => {
@@ -378,6 +448,7 @@ function initRoot(root) {
     }
 
     showingAnswer = true;
+    answerHasBeenSeen = true;
     const card = queue.current;
     if (sideLabel) {
       sideLabel.textContent = root.getAttribute("data-answer-label") ?? "Answer";
@@ -386,14 +457,34 @@ function initRoot(root) {
       cardText.textContent = card.answer;
     }
     setHidden(showAnswerButton, true);
+    setHidden(showQuestionButton, false);
     setHidden(viewSourceButton, !hasStudySourceText({ sourceUrl, sourceText: inlineSourceText }));
     setHidden(ratingRow, false);
     if (sourceLoaded) renderCurrentSourceText();
     scrollAnswerControlsIntoView({ ratingRow, viewSourceButton });
   };
 
+  const showQuestion = () => {
+    if (!answerHasBeenSeen || !showingAnswer || !queue.current) {
+      return;
+    }
+
+    showingAnswer = false;
+    if (sideLabel) {
+      sideLabel.textContent = root.getAttribute("data-question-label") ?? "Question";
+    }
+    if (cardText) {
+      cardText.textContent = queue.current.question;
+    }
+    setHidden(showAnswerButton, true);
+    setHidden(showQuestionButton, true);
+    setHidden(viewSourceButton, !hasStudySourceText({ sourceUrl, sourceText: inlineSourceText }));
+    setHidden(ratingRow, false);
+    if (sourceLoaded) renderCurrentSourceText();
+  };
+
   const rateCurrentCard = (rating) => {
-    if (!showingAnswer || isSourceTextOpen()) {
+    if (!answerHasBeenSeen || isSourceTextOpen()) {
       return;
     }
 
@@ -401,8 +492,39 @@ function initRoot(root) {
     showCurrentCard();
   };
 
-  cardButton?.addEventListener("click", showAnswer);
+  cardButton?.addEventListener("click", () => {
+    if (showingAnswer) {
+      rateCurrentCard(ratingForCardTap(queue.current?.shownCount));
+      return;
+    }
+
+    showAnswer();
+  });
   showAnswerButton?.addEventListener("click", showAnswer);
+  showQuestionButton?.addEventListener("click", showQuestion);
+  const restartStudy = () => {
+    if (!activeDeck) return;
+    const selectedCards = selectStudyCards(flattenStudyDeckCards(activeDeck), { count: 24 });
+    clearStudySession(sessionStorageKey);
+    queue = createStudyQueue(selectedCards);
+    totalCount = selectedCards.length;
+    shownCardIds = new Set();
+    showCurrentCard();
+  };
+
+  restartButton?.addEventListener("click", openRestartDialog);
+  restartDialog?.addEventListener("click", (event) => {
+    if (event.target === restartDialog) closeRestartDialog();
+  });
+  root.querySelectorAll("[data-close-restart]").forEach((trigger) => {
+    trigger.addEventListener("click", closeRestartDialog);
+  });
+  root.querySelectorAll("[data-confirm-restart]").forEach((trigger) => {
+    trigger.addEventListener("click", () => {
+      closeRestartDialog();
+      restartStudy();
+    });
+  });
   viewSourceButton?.addEventListener("click", openSourceText);
   sourceDialog?.addEventListener("click", (event) => {
     if (event.target === sourceDialog) {
@@ -430,7 +552,7 @@ function initRoot(root) {
       return;
     }
 
-    if (!showingAnswer) {
+    if (!answerHasBeenSeen) {
       return;
     }
 
@@ -453,6 +575,8 @@ function initRoot(root) {
   const showLoadError = () => {
     setHidden(cardButton, true);
     setHidden(showAnswerButton, true);
+    setHidden(showQuestionButton, true);
+    setHidden(sessionActions, true);
     setHidden(viewSourceButton, !hasStudySourceText({ sourceUrl, sourceText: inlineSourceText }));
     setHidden(ratingRow, true);
     setHidden(statusRow, true);
@@ -464,8 +588,12 @@ function initRoot(root) {
     const selectedCards = selectStudyCards(flattenStudyDeckCards(deck), {
       count: 24
     });
-    queue = createStudyQueue(selectedCards);
+    sessionStorageKey = studySessionStorageKey(deck);
+    const savedSession = readStudySession(sessionStorageKey);
+    queue = restoreStudyQueue(selectedCards, savedSession?.queue) ?? createStudyQueue(selectedCards);
     totalCount = selectedCards.length;
+    const validCardIds = new Set(selectedCards.map((card) => card.id));
+    shownCardIds = new Set((savedSession?.shownCardIds ?? []).filter((id) => validCardIds.has(id)));
     showCurrentCard();
   };
 

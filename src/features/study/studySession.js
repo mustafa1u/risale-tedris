@@ -23,7 +23,15 @@ export function selectStudyCards(cards, { count = 24 } = {}) {
 function createSessionCard(card) {
   return {
     ...card,
-    studyState: card?.studyState ?? "new"
+    studyState: card?.studyState ?? "new",
+    shownCount: Number(card?.shownCount) || 0
+  };
+}
+
+function showCard(card) {
+  return {
+    ...card,
+    shownCount: (Number(card?.shownCount) || 0) + 1
   };
 }
 
@@ -43,9 +51,41 @@ export function createStudyQueue(cards) {
   const [current = null, ...pending] = sessionCards;
 
   return {
-    current,
+    current: current ? showCard(current) : null,
     pending,
     completed: []
+  };
+}
+
+export function serializeStudyQueue(queue) {
+  const cards = [queue?.current, ...(queue?.pending ?? []), ...(queue?.completed ?? [])].filter(Boolean);
+  return {
+    currentId: queue?.current?.id ?? null,
+    pendingIds: (queue?.pending ?? []).map((card) => card.id),
+    completedIds: (queue?.completed ?? []).map((card) => card.id),
+    cardStateById: Object.fromEntries(cards.map((card) => [card.id, {
+      studyState: card.studyState,
+      shownCount: card.shownCount
+    }]))
+  };
+}
+
+export function restoreStudyQueue(cards, savedQueue) {
+  if (!savedQueue || typeof savedQueue !== "object") return null;
+  const cardsById = new Map((cards ?? []).map(createSessionCard).map((card) => [card.id, card]));
+  const ids = [savedQueue.currentId, ...(savedQueue.pendingIds ?? []), ...(savedQueue.completedIds ?? [])].filter(Boolean);
+  if (ids.length !== cardsById.size || new Set(ids).size !== ids.length || ids.some((id) => !cardsById.has(id))) {
+    return null;
+  }
+  const hydrate = (id) => {
+    const card = cardsById.get(id);
+    const saved = savedQueue.cardStateById?.[id] ?? {};
+    return { ...card, studyState: saved.studyState ?? card.studyState, shownCount: Number(saved.shownCount) || 0 };
+  };
+  return {
+    current: savedQueue.currentId ? hydrate(savedQueue.currentId) : null,
+    pending: (savedQueue.pendingIds ?? []).map(hydrate),
+    completed: (savedQueue.completedIds ?? []).map(hydrate)
   };
 }
 
@@ -82,7 +122,7 @@ export function rateStudyQueue(queue, rating) {
   if (rating === "again") {
     const [next = null, ...rest] = pending;
     return {
-      current: next,
+      current: next ? showCard(next) : null,
       pending: next ? [markLearning(current), ...rest] : [markLearning(current)],
       completed
     };
@@ -96,7 +136,7 @@ export function rateStudyQueue(queue, rating) {
 
   const [next = null, ...rest] = pending;
   return {
-    current: next,
+    current: next ? showCard(next) : null,
     pending: rest,
     completed
   };

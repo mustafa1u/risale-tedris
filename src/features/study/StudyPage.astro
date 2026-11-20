@@ -66,7 +66,12 @@ const jsonForScript = (value: unknown) => JSON.stringify(value).replaceAll("</",
       >
         <script is:inline type="application/json" data-study-grade-context-json set:html={jsonForScript(gradeContexts)}></script>
         <p class="empty-state study-shell-fallback" data-study-fallback>{text.study.loadError}</p>
-        <p class="study-progress" data-study-progress aria-live="polite"></p>
+        <div class="study-progress-actions">
+          <div class="study-session-actions" data-study-session-actions hidden>
+            <button class="button-secondary study-restart-button" type="button" data-restart-study>{text.study.restart}</button>
+          </div>
+          <p class="study-progress" data-study-progress aria-live="polite"></p>
+        </div>
         <div class="study-status-row" data-study-status-row aria-live="polite" hidden>
           <span class="study-status-pill study-status-pill--new">
             <span>{text.study.status.new}</span>
@@ -77,29 +82,36 @@ const jsonForScript = (value: unknown) => JSON.stringify(value).replaceAll("</",
             <strong data-study-learning-count>0</strong>
           </span>
         </div>
-        <button class="study-card" type="button" data-study-card>
+        <div class="study-card-wrap">
+          <button class="button-secondary study-card__question-button" type="button" data-show-question hidden>
+            {text.study.showQuestion}
+          </button>
+          <button class="study-card" type="button" data-study-card>
           <span class="study-card__side" data-study-side>{text.study.loading}</span>
           <span class="study-card__text" data-study-card-text>{text.study.loading}</span>
-        </button>
+          </button>
+        </div>
 
         <div class="study-controls">
-          <button class="button" type="button" data-show-answer>{text.study.showAnswer}</button>
-          <button class="button-secondary study-source-button" type="button" data-view-source hidden>
-            {text.study.viewSource}
-          </button>
-          <div class="study-rating-row" data-rating-row hidden>
-            <span class="study-rating-option">
-              <span class="study-rating-option__hint">{text.study.ratingHints.again}</span>
-              <button class="button-secondary study-rating-button" type="button" data-rating="again">{text.study.ratings.again}</button>
-            </span>
-            <span class="study-rating-option">
-              <span class="study-rating-option__hint">{text.study.ratingHints.hard}</span>
-              <button class="button-secondary study-rating-button" type="button" data-rating="hard">{text.study.ratings.hard}</button>
-            </span>
-            <span class="study-rating-option">
-              <span class="study-rating-option__hint">{text.study.ratingHints.easy}</span>
-              <button class="button-secondary study-rating-button" type="button" data-rating="easy">{text.study.ratings.easy}</button>
-            </span>
+          <div class="study-controls__rail">
+            <button class="button-secondary study-source-button" type="button" data-view-source hidden>
+              {text.study.viewSource}
+            </button>
+            <button class="button" type="button" data-show-answer>{text.study.showAnswer}</button>
+            <div class="study-rating-row" data-rating-row hidden>
+              <span class="study-rating-option">
+                <span class="study-rating-option__hint">{text.study.ratingHints.again}</span>
+                <button class="button-secondary study-rating-button" type="button" data-rating="again">{text.study.ratings.again}</button>
+              </span>
+              <span class="study-rating-option">
+                <span class="study-rating-option__hint">{text.study.ratingHints.hard}</span>
+                <button class="button-secondary study-rating-button" type="button" data-rating="hard">{text.study.ratings.hard}</button>
+              </span>
+              <span class="study-rating-option">
+                <span class="study-rating-option__hint">{text.study.ratingHints.easy}</span>
+                <button class="button-secondary study-rating-button" type="button" data-rating="easy">{text.study.ratings.easy}</button>
+              </span>
+            </div>
           </div>
         </div>
 
@@ -115,6 +127,20 @@ const jsonForScript = (value: unknown) => JSON.stringify(value).replaceAll("</",
             <p class="empty-state study-source-message" data-source-error hidden>{text.study.sourceLoadError}</p>
             <div class="study-source-dialog__actions">
               <button class="button" type="button" data-close-source>{text.study.sourceDone}</button>
+            </div>
+          </div>
+        </dialog>
+
+        <dialog class="study-source-dialog study-restart-dialog" data-restart-dialog aria-labelledby="study-restart-title">
+          <div class="study-source-dialog__panel study-restart-dialog__panel">
+            <header class="study-source-dialog__head">
+              <p class="eyebrow">{text.study.restartEyebrow}</p>
+              <h2 id="study-restart-title">{text.study.restartTitle}</h2>
+            </header>
+            <p class="study-restart-dialog__message">{text.study.restartConfirm}</p>
+            <div class="study-source-dialog__actions">
+              <button class="button-secondary" type="button" data-close-restart>{text.study.restartCancel}</button>
+              <button class="button" type="button" data-confirm-restart>{text.study.restart}</button>
             </div>
           </div>
         </dialog>

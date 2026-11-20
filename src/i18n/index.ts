@@ -323,6 +323,12 @@ type UiDictionary = {
     question: string;
     answer: string;
     showAnswer: string;
+    showQuestion: string;
+    restart: string;
+    restartEyebrow: string;
+    restartTitle: string;
+    restartConfirm: string;
+    restartCancel: string;
     viewSource: string;
     sourceEyebrow: string;
     sourceLoading: string;
@@ -902,6 +908,12 @@ export const ui = {
       question: "Soru",
       answer: "Cevap",
       showAnswer: "Cevabı göster",
+      showQuestion: "Soruyu gör",
+      restart: "Yeniden başla",
+      restartEyebrow: "Çalışma ilerlemesi",
+      restartTitle: "Yeniden başlatılsın mı?",
+      restartConfirm: "Çalışma ilerlemeniz silinecek ve kartlar baştan başlayacak. Yeniden başlamak istiyor musunuz?",
+      restartCancel: "Vazgeç",
       viewSource: "Metni Gör",
       sourceEyebrow: "Kaynak metin",
       sourceLoading: "Metin yükleniyor...",
@@ -1493,6 +1505,12 @@ export const ui = {
       question: "Question",
       answer: "Answer",
       showAnswer: "Show answer",
+      showQuestion: "Show question",
+      restart: "Start over",
+      restartEyebrow: "Study progress",
+      restartTitle: "Start over?",
+      restartConfirm: "Your study progress will be cleared and the cards will start again. Do you want to start over?",
+      restartCancel: "Cancel",
       viewSource: "View Text",
       sourceEyebrow: "Source text",
       sourceLoading: "Loading text...",

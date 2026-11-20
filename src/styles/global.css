@@ -2937,6 +2937,12 @@ h3 {
   text-align: center;
 }
 
+.study-progress-actions {
+  display: grid;
+  justify-items: center;
+  gap: 6px;
+}
+
 .study-instruction {
   max-width: 760px;
   margin: 0;
@@ -2995,6 +3001,19 @@ h3 {
   --study-status-color: #dc2626;
 }
 
+.study-card-wrap {
+  position: relative;
+}
+
+.study-session-actions {
+  display: flex;
+  justify-content: center;
+}
+
+.study-restart-button {
+  min-height: 40px;
+}
+
 .study-card {
   width: 100%;
   min-height: min(58vh, 520px);
@@ -3011,6 +3030,14 @@ h3 {
   box-shadow: var(--shadow);
   cursor: pointer;
   text-align: center;
+}
+
+.study-card__question-button {
+  position: absolute;
+  z-index: 1;
+  top: 14px;
+  right: 14px;
+  min-height: 36px;
 }
 
 .study-card[data-study-card-state="new"] {
@@ -3057,14 +3084,29 @@ h3 {
   line-height: 1.45;
 }
 
-.study-controls,
+.study-controls {
+  min-height: 44px;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+}
+
+.study-controls__rail {
+  width: max-content;
+  min-width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 10px;
+}
+
 .study-rating-row {
   min-height: 44px;
   display: flex;
   align-items: flex-end;
   justify-content: center;
   gap: 10px;
-  flex-wrap: wrap;
+  flex: 0 0 auto;
+  flex-wrap: nowrap;
 }
 
 .study-rating-option {
@@ -3174,6 +3216,25 @@ h3 {
 .study-source-dialog__actions {
   display: flex;
   justify-content: flex-end;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.study-restart-dialog {
+  width: min(480px, calc(100vw - 32px));
+}
+
+.study-restart-dialog__panel {
+  grid-template-rows: auto auto auto;
+}
+
+.study-restart-dialog__message {
+  margin: 0;
+  padding: 16px;
+  border-inline-start: 3px solid #d97706;
+  color: var(--text);
+  background: color-mix(in srgb, #fbbf24 14%, var(--surface-muted));
+  line-height: 1.55;
 }
 
 .site-footer {

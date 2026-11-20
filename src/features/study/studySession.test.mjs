@@ -6,7 +6,9 @@ import {
   flattenStudyDeckCards,
   getStudyQueueCounts,
   rateStudyQueue,
-  selectStudyCards
+  restoreStudyQueue,
+  selectStudyCards,
+  serializeStudyQueue
 } from "./studySession.js";
 
 function makeCards(count) {
@@ -91,6 +93,7 @@ describe("study session queue", () => {
 
     assert.equal(queue.current.id, "card-1");
     assert.equal(queue.current.studyState, "new");
+    assert.equal(queue.current.shownCount, 1);
     assert.deepEqual(
       queue.pending.map((card) => card.id),
       ["card-2"]
@@ -135,11 +138,32 @@ describe("study session queue", () => {
       ["card-3", "card-1"]
     );
     assert.equal(queue.pending[1].studyState, "learning");
+    assert.equal(queue.pending[1].shownCount, 1);
     assert.deepEqual(getStudyQueueCounts(queue), {
       new: 2,
       learning: 1,
       review: 0
     });
+  });
+
+  it("increments a card's shown count when it returns to the queue", () => {
+    let queue = createStudyQueue(makeCards(2));
+    queue = rateStudyQueue(queue, "hard");
+    queue = rateStudyQueue(queue, "easy");
+
+    assert.equal(queue.current.id, "card-1");
+    assert.equal(queue.current.shownCount, 2);
+  });
+
+  it("restores a saved queue against the current deck cards", () => {
+    let queue = createStudyQueue(makeCards(2));
+    queue = rateStudyQueue(queue, "hard");
+    const restored = restoreStudyQueue(makeCards(2), serializeStudyQueue(queue));
+
+    assert.equal(restored.current.id, "card-2");
+    assert.equal(restored.pending[0].id, "card-1");
+    assert.equal(restored.pending[0].studyState, "learning");
+    assert.equal(restored.pending[0].shownCount, 1);
   });
 
   it("finishes Good and Easy cards for the session", () => {

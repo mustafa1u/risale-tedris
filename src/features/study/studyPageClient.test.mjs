@@ -7,7 +7,10 @@ import {
   evidenceRangesForParagraph,
   findEvidenceForStudyCard,
   formatStudyCardCount,
+  canRestartStudy,
+  getStudyProgressCount,
   hasStudySourceText,
+  ratingForCardTap,
   resolveStudyShellSelection,
   scrollAnswerControlsIntoView
 } from "./studyPageClient.js";
@@ -15,6 +18,24 @@ import {
 const sourcePath = new URL("./studyPageClient.js", import.meta.url);
 
 describe("study page client helpers", () => {
+  it("rates an answer-side card tap as Hard the first time and Easy later", () => {
+    assert.equal(ratingForCardTap(1), "hard");
+    assert.equal(ratingForCardTap(2), "easy");
+  });
+
+  it("counts distinct cards shown rather than only completed cards", () => {
+    const shownCardIds = new Set(["card-1", "card-2"]);
+
+    assert.equal(getStudyProgressCount({ totalCount: 24, shownCardIds }), 2);
+    assert.equal(getStudyProgressCount({ totalCount: 1, shownCardIds }), 1);
+  });
+
+  it("only offers a restart after the study has progressed", () => {
+    assert.equal(canRestartStudy({ queue: { current: { shownCount: 1 }, completed: [] }, shownCardIds: new Set(["card-1"]) }), false);
+    assert.equal(canRestartStudy({ queue: { current: { shownCount: 1 }, completed: [] }, shownCardIds: new Set(["card-1", "card-2"]) }), true);
+    assert.equal(canRestartStudy({ queue: { current: null, completed: [{ id: "card-1" }] }, shownCardIds: new Set(["card-1"]) }), true);
+  });
+
   it("finds only evidence that matches the current static study card", () => {
     const manifest = {
       annotations: [{
