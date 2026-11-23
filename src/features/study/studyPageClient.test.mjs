@@ -4,6 +4,7 @@ import { describe, it } from "node:test";
 
 import {
   canOpenSourceText,
+  createAugmentedEvidenceManifest,
   evidenceRangesForParagraph,
   findEvidenceForStudyCard,
   formatStudyCardCount,
@@ -47,6 +48,31 @@ describe("study page client helpers", () => {
 
     assert.equal(findEvidenceForStudyCard({ manifest, deck, card: { id: "S1Q2" } })?.evidence_sets.length, 1);
     assert.equal(findEvidenceForStudyCard({ manifest, deck, card: { id: "S1Q3" } }), null);
+  });
+
+  it("maps augmented cards and source paragraph offsets to their original evidence", () => {
+    const deck = { bookSlug: "11-soz", gradeSlug: "8-sinif", partNo: "p06" };
+    const sources = [{
+      bookSlug: "11-soz",
+      gradeSlug: "8-sinif",
+      partNo: "p07",
+      paragraphOffset: 5
+    }];
+    const manifests = [{
+      annotations: [{
+        card_ref: { book_slug: "11-soz", grade_slug: "8-sinif", part_no: "p07", question_id: "S1Q2" },
+        evidence_sets: [{ fragments: [{ paragraph_index: 2, start_token: 0, end_token: 1, exact_text: "Delil" }] }]
+      }]
+    }];
+
+    const merged = createAugmentedEvidenceManifest({ deck, sources, manifests });
+    const evidence = findEvidenceForStudyCard({
+      manifest: merged,
+      deck,
+      card: { id: "11-soz:p07:8-sinif:S1Q2" }
+    });
+
+    assert.equal(evidence?.evidence_sets[0].fragments[0].paragraph_index, 7);
   });
 
   it("maps token evidence to an exact source-text range and ignores stale evidence", () => {

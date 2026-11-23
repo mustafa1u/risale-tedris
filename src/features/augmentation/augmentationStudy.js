@@ -1,3 +1,39 @@
+import { splitPartText } from "../library/partText.js";
+
+function evidenceUrlForPart({ bookSlug, gradeSlug, partNo }) {
+  if (!bookSlug || !gradeSlug || !partNo) return "";
+  return `/assets/${encodeURIComponent(bookSlug)}/question-bank/${encodeURIComponent(gradeSlug)}/${encodeURIComponent(partNo)}.evidence.json`;
+}
+
+function buildEvidenceSources(project, gradeSlug) {
+  const sections = String(project?.sourceText ?? "").split(/\n\n---\n\n/gu);
+  let paragraphCursor = 0;
+
+  return (project?.orderedParts ?? []).map((part, index) => {
+    const sectionParagraphs = splitPartText(sections[index] ?? "");
+    const hasSourceParagraphs = sectionParagraphs.length > 1;
+    const source = {
+      bookSlug: part?.bookSlug,
+      gradeSlug,
+      partNo: part?.partNo,
+      evidenceUrl: evidenceUrlForPart({
+        bookSlug: part?.bookSlug,
+        gradeSlug,
+        partNo: part?.partNo
+      }),
+      // Each augmented section begins with a heading. Between sections the
+      // combined source adds a standalone `---` paragraph.
+      paragraphOffset: hasSourceParagraphs ? paragraphCursor + 1 : null
+    };
+
+    paragraphCursor += sectionParagraphs.length;
+    if (index < (project?.orderedParts?.length ?? 0) - 1 && hasSourceParagraphs) {
+      paragraphCursor += 1;
+    }
+    return source;
+  }).filter((source) => source.evidenceUrl && Number.isInteger(source.paragraphOffset));
+}
+
 export function parseLocalStudyParams(searchParams) {
   const params = searchParams instanceof URLSearchParams
     ? searchParams
@@ -42,6 +78,7 @@ export function buildLocalStudySelection(project, gradeSlug) {
         partNo: project.basePartKey?.split(":").at(-1) ?? "",
         title: project.title,
         cardCount: questions.length,
+        evidenceSources: buildEvidenceSources(project, gradeSlug),
         sets: [{ setNumber: 1, questions }]
       }
     }

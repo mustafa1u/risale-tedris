@@ -1,0 +1,613 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "13-soz",
+  "part_no": "p04",
+  "source_text_url": "/assets/13-soz/parcalar/13-soz-p04-secere-temsiliyle-hilkat-hakikatinin-tasviri.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p04-lisans-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 118,
+              "end_token": 132,
+              "exact_text": "o ressam o gaybî ağacı gayb-aşina nazarıyla görür, ihata eder, sonra tasvir eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S1Q10-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S1Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 71,
+              "end_token": 81,
+              "exact_text": "Tılsım-ı kâinatı ve muamma-yı hilkati keşf ve fetheden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S1Q3-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S1Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 39,
+              "end_token": 49,
+              "exact_text": "bütün uzuvları arasında bir münasebet, bir tenasüb, bir muvazenet lâzımdır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 114,
+              "end_token": 132,
+              "exact_text": "elbette şübhe kalmaz ki, o ressam o gaybî ağacı gayb-aşina nazarıyla görür, ihata eder, sonra tasvir eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 98,
+              "end_token": 114,
+              "exact_text": "birbirinden nihayetsiz uzak mebde ve müntehasının ortasında uzuvlarının aynı şekil ve suretini gösterecek muvafık tersimatla doldursa",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 3,
+              "end_token": 16,
+              "exact_text": "Kur'an-ı Mu'cizü'l-Beyan'ın dahi, hakikat-i mümkinata dair",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 45,
+              "end_token": 59,
+              "exact_text": "o kadar tenasübü muhafaza etmiş ve herbir uzva ve meyveye lâyık birer suret vermiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S1Q7-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S1Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 19,
+              "end_token": 42,
+              "exact_text": "dünyanın ibtidasından tut, tâ âhiretin en nihayetine kadar uzanmış ve ferşten arşa ve zerreden şemse kadar yayılmış olan şecere-i hilkatin hakikatına dair",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S1Q8-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S1Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 45,
+              "end_token": 59,
+              "exact_text": "o kadar tenasübü muhafaza etmiş ve herbir uzva ve meyveye lâyık birer suret vermiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S1Q9-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S1Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 60,
+              "end_token": 89,
+              "exact_text": "bütün muhakkikler, nihayet-i tahkikinde, Kur'anın tasvirine \"Mâşâallah, Bârekellah\" deyip, \"Tılsım-ı kâinatı ve muamma-yı hilkati keşf ve fetheden yalnız sensin ey Kur'an-ı Hakîm!\" demişler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 63,
+              "end_token": 71,
+              "exact_text": "hiç görünmeyen (ve halen görünmüyor) o ağaca dair",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 76,
+              "end_token": 97,
+              "exact_text": "onun herbir a'zâsına mukabil birer resim çekse, birer hudud çizse, dalından meyveye, meyveden yaprağa, bir tenasüble bir suret tersim etse",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S2Q10-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S2Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 60,
+              "end_token": 71,
+              "exact_text": "bütün muhakkikler, nihayet-i tahkikinde, Kur'anın tasvirine \"Mâşâallah, Bârekellah\" deyip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 76,
+              "end_token": 87,
+              "exact_text": "onun herbir a'zâsına mukabil birer resim çekse, birer hudud çizse",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 120,
+              "end_token": 129,
+              "exact_text": "o gaybî ağacı gayb-aşina nazarıyla görür, ihata eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S2Q3-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S2Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 118,
+              "end_token": 132,
+              "exact_text": "o ressam o gaybî ağacı gayb-aşina nazarıyla görür, ihata eder, sonra tasvir eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 3,
+              "end_token": 16,
+              "exact_text": "Kur'an-ı Mu'cizü'l-Beyan'ın dahi, hakikat-i mümkinata dair",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 2,
+              "start_token": 45,
+              "end_token": 59,
+              "exact_text": "o kadar tenasübü muhafaza etmiş ve herbir uzva ve meyveye lâyık birer suret vermiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S2Q5-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S2Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 19,
+              "end_token": 42,
+              "exact_text": "dünyanın ibtidasından tut, tâ âhiretin en nihayetine kadar uzanmış ve ferşten arşa ve zerreden şemse kadar yayılmış olan şecere-i hilkatin hakikatına dair",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 37,
+              "end_token": 42,
+              "exact_text": "şecere-i hilkatin hakikatına dair",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S2Q7-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S2Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 45,
+              "end_token": 59,
+              "exact_text": "o kadar tenasübü muhafaza etmiş ve herbir uzva ve meyveye lâyık birer suret vermiştir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S2Q8-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S2Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 114,
+              "end_token": 132,
+              "exact_text": "elbette şübhe kalmaz ki, o ressam o gaybî ağacı gayb-aşina nazarıyla görür, ihata eder, sonra tasvir eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S2Q9-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S2Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 60,
+              "end_token": 89,
+              "exact_text": "bütün muhakkikler, nihayet-i tahkikinde, Kur'anın tasvirine \"Mâşâallah, Bârekellah\" deyip, \"Tılsım-ı kâinatı ve muamma-yı hilkati keşf ve fetheden yalnız sensin ey Kur'an-ı Hakîm!\" demişler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 0,
+              "end_token": 3,
+              "exact_text": "Aynen onun gibi",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 114,
+              "end_token": 132,
+              "exact_text": "elbette şübhe kalmaz ki, o ressam o gaybî ağacı gayb-aşina nazarıyla görür, ihata eder, sonra tasvir eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 120,
+              "end_token": 129,
+              "exact_text": "o gaybî ağacı gayb-aşina nazarıyla görür, ihata eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 37,
+              "end_token": 42,
+              "exact_text": "şecere-i hilkatin hakikatına dair",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p04-lisans-S4Q10-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "lisans",
+        "part_no": "p04",
+        "question_id": "S4Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 2,
+              "start_token": 60,
+              "end_token": 71,
+              "exact_text": "bütün muhakkikler, nihayet-i tahkikinde, Kur'anın tasvirine \"Mâşâallah, Bârekellah\" deyip",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

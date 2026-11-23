@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "18-soz",
+  "part_no": "p01",
+  "source_text_url": "/assets/18-soz/parcalar/18-soz-p01-baslik-ve-birinci-nokta-nefs-i-emmareye-tedib-ve-sukur-dersi.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p01-lisans-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p01",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 87,
+              "end_token": 101,
+              "exact_text": "o nimetlerin kıymetlerini fahrin ile tenkis ediyorsun, gururunla tahrib ediyorsun ve küfranınla ibtal ediyorsun",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-lisans-S3Q10-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p01",
+        "question_id": "S3Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 9,
+              "start_token": 10,
+              "end_token": 16,
+              "exact_text": "temessül etmediğinden mazhar değil, memer olursun",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-lisans-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p01",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 18,
+              "end_token": 38,
+              "exact_text": "küçücük bir çekirdeği ve yüz salkım ona takılan üzümün siyah kurucuk çubuğu; bütün o meyveleri, o salkımları kendi hünerleri olduğu",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-lisans-S5Q11-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p01",
+        "question_id": "S5Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 104,
+              "end_token": 115,
+              "exact_text": "Senin vazifen fahr değil, şükürdür. Sana lâyık olan şöhret değil, tevazudur",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-lisans-S5Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p01",
+        "question_id": "S5Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 87,
+              "end_token": 97,
+              "exact_text": "o nimetlerin kıymetlerini fahrin ile tenkis ediyorsun, gururunla tahrib ediyorsun",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 7,
+              "start_token": 102,
+              "end_token": 104,
+              "exact_text": "temellükle gasbediyorsun",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

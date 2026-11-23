@@ -1,0 +1,400 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "18-soz",
+  "part_no": "p01",
+  "source_text_url": "/assets/18-soz/parcalar/18-soz-p01-baslik-ve-birinci-nokta-nefs-i-emmareye-tedib-ve-sukur-dersi.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S1Q8-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S1Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 102,
+              "end_token": 104,
+              "exact_text": "temellükle gasbediyorsun",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S2Q10-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S2Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 19,
+              "end_token": 34,
+              "exact_text": "Belki herkesten evvel sana verildi; Çünki herkesten ziyade sen müflis ve muhtaç ve müteellim olduğundan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 30,
+              "end_token": 38,
+              "exact_text": "bütün o meyveleri, o salkımları kendi hünerleri olduğu",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 7,
+              "start_token": 39,
+              "end_token": 52,
+              "exact_text": "onlardan istifade edenler o çubuğa, o çekirdeğe medih ve hürmet etmek lâzım olduğu",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S2Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S2Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 8,
+              "start_token": 52,
+              "end_token": 65,
+              "exact_text": "zahirî çirkinlikler size isnad edilip, Zât-ı Mukaddese-i İlahiyenin tenzihine vesile olasınız",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S3Q10-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S3Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 24,
+              "end_token": 34,
+              "exact_text": "Çünki herkesten ziyade sen müflis ve muhtaç ve müteellim olduğundan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 30,
+              "end_token": 38,
+              "exact_text": "bütün o meyveleri, o salkımları kendi hünerleri olduğu",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 9,
+              "start_token": 10,
+              "end_token": 16,
+              "exact_text": "temessül etmediğinden mazhar değil, memer olursun",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S4Q10-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S4Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 9,
+              "start_token": 10,
+              "end_token": 16,
+              "exact_text": "temessül etmediğinden mazhar değil, memer olursun",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S4Q11-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S4Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 10,
+              "start_token": 24,
+              "end_token": 34,
+              "exact_text": "Çünki herkesten ziyade sen müflis ve muhtaç ve müteellim olduğundan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 30,
+              "end_token": 38,
+              "exact_text": "bütün o meyveleri, o salkımları kendi hünerleri olduğu",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S4Q3-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S4Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 102,
+              "end_token": 104,
+              "exact_text": "temellükle gasbediyorsun",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 104,
+              "end_token": 115,
+              "exact_text": "Senin vazifen fahr değil, şükürdür. Sana lâyık olan şöhret değil, tevazudur",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S5Q3-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S5Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 81,
+              "end_token": 101,
+              "exact_text": "Senin bir cüz'-i ihtiyarın bulunmakla, o nimetlerin kıymetlerini fahrin ile tenkis ediyorsun, gururunla tahrib ediyorsun ve küfranınla ibtal ediyorsun",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S5Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S5Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 87,
+              "end_token": 101,
+              "exact_text": "o nimetlerin kıymetlerini fahrin ile tenkis ediyorsun, gururunla tahrib ediyorsun ve küfranınla ibtal ediyorsun",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S5Q5-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S5Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 109,
+              "end_token": 115,
+              "exact_text": "Sana lâyık olan şöhret değil, tevazudur",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p01-11-sinif-S6Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p01",
+        "question_id": "S6Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 94,
+              "end_token": 101,
+              "exact_text": "gururunla tahrib ediyorsun ve küfranınla ibtal ediyorsun",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

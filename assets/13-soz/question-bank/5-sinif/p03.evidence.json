@@ -1,0 +1,589 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "13-soz",
+  "part_no": "p03",
+  "source_text_url": "/assets/13-soz/parcalar/13-soz-p03-cahiliyet-icinde-ayetlerin-ihya-edici-tesiri.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 24,
+              "end_token": 34,
+              "exact_text": "o asr-ı cahiliyette ve o sahra-yı bedeviyette farzet",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S1Q10-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 9,
+              "end_token": 20,
+              "exact_text": "i'caz ve hidayet nurunu neşr ile küfrün zulümatını nasıl dağıttığını",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 23,
+              "end_token": 34,
+              "exact_text": "kendini o asr-ı cahiliyette ve o sahra-yı bedeviyette farzet",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S1Q2-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 36,
+              "end_token": 41,
+              "exact_text": "zulmet-i cehil ve gaflet",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S1Q4-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 3,
+              "end_token": 17,
+              "exact_text": "gökyüzü bir ağız, bütün yıldızlar birer kelime-i hikmetnüma, birer nur-u hakikat-eda",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 17,
+              "end_token": 41,
+              "exact_text": "ve arz bir kafa; berr ve bahr birer lisan; ve bütün hayvanat ve nebatat birer kelime-i tesbih-feşan suretinde arz-ı dîdar eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 53,
+              "end_token": 68,
+              "exact_text": "o zamandan beri nurunu neşreden ve mürur-u zaman ile ulûm-u mütearife hükmüne geçen",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S1Q7-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 86,
+              "end_token": 95,
+              "exact_text": "sathî ve basit bir perde-i ülfet ile baksan",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 5,
+              "start_token": 96,
+              "end_token": 113,
+              "exact_text": "herbir âyetin ne kadar tatlı bir zemzeme-i i'caz içinde ne çeşit zulümatı dağıttığını hakkıyla göremezsin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S1Q8-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 9,
+              "end_token": 20,
+              "exact_text": "i'caz ve hidayet nurunu neşr ile küfrün zulümatını nasıl dağıttığını",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S1Q9-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 23,
+              "end_token": 34,
+              "exact_text": "kendini o asr-ı cahiliyette ve o sahra-yı bedeviyette farzet",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 9,
+              "end_token": 14,
+              "exact_text": "i'caz ve hidayet nurunu",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S2Q10-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 127,
+              "end_token": 148,
+              "exact_text": "Kur'an-ı Mu'cizü'l-Beyan'ın en yüksek bir derece-i i'cazına bakmak istersen, şu temsili dinle, bak",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 16,
+              "end_token": 20,
+              "exact_text": "küfrün zulümatını nasıl dağıttığını",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S2Q3-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 36,
+              "end_token": 49,
+              "exact_text": "zulmet-i cehil ve gaflet altında perde-i cümud u tabiata sarılmış olduğu",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S2Q4-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 3,
+              "end_token": 37,
+              "exact_text": "gökyüzü bir ağız, bütün yıldızlar birer kelime-i hikmetnüma, birer nur-u hakikat-eda; ve arz bir kafa; berr ve bahr birer lisan; ve bütün hayvanat ve nebatat birer kelime-i tesbih-feşan suretinde",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S2Q5-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 26,
+              "end_token": 34,
+              "exact_text": "o karanlık gökyüzünde birer camid ateşpare olan yıldızlar",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 5,
+              "start_token": 6,
+              "end_token": 17,
+              "exact_text": "bütün yıldızlar birer kelime-i hikmetnüma, birer nur-u hakikat-eda",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 17,
+              "end_token": 26,
+              "exact_text": "ve arz bir kafa; berr ve bahr birer lisan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S2Q7-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 53,
+              "end_token": 75,
+              "exact_text": "o zamandan beri nurunu neşreden ve mürur-u zaman ile ulûm-u mütearife hükmüne geçen ve sair neyyirat-ı İslâmiye ile parlayan",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S2Q8-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 76,
+              "end_token": 84,
+              "exact_text": "Kur'anın güneşiyle gündüz rengini alan bir vaziyet",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S2Q9-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 96,
+              "end_token": 111,
+              "exact_text": "herbir âyetin ne kadar tatlı bir zemzeme-i i'caz içinde ne çeşit zulümatı dağıttığını",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 23,
+              "end_token": 34,
+              "exact_text": "kendini o asr-ı cahiliyette ve o sahra-yı bedeviyette farzet",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 36,
+              "end_token": 49,
+              "exact_text": "zulmet-i cehil ve gaflet altında perde-i cümud u tabiata sarılmış olduğu",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 4,
+              "end_token": 22,
+              "exact_text": "O ölmüş veya yatmış mevcudat-ı âlem يُسَبِّحُ sadâsıyla işitenlerin zihninde nasıl diriliyorlar, hüşyar oluyorlar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-5-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 26,
+              "end_token": 38,
+              "exact_text": "o karanlık gökyüzünde birer camid ateşpare olan yıldızlar ve yerdeki perişan mahlukat",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 5,
+              "start_token": 3,
+              "end_token": 41,
+              "exact_text": "gökyüzü bir ağız, bütün yıldızlar birer kelime-i hikmetnüma, birer nur-u hakikat-eda; ve arz bir kafa; berr ve bahr birer lisan; ve bütün hayvanat ve nebatat birer kelime-i tesbih-feşan suretinde arz-ı dîdar eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "18-soz",
+  "part_no": "p03",
+  "source_text_url": "/assets/18-soz/parcalar/18-soz-p03-ucuncu-nokta-kainattaki-husn-u-sanattan-risalet-i-ahmediyenin-luzumu.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S1Q8-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 47,
+              "end_token": 56,
+              "exact_text": "ikinci daire bütün kuvvetiyle birinci dairenin namına hareket eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S1Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 16,
+              "end_token": 31,
+              "exact_text": "o Sâni' ile münasebettar ve onun nazarında ne kadar mahbub ve makbul olduğu bilbedahe anlaşılır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 0,
+              "end_token": 11,
+              "exact_text": "Madem kâinatta hüsn-ü san'at, bilmüşahede vardır ve kat'îdir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 12,
+              "end_token": 26,
+              "exact_text": "risalet-i Ahmediye (A.S.M.), şuhud derecesinde bir kat'iyyetle sübutu lâzım gelir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S2Q8-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 7,
+              "end_token": 23,
+              "exact_text": "Gayet muhteşem, muntazam bir daire-i rububiyet ve gayet musanna', murassa' bir levha-i san'at",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S2Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 24,
+              "end_token": 46,
+              "exact_text": "Gayet münevver, müzehher bir daire-i ubudiyet ve gayet vâsi', câmi' bir levha-i tefekkür ve istihsan ve teşekkür ve iman vardır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 11,
+              "end_token": 26,
+              "exact_text": "Elbette risalet-i Ahmediye (A.S.M.), şuhud derecesinde bir kat'iyyetle sübutu lâzım gelir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 27,
+              "end_token": 55,
+              "exact_text": "şu güzel masnuattaki hüsn-ü san'at ve zînet-i suret gösteriyor ki: Onların san'atkârında ehemmiyetli bir irade-i tahsin ve kuvvetli bir taleb-i tezyin vardır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 85,
+              "end_token": 105,
+              "exact_text": "muhabbet ve rağbet ise, masnuat içinde en münevver ve mükemmel ferd olan insana daha ziyade müteveccih olup temerküz etmek ister",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S3Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 16,
+              "end_token": 20,
+              "exact_text": "o Sâni' ile münasebettar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S4Q11-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S4Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 66,
+              "end_token": 73,
+              "exact_text": "güzel vaziyetinin başkalara da sirayet etmesini istemesin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S4Q3-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S4Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 91,
+              "end_token": 105,
+              "exact_text": "en münevver ve mükemmel ferd olan insana daha ziyade müteveccih olup temerküz etmek ister",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 112,
+              "end_token": 131,
+              "exact_text": "Meyve ise, en cem'iyetli ve en uzak ve en ziyade nazarı âmm ve şuuru küllî bir cüz'üdür",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S4Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S4Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 21,
+              "end_token": 31,
+              "exact_text": "onun nazarında ne kadar mahbub ve makbul olduğu bilbedahe anlaşılır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S5Q10-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S5Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 1,
+              "end_token": 11,
+              "exact_text": "o Sâni'in bütün makasıd-ı san'atperveranesine hizmet eden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S5Q11-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S5Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 73,
+              "end_token": 81,
+              "exact_text": "Kellâ! Konuşmamak ve onu resul yapmamak mümkün değil",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S5Q12-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S5Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 66,
+              "end_token": 73,
+              "exact_text": "güzel vaziyetinin başkalara da sirayet etmesini istemesin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S5Q5-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S5Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 112,
+              "end_token": 131,
+              "exact_text": "Meyve ise, en cem'iyetli ve en uzak ve en ziyade nazarı âmm ve şuuru küllî bir cüz'üdür",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S5Q6-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S5Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 148,
+              "end_token": 165,
+              "exact_text": "küllî şuurunu ve âmm nazarını tamamen Sâni'in perestişliğine ve san'atının istihsanına ve nimetinin şükrüne sarfeden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S5Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S5Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 47,
+              "end_token": 56,
+              "exact_text": "ikinci daire bütün kuvvetiyle birinci dairenin namına hareket eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S6Q5-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S6Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 131,
+              "end_token": 138,
+              "exact_text": "Nazarı âmm ve şuuru küllî zât ise",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-2-sinif-S6Q6-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p03",
+        "question_id": "S6Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 148,
+              "end_token": 165,
+              "exact_text": "küllî şuurunu ve âmm nazarını tamamen Sâni'in perestişliğine ve san'atının istihsanına ve nimetinin şükrüne sarfeden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

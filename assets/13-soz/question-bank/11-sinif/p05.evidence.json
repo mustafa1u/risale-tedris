@@ -1,0 +1,565 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "13-soz",
+  "part_no": "p05",
+  "source_text_url": "/assets/13-soz/parcalar/13-soz-p05-esma-sifat-iman-ve-seriatta-kurani-tenasub.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S1Q1-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S1Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 27,
+              "end_token": 34,
+              "exact_text": "bir şecere-i tûbâ-i nur hükmünde",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S1Q7-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S1Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 21,
+              "end_token": 46,
+              "exact_text": "imanın erkân-ı sittesi ve o erkânın bütün dal ve budakları, tâ en ince meyve ve çiçekler aralarında o kadar bir tenasüb gözetilerek tasvir eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S1Q8-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S1Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 87,
+              "end_token": 112,
+              "exact_text": "o erkânın tâ en ince teferruatı ve en küçük âdâbı ve en uzak gayatı ve en derin hikemiyatı ve en cüz'î semeratına varıncaya kadar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 13,
+              "end_token": 16,
+              "exact_text": "temsilde kusur yok",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 27,
+              "end_token": 37,
+              "exact_text": "bir şecere-i tûbâ-i nur hükmünde temsil edelim ki",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S2Q2-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S2Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 27,
+              "end_token": 34,
+              "exact_text": "bir şecere-i tûbâ-i nur hükmünde",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 37,
+              "end_token": 48,
+              "exact_text": "o şecere-i nuraniyenin daire-i azameti, ezelden ebede uzanıp gidiyor",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S2Q8-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S2Q8"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 32,
+              "end_token": 39,
+              "exact_text": "tâ en ince meyve ve çiçekler aralarında",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 26,
+              "end_token": 32,
+              "exact_text": "o erkânın bütün dal ve budakları",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S2Q9-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S2Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 87,
+              "end_token": 105,
+              "exact_text": "o erkânın tâ en ince teferruatı ve en küçük âdâbı ve en uzak gayatı ve en derin hikemiyatı",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S3Q1-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S3Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 145,
+              "end_token": 156,
+              "exact_text": "kemal-i intizamı ve muvazeneti ve hüsn-ü tenasübü ve resaneti",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S3Q10-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S3Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 175,
+              "end_token": 180,
+              "exact_text": "beşerin ilm-i cüz'îsine",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S3Q2-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S3Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 39,
+              "end_token": 63,
+              "exact_text": "o kadar bir tenasüb gözetilerek tasvir eder ve o derece bir muvazenet suretinde tarif eder ve o mertebe bir tenasüb tarzında izhar eder ki",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S3Q3-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S3Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 48,
+              "end_token": 60,
+              "exact_text": "Hudud-u kibriyası, gayr-ı mütenahî feza-yı ıtlakta yayılıp ihata ediyor",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S3Q9-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S3Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 186,
+              "end_token": 210,
+              "exact_text": "Belki bir ilm-i muhite istinad ediyor ve cemi' eşyayı birden görebilir, ezel ebed ortasında bütün hakaikı bir anda müşahede eder bir Zâtın kelâmıdır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S4Q11-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S4Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 194,
+              "end_token": 210,
+              "exact_text": "cemi' eşyayı birden görebilir, ezel ebed ortasında bütün hakaikı bir anda müşahede eder bir Zâtın kelâmıdır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S4Q2-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S4Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 1,
+              "start_token": 27,
+              "end_token": 34,
+              "exact_text": "bir şecere-i tûbâ-i nur hükmünde",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 1,
+              "start_token": 38,
+              "end_token": 41,
+              "exact_text": "şecere-i nuraniyenin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 39,
+              "end_token": 63,
+              "exact_text": "o kadar bir tenasüb gözetilerek tasvir eder ve o derece bir muvazenet suretinde tarif eder ve o mertebe bir tenasüb tarzında izhar eder ki",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S4Q5-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S4Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 24,
+              "end_token": 27,
+              "exact_text": "birbirinin hükmünü bozmayacak",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S5Q4-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S5Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 145,
+              "end_token": 156,
+              "exact_text": "kemal-i intizamı ve muvazeneti ve hüsn-ü tenasübü ve resaneti",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S5Q5-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S5Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 39,
+              "end_token": 54,
+              "exact_text": "o kadar bir tenasüb gözetilerek tasvir eder ve o derece bir muvazenet suretinde tarif eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S5Q6-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S5Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 71,
+              "end_token": 77,
+              "exact_text": "Ne kadar doğru, ne kadar mutabık",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S6Q5-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S6Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 27,
+              "end_token": 32,
+              "exact_text": "birbirinden tevahhuş etmeyecek bir surette",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S6Q6-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S6Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 71,
+              "end_token": 83,
+              "exact_text": "Ne kadar doğru, ne kadar mutabık, ne kadar güzel, ne kadar lâyık",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p05-11-sinif-S6Q7-v1",
+      "card_ref": {
+        "book_slug": "13-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p05",
+        "question_id": "S6Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 39,
+              "end_token": 46,
+              "exact_text": "o kadar bir tenasüb gözetilerek tasvir eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

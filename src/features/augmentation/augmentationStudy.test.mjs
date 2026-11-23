@@ -11,7 +11,10 @@ const project = {
   homeBookSlug: "book-a",
   title: "P07 + P08",
   sourceText: "P07 · First part\n\nFirst source text.\n\n---\n\nP08 · Second part\n\nSecond source text.",
-  orderedParts: [{ bookSlug: "book-a", bookTitle: "Book A", partNo: "p07" }],
+  orderedParts: [
+    { bookSlug: "book-a", bookTitle: "Book A", partNo: "p07" },
+    { bookSlug: "book-a", bookTitle: "Book A", partNo: "p08" }
+  ],
   gradeResults: {
     "5-sinif": {
       status: "ready",
@@ -46,6 +49,22 @@ test("saved augmented questions become the existing study deck shape", () => {
   assert.equal(selection.deck.cardCount, 1);
   assert.equal(selection.deck.sourceTextUrl, "");
   assert.equal(selection.deck.sourceText, project.sourceText);
+  assert.deepEqual(selection.deck.data.evidenceSources, [
+    {
+      bookSlug: "book-a",
+      gradeSlug: "5-sinif",
+      partNo: "p07",
+      evidenceUrl: "/assets/book-a/question-bank/5-sinif/p07.evidence.json",
+      paragraphOffset: 1
+    },
+    {
+      bookSlug: "book-a",
+      gradeSlug: "5-sinif",
+      partNo: "p08",
+      evidenceUrl: "/assets/book-a/question-bank/5-sinif/p08.evidence.json",
+      paragraphOffset: 4
+    }
+  ]);
   assert.deepEqual(selection.deck.data.sets[0].questions[0], {
     id: "book-a:p07:5-sinif:S1Q1",
     setNumber: 1,

@@ -1,0 +1,520 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "18-soz",
+  "part_no": "p02",
+  "source_text_url": "/assets/18-soz/parcalar/18-soz-p02-ikinci-nokta-her-seyde-hakiki-husun-ve-perde-arkasindaki-hikmet.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q11-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 127,
+              "end_token": 138,
+              "exact_text": "eşyanın insana aid gayesi bir ise, Sâni'inin esmasına aid binlerdir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q16-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q16"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 5,
+              "end_token": 17,
+              "exact_text": "Kur'an-ı Hakîm'in bazı tabiratı bu yüzler ve perdelere göredir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q3-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 14,
+              "end_token": 24,
+              "exact_text": "her hâdise ya bizzât güzeldir, ona hüsn-ü bizzât denilir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q1-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q1"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 1,
+              "end_token": 11,
+              "exact_text": "hattâ en çirkin görünen şeylerde, hakikî bir hüsün ciheti vardır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q11-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 17,
+              "end_token": 23,
+              "exact_text": "onlar, otların ve ağaçların mücehhez kahramanlarıdırlar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q16-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q16"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 52,
+              "end_token": 66,
+              "exact_text": "pek çok zahirî intizamsızlıklar ve karışıklıklar var ki, pek muntazam bir kitabet-i kudsiyedir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 95,
+              "end_token": 103,
+              "exact_text": "umum inkılablar ve küllî tahavvüller, birer manevî yağmurdur",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S3Q14-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 76,
+              "end_token": 82,
+              "exact_text": "herşeyi kendine bakan yüzüyle muhakeme ettiğinden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 27,
+              "end_token": 39,
+              "exact_text": "gayet güzel ve hikmetli san'at ve hilkatine bakan güzel yüzler var",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S3Q6-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 44,
+              "end_token": 64,
+              "exact_text": "nâzenin hayvancıkları vazife-i hayattan terhis etmekle beraber, o kış perdesi altında nâzenin taze güzel bir bahara yer ihzar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S3Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 104,
+              "end_token": 114,
+              "exact_text": "insan, hem zahirperest, hem hodgâm olduğundan zahire bakıp çirkinlikle hükmeder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S4Q14-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S4Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 125,
+              "end_token": 131,
+              "exact_text": "hikmet nazarıyla bakılsa ayn-ı edebdir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S5Q12-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S5Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 42,
+              "end_token": 67,
+              "exact_text": "Kar'ı, pek bâridane ve tatsız telakki ederler. Halbuki o bârid, tatsız perdesi altında o kadar hararetli gayeler ve öyle şeker gibi tatlı neticeler vardır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S5Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S5Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 24,
+              "end_token": 28,
+              "exact_text": "Veya neticeleri cihetiyle güzeldir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S5Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S5Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S5Q7-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S5Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 78,
+              "end_token": 94,
+              "exact_text": "Tohumlar gibi neşv ü nemasız kalan birçok istidad çekirdekleri, zahirî çirkin görünen hâdiseler yüzünden sünbüllenip güzelleşir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S6Q12-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S6Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 56,
+              "end_token": 67,
+              "exact_text": "o kadar hararetli gayeler ve öyle şeker gibi tatlı neticeler vardır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S6Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S6Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 24,
+              "end_token": 28,
+              "exact_text": "Veya neticeleri cihetiyle güzeldir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-2-sinif-S6Q7-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "2-sinif",
+        "part_no": "p02",
+        "question_id": "S6Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 78,
+              "end_token": 94,
+              "exact_text": "Tohumlar gibi neşv ü nemasız kalan birçok istidad çekirdekleri, zahirî çirkin görünen hâdiseler yüzünden sünbüllenip güzelleşir",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 5,
+              "start_token": 95,
+              "end_token": 103,
+              "exact_text": "umum inkılablar ve küllî tahavvüller, birer manevî yağmurdur",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

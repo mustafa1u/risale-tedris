@@ -106,6 +106,43 @@ export function findEvidenceForStudyCard({ manifest, deck, card }) {
   }) ?? null;
 }
 
+export function createAugmentedEvidenceManifest({ deck, sources, manifests }) {
+  if (!deck || !Array.isArray(sources) || !Array.isArray(manifests)) return null;
+
+  const annotations = sources.flatMap((source, index) => {
+    const manifest = manifests[index];
+    if (!Number.isInteger(source?.paragraphOffset) || !Array.isArray(manifest?.annotations)) {
+      return [];
+    }
+
+    return manifest.annotations
+      .filter((annotation) => {
+        const reference = annotation?.card_ref;
+        return reference?.book_slug === source.bookSlug
+          && reference?.grade_slug === source.gradeSlug
+          && reference?.part_no === source.partNo;
+      })
+      .map((annotation) => ({
+        ...annotation,
+        card_ref: {
+          book_slug: deck.bookSlug,
+          grade_slug: deck.gradeSlug,
+          part_no: deck.partNo,
+          question_id: `${source.bookSlug}:${source.partNo}:${source.gradeSlug}:${annotation.card_ref.question_id}`
+        },
+        evidence_sets: (annotation.evidence_sets ?? []).map((set) => ({
+          ...set,
+          fragments: (set?.fragments ?? []).map((fragment) => ({
+            ...fragment,
+            paragraph_index: Number(fragment?.paragraph_index) + source.paragraphOffset
+          }))
+        }))
+      }));
+  });
+
+  return annotations.length ? { annotations } : null;
+}
+
 export function evidenceRangesForParagraph({ paragraph, fragments }) {
   const tokens = [...String(paragraph ?? "").matchAll(evidenceTokenPattern)];
   const ranges = [];
@@ -609,6 +646,23 @@ function initRoot(root) {
       .catch(() => { evidenceManifest = null; });
   };
 
+  const loadAugmentedEvidenceManifests = (deck) => {
+    const sources = Array.isArray(deck?.evidenceSources) ? deck.evidenceSources : [];
+    evidenceManifest = null;
+    if (!sources.length) return;
+
+    Promise.all(sources.map((source) => fetch(source.evidenceUrl)
+      .then((response) => {
+        if (!response.ok) throw new Error(`Evidence manifest request failed: ${response.status}`);
+        return response.json();
+      })
+      .catch(() => null)))
+      .then((manifests) => {
+        evidenceManifest = createAugmentedEvidenceManifest({ deck, sources, manifests });
+        renderCurrentSourceText();
+      });
+  };
+
   const loadDeck = () => {
     if (!deckUrl) {
       showLoadError();
@@ -636,6 +690,7 @@ function initRoot(root) {
         }
         applyResolvedSelection(resolvedSelection);
         applyDeckData(resolvedSelection.deck.data);
+        loadAugmentedEvidenceManifests(resolvedSelection.deck.data);
       })
       .catch(showLoadError)
       .finally(() => storage.close());

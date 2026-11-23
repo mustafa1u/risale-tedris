@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "18-soz",
+  "part_no": "p03",
+  "source_text_url": "/assets/18-soz/parcalar/18-soz-p03-ucuncu-nokta-kainattaki-husn-u-sanattan-risalet-i-ahmediyenin-luzumu.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S1Q5-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 148,
+              "end_token": 165,
+              "exact_text": "küllî şuurunu ve âmm nazarını tamamen Sâni'in perestişliğine ve san'atının istihsanına ve nimetinin şükrüne sarfeden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S1Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S1Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 16,
+              "end_token": 31,
+              "exact_text": "o Sâni' ile münasebettar ve onun nazarında ne kadar mahbub ve makbul olduğu bilbedahe anlaşılır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S2Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S2Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 1,
+              "end_token": 14,
+              "exact_text": "o Sâni'in bütün makasıd-ı san'atperveranesine hizmet eden o daire reisinin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S3Q10-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 7,
+              "end_token": 25,
+              "exact_text": "Şu güzel masnuatın bu derece san'atperver, hattâ ağzın her çeşit tadını nazara alan in'amperver san'atkârı",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 48,
+              "end_token": 61,
+              "exact_text": "perestişkârane ona müteveccih olan en güzel masnuuna karşı lâkayd kalsın ve onunla konuşmasın",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S3Q5-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q5"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 97,
+              "end_token": 105,
+              "exact_text": "insana daha ziyade müteveccih olup temerküz etmek ister",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S3Q6-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S3Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 131,
+              "end_token": 147,
+              "exact_text": "Nazarı âmm ve şuuru küllî zât ise, o San'atkâr-ı Zülcemal'e muhatab olup görüşen",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S4Q10-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S4Q10"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 1,
+              "end_token": 29,
+              "exact_text": "o Sâni'in bütün makasıd-ı san'atperveranesine hizmet eden o daire reisinin ne derece o Sâni' ile münasebettar ve onun nazarında ne kadar mahbub ve makbul olduğu",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S4Q6-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S4Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 3,
+              "start_token": 148,
+              "end_token": 165,
+              "exact_text": "küllî şuurunu ve âmm nazarını tamamen Sâni'in perestişliğine ve san'atının istihsanına ve nimetinin şükrüne sarfeden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S5Q6-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S5Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 6,
+              "end_token": 23,
+              "exact_text": "Biri: Gayet muhteşem, muntazam bir daire-i rububiyet ve gayet musanna', murassa' bir levha-i san'at",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 23,
+              "end_token": 31,
+              "exact_text": "Diğeri: Gayet münevver, müzehher bir daire-i ubudiyet",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S6Q11-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S6Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 59,
+              "end_token": 73,
+              "exact_text": "onunla konuşmasın ve alâkadarane onu resul yapıp, güzel vaziyetinin başkalara da sirayet etmesini istemesin",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p03-11-sinif-S6Q7-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "11-sinif",
+        "part_no": "p03",
+        "question_id": "S6Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 24,
+              "end_token": 46,
+              "exact_text": "Gayet münevver, müzehher bir daire-i ubudiyet ve gayet vâsi', câmi' bir levha-i tefekkür ve istihsan ve teşekkür ve iman vardır",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

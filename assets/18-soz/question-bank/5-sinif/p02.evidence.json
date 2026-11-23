@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "18-soz",
+  "part_no": "p02",
+  "source_text_url": "/assets/18-soz/parcalar/18-soz-p02-ikinci-nokta-her-seyde-hakiki-husun-ve-perde-arkasindaki-hikmet.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p02-5-sinif-S1Q6-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 32,
+              "end_token": 64,
+              "exact_text": "kış hâdiselerinin tazyikinden ve tazibinden muhafaza etmek için nazdar çiçeklerin dostları olan nâzenin hayvancıkları vazife-i hayattan terhis etmekle beraber, o kış perdesi altında nâzenin taze güzel bir bahara yer ihzar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-5-sinif-S2Q16-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q16"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 17,
+              "end_token": 39,
+              "exact_text": "Nasılki bize görünen çirkin mahlukların ve hâdiselerin zahirî yüzleri altında gayet güzel ve hikmetli san'at ve hilkatine bakan güzel yüzler var",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-5-sinif-S3Q14-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 113,
+              "end_token": 122,
+              "exact_text": "hilkate, san'ata ve gayat-ı fıtrata bakan yüzler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-5-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-5-sinif-S4Q14-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p02",
+        "question_id": "S4Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 27,
+              "end_token": 43,
+              "exact_text": "gayet güzel ve hikmetli san'at ve hilkatine bakan güzel yüzler var ki, Sâni'ine bakar",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-5-sinif-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p02",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-5-sinif-S5Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p02",
+        "question_id": "S5Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-5-sinif-S6Q12-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p02",
+        "question_id": "S6Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 51,
+              "end_token": 60,
+              "exact_text": "o bârid, tatsız perdesi altında o kadar hararetli gayeler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-5-sinif-S6Q7-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "5-sinif",
+        "part_no": "p02",
+        "question_id": "S6Q7"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 87,
+              "end_token": 92,
+              "exact_text": "zahirî çirkin görünen hâdiseler yüzünden",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

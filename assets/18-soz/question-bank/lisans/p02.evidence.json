@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "18-soz",
+  "part_no": "p02",
+  "source_text_url": "/assets/18-soz/parcalar/18-soz-p02-ikinci-nokta-her-seyde-hakiki-husun-ve-perde-arkasindaki-hikmet.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p02-lisans-S1Q3-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S1Q3"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 44,
+              "end_token": 53,
+              "exact_text": "zahirî perde altında gayet parlak güzellikler ve intizamlar var",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-lisans-S2Q11-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S2Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 33,
+              "end_token": 41,
+              "exact_text": "serçe kuşunun istidadı, o taslit ile inkişaf eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-lisans-S2Q6-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S2Q6"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 52,
+              "end_token": 64,
+              "exact_text": "o kış perdesi altında nâzenin taze güzel bir bahara yer ihzar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-lisans-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-lisans-S3Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S3Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 127,
+              "end_token": 138,
+              "exact_text": "eşyanın insana aid gayesi bir ise, Sâni'inin esmasına aid binlerdir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-lisans-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-lisans-S4Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S4Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 127,
+              "end_token": 138,
+              "exact_text": "eşyanın insana aid gayesi bir ise, Sâni'inin esmasına aid binlerdir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-lisans-S5Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S5Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 17,
+              "end_token": 19,
+              "exact_text": "bizzât güzeldir",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 25,
+              "end_token": 28,
+              "exact_text": "neticeleri cihetiyle güzeldir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-lisans-S5Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S5Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-lisans-S5Q9-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S5Q9"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 127,
+              "end_token": 138,
+              "exact_text": "eşyanın insana aid gayesi bir ise, Sâni'inin esmasına aid binlerdir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-lisans-S6Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "lisans",
+        "part_no": "p02",
+        "question_id": "S6Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 16,
+              "end_token": 19,
+              "exact_text": "ya bizzât güzeldir",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 24,
+              "end_token": 28,
+              "exact_text": "Veya neticeleri cihetiyle güzeldir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "kind": "answer_evidence_manifest",
+  "book_slug": "18-soz",
+  "part_no": "p02",
+  "source_text_url": "/assets/18-soz/parcalar/18-soz-p02-ikinci-nokta-her-seyde-hakiki-husun-ve-perde-arkasindaki-hikmet.txt",
+  "annotations": [
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S1Q11-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q11"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 24,
+              "end_token": 28,
+              "exact_text": "Atmaca kuşu serçelere tasliti",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 33,
+              "end_token": 41,
+              "exact_text": "serçe kuşunun istidadı, o taslit ile inkişaf eder",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S1Q16-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S1Q16"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 60,
+              "end_token": 66,
+              "exact_text": "pek muntazam bir kitabet-i kudsiyedir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S2Q12-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S2Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 42,
+              "end_token": 68,
+              "exact_text": "Kar'ı, pek bâridane ve tatsız telakki ederler. Halbuki o bârid, tatsız perdesi altında o kadar hararetli gayeler ve öyle şeker gibi tatlı neticeler vardır ki",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S3Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S3Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S4Q14-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S4Q14"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 105,
+              "end_token": 122,
+              "exact_text": "şu perde-i hacalet, insana bakan yüzdedir. Yoksa hilkate, san'ata ve gayat-ı fıtrata bakan yüzler",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S4Q16-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S4Q16"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 7,
+              "start_token": 24,
+              "end_token": 39,
+              "exact_text": "zahirî yüzleri altında gayet güzel ve hikmetli san'at ve hilkatine bakan güzel yüzler var",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S4Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S4Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 56,
+              "end_token": 64,
+              "exact_text": "nâzenin taze güzel bir bahara yer ihzar etmektir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S5Q12-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S5Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 51,
+              "end_token": 68,
+              "exact_text": "o bârid, tatsız perdesi altında o kadar hararetli gayeler ve öyle şeker gibi tatlı neticeler vardır ki",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S5Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S5Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 24,
+              "end_token": 28,
+              "exact_text": "Veya neticeleri cihetiyle güzeldir",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 47,
+              "end_token": 53,
+              "exact_text": "gayet parlak güzellikler ve intizamlar var",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S5Q4-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S5Q4"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_alone",
+          "fragments": [
+            {
+              "paragraph_index": 5,
+              "start_token": 0,
+              "end_token": 16,
+              "exact_text": "Bahar mevsiminde fırtınalı yağmur, çamurlu toprak perdesi altında nihayetsiz güzel çiçek ve muntazam nebatatın tebessümleri saklanmış",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S6Q12-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S6Q12"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 6,
+              "start_token": 42,
+              "end_token": 56,
+              "exact_text": "Kar'ı, pek bâridane ve tatsız telakki ederler. Halbuki o bârid, tatsız perdesi altında",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 6,
+              "start_token": 61,
+              "end_token": 68,
+              "exact_text": "öyle şeker gibi tatlı neticeler vardır ki",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "annotation_id": "api-verified-p02-8-sinif-S6Q2-v1",
+      "card_ref": {
+        "book_slug": "18-soz",
+        "grade_slug": "8-sinif",
+        "part_no": "p02",
+        "question_id": "S6Q2"
+      },
+      "evidence_sets": [
+        {
+          "set_id": "api-verified",
+          "relationship": "sufficient_together",
+          "fragments": [
+            {
+              "paragraph_index": 4,
+              "start_token": 14,
+              "end_token": 19,
+              "exact_text": "her hâdise ya bizzât güzeldir",
+              "role": "direct_answer"
+            },
+            {
+              "paragraph_index": 4,
+              "start_token": 24,
+              "end_token": 28,
+              "exact_text": "Veya neticeleri cihetiyle güzeldir",
+              "role": "direct_answer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
