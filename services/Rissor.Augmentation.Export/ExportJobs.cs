@@ -78,7 +78,8 @@ public sealed class ExportJobStore
         if (_jobsByHash.TryGetValue(hash, out var existingId)
             && _jobs.TryGetValue(existingId, out var existing)
             && existing.ExpiresAt > DateTimeOffset.UtcNow
-            && existing.Status is not "failed" and not "cancelled" and not "expired")
+            && existing.Status is not "failed" and not "cancelled" and not "expired"
+            && (existing.Status != "ready" || HasAllArtifacts(existing)))
             return existing;
 
         var id = Guid.NewGuid().ToString("N");
@@ -99,6 +100,23 @@ public sealed class ExportJobStore
             throw;
         }
         return job;
+    }
+
+    private static bool HasAllArtifacts(ExportJob job)
+    {
+        lock (job.SyncRoot)
+        {
+            foreach (var grade in job.Request.GradeSlugs)
+                foreach (var type in new[] { "BK", "SK" })
+                    foreach (var format in new[] { "docx", "pdf", "mobile-pdf" })
+                    {
+                        var artifact = job.Artifacts.FirstOrDefault(item => item.GradeSlug == grade && item.DocumentType == type && item.Format == format);
+                        if (artifact == null) return false;
+                        var path = Path.GetFullPath(Path.Combine(job.DirectoryPath, artifact.Name));
+                        if (!path.StartsWith(job.DirectoryPath + Path.DirectorySeparatorChar, StringComparison.OrdinalIgnoreCase) || !File.Exists(path)) return false;
+                    }
+            return true;
+        }
     }
 
     public ExportJob? Get(string id) => _jobs.TryGetValue(id, out var job) ? job : null;

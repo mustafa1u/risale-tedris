@@ -43,6 +43,7 @@ import {
   DEFAULT_AUGMENTATION_EXPORT_API,
   findExportArtifact,
   getExportJob,
+  inspectExportArtifacts,
   pollExportJob,
   readCachedExportJob,
   resolveArtifactUrl,
@@ -521,20 +522,33 @@ export function PersonalAugmentationList({ bookSlug, locale = "tr", labels }) {
   );
 }
 
+function DocumentFormatControl({ available, label, actionLabel }) {
+  const [format, setFormat] = useState("");
+  const selected = available.find((item) => item.format === format && item.artifact) ?? available.find((item) => item.artifact);
+  return <div class="download-grid"><select aria-label={label} value={selected?.format ?? ""} onChange={(event) => setFormat(event.currentTarget.value)}>{available.map((item) => <option value={item.format} disabled={!item.artifact}>{item.text}</option>)}</select>{selected ? <a class="button-secondary" href={resolveArtifactUrl(selected.artifact, DEFAULT_AUGMENTATION_EXPORT_API)} download={selected.artifact.name}>{actionLabel}</a> : <span class="button-muted">{actionLabel}</span>}</div>;
+}
+
 export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gradeLabels = {} }) {
   const storage = useMemo(() => createAugmentationStorage(), []);
   const exportAbortRef = useRef(null);
   const autoPrepareRef = useRef(false);
+  const addGradesDialogRef = useRef(null);
+  const [visibleGrades, setVisibleGrades] = useState([]);
+  const [additionalGrades, setAdditionalGrades] = useState([]);
   const [project, setProject] = useState(null);
   const [status, setStatus] = useState("");
   const [title, setTitle] = useState("");
   const [exportJob, setExportJob] = useState(null);
   const [exportBusy, setExportBusy] = useState(false);
   const [exportStatus, setExportStatus] = useState("");
+  const [restoring, setRestoring] = useState(true);
+  const [fileCheck, setFileCheck] = useState(null);
+  const [fileCheckError, setFileCheckError] = useState("");
 
   const restoreCachedDocuments = async (loadedProject, { signal, isActive = () => true } = {}) => {
     const cached = readCachedExportJob(loadedProject);
     if (!cached) {
+      if (isActive()) setRestoring(false);
       return;
     }
 
@@ -577,10 +591,12 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
       clearRestoredJob();
     } catch (error) {
       if (error.name !== "AbortError") {
-        clearRestoredJob();
+        if (error.status === 404 || error.status === 410) clearRestoredJob();
+        else setFileCheckError(error.message || labels.exportServiceUnavailable);
       }
     } finally {
       if (isActive()) {
+        setRestoring(false);
         setExportBusy(false);
       }
     }
@@ -610,6 +626,11 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
         }
         autoPrepareRef.current = params.get("prepare") === "1";
         setProject(loaded);
+        const readyGrades = Object.keys(loaded.gradeResults ?? {}).filter((grade) => loaded.gradeResults[grade]?.status === "ready");
+        try {
+          const saved = JSON.parse(localStorage.getItem(`augmentation-visible-grades:${loaded.id}`) ?? "null");
+          setVisibleGrades(Array.isArray(saved) ? saved.filter((grade) => readyGrades.includes(grade)) : readyGrades);
+        } catch { setVisibleGrades(readyGrades); }
         setTitle(loaded.title);
         document.title = loaded.title;
         restoreCachedDocuments(loaded, {
@@ -663,6 +684,19 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
     };
   }, [bookSlug]);
 
+  useEffect(() => {
+    if (!project || restoring || exportBusy || fileCheckError) return;
+    const controller = new AbortController();
+    const grades = Object.keys(project.gradeResults ?? {}).filter((grade) => project.gradeResults[grade]?.status === "ready");
+    setFileCheck(null);
+    inspectExportArtifacts(exportJob, grades, { signal: controller.signal }).then((result) => {
+      if (!controller.signal.aborted) setFileCheck(result);
+    }).catch((error) => {
+      if (error.name !== "AbortError") setFileCheckError(error.message || labels.exportServiceUnavailable);
+    });
+    return () => controller.abort();
+  }, [project, exportJob, restoring, exportBusy]);
+
   const saveTitle = async () => {
     if (!project || !title.trim()) {
       return;
@@ -703,6 +737,7 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
     exportAbortRef.current = controller;
     setExportBusy(true);
     setExportJob(null);
+    setFileCheckError("");
     setExportStatus(labels.preparingDocuments);
     setStatus("");
     try {
@@ -748,17 +783,46 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
     prepareDocuments();
   }, [project]);
 
-  const documentAction = (gradeSlug, documentType, format, text) => {
-    const artifact = findExportArtifact(exportJob, gradeSlug, documentType, format);
-    return artifact ? (
-      <a
-        class="button-secondary"
-        href={resolveArtifactUrl(artifact, DEFAULT_AUGMENTATION_EXPORT_API)}
-        download={artifact.name}
-      >{text}</a>
-    ) : (
-      <button class="button-muted" type="button" disabled title={labels.exportUnavailable}>{text}</button>
-    );
+  const saveVisibleGrades = (grades) => {
+    setVisibleGrades(grades);
+    try { localStorage.setItem(`augmentation-visible-grades:${project.id}`, JSON.stringify(grades)); } catch { /* The current page remains usable. */ }
+  };
+
+  const addGrades = async () => {
+    if (!project || !additionalGrades.length || exportBusy) return;
+    const controller = new AbortController();
+    exportAbortRef.current = controller;
+    setExportBusy(true);
+    setExportStatus(labels.preparingDocuments);
+    try {
+      const catalog = await loadAugmentationCatalog({ signal: controller.signal });
+      const current = await refreshAugmentationProject({ project, catalog, signal: controller.signal });
+      const loaded = await loadRecipeSources({ catalog, orderedPartKeys: current.orderedParts.map((part) => part.key), gradeSlugs: additionalGrades, signal: controller.signal });
+      const extra = buildAugmentationProject({ id: current.id, title: current.title, catalogRevision: catalog.catalogRevision, basePart: current.orderedParts.find((part) => part.key === current.basePartKey), orderedParts: current.orderedParts, gradeSlugs: additionalGrades, ...loaded });
+      const failures = Object.values(extra.gradeResults).filter((result) => result.status !== "ready");
+      if (failures.length) throw new Error(failures.map((result) => `${result.gradeSlug}: ${result.error}`).join("; "));
+      const candidate = { ...current, selectedGrades: [...new Set([...current.selectedGrades, ...additionalGrades])], gradeResults: { ...current.gradeResults, ...extra.gradeResults } };
+      const created = await createExportJob(candidate, { signal: controller.signal });
+      const ready = await pollExportJob(created.id, { signal: controller.signal });
+      const saved = await storage.saveProject(candidate, { expectedRevision: project.revision });
+      setProject(saved);
+      setExportJob(ready);
+      writeCachedExportJob(saved, ready);
+      saveVisibleGrades([...new Set([...visibleGrades, ...additionalGrades])]);
+      setAdditionalGrades([]);
+      closeDialog(addGradesDialogRef.current);
+      setExportStatus(labels.exportsReady);
+    } catch (error) {
+      if (error.name !== "AbortError") setExportStatus(`${labels.exportFailed} ${error.code === "export-service-unavailable" ? labels.exportServiceUnavailable : error.message}`);
+    } finally {
+      if (exportAbortRef.current === controller) { exportAbortRef.current = null; setExportBusy(false); }
+    }
+  };
+
+  const documentAction = (gradeSlug, documentType) => {
+    const formats = [["docx", labels.word], ["pdf", labels.pdf], ["mobile-pdf", labels.mobilePdf]];
+    const available = formats.map(([format, text]) => ({ format, text, artifact: findExportArtifact({ artifacts: fileCheck?.artifacts }, gradeSlug, documentType, format) }));
+    return <DocumentFormatControl available={available} label={`${labels.format}: ${documentType === "BK" ? labels.flashcard : labels.questionSheet} (${gradeLabels[gradeSlug] ?? gradeSlug})`} actionLabel={labels.openDownload} />;
   };
 
   const canSaveTitle = Boolean(
@@ -809,7 +873,27 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
             <span>{exportStatus}</span>
           </p>
         ) : null}
-        {AUGMENTATION_GRADE_SLUGS.map((gradeSlug) => {
+        {fileCheckError ? <p role="alert">{fileCheckError}</p> : null}
+        {!fileCheck && !fileCheckError && !exportBusy ? <p role="status">{labels.checkingFiles}</p> : null}
+        {fileCheck && Object.values(fileCheck.statuses).some((status) => status !== "complete") ? <div class="missing-files-warning" role="status"><p>{labels.missingFilesWarning}</p><button class="button-secondary" type="button" onClick={prepareDocuments} disabled={exportBusy}>{labels.prepareMissingFiles}</button></div> : null}
+        <fieldset class="download-grade-filter">
+          <legend>{labels.gradeSelection}</legend>
+          {AUGMENTATION_GRADE_SLUGS.map((gradeSlug) => <label><input type="checkbox" disabled={project.gradeResults?.[gradeSlug]?.status !== "ready" || !fileCheck || fileCheck.statuses[gradeSlug] === "missing"} checked={visibleGrades.includes(gradeSlug)} onChange={(event) => saveVisibleGrades(event.currentTarget.checked ? [...visibleGrades, gradeSlug] : visibleGrades.filter((grade) => grade !== gradeSlug))} /> {gradeLabels[gradeSlug] ?? gradeSlug}</label>)}
+        </fieldset>
+        {AUGMENTATION_GRADE_SLUGS.some((grade) => project.gradeResults?.[grade]?.status !== "ready") ? <button class="button-secondary" type="button" onClick={() => { setAdditionalGrades([]); showDialog(addGradesDialogRef.current); }} disabled={exportBusy}>{labels.addGrades}</button> : null}
+        <dialog class="augmentation-dialog" ref={addGradesDialogRef} aria-labelledby="add-grades-title">
+          <div class="augmentation-dialog__panel">
+            <h2 id="add-grades-title">{labels.addGrades}</h2>
+            <p>{labels.addGradesHelp}</p>
+            <fieldset class="augmentation-grades">
+              <legend>{labels.gradeSelection}</legend>
+              {AUGMENTATION_GRADE_SLUGS.filter((grade) => project.gradeResults?.[grade]?.status !== "ready").map((grade) => <label><input type="checkbox" checked={additionalGrades.includes(grade)} onChange={(event) => setAdditionalGrades(event.currentTarget.checked ? [...additionalGrades, grade] : additionalGrades.filter((item) => item !== grade))} /> {gradeLabels[grade] ?? grade}</label>)}
+            </fieldset>
+            {exportStatus ? <p role="status">{exportStatus}</p> : null}
+            <footer class="augmentation-dialog__actions"><button class="button-secondary" type="button" onClick={() => closeDialog(addGradesDialogRef.current)} disabled={exportBusy}>{labels.cancel}</button><button class="button" type="button" onClick={addGrades} disabled={exportBusy || !additionalGrades.length}>{labels.prepareGrades}</button></footer>
+          </div>
+        </dialog>
+        {AUGMENTATION_GRADE_SLUGS.filter((grade) => visibleGrades.includes(grade) && project.gradeResults?.[grade]?.status === "ready" && fileCheck && fileCheck.statuses[grade] !== "missing").map((gradeSlug) => {
           const result = project.gradeResults?.[gradeSlug];
           return (
             <details class="download-group">
@@ -824,19 +908,11 @@ export function PersonalAugmentationDetail({ bookSlug, locale = "tr", labels, gr
                     <section class="download-material">
                       <header class="download-material__head"><div class="part-row__meta">{labels.flashcard}</div></header>
                       <div class="download-study-action"><a class="button" href={localStudyPath(project.id, gradeSlug, locale)}>{labels.study}</a></div>
-                      <div class="download-grid">
-                        {documentAction(gradeSlug, "BK", "docx", labels.word)}
-                        {documentAction(gradeSlug, "BK", "pdf", labels.pdf)}
-                        {documentAction(gradeSlug, "BK", "mobile-pdf", labels.mobilePdf)}
-                      </div>
+                      {documentAction(gradeSlug, "BK")}
                     </section>
                     <section class="download-material">
                       <header class="download-material__head"><div class="part-row__meta">{labels.questionSheet}</div></header>
-                      <div class="download-grid">
-                        {documentAction(gradeSlug, "SK", "docx", labels.word)}
-                        {documentAction(gradeSlug, "SK", "pdf", labels.pdf)}
-                        {documentAction(gradeSlug, "SK", "mobile-pdf", labels.mobilePdf)}
-                      </div>
+                      {documentAction(gradeSlug, "SK")}
                     </section>
                   </>
                 ) : result?.status === "failed" ? (

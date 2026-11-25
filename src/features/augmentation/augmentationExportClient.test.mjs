@@ -207,3 +207,33 @@ test("artifact helpers select an exact document and preserve the worker origin",
     "https://worker.example/api/augmentation/exports/1/b.pdf"
   );
 });
+
+// A ready job can outlive some or all of its artifact files.
+test("checks every expected file and distinguishes complete, partial and missing grades", async () => {
+  const { inspectExportArtifacts } = await import("./augmentationExportClient.js");
+  const artifacts = ["5-sinif", "11-sinif"].flatMap((gradeSlug) => ["BK", "SK"].flatMap((documentType) => ["docx", "pdf", "mobile-pdf"].map((format) => ({ gradeSlug, documentType, format, url: `/${gradeSlug}/${documentType}/${format}` }))));
+  const checked = [];
+  const result = await inspectExportArtifacts({ status: "ready", artifacts }, ["5-sinif", "11-sinif"], {
+    baseUrl: "https://worker.example/api/augmentation",
+    fetch: async (url, options) => { checked.push({url, options}); return { status: url.includes("11-sinif") || url.endsWith("BK/docx") ? 404 : 206, ok: !url.includes("11-sinif") && !url.endsWith("BK/docx"), body: { cancel: async () => {} } }; }
+  });
+  assert.deepEqual(result.statuses, { "5-sinif": "partial", "11-sinif": "missing" });
+  assert.equal(result.artifacts.length, 5);
+  assert.equal(checked.length, 12);
+  assert.equal(checked[0].options.headers.Range, "bytes=0-0");
+});
+
+test("treats absent records and empty or expired jobs as missing without file requests", async () => {
+  const { inspectExportArtifacts } = await import("./augmentationExportClient.js");
+  assert.deepEqual((await inspectExportArtifacts(null, ["5-sinif"], { fetch: () => { throw Error("unexpected request"); } })).statuses, { "5-sinif": "missing" });
+  const job = { status: "ready", artifacts: [{ gradeSlug: "5-sinif", documentType: "BK", format: "docx", url: "/file" }] };
+  assert.deepEqual((await inspectExportArtifacts(job, ["5-sinif"], { fetch: async () => ({ ok: true }) })).statuses, { "5-sinif": "partial" });
+});
+
+test("complete files are available and network failures remain unknown", async () => {
+  const { inspectExportArtifacts } = await import("./augmentationExportClient.js");
+  const artifacts = ["BK", "SK"].flatMap((documentType) => ["docx", "pdf", "mobile-pdf"].map((format) => ({ gradeSlug: "5-sinif", documentType, format, url: `/${documentType}/${format}` })));
+  assert.deepEqual((await inspectExportArtifacts({ status: "ready", artifacts }, ["5-sinif"], { fetch: async () => ({ ok: true }) })).statuses, { "5-sinif": "complete" });
+  await assert.rejects(inspectExportArtifacts({ status: "ready", artifacts }, ["5-sinif"], { fetch: async () => { throw new TypeError("offline"); } }), /unavailable/i);
+  await assert.rejects(inspectExportArtifacts({ status: "ready", artifacts }, ["5-sinif"], { fetch: async () => ({ ok: false, status: 503 }) }), /503/);
+});

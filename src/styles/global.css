@@ -2814,6 +2814,21 @@ h3 {
   overflow-wrap: anywhere;
 }
 
+.download-grade-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  margin: 12px 0;
+  padding: 0;
+  border: 0;
+}
+
+.download-grade-filter legend { font-weight: 700; margin-bottom: 8px; }
+.download-grade-filter label { display: inline-flex; align-items: center; gap: 5px; }
+.download-grade-filter label:has(input:disabled) { color: var(--text-muted); cursor: not-allowed; }
+.download-grade-filter input:disabled { opacity: 0.6; cursor: not-allowed; }
+.download-group[hidden] { display: none; }
+
 .download-group {
   display: grid;
   gap: 10px;
@@ -2901,9 +2916,11 @@ h3 {
 
 .download-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 130px) max-content;
   gap: 8px;
 }
+
+.download-grid select { min-width: 0; padding: 8px; }
 
 .download-grid a,
 .download-grid span {
@@ -3848,10 +3865,6 @@ h3 {
 
   .part-quick-nav__step-text {
     display: none;
-  }
-
-  .download-grid {
-    grid-template-columns: 1fr;
   }
 
   .part-step-nav {

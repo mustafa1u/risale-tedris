@@ -186,13 +186,20 @@ const augmentationGradeLabels = Object.fromEntries(
             <div class="download-panel__content">
               <p class="download-panel__note">{text.downloads.mixedAgeGuidance}</p>
               <p class="download-panel__note">{text.downloads.questionSheetNote}</p>
+              <fieldset class="download-grade-filter">
+                <legend>{text.downloads.selectGrades}</legend>
+                {downloadGroups.map((group) => {
+                  const grade = book.grades.find((item) => item.slug === group.gradeSlug);
+                  return <label><input type="checkbox" value={group.gradeSlug} data-grade-filter /> {getGradeShortLabel(locale, group.gradeSlug, grade?.label)}</label>;
+                })}
+              </fieldset>
           {downloadGroups.map((group) => {
             const gradeSlug = group.gradeSlug;
             const grade = book.grades.find((item) => item.slug === gradeSlug);
             const gradeLabel = getGradeShortLabel(locale, gradeSlug, grade?.label);
 
             return (
-              <details class="download-group">
+              <details class="download-group" data-grade-group={gradeSlug} hidden>
                 <summary
                   class="download-group__summary"
                   aria-label={text.downloads.openGrade({ gradeLabel })}
@@ -217,19 +224,16 @@ const augmentationGradeLabels = Object.fromEntries(
                         </div>
                       ) : null}
 
-                      <div class="download-grid">
-                        {downloadActionKeys.map((actionKey) => {
-                          const label = downloadActionLabels[actionKey];
-                          const action = material.actions[actionKey];
-
-                          return action.available ? (
-                            <a class="button-secondary" href={action.href} download>
-                              {label}
-                            </a>
-                          ) : (
-                            <span class="button-muted">{label}</span>
-                          );
-                        })}
+                      <div class="download-grid" data-download-control>
+                        <select aria-label={`${text.downloads.format}: ${text.downloads.variants[material.docType]} (${gradeLabel})`} data-download-select>
+                          {downloadActionKeys.map((actionKey) => {
+                            const action = material.actions[actionKey];
+                            return <option value={action.href ?? ""} disabled={!action.available}>{downloadActionLabels[actionKey]}</option>;
+                          })}
+                        </select>
+                        {downloadActionKeys.some((key) => material.actions[key].available) ? (
+                          <a class="button-secondary" href={downloadActionKeys.map((key) => material.actions[key]).find((action) => action.available)?.href} download data-download-link>{text.downloads.openDownload}</a>
+                        ) : <span class="button-muted">{text.downloads.openDownload}</span>}
                       </div>
                     </section>
                   ))}
@@ -245,6 +249,30 @@ const augmentationGradeLabels = Object.fromEntries(
   </section>
 
   <script>
+    const gradeStorageKey = "part-selected-grade-ranges";
+    let selectedGrades: string[] = [];
+    try {
+      const saved = JSON.parse(localStorage.getItem(gradeStorageKey) ?? "[]");
+      if (Array.isArray(saved)) selectedGrades = saved.filter((value): value is string => typeof value === "string");
+    } catch { /* Storage may be unavailable or contain invalid data. */ }
+
+    document.querySelectorAll<HTMLInputElement>("[data-grade-filter]").forEach((checkbox) => {
+      checkbox.checked = selectedGrades.includes(checkbox.value);
+      const group = document.querySelector<HTMLElement>(`[data-grade-group="${checkbox.value}"]`);
+      if (group) group.hidden = !checkbox.checked;
+      checkbox.addEventListener("change", () => {
+        selectedGrades = checkbox.checked
+          ? [...new Set([...selectedGrades, checkbox.value])]
+          : selectedGrades.filter((value) => value !== checkbox.value);
+        if (group) group.hidden = !checkbox.checked;
+        try { localStorage.setItem(gradeStorageKey, JSON.stringify(selectedGrades)); } catch { /* Keep the current page usable. */ }
+      });
+    });
+    document.querySelectorAll<HTMLElement>("[data-download-control]").forEach((control) => {
+      const select = control.querySelector<HTMLSelectElement>("[data-download-select]");
+      const link = control.querySelector<HTMLAnchorElement>("[data-download-link]");
+      select?.addEventListener("change", () => { if (link && select.value) link.href = select.value; });
+    });
     if (window.matchMedia("(max-width: 860px)").matches) {
       document.querySelectorAll(".download-panel__disclosure")
         .forEach((panel) => panel.removeAttribute("open"));

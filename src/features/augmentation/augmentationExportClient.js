@@ -173,7 +173,9 @@ export async function getExportJob(jobId, {
   );
   const payload = await readPayload(response);
   if (!response.ok) {
-    throw new Error(errorMessage(payload, response.status));
+    const error = new Error(errorMessage(payload, response.status));
+    error.status = response.status;
+    throw error;
   }
   return payload;
 }
@@ -222,4 +224,30 @@ export function resolveArtifactUrl(artifact, baseUrl = DEFAULT_AUGMENTATION_EXPO
   }
   const origin = globalThis.location?.origin;
   return origin ? new URL(artifact.url, origin).toString() : artifact.url;
+}
+
+// Verify the files, not just the worker's cached manifest. A byte-range GET avoids
+// downloading documents and works with servers that do not expose HEAD.
+export async function inspectExportArtifacts(job, gradeSlugs, {
+  fetch = globalThis.fetch, baseUrl = DEFAULT_AUGMENTATION_EXPORT_API, signal
+} = {}) {
+  const checked = await Promise.all(gradeSlugs.flatMap((gradeSlug) =>
+    ["BK", "SK"].flatMap((documentType) => ["docx", "pdf", "mobile-pdf"].map(async (format) => {
+      const artifact = job?.status === "ready" ? findExportArtifact(job, gradeSlug, documentType, format) : null;
+      const url = resolveArtifactUrl(artifact, baseUrl);
+      if (!url) return { gradeSlug, artifact: null };
+      const response = await requestExport(fetch, url, { headers: { Range: "bytes=0-0" }, cache: "no-store", signal });
+      if (response.body?.cancel) await response.body.cancel();
+      if (response.status === 404 || response.status === 410) return { gradeSlug, artifact: null };
+      if (!response.ok) throw new Error(`Document availability check failed: ${response.status}`);
+      return { gradeSlug, artifact };
+    }))
+  ));
+  return {
+    statuses: Object.fromEntries(gradeSlugs.map((grade) => {
+      const count = checked.filter((item) => item.gradeSlug === grade && item.artifact).length;
+      return [grade, count === 0 ? "missing" : count === 6 ? "complete" : "partial"];
+    })),
+    artifacts: checked.map((item) => item.artifact).filter(Boolean)
+  };
 }

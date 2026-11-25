@@ -26,6 +26,7 @@ var tests = new (string Name, Func<Task> Run)[]
     ("export titles include their school grade", GradeDocumentTitle),
     ("stale catalog revisions are rejected", StaleRevision),
     ("job creation is idempotent and cancellation is terminal", JobLifecycle),
+    ("missing artifacts trigger a fresh export", MissingArtifacts),
     ("expired jobs and files are cleaned", ExpiryCleanup),
     ("orphaned restart files are cleaned", RestartCleanup)
 };
@@ -135,6 +136,26 @@ async Task JobLifecycle()
     Assert(store.Cancel(first.Id), "Queued job could not be cancelled.");
     Assert(first.Snapshot().Status == "cancelled", "Cancellation was not recorded.");
     Assert(!store.Cancel(first.Id), "A terminal job was cancelled twice.");
+}
+
+async Task MissingArtifacts()
+{
+    var store = new ExportJobStore(configuration, environment);
+    var request = (await ValidRequest()) with { ProjectId = "missing-artifacts" };
+    var job = await store.CreateAsync(request, CancellationToken.None);
+    Directory.CreateDirectory(job.DirectoryPath);
+    foreach (var grade in request.GradeSlugs)
+        foreach (var type in new[] { "BK", "SK" })
+            foreach (var format in new[] { "docx", "pdf", "mobile-pdf" })
+            {
+                var name = $"{grade}-{type}-{format}";
+                await File.WriteAllTextAsync(Path.Combine(job.DirectoryPath, name), "test");
+                job.Artifacts.Add(new ExportArtifact(name, grade, type, format, 4, "/file"));
+            }
+    job.Status = "ready";
+    Assert((await store.CreateAsync(request, CancellationToken.None)).Id == job.Id, "Complete jobs should be reused.");
+    File.Delete(Path.Combine(job.DirectoryPath, job.Artifacts[0].Name));
+    Assert((await store.CreateAsync(request, CancellationToken.None)).Id != job.Id, "A job with a missing file was reused.");
 }
 
 async Task ExpiryCleanup()

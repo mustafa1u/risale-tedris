@@ -301,6 +301,9 @@ type UiDictionary = {
     heading: string;
     mixedAgeGuidance: string;
     questionSheetNote: string;
+    selectGrades: string;
+    format: string;
+    openDownload: string;
     variants: {
       BK: string;
       SK: string;
@@ -401,6 +404,15 @@ type UiDictionary = {
     exportServiceUnavailable: string;
     retryExport: string;
     downloadsHeading: string;
+    addGrades: string;
+    addGradesHelp: string;
+    prepareGrades: string;
+    missingFilesWarning: string;
+    prepareMissingFiles: string;
+    checkingFiles: string;
+    gradeSelection: string;
+    format: string;
+    openDownload: string;
     flashcard: string;
     questionSheet: string;
     word: string;
@@ -885,6 +897,9 @@ export const ui = {
       mixedAgeGuidance:
         "Farklı yaşlardan talebeler aynı parçayı çalışabilir; her talebe kendi sınıf aralığına uygun bilgi kartı veya soru kağıdını kullanır.",
       questionSheetNote: "Her sınıf için soruları birbirinden farklı 6 adet soru kağıdı vardır.",
+      selectGrades: "Sınıf aralıklarını seçin",
+      format: "Dosya biçimi",
+      openDownload: "Aç / İndir",
       variants: {
         BK: "Bilgi Kartı",
         SK: "Soru Kağıdı"
@@ -986,6 +1001,15 @@ export const ui = {
       exportServiceUnavailable: "Belge üretim hizmetine ulaşılamıyor. Geliştirme sunucusunu yeniden başlatıp tekrar deneyin.",
       retryExport: "Belgeleri Yeniden Hazırla",
       downloadsHeading: "Soru Kağıtları ve Bilgi Kartları",
+      addGrades: "Diğer sınıfları ekle",
+      addGradesHelp: "Hazırlamak istediğiniz sınıf aralıklarını seçin.",
+      prepareGrades: "Soruları Hazırla",
+      missingFilesWarning: "Bazı dosyalar silinmiş. Tekrar hazırlamak istiyorsanız Eksik dosyaları hazırla tuşuna basın.",
+      prepareMissingFiles: "Eksik dosyaları hazırla",
+      checkingFiles: "Dosyalar kontrol ediliyor...",
+      gradeSelection: "Sınıf aralıklarını seçin",
+      format: "Dosya biçimi",
+      openDownload: "Aç / İndir",
       flashcard: "Bilgi Kartı",
       questionSheet: "Soru Kağıdı",
       word: "Word",
@@ -1483,6 +1507,9 @@ export const ui = {
       mixedAgeGuidance:
         "Students from different ages can work on this same part; each student uses material suited to their own school grade range.",
       questionSheetNote: "Each school grade range has six distinct question sheets, each with different questions.",
+      selectGrades: "Select grade ranges",
+      format: "File format",
+      openDownload: "Open / Download",
       variants: {
         BK: "Flashcard",
         SK: "Question Sheet"
@@ -1583,6 +1610,15 @@ export const ui = {
       exportServiceUnavailable: "The document export service is unavailable. Restart the development server and try again.",
       retryExport: "Prepare Documents Again",
       downloadsHeading: "Question Sheets and Flashcards",
+      addGrades: "Add other grades",
+      addGradesHelp: "Select the grade ranges to prepare.",
+      prepareGrades: "Prepare questions",
+      missingFilesWarning: "Some files have been deleted. Select Prepare missing files to create them again.",
+      prepareMissingFiles: "Prepare missing files",
+      checkingFiles: "Checking files...",
+      gradeSelection: "Select grade ranges",
+      format: "File format",
+      openDownload: "Open / Download",
       flashcard: "Flashcard",
       questionSheet: "Question Sheet",
       word: "Word",
